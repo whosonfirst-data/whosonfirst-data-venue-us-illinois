@@ -2,13 +2,14 @@
   "id": 219566467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90255,41.572143,-87.90255,41.572143",
     "geom:latitude":41.572143,
     "geom:longitude":-87.90255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17445 Brookwood Ct",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219566467,
-    "wof:lastmodified":1449070442,
+    "wof:lastmodified":1466493949,
     "wof:name":"Mike & Linda Kane Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.90255,41.572143,-87.90255,41.572143],
-  "geometry": {"coordinates":[-87.90255,41.572143],"type":"Point"}
+  "bbox": [
+    -87.90255,
+    41.572143,
+    -87.90255,
+    41.572143
+],
+  "geometry": {"coordinates":[-87.90255000000001,41.572143],"type":"Point"}
 }

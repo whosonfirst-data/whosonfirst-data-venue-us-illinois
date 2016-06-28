@@ -2,13 +2,14 @@
   "id": 220158791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.805445,41.881375,-87.805445,41.881375",
     "geom:latitude":41.881375,
     "geom:longitude":-87.805445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Washington St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220158791,
-    "wof:lastmodified":1449074591,
+    "wof:lastmodified":1466490883,
     "wof:name":"Forest Park Amoco",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.805445,41.881375,-87.805445,41.881375],
-  "geometry": {"coordinates":[-87.805445,41.881375],"type":"Point"}
+  "bbox": [
+    -87.805445,
+    41.881375,
+    -87.805445,
+    41.881375
+],
+  "geometry": {"coordinates":[-87.80544500000001,41.881375],"type":"Point"}
 }

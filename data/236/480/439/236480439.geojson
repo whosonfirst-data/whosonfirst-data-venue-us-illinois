@@ -2,13 +2,14 @@
   "id": 236480439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694652,41.996442,-87.694652,41.996442",
     "geom:latitude":41.996442,
     "geom:longitude":-87.694652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6341 N Rockwell St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236480439,
-    "wof:lastmodified":1449002574,
+    "wof:lastmodified":1466495123,
     "wof:name":"Chicago Tourist Cab Co Inc",
     "wof:parent_id":85885333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-87.694652,41.996442,-87.694652,41.996442],
+  "bbox": [
+    -87.694652,
+    41.996442,
+    -87.694652,
+    41.996442
+],
   "geometry": {"coordinates":[-87.694652,41.996442],"type":"Point"}
 }

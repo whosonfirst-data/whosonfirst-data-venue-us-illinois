@@ -2,13 +2,14 @@
   "id": 253288533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07501,41.53513,-88.07501,41.53513",
     "geom:latitude":41.53513,
     "geom:longitude":-88.07501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"562 N Eastern Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253288533,
-    "wof:lastmodified":1449063122,
+    "wof:lastmodified":1466492545,
     "wof:name":"Mag Repair Svc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-88.07501,41.53513,-88.07501,41.53513],
-  "geometry": {"coordinates":[-88.07501,41.53513],"type":"Point"}
+  "bbox": [
+    -88.07501,
+    41.53513,
+    -88.07501,
+    41.53513
+],
+  "geometry": {"coordinates":[-88.07501000000001,41.53513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236441137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104351,41.86324,-88.104351,41.86324",
     "geom:latitude":41.86324,
     "geom:longitude":-88.104351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Willow Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236441137,
-    "wof:lastmodified":1449001867,
+    "wof:lastmodified":1466494618,
     "wof:name":"Oaktree Wellness Center",
     "wof:parent_id":85891043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104351,41.86324,-88.104351,41.86324],
-  "geometry": {"coordinates":[-88.104351,41.86324],"type":"Point"}
+  "bbox": [
+    -88.104351,
+    41.86324,
+    -88.104351,
+    41.86324
+],
+  "geometry": {"coordinates":[-88.10435099999999,41.86324],"type":"Point"}
 }

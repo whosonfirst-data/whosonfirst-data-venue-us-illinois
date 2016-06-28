@@ -2,13 +2,14 @@
   "id": 236447197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.305004,42.191243,-88.305004,42.191243",
     "geom:latitude":42.191243,
     "geom:longitude":-88.305004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Walter Ct",
     "sg:city":"Lake In The Hills",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236447197,
-    "wof:lastmodified":1449004077,
+    "wof:lastmodified":1466494694,
     "wof:name":"PR Imports",
     "wof:parent_id":85890719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.305004,42.191243,-88.305004,42.191243],
+  "bbox": [
+    -88.305004,
+    42.191243,
+    -88.305004,
+    42.191243
+],
   "geometry": {"coordinates":[-88.305004,42.191243],"type":"Point"}
 }

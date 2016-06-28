@@ -2,13 +2,14 @@
   "id": 202518307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.957119,38.487139,-89.957119,38.487139",
     "geom:latitude":38.487139,
     "geom:longitude":-89.957119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Old Freeburg Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202518307,
-    "wof:lastmodified":1449061533,
+    "wof:lastmodified":1466495342,
     "wof:name":"Neff Farm Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-89.957119,38.487139,-89.957119,38.487139],
-  "geometry": {"coordinates":[-89.957119,38.487139],"type":"Point"}
+  "bbox": [
+    -89.957119,
+    38.487139,
+    -89.957119,
+    38.487139
+],
+  "geometry": {"coordinates":[-89.95711900000001,38.487139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236386803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.164994,41.561488,-88.164994,41.561488",
     "geom:latitude":41.561488,
     "geom:longitude":-88.164994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Old Castle Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236386803,
-    "wof:lastmodified":1449003375,
+    "wof:lastmodified":1466493876,
     "wof:name":"Montesa Express",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.164994,41.561488,-88.164994,41.561488],
-  "geometry": {"coordinates":[-88.164994,41.561488],"type":"Point"}
+  "bbox": [
+    -88.164994,
+    41.561488,
+    -88.164994,
+    41.561488
+],
+  "geometry": {"coordinates":[-88.16499399999999,41.561488],"type":"Point"}
 }

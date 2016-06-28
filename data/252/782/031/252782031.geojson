@@ -2,13 +2,14 @@
   "id": 252782031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.359935,41.512371,-90.359935,41.512371",
     "geom:latitude":41.512371,
     "geom:longitude":-90.359935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18415 Barstow Rd",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252782031,
-    "wof:lastmodified":1449005397,
+    "wof:lastmodified":1466489945,
     "wof:name":"River Oaks Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-90.359935,41.512371,-90.359935,41.512371],
-  "geometry": {"coordinates":[-90.359935,41.512371],"type":"Point"}
+  "bbox": [
+    -90.359935,
+    41.512371,
+    -90.359935,
+    41.512371
+],
+  "geometry": {"coordinates":[-90.35993499999999,41.512371],"type":"Point"}
 }

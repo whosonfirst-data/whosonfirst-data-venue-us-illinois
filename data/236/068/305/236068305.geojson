@@ -2,13 +2,14 @@
   "id": 236068305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.802879,41.888559,-87.802879,41.888559",
     "geom:latitude":41.888559,
     "geom:longitude":-87.802879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Lake St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236068305,
-    "wof:lastmodified":1449003329,
+    "wof:lastmodified":1466489790,
     "wof:name":"Rock LS",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.802879,41.888559,-87.802879,41.888559],
+  "bbox": [
+    -87.802879,
+    41.888559,
+    -87.802879,
+    41.888559
+],
   "geometry": {"coordinates":[-87.802879,41.888559],"type":"Point"}
 }

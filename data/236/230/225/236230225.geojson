@@ -2,13 +2,14 @@
   "id": 236230225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.847361,41.353927,-88.847361,41.353927",
     "geom:latitude":41.353927,
     "geom:longitude":-88.847361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Marquette St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236230225,
-    "wof:lastmodified":1449004221,
+    "wof:lastmodified":1466491826,
     "wof:name":"Town & Country Disposal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-88.847361,41.353927,-88.847361,41.353927],
-  "geometry": {"coordinates":[-88.847361,41.353927],"type":"Point"}
+  "bbox": [
+    -88.847361,
+    41.353927,
+    -88.847361,
+    41.353927
+],
+  "geometry": {"coordinates":[-88.84736100000001,41.353927],"type":"Point"}
 }

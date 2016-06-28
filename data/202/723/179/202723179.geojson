@@ -2,13 +2,14 @@
   "id": 202723179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.716478,41.722823,-87.716478,41.722823",
     "geom:latitude":41.722823,
     "geom:longitude":-87.716478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9325 S Hamlin Ave",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202723179,
-    "wof:lastmodified":1449061600,
+    "wof:lastmodified":1466491062,
     "wof:name":"Landis Distribution",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.716478,41.722823,-87.716478,41.722823],
+  "bbox": [
+    -87.716478,
+    41.722823,
+    -87.716478,
+    41.722823
+],
   "geometry": {"coordinates":[-87.716478,41.722823],"type":"Point"}
 }

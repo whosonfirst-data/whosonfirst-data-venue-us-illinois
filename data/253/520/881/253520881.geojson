@@ -2,13 +2,14 @@
   "id": 253520881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.804639,37.929047,-89.804639,37.929047",
     "geom:latitude":37.929047,
     "geom:longitude":-89.804639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Old Plank Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253520881,
-    "wof:lastmodified":1449063802,
+    "wof:lastmodified":1466495952,
     "wof:name":"Spears Vision Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.804639,37.929047,-89.804639,37.929047],
-  "geometry": {"coordinates":[-89.804639,37.929047],"type":"Point"}
+  "bbox": [
+    -89.804639,
+    37.929047,
+    -89.804639,
+    37.929047
+],
+  "geometry": {"coordinates":[-89.80463899999999,37.929047],"type":"Point"}
 }

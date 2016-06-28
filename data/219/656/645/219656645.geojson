@@ -2,13 +2,14 @@
   "id": 219656645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760534,41.743555,-87.760534,41.743555",
     "geom:latitude":41.743555,
     "geom:longitude":-87.760534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8145 Central Ave",
     "sg:city":"Burbank",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219656645,
-    "wof:lastmodified":1449072680,
+    "wof:lastmodified":1466495005,
     "wof:name":"Corrigan Heating & Air Cond",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.760534,41.743555,-87.760534,41.743555],
-  "geometry": {"coordinates":[-87.760534,41.743555],"type":"Point"}
+  "bbox": [
+    -87.760534,
+    41.743555,
+    -87.760534,
+    41.743555
+],
+  "geometry": {"coordinates":[-87.76053400000001,41.743555],"type":"Point"}
 }

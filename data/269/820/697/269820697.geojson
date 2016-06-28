@@ -2,13 +2,14 @@
   "id": 269820697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702386,41.752111,-87.702386,41.752111",
     "geom:latitude":41.752111,
     "geom:longitude":-87.702386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7727 S Kedzie Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269820697,
-    "wof:lastmodified":1449037384,
+    "wof:lastmodified":1466494334,
     "wof:name":"A A",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.702386,41.752111,-87.702386,41.752111],
+  "bbox": [
+    -87.702386,
+    41.752111,
+    -87.702386,
+    41.752111
+],
   "geometry": {"coordinates":[-87.702386,41.752111],"type":"Point"}
 }

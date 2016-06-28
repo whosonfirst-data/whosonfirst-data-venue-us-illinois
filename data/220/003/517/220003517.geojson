@@ -2,13 +2,14 @@
   "id": 220003517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.749102,41.35438,-87.749102,41.35438",
     "geom:latitude":41.35438,
     "geom:longitude":-87.749102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5948 W Peotone Rd",
     "sg:city":"Peotone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220003517,
-    "wof:lastmodified":1449074820,
+    "wof:lastmodified":1466488984,
     "wof:name":"Gene Maves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-87.749102,41.35438,-87.749102,41.35438],
-  "geometry": {"coordinates":[-87.749102,41.35438],"type":"Point"}
+  "bbox": [
+    -87.749102,
+    41.35438,
+    -87.749102,
+    41.35438
+],
+  "geometry": {"coordinates":[-87.74910199999999,41.35438],"type":"Point"}
 }

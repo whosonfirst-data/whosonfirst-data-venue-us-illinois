@@ -2,13 +2,14 @@
   "id": 202728473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.160556,39.079547,-90.160556,39.079547",
     "geom:latitude":39.079547,
     "geom:longitude":-90.160556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20593 Oak Rest Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202728473,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466491120,
     "wof:name":"Tri County Rod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-90.160556,39.079547,-90.160556,39.079547],
+  "bbox": [
+    -90.160556,
+    39.079547,
+    -90.160556,
+    39.079547
+],
   "geometry": {"coordinates":[-90.160556,39.079547],"type":"Point"}
 }

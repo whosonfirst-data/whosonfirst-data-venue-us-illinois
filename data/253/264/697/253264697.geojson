@@ -2,13 +2,14 @@
   "id": 253264697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.386517,41.490798,-90.386517,41.490798",
     "geom:latitude":41.490798,
     "geom:longitude":-90.386517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S 1st Ave",
     "sg:city":"Carbon Cliff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253264697,
-    "wof:lastmodified":1449064755,
+    "wof:lastmodified":1466492202,
     "wof:name":"Waterman's Transmission Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-90.386517,41.490798,-90.386517,41.490798],
+  "bbox": [
+    -90.386517,
+    41.490798,
+    -90.386517,
+    41.490798
+],
   "geometry": {"coordinates":[-90.386517,41.490798],"type":"Point"}
 }

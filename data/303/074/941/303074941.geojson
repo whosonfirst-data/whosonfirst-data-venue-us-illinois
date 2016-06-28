@@ -2,13 +2,14 @@
   "id": 303074941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.986099,40.314515,-88.986099,40.314515",
     "geom:latitude":40.314515,
     "geom:longitude":-88.986099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Kenneth",
     "sg:city":"Heyworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303074941,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466491019,
     "wof:name":"Mike's Smoke Shop",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.986099,40.314515,-88.986099,40.314515],
+  "bbox": [
+    -88.986099,
+    40.314515,
+    -88.986099,
+    40.314515
+],
   "geometry": {"coordinates":[-88.986099,40.314515],"type":"Point"}
 }

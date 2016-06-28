@@ -2,13 +2,14 @@
   "id": 202699759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.609619,40.14628,-87.609619,40.14628",
     "geom:latitude":40.14628,
     "geom:longitude":-87.609619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Voorhees St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202699759,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466490803,
     "wof:name":"First Midwest Bank",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.609619,40.14628,-87.609619,40.14628],
+  "bbox": [
+    -87.609619,
+    40.14628,
+    -87.609619,
+    40.14628
+],
   "geometry": {"coordinates":[-87.609619,40.14628],"type":"Point"}
 }

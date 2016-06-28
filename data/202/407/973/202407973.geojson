@@ -2,13 +2,14 @@
   "id": 202407973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.969614,38.676027,-89.969614,38.676027",
     "geom:latitude":38.676027,
     "geom:longitude":-89.969614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Lebanon Rd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202407973,
-    "wof:lastmodified":1449061513,
+    "wof:lastmodified":1466493228,
     "wof:name":"Jason's Drywall",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.969614,38.676027,-89.969614,38.676027],
-  "geometry": {"coordinates":[-89.969614,38.676027],"type":"Point"}
+  "bbox": [
+    -89.969614,
+    38.676027,
+    -89.969614,
+    38.676027
+],
+  "geometry": {"coordinates":[-89.96961400000001,38.676027],"type":"Point"}
 }

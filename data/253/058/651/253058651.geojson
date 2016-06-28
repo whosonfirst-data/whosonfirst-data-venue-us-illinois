@@ -2,13 +2,14 @@
   "id": 253058651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07524,41.78227,-88.07524,41.78227",
     "geom:latitude":41.78227,
     "geom:longitude":-88.07524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 Riverview Dr",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253058651,
-    "wof:lastmodified":1449063252,
+    "wof:lastmodified":1466489712,
     "wof:name":"A A Construction",
     "wof:parent_id":85890827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.07524,41.78227,-88.07524,41.78227],
-  "geometry": {"coordinates":[-88.07524,41.78227],"type":"Point"}
+  "bbox": [
+    -88.07524,
+    41.78227,
+    -88.07524,
+    41.78227
+],
+  "geometry": {"coordinates":[-88.07523999999999,41.78227],"type":"Point"}
 }

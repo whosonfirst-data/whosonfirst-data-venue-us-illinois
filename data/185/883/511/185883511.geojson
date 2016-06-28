@@ -2,13 +2,14 @@
   "id": 185883511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.571807,39.813022,-89.571807,39.813022",
     "geom:latitude":39.813022,
     "geom:longitude":-89.571807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Clinton St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185883511,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1466489771,
     "wof:name":"Sugar Creek Water Dist",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.571807,39.813022,-89.571807,39.813022],
-  "geometry": {"coordinates":[-89.571807,39.813022],"type":"Point"}
+  "bbox": [
+    -89.571807,
+    39.813022,
+    -89.571807,
+    39.813022
+],
+  "geometry": {"coordinates":[-89.57180700000001,39.813022],"type":"Point"}
 }

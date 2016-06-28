@@ -2,13 +2,14 @@
   "id": 270423365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.8714,41.863638,-87.8714,41.863638",
     "geom:latitude":41.863638,
     "geom:longitude":-87.8714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9902 W Roosevelt Rd",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270423365,
-    "wof:lastmodified":1449009040,
+    "wof:lastmodified":1466495484,
     "wof:name":"Chicago Pedietric",
     "wof:parent_id":85890851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.8714,41.863638,-87.8714,41.863638],
-  "geometry": {"coordinates":[-87.8714,41.863638],"type":"Point"}
+  "bbox": [
+    -87.8714,
+    41.863638,
+    -87.8714,
+    41.863638
+],
+  "geometry": {"coordinates":[-87.87139999999999,41.863638],"type":"Point"}
 }

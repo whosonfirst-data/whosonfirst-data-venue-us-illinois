@@ -2,13 +2,14 @@
   "id": 236966081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.168517,37.003057,-89.168517,37.003057",
     "geom:latitude":37.003057,
     "geom:longitude":-89.168517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Commercial Ave",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236966081,
-    "wof:lastmodified":1449001694,
+    "wof:lastmodified":1466498403,
     "wof:name":"Cairo Public Utility Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-89.168517,37.003057,-89.168517,37.003057],
-  "geometry": {"coordinates":[-89.168517,37.003057],"type":"Point"}
+  "bbox": [
+    -89.168517,
+    37.003057,
+    -89.168517,
+    37.003057
+],
+  "geometry": {"coordinates":[-89.16851699999999,37.003057],"type":"Point"}
 }

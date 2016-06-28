@@ -2,13 +2,14 @@
   "id": 236349281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850428,41.135214,-87.850428,41.135214",
     "geom:latitude":41.135214,
     "geom:longitude":-87.850428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Hobbie Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236349281,
-    "wof:lastmodified":1449002792,
+    "wof:lastmodified":1466493387,
     "wof:name":"H C Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.850428,41.135214,-87.850428,41.135214],
-  "geometry": {"coordinates":[-87.850428,41.135214],"type":"Point"}
+  "bbox": [
+    -87.850428,
+    41.135214,
+    -87.850428,
+    41.135214
+],
+  "geometry": {"coordinates":[-87.85042799999999,41.135214],"type":"Point"}
 }

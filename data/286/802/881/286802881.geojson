@@ -2,13 +2,14 @@
   "id": 286802881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679121,39.804169,-87.679121,39.804169",
     "geom:latitude":39.804169,
     "geom:longitude":-87.679121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Illinois St",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286802881,
-    "wof:lastmodified":1449017570,
+    "wof:lastmodified":1466497246,
     "wof:name":"American Legion Post 477",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.679121,39.804169,-87.679121,39.804169],
-  "geometry": {"coordinates":[-87.679121,39.804169],"type":"Point"}
+  "bbox": [
+    -87.679121,
+    39.804169,
+    -87.679121,
+    39.804169
+],
+  "geometry": {"coordinates":[-87.67912099999999,39.804169],"type":"Point"}
 }

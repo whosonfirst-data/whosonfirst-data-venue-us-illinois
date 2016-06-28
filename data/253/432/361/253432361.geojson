@@ -2,13 +2,14 @@
   "id": 253432361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.018371,41.421601,-90.018371,41.421601",
     "geom:latitude":41.421601,
     "geom:longitude":-90.018371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W Main St",
     "sg:city":"Atkinson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253432361,
-    "wof:lastmodified":1449062771,
+    "wof:lastmodified":1466494752,
     "wof:name":"St Anthony's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.018371,41.421601,-90.018371,41.421601],
+  "bbox": [
+    -90.018371,
+    41.421601,
+    -90.018371,
+    41.421601
+],
   "geometry": {"coordinates":[-90.018371,41.421601],"type":"Point"}
 }

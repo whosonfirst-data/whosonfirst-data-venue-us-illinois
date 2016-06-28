@@ -2,13 +2,14 @@
   "id": 270186553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.046309,42.314484,-89.046309,42.314484",
     "geom:latitude":42.314484,
     "geom:longitude":-89.046309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Heart Blvd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270186553,
-    "wof:lastmodified":1449010519,
+    "wof:lastmodified":1466491812,
     "wof:name":"G-Pac Senior Ctr",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-89.046309,42.314484,-89.046309,42.314484],
-  "geometry": {"coordinates":[-89.046309,42.314484],"type":"Point"}
+  "bbox": [
+    -89.046309,
+    42.314484,
+    -89.046309,
+    42.314484
+],
+  "geometry": {"coordinates":[-89.04630899999999,42.314484],"type":"Point"}
 }

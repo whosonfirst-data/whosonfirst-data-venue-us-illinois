@@ -2,13 +2,14 @@
   "id": 269854919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.766511,41.856441,-87.766511,41.856441",
     "geom:latitude":41.856441,
     "geom:longitude":-87.766511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S 57th Ave",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269854919,
-    "wof:lastmodified":1449038867,
+    "wof:lastmodified":1466494875,
     "wof:name":"Azulblue Inc",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analysis"
     ]
 },
-  "bbox": [-87.766511,41.856441,-87.766511,41.856441],
-  "geometry": {"coordinates":[-87.766511,41.856441],"type":"Point"}
+  "bbox": [
+    -87.766511,
+    41.856441,
+    -87.766511,
+    41.856441
+],
+  "geometry": {"coordinates":[-87.76651099999999,41.856441],"type":"Point"}
 }

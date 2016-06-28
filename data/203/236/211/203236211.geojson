@@ -2,13 +2,14 @@
   "id": 203236211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.804717,41.887044,-87.804717,41.887044",
     "geom:latitude":41.887044,
     "geom:longitude":-87.804717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 North Blvd",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203236211,
-    "wof:lastmodified":1449025144,
+    "wof:lastmodified":1466489745,
     "wof:name":"Oakpark Station",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rail"
     ]
 },
-  "bbox": [-87.804717,41.887044,-87.804717,41.887044],
+  "bbox": [
+    -87.804717,
+    41.887044,
+    -87.804717,
+    41.887044
+],
   "geometry": {"coordinates":[-87.804717,41.887044],"type":"Point"}
 }

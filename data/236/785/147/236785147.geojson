@@ -2,13 +2,14 @@
   "id": 236785147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.310476,41.849955,-88.310476,41.849955",
     "geom:latitude":41.849955,
     "geom:longitude":-88.310476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Wilson St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236785147,
-    "wof:lastmodified":1449004567,
+    "wof:lastmodified":1466497789,
     "wof:name":"Csi Food Svc Co",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-88.310476,41.849955,-88.310476,41.849955],
-  "geometry": {"coordinates":[-88.310476,41.849955],"type":"Point"}
+  "bbox": [
+    -88.310476,
+    41.849955,
+    -88.310476,
+    41.849955
+],
+  "geometry": {"coordinates":[-88.31047599999999,41.849955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202736815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.036569,38.536848,-90.036569,38.536848",
     "geom:latitude":38.536848,
     "geom:longitude":-90.036569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"980 S 59th St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202736815,
-    "wof:lastmodified":1449062605,
+    "wof:lastmodified":1466491220,
     "wof:name":"Illinois Family Medicine",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.036569,38.536848,-90.036569,38.536848],
+  "bbox": [
+    -90.036569,
+    38.536848,
+    -90.036569,
+    38.536848
+],
   "geometry": {"coordinates":[-90.036569,38.536848],"type":"Point"}
 }

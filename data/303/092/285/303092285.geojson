@@ -2,13 +2,14 @@
   "id": 303092285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.778483,38.443076,-87.778483,38.443076",
     "geom:latitude":38.443076,
     "geom:longitude":-87.778483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Park Rd",
     "sg:city":"Mount Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303092285,
-    "wof:lastmodified":1449000104,
+    "wof:lastmodified":1466491281,
     "wof:name":"Mt Carmel Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-87.778483,38.443076,-87.778483,38.443076],
-  "geometry": {"coordinates":[-87.778483,38.443076],"type":"Point"}
+  "bbox": [
+    -87.778483,
+    38.443076,
+    -87.778483,
+    38.443076
+],
+  "geometry": {"coordinates":[-87.77848299999999,38.443076],"type":"Point"}
 }

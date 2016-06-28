@@ -2,13 +2,14 @@
   "id": 269712767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.021364,42.340054,-89.021364,42.340054",
     "geom:latitude":42.340054,
     "geom:longitude":-89.021364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1961 Harlem Rd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269712767,
-    "wof:lastmodified":1449037158,
+    "wof:lastmodified":1466492622,
     "wof:name":"Hair Looks Salon",
     "wof:parent_id":85880449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.021364,42.340054,-89.021364,42.340054],
-  "geometry": {"coordinates":[-89.021364,42.340054],"type":"Point"}
+  "bbox": [
+    -89.021364,
+    42.340054,
+    -89.021364,
+    42.340054
+],
+  "geometry": {"coordinates":[-89.02136400000001,42.340054],"type":"Point"}
 }

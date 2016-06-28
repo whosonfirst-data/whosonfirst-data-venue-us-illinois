@@ -2,13 +2,14 @@
   "id": 203014419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.096438,37.75722,-89.096438,37.75722",
     "geom:latitude":37.75722,
     "geom:longitude":-89.096438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Cheryl Dr",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203014419,
-    "wof:lastmodified":1449025852,
+    "wof:lastmodified":1466492013,
     "wof:name":"Weber Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.096438,37.75722,-89.096438,37.75722],
-  "geometry": {"coordinates":[-89.096438,37.75722],"type":"Point"}
+  "bbox": [
+    -89.096438,
+    37.75722,
+    -89.096438,
+    37.75722
+],
+  "geometry": {"coordinates":[-89.09643800000001,37.75722],"type":"Point"}
 }

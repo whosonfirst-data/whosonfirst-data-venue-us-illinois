@@ -2,13 +2,14 @@
   "id": 219516023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.658695,40.126803,-87.658695,40.126803",
     "geom:latitude":40.126803,
     "geom:longitude":-87.658695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Oakwood Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219516023,
-    "wof:lastmodified":1449071068,
+    "wof:lastmodified":1466493367,
     "wof:name":"Vermilion Heights Christian",
     "wof:parent_id":85853627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.658695,40.126803,-87.658695,40.126803],
-  "geometry": {"coordinates":[-87.658695,40.126803],"type":"Point"}
+  "bbox": [
+    -87.658695,
+    40.126803,
+    -87.658695,
+    40.126803
+],
+  "geometry": {"coordinates":[-87.65869499999999,40.126803],"type":"Point"}
 }

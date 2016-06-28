@@ -2,13 +2,14 @@
   "id": 203159423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.671275,41.975151,-87.671275,41.975151",
     "geom:latitude":41.975151,
     "geom:longitude":-87.671275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1661 W Winona St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203159423,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466495591,
     "wof:name":"Chicago Movers",
     "wof:parent_id":85867779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-87.671275,41.975151,-87.671275,41.975151],
-  "geometry": {"coordinates":[-87.671275,41.975151],"type":"Point"}
+  "bbox": [
+    -87.671275,
+    41.975151,
+    -87.671275,
+    41.975151
+],
+  "geometry": {"coordinates":[-87.67127499999999,41.975151],"type":"Point"}
 }

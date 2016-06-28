@@ -2,13 +2,14 @@
   "id": 203125297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.04999,39.518757,-89.04999,39.518757",
     "geom:latitude":39.518757,
     "geom:longitude":-89.04999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Chestnut St",
     "sg:city":"Assumption",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203125297,
-    "wof:lastmodified":1449026808,
+    "wof:lastmodified":1466495151,
     "wof:name":"Bodden Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.04999,39.518757,-89.04999,39.518757],
-  "geometry": {"coordinates":[-89.04999,39.518757],"type":"Point"}
+  "bbox": [
+    -89.04999,
+    39.518757,
+    -89.04999,
+    39.518757
+],
+  "geometry": {"coordinates":[-89.04998999999999,39.518757],"type":"Point"}
 }

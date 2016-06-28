@@ -2,13 +2,14 @@
   "id": 203056951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984901,38.592746,-89.984901,38.592746",
     "geom:latitude":38.592746,
     "geom:longitude":-89.984901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 Lincoln Trl",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203056951,
-    "wof:lastmodified":1449025439,
+    "wof:lastmodified":1466493765,
     "wof:name":"Precision Point Sch-Csmtlgy",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.984901,38.592746,-89.984901,38.592746],
-  "geometry": {"coordinates":[-89.984901,38.592746],"type":"Point"}
+  "bbox": [
+    -89.984901,
+    38.592746,
+    -89.984901,
+    38.592746
+],
+  "geometry": {"coordinates":[-89.98490099999999,38.592746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269698371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.806661,41.602004,-87.806661,41.602004",
     "geom:latitude":41.602004,
     "geom:longitude":-87.806661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 159th St",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269698371,
-    "wof:lastmodified":1449038825,
+    "wof:lastmodified":1466492389,
     "wof:name":"ERA",
     "wof:parent_id":85890941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.806661,41.602004,-87.806661,41.602004],
-  "geometry": {"coordinates":[-87.806661,41.602004],"type":"Point"}
+  "bbox": [
+    -87.806661,
+    41.602004,
+    -87.806661,
+    41.602004
+],
+  "geometry": {"coordinates":[-87.80666100000001,41.602004],"type":"Point"}
 }

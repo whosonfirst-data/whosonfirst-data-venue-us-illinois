@@ -2,13 +2,14 @@
   "id": 286361263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848458,41.873216,-87.848458,41.873216",
     "geom:latitude":41.873216,
     "geom:longitude":-87.848458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Van Buren St",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286361263,
-    "wof:lastmodified":1449017326,
+    "wof:lastmodified":1466491344,
     "wof:name":"Van Buren Administrative Annex",
     "wof:parent_id":85890851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.848458,41.873216,-87.848458,41.873216],
-  "geometry": {"coordinates":[-87.848458,41.873216],"type":"Point"}
+  "bbox": [
+    -87.848458,
+    41.873216,
+    -87.848458,
+    41.873216
+],
+  "geometry": {"coordinates":[-87.84845799999999,41.873216],"type":"Point"}
 }

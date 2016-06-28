@@ -2,13 +2,14 @@
   "id": 286423757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.721364,41.735192,-87.721364,41.735192",
     "geom:latitude":41.735192,
     "geom:longitude":-87.721364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8661 S Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286423757,
-    "wof:lastmodified":1449015649,
+    "wof:lastmodified":1466492330,
     "wof:name":"Global Cell",
     "wof:parent_id":85867553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.721364,41.735192,-87.721364,41.735192],
-  "geometry": {"coordinates":[-87.721364,41.735192],"type":"Point"}
+  "bbox": [
+    -87.721364,
+    41.735192,
+    -87.721364,
+    41.735192
+],
+  "geometry": {"coordinates":[-87.72136399999999,41.735192],"type":"Point"}
 }

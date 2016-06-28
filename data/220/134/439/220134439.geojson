@@ -2,13 +2,14 @@
   "id": 220134439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.274177,42.343454,-88.274177,42.343454",
     "geom:latitude":42.343454,
     "geom:longitude":-88.274177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 Main St",
     "sg:city":"Mc Henry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220134439,
-    "wof:lastmodified":1449074840,
+    "wof:lastmodified":1466490589,
     "wof:name":"Jim's Barbershop",
     "wof:parent_id":85845071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.274177,42.343454,-88.274177,42.343454],
-  "geometry": {"coordinates":[-88.274177,42.343454],"type":"Point"}
+  "bbox": [
+    -88.274177,
+    42.343454,
+    -88.274177,
+    42.343454
+],
+  "geometry": {"coordinates":[-88.27417699999999,42.343454],"type":"Point"}
 }

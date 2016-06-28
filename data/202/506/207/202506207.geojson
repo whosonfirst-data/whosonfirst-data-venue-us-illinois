@@ -2,13 +2,14 @@
   "id": 202506207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.050838,41.616461,-88.050838,41.616461",
     "geom:latitude":41.616461,
     "geom:longitude":-88.050838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14715 New Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202506207,
-    "wof:lastmodified":1449060163,
+    "wof:lastmodified":1466495222,
     "wof:name":"Mc Mahon Cartage",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-88.050838,41.616461,-88.050838,41.616461],
+  "bbox": [
+    -88.050838,
+    41.616461,
+    -88.050838,
+    41.616461
+],
   "geometry": {"coordinates":[-88.050838,41.616461],"type":"Point"}
 }

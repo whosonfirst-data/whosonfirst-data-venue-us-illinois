@@ -2,13 +2,14 @@
   "id": 270102959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.344262,40.396624,-91.344262,40.396624",
     "geom:latitude":40.396624,
     "geom:longitude":-91.344262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Keokuk St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270102959,
-    "wof:lastmodified":1449010921,
+    "wof:lastmodified":1466490550,
     "wof:name":"Hiccps Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.344262,40.396624,-91.344262,40.396624],
+  "bbox": [
+    -91.344262,
+    40.396624,
+    -91.344262,
+    40.396624
+],
   "geometry": {"coordinates":[-91.344262,40.396624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286509095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.858213,41.932826,-87.858213,41.932826",
     "geom:latitude":41.932826,
     "geom:longitude":-87.858213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9238 Parklane Ave",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286509095,
-    "wof:lastmodified":1449015283,
+    "wof:lastmodified":1466493672,
     "wof:name":"Oak/Leyden Developmental Svcs",
     "wof:parent_id":85867815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.858213,41.932826,-87.858213,41.932826],
-  "geometry": {"coordinates":[-87.858213,41.932826],"type":"Point"}
+  "bbox": [
+    -87.858213,
+    41.932826,
+    -87.858213,
+    41.932826
+],
+  "geometry": {"coordinates":[-87.85821300000001,41.932826],"type":"Point"}
 }

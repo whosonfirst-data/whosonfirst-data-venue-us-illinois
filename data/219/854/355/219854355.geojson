@@ -2,13 +2,14 @@
   "id": 219854355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.320512,41.861571,-88.320512,41.861571",
     "geom:latitude":41.861571,
     "geom:longitude":-88.320512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 N Van Nortwick Ave",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219854355,
-    "wof:lastmodified":1449073785,
+    "wof:lastmodified":1466496853,
     "wof:name":"Kenney Creative",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.320512,41.861571,-88.320512,41.861571],
-  "geometry": {"coordinates":[-88.320512,41.861571],"type":"Point"}
+  "bbox": [
+    -88.320512,
+    41.861571,
+    -88.320512,
+    41.861571
+],
+  "geometry": {"coordinates":[-88.32051199999999,41.861571],"type":"Point"}
 }

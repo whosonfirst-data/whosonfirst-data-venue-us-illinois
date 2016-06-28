@@ -2,13 +2,14 @@
   "id": 236465327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.98677,41.992799,-87.98677,41.992799",
     "geom:latitude":41.992799,
     "geom:longitude":-87.98677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E Devon Ave",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236465327,
-    "wof:lastmodified":1449003949,
+    "wof:lastmodified":1466494930,
     "wof:name":"Positive Edge",
     "wof:parent_id":85867755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-87.98677,41.992799,-87.98677,41.992799],
-  "geometry": {"coordinates":[-87.98677,41.992799],"type":"Point"}
+  "bbox": [
+    -87.98677,
+    41.992799,
+    -87.98677,
+    41.992799
+],
+  "geometry": {"coordinates":[-87.98677000000001,41.992799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286494047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055979,42.23724,-88.055979,42.23724",
     "geom:latitude":42.23724,
     "geom:longitude":-88.055979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Deerfield Dr",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286494047,
-    "wof:lastmodified":1449017776,
+    "wof:lastmodified":1466493434,
     "wof:name":"Big Dawg Trucking Inc",
     "wof:parent_id":85867909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.055979,42.23724,-88.055979,42.23724],
-  "geometry": {"coordinates":[-88.055979,42.23724],"type":"Point"}
+  "bbox": [
+    -88.055979,
+    42.23724,
+    -88.055979,
+    42.23724
+],
+  "geometry": {"coordinates":[-88.05597899999999,42.23724],"type":"Point"}
 }

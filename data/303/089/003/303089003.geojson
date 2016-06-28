@@ -2,13 +2,14 @@
   "id": 303089003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848037,41.107404,-87.848037,41.107404",
     "geom:latitude":41.107404,
     "geom:longitude":-87.848037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"946 S Osborn Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303089003,
-    "wof:lastmodified":1448998613,
+    "wof:lastmodified":1466491228,
     "wof:name":"Glenlees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.848037,41.107404,-87.848037,41.107404],
-  "geometry": {"coordinates":[-87.848037,41.107404],"type":"Point"}
+  "bbox": [
+    -87.848037,
+    41.107404,
+    -87.848037,
+    41.107404
+],
+  "geometry": {"coordinates":[-87.84803700000001,41.107404],"type":"Point"}
 }

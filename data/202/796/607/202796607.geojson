@@ -2,13 +2,14 @@
   "id": 202796607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.546287,40.139788,-87.546287,40.139788",
     "geom:latitude":40.139788,
     "geom:longitude":-87.546287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3403 Lynch Creek Dr",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202796607,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466491903,
     "wof:name":"Flex-N-Gate Plastics",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.546287,40.139788,-87.546287,40.139788],
-  "geometry": {"coordinates":[-87.546287,40.139788],"type":"Point"}
+  "bbox": [
+    -87.546287,
+    40.139788,
+    -87.546287,
+    40.139788
+],
+  "geometry": {"coordinates":[-87.54628700000001,40.139788],"type":"Point"}
 }

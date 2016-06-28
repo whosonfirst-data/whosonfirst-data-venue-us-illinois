@@ -2,13 +2,14 @@
   "id": 303179187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.808327,42.20541,-87.808327,42.20541",
     "geom:latitude":42.20541,
     "geom:longitude":-87.808327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Lakeview Ave",
     "sg:city":"Highwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303179187,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466492703,
     "wof:name":"G L Thomas Enterprises Inc",
     "wof:parent_id":85890811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.808327,42.20541,-87.808327,42.20541],
-  "geometry": {"coordinates":[-87.808327,42.20541],"type":"Point"}
+  "bbox": [
+    -87.808327,
+    42.20541,
+    -87.808327,
+    42.20541
+],
+  "geometry": {"coordinates":[-87.80832700000001,42.20541],"type":"Point"}
 }

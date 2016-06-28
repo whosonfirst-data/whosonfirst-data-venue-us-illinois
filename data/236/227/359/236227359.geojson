@@ -2,13 +2,14 @@
   "id": 236227359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.288472,41.88419,-88.288472,41.88419",
     "geom:latitude":41.88419,
     "geom:longitude":-88.288472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Briar Ln",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236227359,
-    "wof:lastmodified":1449002220,
+    "wof:lastmodified":1466491792,
     "wof:name":"KDR Cleaning",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.288472,41.88419,-88.288472,41.88419],
+  "bbox": [
+    -88.288472,
+    41.88419,
+    -88.288472,
+    41.88419
+],
   "geometry": {"coordinates":[-88.288472,41.88419],"type":"Point"}
 }

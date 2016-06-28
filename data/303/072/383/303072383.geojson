@@ -2,13 +2,14 @@
   "id": 303072383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.051809,38.553198,-90.051809,38.553198",
     "geom:latitude":38.553198,
     "geom:longitude":-90.051809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 Carr Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303072383,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466490978,
     "wof:name":"Rosalind D Harvey",
     "wof:parent_id":85839243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-90.051809,38.553198,-90.051809,38.553198],
-  "geometry": {"coordinates":[-90.051809,38.553198],"type":"Point"}
+  "bbox": [
+    -90.051809,
+    38.553198,
+    -90.051809,
+    38.553198
+],
+  "geometry": {"coordinates":[-90.05180900000001,38.553198],"type":"Point"}
 }

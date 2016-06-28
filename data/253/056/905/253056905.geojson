@@ -2,13 +2,14 @@
   "id": 253056905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649532,41.935375,-87.649532,41.935375",
     "geom:latitude":41.935375,
     "geom:longitude":-87.649532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 W Oakdale Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253056905,
-    "wof:lastmodified":1449063658,
+    "wof:lastmodified":1466489693,
     "wof:name":"Gaslight Vlg Condominimum Assn",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649532,41.935375,-87.649532,41.935375],
-  "geometry": {"coordinates":[-87.649532,41.935375],"type":"Point"}
+  "bbox": [
+    -87.649532,
+    41.935375,
+    -87.649532,
+    41.935375
+],
+  "geometry": {"coordinates":[-87.64953199999999,41.935375],"type":"Point"}
 }

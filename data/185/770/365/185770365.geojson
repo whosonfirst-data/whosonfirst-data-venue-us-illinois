@@ -2,13 +2,14 @@
   "id": 185770365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.968305,39.853726,-88.968305,39.853726",
     "geom:latitude":39.853726,
     "geom:longitude":-88.968305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Van Dyke St # 210",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185770365,
-    "wof:lastmodified":1449008248,
+    "wof:lastmodified":1466495457,
     "wof:name":"Lexington Apartments",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-88.968305,39.853726,-88.968305,39.853726],
+  "bbox": [
+    -88.968305,
+    39.853726,
+    -88.968305,
+    39.853726
+],
   "geometry": {"coordinates":[-88.968305,39.853726],"type":"Point"}
 }

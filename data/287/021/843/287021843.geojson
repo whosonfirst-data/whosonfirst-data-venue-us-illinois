@@ -2,13 +2,14 @@
   "id": 287021843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995274,38.508209,-89.995274,38.508209",
     "geom:latitude":38.508209,
     "geom:longitude":-89.995274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Centreville Ave",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287021843,
-    "wof:lastmodified":1449001234,
+    "wof:lastmodified":1466490316,
     "wof:name":"World Time Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.995274,38.508209,-89.995274,38.508209],
-  "geometry": {"coordinates":[-89.995274,38.508209],"type":"Point"}
+  "bbox": [
+    -89.995274,
+    38.508209,
+    -89.995274,
+    38.508209
+],
+  "geometry": {"coordinates":[-89.99527399999999,38.508209],"type":"Point"}
 }

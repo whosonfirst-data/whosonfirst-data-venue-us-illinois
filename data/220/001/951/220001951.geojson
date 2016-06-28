@@ -2,13 +2,14 @@
   "id": 220001951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.865484,41.568469,-88.865484,41.568469",
     "geom:latitude":41.568469,
     "geom:longitude":-88.865484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4352 E 1550th Rd",
     "sg:city":"Earlville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220001951,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466488967,
     "wof:name":"Kwik Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.865484,41.568469,-88.865484,41.568469],
+  "bbox": [
+    -88.865484,
+    41.568469,
+    -88.865484,
+    41.568469
+],
   "geometry": {"coordinates":[-88.865484,41.568469],"type":"Point"}
 }

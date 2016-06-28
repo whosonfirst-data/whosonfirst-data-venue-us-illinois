@@ -2,13 +2,14 @@
   "id": 270026009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054837,41.588762,-88.054837,41.588762",
     "geom:latitude":41.588762,
     "geom:longitude":-88.054837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E 9th St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270026009,
-    "wof:lastmodified":1449010093,
+    "wof:lastmodified":1466489413,
     "wof:name":"Lockport Mayor",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-88.054837,41.588762,-88.054837,41.588762],
-  "geometry": {"coordinates":[-88.054837,41.588762],"type":"Point"}
+  "bbox": [
+    -88.054837,
+    41.588762,
+    -88.054837,
+    41.588762
+],
+  "geometry": {"coordinates":[-88.05483700000001,41.588762],"type":"Point"}
 }

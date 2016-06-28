@@ -2,13 +2,14 @@
   "id": 270400979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.384447,42.179587,-88.384447,42.179587",
     "geom:latitude":42.179587,
     "geom:longitude":-88.384447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Wright Dr",
     "sg:city":"Lake In The Hls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270400979,
-    "wof:lastmodified":1449008886,
+    "wof:lastmodified":1466495135,
     "wof:name":"Lake In The Hills Village Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.384447,42.179587,-88.384447,42.179587],
-  "geometry": {"coordinates":[-88.384447,42.179587],"type":"Point"}
+  "bbox": [
+    -88.384447,
+    42.179587,
+    -88.384447,
+    42.179587
+],
+  "geometry": {"coordinates":[-88.38444699999999,42.179587],"type":"Point"}
 }

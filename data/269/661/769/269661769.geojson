@@ -2,13 +2,14 @@
   "id": 269661769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694887,41.571795,-87.694887,41.571795",
     "geom:latitude":41.571795,
     "geom:longitude":-87.694887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 175th St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269661769,
-    "wof:lastmodified":1449038717,
+    "wof:lastmodified":1466491795,
     "wof:name":"Imperial of Hazel Crest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intermediate"
     ]
 },
-  "bbox": [-87.694887,41.571795,-87.694887,41.571795],
-  "geometry": {"coordinates":[-87.694887,41.571795],"type":"Point"}
+  "bbox": [
+    -87.694887,
+    41.571795,
+    -87.694887,
+    41.571795
+],
+  "geometry": {"coordinates":[-87.69488699999999,41.571795],"type":"Point"}
 }

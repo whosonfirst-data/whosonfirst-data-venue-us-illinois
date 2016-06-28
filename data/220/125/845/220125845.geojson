@@ -2,13 +2,14 @@
   "id": 220125845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109377,42.183687,-88.109377,42.183687",
     "geom:latitude":42.183687,
     "geom:longitude":-88.109377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Peachtree Ln",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220125845,
-    "wof:lastmodified":1449074844,
+    "wof:lastmodified":1466490481,
     "wof:name":"Lydia's Catering",
     "wof:parent_id":85867915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-88.109377,42.183687,-88.109377,42.183687],
-  "geometry": {"coordinates":[-88.109377,42.183687],"type":"Point"}
+  "bbox": [
+    -88.109377,
+    42.183687,
+    -88.109377,
+    42.183687
+],
+  "geometry": {"coordinates":[-88.10937699999999,42.183687],"type":"Point"}
 }

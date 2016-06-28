@@ -2,13 +2,14 @@
   "id": 252887707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.101081,42.269285,-89.101081,42.269285",
     "geom:latitude":42.269285,
     "geom:longitude":-89.101081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Winnebago St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252887707,
-    "wof:lastmodified":1449006287,
+    "wof:lastmodified":1466491275,
     "wof:name":"Benny & Sons Gar & Bdy Sp Inc",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "shop"
     ]
 },
-  "bbox": [-89.101081,42.269285,-89.101081,42.269285],
-  "geometry": {"coordinates":[-89.101081,42.269285],"type":"Point"}
+  "bbox": [
+    -89.101081,
+    42.269285,
+    -89.101081,
+    42.269285
+],
+  "geometry": {"coordinates":[-89.10108099999999,42.269285],"type":"Point"}
 }

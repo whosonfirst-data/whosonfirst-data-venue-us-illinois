@@ -2,13 +2,14 @@
   "id": 202547661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895468,41.118607,-87.895468,41.118607",
     "geom:latitude":41.118607,
     "geom:longitude":-87.895468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 W Station St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202547661,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466489042,
     "wof:name":"West Side Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895468,41.118607,-87.895468,41.118607],
-  "geometry": {"coordinates":[-87.895468,41.118607],"type":"Point"}
+  "bbox": [
+    -87.895468,
+    41.118607,
+    -87.895468,
+    41.118607
+],
+  "geometry": {"coordinates":[-87.89546799999999,41.118607],"type":"Point"}
 }

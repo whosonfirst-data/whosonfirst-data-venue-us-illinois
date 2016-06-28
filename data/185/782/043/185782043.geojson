@@ -2,13 +2,14 @@
   "id": 185782043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.651076,39.561846,-89.651076,39.561846",
     "geom:latitude":39.561846,
     "geom:longitude":-89.651076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Henrietta",
     "sg:city":"Divernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185782043,
-    "wof:lastmodified":1449006586,
+    "wof:lastmodified":1466495789,
     "wof:name":"Mtv Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-89.651076,39.561846,-89.651076,39.561846],
+  "bbox": [
+    -89.651076,
+    39.561846,
+    -89.651076,
+    39.561846
+],
   "geometry": {"coordinates":[-89.651076,39.561846],"type":"Point"}
 }

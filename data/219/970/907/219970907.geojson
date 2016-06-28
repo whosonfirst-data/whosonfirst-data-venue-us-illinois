@@ -2,13 +2,14 @@
   "id": 219970907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.466664,41.392552,-89.466664,41.392552",
     "geom:latitude":41.392552,
     "geom:longitude":-89.466664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 N Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219970907,
-    "wof:lastmodified":1449073853,
+    "wof:lastmodified":1466497543,
     "wof:name":"Union Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.466664,41.392552,-89.466664,41.392552],
-  "geometry": {"coordinates":[-89.466664,41.392552],"type":"Point"}
+  "bbox": [
+    -89.466664,
+    41.392552,
+    -89.466664,
+    41.392552
+],
+  "geometry": {"coordinates":[-89.46666399999999,41.392552],"type":"Point"}
 }

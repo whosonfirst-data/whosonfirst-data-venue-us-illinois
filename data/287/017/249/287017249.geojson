@@ -2,13 +2,14 @@
   "id": 287017249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.935476,42.180286,-87.935476,42.180286",
     "geom:latitude":42.180286,
     "geom:longitude":-87.935476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Barclay Blvd",
     "sg:city":"Buffalo Grove",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287017249,
-    "wof:lastmodified":1449001140,
+    "wof:lastmodified":1466490243,
     "wof:name":"Chicago Pipe & Boiler Covering",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "plumbing"
     ]
 },
-  "bbox": [-87.935476,42.180286,-87.935476,42.180286],
-  "geometry": {"coordinates":[-87.935476,42.180286],"type":"Point"}
+  "bbox": [
+    -87.935476,
+    42.180286,
+    -87.935476,
+    42.180286
+],
+  "geometry": {"coordinates":[-87.93547599999999,42.180286],"type":"Point"}
 }

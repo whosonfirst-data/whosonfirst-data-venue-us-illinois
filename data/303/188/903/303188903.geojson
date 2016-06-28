@@ -2,13 +2,14 @@
   "id": 303188903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677759,41.919532,-87.677759,41.919532",
     "geom:latitude":41.919532,
     "geom:longitude":-87.677759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 N Damen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303188903,
-    "wof:lastmodified":1448999331,
+    "wof:lastmodified":1466492863,
     "wof:name":"Public Library",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-87.677759,41.919532,-87.677759,41.919532],
-  "geometry": {"coordinates":[-87.677759,41.919532],"type":"Point"}
+  "bbox": [
+    -87.677759,
+    41.919532,
+    -87.677759,
+    41.919532
+],
+  "geometry": {"coordinates":[-87.67775899999999,41.919532],"type":"Point"}
 }

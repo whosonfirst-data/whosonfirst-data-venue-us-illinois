@@ -2,13 +2,14 @@
   "id": 270464695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.740344,39.146973,-88.740344,39.146973",
     "geom:latitude":39.146973,
     "geom:longitude":-88.740344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3685 E 1600th Ave",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270464695,
-    "wof:lastmodified":1449009273,
+    "wof:lastmodified":1466495924,
     "wof:name":"Raymond Stuckemeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-88.740344,39.146973,-88.740344,39.146973],
-  "geometry": {"coordinates":[-88.740344,39.146973],"type":"Point"}
+  "bbox": [
+    -88.740344,
+    39.146973,
+    -88.740344,
+    39.146973
+],
+  "geometry": {"coordinates":[-88.74034399999999,39.146973],"type":"Point"}
 }

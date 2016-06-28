@@ -2,13 +2,14 @@
   "id": 253715989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840194,41.971713,-87.840194,41.971713",
     "geom:latitude":41.971713,
     "geom:longitude":-87.840194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8536 W Carmen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":253715989,
-    "wof:lastmodified":1449065173,
+    "wof:lastmodified":1466497618,
     "wof:name":"Favorite Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-87.840194,41.971713,-87.840194,41.971713],
+  "bbox": [
+    -87.840194,
+    41.971713,
+    -87.840194,
+    41.971713
+],
   "geometry": {"coordinates":[-87.840194,41.971713],"type":"Point"}
 }

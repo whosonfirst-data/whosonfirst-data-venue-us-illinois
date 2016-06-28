@@ -2,13 +2,14 @@
   "id": 286943243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.318187,40.088811,-88.318187,40.088811",
     "geom:latitude":40.088811,
     "geom:longitude":-88.318187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4403 Stonebridge Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286943243,
-    "wof:lastmodified":1449015954,
+    "wof:lastmodified":1466498316,
     "wof:name":"Jeffry James",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.318187,40.088811,-88.318187,40.088811],
-  "geometry": {"coordinates":[-88.318187,40.088811],"type":"Point"}
+  "bbox": [
+    -88.318187,
+    40.088811,
+    -88.318187,
+    40.088811
+],
+  "geometry": {"coordinates":[-88.31818699999999,40.088811],"type":"Point"}
 }

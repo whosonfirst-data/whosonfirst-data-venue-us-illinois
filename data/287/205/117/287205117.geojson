@@ -2,13 +2,14 @@
   "id": 287205117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727434,41.950079,-87.727434,41.950079",
     "geom:latitude":41.950079,
     "geom:longitude":-87.727434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3817 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287205117,
-    "wof:lastmodified":1449001197,
+    "wof:lastmodified":1466493270,
     "wof:name":"Holey Cards",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "arithmetic"
     ]
 },
-  "bbox": [-87.727434,41.950079,-87.727434,41.950079],
+  "bbox": [
+    -87.727434,
+    41.950079,
+    -87.727434,
+    41.950079
+],
   "geometry": {"coordinates":[-87.727434,41.950079],"type":"Point"}
 }

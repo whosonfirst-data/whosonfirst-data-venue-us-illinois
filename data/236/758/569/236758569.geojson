@@ -2,13 +2,14 @@
   "id": 236758569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.251338,37.735268,-89.251338,37.735268",
     "geom:latitude":37.735268,
     "geom:longitude":-89.251338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 W Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236758569,
-    "wof:lastmodified":1449002484,
+    "wof:lastmodified":1466497496,
     "wof:name":"Carbondale Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-89.251338,37.735268,-89.251338,37.735268],
+  "bbox": [
+    -89.251338,
+    37.735268,
+    -89.251338,
+    37.735268
+],
   "geometry": {"coordinates":[-89.251338,37.735268],"type":"Point"}
 }

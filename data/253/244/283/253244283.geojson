@@ -2,13 +2,14 @@
   "id": 253244283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184621,42.208993,-88.184621,42.208993",
     "geom:latitude":42.208993,
     "geom:longitude":-88.184621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Beacon Dr",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253244283,
-    "wof:lastmodified":1449064001,
+    "wof:lastmodified":1466491929,
     "wof:name":"Sander Financial Services",
     "wof:parent_id":85813157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-88.184621,42.208993,-88.184621,42.208993],
-  "geometry": {"coordinates":[-88.184621,42.208993],"type":"Point"}
+  "bbox": [
+    -88.184621,
+    42.208993,
+    -88.184621,
+    42.208993
+],
+  "geometry": {"coordinates":[-88.18462100000001,42.208993],"type":"Point"}
 }

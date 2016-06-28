@@ -2,13 +2,14 @@
   "id": 303083285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.59351,40.396426,-90.59351,40.396426",
     "geom:latitude":40.396426,
     "geom:longitude":-90.59351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16635 N 800th Rd",
     "sg:city":"Industry",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303083285,
-    "wof:lastmodified":1448999279,
+    "wof:lastmodified":1466491142,
     "wof:name":"Barclay Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-90.59351,40.396426,-90.59351,40.396426],
-  "geometry": {"coordinates":[-90.59351,40.396426],"type":"Point"}
+  "bbox": [
+    -90.59351,
+    40.396426,
+    -90.59351,
+    40.396426
+],
+  "geometry": {"coordinates":[-90.59350999999999,40.396426],"type":"Point"}
 }

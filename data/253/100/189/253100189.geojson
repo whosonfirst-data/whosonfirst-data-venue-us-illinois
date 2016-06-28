@@ -2,13 +2,14 @@
   "id": 253100189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.262527,38.543022,-89.262527,38.543022",
     "geom:latitude":38.543022,
     "geom:longitude":-89.262527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Oak St",
     "sg:city":"Hoffman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253100189,
-    "wof:lastmodified":1449065014,
+    "wof:lastmodified":1466490229,
     "wof:name":"Hoffman Fire Protection Distri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protection"
     ]
 },
-  "bbox": [-89.262527,38.543022,-89.262527,38.543022],
-  "geometry": {"coordinates":[-89.262527,38.543022],"type":"Point"}
+  "bbox": [
+    -89.262527,
+    38.543022,
+    -89.262527,
+    38.543022
+],
+  "geometry": {"coordinates":[-89.26252700000001,38.543022],"type":"Point"}
 }

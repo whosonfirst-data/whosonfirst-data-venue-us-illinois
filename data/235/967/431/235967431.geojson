@@ -2,13 +2,14 @@
   "id": 235967431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042628,41.508476,-88.042628,41.508476",
     "geom:latitude":41.508476,
     "geom:longitude":-88.042628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Briggs St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235967431,
-    "wof:lastmodified":1449008591,
+    "wof:lastmodified":1466489391,
     "wof:name":"Equi & Consulting Svc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-88.042628,41.508476,-88.042628,41.508476],
-  "geometry": {"coordinates":[-88.042628,41.508476],"type":"Point"}
+  "bbox": [
+    -88.042628,
+    41.508476,
+    -88.042628,
+    41.508476
+],
+  "geometry": {"coordinates":[-88.04262799999999,41.508476],"type":"Point"}
 }

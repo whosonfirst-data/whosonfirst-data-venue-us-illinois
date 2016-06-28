@@ -2,13 +2,14 @@
   "id": 270237589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.431913,37.809583,-88.431913,37.809583",
     "geom:latitude":37.809583,
     "geom:longitude":-88.431913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Jefferson St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270237589,
-    "wof:lastmodified":1449008729,
+    "wof:lastmodified":1466492630,
     "wof:name":"Fountain View Inc",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-88.431913,37.809583,-88.431913,37.809583],
-  "geometry": {"coordinates":[-88.431913,37.809583],"type":"Point"}
+  "bbox": [
+    -88.431913,
+    37.809583,
+    -88.431913,
+    37.809583
+],
+  "geometry": {"coordinates":[-88.43191299999999,37.809583],"type":"Point"}
 }

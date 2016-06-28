@@ -2,13 +2,14 @@
   "id": 286364159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696649,40.12874,-87.696649,40.12874",
     "geom:latitude":40.12874,
     "geom:longitude":-87.696649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Henning Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286364159,
-    "wof:lastmodified":1449016829,
+    "wof:lastmodified":1466491389,
     "wof:name":"Kawtown Kawasaki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-87.696649,40.12874,-87.696649,40.12874],
-  "geometry": {"coordinates":[-87.696649,40.12874],"type":"Point"}
+  "bbox": [
+    -87.696649,
+    40.12874,
+    -87.696649,
+    40.12874
+],
+  "geometry": {"coordinates":[-87.69664899999999,40.12874],"type":"Point"}
 }

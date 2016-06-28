@@ -2,13 +2,14 @@
   "id": 270056257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.753959,41.204316,-90.753959,41.204316",
     "geom:latitude":41.204316,
     "geom:longitude":-90.753959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 NW 5th Ave",
     "sg:city":"Aledo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270056257,
-    "wof:lastmodified":1449009298,
+    "wof:lastmodified":1466489869,
     "wof:name":"Mitchell Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-90.753959,41.204316,-90.753959,41.204316],
-  "geometry": {"coordinates":[-90.753959,41.204316],"type":"Point"}
+  "bbox": [
+    -90.753959,
+    41.204316,
+    -90.753959,
+    41.204316
+],
+  "geometry": {"coordinates":[-90.75395899999999,41.204316],"type":"Point"}
 }

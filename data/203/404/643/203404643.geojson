@@ -2,13 +2,14 @@
   "id": 203404643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.729699,41.948239,-87.729699,41.948239",
     "geom:latitude":41.948239,
     "geom:longitude":-87.729699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4036 W Waveland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203404643,
-    "wof:lastmodified":1449026240,
+    "wof:lastmodified":1466491646,
     "wof:name":"Property Management Group",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.729699,41.948239,-87.729699,41.948239],
+  "bbox": [
+    -87.729699,
+    41.948239,
+    -87.729699,
+    41.948239
+],
   "geometry": {"coordinates":[-87.729699,41.948239],"type":"Point"}
 }

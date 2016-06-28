@@ -2,13 +2,14 @@
   "id": 252735035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085213,41.541275,-88.085213,41.541275",
     "geom:latitude":41.541275,
     "geom:longitude":-88.085213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 N Broadway St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252735035,
-    "wof:lastmodified":1449006474,
+    "wof:lastmodified":1466489347,
     "wof:name":"Bob Martis & Sons Inc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plaque"
     ]
 },
-  "bbox": [-88.085213,41.541275,-88.085213,41.541275],
+  "bbox": [
+    -88.085213,
+    41.541275,
+    -88.085213,
+    41.541275
+],
   "geometry": {"coordinates":[-88.085213,41.541275],"type":"Point"}
 }

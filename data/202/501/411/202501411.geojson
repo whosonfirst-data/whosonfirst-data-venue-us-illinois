@@ -2,13 +2,14 @@
   "id": 202501411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.754691,39.053109,-88.754691,39.053109",
     "geom:latitude":39.053109,
     "geom:longitude":-88.754691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Cumberland Rd",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202501411,
-    "wof:lastmodified":1449062668,
+    "wof:lastmodified":1466495124,
     "wof:name":"Lutheran Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-88.754691,39.053109,-88.754691,39.053109],
-  "geometry": {"coordinates":[-88.754691,39.053109],"type":"Point"}
+  "bbox": [
+    -88.754691,
+    39.053109,
+    -88.754691,
+    39.053109
+],
+  "geometry": {"coordinates":[-88.75469099999999,39.053109],"type":"Point"}
 }

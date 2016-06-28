@@ -2,13 +2,14 @@
   "id": 303198227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.836513,41.881791,-87.836513,41.881791",
     "geom:latitude":41.881791,
     "geom:longitude":-87.836513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Walnut St",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303198227,
-    "wof:lastmodified":1448999006,
+    "wof:lastmodified":1466493009,
     "wof:name":"Willie Ruffin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.836513,41.881791,-87.836513,41.881791],
+  "bbox": [
+    -87.836513,
+    41.881791,
+    -87.836513,
+    41.881791
+],
   "geometry": {"coordinates":[-87.836513,41.881791],"type":"Point"}
 }

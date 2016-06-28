@@ -2,13 +2,14 @@
   "id": 236234085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.372256,39.979199,-91.372256,39.979199",
     "geom:latitude":39.979199,
     "geom:longitude":-91.372256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 Ellington Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236234085,
-    "wof:lastmodified":1449005032,
+    "wof:lastmodified":1466491879,
     "wof:name":"Ricks Transit Repair",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-91.372256,39.979199,-91.372256,39.979199],
-  "geometry": {"coordinates":[-91.372256,39.979199],"type":"Point"}
+  "bbox": [
+    -91.372256,
+    39.979199,
+    -91.372256,
+    39.979199
+],
+  "geometry": {"coordinates":[-91.37225599999999,39.979199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186645827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676058,41.725313,-87.676058,41.725313",
     "geom:latitude":41.725313,
     "geom:longitude":-87.676058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9235 S Hamilton Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186645827,
-    "wof:lastmodified":1449050511,
+    "wof:lastmodified":1466489959,
     "wof:name":"Christ The King Church",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.676058,41.725313,-87.676058,41.725313],
+  "bbox": [
+    -87.676058,
+    41.725313,
+    -87.676058,
+    41.725313
+],
   "geometry": {"coordinates":[-87.676058,41.725313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219845253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.884234,40.838912,-89.884234,40.838912",
     "geom:latitude":40.838912,
     "geom:longitude":-89.884234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Knoxville St",
     "sg:city":"Brimfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219845253,
-    "wof:lastmodified":1449070964,
+    "wof:lastmodified":1466496807,
     "wof:name":"Brimfield Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.884234,40.838912,-89.884234,40.838912],
-  "geometry": {"coordinates":[-89.884234,40.838912],"type":"Point"}
+  "bbox": [
+    -89.884234,
+    40.838912,
+    -89.884234,
+    40.838912
+],
+  "geometry": {"coordinates":[-89.88423400000001,40.838912],"type":"Point"}
 }

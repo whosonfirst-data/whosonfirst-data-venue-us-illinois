@@ -2,13 +2,14 @@
   "id": 303161393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307701,41.88891,-88.307701,41.88891",
     "geom:latitude":41.88891,
     "geom:longitude":-88.307701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303161393,
-    "wof:lastmodified":1448999086,
+    "wof:lastmodified":1466492411,
     "wof:name":"Candy Candy Candy Inc",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-88.307701,41.88891,-88.307701,41.88891],
-  "geometry": {"coordinates":[-88.307701,41.88891],"type":"Point"}
+  "bbox": [
+    -88.307701,
+    41.88891,
+    -88.307701,
+    41.88891
+],
+  "geometry": {"coordinates":[-88.30770099999999,41.88891],"type":"Point"}
 }

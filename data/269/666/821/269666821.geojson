@@ -2,13 +2,14 @@
   "id": 269666821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.135078,39.096254,-88.135078,39.096254",
     "geom:latitude":39.096254,
     "geom:longitude":-88.135078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12945 E 1700th Ave",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269666821,
-    "wof:lastmodified":1449037021,
+    "wof:lastmodified":1466491874,
     "wof:name":"Houser Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-88.135078,39.096254,-88.135078,39.096254],
-  "geometry": {"coordinates":[-88.135078,39.096254],"type":"Point"}
+  "bbox": [
+    -88.135078,
+    39.096254,
+    -88.135078,
+    39.096254
+],
+  "geometry": {"coordinates":[-88.13507799999999,39.096254],"type":"Point"}
 }

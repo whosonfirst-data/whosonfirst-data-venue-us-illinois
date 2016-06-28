@@ -2,13 +2,14 @@
   "id": 202731987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.678706,42.040771,-87.678706,42.040771",
     "geom:latitude":42.040771,
     "geom:longitude":-87.678706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Hinman Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202731987,
-    "wof:lastmodified":1449062361,
+    "wof:lastmodified":1466491162,
     "wof:name":"Mermaid Moon Inc",
     "wof:parent_id":85890793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.678706,42.040771,-87.678706,42.040771],
-  "geometry": {"coordinates":[-87.678706,42.040771],"type":"Point"}
+  "bbox": [
+    -87.678706,
+    42.040771,
+    -87.678706,
+    42.040771
+],
+  "geometry": {"coordinates":[-87.67870600000001,42.040771],"type":"Point"}
 }

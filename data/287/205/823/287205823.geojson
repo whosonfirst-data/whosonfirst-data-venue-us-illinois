@@ -2,13 +2,14 @@
   "id": 287205823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.672975,41.702502,-87.672975,41.702502",
     "geom:latitude":41.702502,
     "geom:longitude":-87.672975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10530 S Seeley Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287205823,
-    "wof:lastmodified":1449001197,
+    "wof:lastmodified":1466493284,
     "wof:name":"Anthony Simms LLC",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.672975,41.702502,-87.672975,41.702502],
-  "geometry": {"coordinates":[-87.672975,41.702502],"type":"Point"}
+  "bbox": [
+    -87.672975,
+    41.702502,
+    -87.672975,
+    41.702502
+],
+  "geometry": {"coordinates":[-87.67297499999999,41.702502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253464847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.015932,41.829021,-88.015932,41.829021",
     "geom:latitude":41.829021,
     "geom:longitude":-88.015932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Gregory Pl",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253464847,
-    "wof:lastmodified":1449063607,
+    "wof:lastmodified":1466495288,
     "wof:name":"Bedazzled",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-88.015932,41.829021,-88.015932,41.829021],
-  "geometry": {"coordinates":[-88.015932,41.829021],"type":"Point"}
+  "bbox": [
+    -88.015932,
+    41.829021,
+    -88.015932,
+    41.829021
+],
+  "geometry": {"coordinates":[-88.01593200000001,41.829021],"type":"Point"}
 }

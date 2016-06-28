@@ -2,13 +2,14 @@
   "id": 219380109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745281,41.65419,-87.745281,41.65419",
     "geom:latitude":41.65419,
     "geom:longitude":-87.745281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13130 Rivercrest Dr",
     "sg:city":"Midlothian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219380109,
-    "wof:lastmodified":1449072030,
+    "wof:lastmodified":1466491678,
     "wof:name":"Kohls 224-Crestwood",
     "wof:parent_id":85890723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.745281,41.65419,-87.745281,41.65419],
-  "geometry": {"coordinates":[-87.745281,41.65419],"type":"Point"}
+  "bbox": [
+    -87.745281,
+    41.65419,
+    -87.745281,
+    41.65419
+],
+  "geometry": {"coordinates":[-87.74528100000001,41.65419],"type":"Point"}
 }

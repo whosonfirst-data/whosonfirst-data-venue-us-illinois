@@ -2,13 +2,14 @@
   "id": 286435087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066977,41.518035,-88.066977,41.518035",
     "geom:latitude":41.518035,
     "geom:longitude":-88.066977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Grant Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286435087,
-    "wof:lastmodified":1449017823,
+    "wof:lastmodified":1466492505,
     "wof:name":"Flora Hines",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.066977,41.518035,-88.066977,41.518035],
-  "geometry": {"coordinates":[-88.066977,41.518035],"type":"Point"}
+  "bbox": [
+    -88.066977,
+    41.518035,
+    -88.066977,
+    41.518035
+],
+  "geometry": {"coordinates":[-88.06697699999999,41.518035],"type":"Point"}
 }

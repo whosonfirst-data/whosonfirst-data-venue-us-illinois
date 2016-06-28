@@ -2,13 +2,14 @@
   "id": 220170855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.420183,41.621535,-89.420183,41.621535",
     "geom:latitude":41.621535,
     "geom:longitude":-89.420183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Downey Rd",
     "sg:city":"Amboy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220170855,
-    "wof:lastmodified":1449074100,
+    "wof:lastmodified":1466491027,
     "wof:name":"Donald Rod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.420183,41.621535,-89.420183,41.621535],
-  "geometry": {"coordinates":[-89.420183,41.621535],"type":"Point"}
+  "bbox": [
+    -89.420183,
+    41.621535,
+    -89.420183,
+    41.621535
+],
+  "geometry": {"coordinates":[-89.42018299999999,41.621535],"type":"Point"}
 }

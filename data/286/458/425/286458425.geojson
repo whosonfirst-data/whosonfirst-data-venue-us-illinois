@@ -2,13 +2,14 @@
   "id": 286458425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941089,41.898643,-87.941089,41.898643",
     "geom:latitude":41.898643,
     "geom:longitude":-87.941089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Adell Pl",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286458425,
-    "wof:lastmodified":1449017278,
+    "wof:lastmodified":1466492858,
     "wof:name":"Elmhurst Chamber Of Commerce",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-87.941089,41.898643,-87.941089,41.898643],
-  "geometry": {"coordinates":[-87.941089,41.898643],"type":"Point"}
+  "bbox": [
+    -87.941089,
+    41.898643,
+    -87.941089,
+    41.898643
+],
+  "geometry": {"coordinates":[-87.94108900000001,41.898643],"type":"Point"}
 }

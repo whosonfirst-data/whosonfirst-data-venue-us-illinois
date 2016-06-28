@@ -2,13 +2,14 @@
   "id": 219631403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.939695,41.883181,-87.939695,41.883181",
     "geom:latitude":41.883181,
     "geom:longitude":-87.939695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 S York St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219631403,
-    "wof:lastmodified":1449071492,
+    "wof:lastmodified":1466494711,
     "wof:name":"Gas Stop",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-87.939695,41.883181,-87.939695,41.883181],
+  "bbox": [
+    -87.939695,
+    41.883181,
+    -87.939695,
+    41.883181
+],
   "geometry": {"coordinates":[-87.939695,41.883181],"type":"Point"}
 }

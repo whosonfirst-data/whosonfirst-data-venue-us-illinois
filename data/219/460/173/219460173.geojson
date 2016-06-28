@@ -2,13 +2,14 @@
   "id": 219460173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.800879,38.869983,-89.800879,38.869983",
     "geom:latitude":38.869983,
     "geom:longitude":-89.800879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 State Rte 4",
     "sg:city":"Alhambra",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219460173,
-    "wof:lastmodified":1449073712,
+    "wof:lastmodified":1466492704,
     "wof:name":"Metro East Wildlife Control",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.800879,38.869983,-89.800879,38.869983],
-  "geometry": {"coordinates":[-89.800879,38.869983],"type":"Point"}
+  "bbox": [
+    -89.800879,
+    38.869983,
+    -89.800879,
+    38.869983
+],
+  "geometry": {"coordinates":[-89.80087899999999,38.869983],"type":"Point"}
 }

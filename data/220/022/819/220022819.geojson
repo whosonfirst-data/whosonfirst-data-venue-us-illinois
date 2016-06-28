@@ -2,13 +2,14 @@
   "id": 220022819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.390845,41.721795,-88.390845,41.721795",
     "geom:latitude":41.721795,
     "geom:longitude":-88.390845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2688 Jenna Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220022819,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466489220,
     "wof:name":"Axiom Logic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-88.390845,41.721795,-88.390845,41.721795],
+  "bbox": [
+    -88.390845,
+    41.721795,
+    -88.390845,
+    41.721795
+],
   "geometry": {"coordinates":[-88.390845,41.721795],"type":"Point"}
 }

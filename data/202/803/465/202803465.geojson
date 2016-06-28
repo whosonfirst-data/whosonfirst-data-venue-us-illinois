@@ -2,13 +2,14 @@
   "id": 202803465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.040434,39.694245,-91.040434,39.694245",
     "geom:latitude":39.694245,
     "geom:longitude":-91.040434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Bainbridge St",
     "sg:city":"Barry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202803465,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1466491988,
     "wof:name":"Tiny's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.040434,39.694245,-91.040434,39.694245],
+  "bbox": [
+    -91.040434,
+    39.694245,
+    -91.040434,
+    39.694245
+],
   "geometry": {"coordinates":[-91.040434,39.694245],"type":"Point"}
 }

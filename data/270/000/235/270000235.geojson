@@ -2,13 +2,14 @@
   "id": 270000235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169594,39.502857,-88.169594,39.502857",
     "geom:latitude":39.502857,
     "geom:longitude":-88.169594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 N 13th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270000235,
-    "wof:lastmodified":1449009019,
+    "wof:lastmodified":1466495636,
     "wof:name":"Chris Shoot Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.169594,39.502857,-88.169594,39.502857],
+  "bbox": [
+    -88.169594,
+    39.502857,
+    -88.169594,
+    39.502857
+],
   "geometry": {"coordinates":[-88.169594,39.502857],"type":"Point"}
 }

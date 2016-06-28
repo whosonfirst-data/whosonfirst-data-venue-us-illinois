@@ -2,13 +2,14 @@
   "id": 286323101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.990171,40.768072,-87.990171,40.768072",
     "geom:latitude":40.768072,
     "geom:longitude":-87.990171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Thomas St",
     "sg:city":"Gilman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286323101,
-    "wof:lastmodified":1449015439,
+    "wof:lastmodified":1466490764,
     "wof:name":"Custom Colours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-87.990171,40.768072,-87.990171,40.768072],
+  "bbox": [
+    -87.990171,
+    40.768072,
+    -87.990171,
+    40.768072
+],
   "geometry": {"coordinates":[-87.990171,40.768072],"type":"Point"}
 }

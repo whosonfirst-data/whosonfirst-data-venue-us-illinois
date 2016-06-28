@@ -2,13 +2,14 @@
   "id": 169768029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.172554,38.665524,-90.172554,38.665524",
     "geom:latitude":38.665524,
     "geom:longitude":-90.172554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 2nd St",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169768029,
-    "wof:lastmodified":1449033954,
+    "wof:lastmodified":1466493874,
     "wof:name":"Tye Lewis Networks",
     "wof:parent_id":85838143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-90.172554,38.665524,-90.172554,38.665524],
-  "geometry": {"coordinates":[-90.172554,38.665524],"type":"Point"}
+  "bbox": [
+    -90.172554,
+    38.665524,
+    -90.172554,
+    38.665524
+],
+  "geometry": {"coordinates":[-90.17255400000001,38.665524],"type":"Point"}
 }

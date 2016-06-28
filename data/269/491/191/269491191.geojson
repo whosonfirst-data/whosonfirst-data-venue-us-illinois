@@ -2,13 +2,14 @@
   "id": 269491191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.663187,41.939775,-87.663187,41.939775",
     "geom:latitude":41.939775,
     "geom:longitude":-87.663187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269491191,
-    "wof:lastmodified":1449036106,
+    "wof:lastmodified":1466489107,
     "wof:name":"Chicago Life Magazine",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-87.663187,41.939775,-87.663187,41.939775],
-  "geometry": {"coordinates":[-87.663187,41.939775],"type":"Point"}
+  "bbox": [
+    -87.663187,
+    41.939775,
+    -87.663187,
+    41.939775
+],
+  "geometry": {"coordinates":[-87.66318699999999,41.939775],"type":"Point"}
 }

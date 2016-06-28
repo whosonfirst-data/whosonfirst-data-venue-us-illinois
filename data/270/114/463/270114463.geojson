@@ -2,13 +2,14 @@
   "id": 270114463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309429,41.326287,-88.309429,41.326287",
     "geom:latitude":41.326287,
     "geom:longitude":-88.309429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5845 E Deerfield Dr",
     "sg:city":"Coal City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270114463,
-    "wof:lastmodified":1449009669,
+    "wof:lastmodified":1466490718,
     "wof:name":"Bacou Dalloz USA",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-88.309429,41.326287,-88.309429,41.326287],
-  "geometry": {"coordinates":[-88.309429,41.326287],"type":"Point"}
+  "bbox": [
+    -88.309429,
+    41.326287,
+    -88.309429,
+    41.326287
+],
+  "geometry": {"coordinates":[-88.30942899999999,41.326287],"type":"Point"}
 }

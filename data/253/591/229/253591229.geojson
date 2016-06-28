@@ -2,13 +2,14 @@
   "id": 253591229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799276,41.735392,-87.799276,41.735392",
     "geom:latitude":41.735392,
     "geom:longitude":-87.799276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8550 S Harlem Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253591229,
-    "wof:lastmodified":1449064409,
+    "wof:lastmodified":1466496670,
     "wof:name":"ABC Cellular",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.799276,41.735392,-87.799276,41.735392],
-  "geometry": {"coordinates":[-87.799276,41.735392],"type":"Point"}
+  "bbox": [
+    -87.799276,
+    41.735392,
+    -87.799276,
+    41.735392
+],
+  "geometry": {"coordinates":[-87.79927600000001,41.735392],"type":"Point"}
 }

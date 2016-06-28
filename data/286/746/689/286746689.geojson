@@ -2,13 +2,14 @@
   "id": 286746689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.839659,41.355129,-88.839659,41.355129",
     "geom:latitude":41.355129,
     "geom:longitude":-88.839659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Joliet St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286746689,
-    "wof:lastmodified":1449015142,
+    "wof:lastmodified":1466497103,
     "wof:name":"Steve's Bakery",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-88.839659,41.355129,-88.839659,41.355129],
+  "bbox": [
+    -88.839659,
+    41.355129,
+    -88.839659,
+    41.355129
+],
   "geometry": {"coordinates":[-88.839659,41.355129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186027529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.033538,37.776336,-89.033538,37.776336",
     "geom:latitude":37.776336,
     "geom:longitude":-89.033538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Shannon Ave",
     "sg:city":"Energy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186027529,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1466493495,
     "wof:name":"Health Steinmetz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-89.033538,37.776336,-89.033538,37.776336],
-  "geometry": {"coordinates":[-89.033538,37.776336],"type":"Point"}
+  "bbox": [
+    -89.033538,
+    37.776336,
+    -89.033538,
+    37.776336
+],
+  "geometry": {"coordinates":[-89.03353799999999,37.776336],"type":"Point"}
 }

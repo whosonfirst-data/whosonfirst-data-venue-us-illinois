@@ -2,13 +2,14 @@
   "id": 203140545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.628616,40.114105,-87.628616,40.114105",
     "geom:latitude":40.114105,
     "geom:longitude":-87.628616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E 3rd St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203140545,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466495326,
     "wof:name":"Mascari Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.628616,40.114105,-87.628616,40.114105],
-  "geometry": {"coordinates":[-87.628616,40.114105],"type":"Point"}
+  "bbox": [
+    -87.628616,
+    40.114105,
+    -87.628616,
+    40.114105
+],
+  "geometry": {"coordinates":[-87.62861599999999,40.114105],"type":"Point"}
 }

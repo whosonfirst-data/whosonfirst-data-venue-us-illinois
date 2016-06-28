@@ -2,13 +2,14 @@
   "id": 219223585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.765445,40.353328,-88.765445,40.353328",
     "geom:latitude":40.353328,
     "geom:longitude":-88.765445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N White St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219223585,
-    "wof:lastmodified":1449070628,
+    "wof:lastmodified":1466489786,
     "wof:name":"Le Roy Street Dept",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-88.765445,40.353328,-88.765445,40.353328],
+  "bbox": [
+    -88.765445,
+    40.353328,
+    -88.765445,
+    40.353328
+],
   "geometry": {"coordinates":[-88.765445,40.353328],"type":"Point"}
 }

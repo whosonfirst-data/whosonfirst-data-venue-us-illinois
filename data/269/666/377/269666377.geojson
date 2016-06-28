@@ -2,13 +2,14 @@
   "id": 269666377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.949227,42.197341,-87.949227,42.197341",
     "geom:latitude":42.197341,
     "geom:longitude":-87.949227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23401 N Apple Hill Ln",
     "sg:city":"Lincolnshire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269666377,
-    "wof:lastmodified":1449037021,
+    "wof:lastmodified":1466491867,
     "wof:name":"Dave's Reel Svc",
     "wof:parent_id":85890959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.949227,42.197341,-87.949227,42.197341],
-  "geometry": {"coordinates":[-87.949227,42.197341],"type":"Point"}
+  "bbox": [
+    -87.949227,
+    42.197341,
+    -87.949227,
+    42.197341
+],
+  "geometry": {"coordinates":[-87.94922699999999,42.197341],"type":"Point"}
 }

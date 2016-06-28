@@ -2,13 +2,14 @@
   "id": 253387581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.205935,40.095048,-88.205935,40.095048",
     "geom:latitude":40.095048,
     "geom:longitude":-88.205935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Montclair Rd",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253387581,
-    "wof:lastmodified":1449065374,
+    "wof:lastmodified":1466494034,
     "wof:name":"Sally Robinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-88.205935,40.095048,-88.205935,40.095048],
+  "bbox": [
+    -88.205935,
+    40.095048,
+    -88.205935,
+    40.095048
+],
   "geometry": {"coordinates":[-88.205935,40.095048],"type":"Point"}
 }

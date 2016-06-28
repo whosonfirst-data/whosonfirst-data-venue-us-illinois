@@ -2,13 +2,14 @@
   "id": 286429123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.219065,41.381427,-89.219065,41.381427",
     "geom:latitude":41.381427,
     "geom:longitude":-89.219065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main Ave",
     "sg:city":"Ladd",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286429123,
-    "wof:lastmodified":1449017929,
+    "wof:lastmodified":1466492409,
     "wof:name":"Ladd Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-89.219065,41.381427,-89.219065,41.381427],
+  "bbox": [
+    -89.219065,
+    41.381427,
+    -89.219065,
+    41.381427
+],
   "geometry": {"coordinates":[-89.219065,41.381427],"type":"Point"}
 }

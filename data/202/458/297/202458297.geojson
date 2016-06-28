@@ -2,13 +2,14 @@
   "id": 202458297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081133,41.5279,-88.081133,41.5279",
     "geom:latitude":41.5279,
     "geom:longitude":-88.081133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 E Cass St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202458297,
-    "wof:lastmodified":1449061904,
+    "wof:lastmodified":1466494460,
     "wof:name":"Z-Tech",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-88.081133,41.5279,-88.081133,41.5279],
-  "geometry": {"coordinates":[-88.081133,41.5279],"type":"Point"}
+  "bbox": [
+    -88.081133,
+    41.5279,
+    -88.081133,
+    41.5279
+],
+  "geometry": {"coordinates":[-88.08113299999999,41.5279],"type":"Point"}
 }

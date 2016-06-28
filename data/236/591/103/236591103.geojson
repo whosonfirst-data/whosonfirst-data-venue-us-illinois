@@ -2,13 +2,14 @@
   "id": 236591103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.508935,40.379836,-89.508935,40.379836",
     "geom:latitude":40.379836,
     "geom:longitude":-89.508935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22388 State Rte 122",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236591103,
-    "wof:lastmodified":1449003416,
+    "wof:lastmodified":1466496293,
     "wof:name":"Steve's Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mower"
     ]
 },
-  "bbox": [-89.508935,40.379836,-89.508935,40.379836],
-  "geometry": {"coordinates":[-89.508935,40.379836],"type":"Point"}
+  "bbox": [
+    -89.508935,
+    40.379836,
+    -89.508935,
+    40.379836
+],
+  "geometry": {"coordinates":[-89.50893499999999,40.379836],"type":"Point"}
 }

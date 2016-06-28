@@ -2,13 +2,14 @@
   "id": 202542585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539785,41.334125,-87.539785,41.334125",
     "geom:latitude":41.334125,
     "geom:longitude":-87.539785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30705 S Klemme Rd",
     "sg:city":"Beecher",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202542585,
-    "wof:lastmodified":1449062096,
+    "wof:lastmodified":1466488981,
     "wof:name":"Henry Panozzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.539785,41.334125,-87.539785,41.334125],
-  "geometry": {"coordinates":[-87.539785,41.334125],"type":"Point"}
+  "bbox": [
+    -87.539785,
+    41.334125,
+    -87.539785,
+    41.334125
+],
+  "geometry": {"coordinates":[-87.53978499999999,41.334125],"type":"Point"}
 }

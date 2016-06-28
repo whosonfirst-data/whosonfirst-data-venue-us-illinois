@@ -2,13 +2,14 @@
   "id": 185890101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.152217,38.529806,-89.152217,38.529806",
     "geom:latitude":38.529806,
     "geom:longitude":-89.152217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 W Broadway",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":185890101,
-    "wof:lastmodified":1449006973,
+    "wof:lastmodified":1466489850,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-89.152217,38.529806,-89.152217,38.529806],
-  "geometry": {"coordinates":[-89.152217,38.529806],"type":"Point"}
+  "bbox": [
+    -89.152217,
+    38.529806,
+    -89.152217,
+    38.529806
+],
+  "geometry": {"coordinates":[-89.15221699999999,38.529806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252865225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.83052,41.979497,-87.83052,41.979497",
     "geom:latitude":41.979497,
     "geom:longitude":-87.83052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 N Paris Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":252865225,
-    "wof:lastmodified":1449006237,
+    "wof:lastmodified":1466490998,
     "wof:name":"Jay J Kowalski CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.83052,41.979497,-87.83052,41.979497],
-  "geometry": {"coordinates":[-87.83052,41.979497],"type":"Point"}
+  "bbox": [
+    -87.83052,
+    41.979497,
+    -87.83052,
+    41.979497
+],
+  "geometry": {"coordinates":[-87.83052000000001,41.979497],"type":"Point"}
 }

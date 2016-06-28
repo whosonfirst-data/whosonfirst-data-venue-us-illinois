@@ -2,13 +2,14 @@
   "id": 236610201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007005,41.728556,-90.007005,41.728556",
     "geom:latitude":41.728556,
     "geom:longitude":-90.007005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12677 Black Rd",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236610201,
-    "wof:lastmodified":1449005187,
+    "wof:lastmodified":1466496473,
     "wof:name":"Franks Flying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.007005,41.728556,-90.007005,41.728556],
-  "geometry": {"coordinates":[-90.007005,41.728556],"type":"Point"}
+  "bbox": [
+    -90.007005,
+    41.728556,
+    -90.007005,
+    41.728556
+],
+  "geometry": {"coordinates":[-90.00700500000001,41.728556],"type":"Point"}
 }

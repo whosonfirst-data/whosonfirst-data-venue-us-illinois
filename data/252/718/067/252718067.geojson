@@ -2,13 +2,14 @@
   "id": 252718067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737235,41.588554,-87.737235,41.588554",
     "geom:latitude":41.588554,
     "geom:longitude":-87.737235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4845 167th St",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252718067,
-    "wof:lastmodified":1449005655,
+    "wof:lastmodified":1466489121,
     "wof:name":"Cook-Illinois Corp",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.737235,41.588554,-87.737235,41.588554],
+  "bbox": [
+    -87.737235,
+    41.588554,
+    -87.737235,
+    41.588554
+],
   "geometry": {"coordinates":[-87.737235,41.588554],"type":"Point"}
 }

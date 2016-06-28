@@ -2,13 +2,14 @@
   "id": 253335219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.24087,41.763412,-88.24087,41.763412",
     "geom:latitude":41.763412,
     "geom:longitude":-88.24087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3056 Weber Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253335219,
-    "wof:lastmodified":1449064791,
+    "wof:lastmodified":1466493229,
     "wof:name":"Unified Engineering Inc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.24087,41.763412,-88.24087,41.763412],
+  "bbox": [
+    -88.24087,
+    41.763412,
+    -88.24087,
+    41.763412
+],
   "geometry": {"coordinates":[-88.24087,41.763412],"type":"Point"}
 }

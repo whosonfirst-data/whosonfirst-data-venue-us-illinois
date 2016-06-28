@@ -2,13 +2,14 @@
   "id": 203167093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073423,41.527833,-88.073423,41.527833",
     "geom:latitude":41.527833,
     "geom:longitude":-88.073423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"379 E Cass St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203167093,
-    "wof:lastmodified":1449025915,
+    "wof:lastmodified":1466488985,
     "wof:name":"Super Marcado Market",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.073423,41.527833,-88.073423,41.527833],
-  "geometry": {"coordinates":[-88.073423,41.527833],"type":"Point"}
+  "bbox": [
+    -88.073423,
+    41.527833,
+    -88.073423,
+    41.527833
+],
+  "geometry": {"coordinates":[-88.07342300000001,41.527833],"type":"Point"}
 }

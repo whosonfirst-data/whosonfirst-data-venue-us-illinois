@@ -2,13 +2,14 @@
   "id": 185855521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.65078,39.79837,-89.65078,39.79837",
     "geom:latitude":39.79837,
     "geom:longitude":-89.65078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Capitol Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185855521,
-    "wof:lastmodified":1449007784,
+    "wof:lastmodified":1466489375,
     "wof:name":"Community College Board",
     "wof:parent_id":85803559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-89.65078,39.79837,-89.65078,39.79837],
+  "bbox": [
+    -89.65078,
+    39.79837,
+    -89.65078,
+    39.79837
+],
   "geometry": {"coordinates":[-89.65078,39.79837],"type":"Point"}
 }

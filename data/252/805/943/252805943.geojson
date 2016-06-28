@@ -2,13 +2,14 @@
   "id": 252805943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.015813,41.802442,-88.015813,41.802442",
     "geom:latitude":41.802442,
     "geom:longitude":-88.015813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 Linscott Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252805943,
-    "wof:lastmodified":1449005770,
+    "wof:lastmodified":1466490256,
     "wof:name":"Matco Tools",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.015813,41.802442,-88.015813,41.802442],
-  "geometry": {"coordinates":[-88.015813,41.802442],"type":"Point"}
+  "bbox": [
+    -88.015813,
+    41.802442,
+    -88.015813,
+    41.802442
+],
+  "geometry": {"coordinates":[-88.01581299999999,41.802442],"type":"Point"}
 }

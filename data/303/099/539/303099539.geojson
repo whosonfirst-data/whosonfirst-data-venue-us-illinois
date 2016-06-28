@@ -2,13 +2,14 @@
   "id": 303099539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.587832,40.129929,-87.587832,40.129929",
     "geom:latitude":40.129929,
     "geom:longitude":-87.587832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Blue Star Hwy",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303099539,
-    "wof:lastmodified":1448999711,
+    "wof:lastmodified":1466491392,
     "wof:name":"Danville Senior Apartments",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.587832,40.129929,-87.587832,40.129929],
-  "geometry": {"coordinates":[-87.587832,40.129929],"type":"Point"}
+  "bbox": [
+    -87.587832,
+    40.129929,
+    -87.587832,
+    40.129929
+],
+  "geometry": {"coordinates":[-87.58783200000001,40.129929],"type":"Point"}
 }

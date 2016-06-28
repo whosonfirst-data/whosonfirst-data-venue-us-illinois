@@ -2,13 +2,14 @@
   "id": 186219365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.195297,38.628601,-90.195297,38.628601",
     "geom:latitude":38.628601,
     "geom:longitude":-90.195297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Pine St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186219365,
-    "wof:lastmodified":1449052925,
+    "wof:lastmodified":1466494993,
     "wof:name":"Binswanger Glass",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-90.195297,38.628601,-90.195297,38.628601],
+  "bbox": [
+    -90.195297,
+    38.628601,
+    -90.195297,
+    38.628601
+],
   "geometry": {"coordinates":[-90.195297,38.628601],"type":"Point"}
 }

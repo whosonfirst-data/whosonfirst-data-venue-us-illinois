@@ -2,13 +2,14 @@
   "id": 220200635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.56884,41.562195,-87.56884,41.562195",
     "geom:latitude":41.562195,
     "geom:longitude":-87.56884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18234 de Jong Ln",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220200635,
-    "wof:lastmodified":1449074358,
+    "wof:lastmodified":1466491379,
     "wof:name":"Mark IV Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-87.56884,41.562195,-87.56884,41.562195],
-  "geometry": {"coordinates":[-87.56884,41.562195],"type":"Point"}
+  "bbox": [
+    -87.56884,
+    41.562195,
+    -87.56884,
+    41.562195
+],
+  "geometry": {"coordinates":[-87.56883999999999,41.562195],"type":"Point"}
 }

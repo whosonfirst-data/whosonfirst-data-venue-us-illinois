@@ -2,13 +2,14 @@
   "id": 286904977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306452,41.794805,-88.306452,41.794805",
     "geom:latitude":41.794805,
     "geom:longitude":-88.306452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Sherwood Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286904977,
-    "wof:lastmodified":1449018155,
+    "wof:lastmodified":1466498099,
     "wof:name":"Superior Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-88.306452,41.794805,-88.306452,41.794805],
-  "geometry": {"coordinates":[-88.306452,41.794805],"type":"Point"}
+  "bbox": [
+    -88.306452,
+    41.794805,
+    -88.306452,
+    41.794805
+],
+  "geometry": {"coordinates":[-88.30645199999999,41.794805],"type":"Point"}
 }

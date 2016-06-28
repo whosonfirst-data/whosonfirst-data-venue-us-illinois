@@ -2,13 +2,14 @@
   "id": 270107805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.674653,41.997924,-87.674653,41.997924",
     "geom:latitude":41.997924,
     "geom:longitude":-87.674653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 W Devon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270107805,
-    "wof:lastmodified":1449008673,
+    "wof:lastmodified":1466490622,
     "wof:name":"Matthew Fox DPM",
     "wof:parent_id":85867703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.674653,41.997924,-87.674653,41.997924],
-  "geometry": {"coordinates":[-87.674653,41.997924],"type":"Point"}
+  "bbox": [
+    -87.674653,
+    41.997924,
+    -87.674653,
+    41.997924
+],
+  "geometry": {"coordinates":[-87.67465300000001,41.997924],"type":"Point"}
 }

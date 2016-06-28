@@ -2,13 +2,14 @@
   "id": 203050353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.876504,41.940159,-87.876504,41.940159",
     "geom:latitude":41.940159,
     "geom:longitude":-87.876504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10004 Pacific Ave",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203050353,
-    "wof:lastmodified":1449025989,
+    "wof:lastmodified":1466493634,
     "wof:name":"A Lee Street Printing",
     "wof:parent_id":85867815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-87.876504,41.940159,-87.876504,41.940159],
+  "bbox": [
+    -87.876504,
+    41.940159,
+    -87.876504,
+    41.940159
+],
   "geometry": {"coordinates":[-87.876504,41.940159],"type":"Point"}
 }

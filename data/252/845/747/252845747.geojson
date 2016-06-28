@@ -2,13 +2,14 @@
   "id": 252845747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166255,41.565537,-88.166255,41.565537",
     "geom:latitude":41.565537,
     "geom:longitude":-88.166255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3484 Caton Farm Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252845747,
-    "wof:lastmodified":1449005585,
+    "wof:lastmodified":1466490751,
     "wof:name":"National City Mortgage",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.166255,41.565537,-88.166255,41.565537],
-  "geometry": {"coordinates":[-88.166255,41.565537],"type":"Point"}
+  "bbox": [
+    -88.166255,
+    41.565537,
+    -88.166255,
+    41.565537
+],
+  "geometry": {"coordinates":[-88.16625500000001,41.565537],"type":"Point"}
 }

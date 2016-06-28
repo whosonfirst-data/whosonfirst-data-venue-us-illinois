@@ -2,13 +2,14 @@
   "id": 270302195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.336475,41.486005,-90.336475,41.486005",
     "geom:latitude":41.486005,
     "geom:longitude":-90.336475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Cleveland Rd",
     "sg:city":"Colona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270302195,
-    "wof:lastmodified":1449009455,
+    "wof:lastmodified":1466493618,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-90.336475,41.486005,-90.336475,41.486005],
-  "geometry": {"coordinates":[-90.336475,41.486005],"type":"Point"}
+  "bbox": [
+    -90.336475,
+    41.486005,
+    -90.336475,
+    41.486005
+],
+  "geometry": {"coordinates":[-90.33647499999999,41.486005],"type":"Point"}
 }

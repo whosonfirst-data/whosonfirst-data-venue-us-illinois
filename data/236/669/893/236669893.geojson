@@ -2,13 +2,14 @@
   "id": 236669893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111234,41.529225,-88.111234,41.529225",
     "geom:latitude":41.529225,
     "geom:longitude":-88.111234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Buell Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236669893,
-    "wof:lastmodified":1449001961,
+    "wof:lastmodified":1466497031,
     "wof:name":"Robert C Bodach",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.111234,41.529225,-88.111234,41.529225],
+  "bbox": [
+    -88.111234,
+    41.529225,
+    -88.111234,
+    41.529225
+],
   "geometry": {"coordinates":[-88.111234,41.529225],"type":"Point"}
 }

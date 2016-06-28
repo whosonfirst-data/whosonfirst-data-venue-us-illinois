@@ -2,13 +2,14 @@
   "id": 220122753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046827,39.43175,-88.046827,39.43175",
     "geom:latitude":39.43175,
     "geom:longitude":-88.046827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22707 Harvest Rd",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220122753,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466490443,
     "wof:name":"Stephen Shrader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-88.046827,39.43175,-88.046827,39.43175],
-  "geometry": {"coordinates":[-88.046827,39.43175],"type":"Point"}
+  "bbox": [
+    -88.046827,
+    39.43175,
+    -88.046827,
+    39.43175
+],
+  "geometry": {"coordinates":[-88.04682699999999,39.43175],"type":"Point"}
 }

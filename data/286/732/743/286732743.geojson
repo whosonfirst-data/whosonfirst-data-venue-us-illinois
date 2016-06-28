@@ -2,13 +2,14 @@
   "id": 286732743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.489496,37.836581,-88.489496,37.836581",
     "geom:latitude":37.836581,
     "geom:longitude":-88.489496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Woolard Rd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286732743,
-    "wof:lastmodified":1449018185,
+    "wof:lastmodified":1466496822,
     "wof:name":"Jonesboro Auto Source",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.489496,37.836581,-88.489496,37.836581],
+  "bbox": [
+    -88.489496,
+    37.836581,
+    -88.489496,
+    37.836581
+],
   "geometry": {"coordinates":[-88.489496,37.836581],"type":"Point"}
 }

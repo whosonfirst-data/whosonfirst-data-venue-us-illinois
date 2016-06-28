@@ -2,13 +2,14 @@
   "id": 270361653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.122357,41.522687,-88.122357,41.522687",
     "geom:latitude":41.522687,
     "geom:longitude":-88.122357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270361653,
-    "wof:lastmodified":1449010437,
+    "wof:lastmodified":1466494539,
     "wof:name":"Lifeworks",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-88.122357,41.522687,-88.122357,41.522687],
-  "geometry": {"coordinates":[-88.122357,41.522687],"type":"Point"}
+  "bbox": [
+    -88.122357,
+    41.522687,
+    -88.122357,
+    41.522687
+],
+  "geometry": {"coordinates":[-88.12235699999999,41.522687],"type":"Point"}
 }

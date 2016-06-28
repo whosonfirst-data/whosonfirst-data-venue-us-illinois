@@ -2,13 +2,14 @@
   "id": 220099105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046401,41.588462,-88.046401,41.588462",
     "geom:latitude":41.588462,
     "geom:longitude":-88.046401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 E 9th St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220099105,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1466490155,
     "wof:name":"Lockport Township Fire Protect",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-88.046401,41.588462,-88.046401,41.588462],
+  "bbox": [
+    -88.046401,
+    41.588462,
+    -88.046401,
+    41.588462
+],
   "geometry": {"coordinates":[-88.046401,41.588462],"type":"Point"}
 }

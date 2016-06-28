@@ -2,13 +2,14 @@
   "id": 253608639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745978,41.865878,-87.745978,41.865878",
     "geom:latitude":41.865878,
     "geom:longitude":-87.745978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 W Roosevelt Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253608639,
-    "wof:lastmodified":1449064089,
+    "wof:lastmodified":1466496911,
     "wof:name":"Edgewater Press",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.745978,41.865878,-87.745978,41.865878],
-  "geometry": {"coordinates":[-87.745978,41.865878],"type":"Point"}
+  "bbox": [
+    -87.745978,
+    41.865878,
+    -87.745978,
+    41.865878
+],
+  "geometry": {"coordinates":[-87.74597799999999,41.865878],"type":"Point"}
 }

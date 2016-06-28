@@ -2,13 +2,14 @@
   "id": 202702501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.460844,41.839355,-89.460844,41.839355",
     "geom:latitude":41.839355,
     "geom:longitude":-89.460844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Middle Rd",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202702501,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466490834,
     "wof:name":"Open Sesame Child Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.460844,41.839355,-89.460844,41.839355],
-  "geometry": {"coordinates":[-89.460844,41.839355],"type":"Point"}
+  "bbox": [
+    -89.460844,
+    41.839355,
+    -89.460844,
+    41.839355
+],
+  "geometry": {"coordinates":[-89.46084399999999,41.839355],"type":"Point"}
 }

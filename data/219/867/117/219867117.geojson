@@ -2,13 +2,14 @@
   "id": 219867117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725209,41.720461,-87.725209,41.720461",
     "geom:latitude":41.720461,
     "geom:longitude":-87.725209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 W 95th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219867117,
-    "wof:lastmodified":1449071913,
+    "wof:lastmodified":1466496937,
     "wof:name":"La Salle Home Mortgage Corp",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-87.725209,41.720461,-87.725209,41.720461],
-  "geometry": {"coordinates":[-87.725209,41.720461],"type":"Point"}
+  "bbox": [
+    -87.725209,
+    41.720461,
+    -87.725209,
+    41.720461
+],
+  "geometry": {"coordinates":[-87.72520900000001,41.720461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253432273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.316819,41.777412,-88.316819,41.777412",
     "geom:latitude":41.777412,
     "geom:longitude":-88.316819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"993 Oak Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253432273,
-    "wof:lastmodified":1449062771,
+    "wof:lastmodified":1466494749,
     "wof:name":"Jones Intercable",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-88.316819,41.777412,-88.316819,41.777412],
+  "bbox": [
+    -88.316819,
+    41.777412,
+    -88.316819,
+    41.777412
+],
   "geometry": {"coordinates":[-88.316819,41.777412],"type":"Point"}
 }

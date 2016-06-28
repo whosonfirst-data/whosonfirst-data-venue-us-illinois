@@ -2,13 +2,14 @@
   "id": 286405653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653438,41.579008,-87.653438,41.579008",
     "geom:latitude":41.579008,
     "geom:longitude":-87.653438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 171st St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286405653,
-    "wof:lastmodified":1449017854,
+    "wof:lastmodified":1466492034,
     "wof:name":"A Friend's Place",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-87.653438,41.579008,-87.653438,41.579008],
-  "geometry": {"coordinates":[-87.653438,41.579008],"type":"Point"}
+  "bbox": [
+    -87.653438,
+    41.579008,
+    -87.653438,
+    41.579008
+],
+  "geometry": {"coordinates":[-87.65343799999999,41.579008],"type":"Point"}
 }

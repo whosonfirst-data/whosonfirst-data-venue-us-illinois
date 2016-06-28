@@ -2,13 +2,14 @@
   "id": 203028355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.740887,41.737921,-87.740887,41.737921",
     "geom:latitude":41.737921,
     "geom:longitude":-87.740887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8537 S Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203028355,
-    "wof:lastmodified":1449025967,
+    "wof:lastmodified":1466493100,
     "wof:name":"Chicago Pediatrics",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.740887,41.737921,-87.740887,41.737921],
+  "bbox": [
+    -87.740887,
+    41.737921,
+    -87.740887,
+    41.737921
+],
   "geometry": {"coordinates":[-87.740887,41.737921],"type":"Point"}
 }

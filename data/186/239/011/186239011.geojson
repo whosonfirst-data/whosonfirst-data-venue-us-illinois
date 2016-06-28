@@ -2,13 +2,14 @@
   "id": 186239011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.184723,38.629477,-90.184723,38.629477",
     "geom:latitude":38.629477,
     "geom:longitude":-90.184723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N 2nd St Ste 400",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186239011,
-    "wof:lastmodified":1449050500,
+    "wof:lastmodified":1466495205,
     "wof:name":"Missouri Lawyers Weekly",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-90.184723,38.629477,-90.184723,38.629477],
-  "geometry": {"coordinates":[-90.184723,38.629477],"type":"Point"}
+  "bbox": [
+    -90.184723,
+    38.629477,
+    -90.184723,
+    38.629477
+],
+  "geometry": {"coordinates":[-90.18472300000001,38.629477],"type":"Point"}
 }

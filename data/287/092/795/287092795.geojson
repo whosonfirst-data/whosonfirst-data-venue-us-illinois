@@ -2,13 +2,14 @@
   "id": 287092795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.97414,41.511683,-87.97414,41.511683",
     "geom:latitude":41.511683,
     "geom:longitude":-87.97414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Wildwood Dr",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287092795,
-    "wof:lastmodified":1449001390,
+    "wof:lastmodified":1466491452,
     "wof:name":"Daniel Construction",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.97414,41.511683,-87.97414,41.511683],
-  "geometry": {"coordinates":[-87.97414,41.511683],"type":"Point"}
+  "bbox": [
+    -87.97414,
+    41.511683,
+    -87.97414,
+    41.511683
+],
+  "geometry": {"coordinates":[-87.97414000000001,41.511683],"type":"Point"}
 }

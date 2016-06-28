@@ -2,13 +2,14 @@
   "id": 253228385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160367,41.545742,-88.160367,41.545742",
     "geom:latitude":41.545742,
     "geom:longitude":-88.160367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Citadel Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253228385,
-    "wof:lastmodified":1449063746,
+    "wof:lastmodified":1466491702,
     "wof:name":"Earl Horton",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "general"
     ]
 },
-  "bbox": [-88.160367,41.545742,-88.160367,41.545742],
-  "geometry": {"coordinates":[-88.160367,41.545742],"type":"Point"}
+  "bbox": [
+    -88.160367,
+    41.545742,
+    -88.160367,
+    41.545742
+],
+  "geometry": {"coordinates":[-88.16036699999999,41.545742],"type":"Point"}
 }

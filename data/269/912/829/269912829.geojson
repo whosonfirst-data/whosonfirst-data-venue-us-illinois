@@ -2,13 +2,14 @@
   "id": 269912829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.20337,37.728289,-89.20337,37.728289",
     "geom:latitude":37.728289,
     "geom:longitude":-89.20337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 E Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269912829,
-    "wof:lastmodified":1449037328,
+    "wof:lastmodified":1466496134,
     "wof:name":"Harmon Auto Glass/Glass Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-89.20337,37.728289,-89.20337,37.728289],
-  "geometry": {"coordinates":[-89.20337,37.728289],"type":"Point"}
+  "bbox": [
+    -89.20337,
+    37.728289,
+    -89.20337,
+    37.728289
+],
+  "geometry": {"coordinates":[-89.20337000000001,37.728289],"type":"Point"}
 }

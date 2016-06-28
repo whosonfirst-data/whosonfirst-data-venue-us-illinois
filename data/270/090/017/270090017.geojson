@@ -2,13 +2,14 @@
   "id": 270090017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.46025,39.710391,-88.46025,39.710391",
     "geom:latitude":39.710391,
     "geom:longitude":-88.46025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 E Columbia St",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270090017,
-    "wof:lastmodified":1449010567,
+    "wof:lastmodified":1466490362,
     "wof:name":"RGA Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.46025,39.710391,-88.46025,39.710391],
+  "bbox": [
+    -88.46025,
+    39.710391,
+    -88.46025,
+    39.710391
+],
   "geometry": {"coordinates":[-88.46025,39.710391],"type":"Point"}
 }

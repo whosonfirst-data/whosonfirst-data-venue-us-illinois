@@ -2,13 +2,14 @@
   "id": 220065145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306186,39.686806,-88.306186,39.686806",
     "geom:latitude":39.686806,
     "geom:longitude":-88.306186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Locust St",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220065145,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466489746,
     "wof:name":"Schrader Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-88.306186,39.686806,-88.306186,39.686806],
+  "bbox": [
+    -88.306186,
+    39.686806,
+    -88.306186,
+    39.686806
+],
   "geometry": {"coordinates":[-88.306186,39.686806],"type":"Point"}
 }

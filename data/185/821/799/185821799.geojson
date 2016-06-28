@@ -2,13 +2,14 @@
   "id": 185821799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.01834,40.039115,-90.01834,40.039115",
     "geom:latitude":40.039115,
     "geom:longitude":-90.01834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11365 N Dirks Rd",
     "sg:city":"Chandlerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185821799,
-    "wof:lastmodified":1449007491,
+    "wof:lastmodified":1466489164,
     "wof:name":"Duckwiler Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.01834,40.039115,-90.01834,40.039115],
-  "geometry": {"coordinates":[-90.01834,40.039115],"type":"Point"}
+  "bbox": [
+    -90.01834,
+    40.039115,
+    -90.01834,
+    40.039115
+],
+  "geometry": {"coordinates":[-90.01833999999999,40.039115],"type":"Point"}
 }

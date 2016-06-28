@@ -2,13 +2,14 @@
   "id": 270363965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809526,41.68757,-87.809526,41.68757",
     "geom:latitude":41.68757,
     "geom:longitude":-87.809526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11238 Southwest Hwy",
     "sg:city":"Palos Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270363965,
-    "wof:lastmodified":1449010799,
+    "wof:lastmodified":1466494576,
     "wof:name":"Singular Communication",
     "wof:parent_id":85890891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-87.809526,41.68757,-87.809526,41.68757],
-  "geometry": {"coordinates":[-87.809526,41.68757],"type":"Point"}
+  "bbox": [
+    -87.809526,
+    41.68757,
+    -87.809526,
+    41.68757
+],
+  "geometry": {"coordinates":[-87.80952600000001,41.68757],"type":"Point"}
 }

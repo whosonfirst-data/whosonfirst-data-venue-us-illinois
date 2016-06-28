@@ -2,13 +2,14 @@
   "id": 202481521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.325389,37.979851,-88.325389,37.979851",
     "geom:latitude":37.979851,
     "geom:longitude":-88.325389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Powell St",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202481521,
-    "wof:lastmodified":1449062335,
+    "wof:lastmodified":1466494813,
     "wof:name":"United Cumberland Presbyterian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.325389,37.979851,-88.325389,37.979851],
+  "bbox": [
+    -88.325389,
+    37.979851,
+    -88.325389,
+    37.979851
+],
   "geometry": {"coordinates":[-88.325389,37.979851],"type":"Point"}
 }

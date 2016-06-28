@@ -2,13 +2,14 @@
   "id": 303118619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.561041,39.149425,-88.561041,39.149425",
     "geom:latitude":39.149425,
     "geom:longitude":-88.561041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 W Rickelman Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303118619,
-    "wof:lastmodified":1449000097,
+    "wof:lastmodified":1466491707,
     "wof:name":"Camp Lakewood Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-88.561041,39.149425,-88.561041,39.149425],
+  "bbox": [
+    -88.561041,
+    39.149425,
+    -88.561041,
+    39.149425
+],
   "geometry": {"coordinates":[-88.561041,39.149425],"type":"Point"}
 }

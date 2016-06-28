@@ -2,13 +2,14 @@
   "id": 202674777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08994,41.648225,-88.08994,41.648225",
     "geom:latitude":41.648225,
     "geom:longitude":-88.08994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Kingston Dr",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202674777,
-    "wof:lastmodified":1449061998,
+    "wof:lastmodified":1466490526,
     "wof:name":"St Andrew The Apostle School",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-88.08994,41.648225,-88.08994,41.648225],
+  "bbox": [
+    -88.08994,
+    41.648225,
+    -88.08994,
+    41.648225
+],
   "geometry": {"coordinates":[-88.08994,41.648225],"type":"Point"}
 }

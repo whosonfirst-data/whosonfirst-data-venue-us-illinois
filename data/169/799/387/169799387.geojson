@@ -2,13 +2,14 @@
   "id": 169799387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983263,38.60335,-89.983263,38.60335",
     "geom:latitude":38.60335,
     "geom:longitude":-89.983263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Fountains Pkwy Ste B",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169799387,
-    "wof:lastmodified":1449035988,
+    "wof:lastmodified":1466494461,
     "wof:name":"Johnson Properties Inc",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.983263,38.60335,-89.983263,38.60335],
-  "geometry": {"coordinates":[-89.983263,38.60335],"type":"Point"}
+  "bbox": [
+    -89.983263,
+    38.60335,
+    -89.983263,
+    38.60335
+],
+  "geometry": {"coordinates":[-89.98326299999999,38.60335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303114299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996642,40.768395,-87.996642,40.768395",
     "geom:latitude":40.768395,
     "geom:longitude":-87.996642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W 2nd St",
     "sg:city":"Gilman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303114299,
-    "wof:lastmodified":1448999137,
+    "wof:lastmodified":1466491635,
     "wof:name":"Halls Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-87.996642,40.768395,-87.996642,40.768395],
-  "geometry": {"coordinates":[-87.996642,40.768395],"type":"Point"}
+  "bbox": [
+    -87.996642,
+    40.768395,
+    -87.996642,
+    40.768395
+],
+  "geometry": {"coordinates":[-87.99664199999999,40.768395],"type":"Point"}
 }

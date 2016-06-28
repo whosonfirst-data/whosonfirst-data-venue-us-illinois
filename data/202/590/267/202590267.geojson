@@ -2,13 +2,14 @@
   "id": 202590267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328956,37.980789,-88.328956,37.980789",
     "geom:latitude":37.980789,
     "geom:longitude":-88.328956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Division St",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202590267,
-    "wof:lastmodified":1449061627,
+    "wof:lastmodified":1466489559,
     "wof:name":"Burnett Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.328956,37.980789,-88.328956,37.980789],
-  "geometry": {"coordinates":[-88.328956,37.980789],"type":"Point"}
+  "bbox": [
+    -88.328956,
+    37.980789,
+    -88.328956,
+    37.980789
+],
+  "geometry": {"coordinates":[-88.32895600000001,37.980789],"type":"Point"}
 }

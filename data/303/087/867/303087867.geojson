@@ -2,13 +2,14 @@
   "id": 303087867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.630254,40.141068,-87.630254,40.141068",
     "geom:latitude":40.141068,
     "geom:longitude":-87.630254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 N Vermilion St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303087867,
-    "wof:lastmodified":1448999251,
+    "wof:lastmodified":1466491210,
     "wof:name":"Harold Fleming",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.630254,40.141068,-87.630254,40.141068],
-  "geometry": {"coordinates":[-87.630254,40.141068],"type":"Point"}
+  "bbox": [
+    -87.630254,
+    40.141068,
+    -87.630254,
+    40.141068
+],
+  "geometry": {"coordinates":[-87.63025399999999,40.141068],"type":"Point"}
 }

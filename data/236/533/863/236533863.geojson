@@ -2,13 +2,14 @@
   "id": 236533863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106209,41.523216,-88.106209,41.523216",
     "geom:latitude":41.523216,
     "geom:longitude":-88.106209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236533863,
-    "wof:lastmodified":1449001648,
+    "wof:lastmodified":1466496023,
     "wof:name":"Alexander Grabavoy Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.106209,41.523216,-88.106209,41.523216],
-  "geometry": {"coordinates":[-88.106209,41.523216],"type":"Point"}
+  "bbox": [
+    -88.106209,
+    41.523216,
+    -88.106209,
+    41.523216
+],
+  "geometry": {"coordinates":[-88.10620900000001,41.523216],"type":"Point"}
 }

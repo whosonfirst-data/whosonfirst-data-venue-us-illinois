@@ -2,13 +2,14 @@
   "id": 253621883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.536899,39.112052,-88.536899,39.112052",
     "geom:latitude":39.112052,
     "geom:longitude":-88.536899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 S Willow St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253621883,
-    "wof:lastmodified":1449065421,
+    "wof:lastmodified":1466497156,
     "wof:name":"Bierman's Welding & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-88.536899,39.112052,-88.536899,39.112052],
-  "geometry": {"coordinates":[-88.536899,39.112052],"type":"Point"}
+  "bbox": [
+    -88.536899,
+    39.112052,
+    -88.536899,
+    39.112052
+],
+  "geometry": {"coordinates":[-88.53689900000001,39.112052],"type":"Point"}
 }

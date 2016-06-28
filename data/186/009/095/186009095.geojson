@@ -2,13 +2,14 @@
   "id": 186009095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.237869,37.695101,-89.237869,37.695101",
     "geom:latitude":37.695101,
     "geom:longitude":-89.237869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Mclafferty Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":186009095,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466488987,
     "wof:name":"City of Carbondale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "government-city"
     ]
 },
-  "bbox": [-89.237869,37.695101,-89.237869,37.695101],
+  "bbox": [
+    -89.237869,
+    37.695101,
+    -89.237869,
+    37.695101
+],
   "geometry": {"coordinates":[-89.237869,37.695101],"type":"Point"}
 }

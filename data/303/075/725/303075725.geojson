@@ -2,13 +2,14 @@
   "id": 303075725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.824148,41.592352,-87.824148,41.592352",
     "geom:latitude":41.592352,
     "geom:longitude":-87.824148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16456 Horseshoe Dr",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303075725,
-    "wof:lastmodified":1448999445,
+    "wof:lastmodified":1466491029,
     "wof:name":"John Ouwinga Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.824148,41.592352,-87.824148,41.592352],
-  "geometry": {"coordinates":[-87.824148,41.592352],"type":"Point"}
+  "bbox": [
+    -87.824148,
+    41.592352,
+    -87.824148,
+    41.592352
+],
+  "geometry": {"coordinates":[-87.82414799999999,41.592352],"type":"Point"}
 }

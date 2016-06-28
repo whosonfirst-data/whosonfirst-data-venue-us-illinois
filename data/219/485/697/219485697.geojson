@@ -2,13 +2,14 @@
   "id": 219485697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.46842,41.393324,-89.46842,41.393324",
     "geom:latitude":41.393324,
     "geom:longitude":-89.46842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Backbone Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219485697,
-    "wof:lastmodified":1449072545,
+    "wof:lastmodified":1466493024,
     "wof:name":"Dant's Harley-Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-89.46842,41.393324,-89.46842,41.393324],
-  "geometry": {"coordinates":[-89.46842,41.393324],"type":"Point"}
+  "bbox": [
+    -89.46842,
+    41.393324,
+    -89.46842,
+    41.393324
+],
+  "geometry": {"coordinates":[-89.46841999999999,41.393324],"type":"Point"}
 }

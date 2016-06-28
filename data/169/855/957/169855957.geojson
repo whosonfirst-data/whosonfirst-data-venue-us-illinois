@@ -2,13 +2,14 @@
   "id": 169855957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983803,38.6707,-89.983803,38.6707",
     "geom:latitude":38.6707,
     "geom:longitude":-89.983803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169855957,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466495117,
     "wof:name":"Office Plus",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-89.983803,38.6707,-89.983803,38.6707],
-  "geometry": {"coordinates":[-89.983803,38.6707],"type":"Point"}
+  "bbox": [
+    -89.983803,
+    38.6707,
+    -89.983803,
+    38.6707
+],
+  "geometry": {"coordinates":[-89.98380299999999,38.6707],"type":"Point"}
 }

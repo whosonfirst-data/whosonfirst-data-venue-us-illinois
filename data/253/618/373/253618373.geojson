@@ -2,13 +2,14 @@
   "id": 253618373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.112525,42.27188,-89.112525,42.27188",
     "geom:latitude":42.27188,
     "geom:longitude":-89.112525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 Preston St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253618373,
-    "wof:lastmodified":1449064654,
+    "wof:lastmodified":1466496999,
     "wof:name":"Raco Precision Tool Inc",
     "wof:parent_id":85880433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-89.112525,42.27188,-89.112525,42.27188],
-  "geometry": {"coordinates":[-89.112525,42.27188],"type":"Point"}
+  "bbox": [
+    -89.112525,
+    42.27188,
+    -89.112525,
+    42.27188
+],
+  "geometry": {"coordinates":[-89.11252500000001,42.27188],"type":"Point"}
 }

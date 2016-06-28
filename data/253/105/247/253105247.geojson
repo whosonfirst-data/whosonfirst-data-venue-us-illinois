@@ -2,13 +2,14 @@
   "id": 253105247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.338908,41.788633,-88.338908,41.788633",
     "geom:latitude":41.788633,
     "geom:longitude":-88.338908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Sullivan Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253105247,
-    "wof:lastmodified":1449063966,
+    "wof:lastmodified":1466490289,
     "wof:name":"Chicago Industrial Fasteners",
     "wof:parent_id":85818385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-88.338908,41.788633,-88.338908,41.788633],
+  "bbox": [
+    -88.338908,
+    41.788633,
+    -88.338908,
+    41.788633
+],
   "geometry": {"coordinates":[-88.338908,41.788633],"type":"Point"}
 }

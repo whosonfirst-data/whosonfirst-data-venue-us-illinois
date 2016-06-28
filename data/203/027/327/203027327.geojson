@@ -2,13 +2,14 @@
   "id": 203027327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.947034,42.232269,-88.947034,42.232269",
     "geom:latitude":42.232269,
     "geom:longitude":-88.947034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Enders Dr",
     "sg:city":"Cherry Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203027327,
-    "wof:lastmodified":1449025286,
+    "wof:lastmodified":1466493076,
     "wof:name":"Enders Greenhouse & Flowers",
     "wof:parent_id":85867955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-88.947034,42.232269,-88.947034,42.232269],
+  "bbox": [
+    -88.947034,
+    42.232269,
+    -88.947034,
+    42.232269
+],
   "geometry": {"coordinates":[-88.947034,42.232269],"type":"Point"}
 }

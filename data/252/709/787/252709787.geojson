@@ -2,13 +2,14 @@
   "id": 252709787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.428951,41.093914,-88.428951,41.093914",
     "geom:latitude":41.093914,
     "geom:longitude":-88.428951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Prairie Ave",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252709787,
-    "wof:lastmodified":1449005632,
+    "wof:lastmodified":1466489014,
     "wof:name":"Dwight Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.428951,41.093914,-88.428951,41.093914],
+  "bbox": [
+    -88.428951,
+    41.093914,
+    -88.428951,
+    41.093914
+],
   "geometry": {"coordinates":[-88.428951,41.093914],"type":"Point"}
 }

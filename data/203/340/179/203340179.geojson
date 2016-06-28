@@ -2,13 +2,14 @@
   "id": 203340179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.749569,40.789645,-89.749569,40.789645",
     "geom:latitude":40.789645,
     "geom:longitude":-89.749569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8316 N Jackson St",
     "sg:city":"Edwards",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203340179,
-    "wof:lastmodified":1449026404,
+    "wof:lastmodified":1466490913,
     "wof:name":"Watkins Quality Products",
     "wof:parent_id":85879807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spice"
     ]
 },
-  "bbox": [-89.749569,40.789645,-89.749569,40.789645],
-  "geometry": {"coordinates":[-89.749569,40.789645],"type":"Point"}
+  "bbox": [
+    -89.749569,
+    40.789645,
+    -89.749569,
+    40.789645
+],
+  "geometry": {"coordinates":[-89.74956899999999,40.789645],"type":"Point"}
 }

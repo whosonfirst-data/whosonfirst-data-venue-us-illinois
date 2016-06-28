@@ -2,13 +2,14 @@
   "id": 169787905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.116402,38.578999,-90.116402,38.578999",
     "geom:latitude":38.578999,
     "geom:longitude":-90.116402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 Bond Ave",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":169787905,
-    "wof:lastmodified":1449034163,
+    "wof:lastmodified":1466494233,
     "wof:name":"Town & Country Towing",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-90.116402,38.578999,-90.116402,38.578999],
-  "geometry": {"coordinates":[-90.116402,38.578999],"type":"Point"}
+  "bbox": [
+    -90.116402,
+    38.578999,
+    -90.116402,
+    38.578999
+],
+  "geometry": {"coordinates":[-90.11640199999999,38.578999],"type":"Point"}
 }

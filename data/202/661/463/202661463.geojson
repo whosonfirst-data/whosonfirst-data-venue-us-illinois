@@ -2,13 +2,14 @@
   "id": 202661463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.078723,41.526948,-88.078723,41.526948",
     "geom:latitude":41.526948,
     "geom:longitude":-88.078723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Clinton St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202661463,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1466490369,
     "wof:name":"Joliet Fire Dept",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.078723,41.526948,-88.078723,41.526948],
+  "bbox": [
+    -88.078723,
+    41.526948,
+    -88.078723,
+    41.526948
+],
   "geometry": {"coordinates":[-88.078723,41.526948],"type":"Point"}
 }

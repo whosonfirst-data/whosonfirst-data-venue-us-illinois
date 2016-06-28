@@ -2,13 +2,14 @@
   "id": 270022053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.77688,41.712016,-87.77688,41.712016",
     "geom:latitude":41.712016,
     "geom:longitude":-87.77688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9913 Southwest Hwy",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270022053,
-    "wof:lastmodified":1449009442,
+    "wof:lastmodified":1466489359,
     "wof:name":"Stewart Title",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-87.77688,41.712016,-87.77688,41.712016],
-  "geometry": {"coordinates":[-87.77688,41.712016],"type":"Point"}
+  "bbox": [
+    -87.77688,
+    41.712016,
+    -87.77688,
+    41.712016
+],
+  "geometry": {"coordinates":[-87.77688000000001,41.712016],"type":"Point"}
 }

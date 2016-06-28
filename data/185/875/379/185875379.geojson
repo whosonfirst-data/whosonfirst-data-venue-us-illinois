@@ -2,13 +2,14 @@
   "id": 185875379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.704121,39.764874,-89.704121,39.764874",
     "geom:latitude":39.764874,
     "geom:longitude":-89.704121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"White Oaks Mall",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185875379,
-    "wof:lastmodified":1449007796,
+    "wof:lastmodified":1466489656,
     "wof:name":"H&R Block",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-89.704121,39.764874,-89.704121,39.764874],
+  "bbox": [
+    -89.704121,
+    39.764874,
+    -89.704121,
+    39.764874
+],
   "geometry": {"coordinates":[-89.704121,39.764874],"type":"Point"}
 }

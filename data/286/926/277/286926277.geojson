@@ -2,13 +2,14 @@
   "id": 286926277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.464031,37.935524,-88.464031,37.935524",
     "geom:latitude":37.935524,
     "geom:longitude":-88.464031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 3rd St",
     "sg:city":"Broughton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286926277,
-    "wof:lastmodified":1449016207,
+    "wof:lastmodified":1466498206,
     "wof:name":"Simpson's Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-88.464031,37.935524,-88.464031,37.935524],
-  "geometry": {"coordinates":[-88.464031,37.935524],"type":"Point"}
+  "bbox": [
+    -88.464031,
+    37.935524,
+    -88.464031,
+    37.935524
+],
+  "geometry": {"coordinates":[-88.46403100000001,37.935524],"type":"Point"}
 }

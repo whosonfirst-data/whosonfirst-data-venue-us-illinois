@@ -2,13 +2,14 @@
   "id": 270096125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.602253,40.143864,-87.602253,40.143864",
     "geom:latitude":40.143864,
     "geom:longitude":-87.602253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Griffin St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270096125,
-    "wof:lastmodified":1449009420,
+    "wof:lastmodified":1466490453,
     "wof:name":"Danville Fire Dept",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-87.602253,40.143864,-87.602253,40.143864],
+  "bbox": [
+    -87.602253,
+    40.143864,
+    -87.602253,
+    40.143864
+],
   "geometry": {"coordinates":[-87.602253,40.143864],"type":"Point"}
 }

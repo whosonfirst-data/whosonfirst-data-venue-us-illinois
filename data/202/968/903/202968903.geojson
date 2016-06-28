@@ -2,13 +2,14 @@
   "id": 202968903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.321187,37.975377,-88.321187,37.975377",
     "geom:latitude":37.975377,
     "geom:longitude":-88.321187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Spence Ave",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202968903,
-    "wof:lastmodified":1449060266,
+    "wof:lastmodified":1466494003,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "v"
     ]
 },
-  "bbox": [-88.321187,37.975377,-88.321187,37.975377],
-  "geometry": {"coordinates":[-88.321187,37.975377],"type":"Point"}
+  "bbox": [
+    -88.321187,
+    37.975377,
+    -88.321187,
+    37.975377
+],
+  "geometry": {"coordinates":[-88.32118699999999,37.975377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202798649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.632117,40.138594,-87.632117,40.138594",
     "geom:latitude":40.138594,
     "geom:longitude":-87.632117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Fairchild St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202798649,
-    "wof:lastmodified":1449060583,
+    "wof:lastmodified":1466491931,
     "wof:name":"Culligan Danville Water",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "softening"
     ]
 },
-  "bbox": [-87.632117,40.138594,-87.632117,40.138594],
-  "geometry": {"coordinates":[-87.632117,40.138594],"type":"Point"}
+  "bbox": [
+    -87.632117,
+    40.138594,
+    -87.632117,
+    40.138594
+],
+  "geometry": {"coordinates":[-87.63211699999999,40.138594],"type":"Point"}
 }

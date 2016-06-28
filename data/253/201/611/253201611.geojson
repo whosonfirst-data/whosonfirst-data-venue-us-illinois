@@ -2,13 +2,14 @@
   "id": 253201611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.084672,41.880216,-88.084672,41.880216",
     "geom:latitude":41.880216,
     "geom:longitude":-88.084672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 Wilmette St",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253201611,
-    "wof:lastmodified":1449065380,
+    "wof:lastmodified":1466491353,
     "wof:name":"Chrysallis",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.084672,41.880216,-88.084672,41.880216],
+  "bbox": [
+    -88.084672,
+    41.880216,
+    -88.084672,
+    41.880216
+],
   "geometry": {"coordinates":[-88.084672,41.880216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303040077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.652731,41.980768,-87.652731,41.980768",
     "geom:latitude":41.980768,
     "geom:longitude":-87.652731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 N Lake Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303040077,
-    "wof:lastmodified":1449000495,
+    "wof:lastmodified":1466490476,
     "wof:name":"Bike Chicago At Foster Beach",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-87.652731,41.980768,-87.652731,41.980768],
+  "bbox": [
+    -87.652731,
+    41.980768,
+    -87.652731,
+    41.980768
+],
   "geometry": {"coordinates":[-87.652731,41.980768],"type":"Point"}
 }

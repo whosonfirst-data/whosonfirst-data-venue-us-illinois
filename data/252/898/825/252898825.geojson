@@ -2,13 +2,14 @@
   "id": 252898825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.464694,41.376249,-89.464694,41.376249",
     "geom:latitude":41.376249,
     "geom:longitude":-89.464694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Putnam St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252898825,
-    "wof:lastmodified":1449005379,
+    "wof:lastmodified":1466491423,
     "wof:name":"Princeton Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-89.464694,41.376249,-89.464694,41.376249],
-  "geometry": {"coordinates":[-89.464694,41.376249],"type":"Point"}
+  "bbox": [
+    -89.464694,
+    41.376249,
+    -89.464694,
+    41.376249
+],
+  "geometry": {"coordinates":[-89.46469399999999,41.376249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236660777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.957625,38.520514,-89.957625,38.520514",
     "geom:latitude":38.520514,
     "geom:longitude":-89.957625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 N Belt E",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236660777,
-    "wof:lastmodified":1449004834,
+    "wof:lastmodified":1466496804,
     "wof:name":"Mc Gee Adams & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.957625,38.520514,-89.957625,38.520514],
-  "geometry": {"coordinates":[-89.957625,38.520514],"type":"Point"}
+  "bbox": [
+    -89.957625,
+    38.520514,
+    -89.957625,
+    38.520514
+],
+  "geometry": {"coordinates":[-89.95762499999999,38.520514],"type":"Point"}
 }

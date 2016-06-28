@@ -2,13 +2,14 @@
   "id": 270016327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.661263,41.977938,-87.661263,41.977938",
     "geom:latitude":41.977938,
     "geom:longitude":-87.661263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 N Magnolia Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270016327,
-    "wof:lastmodified":1449009061,
+    "wof:lastmodified":1466489275,
     "wof:name":"C B Publishing",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-87.661263,41.977938,-87.661263,41.977938],
-  "geometry": {"coordinates":[-87.661263,41.977938],"type":"Point"}
+  "bbox": [
+    -87.661263,
+    41.977938,
+    -87.661263,
+    41.977938
+],
+  "geometry": {"coordinates":[-87.66126300000001,41.977938],"type":"Point"}
 }

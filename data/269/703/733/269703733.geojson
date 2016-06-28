@@ -2,13 +2,14 @@
   "id": 269703733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.121259,41.352915,-89.121259,41.352915",
     "geom:latitude":41.352915,
     "geom:longitude":-89.121259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Wenzel Rd",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269703733,
-    "wof:lastmodified":1449036878,
+    "wof:lastmodified":1466492476,
     "wof:name":"Complete Industrial Ents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.121259,41.352915,-89.121259,41.352915],
-  "geometry": {"coordinates":[-89.121259,41.352915],"type":"Point"}
+  "bbox": [
+    -89.121259,
+    41.352915,
+    -89.121259,
+    41.352915
+],
+  "geometry": {"coordinates":[-89.12125899999999,41.352915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269600395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.077921,41.517275,-88.077921,41.517275",
     "geom:latitude":41.517275,
     "geom:longitude":-88.077921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Grover St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269600395,
-    "wof:lastmodified":1449036373,
+    "wof:lastmodified":1466490830,
     "wof:name":"Fire Department",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.077921,41.517275,-88.077921,41.517275],
+  "bbox": [
+    -88.077921,
+    41.517275,
+    -88.077921,
+    41.517275
+],
   "geometry": {"coordinates":[-88.077921,41.517275],"type":"Point"}
 }

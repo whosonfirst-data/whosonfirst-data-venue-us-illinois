@@ -2,13 +2,14 @@
   "id": 185632439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.925469,38.578533,-89.925469,38.578533",
     "geom:latitude":38.578533,
     "geom:longitude":-89.925469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Pierce Blvd",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185632439,
-    "wof:lastmodified":1449007621,
+    "wof:lastmodified":1466493181,
     "wof:name":"Gershman Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.925469,38.578533,-89.925469,38.578533],
-  "geometry": {"coordinates":[-89.925469,38.578533],"type":"Point"}
+  "bbox": [
+    -89.925469,
+    38.578533,
+    -89.925469,
+    38.578533
+],
+  "geometry": {"coordinates":[-89.92546900000001,38.578533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286331533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106744,41.803802,-88.106744,41.803802",
     "geom:latitude":41.803802,
     "geom:longitude":-88.106744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 Normandy Dr",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286331533,
-    "wof:lastmodified":1449016988,
+    "wof:lastmodified":1466490891,
     "wof:name":"DSA Consultants",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.106744,41.803802,-88.106744,41.803802],
-  "geometry": {"coordinates":[-88.106744,41.803802],"type":"Point"}
+  "bbox": [
+    -88.106744,
+    41.803802,
+    -88.106744,
+    41.803802
+],
+  "geometry": {"coordinates":[-88.10674400000001,41.803802],"type":"Point"}
 }

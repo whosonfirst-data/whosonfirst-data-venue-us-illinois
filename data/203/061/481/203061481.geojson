@@ -2,13 +2,14 @@
   "id": 203061481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.966214,42.124546,-87.966214,42.124546",
     "geom:latitude":42.124546,
     "geom:longitude":-87.966214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 E Hintz Rd",
     "sg:city":"Arlington Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203061481,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466493888,
     "wof:name":"Air Quality Analysts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.966214,42.124546,-87.966214,42.124546],
-  "geometry": {"coordinates":[-87.966214,42.124546],"type":"Point"}
+  "bbox": [
+    -87.966214,
+    42.124546,
+    -87.966214,
+    42.124546
+],
+  "geometry": {"coordinates":[-87.96621399999999,42.124546],"type":"Point"}
 }

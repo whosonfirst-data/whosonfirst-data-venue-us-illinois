@@ -2,13 +2,14 @@
   "id": 286980169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848355,41.479824,-87.848355,41.479824",
     "geom:latitude":41.479824,
     "geom:longitude":-87.848355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Industry Ave",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286980169,
-    "wof:lastmodified":1449015374,
+    "wof:lastmodified":1466498404,
     "wof:name":"Silver Auto Sales",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-87.848355,41.479824,-87.848355,41.479824],
+  "bbox": [
+    -87.848355,
+    41.479824,
+    -87.848355,
+    41.479824
+],
   "geometry": {"coordinates":[-87.848355,41.479824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236343281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.655757,40.853817,-89.655757,40.853817",
     "geom:latitude":40.853817,
     "geom:longitude":-89.655757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13609 Lucerne Ct",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236343281,
-    "wof:lastmodified":1449004099,
+    "wof:lastmodified":1466493309,
     "wof:name":"Riverfront Mortgage",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-89.655757,40.853817,-89.655757,40.853817],
-  "geometry": {"coordinates":[-89.655757,40.853817],"type":"Point"}
+  "bbox": [
+    -89.655757,
+    40.853817,
+    -89.655757,
+    40.853817
+],
+  "geometry": {"coordinates":[-89.65575699999999,40.853817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253677569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.219197,40.099851,-88.219197,40.099851",
     "geom:latitude":40.099851,
     "geom:longitude":-88.219197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 S Lincoln Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253677569,
-    "wof:lastmodified":1449063891,
+    "wof:lastmodified":1466497478,
     "wof:name":"Theta CHI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.219197,40.099851,-88.219197,40.099851],
-  "geometry": {"coordinates":[-88.219197,40.099851],"type":"Point"}
+  "bbox": [
+    -88.219197,
+    40.099851,
+    -88.219197,
+    40.099851
+],
+  "geometry": {"coordinates":[-88.21919699999999,40.099851],"type":"Point"}
 }

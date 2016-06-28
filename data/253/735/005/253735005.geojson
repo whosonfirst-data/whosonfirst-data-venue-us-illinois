@@ -2,13 +2,14 @@
   "id": 253735005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.924911,41.250576,-89.924911,41.250576",
     "geom:latitude":41.250576,
     "geom:longitude":-89.924911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Main St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253735005,
-    "wof:lastmodified":1449065740,
+    "wof:lastmodified":1466497777,
     "wof:name":"Red Apple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.924911,41.250576,-89.924911,41.250576],
-  "geometry": {"coordinates":[-89.924911,41.250576],"type":"Point"}
+  "bbox": [
+    -89.924911,
+    41.250576,
+    -89.924911,
+    41.250576
+],
+  "geometry": {"coordinates":[-89.92491099999999,41.250576],"type":"Point"}
 }

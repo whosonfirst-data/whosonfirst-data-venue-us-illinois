@@ -2,13 +2,14 @@
   "id": 286606337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149427,41.980523,-88.149427,41.980523",
     "geom:latitude":41.980523,
     "geom:longitude":-88.149427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Deerfield Ct",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286606337,
-    "wof:lastmodified":1449015621,
+    "wof:lastmodified":1466495293,
     "wof:name":"Sun America",
     "wof:parent_id":85839631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.149427,41.980523,-88.149427,41.980523],
+  "bbox": [
+    -88.149427,
+    41.980523,
+    -88.149427,
+    41.980523
+],
   "geometry": {"coordinates":[-88.149427,41.980523],"type":"Point"}
 }

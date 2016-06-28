@@ -2,13 +2,14 @@
   "id": 220117091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.587291,40.146923,-87.587291,40.146923",
     "geom:latitude":40.146923,
     "geom:longitude":-87.587291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E Voorhees St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220117091,
-    "wof:lastmodified":1449074601,
+    "wof:lastmodified":1466490373,
     "wof:name":"Alstom Power Inc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.587291,40.146923,-87.587291,40.146923],
-  "geometry": {"coordinates":[-87.587291,40.146923],"type":"Point"}
+  "bbox": [
+    -87.587291,
+    40.146923,
+    -87.587291,
+    40.146923
+],
+  "geometry": {"coordinates":[-87.58729099999999,40.146923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269617335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.547675,41.473746,-90.547675,41.473746",
     "geom:latitude":41.473746,
     "geom:longitude":-90.547675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 38th St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269617335,
-    "wof:lastmodified":1449036217,
+    "wof:lastmodified":1466491100,
     "wof:name":"Saukie Golf Course",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-90.547675,41.473746,-90.547675,41.473746],
+  "bbox": [
+    -90.547675,
+    41.473746,
+    -90.547675,
+    41.473746
+],
   "geometry": {"coordinates":[-90.547675,41.473746],"type":"Point"}
 }

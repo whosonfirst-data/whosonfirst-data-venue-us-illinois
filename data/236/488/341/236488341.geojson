@@ -2,13 +2,14 @@
   "id": 236488341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.970504,40.399935,-88.970504,40.399935",
     "geom:latitude":40.399935,
     "geom:longitude":-88.970504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7880 N 1550 East Rd",
     "sg:city":"Heyworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236488341,
-    "wof:lastmodified":1449005149,
+    "wof:lastmodified":1466495212,
     "wof:name":"F & F Farm Supply",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-88.970504,40.399935,-88.970504,40.399935],
-  "geometry": {"coordinates":[-88.970504,40.399935],"type":"Point"}
+  "bbox": [
+    -88.970504,
+    40.399935,
+    -88.970504,
+    40.399935
+],
+  "geometry": {"coordinates":[-88.97050400000001,40.399935],"type":"Point"}
 }

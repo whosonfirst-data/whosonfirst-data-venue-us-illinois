@@ -2,13 +2,14 @@
   "id": 202528621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160672,41.540333,-88.160672,41.540333",
     "geom:latitude":41.540333,
     "geom:longitude":-88.160672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Essington Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202528621,
-    "wof:lastmodified":1449060805,
+    "wof:lastmodified":1466495529,
     "wof:name":"First Washington Mortgage LLC",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.160672,41.540333,-88.160672,41.540333],
-  "geometry": {"coordinates":[-88.160672,41.540333],"type":"Point"}
+  "bbox": [
+    -88.160672,
+    41.540333,
+    -88.160672,
+    41.540333
+],
+  "geometry": {"coordinates":[-88.16067200000001,41.540333],"type":"Point"}
 }

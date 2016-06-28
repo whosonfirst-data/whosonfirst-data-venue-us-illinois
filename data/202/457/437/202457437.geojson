@@ -2,13 +2,14 @@
   "id": 202457437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.618451,40.087312,-87.618451,40.087312",
     "geom:latitude":40.087312,
     "geom:longitude":-87.618451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 E Ross Ln",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202457437,
-    "wof:lastmodified":1449061790,
+    "wof:lastmodified":1466494455,
     "wof:name":"Property Management Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.618451,40.087312,-87.618451,40.087312],
-  "geometry": {"coordinates":[-87.618451,40.087312],"type":"Point"}
+  "bbox": [
+    -87.618451,
+    40.087312,
+    -87.618451,
+    40.087312
+],
+  "geometry": {"coordinates":[-87.61845099999999,40.087312],"type":"Point"}
 }

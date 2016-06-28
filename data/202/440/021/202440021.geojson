@@ -2,13 +2,14 @@
   "id": 202440021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.312334,41.770734,-88.312334,41.770734",
     "geom:latitude":41.770734,
     "geom:longitude":-88.312334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Illinois Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202440021,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466495728,
     "wof:name":"Valley Precision Seals Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seal"
     ]
 },
-  "bbox": [-88.312334,41.770734,-88.312334,41.770734],
-  "geometry": {"coordinates":[-88.312334,41.770734],"type":"Point"}
+  "bbox": [
+    -88.312334,
+    41.770734,
+    -88.312334,
+    41.770734
+],
+  "geometry": {"coordinates":[-88.31233400000001,41.770734],"type":"Point"}
 }

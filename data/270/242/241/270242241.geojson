@@ -2,13 +2,14 @@
   "id": 270242241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.082348,41.859082,-88.082348,41.859082",
     "geom:latitude":41.859082,
     "geom:longitude":-88.082348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 E Roosevelt Rd",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270242241,
-    "wof:lastmodified":1449010806,
+    "wof:lastmodified":1466492703,
     "wof:name":"American Med Imaging Svc Inc",
     "wof:parent_id":85891049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgical"
     ]
 },
-  "bbox": [-88.082348,41.859082,-88.082348,41.859082],
+  "bbox": [
+    -88.082348,
+    41.859082,
+    -88.082348,
+    41.859082
+],
   "geometry": {"coordinates":[-88.082348,41.859082],"type":"Point"}
 }

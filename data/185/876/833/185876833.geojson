@@ -2,13 +2,14 @@
   "id": 185876833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.705193,39.787707,-89.705193,39.787707",
     "geom:latitude":39.787707,
     "geom:longitude":-89.705193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 W Monroe St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185876833,
-    "wof:lastmodified":1449006939,
+    "wof:lastmodified":1466489677,
     "wof:name":"Dennis Polk Real Estate",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-89.705193,39.787707,-89.705193,39.787707],
-  "geometry": {"coordinates":[-89.705193,39.787707],"type":"Point"}
+  "bbox": [
+    -89.705193,
+    39.787707,
+    -89.705193,
+    39.787707
+],
+  "geometry": {"coordinates":[-89.70519299999999,39.787707],"type":"Point"}
 }

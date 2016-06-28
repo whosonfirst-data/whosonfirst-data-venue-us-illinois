@@ -2,13 +2,14 @@
   "id": 236371003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696631,41.716216,-87.696631,41.716216",
     "geom:latitude":41.716216,
     "geom:longitude":-87.696631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 W 97th Pl",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236371003,
-    "wof:lastmodified":1449004364,
+    "wof:lastmodified":1466493664,
     "wof:name":"Church Of Pentecost",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.696631,41.716216,-87.696631,41.716216],
+  "bbox": [
+    -87.696631,
+    41.716216,
+    -87.696631,
+    41.716216
+],
   "geometry": {"coordinates":[-87.696631,41.716216],"type":"Point"}
 }

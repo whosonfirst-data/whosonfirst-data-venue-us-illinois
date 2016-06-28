@@ -2,13 +2,14 @@
   "id": 252766829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.444352,37.817552,-88.444352,37.817552",
     "geom:latitude":37.817552,
     "geom:longitude":-88.444352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 1st St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252766829,
-    "wof:lastmodified":1449005389,
+    "wof:lastmodified":1466489750,
     "wof:name":"Eldorado Middle School",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.444352,37.817552,-88.444352,37.817552],
-  "geometry": {"coordinates":[-88.444352,37.817552],"type":"Point"}
+  "bbox": [
+    -88.444352,
+    37.817552,
+    -88.444352,
+    37.817552
+],
+  "geometry": {"coordinates":[-88.44435199999999,37.817552],"type":"Point"}
 }

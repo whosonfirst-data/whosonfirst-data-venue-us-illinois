@@ -2,13 +2,14 @@
   "id": 220026423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147386,41.575777,-88.147386,41.575777",
     "geom:latitude":41.575777,
     "geom:longitude":-88.147386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Pecan St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220026423,
-    "wof:lastmodified":1449074515,
+    "wof:lastmodified":1466489266,
     "wof:name":"Dragons Performance",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-88.147386,41.575777,-88.147386,41.575777],
+  "bbox": [
+    -88.147386,
+    41.575777,
+    -88.147386,
+    41.575777
+],
   "geometry": {"coordinates":[-88.147386,41.575777],"type":"Point"}
 }

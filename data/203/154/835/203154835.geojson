@@ -2,13 +2,14 @@
   "id": 203154835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984782,38.569865,-89.984782,38.569865",
     "geom:latitude":38.569865,
     "geom:longitude":-89.984782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4590 N Illinois St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203154835,
-    "wof:lastmodified":1449026880,
+    "wof:lastmodified":1466495558,
     "wof:name":"Hucks 281",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-89.984782,38.569865,-89.984782,38.569865],
+  "bbox": [
+    -89.984782,
+    38.569865,
+    -89.984782,
+    38.569865
+],
   "geometry": {"coordinates":[-89.984782,38.569865],"type":"Point"}
 }

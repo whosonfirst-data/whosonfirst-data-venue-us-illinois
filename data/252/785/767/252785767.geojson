@@ -2,13 +2,14 @@
   "id": 252785767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.660187,41.5592,-87.660187,41.5592",
     "geom:latitude":41.5592,
     "geom:longitude":-87.660187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Olive Rd",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252785767,
-    "wof:lastmodified":1449006330,
+    "wof:lastmodified":1466489993,
     "wof:name":"Tavas Karas & Roe Inc",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.660187,41.5592,-87.660187,41.5592],
-  "geometry": {"coordinates":[-87.660187,41.5592],"type":"Point"}
+  "bbox": [
+    -87.660187,
+    41.5592,
+    -87.660187,
+    41.5592
+],
+  "geometry": {"coordinates":[-87.66018699999999,41.5592],"type":"Point"}
 }

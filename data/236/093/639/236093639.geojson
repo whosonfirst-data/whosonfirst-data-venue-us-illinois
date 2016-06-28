@@ -2,13 +2,14 @@
   "id": 236093639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.22232,42.319721,-90.22232,42.319721",
     "geom:latitude":42.319721,
     "geom:longitude":-90.22232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Washington St",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236093639,
-    "wof:lastmodified":1449001681,
+    "wof:lastmodified":1466490103,
     "wof:name":"Church Of St Mary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.22232,42.319721,-90.22232,42.319721],
+  "bbox": [
+    -90.22232,
+    42.319721,
+    -90.22232,
+    42.319721
+],
   "geometry": {"coordinates":[-90.22232,42.319721],"type":"Point"}
 }

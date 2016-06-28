@@ -2,13 +2,14 @@
   "id": 303119905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.817387,41.707744,-87.817387,41.707744",
     "geom:latitude":41.707744,
     "geom:longitude":-87.817387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10039 S Roberts Rd",
     "sg:city":"Palos Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303119905,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466491729,
     "wof:name":"All Right Data Entry",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-87.817387,41.707744,-87.817387,41.707744],
+  "bbox": [
+    -87.817387,
+    41.707744,
+    -87.817387,
+    41.707744
+],
   "geometry": {"coordinates":[-87.817387,41.707744],"type":"Point"}
 }

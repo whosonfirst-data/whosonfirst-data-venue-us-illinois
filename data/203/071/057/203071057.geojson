@@ -2,13 +2,14 @@
   "id": 203071057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680152,41.916112,-87.680152,41.916112",
     "geom:latitude":41.916112,
     "geom:longitude":-87.680152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 W Cortland St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203071057,
-    "wof:lastmodified":1449026154,
+    "wof:lastmodified":1466494169,
     "wof:name":"Arcd",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-87.680152,41.916112,-87.680152,41.916112],
-  "geometry": {"coordinates":[-87.680152,41.916112],"type":"Point"}
+  "bbox": [
+    -87.680152,
+    41.916112,
+    -87.680152,
+    41.916112
+],
+  "geometry": {"coordinates":[-87.68015200000001,41.916112],"type":"Point"}
 }

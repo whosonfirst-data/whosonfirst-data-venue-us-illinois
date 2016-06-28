@@ -2,13 +2,14 @@
   "id": 286299879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.254825,40.12725,-88.254825,40.12725",
     "geom:latitude":40.12725,
     "geom:longitude":-88.254825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Bradley Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286299879,
-    "wof:lastmodified":1449015917,
+    "wof:lastmodified":1466490409,
     "wof:name":"Champaign Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.254825,40.12725,-88.254825,40.12725],
+  "bbox": [
+    -88.254825,
+    40.12725,
+    -88.254825,
+    40.12725
+],
   "geometry": {"coordinates":[-88.254825,40.12725],"type":"Point"}
 }

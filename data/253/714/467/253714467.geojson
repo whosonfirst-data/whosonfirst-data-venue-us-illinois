@@ -2,13 +2,14 @@
   "id": 253714467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.827064,42.256672,-88.827064,42.256672",
     "geom:latitude":42.256672,
     "geom:longitude":-88.827064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Andrews Dr",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253714467,
-    "wof:lastmodified":1449064282,
+    "wof:lastmodified":1466497729,
     "wof:name":"Belvidere Clinic Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-88.827064,42.256672,-88.827064,42.256672],
-  "geometry": {"coordinates":[-88.827064,42.256672],"type":"Point"}
+  "bbox": [
+    -88.827064,
+    42.256672,
+    -88.827064,
+    42.256672
+],
+  "geometry": {"coordinates":[-88.82706399999999,42.256672],"type":"Point"}
 }

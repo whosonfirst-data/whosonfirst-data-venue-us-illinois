@@ -2,13 +2,14 @@
   "id": 235982317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855766,42.363488,-87.855766,42.363488",
     "geom:latitude":42.363488,
     "geom:longitude":-87.855766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Lewis Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235982317,
-    "wof:lastmodified":1449008319,
+    "wof:lastmodified":1466489576,
     "wof:name":"Estrada Concepts",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-87.855766,42.363488,-87.855766,42.363488],
+  "bbox": [
+    -87.855766,
+    42.363488,
+    -87.855766,
+    42.363488
+],
   "geometry": {"coordinates":[-87.855766,42.363488],"type":"Point"}
 }

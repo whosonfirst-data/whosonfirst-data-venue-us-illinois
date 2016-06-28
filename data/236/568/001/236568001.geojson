@@ -2,13 +2,14 @@
   "id": 236568001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.158505,40.005825,-88.158505,40.005825",
     "geom:latitude":40.005825,
     "geom:longitude":-88.158505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Madison St",
     "sg:city":"Philo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236568001,
-    "wof:lastmodified":1449001619,
+    "wof:lastmodified":1466496468,
     "wof:name":"Detect Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.158505,40.005825,-88.158505,40.005825],
-  "geometry": {"coordinates":[-88.158505,40.005825],"type":"Point"}
+  "bbox": [
+    -88.158505,
+    40.005825,
+    -88.158505,
+    40.005825
+],
+  "geometry": {"coordinates":[-88.15850500000001,40.005825],"type":"Point"}
 }

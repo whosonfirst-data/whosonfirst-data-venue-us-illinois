@@ -2,13 +2,14 @@
   "id": 202519103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.806611,38.486743,-89.806611,38.486743",
     "geom:latitude":38.486743,
     "geom:longitude":-89.806611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 S 6th St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202519103,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466495343,
     "wof:name":"S&S Realty",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-89.806611,38.486743,-89.806611,38.486743],
+  "bbox": [
+    -89.806611,
+    38.486743,
+    -89.806611,
+    38.486743
+],
   "geometry": {"coordinates":[-89.806611,38.486743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253669205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669884,41.983205,-87.669884,41.983205",
     "geom:latitude":41.983205,
     "geom:longitude":-87.669884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5550 N Ashland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":253669205,
-    "wof:lastmodified":1449063160,
+    "wof:lastmodified":1466497387,
     "wof:name":"Ashland Bryn Mawr Service Stn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-87.669884,41.983205,-87.669884,41.983205],
+  "bbox": [
+    -87.669884,
+    41.983205,
+    -87.669884,
+    41.983205
+],
   "geometry": {"coordinates":[-87.669884,41.983205],"type":"Point"}
 }

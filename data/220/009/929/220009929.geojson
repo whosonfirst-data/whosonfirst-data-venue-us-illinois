@@ -2,13 +2,14 @@
   "id": 220009929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.796957,41.883492,-87.796957,41.883492",
     "geom:latitude":41.883492,
     "geom:longitude":-87.796957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Kenilworth Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220009929,
-    "wof:lastmodified":1449074863,
+    "wof:lastmodified":1466489066,
     "wof:name":"Laurie Anderson",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vocational"
     ]
 },
-  "bbox": [-87.796957,41.883492,-87.796957,41.883492],
-  "geometry": {"coordinates":[-87.796957,41.883492],"type":"Point"}
+  "bbox": [
+    -87.796957,
+    41.883492,
+    -87.796957,
+    41.883492
+],
+  "geometry": {"coordinates":[-87.79695700000001,41.883492],"type":"Point"}
 }

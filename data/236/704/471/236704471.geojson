@@ -2,13 +2,14 @@
   "id": 236704471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.637954,41.932932,-87.637954,41.932932",
     "geom:latitude":41.932932,
     "geom:longitude":-87.637954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 N Commonwealth Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236704471,
-    "wof:lastmodified":1449002325,
+    "wof:lastmodified":1466497234,
     "wof:name":"ASB Brokerage & Development",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.637954,41.932932,-87.637954,41.932932],
-  "geometry": {"coordinates":[-87.637954,41.932932],"type":"Point"}
+  "bbox": [
+    -87.637954,
+    41.932932,
+    -87.637954,
+    41.932932
+],
+  "geometry": {"coordinates":[-87.63795399999999,41.932932],"type":"Point"}
 }

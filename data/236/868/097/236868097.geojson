@@ -2,13 +2,14 @@
   "id": 236868097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.766139,39.502085,-89.766139,39.502085",
     "geom:latitude":39.502085,
     "geom:longitude":-89.766139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 N Dye St",
     "sg:city":"Virden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236868097,
-    "wof:lastmodified":1449001791,
+    "wof:lastmodified":1466498031,
     "wof:name":"City Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.766139,39.502085,-89.766139,39.502085],
+  "bbox": [
+    -89.766139,
+    39.502085,
+    -89.766139,
+    39.502085
+],
   "geometry": {"coordinates":[-89.766139,39.502085],"type":"Point"}
 }

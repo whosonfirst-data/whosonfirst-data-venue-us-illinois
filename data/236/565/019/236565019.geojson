@@ -2,13 +2,14 @@
   "id": 236565019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.290365,42.327601,-88.290365,42.327601",
     "geom:latitude":42.327601,
     "geom:longitude":-88.290365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 Oregon Trl",
     "sg:city":"Mc Henry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236565019,
-    "wof:lastmodified":1449004899,
+    "wof:lastmodified":1466496063,
     "wof:name":"J W Welding",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-88.290365,42.327601,-88.290365,42.327601],
-  "geometry": {"coordinates":[-88.290365,42.327601],"type":"Point"}
+  "bbox": [
+    -88.290365,
+    42.327601,
+    -88.290365,
+    42.327601
+],
+  "geometry": {"coordinates":[-88.29036499999999,42.327601],"type":"Point"}
 }

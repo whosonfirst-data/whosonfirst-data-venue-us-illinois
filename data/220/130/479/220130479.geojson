@@ -2,13 +2,14 @@
   "id": 220130479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.943796,41.992031,-87.943796,41.992031",
     "geom:latitude":41.992031,
     "geom:longitude":-87.943796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 American Ln",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220130479,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466490538,
     "wof:name":"Mechanical Electrical Automtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.943796,41.992031,-87.943796,41.992031],
-  "geometry": {"coordinates":[-87.943796,41.992031],"type":"Point"}
+  "bbox": [
+    -87.943796,
+    41.992031,
+    -87.943796,
+    41.992031
+],
+  "geometry": {"coordinates":[-87.94379600000001,41.992031],"type":"Point"}
 }

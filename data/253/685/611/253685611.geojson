@@ -2,13 +2,14 @@
   "id": 253685611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133237,41.52086,-88.133237,41.52086",
     "geom:latitude":41.52086,
     "geom:longitude":-88.133237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2183 Marmion Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253685611,
-    "wof:lastmodified":1449065734,
+    "wof:lastmodified":1466497329,
     "wof:name":"All Fur Dogs",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.133237,41.52086,-88.133237,41.52086],
-  "geometry": {"coordinates":[-88.133237,41.52086],"type":"Point"}
+  "bbox": [
+    -88.133237,
+    41.52086,
+    -88.133237,
+    41.52086
+],
+  "geometry": {"coordinates":[-88.13323699999999,41.52086],"type":"Point"}
 }

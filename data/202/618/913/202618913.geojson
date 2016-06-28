@@ -2,13 +2,14 @@
   "id": 202618913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.035283,42.371006,-89.035283,42.371006",
     "geom:latitude":42.371006,
     "geom:longitude":-89.035283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10362 Product Dr",
     "sg:city":"Machesney Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202618913,
-    "wof:lastmodified":1449061685,
+    "wof:lastmodified":1466489883,
     "wof:name":"Scott's Towing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-89.035283,42.371006,-89.035283,42.371006],
-  "geometry": {"coordinates":[-89.035283,42.371006],"type":"Point"}
+  "bbox": [
+    -89.035283,
+    42.371006,
+    -89.035283,
+    42.371006
+],
+  "geometry": {"coordinates":[-89.03528300000001,42.371006],"type":"Point"}
 }

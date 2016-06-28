@@ -2,13 +2,14 @@
   "id": 203400141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.6824,41.915669,-87.6824,41.915669",
     "geom:latitude":41.915669,
     "geom:longitude":-87.6824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1883 N Leavitt St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400141,
-    "wof:lastmodified":1449025119,
+    "wof:lastmodified":1466491592,
     "wof:name":"Morton Financial Inc",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-87.6824,41.915669,-87.6824,41.915669],
+  "bbox": [
+    -87.6824,
+    41.915669,
+    -87.6824,
+    41.915669
+],
   "geometry": {"coordinates":[-87.6824,41.915669],"type":"Point"}
 }

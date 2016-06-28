@@ -2,13 +2,14 @@
   "id": 253410693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.705835,41.997862,-87.705835,41.997862",
     "geom:latitude":41.997862,
     "geom:longitude":-87.705835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 N Whipple St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253410693,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1466494407,
     "wof:name":"Apple Hardwood Floor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [-87.705835,41.997862,-87.705835,41.997862],
-  "geometry": {"coordinates":[-87.705835,41.997862],"type":"Point"}
+  "bbox": [
+    -87.705835,
+    41.997862,
+    -87.705835,
+    41.997862
+],
+  "geometry": {"coordinates":[-87.70583499999999,41.997862],"type":"Point"}
 }

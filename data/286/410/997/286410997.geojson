@@ -2,13 +2,14 @@
   "id": 286410997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211785,42.280159,-88.211785,42.280159",
     "geom:latitude":42.280159,
     "geom:longitude":-88.211785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 Pleasant Pl",
     "sg:city":"Island Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286410997,
-    "wof:lastmodified":1449015202,
+    "wof:lastmodified":1466492123,
     "wof:name":"Aqua Pro Inc",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211785,42.280159,-88.211785,42.280159],
-  "geometry": {"coordinates":[-88.211785,42.280159],"type":"Point"}
+  "bbox": [
+    -88.211785,
+    42.280159,
+    -88.211785,
+    42.280159
+],
+  "geometry": {"coordinates":[-88.21178500000001,42.280159],"type":"Point"}
 }

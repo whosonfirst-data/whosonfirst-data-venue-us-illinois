@@ -2,13 +2,14 @@
   "id": 202720751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073777,42.221714,-88.073777,42.221714",
     "geom:latitude":42.221714,
     "geom:longitude":-88.073777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24650 N Old McHenry Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202720751,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1466491033,
     "wof:name":"Kelly Concrete Inc",
     "wof:parent_id":85867889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.073777,42.221714,-88.073777,42.221714],
-  "geometry": {"coordinates":[-88.073777,42.221714],"type":"Point"}
+  "bbox": [
+    -88.073777,
+    42.221714,
+    -88.073777,
+    42.221714
+],
+  "geometry": {"coordinates":[-88.07377700000001,42.221714],"type":"Point"}
 }

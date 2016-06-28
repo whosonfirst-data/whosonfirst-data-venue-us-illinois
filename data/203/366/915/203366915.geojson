@@ -2,13 +2,14 @@
   "id": 203366915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465578,41.379885,-89.465578,41.379885",
     "geom:latitude":41.379885,
     "geom:longitude":-89.465578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Warren St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203366915,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466491209,
     "wof:name":"Illinois Valley Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-89.465578,41.379885,-89.465578,41.379885],
-  "geometry": {"coordinates":[-89.465578,41.379885],"type":"Point"}
+  "bbox": [
+    -89.465578,
+    41.379885,
+    -89.465578,
+    41.379885
+],
+  "geometry": {"coordinates":[-89.46557799999999,41.379885],"type":"Point"}
 }

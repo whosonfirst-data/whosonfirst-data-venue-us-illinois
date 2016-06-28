@@ -2,13 +2,14 @@
   "id": 203112499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669615,41.703285,-87.669615,41.703285",
     "geom:latitude":41.703285,
     "geom:longitude":-87.669615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 S Walden Pkwy",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203112499,
-    "wof:lastmodified":1449025784,
+    "wof:lastmodified":1466494969,
     "wof:name":"Beverly Antiques & Collectable",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-87.669615,41.703285,-87.669615,41.703285],
-  "geometry": {"coordinates":[-87.669615,41.703285],"type":"Point"}
+  "bbox": [
+    -87.669615,
+    41.703285,
+    -87.669615,
+    41.703285
+],
+  "geometry": {"coordinates":[-87.66961499999999,41.703285],"type":"Point"}
 }

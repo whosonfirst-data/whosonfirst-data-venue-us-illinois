@@ -2,13 +2,14 @@
   "id": 203105201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.656143,41.968735,-87.656143,41.968735",
     "geom:latitude":41.968735,
     "geom:longitude":-87.656143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4719 N Kenmore Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203105201,
-    "wof:lastmodified":1449025642,
+    "wof:lastmodified":1466494858,
     "wof:name":"Rep Steel",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-87.656143,41.968735,-87.656143,41.968735],
+  "bbox": [
+    -87.656143,
+    41.968735,
+    -87.656143,
+    41.968735
+],
   "geometry": {"coordinates":[-87.656143,41.968735],"type":"Point"}
 }

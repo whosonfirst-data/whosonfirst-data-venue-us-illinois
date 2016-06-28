@@ -2,13 +2,14 @@
   "id": 220155051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.487107,41.853961,-89.487107,41.853961",
     "geom:latitude":41.853961,
     "geom:longitude":-89.487107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Galena Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220155051,
-    "wof:lastmodified":1449074712,
+    "wof:lastmodified":1466490836,
     "wof:name":"Varga's Collision Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-89.487107,41.853961,-89.487107,41.853961],
-  "geometry": {"coordinates":[-89.487107,41.853961],"type":"Point"}
+  "bbox": [
+    -89.487107,
+    41.853961,
+    -89.487107,
+    41.853961
+],
+  "geometry": {"coordinates":[-89.48710699999999,41.853961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202615957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.845746,41.975148,-87.845746,41.975148",
     "geom:latitude":41.975148,
     "geom:longitude":-87.845746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8732 W Berwyn Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202615957,
-    "wof:lastmodified":1449060913,
+    "wof:lastmodified":1466489850,
     "wof:name":"Apt Services",
     "wof:parent_id":85809035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.845746,41.975148,-87.845746,41.975148],
-  "geometry": {"coordinates":[-87.845746,41.975148],"type":"Point"}
+  "bbox": [
+    -87.845746,
+    41.975148,
+    -87.845746,
+    41.975148
+],
+  "geometry": {"coordinates":[-87.84574600000001,41.975148],"type":"Point"}
 }

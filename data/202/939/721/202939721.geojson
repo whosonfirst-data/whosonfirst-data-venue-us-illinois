@@ -2,13 +2,14 @@
   "id": 202939721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.546338,41.488804,-90.546338,41.488804",
     "geom:latitude":41.488804,
     "geom:longitude":-90.546338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 39th St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202939721,
-    "wof:lastmodified":1449060865,
+    "wof:lastmodified":1466493652,
     "wof:name":"Pheasants For Ever",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "prepared"
     ]
 },
-  "bbox": [-90.546338,41.488804,-90.546338,41.488804],
-  "geometry": {"coordinates":[-90.546338,41.488804],"type":"Point"}
+  "bbox": [
+    -90.546338,
+    41.488804,
+    -90.546338,
+    41.488804
+],
+  "geometry": {"coordinates":[-90.54633800000001,41.488804],"type":"Point"}
 }

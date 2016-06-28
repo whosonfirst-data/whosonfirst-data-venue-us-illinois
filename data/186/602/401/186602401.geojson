@@ -2,13 +2,14 @@
   "id": 186602401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.230277,41.766008,-88.230277,41.766008",
     "geom:latitude":41.766008,
     "geom:longitude":-88.230277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Commerce St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186602401,
-    "wof:lastmodified":1449051645,
+    "wof:lastmodified":1466489449,
     "wof:name":"Optimum Nutrition",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-88.230277,41.766008,-88.230277,41.766008],
+  "bbox": [
+    -88.230277,
+    41.766008,
+    -88.230277,
+    41.766008
+],
   "geometry": {"coordinates":[-88.230277,41.766008],"type":"Point"}
 }

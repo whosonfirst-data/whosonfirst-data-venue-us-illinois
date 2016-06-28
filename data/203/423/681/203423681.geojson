@@ -2,13 +2,14 @@
   "id": 203423681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.597265,41.656523,-87.597265,41.656523",
     "geom:latitude":41.656523,
     "geom:longitude":-87.597265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13106 S Ellis Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203423681,
-    "wof:lastmodified":1449025255,
+    "wof:lastmodified":1466491892,
     "wof:name":"Garden Food Cntr",
     "wof:parent_id":85844893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.597265,41.656523,-87.597265,41.656523],
-  "geometry": {"coordinates":[-87.597265,41.656523],"type":"Point"}
+  "bbox": [
+    -87.597265,
+    41.656523,
+    -87.597265,
+    41.656523
+],
+  "geometry": {"coordinates":[-87.59726499999999,41.656523],"type":"Point"}
 }

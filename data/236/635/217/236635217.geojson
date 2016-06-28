@@ -2,13 +2,14 @@
   "id": 236635217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.484232,37.790094,-88.484232,37.790094",
     "geom:latitude":37.790094,
     "geom:longitude":-88.484232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Grace Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236635217,
-    "wof:lastmodified":1449003021,
+    "wof:lastmodified":1466496658,
     "wof:name":"Raleigh Water Distr",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-88.484232,37.790094,-88.484232,37.790094],
-  "geometry": {"coordinates":[-88.484232,37.790094],"type":"Point"}
+  "bbox": [
+    -88.484232,
+    37.790094,
+    -88.484232,
+    37.790094
+],
+  "geometry": {"coordinates":[-88.48423200000001,37.790094],"type":"Point"}
 }

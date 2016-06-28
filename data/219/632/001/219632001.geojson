@@ -2,13 +2,14 @@
   "id": 219632001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.674355,41.720971,-87.674355,41.720971",
     "geom:latitude":41.720971,
     "geom:longitude":-87.674355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2037 W 95th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219632001,
-    "wof:lastmodified":1449072636,
+    "wof:lastmodified":1466494718,
     "wof:name":"Chicago Independent Bulletin",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publisher"
     ]
 },
-  "bbox": [-87.674355,41.720971,-87.674355,41.720971],
-  "geometry": {"coordinates":[-87.674355,41.720971],"type":"Point"}
+  "bbox": [
+    -87.674355,
+    41.720971,
+    -87.674355,
+    41.720971
+],
+  "geometry": {"coordinates":[-87.67435500000001,41.720971],"type":"Point"}
 }

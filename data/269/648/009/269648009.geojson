@@ -2,13 +2,14 @@
   "id": 269648009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.231057,37.721298,-89.231057,37.721298",
     "geom:latitude":37.721298,
     "geom:longitude":-89.231057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 W College St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269648009,
-    "wof:lastmodified":1449036819,
+    "wof:lastmodified":1466491573,
     "wof:name":"Esther Hays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-89.231057,37.721298,-89.231057,37.721298],
-  "geometry": {"coordinates":[-89.231057,37.721298],"type":"Point"}
+  "bbox": [
+    -89.231057,
+    37.721298,
+    -89.231057,
+    37.721298
+],
+  "geometry": {"coordinates":[-89.23105700000001,37.721298],"type":"Point"}
 }

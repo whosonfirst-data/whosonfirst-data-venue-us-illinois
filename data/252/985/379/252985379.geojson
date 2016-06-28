@@ -2,13 +2,14 @@
   "id": 252985379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.001404,41.54106,-88.001404,41.54106",
     "geom:latitude":41.54106,
     "geom:longitude":-88.001404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3213 Blandford Ave",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252985379,
-    "wof:lastmodified":1449005957,
+    "wof:lastmodified":1466492585,
     "wof:name":"Jackman Builders",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.001404,41.54106,-88.001404,41.54106],
-  "geometry": {"coordinates":[-88.001404,41.54106],"type":"Point"}
+  "bbox": [
+    -88.001404,
+    41.54106,
+    -88.001404,
+    41.54106
+],
+  "geometry": {"coordinates":[-88.00140399999999,41.54106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185783233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.950899,39.932947,-88.950899,39.932947",
     "geom:latitude":39.932947,
     "geom:longitude":-88.950899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 S Elwood St",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185783233,
-    "wof:lastmodified":1449006634,
+    "wof:lastmodified":1466495566,
     "wof:name":"Forsyth Public Library",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.950899,39.932947,-88.950899,39.932947],
-  "geometry": {"coordinates":[-88.950899,39.932947],"type":"Point"}
+  "bbox": [
+    -88.950899,
+    39.932947,
+    -88.950899,
+    39.932947
+],
+  "geometry": {"coordinates":[-88.95089900000001,39.932947],"type":"Point"}
 }

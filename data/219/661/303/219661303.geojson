@@ -2,13 +2,14 @@
   "id": 219661303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.011181,41.831084,-88.011181,41.831084",
     "geom:latitude":41.831084,
     "geom:longitude":-88.011181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 31st St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219661303,
-    "wof:lastmodified":1449073537,
+    "wof:lastmodified":1466495061,
     "wof:name":"Raytheon",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-88.011181,41.831084,-88.011181,41.831084],
-  "geometry": {"coordinates":[-88.011181,41.831084],"type":"Point"}
+  "bbox": [
+    -88.011181,
+    41.831084,
+    -88.011181,
+    41.831084
+],
+  "geometry": {"coordinates":[-88.01118099999999,41.831084],"type":"Point"}
 }

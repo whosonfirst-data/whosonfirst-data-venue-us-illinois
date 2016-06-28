@@ -2,13 +2,14 @@
   "id": 203286185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.371795,41.288281,-89.371795,41.288281",
     "geom:latitude":41.288281,
     "geom:longitude":-89.371795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Miller St",
     "sg:city":"Bureau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203286185,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466490318,
     "wof:name":"Bob's Print Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-89.371795,41.288281,-89.371795,41.288281],
-  "geometry": {"coordinates":[-89.371795,41.288281],"type":"Point"}
+  "bbox": [
+    -89.371795,
+    41.288281,
+    -89.371795,
+    41.288281
+],
+  "geometry": {"coordinates":[-89.37179500000001,41.288281],"type":"Point"}
 }

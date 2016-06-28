@@ -2,13 +2,14 @@
   "id": 203255691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.077221,37.761955,-89.077221,37.761955",
     "geom:latitude":37.761955,
     "geom:longitude":-89.077221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Division St",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203255691,
-    "wof:lastmodified":1449025771,
+    "wof:lastmodified":1466489974,
     "wof:name":"Carterville City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-89.077221,37.761955,-89.077221,37.761955],
-  "geometry": {"coordinates":[-89.077221,37.761955],"type":"Point"}
+  "bbox": [
+    -89.077221,
+    37.761955,
+    -89.077221,
+    37.761955
+],
+  "geometry": {"coordinates":[-89.07722099999999,37.761955],"type":"Point"}
 }

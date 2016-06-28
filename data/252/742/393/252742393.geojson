@@ -2,13 +2,14 @@
   "id": 252742393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.736651,41.953469,-87.736651,41.953469",
     "geom:latitude":41.953469,
     "geom:longitude":-87.736651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4319 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252742393,
-    "wof:lastmodified":1449005482,
+    "wof:lastmodified":1466489441,
     "wof:name":"Unlimited Health Services Inc",
     "wof:parent_id":85867763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-87.736651,41.953469,-87.736651,41.953469],
-  "geometry": {"coordinates":[-87.736651,41.953469],"type":"Point"}
+  "bbox": [
+    -87.736651,
+    41.953469,
+    -87.736651,
+    41.953469
+],
+  "geometry": {"coordinates":[-87.73665099999999,41.953469],"type":"Point"}
 }

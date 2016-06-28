@@ -2,13 +2,14 @@
   "id": 286318657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.604813,39.895999,-89.604813,39.895999",
     "geom:latitude":39.895999,
     "geom:longitude":-89.604813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 E Andrew Rd",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286318657,
-    "wof:lastmodified":1449015821,
+    "wof:lastmodified":1466490700,
     "wof:name":"George's Amoco",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-89.604813,39.895999,-89.604813,39.895999],
-  "geometry": {"coordinates":[-89.604813,39.895999],"type":"Point"}
+  "bbox": [
+    -89.604813,
+    39.895999,
+    -89.604813,
+    39.895999
+],
+  "geometry": {"coordinates":[-89.60481299999999,39.895999],"type":"Point"}
 }

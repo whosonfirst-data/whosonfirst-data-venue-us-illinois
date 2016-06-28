@@ -2,13 +2,14 @@
   "id": 270066907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785638,41.909064,-87.785638,41.909064",
     "geom:latitude":41.909064,
     "geom:longitude":-87.785638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6423 North Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270066907,
-    "wof:lastmodified":1449009317,
+    "wof:lastmodified":1466490020,
     "wof:name":"North Nrrgansett Currency Exch",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-87.785638,41.909064,-87.785638,41.909064],
-  "geometry": {"coordinates":[-87.785638,41.909064],"type":"Point"}
+  "bbox": [
+    -87.785638,
+    41.909064,
+    -87.785638,
+    41.909064
+],
+  "geometry": {"coordinates":[-87.78563800000001,41.909064],"type":"Point"}
 }

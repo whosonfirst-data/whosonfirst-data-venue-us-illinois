@@ -2,13 +2,14 @@
   "id": 270199923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.969564,38.505634,-89.969564,38.505634",
     "geom:latitude":38.505634,
     "geom:longitude":-89.969564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Mascoutah Ave",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270199923,
-    "wof:lastmodified":1449008896,
+    "wof:lastmodified":1466492033,
     "wof:name":"Belleville Muni Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-89.969564,38.505634,-89.969564,38.505634],
-  "geometry": {"coordinates":[-89.969564,38.505634],"type":"Point"}
+  "bbox": [
+    -89.969564,
+    38.505634,
+    -89.969564,
+    38.505634
+],
+  "geometry": {"coordinates":[-89.96956400000001,38.505634],"type":"Point"}
 }

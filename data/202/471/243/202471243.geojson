@@ -2,13 +2,14 @@
   "id": 202471243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.327757,42.223166,-88.327757,42.223166",
     "geom:latitude":42.223166,
     "geom:longitude":-88.327757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Nottingham Ln",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202471243,
-    "wof:lastmodified":1449061131,
+    "wof:lastmodified":1466494614,
     "wof:name":"MBG Design & Advertising",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.327757,42.223166,-88.327757,42.223166],
-  "geometry": {"coordinates":[-88.327757,42.223166],"type":"Point"}
+  "bbox": [
+    -88.327757,
+    42.223166,
+    -88.327757,
+    42.223166
+],
+  "geometry": {"coordinates":[-88.32775700000001,42.223166],"type":"Point"}
 }

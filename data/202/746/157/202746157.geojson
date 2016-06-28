@@ -2,13 +2,14 @@
   "id": 202746157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.80635,41.672084,-87.80635,41.672084",
     "geom:latitude":41.672084,
     "geom:longitude":-87.80635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12033 S 76th Ave",
     "sg:city":"Palos Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202746157,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466491325,
     "wof:name":"Shaklee Distributors",
     "wof:parent_id":85890887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.80635,41.672084,-87.80635,41.672084],
-  "geometry": {"coordinates":[-87.80635,41.672084],"type":"Point"}
+  "bbox": [
+    -87.80635,
+    41.672084,
+    -87.80635,
+    41.672084
+],
+  "geometry": {"coordinates":[-87.80634999999999,41.672084],"type":"Point"}
 }

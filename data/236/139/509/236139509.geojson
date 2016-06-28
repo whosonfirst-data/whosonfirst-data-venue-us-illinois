@@ -2,13 +2,14 @@
   "id": 236139509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252383,39.506819,-88.252383,39.506819",
     "geom:latitude":39.506819,
     "geom:longitude":-88.252383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5271 W State St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236139509,
-    "wof:lastmodified":1449001908,
+    "wof:lastmodified":1466490660,
     "wof:name":"Smith Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.252383,39.506819,-88.252383,39.506819],
-  "geometry": {"coordinates":[-88.252383,39.506819],"type":"Point"}
+  "bbox": [
+    -88.252383,
+    39.506819,
+    -88.252383,
+    39.506819
+],
+  "geometry": {"coordinates":[-88.25238299999999,39.506819],"type":"Point"}
 }

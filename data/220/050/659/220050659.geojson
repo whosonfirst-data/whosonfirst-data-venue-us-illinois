@@ -2,13 +2,14 @@
   "id": 220050659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.183451,38.890933,-90.183451,38.890933",
     "geom:latitude":38.890933,
     "geom:longitude":-90.183451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E 3rd St",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220050659,
-    "wof:lastmodified":1449074492,
+    "wof:lastmodified":1466489562,
     "wof:name":"First Unitarian Church",
     "wof:parent_id":85867919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.183451,38.890933,-90.183451,38.890933],
-  "geometry": {"coordinates":[-90.183451,38.890933],"type":"Point"}
+  "bbox": [
+    -90.183451,
+    38.890933,
+    -90.183451,
+    38.890933
+],
+  "geometry": {"coordinates":[-90.18345100000001,38.890933],"type":"Point"}
 }

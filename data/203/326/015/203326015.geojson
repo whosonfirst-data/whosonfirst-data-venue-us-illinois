@@ -2,13 +2,14 @@
   "id": 203326015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.315137,39.978521,-91.315137,39.978521",
     "geom:latitude":39.978521,
     "geom:longitude":-91.315137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6331 Ellington Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203326015,
-    "wof:lastmodified":1449025733,
+    "wof:lastmodified":1466490748,
     "wof:name":"Virgil Mittelberg",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-91.315137,39.978521,-91.315137,39.978521],
-  "geometry": {"coordinates":[-91.315137,39.978521],"type":"Point"}
+  "bbox": [
+    -91.315137,
+    39.978521,
+    -91.315137,
+    39.978521
+],
+  "geometry": {"coordinates":[-91.31513699999999,39.978521],"type":"Point"}
 }

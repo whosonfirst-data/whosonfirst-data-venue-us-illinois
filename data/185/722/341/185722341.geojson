@@ -2,13 +2,14 @@
   "id": 185722341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.324497,39.40048,-88.324497,39.40048",
     "geom:latitude":39.40048,
     "geom:longitude":-88.324497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1992 N Pleasantview Rd",
     "sg:city":"Lerna",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185722341,
-    "wof:lastmodified":1449007155,
+    "wof:lastmodified":1466494969,
     "wof:name":"Knierim Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.324497,39.40048,-88.324497,39.40048],
-  "geometry": {"coordinates":[-88.324497,39.40048],"type":"Point"}
+  "bbox": [
+    -88.324497,
+    39.40048,
+    -88.324497,
+    39.40048
+],
+  "geometry": {"coordinates":[-88.32449699999999,39.40048],"type":"Point"}
 }

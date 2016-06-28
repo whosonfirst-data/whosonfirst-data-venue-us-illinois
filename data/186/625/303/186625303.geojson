@@ -2,13 +2,14 @@
   "id": 186625303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799338,41.738966,-87.799338,41.738966",
     "geom:latitude":41.738966,
     "geom:longitude":-87.799338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 S Harlem Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186625303,
-    "wof:lastmodified":1449053063,
+    "wof:lastmodified":1466489724,
     "wof:name":"Gas Guys",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.799338,41.738966,-87.799338,41.738966],
-  "geometry": {"coordinates":[-87.799338,41.738966],"type":"Point"}
+  "bbox": [
+    -87.799338,
+    41.738966,
+    -87.799338,
+    41.738966
+],
+  "geometry": {"coordinates":[-87.79933800000001,41.738966],"type":"Point"}
 }

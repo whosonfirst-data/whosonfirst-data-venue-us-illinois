@@ -2,13 +2,14 @@
   "id": 253480067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745832,41.899394,-87.745832,41.899394",
     "geom:latitude":41.899394,
     "geom:longitude":-87.745832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253480067,
-    "wof:lastmodified":1449063788,
+    "wof:lastmodified":1466495542,
     "wof:name":"Freeze King",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mach"
     ]
 },
-  "bbox": [-87.745832,41.899394,-87.745832,41.899394],
-  "geometry": {"coordinates":[-87.745832,41.899394],"type":"Point"}
+  "bbox": [
+    -87.745832,
+    41.899394,
+    -87.745832,
+    41.899394
+],
+  "geometry": {"coordinates":[-87.74583199999999,41.899394],"type":"Point"}
 }

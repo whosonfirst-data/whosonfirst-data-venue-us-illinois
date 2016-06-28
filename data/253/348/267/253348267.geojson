@@ -2,13 +2,14 @@
   "id": 253348267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.550452,40.940244,-90.550452,40.940244",
     "geom:latitude":40.940244,
     "geom:longitude":-90.550452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 215th Ave",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253348267,
-    "wof:lastmodified":1449062957,
+    "wof:lastmodified":1466493423,
     "wof:name":"Carrol Oaks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-90.550452,40.940244,-90.550452,40.940244],
-  "geometry": {"coordinates":[-90.550452,40.940244],"type":"Point"}
+  "bbox": [
+    -90.550452,
+    40.940244,
+    -90.550452,
+    40.940244
+],
+  "geometry": {"coordinates":[-90.55045200000001,40.940244],"type":"Point"}
 }

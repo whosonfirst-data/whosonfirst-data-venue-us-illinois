@@ -2,13 +2,14 @@
   "id": 287107473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053501,38.536259,-90.053501,38.536259",
     "geom:latitude":38.536259,
     "geom:longitude":-90.053501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 Twin Pyramid Pkwy",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287107473,
-    "wof:lastmodified":1449000663,
+    "wof:lastmodified":1466491683,
     "wof:name":"Radiation Oncology",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.053501,38.536259,-90.053501,38.536259],
+  "bbox": [
+    -90.053501,
+    38.536259,
+    -90.053501,
+    38.536259
+],
   "geometry": {"coordinates":[-90.053501,38.536259],"type":"Point"}
 }

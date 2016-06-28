@@ -2,13 +2,14 @@
   "id": 169752585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.25633,39.032928,-90.25633,39.032928",
     "geom:latitude":39.032928,
     "geom:longitude":-90.25633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29146 Haven Rd",
     "sg:city":"Jerseyville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169752585,
-    "wof:lastmodified":1449033251,
+    "wof:lastmodified":1466493564,
     "wof:name":"Rbi Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.25633,39.032928,-90.25633,39.032928],
-  "geometry": {"coordinates":[-90.25633,39.032928],"type":"Point"}
+  "bbox": [
+    -90.25633,
+    39.032928,
+    -90.25633,
+    39.032928
+],
+  "geometry": {"coordinates":[-90.25633000000001,39.032928],"type":"Point"}
 }

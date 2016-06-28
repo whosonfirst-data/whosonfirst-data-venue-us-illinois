@@ -2,13 +2,14 @@
   "id": 269623687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.010888,41.806092,-88.010888,41.806092",
     "geom:latitude":41.806092,
     "geom:longitude":-88.010888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 Main St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269623687,
-    "wof:lastmodified":1449037824,
+    "wof:lastmodified":1466491202,
     "wof:name":"Downers Grove North High Schl",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-88.010888,41.806092,-88.010888,41.806092],
-  "geometry": {"coordinates":[-88.010888,41.806092],"type":"Point"}
+  "bbox": [
+    -88.010888,
+    41.806092,
+    -88.010888,
+    41.806092
+],
+  "geometry": {"coordinates":[-88.01088799999999,41.806092],"type":"Point"}
 }

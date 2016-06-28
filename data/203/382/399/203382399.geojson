@@ -2,13 +2,14 @@
   "id": 203382399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.951608,40.230345,-90.951608,40.230345",
     "geom:latitude":40.230345,
     "geom:longitude":-90.951608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Main St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203382399,
-    "wof:lastmodified":1449025416,
+    "wof:lastmodified":1466491382,
     "wof:name":"Augusta Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "us"
     ]
 },
-  "bbox": [-90.951608,40.230345,-90.951608,40.230345],
-  "geometry": {"coordinates":[-90.951608,40.230345],"type":"Point"}
+  "bbox": [
+    -90.951608,
+    40.230345,
+    -90.951608,
+    40.230345
+],
+  "geometry": {"coordinates":[-90.95160799999999,40.230345],"type":"Point"}
 }

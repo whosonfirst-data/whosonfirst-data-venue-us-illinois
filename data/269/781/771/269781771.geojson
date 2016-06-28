@@ -2,13 +2,14 @@
   "id": 269781771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.019359,42.335361,-89.019359,42.335361",
     "geom:latitude":42.335361,
     "geom:longitude":-89.019359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7758 Forest Hills Rd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269781771,
-    "wof:lastmodified":1449036591,
+    "wof:lastmodified":1466493735,
     "wof:name":"Skyline Ranch Resort",
     "wof:parent_id":85880449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "camping"
     ]
 },
-  "bbox": [-89.019359,42.335361,-89.019359,42.335361],
-  "geometry": {"coordinates":[-89.019359,42.335361],"type":"Point"}
+  "bbox": [
+    -89.019359,
+    42.335361,
+    -89.019359,
+    42.335361
+],
+  "geometry": {"coordinates":[-89.01935899999999,42.335361],"type":"Point"}
 }

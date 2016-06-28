@@ -2,13 +2,14 @@
   "id": 253663261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.292994,41.861753,-88.292994,41.861753",
     "geom:latitude":41.861753,
     "geom:longitude":-88.292994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Raddant Rd",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253663261,
-    "wof:lastmodified":1449065005,
+    "wof:lastmodified":1466497346,
     "wof:name":"S I Tech",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "optics"
     ]
 },
-  "bbox": [-88.292994,41.861753,-88.292994,41.861753],
-  "geometry": {"coordinates":[-88.292994,41.861753],"type":"Point"}
+  "bbox": [
+    -88.292994,
+    41.861753,
+    -88.292994,
+    41.861753
+],
+  "geometry": {"coordinates":[-88.29299399999999,41.861753],"type":"Point"}
 }

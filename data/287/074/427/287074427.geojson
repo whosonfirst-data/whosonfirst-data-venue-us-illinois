@@ -2,13 +2,14 @@
   "id": 287074427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.803854,39.711283,-88.803854,39.711283",
     "geom:latitude":39.711283,
     "geom:longitude":-88.803854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Main St",
     "sg:city":"Dalton City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287074427,
-    "wof:lastmodified":1449001148,
+    "wof:lastmodified":1466491152,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.803854,39.711283,-88.803854,39.711283],
+  "bbox": [
+    -88.803854,
+    39.711283,
+    -88.803854,
+    39.711283
+],
   "geometry": {"coordinates":[-88.803854,39.711283],"type":"Point"}
 }

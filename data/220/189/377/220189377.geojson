@@ -2,13 +2,14 @@
   "id": 220189377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08043,41.533956,-88.08043,41.533956",
     "geom:latitude":41.533956,
     "geom:longitude":-88.08043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Scott St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220189377,
-    "wof:lastmodified":1449074616,
+    "wof:lastmodified":1466491241,
     "wof:name":"New Testament Fellowship Chr",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.08043,41.533956,-88.08043,41.533956],
-  "geometry": {"coordinates":[-88.08043,41.533956],"type":"Point"}
+  "bbox": [
+    -88.08043,
+    41.533956,
+    -88.08043,
+    41.533956
+],
+  "geometry": {"coordinates":[-88.08043000000001,41.533956],"type":"Point"}
 }

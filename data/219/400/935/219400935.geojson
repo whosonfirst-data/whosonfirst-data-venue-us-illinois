@@ -2,13 +2,14 @@
   "id": 219400935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.805748,37.926412,-89.805748,37.926412",
     "geom:latitude":37.926412,
     "geom:longitude":-89.805748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2229 State St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219400935,
-    "wof:lastmodified":1449070736,
+    "wof:lastmodified":1466491969,
     "wof:name":"Construction Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.805748,37.926412,-89.805748,37.926412],
-  "geometry": {"coordinates":[-89.805748,37.926412],"type":"Point"}
+  "bbox": [
+    -89.805748,
+    37.926412,
+    -89.805748,
+    37.926412
+],
+  "geometry": {"coordinates":[-89.80574799999999,37.926412],"type":"Point"}
 }

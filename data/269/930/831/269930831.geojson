@@ -2,13 +2,14 @@
   "id": 269930831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240665,40.111502,-88.240665,40.111502",
     "geom:latitude":40.111502,
     "geom:longitude":-88.240665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 E Healey St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269930831,
-    "wof:lastmodified":1449036921,
+    "wof:lastmodified":1466495871,
     "wof:name":"Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.240665,40.111502,-88.240665,40.111502],
-  "geometry": {"coordinates":[-88.240665,40.111502],"type":"Point"}
+  "bbox": [
+    -88.240665,
+    40.111502,
+    -88.240665,
+    40.111502
+],
+  "geometry": {"coordinates":[-88.24066500000001,40.111502],"type":"Point"}
 }

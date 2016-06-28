@@ -2,13 +2,14 @@
   "id": 287040075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.734187,41.960875,-87.734187,41.960875",
     "geom:latitude":41.960875,
     "geom:longitude":-87.734187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 W Montrose Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287040075,
-    "wof:lastmodified":1449001568,
+    "wof:lastmodified":1466490603,
     "wof:name":"L & L Appliance Mart Inc",
     "wof:parent_id":85865761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appliance"
     ]
 },
-  "bbox": [-87.734187,41.960875,-87.734187,41.960875],
-  "geometry": {"coordinates":[-87.734187,41.960875],"type":"Point"}
+  "bbox": [
+    -87.734187,
+    41.960875,
+    -87.734187,
+    41.960875
+],
+  "geometry": {"coordinates":[-87.73418700000001,41.960875],"type":"Point"}
 }

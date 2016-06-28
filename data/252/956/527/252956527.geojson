@@ -2,13 +2,14 @@
   "id": 252956527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962487,42.022303,-87.962487,42.022303",
     "geom:latitude":42.022303,
     "geom:longitude":-87.962487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1595 Oakton St",
     "sg:city":"Elk Grove Vlg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252956527,
-    "wof:lastmodified":1449005595,
+    "wof:lastmodified":1466492210,
     "wof:name":"Acme Finishing Co Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "powder"
     ]
 },
-  "bbox": [-87.962487,42.022303,-87.962487,42.022303],
+  "bbox": [
+    -87.962487,
+    42.022303,
+    -87.962487,
+    42.022303
+],
   "geometry": {"coordinates":[-87.962487,42.022303],"type":"Point"}
 }

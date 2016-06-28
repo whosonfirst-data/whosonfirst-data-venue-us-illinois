@@ -2,13 +2,14 @@
   "id": 219716309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.749293,41.858721,-87.749293,41.858721",
     "geom:latitude":41.858721,
     "geom:longitude":-87.749293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 W 16th St",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219716309,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466495706,
     "wof:name":"G B Auto Svc",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.749293,41.858721,-87.749293,41.858721],
-  "geometry": {"coordinates":[-87.749293,41.858721],"type":"Point"}
+  "bbox": [
+    -87.749293,
+    41.858721,
+    -87.749293,
+    41.858721
+],
+  "geometry": {"coordinates":[-87.74929299999999,41.858721],"type":"Point"}
 }

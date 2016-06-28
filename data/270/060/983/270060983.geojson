@@ -2,13 +2,14 @@
   "id": 270060983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.347991,41.754036,-88.347991,41.754036",
     "geom:latitude":41.754036,
     "geom:longitude":-88.347991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 Kenilworth Pl",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270060983,
-    "wof:lastmodified":1449010875,
+    "wof:lastmodified":1466489937,
     "wof:name":"Aurora University Bookstore",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bookstore"
     ]
 },
-  "bbox": [-88.347991,41.754036,-88.347991,41.754036],
-  "geometry": {"coordinates":[-88.347991,41.754036],"type":"Point"}
+  "bbox": [
+    -88.347991,
+    41.754036,
+    -88.347991,
+    41.754036
+],
+  "geometry": {"coordinates":[-88.34799099999999,41.754036],"type":"Point"}
 }

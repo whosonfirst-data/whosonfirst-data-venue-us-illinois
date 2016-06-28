@@ -2,13 +2,14 @@
   "id": 236325921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.811297,41.735709,-87.811297,41.735709",
     "geom:latitude":41.735709,
     "geom:longitude":-87.811297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8535 S 77th Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236325921,
-    "wof:lastmodified":1449002850,
+    "wof:lastmodified":1466493091,
     "wof:name":"Crystal Leasing",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-87.811297,41.735709,-87.811297,41.735709],
+  "bbox": [
+    -87.811297,
+    41.735709,
+    -87.811297,
+    41.735709
+],
   "geometry": {"coordinates":[-87.811297,41.735709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286317025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309267,41.887075,-88.309267,41.887075",
     "geom:latitude":41.887075,
     "geom:longitude":-88.309267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 James St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286317025,
-    "wof:lastmodified":1449016535,
+    "wof:lastmodified":1466490676,
     "wof:name":"Foxpointe Mortgage LLC",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-88.309267,41.887075,-88.309267,41.887075],
-  "geometry": {"coordinates":[-88.309267,41.887075],"type":"Point"}
+  "bbox": [
+    -88.309267,
+    41.887075,
+    -88.309267,
+    41.887075
+],
+  "geometry": {"coordinates":[-88.30926700000001,41.887075],"type":"Point"}
 }

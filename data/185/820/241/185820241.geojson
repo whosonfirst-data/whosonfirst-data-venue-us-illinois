@@ -2,13 +2,14 @@
   "id": 185820241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.875427,39.293465,-89.875427,39.293465",
     "geom:latitude":39.293465,
     "geom:longitude":-89.875427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Carlinville Plz",
     "sg:city":"Carlinville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185820241,
-    "wof:lastmodified":1449007464,
+    "wof:lastmodified":1466489150,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-89.875427,39.293465,-89.875427,39.293465],
+  "bbox": [
+    -89.875427,
+    39.293465,
+    -89.875427,
+    39.293465
+],
   "geometry": {"coordinates":[-89.875427,39.293465],"type":"Point"}
 }

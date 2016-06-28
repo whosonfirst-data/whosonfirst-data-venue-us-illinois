@@ -2,13 +2,14 @@
   "id": 236572051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.177596,41.549814,-88.177596,41.549814",
     "geom:latitude":41.549814,
     "geom:longitude":-88.177596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3919 Leominster Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236572051,
-    "wof:lastmodified":1449003714,
+    "wof:lastmodified":1466496121,
     "wof:name":"Sartronix",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-88.177596,41.549814,-88.177596,41.549814],
-  "geometry": {"coordinates":[-88.177596,41.549814],"type":"Point"}
+  "bbox": [
+    -88.177596,
+    41.549814,
+    -88.177596,
+    41.549814
+],
+  "geometry": {"coordinates":[-88.17759599999999,41.549814],"type":"Point"}
 }

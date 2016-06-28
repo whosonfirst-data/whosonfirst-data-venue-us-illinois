@@ -2,13 +2,14 @@
   "id": 202422283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.325842,41.782856,-88.325842,41.782856",
     "geom:latitude":41.782856,
     "geom:longitude":-88.325842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W New Indian Trail Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202422283,
-    "wof:lastmodified":1449060284,
+    "wof:lastmodified":1466493606,
     "wof:name":"Aid-Jan Aid",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.325842,41.782856,-88.325842,41.782856],
-  "geometry": {"coordinates":[-88.325842,41.782856],"type":"Point"}
+  "bbox": [
+    -88.325842,
+    41.782856,
+    -88.325842,
+    41.782856
+],
+  "geometry": {"coordinates":[-88.32584199999999,41.782856],"type":"Point"}
 }

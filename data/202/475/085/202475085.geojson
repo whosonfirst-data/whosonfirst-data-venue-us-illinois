@@ -2,13 +2,14 @@
   "id": 202475085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328882,37.980897,-88.328882,37.980897",
     "geom:latitude":37.980897,
     "geom:longitude":-88.328882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Division St",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202475085,
-    "wof:lastmodified":1449061164,
+    "wof:lastmodified":1466495747,
     "wof:name":"American Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.328882,37.980897,-88.328882,37.980897],
-  "geometry": {"coordinates":[-88.328882,37.980897],"type":"Point"}
+  "bbox": [
+    -88.328882,
+    37.980897,
+    -88.328882,
+    37.980897
+],
+  "geometry": {"coordinates":[-88.32888199999999,37.980897],"type":"Point"}
 }

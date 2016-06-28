@@ -2,13 +2,14 @@
   "id": 287223635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.62377,40.124469,-87.62377,40.124469",
     "geom:latitude":40.124469,
     "geom:longitude":-87.62377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 E Main St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":287223635,
-    "wof:lastmodified":1449000720,
+    "wof:lastmodified":1466493565,
     "wof:name":"Holy Family Church",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.62377,40.124469,-87.62377,40.124469],
-  "geometry": {"coordinates":[-87.62377,40.124469],"type":"Point"}
+  "bbox": [
+    -87.62377,
+    40.124469,
+    -87.62377,
+    40.124469
+],
+  "geometry": {"coordinates":[-87.62376999999999,40.124469],"type":"Point"}
 }

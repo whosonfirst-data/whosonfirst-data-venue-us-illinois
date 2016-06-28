@@ -2,13 +2,14 @@
   "id": 286780073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745973,41.740146,-87.745973,41.740146",
     "geom:latitude":41.740146,
     "geom:longitude":-87.745973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8312 Lavergne Ave",
     "sg:city":"Bedford Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286780073,
-    "wof:lastmodified":1449017383,
+    "wof:lastmodified":1466497363,
     "wof:name":"Scottsdale Hobby Center",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.745973,41.740146,-87.745973,41.740146],
-  "geometry": {"coordinates":[-87.745973,41.740146],"type":"Point"}
+  "bbox": [
+    -87.745973,
+    41.740146,
+    -87.745973,
+    41.740146
+],
+  "geometry": {"coordinates":[-87.74597300000001,41.740146],"type":"Point"}
 }

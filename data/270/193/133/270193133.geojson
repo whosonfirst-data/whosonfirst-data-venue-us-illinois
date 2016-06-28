@@ -2,13 +2,14 @@
   "id": 270193133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569189,41.75888,-87.569189,41.75888",
     "geom:latitude":41.75888,
     "geom:longitude":-87.569189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 E 75th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270193133,
-    "wof:lastmodified":1449009032,
+    "wof:lastmodified":1466491922,
     "wof:name":"Church Of Living Faith",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.569189,41.75888,-87.569189,41.75888],
-  "geometry": {"coordinates":[-87.569189,41.75888],"type":"Point"}
+  "bbox": [
+    -87.569189,
+    41.75888,
+    -87.569189,
+    41.75888
+],
+  "geometry": {"coordinates":[-87.56918899999999,41.75888],"type":"Point"}
 }

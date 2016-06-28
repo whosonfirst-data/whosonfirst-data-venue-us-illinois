@@ -2,13 +2,14 @@
   "id": 236559299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.975442,41.513563,-87.975442,41.513563",
     "geom:latitude":41.513563,
     "geom:longitude":-87.975442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Manor Dr",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236559299,
-    "wof:lastmodified":1449004378,
+    "wof:lastmodified":1466496024,
     "wof:name":"New Lenox Community Park Dist",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "parks"
     ]
 },
-  "bbox": [-87.975442,41.513563,-87.975442,41.513563],
+  "bbox": [
+    -87.975442,
+    41.513563,
+    -87.975442,
+    41.513563
+],
   "geometry": {"coordinates":[-87.975442,41.513563],"type":"Point"}
 }

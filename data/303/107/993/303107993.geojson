@@ -2,13 +2,14 @@
   "id": 303107993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104717,41.808521,-88.104717,41.808521",
     "geom:latitude":41.808521,
     "geom:longitude":-88.104717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Warrenville Rd",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303107993,
-    "wof:lastmodified":1448998125,
+    "wof:lastmodified":1466491533,
     "wof:name":"EMNS Inc",
     "wof:parent_id":85879091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "signaling"
     ]
 },
-  "bbox": [-88.104717,41.808521,-88.104717,41.808521],
-  "geometry": {"coordinates":[-88.104717,41.808521],"type":"Point"}
+  "bbox": [
+    -88.104717,
+    41.808521,
+    -88.104717,
+    41.808521
+],
+  "geometry": {"coordinates":[-88.10471699999999,41.808521],"type":"Point"}
 }

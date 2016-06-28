@@ -2,13 +2,14 @@
   "id": 286923395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.007506,41.603165,-88.007506,41.603165",
     "geom:latitude":41.603165,
     "geom:longitude":-88.007506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15110 S Gougar Rd",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286923395,
-    "wof:lastmodified":1449017993,
+    "wof:lastmodified":1466498131,
     "wof:name":"Hostert Excavating",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.007506,41.603165,-88.007506,41.603165],
-  "geometry": {"coordinates":[-88.007506,41.603165],"type":"Point"}
+  "bbox": [
+    -88.007506,
+    41.603165,
+    -88.007506,
+    41.603165
+],
+  "geometry": {"coordinates":[-88.00750600000001,41.603165],"type":"Point"}
 }

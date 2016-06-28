@@ -2,13 +2,14 @@
   "id": 353860283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.732099,42.481538,-89.732099,42.481538",
     "geom:latitude":42.481538,
     "geom:longitude":-89.732099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12249 N Hulbert Rd",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353860283,
-    "wof:lastmodified":1449019397,
+    "wof:lastmodified":1466491974,
     "wof:name":"Wildvale Holstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.732099,42.481538,-89.732099,42.481538],
-  "geometry": {"coordinates":[-89.732099,42.481538],"type":"Point"}
+  "bbox": [
+    -89.732099,
+    42.481538,
+    -89.732099,
+    42.481538
+],
+  "geometry": {"coordinates":[-89.73209900000001,42.481538],"type":"Point"}
 }

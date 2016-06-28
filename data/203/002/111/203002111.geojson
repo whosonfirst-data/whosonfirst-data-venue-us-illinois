@@ -2,13 +2,14 @@
   "id": 203002111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.752006,41.861083,-87.752006,41.861083",
     "geom:latitude":41.861083,
     "geom:longitude":-87.752006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 S 51st Ave",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203002111,
-    "wof:lastmodified":1449026499,
+    "wof:lastmodified":1466488950,
     "wof:name":"Heat Wave",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.752006,41.861083,-87.752006,41.861083],
-  "geometry": {"coordinates":[-87.752006,41.861083],"type":"Point"}
+  "bbox": [
+    -87.752006,
+    41.861083,
+    -87.752006,
+    41.861083
+],
+  "geometry": {"coordinates":[-87.75200599999999,41.861083],"type":"Point"}
 }

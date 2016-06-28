@@ -2,13 +2,14 @@
   "id": 169814913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.947012,38.515824,-89.947012,38.515824",
     "geom:latitude":38.515824,
     "geom:longitude":-89.947012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Brookshire Ct Apt 5",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169814913,
-    "wof:lastmodified":1449033293,
+    "wof:lastmodified":1466494734,
     "wof:name":"A Painting Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.947012,38.515824,-89.947012,38.515824],
+  "bbox": [
+    -89.947012,
+    38.515824,
+    -89.947012,
+    38.515824
+],
   "geometry": {"coordinates":[-89.947012,38.515824],"type":"Point"}
 }

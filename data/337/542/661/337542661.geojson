@@ -2,13 +2,14 @@
   "id": 337542661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104855,42.229206,-88.104855,42.229206",
     "geom:latitude":42.229206,
     "geom:longitude":-88.104855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24223 W Rose Ave",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337542661,
-    "wof:lastmodified":1449027570,
+    "wof:lastmodified":1466492649,
     "wof:name":"Approved Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-88.104855,42.229206,-88.104855,42.229206],
+  "bbox": [
+    -88.104855,
+    42.229206,
+    -88.104855,
+    42.229206
+],
   "geometry": {"coordinates":[-88.104855,42.229206],"type":"Point"}
 }

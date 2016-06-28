@@ -2,13 +2,14 @@
   "id": 286477261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.728955,41.993256,-87.728955,41.993256",
     "geom:latitude":41.993256,
     "geom:longitude":-87.728955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286477261,
-    "wof:lastmodified":1449015661,
+    "wof:lastmodified":1466493159,
     "wof:name":"Accounting Associates",
     "wof:parent_id":85865777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.728955,41.993256,-87.728955,41.993256],
+  "bbox": [
+    -87.728955,
+    41.993256,
+    -87.728955,
+    41.993256
+],
   "geometry": {"coordinates":[-87.728955,41.993256],"type":"Point"}
 }

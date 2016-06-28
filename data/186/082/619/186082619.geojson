@@ -2,13 +2,14 @@
   "id": 186082619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.539832,37.805011,-88.539832,37.805011",
     "geom:latitude":37.805011,
     "geom:longitude":-88.539832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Highway 34 N",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186082619,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466494729,
     "wof:name":"American Airlines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.539832,37.805011,-88.539832,37.805011],
+  "bbox": [
+    -88.539832,
+    37.805011,
+    -88.539832,
+    37.805011
+],
   "geometry": {"coordinates":[-88.539832,37.805011],"type":"Point"}
 }

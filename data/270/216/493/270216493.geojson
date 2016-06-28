@@ -2,13 +2,14 @@
   "id": 270216493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.761069,41.675239,-87.761069,41.675239",
     "geom:latitude":41.675239,
     "geom:longitude":-87.761069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 W 120th St",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270216493,
-    "wof:lastmodified":1449010809,
+    "wof:lastmodified":1466492293,
     "wof:name":"Naegele Inc",
     "wof:parent_id":85890893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-87.761069,41.675239,-87.761069,41.675239],
-  "geometry": {"coordinates":[-87.761069,41.675239],"type":"Point"}
+  "bbox": [
+    -87.761069,
+    41.675239,
+    -87.761069,
+    41.675239
+],
+  "geometry": {"coordinates":[-87.76106900000001,41.675239],"type":"Point"}
 }

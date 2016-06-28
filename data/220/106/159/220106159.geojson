@@ -2,13 +2,14 @@
   "id": 220106159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.844594,37.931425,-89.844594,37.931425",
     "geom:latitude":37.931425,
     "geom:longitude":-89.844594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 Bodes Ln",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220106159,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466490246,
     "wof:name":"Cohen Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.844594,37.931425,-89.844594,37.931425],
+  "bbox": [
+    -89.844594,
+    37.931425,
+    -89.844594,
+    37.931425
+],
   "geometry": {"coordinates":[-89.844594,37.931425],"type":"Point"}
 }

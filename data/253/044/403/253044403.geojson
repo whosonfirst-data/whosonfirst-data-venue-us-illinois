@@ -2,13 +2,14 @@
   "id": 253044403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.220566,40.112716,-88.220566,40.112716",
     "geom:latitude":40.112716,
     "geom:longitude":-88.220566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Springfield Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253044403,
-    "wof:lastmodified":1449064365,
+    "wof:lastmodified":1466489544,
     "wof:name":"Bailey Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.220566,40.112716,-88.220566,40.112716],
-  "geometry": {"coordinates":[-88.220566,40.112716],"type":"Point"}
+  "bbox": [
+    -88.220566,
+    40.112716,
+    -88.220566,
+    40.112716
+],
+  "geometry": {"coordinates":[-88.22056600000001,40.112716],"type":"Point"}
 }

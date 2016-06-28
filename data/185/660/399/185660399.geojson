@@ -2,13 +2,14 @@
   "id": 185660399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.156044,38.33434,-90.156044,38.33434",
     "geom:latitude":38.33434,
     "geom:longitude":-90.156044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W 3rd St",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185660399,
-    "wof:lastmodified":1449008054,
+    "wof:lastmodified":1466493918,
     "wof:name":"Don's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "electrician"
     ]
 },
-  "bbox": [-90.156044,38.33434,-90.156044,38.33434],
-  "geometry": {"coordinates":[-90.156044,38.33434],"type":"Point"}
+  "bbox": [
+    -90.156044,
+    38.33434,
+    -90.156044,
+    38.33434
+],
+  "geometry": {"coordinates":[-90.15604399999999,38.33434],"type":"Point"}
 }

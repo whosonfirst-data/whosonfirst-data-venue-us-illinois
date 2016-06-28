@@ -2,13 +2,14 @@
   "id": 202994445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109127,41.773268,-88.109127,41.773268",
     "geom:latitude":41.773268,
     "geom:longitude":-88.109127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 Torrey Pine Ln",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202994445,
-    "wof:lastmodified":1449060224,
+    "wof:lastmodified":1466494302,
     "wof:name":"Care Resource & Refferal",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "referral"
     ]
 },
-  "bbox": [-88.109127,41.773268,-88.109127,41.773268],
+  "bbox": [
+    -88.109127,
+    41.773268,
+    -88.109127,
+    41.773268
+],
   "geometry": {"coordinates":[-88.109127,41.773268],"type":"Point"}
 }

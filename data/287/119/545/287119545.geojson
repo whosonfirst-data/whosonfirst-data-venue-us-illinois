@@ -2,13 +2,14 @@
   "id": 287119545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.822725,41.541789,-87.822725,41.541789",
     "geom:latitude":41.541789,
     "geom:longitude":-87.822725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19136 S Blackhawk Pkwy",
     "sg:city":"Mokena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287119545,
-    "wof:lastmodified":1449001312,
+    "wof:lastmodified":1466491891,
     "wof:name":"P-S Payroll Services",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.822725,41.541789,-87.822725,41.541789],
-  "geometry": {"coordinates":[-87.822725,41.541789],"type":"Point"}
+  "bbox": [
+    -87.822725,
+    41.541789,
+    -87.822725,
+    41.541789
+],
+  "geometry": {"coordinates":[-87.82272500000001,41.541789],"type":"Point"}
 }

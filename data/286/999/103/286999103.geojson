@@ -2,13 +2,14 @@
   "id": 286999103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.822589,41.133732,-87.822589,41.133732",
     "geom:latitude":41.133732,
     "geom:longitude":-87.822589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 E 1000N Rd",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286999103,
-    "wof:lastmodified":1449017738,
+    "wof:lastmodified":1466498515,
     "wof:name":"Jane A Hertz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-87.822589,41.133732,-87.822589,41.133732],
-  "geometry": {"coordinates":[-87.822589,41.133732],"type":"Point"}
+  "bbox": [
+    -87.822589,
+    41.133732,
+    -87.822589,
+    41.133732
+],
+  "geometry": {"coordinates":[-87.82258899999999,41.133732],"type":"Point"}
 }

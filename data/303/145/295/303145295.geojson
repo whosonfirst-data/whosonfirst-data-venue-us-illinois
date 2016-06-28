@@ -2,13 +2,14 @@
   "id": 303145295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.153252,38.626816,-90.153252,38.626816",
     "geom:latitude":38.626816,
     "geom:longitude":-90.153252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Martin Luther King Dr",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303145295,
-    "wof:lastmodified":1448998860,
+    "wof:lastmodified":1466492151,
     "wof:name":"Another Level",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.153252,38.626816,-90.153252,38.626816],
-  "geometry": {"coordinates":[-90.153252,38.626816],"type":"Point"}
+  "bbox": [
+    -90.153252,
+    38.626816,
+    -90.153252,
+    38.626816
+],
+  "geometry": {"coordinates":[-90.15325199999999,38.626816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219221241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.193488,40.085893,-88.193488,40.085893",
     "geom:latitude":40.085893,
     "geom:longitude":-88.193488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Pond St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219221241,
-    "wof:lastmodified":1449071944,
+    "wof:lastmodified":1466489761,
     "wof:name":"James Gambill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.193488,40.085893,-88.193488,40.085893],
+  "bbox": [
+    -88.193488,
+    40.085893,
+    -88.193488,
+    40.085893
+],
   "geometry": {"coordinates":[-88.193488,40.085893],"type":"Point"}
 }

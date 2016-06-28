@@ -2,13 +2,14 @@
   "id": 253525823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653781,41.967219,-87.653781,41.967219",
     "geom:latitude":41.967219,
     "geom:longitude":-87.653781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 W Leland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253525823,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1466496025,
     "wof:name":"Animalsense Inc",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-87.653781,41.967219,-87.653781,41.967219],
+  "bbox": [
+    -87.653781,
+    41.967219,
+    -87.653781,
+    41.967219
+],
   "geometry": {"coordinates":[-87.653781,41.967219],"type":"Point"}
 }

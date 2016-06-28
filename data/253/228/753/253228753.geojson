@@ -2,13 +2,14 @@
   "id": 253228753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.142998,41.932643,-88.142998,41.932643",
     "geom:latitude":41.932643,
     "geom:longitude":-88.142998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Huntington Dr",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253228753,
-    "wof:lastmodified":1449063745,
+    "wof:lastmodified":1466491708,
     "wof:name":"Fontano's",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-88.142998,41.932643,-88.142998,41.932643],
-  "geometry": {"coordinates":[-88.142998,41.932643],"type":"Point"}
+  "bbox": [
+    -88.142998,
+    41.932643,
+    -88.142998,
+    41.932643
+],
+  "geometry": {"coordinates":[-88.14299800000001,41.932643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253177077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764693,41.851112,-87.764693,41.851112",
     "geom:latitude":41.851112,
     "geom:longitude":-87.764693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253177077,
-    "wof:lastmodified":1449065803,
+    "wof:lastmodified":1466491048,
     "wof:name":"Cicero Optical Lab",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.764693,41.851112,-87.764693,41.851112],
-  "geometry": {"coordinates":[-87.764693,41.851112],"type":"Point"}
+  "bbox": [
+    -87.764693,
+    41.851112,
+    -87.764693,
+    41.851112
+],
+  "geometry": {"coordinates":[-87.76469299999999,41.851112],"type":"Point"}
 }

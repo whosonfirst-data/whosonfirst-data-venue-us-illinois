@@ -2,13 +2,14 @@
   "id": 202964497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.586272,39.757097,-87.586272,39.757097",
     "geom:latitude":39.757097,
     "geom:longitude":-87.586272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19226 N 2050th St",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202964497,
-    "wof:lastmodified":1449062028,
+    "wof:lastmodified":1466493948,
     "wof:name":"Everett Bolen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-87.586272,39.757097,-87.586272,39.757097],
-  "geometry": {"coordinates":[-87.586272,39.757097],"type":"Point"}
+  "bbox": [
+    -87.586272,
+    39.757097,
+    -87.586272,
+    39.757097
+],
+  "geometry": {"coordinates":[-87.58627199999999,39.757097],"type":"Point"}
 }

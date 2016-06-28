@@ -2,13 +2,14 @@
   "id": 253151135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741372,41.895169,-87.741372,41.895169",
     "geom:latitude":41.895169,
     "geom:longitude":-87.741372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4616 W Chicago Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253151135,
-    "wof:lastmodified":1449062849,
+    "wof:lastmodified":1466490772,
     "wof:name":"Fences & More",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-87.741372,41.895169,-87.741372,41.895169],
+  "bbox": [
+    -87.741372,
+    41.895169,
+    -87.741372,
+    41.895169
+],
   "geometry": {"coordinates":[-87.741372,41.895169],"type":"Point"}
 }

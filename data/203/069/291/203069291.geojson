@@ -2,13 +2,14 @@
   "id": 203069291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328566,37.985027,-88.328566,37.985027",
     "geom:latitude":37.985027,
     "geom:longitude":-88.328566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 US Hwy 45",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203069291,
-    "wof:lastmodified":1449026158,
+    "wof:lastmodified":1466494113,
     "wof:name":"Jerry Johnson Truck Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-88.328566,37.985027,-88.328566,37.985027],
+  "bbox": [
+    -88.328566,
+    37.985027,
+    -88.328566,
+    37.985027
+],
   "geometry": {"coordinates":[-88.328566,37.985027],"type":"Point"}
 }

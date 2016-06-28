@@ -2,13 +2,14 @@
   "id": 219710717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.77451,41.850828,-87.77451,41.850828",
     "geom:latitude":41.850828,
     "geom:longitude":-87.77451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219710717,
-    "wof:lastmodified":1449070597,
+    "wof:lastmodified":1466495659,
     "wof:name":"Gabriel Taxes",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-87.77451,41.850828,-87.77451,41.850828],
-  "geometry": {"coordinates":[-87.77451,41.850828],"type":"Point"}
+  "bbox": [
+    -87.77451,
+    41.850828,
+    -87.77451,
+    41.850828
+],
+  "geometry": {"coordinates":[-87.77451000000001,41.850828],"type":"Point"}
 }

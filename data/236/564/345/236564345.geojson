@@ -2,13 +2,14 @@
   "id": 236564345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.259242,42.208625,-88.259242,42.208625",
     "geom:latitude":42.208625,
     "geom:longitude":-88.259242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 W Main St",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236564345,
-    "wof:lastmodified":1449005018,
+    "wof:lastmodified":1466496244,
     "wof:name":"Always Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "heating"
     ]
 },
-  "bbox": [-88.259242,42.208625,-88.259242,42.208625],
+  "bbox": [
+    -88.259242,
+    42.208625,
+    -88.259242,
+    42.208625
+],
   "geometry": {"coordinates":[-88.259242,42.208625],"type":"Point"}
 }

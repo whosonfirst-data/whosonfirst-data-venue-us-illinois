@@ -2,13 +2,14 @@
   "id": 270515101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.607737,41.810124,-87.607737,41.810124",
     "geom:latitude":41.810124,
     "geom:longitude":-87.607737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 S Evans Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270515101,
-    "wof:lastmodified":1449009201,
+    "wof:lastmodified":1466496418,
     "wof:name":"Cater To You",
     "wof:parent_id":85867601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-87.607737,41.810124,-87.607737,41.810124],
+  "bbox": [
+    -87.607737,
+    41.810124,
+    -87.607737,
+    41.810124
+],
   "geometry": {"coordinates":[-87.607737,41.810124],"type":"Point"}
 }

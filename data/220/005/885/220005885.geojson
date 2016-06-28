@@ -2,13 +2,14 @@
   "id": 220005885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650624,41.968175,-87.650624,41.968175",
     "geom:latitude":41.968175,
     "geom:longitude":-87.650624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 W Lakeside Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220005885,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466489016,
     "wof:name":"Believe Technology",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [-87.650624,41.968175,-87.650624,41.968175],
-  "geometry": {"coordinates":[-87.650624,41.968175],"type":"Point"}
+  "bbox": [
+    -87.650624,
+    41.968175,
+    -87.650624,
+    41.968175
+],
+  "geometry": {"coordinates":[-87.65062399999999,41.968175],"type":"Point"}
 }

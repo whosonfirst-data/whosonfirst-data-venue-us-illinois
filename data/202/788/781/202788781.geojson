@@ -2,13 +2,14 @@
   "id": 202788781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.784095,41.569743,-87.784095,41.569743",
     "geom:latitude":41.569743,
     "geom:longitude":-87.784095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17609 Oak Park Ave",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202788781,
-    "wof:lastmodified":1449061424,
+    "wof:lastmodified":1466491814,
     "wof:name":"Michael AS Inc",
     "wof:parent_id":85890939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.784095,41.569743,-87.784095,41.569743],
-  "geometry": {"coordinates":[-87.784095,41.569743],"type":"Point"}
+  "bbox": [
+    -87.784095,
+    41.569743,
+    -87.784095,
+    41.569743
+],
+  "geometry": {"coordinates":[-87.78409499999999,41.569743],"type":"Point"}
 }

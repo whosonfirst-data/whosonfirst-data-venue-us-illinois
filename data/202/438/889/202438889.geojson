@@ -2,13 +2,14 @@
   "id": 202438889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.130936,41.996123,-88.130936,41.996123",
     "geom:latitude":41.996123,
     "geom:longitude":-88.130936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6995 Glenwood Ln",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202438889,
-    "wof:lastmodified":1449060971,
+    "wof:lastmodified":1466494006,
     "wof:name":"Beer Boys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-88.130936,41.996123,-88.130936,41.996123],
-  "geometry": {"coordinates":[-88.130936,41.996123],"type":"Point"}
+  "bbox": [
+    -88.130936,
+    41.996123,
+    -88.130936,
+    41.996123
+],
+  "geometry": {"coordinates":[-88.13093600000001,41.996123],"type":"Point"}
 }

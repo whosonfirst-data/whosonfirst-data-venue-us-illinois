@@ -2,13 +2,14 @@
   "id": 236434061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992641,39.294741,-87.992641,39.294741",
     "geom:latitude":39.294741,
     "geom:longitude":-87.992641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 State Rte 49",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236434061,
-    "wof:lastmodified":1449002214,
+    "wof:lastmodified":1466494525,
     "wof:name":"Eastern Illinois Internet Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-87.992641,39.294741,-87.992641,39.294741],
-  "geometry": {"coordinates":[-87.992641,39.294741],"type":"Point"}
+  "bbox": [
+    -87.992641,
+    39.294741,
+    -87.992641,
+    39.294741
+],
+  "geometry": {"coordinates":[-87.99264100000001,39.294741],"type":"Point"}
 }

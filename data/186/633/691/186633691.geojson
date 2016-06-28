@@ -2,13 +2,14 @@
   "id": 186633691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.095015,41.70561,-88.095015,41.70561",
     "geom:latitude":41.70561,
     "geom:longitude":-88.095015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Whitewater Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186633691,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466489824,
     "wof:name":"United Concepts",
     "wof:parent_id":85879101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-88.095015,41.70561,-88.095015,41.70561],
+  "bbox": [
+    -88.095015,
+    41.70561,
+    -88.095015,
+    41.70561
+],
   "geometry": {"coordinates":[-88.095015,41.70561],"type":"Point"}
 }

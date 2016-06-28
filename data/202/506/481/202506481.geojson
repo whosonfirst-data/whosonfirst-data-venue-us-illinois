@@ -2,13 +2,14 @@
   "id": 202506481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.27093,40.086347,-88.27093,40.086347",
     "geom:latitude":40.086347,
     "geom:longitude":-88.27093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 Brookshire Dr E",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202506481,
-    "wof:lastmodified":1449060163,
+    "wof:lastmodified":1466495226,
     "wof:name":"Mary Armstrong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.27093,40.086347,-88.27093,40.086347],
-  "geometry": {"coordinates":[-88.27093,40.086347],"type":"Point"}
+  "bbox": [
+    -88.27093,
+    40.086347,
+    -88.27093,
+    40.086347
+],
+  "geometry": {"coordinates":[-88.27093000000001,40.086347],"type":"Point"}
 }

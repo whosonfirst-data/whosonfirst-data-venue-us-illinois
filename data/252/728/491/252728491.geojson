@@ -2,13 +2,14 @@
   "id": 252728491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061769,41.859307,-88.061769,41.859307",
     "geom:latitude":41.859307,
     "geom:longitude":-88.061769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"567 E Roosevelt Rd",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252728491,
-    "wof:lastmodified":1449005672,
+    "wof:lastmodified":1466489258,
     "wof:name":"Subway",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.061769,41.859307,-88.061769,41.859307],
+  "bbox": [
+    -88.061769,
+    41.859307,
+    -88.061769,
+    41.859307
+],
   "geometry": {"coordinates":[-88.061769,41.859307],"type":"Point"}
 }

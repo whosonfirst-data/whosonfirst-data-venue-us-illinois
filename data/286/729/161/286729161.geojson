@@ -2,13 +2,14 @@
   "id": 286729161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.964064,38.623433,-88.964064,38.623433",
     "geom:latitude":38.623433,
     "geom:longitude":-88.964064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 W Whittaker St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286729161,
-    "wof:lastmodified":1449016673,
+    "wof:lastmodified":1466496805,
     "wof:name":"Pawn World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-88.964064,38.623433,-88.964064,38.623433],
-  "geometry": {"coordinates":[-88.964064,38.623433],"type":"Point"}
+  "bbox": [
+    -88.964064,
+    38.623433,
+    -88.964064,
+    38.623433
+],
+  "geometry": {"coordinates":[-88.96406399999999,38.623433],"type":"Point"}
 }

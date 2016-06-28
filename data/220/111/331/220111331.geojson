@@ -2,13 +2,14 @@
   "id": 220111331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.436949,40.357033,-91.436949,40.357033",
     "geom:latitude":40.357033,
     "geom:longitude":-91.436949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Crawford St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220111331,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466490306,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.436949,40.357033,-91.436949,40.357033],
+  "bbox": [
+    -91.436949,
+    40.357033,
+    -91.436949,
+    40.357033
+],
   "geometry": {"coordinates":[-91.436949,40.357033],"type":"Point"}
 }

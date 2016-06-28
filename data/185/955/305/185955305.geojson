@@ -2,13 +2,14 @@
   "id": 185955305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.216181,37.728279,-89.216181,37.728279",
     "geom:latitude":37.728279,
     "geom:longitude":-89.216181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Jackson St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185955305,
-    "wof:lastmodified":1449007705,
+    "wof:lastmodified":1466490316,
     "wof:name":"Town Square Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.216181,37.728279,-89.216181,37.728279],
-  "geometry": {"coordinates":[-89.216181,37.728279],"type":"Point"}
+  "bbox": [
+    -89.216181,
+    37.728279,
+    -89.216181,
+    37.728279
+],
+  "geometry": {"coordinates":[-89.21618100000001,37.728279],"type":"Point"}
 }

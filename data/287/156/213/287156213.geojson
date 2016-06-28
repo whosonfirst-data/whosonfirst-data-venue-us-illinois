@@ -2,13 +2,14 @@
   "id": 287156213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.381527,41.354676,-90.381527,41.354676",
     "geom:latitude":41.354676,
     "geom:longitude":-90.381527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 4th St",
     "sg:city":"Orion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287156213,
-    "wof:lastmodified":1449000839,
+    "wof:lastmodified":1466492485,
     "wof:name":"US Post Office",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.381527,41.354676,-90.381527,41.354676],
-  "geometry": {"coordinates":[-90.381527,41.354676],"type":"Point"}
+  "bbox": [
+    -90.381527,
+    41.354676,
+    -90.381527,
+    41.354676
+],
+  "geometry": {"coordinates":[-90.38152700000001,41.354676],"type":"Point"}
 }

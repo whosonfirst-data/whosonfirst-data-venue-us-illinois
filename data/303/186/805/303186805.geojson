@@ -2,13 +2,14 @@
   "id": 303186805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.969158,41.810058,-89.969158,41.810058",
     "geom:latitude":41.810058,
     "geom:longitude":-89.969158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Main St",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303186805,
-    "wof:lastmodified":1449000032,
+    "wof:lastmodified":1466492826,
     "wof:name":"Adminstrative Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-89.969158,41.810058,-89.969158,41.810058],
-  "geometry": {"coordinates":[-89.969158,41.810058],"type":"Point"}
+  "bbox": [
+    -89.969158,
+    41.810058,
+    -89.969158,
+    41.810058
+],
+  "geometry": {"coordinates":[-89.96915799999999,41.810058],"type":"Point"}
 }

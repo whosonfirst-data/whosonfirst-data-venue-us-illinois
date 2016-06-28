@@ -2,13 +2,14 @@
   "id": 270473297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.691629,41.737835,-87.691629,41.737835",
     "geom:latitude":41.737835,
     "geom:longitude":-87.691629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 W Seipp St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270473297,
-    "wof:lastmodified":1449009139,
+    "wof:lastmodified":1466496028,
     "wof:name":"Accurate Carpet Cleaning",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.691629,41.737835,-87.691629,41.737835],
-  "geometry": {"coordinates":[-87.691629,41.737835],"type":"Point"}
+  "bbox": [
+    -87.691629,
+    41.737835,
+    -87.691629,
+    41.737835
+],
+  "geometry": {"coordinates":[-87.69162900000001,41.737835],"type":"Point"}
 }

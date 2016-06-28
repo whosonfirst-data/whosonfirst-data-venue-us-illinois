@@ -2,13 +2,14 @@
   "id": 202540705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138952,41.523521,-88.138952,41.523521",
     "geom:latitude":41.523521,
     "geom:longitude":-88.138952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Republic Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202540705,
-    "wof:lastmodified":1449061122,
+    "wof:lastmodified":1466488956,
     "wof:name":"Electric Video",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-88.138952,41.523521,-88.138952,41.523521],
+  "bbox": [
+    -88.138952,
+    41.523521,
+    -88.138952,
+    41.523521
+],
   "geometry": {"coordinates":[-88.138952,41.523521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236420681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.097901,41.43151,-88.097901,41.43151",
     "geom:latitude":41.43151,
     "geom:longitude":-88.097901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25045 S Bush Rd",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236420681,
-    "wof:lastmodified":1449003187,
+    "wof:lastmodified":1466494350,
     "wof:name":"Gerald Vanderhyden Septic Svc",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [-88.097901,41.43151,-88.097901,41.43151],
-  "geometry": {"coordinates":[-88.097901,41.43151],"type":"Point"}
+  "bbox": [
+    -88.097901,
+    41.43151,
+    -88.097901,
+    41.43151
+],
+  "geometry": {"coordinates":[-88.09790099999999,41.43151],"type":"Point"}
 }

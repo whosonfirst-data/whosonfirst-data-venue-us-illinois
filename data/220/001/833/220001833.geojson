@@ -2,13 +2,14 @@
   "id": 220001833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.804887,41.61483,-87.804887,41.61483",
     "geom:latitude":41.61483,
     "geom:longitude":-87.804887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7509 Sycamore Dr",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220001833,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466488964,
     "wof:name":"Bertucci Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.804887,41.61483,-87.804887,41.61483],
-  "geometry": {"coordinates":[-87.804887,41.61483],"type":"Point"}
+  "bbox": [
+    -87.804887,
+    41.61483,
+    -87.804887,
+    41.61483
+],
+  "geometry": {"coordinates":[-87.80488699999999,41.61483],"type":"Point"}
 }

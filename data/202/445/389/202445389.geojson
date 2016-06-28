@@ -2,13 +2,14 @@
   "id": 202445389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.642699,41.883171,-87.642699,41.883171",
     "geom:latitude":41.883171,
     "geom:longitude":-87.642699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Washington Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202445389,
-    "wof:lastmodified":1449060447,
+    "wof:lastmodified":1466494139,
     "wof:name":"Trizrchahn Office Properties",
     "wof:parent_id":85868439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.642699,41.883171,-87.642699,41.883171],
-  "geometry": {"coordinates":[-87.642699,41.883171],"type":"Point"}
+  "bbox": [
+    -87.642699,
+    41.883171,
+    -87.642699,
+    41.883171
+],
+  "geometry": {"coordinates":[-87.64269899999999,41.883171],"type":"Point"}
 }

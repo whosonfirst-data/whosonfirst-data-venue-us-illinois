@@ -2,13 +2,14 @@
   "id": 236491419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.220048,41.743366,-88.220048,41.743366",
     "geom:latitude":41.743366,
     "geom:longitude":-88.220048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4024 Blackstone Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236491419,
-    "wof:lastmodified":1449001637,
+    "wof:lastmodified":1466495249,
     "wof:name":"AMS Limousine Svc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-88.220048,41.743366,-88.220048,41.743366],
-  "geometry": {"coordinates":[-88.220048,41.743366],"type":"Point"}
+  "bbox": [
+    -88.220048,
+    41.743366,
+    -88.220048,
+    41.743366
+],
+  "geometry": {"coordinates":[-88.22004800000001,41.743366],"type":"Point"}
 }

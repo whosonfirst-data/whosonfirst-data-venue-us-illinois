@@ -2,13 +2,14 @@
   "id": 220034199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.256937,41.458014,-88.256937,41.458014",
     "geom:latitude":41.458014,
     "geom:longitude":-88.256937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Arrowhead Dr",
     "sg:city":"Minooka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220034199,
-    "wof:lastmodified":1449074120,
+    "wof:lastmodified":1466489353,
     "wof:name":"Caliber Floors Inc",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.256937,41.458014,-88.256937,41.458014],
-  "geometry": {"coordinates":[-88.256937,41.458014],"type":"Point"}
+  "bbox": [
+    -88.256937,
+    41.458014,
+    -88.256937,
+    41.458014
+],
+  "geometry": {"coordinates":[-88.25693699999999,41.458014],"type":"Point"}
 }

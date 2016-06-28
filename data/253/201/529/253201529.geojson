@@ -2,13 +2,14 @@
   "id": 253201529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995366,39.456054,-87.995366,39.456054",
     "geom:latitude":39.456054,
     "geom:longitude":-87.995366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Franklin St",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253201529,
-    "wof:lastmodified":1449065378,
+    "wof:lastmodified":1466491352,
     "wof:name":"Clark County Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-87.995366,39.456054,-87.995366,39.456054],
+  "bbox": [
+    -87.995366,
+    39.456054,
+    -87.995366,
+    39.456054
+],
   "geometry": {"coordinates":[-87.995366,39.456054],"type":"Point"}
 }

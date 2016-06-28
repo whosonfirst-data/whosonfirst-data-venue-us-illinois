@@ -2,13 +2,14 @@
   "id": 287028785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.00859,41.570724,-88.00859,41.570724",
     "geom:latitude":41.570724,
     "geom:longitude":-88.00859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16118 Golf View Dr",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287028785,
-    "wof:lastmodified":1449001153,
+    "wof:lastmodified":1466490424,
     "wof:name":"Shield Windows",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-88.00859,41.570724,-88.00859,41.570724],
+  "bbox": [
+    -88.00859,
+    41.570724,
+    -88.00859,
+    41.570724
+],
   "geometry": {"coordinates":[-88.00859,41.570724],"type":"Point"}
 }

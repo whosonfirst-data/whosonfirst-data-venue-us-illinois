@@ -2,13 +2,14 @@
   "id": 269908111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.302409,41.764214,-88.302409,41.764214",
     "geom:latitude":41.764214,
     "geom:longitude":-88.302409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 High St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269908111,
-    "wof:lastmodified":1449037499,
+    "wof:lastmodified":1466495683,
     "wof:name":"El Tapatio",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.302409,41.764214,-88.302409,41.764214],
+  "bbox": [
+    -88.302409,
+    41.764214,
+    -88.302409,
+    41.764214
+],
   "geometry": {"coordinates":[-88.302409,41.764214],"type":"Point"}
 }

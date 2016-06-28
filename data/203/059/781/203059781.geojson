@@ -2,13 +2,14 @@
   "id": 203059781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.078353,40.567613,-90.078353,40.567613",
     "geom:latitude":40.567613,
     "geom:longitude":-90.078353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26013 N Ingersol Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203059781,
-    "wof:lastmodified":1449025426,
+    "wof:lastmodified":1466493836,
     "wof:name":"Canton Ingersoll Airport",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.078353,40.567613,-90.078353,40.567613],
-  "geometry": {"coordinates":[-90.078353,40.567613],"type":"Point"}
+  "bbox": [
+    -90.078353,
+    40.567613,
+    -90.078353,
+    40.567613
+],
+  "geometry": {"coordinates":[-90.07835300000001,40.567613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270085479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951555,41.871398,-87.951555,41.871398",
     "geom:latitude":41.871398,
     "geom:longitude":-87.951555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Fairfield Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270085479,
-    "wof:lastmodified":1449009236,
+    "wof:lastmodified":1466490291,
     "wof:name":"Value PC Networking",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-87.951555,41.871398,-87.951555,41.871398],
+  "bbox": [
+    -87.951555,
+    41.871398,
+    -87.951555,
+    41.871398
+],
   "geometry": {"coordinates":[-87.951555,41.871398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202403267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.990059,41.748876,-87.990059,41.748876",
     "geom:latitude":41.748876,
     "geom:longitude":-87.990059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7513 Florence Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202403267,
-    "wof:lastmodified":1449062298,
+    "wof:lastmodified":1466493131,
     "wof:name":"Roth Solutions Inc",
     "wof:parent_id":85828963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.990059,41.748876,-87.990059,41.748876],
+  "bbox": [
+    -87.990059,
+    41.748876,
+    -87.990059,
+    41.748876
+],
   "geometry": {"coordinates":[-87.990059,41.748876],"type":"Point"}
 }

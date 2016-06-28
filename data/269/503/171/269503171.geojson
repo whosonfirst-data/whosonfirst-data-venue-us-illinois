@@ -2,13 +2,14 @@
   "id": 269503171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160818,41.540181,-88.160818,41.540181",
     "geom:latitude":41.540181,
     "geom:longitude":-88.160818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Essington Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269503171,
-    "wof:lastmodified":1449038974,
+    "wof:lastmodified":1466489291,
     "wof:name":"Liebermann's Jewelers",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-88.160818,41.540181,-88.160818,41.540181],
-  "geometry": {"coordinates":[-88.160818,41.540181],"type":"Point"}
+  "bbox": [
+    -88.160818,
+    41.540181,
+    -88.160818,
+    41.540181
+],
+  "geometry": {"coordinates":[-88.16081800000001,41.540181],"type":"Point"}
 }

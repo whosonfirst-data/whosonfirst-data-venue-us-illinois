@@ -2,13 +2,14 @@
   "id": 286360561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693007,41.574613,-87.693007,41.574613",
     "geom:latitude":41.574613,
     "geom:longitude":-87.693007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17412 Poe Ave",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286360561,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466491332,
     "wof:name":"Robinsons Lawn Sprinklers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.693007,41.574613,-87.693007,41.574613],
-  "geometry": {"coordinates":[-87.693007,41.574613],"type":"Point"}
+  "bbox": [
+    -87.693007,
+    41.574613,
+    -87.693007,
+    41.574613
+],
+  "geometry": {"coordinates":[-87.69300699999999,41.574613],"type":"Point"}
 }

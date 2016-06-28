@@ -2,13 +2,14 @@
   "id": 202634115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855613,42.359767,-87.855613,42.359767",
     "geom:latitude":42.359767,
     "geom:longitude":-87.855613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Washington St",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202634115,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466490063,
     "wof:name":"Club 18 Inc",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "package"
     ]
 },
-  "bbox": [-87.855613,42.359767,-87.855613,42.359767],
-  "geometry": {"coordinates":[-87.855613,42.359767],"type":"Point"}
+  "bbox": [
+    -87.855613,
+    42.359767,
+    -87.855613,
+    42.359767
+],
+  "geometry": {"coordinates":[-87.85561300000001,42.359767],"type":"Point"}
 }

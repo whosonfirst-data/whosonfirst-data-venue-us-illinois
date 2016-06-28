@@ -2,13 +2,14 @@
   "id": 270385177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.643301,39.11875,-88.643301,39.11875",
     "geom:latitude":39.11875,
     "geom:longitude":-88.643301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13969 E 850th St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270385177,
-    "wof:lastmodified":1449010101,
+    "wof:lastmodified":1466494895,
     "wof:name":"Schroeder Bernice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.643301,39.11875,-88.643301,39.11875],
-  "geometry": {"coordinates":[-88.643301,39.11875],"type":"Point"}
+  "bbox": [
+    -88.643301,
+    39.11875,
+    -88.643301,
+    39.11875
+],
+  "geometry": {"coordinates":[-88.64330099999999,39.11875],"type":"Point"}
 }

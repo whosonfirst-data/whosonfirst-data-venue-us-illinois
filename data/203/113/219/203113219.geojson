@@ -2,13 +2,14 @@
   "id": 203113219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.581746,41.77331,-87.581746,41.77331",
     "geom:latitude":41.77331,
     "geom:longitude":-87.581746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 E 67th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203113219,
-    "wof:lastmodified":1449026703,
+    "wof:lastmodified":1466494978,
     "wof:name":"Cleaning Hands Inc",
     "wof:parent_id":85867637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.581746,41.77331,-87.581746,41.77331],
+  "bbox": [
+    -87.581746,
+    41.77331,
+    -87.581746,
+    41.77331
+],
   "geometry": {"coordinates":[-87.581746,41.77331],"type":"Point"}
 }

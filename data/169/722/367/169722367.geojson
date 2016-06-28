@@ -2,13 +2,14 @@
   "id": 169722367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.951501,39.041869,-89.951501,39.041869",
     "geom:latitude":39.041869,
     "geom:longitude":-89.951501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Washington St",
     "sg:city":"Bunker Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169722367,
-    "wof:lastmodified":1449033846,
+    "wof:lastmodified":1466492380,
     "wof:name":"Watson Robert L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.951501,39.041869,-89.951501,39.041869],
-  "geometry": {"coordinates":[-89.951501,39.041869],"type":"Point"}
+  "bbox": [
+    -89.951501,
+    39.041869,
+    -89.951501,
+    39.041869
+],
+  "geometry": {"coordinates":[-89.95150099999999,39.041869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219695725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.116143,42.108313,-88.116143,42.108313",
     "geom:latitude":42.108313,
     "geom:longitude":-88.116143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1486 Diamond Dr",
     "sg:city":"Hoffman Estates",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219695725,
-    "wof:lastmodified":1449071724,
+    "wof:lastmodified":1466495489,
     "wof:name":"Fax of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-88.116143,42.108313,-88.116143,42.108313],
-  "geometry": {"coordinates":[-88.116143,42.108313],"type":"Point"}
+  "bbox": [
+    -88.116143,
+    42.108313,
+    -88.116143,
+    42.108313
+],
+  "geometry": {"coordinates":[-88.11614299999999,42.108313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303175399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.362774,40.146659,-89.362774,40.146659",
     "geom:latitude":40.146659,
     "geom:longitude":-89.362774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Kickapoo St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303175399,
-    "wof:lastmodified":1448999810,
+    "wof:lastmodified":1466492641,
     "wof:name":"Special TS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.362774,40.146659,-89.362774,40.146659],
+  "bbox": [
+    -89.362774,
+    40.146659,
+    -89.362774,
+    40.146659
+],
   "geometry": {"coordinates":[-89.362774,40.146659],"type":"Point"}
 }

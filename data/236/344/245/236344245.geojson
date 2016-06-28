@@ -2,13 +2,14 @@
   "id": 236344245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.269103,40.879161,-88.269103,40.879161",
     "geom:latitude":40.879161,
     "geom:longitude":-88.269103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Hack St",
     "sg:city":"Cullom",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236344245,
-    "wof:lastmodified":1449001804,
+    "wof:lastmodified":1466493320,
     "wof:name":"Krause Survey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-88.269103,40.879161,-88.269103,40.879161],
+  "bbox": [
+    -88.269103,
+    40.879161,
+    -88.269103,
+    40.879161
+],
   "geometry": {"coordinates":[-88.269103,40.879161],"type":"Point"}
 }

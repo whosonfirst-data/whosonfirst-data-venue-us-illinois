@@ -2,13 +2,14 @@
   "id": 202706041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680092,41.91214,-87.680092,41.91214",
     "geom:latitude":41.91214,
     "geom:longitude":-87.680092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1669 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202706041,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466490871,
     "wof:name":"Edison Builders",
     "wof:parent_id":85866935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.680092,41.91214,-87.680092,41.91214],
+  "bbox": [
+    -87.680092,
+    41.91214,
+    -87.680092,
+    41.91214
+],
   "geometry": {"coordinates":[-87.680092,41.91214],"type":"Point"}
 }

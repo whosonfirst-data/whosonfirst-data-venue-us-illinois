@@ -2,13 +2,14 @@
   "id": 286409237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.56194,40.120546,-90.56194,40.120546",
     "geom:latitude":40.120546,
     "geom:longitude":-90.56194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Lafayette St",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286409237,
-    "wof:lastmodified":1449016384,
+    "wof:lastmodified":1466492093,
     "wof:name":"Princess Theatre Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.56194,40.120546,-90.56194,40.120546],
-  "geometry": {"coordinates":[-90.56194,40.120546],"type":"Point"}
+  "bbox": [
+    -90.56194,
+    40.120546,
+    -90.56194,
+    40.120546
+],
+  "geometry": {"coordinates":[-90.56194000000001,40.120546],"type":"Point"}
 }

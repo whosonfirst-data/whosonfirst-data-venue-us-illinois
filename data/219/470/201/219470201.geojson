@@ -2,13 +2,14 @@
   "id": 219470201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.787934,39.012198,-89.787934,39.012198",
     "geom:latitude":39.012198,
     "geom:longitude":-89.787934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Main St",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219470201,
-    "wof:lastmodified":1449071251,
+    "wof:lastmodified":1466492835,
     "wof:name":"KWIK Konnection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-89.787934,39.012198,-89.787934,39.012198],
-  "geometry": {"coordinates":[-89.787934,39.012198],"type":"Point"}
+  "bbox": [
+    -89.787934,
+    39.012198,
+    -89.787934,
+    39.012198
+],
+  "geometry": {"coordinates":[-89.78793400000001,39.012198],"type":"Point"}
 }

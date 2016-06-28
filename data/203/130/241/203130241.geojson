@@ -2,13 +2,14 @@
   "id": 203130241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157639,42.002498,-88.157639,42.002498",
     "geom:latitude":42.002498,
     "geom:longitude":-88.157639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2153 Laurel Ave",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203130241,
-    "wof:lastmodified":1449025572,
+    "wof:lastmodified":1466495230,
     "wof:name":"Janitorial Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-88.157639,42.002498,-88.157639,42.002498],
+  "bbox": [
+    -88.157639,
+    42.002498,
+    -88.157639,
+    42.002498
+],
   "geometry": {"coordinates":[-88.157639,42.002498],"type":"Point"}
 }

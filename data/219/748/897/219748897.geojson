@@ -2,13 +2,14 @@
   "id": 219748897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.992167,42.318587,-88.992167,42.318587",
     "geom:latitude":42.318587,
     "geom:longitude":-88.992167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6465 E Riverside Blvd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219748897,
-    "wof:lastmodified":1449073049,
+    "wof:lastmodified":1466495938,
     "wof:name":"Bisconti Computers Inc",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.992167,42.318587,-88.992167,42.318587],
-  "geometry": {"coordinates":[-88.992167,42.318587],"type":"Point"}
+  "bbox": [
+    -88.992167,
+    42.318587,
+    -88.992167,
+    42.318587
+],
+  "geometry": {"coordinates":[-88.99216699999999,42.318587],"type":"Point"}
 }

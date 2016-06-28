@@ -2,13 +2,14 @@
   "id": 269880623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904536,41.843131,-87.904536,41.843131",
     "geom:latitude":41.843131,
     "geom:longitude":-87.904536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2448 Meadowbrook Ln",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269880623,
-    "wof:lastmodified":1449038999,
+    "wof:lastmodified":1466495266,
     "wof:name":"Rehabilitation Cons of Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-87.904536,41.843131,-87.904536,41.843131],
-  "geometry": {"coordinates":[-87.904536,41.843131],"type":"Point"}
+  "bbox": [
+    -87.904536,
+    41.843131,
+    -87.904536,
+    41.843131
+],
+  "geometry": {"coordinates":[-87.90453599999999,41.843131],"type":"Point"}
 }

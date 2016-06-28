@@ -2,13 +2,14 @@
   "id": 269814647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.482559,41.842664,-89.482559,41.842664",
     "geom:latitude":41.842664,
     "geom:longitude":-89.482559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 2nd St",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269814647,
-    "wof:lastmodified":1449036576,
+    "wof:lastmodified":1466494246,
     "wof:name":"City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-89.482559,41.842664,-89.482559,41.842664],
-  "geometry": {"coordinates":[-89.482559,41.842664],"type":"Point"}
+  "bbox": [
+    -89.482559,
+    41.842664,
+    -89.482559,
+    41.842664
+],
+  "geometry": {"coordinates":[-89.48255899999999,41.842664],"type":"Point"}
 }

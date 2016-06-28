@@ -2,13 +2,14 @@
   "id": 269793303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.186532,40.101113,-88.186532,40.101113",
     "geom:latitude":40.101113,
     "geom:longitude":-88.186532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Lanore Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269793303,
-    "wof:lastmodified":1449037453,
+    "wof:lastmodified":1466493916,
     "wof:name":"Byteworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-88.186532,40.101113,-88.186532,40.101113],
+  "bbox": [
+    -88.186532,
+    40.101113,
+    -88.186532,
+    40.101113
+],
   "geometry": {"coordinates":[-88.186532,40.101113],"type":"Point"}
 }

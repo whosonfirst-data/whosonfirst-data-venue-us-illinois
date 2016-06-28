@@ -2,13 +2,14 @@
   "id": 219210683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.095339,41.896599,-88.095339,41.896599",
     "geom:latitude":41.896599,
     "geom:longitude":-88.095339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 E Saint Charles Rd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219210683,
-    "wof:lastmodified":1449071601,
+    "wof:lastmodified":1466489625,
     "wof:name":"Adams Financial Software Inc",
     "wof:parent_id":85891053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.095339,41.896599,-88.095339,41.896599],
+  "bbox": [
+    -88.095339,
+    41.896599,
+    -88.095339,
+    41.896599
+],
   "geometry": {"coordinates":[-88.095339,41.896599],"type":"Point"}
 }

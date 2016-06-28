@@ -2,13 +2,14 @@
   "id": 185784763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.999357,39.709583,-88.999357,39.709583",
     "geom:latitude":39.709583,
     "geom:longitude":-88.999357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Front St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185784763,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466495585,
     "wof:name":"G & S Supermarket & Var Str",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-88.999357,39.709583,-88.999357,39.709583],
+  "bbox": [
+    -88.999357,
+    39.709583,
+    -88.999357,
+    39.709583
+],
   "geometry": {"coordinates":[-88.999357,39.709583],"type":"Point"}
 }

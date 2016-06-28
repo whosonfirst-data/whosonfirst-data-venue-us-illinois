@@ -2,13 +2,14 @@
   "id": 287246939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.728063,41.639962,-87.728063,41.639962",
     "geom:latitude":41.639962,
     "geom:longitude":-87.728063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13701 Kostner Ave",
     "sg:city":"Crestwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287246939,
-    "wof:lastmodified":1449000716,
+    "wof:lastmodified":1466493936,
     "wof:name":"Allied Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waste"
     ]
 },
-  "bbox": [-87.728063,41.639962,-87.728063,41.639962],
-  "geometry": {"coordinates":[-87.728063,41.639962],"type":"Point"}
+  "bbox": [
+    -87.728063,
+    41.639962,
+    -87.728063,
+    41.639962
+],
+  "geometry": {"coordinates":[-87.72806300000001,41.639962],"type":"Point"}
 }

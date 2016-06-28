@@ -2,13 +2,14 @@
   "id": 286515055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.26371,40.081377,-88.26371,40.081377",
     "geom:latitude":40.081377,
     "geom:longitude":-88.26371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Galen Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286515055,
-    "wof:lastmodified":1449015842,
+    "wof:lastmodified":1466493779,
     "wof:name":"Sonka Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.26371,40.081377,-88.26371,40.081377],
+  "bbox": [
+    -88.26371,
+    40.081377,
+    -88.26371,
+    40.081377
+],
   "geometry": {"coordinates":[-88.26371,40.081377],"type":"Point"}
 }

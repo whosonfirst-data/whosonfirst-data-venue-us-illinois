@@ -2,13 +2,14 @@
   "id": 303120433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.890273,41.598401,-89.890273,41.598401",
     "geom:latitude":41.598401,
     "geom:longitude":-89.890273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18968 Hurd Rd",
     "sg:city":"Prophetstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303120433,
-    "wof:lastmodified":1449000209,
+    "wof:lastmodified":1466491737,
     "wof:name":"Crane Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crane"
     ]
 },
-  "bbox": [-89.890273,41.598401,-89.890273,41.598401],
-  "geometry": {"coordinates":[-89.890273,41.598401],"type":"Point"}
+  "bbox": [
+    -89.890273,
+    41.598401,
+    -89.890273,
+    41.598401
+],
+  "geometry": {"coordinates":[-89.89027299999999,41.598401],"type":"Point"}
 }

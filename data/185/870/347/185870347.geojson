@@ -2,13 +2,14 @@
   "id": 185870347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.640785,39.770886,-89.640785,39.770886",
     "geom:latitude":39.770886,
     "geom:longitude":-89.640785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 S 11th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185870347,
-    "wof:lastmodified":1449007030,
+    "wof:lastmodified":1466489587,
     "wof:name":"Preschool In The Park Lincoln",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-89.640785,39.770886,-89.640785,39.770886],
-  "geometry": {"coordinates":[-89.640785,39.770886],"type":"Point"}
+  "bbox": [
+    -89.640785,
+    39.770886,
+    -89.640785,
+    39.770886
+],
+  "geometry": {"coordinates":[-89.64078499999999,39.770886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220069507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.067718,42.203434,-88.067718,42.203434",
     "geom:latitude":42.203434,
     "geom:longitude":-88.067718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Telser Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220069507,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466489803,
     "wof:name":"Chicagoland Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.067718,42.203434,-88.067718,42.203434],
+  "bbox": [
+    -88.067718,
+    42.203434,
+    -88.067718,
+    42.203434
+],
   "geometry": {"coordinates":[-88.067718,42.203434],"type":"Point"}
 }

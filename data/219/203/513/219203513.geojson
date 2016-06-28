@@ -2,13 +2,14 @@
   "id": 219203513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.929068,38.311578,-88.929068,38.311578",
     "geom:latitude":38.311578,
     "geom:longitude":-88.929068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3124 Cherry St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219203513,
-    "wof:lastmodified":1449071965,
+    "wof:lastmodified":1466489528,
     "wof:name":"Beverly Kelton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-88.929068,38.311578,-88.929068,38.311578],
+  "bbox": [
+    -88.929068,
+    38.311578,
+    -88.929068,
+    38.311578
+],
   "geometry": {"coordinates":[-88.929068,38.311578],"type":"Point"}
 }

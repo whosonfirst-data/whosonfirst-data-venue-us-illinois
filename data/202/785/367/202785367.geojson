@@ -2,13 +2,14 @@
   "id": 202785367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.939381,41.886677,-87.939381,41.886677",
     "geom:latitude":41.886677,
     "geom:longitude":-87.939381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 May St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202785367,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466491773,
     "wof:name":"S Peters Melvin",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-87.939381,41.886677,-87.939381,41.886677],
+  "bbox": [
+    -87.939381,
+    41.886677,
+    -87.939381,
+    41.886677
+],
   "geometry": {"coordinates":[-87.939381,41.886677],"type":"Point"}
 }

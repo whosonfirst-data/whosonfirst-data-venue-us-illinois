@@ -2,13 +2,14 @@
   "id": 220023651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.554774,41.759277,-87.554774,41.759277",
     "geom:latitude":41.759277,
     "geom:longitude":-87.554774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2860 E 76th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220023651,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466489232,
     "wof:name":"Epiphany International Inc",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.554774,41.759277,-87.554774,41.759277],
-  "geometry": {"coordinates":[-87.554774,41.759277],"type":"Point"}
+  "bbox": [
+    -87.554774,
+    41.759277,
+    -87.554774,
+    41.759277
+],
+  "geometry": {"coordinates":[-87.55477399999999,41.759277],"type":"Point"}
 }

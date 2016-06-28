@@ -2,13 +2,14 @@
   "id": 252830873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.820045,41.677002,-87.820045,41.677002",
     "geom:latitude":41.677002,
     "geom:longitude":-87.820045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11758 S Brookside Dr",
     "sg:city":"Palos Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252830873,
-    "wof:lastmodified":1449005650,
+    "wof:lastmodified":1466490567,
     "wof:name":"Far Holding Co",
     "wof:parent_id":85890891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-87.820045,41.677002,-87.820045,41.677002],
-  "geometry": {"coordinates":[-87.820045,41.677002],"type":"Point"}
+  "bbox": [
+    -87.820045,
+    41.677002,
+    -87.820045,
+    41.677002
+],
+  "geometry": {"coordinates":[-87.82004499999999,41.677002],"type":"Point"}
 }

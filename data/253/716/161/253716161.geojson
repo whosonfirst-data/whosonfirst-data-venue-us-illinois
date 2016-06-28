@@ -2,13 +2,14 @@
   "id": 253716161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.089364,38.865627,-90.089364,38.865627",
     "geom:latitude":38.865627,
     "geom:longitude":-90.089364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Tipton Ave",
     "sg:city":"Wood River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253716161,
-    "wof:lastmodified":1449063237,
+    "wof:lastmodified":1466497622,
     "wof:name":"Wedo Technologies",
     "wof:parent_id":85846097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-90.089364,38.865627,-90.089364,38.865627],
+  "bbox": [
+    -90.089364,
+    38.865627,
+    -90.089364,
+    38.865627
+],
   "geometry": {"coordinates":[-90.089364,38.865627],"type":"Point"}
 }

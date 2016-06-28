@@ -2,13 +2,14 @@
   "id": 269574391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.708269,41.330136,-88.708269,41.330136",
     "geom:latitude":41.330136,
     "geom:longitude":-88.708269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Main St",
     "sg:city":"Marseilles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269574391,
-    "wof:lastmodified":1449036131,
+    "wof:lastmodified":1466490416,
     "wof:name":"Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-88.708269,41.330136,-88.708269,41.330136],
+  "bbox": [
+    -88.708269,
+    41.330136,
+    -88.708269,
+    41.330136
+],
   "geometry": {"coordinates":[-88.708269,41.330136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220146123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.164678,36.998152,-89.164678,36.998152",
     "geom:latitude":36.998152,
     "geom:longitude":-89.164678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Washington Ave",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220146123,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1466490732,
     "wof:name":"Nu Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.164678,36.998152,-89.164678,36.998152],
-  "geometry": {"coordinates":[-89.164678,36.998152],"type":"Point"}
+  "bbox": [
+    -89.164678,
+    36.998152,
+    -89.164678,
+    36.998152
+],
+  "geometry": {"coordinates":[-89.16467799999999,36.998152],"type":"Point"}
 }

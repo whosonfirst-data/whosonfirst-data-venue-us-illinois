@@ -2,13 +2,14 @@
   "id": 270411305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.437091,37.811822,-88.437091,37.811822",
     "geom:latitude":37.811822,
     "geom:longitude":-88.437091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 4th St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270411305,
-    "wof:lastmodified":1449008789,
+    "wof:lastmodified":1466495299,
     "wof:name":"Eldorado City Clerk",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-88.437091,37.811822,-88.437091,37.811822],
+  "bbox": [
+    -88.437091,
+    37.811822,
+    -88.437091,
+    37.811822
+],
   "geometry": {"coordinates":[-88.437091,37.811822],"type":"Point"}
 }

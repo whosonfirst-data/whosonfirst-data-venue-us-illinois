@@ -2,13 +2,14 @@
   "id": 270146469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.284062,40.117672,-88.284062,40.117672",
     "geom:latitude":40.117672,
     "geom:longitude":-88.284062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 W Park Ct",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270146469,
-    "wof:lastmodified":1449009659,
+    "wof:lastmodified":1466491201,
     "wof:name":"Rural Development",
     "wof:parent_id":85828151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rural"
     ]
 },
-  "bbox": [-88.284062,40.117672,-88.284062,40.117672],
-  "geometry": {"coordinates":[-88.284062,40.117672],"type":"Point"}
+  "bbox": [
+    -88.284062,
+    40.117672,
+    -88.284062,
+    40.117672
+],
+  "geometry": {"coordinates":[-88.28406200000001,40.117672],"type":"Point"}
 }

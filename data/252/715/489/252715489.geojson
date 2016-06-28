@@ -2,13 +2,14 @@
   "id": 252715489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.452261,39.193183,-88.452261,39.193183",
     "geom:latitude":39.193183,
     "geom:longitude":-88.452261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Co Rd 100 E",
     "sg:city":"Sigel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252715489,
-    "wof:lastmodified":1449006284,
+    "wof:lastmodified":1466489087,
     "wof:name":"Lillyville Primary Schoolt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.452261,39.193183,-88.452261,39.193183],
-  "geometry": {"coordinates":[-88.452261,39.193183],"type":"Point"}
+  "bbox": [
+    -88.452261,
+    39.193183,
+    -88.452261,
+    39.193183
+],
+  "geometry": {"coordinates":[-88.45226099999999,39.193183],"type":"Point"}
 }

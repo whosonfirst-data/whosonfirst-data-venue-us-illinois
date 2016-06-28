@@ -2,13 +2,14 @@
   "id": 185768899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.878157,39.81666,-88.878157,39.81666",
     "geom:latitude":39.81666,
     "geom:longitude":-88.878157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 S Mount Zion Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":185768899,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1466495442,
     "wof:name":"El Matador Restaurant",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "take"
     ]
 },
-  "bbox": [-88.878157,39.81666,-88.878157,39.81666],
+  "bbox": [
+    -88.878157,
+    39.81666,
+    -88.878157,
+    39.81666
+],
   "geometry": {"coordinates":[-88.878157,39.81666],"type":"Point"}
 }

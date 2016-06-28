@@ -2,13 +2,14 @@
   "id": 202803819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066797,41.87703,-88.066797,41.87703",
     "geom:latitude":41.87703,
     "geom:longitude":-88.066797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 N Main St",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202803819,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466491993,
     "wof:name":"Camp Cosmestics",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [-88.066797,41.87703,-88.066797,41.87703],
-  "geometry": {"coordinates":[-88.066797,41.87703],"type":"Point"}
+  "bbox": [
+    -88.066797,
+    41.87703,
+    -88.066797,
+    41.87703
+],
+  "geometry": {"coordinates":[-88.06679699999999,41.87703],"type":"Point"}
 }

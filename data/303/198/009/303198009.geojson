@@ -2,13 +2,14 @@
   "id": 303198009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.253921,40.089589,-88.253921,40.089589",
     "geom:latitude":40.089589,
     "geom:longitude":-88.253921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Devonshire Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303198009,
-    "wof:lastmodified":1448999007,
+    "wof:lastmodified":1466493006,
     "wof:name":"Aims Association Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.253921,40.089589,-88.253921,40.089589],
-  "geometry": {"coordinates":[-88.253921,40.089589],"type":"Point"}
+  "bbox": [
+    -88.253921,
+    40.089589,
+    -88.253921,
+    40.089589
+],
+  "geometry": {"coordinates":[-88.25392100000001,40.089589],"type":"Point"}
 }

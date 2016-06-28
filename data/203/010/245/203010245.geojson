@@ -2,13 +2,14 @@
   "id": 203010245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.001443,41.643111,-88.001443,41.643111",
     "geom:latitude":41.643111,
     "geom:longitude":-88.001443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13440 S Archer Ave",
     "sg:city":"Lemont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203010245,
-    "wof:lastmodified":1449026132,
+    "wof:lastmodified":1466491411,
     "wof:name":"Kohls Department Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.001443,41.643111,-88.001443,41.643111],
-  "geometry": {"coordinates":[-88.001443,41.643111],"type":"Point"}
+  "bbox": [
+    -88.001443,
+    41.643111,
+    -88.001443,
+    41.643111
+],
+  "geometry": {"coordinates":[-88.00144299999999,41.643111],"type":"Point"}
 }

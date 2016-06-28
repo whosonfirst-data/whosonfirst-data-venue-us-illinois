@@ -2,13 +2,14 @@
   "id": 236507873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250256,41.446763,-88.250256,41.446763",
     "geom:latitude":41.446763,
     "geom:longitude":-88.250256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 el Dorado Ct",
     "sg:city":"Minooka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236507873,
-    "wof:lastmodified":1449003327,
+    "wof:lastmodified":1466495479,
     "wof:name":"PC Rescue Service",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.250256,41.446763,-88.250256,41.446763],
-  "geometry": {"coordinates":[-88.250256,41.446763],"type":"Point"}
+  "bbox": [
+    -88.250256,
+    41.446763,
+    -88.250256,
+    41.446763
+],
+  "geometry": {"coordinates":[-88.25025599999999,41.446763],"type":"Point"}
 }

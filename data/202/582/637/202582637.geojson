@@ -2,13 +2,14 @@
   "id": 202582637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.373021,39.484079,-90.373021,39.484079",
     "geom:latitude":39.484079,
     "geom:longitude":-90.373021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Palm St",
     "sg:city":"Roodhouse",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582637,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466489467,
     "wof:name":"Matthew Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-90.373021,39.484079,-90.373021,39.484079],
-  "geometry": {"coordinates":[-90.373021,39.484079],"type":"Point"}
+  "bbox": [
+    -90.373021,
+    39.484079,
+    -90.373021,
+    39.484079
+],
+  "geometry": {"coordinates":[-90.37302099999999,39.484079],"type":"Point"}
 }

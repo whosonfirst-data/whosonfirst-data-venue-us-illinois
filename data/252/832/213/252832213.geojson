@@ -2,13 +2,14 @@
   "id": 252832213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.17233,41.56624,-88.17233,41.56624",
     "geom:latitude":41.56624,
     "geom:longitude":-88.17233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Byrum Blvd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252832213,
-    "wof:lastmodified":1449005404,
+    "wof:lastmodified":1466490582,
     "wof:name":"Chicago Non-Public Schools",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "demonstration"
     ]
 },
-  "bbox": [-88.17233,41.56624,-88.17233,41.56624],
+  "bbox": [
+    -88.17233,
+    41.56624,
+    -88.17233,
+    41.56624
+],
   "geometry": {"coordinates":[-88.17233,41.56624],"type":"Point"}
 }

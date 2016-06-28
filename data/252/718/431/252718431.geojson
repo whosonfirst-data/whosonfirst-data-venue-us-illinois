@@ -2,13 +2,14 @@
   "id": 252718431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.612923,41.809513,-87.612923,41.809513",
     "geom:latitude":41.809513,
     "geom:longitude":-87.612923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E 47th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252718431,
-    "wof:lastmodified":1449005655,
+    "wof:lastmodified":1466489127,
     "wof:name":"Public Furniture Co Inc",
     "wof:parent_id":85867601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-87.612923,41.809513,-87.612923,41.809513],
-  "geometry": {"coordinates":[-87.612923,41.809513],"type":"Point"}
+  "bbox": [
+    -87.612923,
+    41.809513,
+    -87.612923,
+    41.809513
+],
+  "geometry": {"coordinates":[-87.61292299999999,41.809513],"type":"Point"}
 }

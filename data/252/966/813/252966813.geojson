@@ -2,13 +2,14 @@
   "id": 252966813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.230516,37.817468,-89.230516,37.817468",
     "geom:latitude":37.817468,
     "geom:longitude":-89.230516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Lincoln St",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252966813,
-    "wof:lastmodified":1449005409,
+    "wof:lastmodified":1466492353,
     "wof:name":"De Soto City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-89.230516,37.817468,-89.230516,37.817468],
-  "geometry": {"coordinates":[-89.230516,37.817468],"type":"Point"}
+  "bbox": [
+    -89.230516,
+    37.817468,
+    -89.230516,
+    37.817468
+],
+  "geometry": {"coordinates":[-89.23051599999999,37.817468],"type":"Point"}
 }

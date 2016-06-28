@@ -2,13 +2,14 @@
   "id": 252721561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.329718,41.744366,-88.329718,41.744366",
     "geom:latitude":41.744366,
     "geom:longitude":-88.329718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 S River St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":252721561,
-    "wof:lastmodified":1449006512,
+    "wof:lastmodified":1466489169,
     "wof:name":"Fox Valley Park District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-88.329718,41.744366,-88.329718,41.744366],
+  "bbox": [
+    -88.329718,
+    41.744366,
+    -88.329718,
+    41.744366
+],
   "geometry": {"coordinates":[-88.329718,41.744366],"type":"Point"}
 }

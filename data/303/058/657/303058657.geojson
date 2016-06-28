@@ -2,13 +2,14 @@
   "id": 303058657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.811693,41.722381,-87.811693,41.722381",
     "geom:latitude":41.722381,
     "geom:longitude":-87.811693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7724 W 93rd St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303058657,
-    "wof:lastmodified":1448998476,
+    "wof:lastmodified":1466490765,
     "wof:name":"Westcoast Concrete Inc",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.811693,41.722381,-87.811693,41.722381],
-  "geometry": {"coordinates":[-87.811693,41.722381],"type":"Point"}
+  "bbox": [
+    -87.811693,
+    41.722381,
+    -87.811693,
+    41.722381
+],
+  "geometry": {"coordinates":[-87.81169300000001,41.722381],"type":"Point"}
 }

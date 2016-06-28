@@ -2,13 +2,14 @@
   "id": 220090625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941622,41.903715,-87.941622,41.903715",
     "geom:latitude":41.903715,
     "geom:longitude":-87.941622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 N Addison Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220090625,
-    "wof:lastmodified":1449074676,
+    "wof:lastmodified":1466490053,
     "wof:name":"Clark Refining & Mktg 0354",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refiner"
     ]
 },
-  "bbox": [-87.941622,41.903715,-87.941622,41.903715],
+  "bbox": [
+    -87.941622,
+    41.903715,
+    -87.941622,
+    41.903715
+],
   "geometry": {"coordinates":[-87.941622,41.903715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236932477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.092622,41.538056,-88.092622,41.538056",
     "geom:latitude":41.538056,
     "geom:longitude":-88.092622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Ruby St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236932477,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466498358,
     "wof:name":"Pauls Auto Sales",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.092622,41.538056,-88.092622,41.538056],
-  "geometry": {"coordinates":[-88.092622,41.538056],"type":"Point"}
+  "bbox": [
+    -88.092622,
+    41.538056,
+    -88.092622,
+    41.538056
+],
+  "geometry": {"coordinates":[-88.09262200000001,41.538056],"type":"Point"}
 }

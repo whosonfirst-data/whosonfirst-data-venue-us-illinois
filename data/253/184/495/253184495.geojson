@@ -2,13 +2,14 @@
   "id": 253184495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.219702,41.505346,-88.219702,41.505346",
     "geom:latitude":41.505346,
     "geom:longitude":-88.219702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Diamond Head Dr E",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253184495,
-    "wof:lastmodified":1449063317,
+    "wof:lastmodified":1466491144,
     "wof:name":"Clarity",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.219702,41.505346,-88.219702,41.505346],
+  "bbox": [
+    -88.219702,
+    41.505346,
+    -88.219702,
+    41.505346
+],
   "geometry": {"coordinates":[-88.219702,41.505346],"type":"Point"}
 }

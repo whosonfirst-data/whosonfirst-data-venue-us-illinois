@@ -2,13 +2,14 @@
   "id": 236924947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706893,41.565236,-87.706893,41.565236",
     "geom:latitude":41.565236,
     "geom:longitude":-87.706893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17850 Central Park Ave",
     "sg:city":"Country Club Hills",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236924947,
-    "wof:lastmodified":1449002380,
+    "wof:lastmodified":1466498431,
     "wof:name":"Information Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706893,41.565236,-87.706893,41.565236],
-  "geometry": {"coordinates":[-87.706893,41.565236],"type":"Point"}
+  "bbox": [
+    -87.706893,
+    41.565236,
+    -87.706893,
+    41.565236
+],
+  "geometry": {"coordinates":[-87.70689299999999,41.565236],"type":"Point"}
 }

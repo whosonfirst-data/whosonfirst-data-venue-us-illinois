@@ -2,13 +2,14 @@
   "id": 303175925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.096365,41.807854,-88.096365,41.807854",
     "geom:latitude":41.807854,
     "geom:longitude":-88.096365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Dogwood Dr",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303175925,
-    "wof:lastmodified":1448999811,
+    "wof:lastmodified":1466492651,
     "wof:name":"Arboretum Villages",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.096365,41.807854,-88.096365,41.807854],
-  "geometry": {"coordinates":[-88.096365,41.807854],"type":"Point"}
+  "bbox": [
+    -88.096365,
+    41.807854,
+    -88.096365,
+    41.807854
+],
+  "geometry": {"coordinates":[-88.09636500000001,41.807854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202955015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.873478,41.652983,-87.873478,41.652983",
     "geom:latitude":41.652983,
     "geom:longitude":-87.873478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13011 S 104th Ave",
     "sg:city":"Palos Park",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202955015,
-    "wof:lastmodified":1449061848,
+    "wof:lastmodified":1466493829,
     "wof:name":"Kurt W Erickson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.873478,41.652983,-87.873478,41.652983],
-  "geometry": {"coordinates":[-87.873478,41.652983],"type":"Point"}
+  "bbox": [
+    -87.873478,
+    41.652983,
+    -87.873478,
+    41.652983
+],
+  "geometry": {"coordinates":[-87.87347800000001,41.652983],"type":"Point"}
 }

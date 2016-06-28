@@ -2,13 +2,14 @@
   "id": 286910387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.005323,41.541785,-88.005323,41.541785",
     "geom:latitude":41.541785,
     "geom:longitude":-88.005323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gougar Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286910387,
-    "wof:lastmodified":1449016403,
+    "wof:lastmodified":1466498125,
     "wof:name":"Safe Now",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-88.005323,41.541785,-88.005323,41.541785],
+  "bbox": [
+    -88.005323,
+    41.541785,
+    -88.005323,
+    41.541785
+],
   "geometry": {"coordinates":[-88.005323,41.541785],"type":"Point"}
 }

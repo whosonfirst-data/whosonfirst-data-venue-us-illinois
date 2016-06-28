@@ -2,13 +2,14 @@
   "id": 286400311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706634,41.640471,-87.706634,41.640471",
     "geom:latitude":41.640471,
     "geom:longitude":-87.706634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3518 W 139th St",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286400311,
-    "wof:lastmodified":1449015466,
+    "wof:lastmodified":1466491955,
     "wof:name":"Housing Concilar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706634,41.640471,-87.706634,41.640471],
-  "geometry": {"coordinates":[-87.706634,41.640471],"type":"Point"}
+  "bbox": [
+    -87.706634,
+    41.640471,
+    -87.706634,
+    41.640471
+],
+  "geometry": {"coordinates":[-87.70663399999999,41.640471],"type":"Point"}
 }

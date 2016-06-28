@@ -2,13 +2,14 @@
   "id": 203379821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.038491,41.806774,-88.038491,41.806774",
     "geom:latitude":41.806774,
     "geom:longitude":-88.038491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Ogden Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203379821,
-    "wof:lastmodified":1449026043,
+    "wof:lastmodified":1466491354,
     "wof:name":"Ziebart",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.038491,41.806774,-88.038491,41.806774],
-  "geometry": {"coordinates":[-88.038491,41.806774],"type":"Point"}
+  "bbox": [
+    -88.038491,
+    41.806774,
+    -88.038491,
+    41.806774
+],
+  "geometry": {"coordinates":[-88.03849099999999,41.806774],"type":"Point"}
 }

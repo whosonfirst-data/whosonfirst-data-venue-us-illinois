@@ -2,13 +2,14 @@
   "id": 286687907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865057,41.11488,-87.865057,41.11488",
     "geom:latitude":41.11488,
     "geom:longitude":-87.865057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 S Schuyler Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286687907,
-    "wof:lastmodified":1449016017,
+    "wof:lastmodified":1466496272,
     "wof:name":"Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.865057,41.11488,-87.865057,41.11488],
-  "geometry": {"coordinates":[-87.865057,41.11488],"type":"Point"}
+  "bbox": [
+    -87.865057,
+    41.11488,
+    -87.865057,
+    41.11488
+],
+  "geometry": {"coordinates":[-87.86505699999999,41.11488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287072139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192225,39.487909,-88.192225,39.487909",
     "geom:latitude":39.487909,
     "geom:longitude":-88.192225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 W Polk Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287072139,
-    "wof:lastmodified":1449001139,
+    "wof:lastmodified":1466491115,
     "wof:name":"Jennifer Kennedy DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.192225,39.487909,-88.192225,39.487909],
-  "geometry": {"coordinates":[-88.192225,39.487909],"type":"Point"}
+  "bbox": [
+    -88.192225,
+    39.487909,
+    -88.192225,
+    39.487909
+],
+  "geometry": {"coordinates":[-88.19222499999999,39.487909],"type":"Point"}
 }

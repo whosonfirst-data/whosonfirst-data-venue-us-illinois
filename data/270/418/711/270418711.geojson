@@ -2,13 +2,14 @@
   "id": 270418711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.310183,41.883007,-88.310183,41.883007",
     "geom:latitude":41.883007,
     "geom:longitude":-88.310183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 South St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270418711,
-    "wof:lastmodified":1449010525,
+    "wof:lastmodified":1466495407,
     "wof:name":"Terra Cottage",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-88.310183,41.883007,-88.310183,41.883007],
-  "geometry": {"coordinates":[-88.310183,41.883007],"type":"Point"}
+  "bbox": [
+    -88.310183,
+    41.883007,
+    -88.310183,
+    41.883007
+],
+  "geometry": {"coordinates":[-88.31018299999999,41.883007],"type":"Point"}
 }

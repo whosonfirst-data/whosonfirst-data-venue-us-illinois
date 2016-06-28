@@ -2,13 +2,14 @@
   "id": 236671793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.751601,41.205107,-90.751601,41.205107",
     "geom:latitude":41.205107,
     "geom:longitude":-90.751601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 NW 3rd Ave",
     "sg:city":"Aledo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236671793,
-    "wof:lastmodified":1449002253,
+    "wof:lastmodified":1466496879,
     "wof:name":"R & S Tire Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-90.751601,41.205107,-90.751601,41.205107],
-  "geometry": {"coordinates":[-90.751601,41.205107],"type":"Point"}
+  "bbox": [
+    -90.751601,
+    41.205107,
+    -90.751601,
+    41.205107
+],
+  "geometry": {"coordinates":[-90.75160099999999,41.205107],"type":"Point"}
 }

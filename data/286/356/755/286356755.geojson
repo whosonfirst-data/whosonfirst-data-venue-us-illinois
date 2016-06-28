@@ -2,13 +2,14 @@
   "id": 286356755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.072656,42.245783,-89.072656,42.245783",
     "geom:latitude":42.245783,
     "geom:longitude":-89.072656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 20th Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286356755,
-    "wof:lastmodified":1449017602,
+    "wof:lastmodified":1466491274,
     "wof:name":"Rockford Automotive Ltd",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "starter"
     ]
 },
-  "bbox": [-89.072656,42.245783,-89.072656,42.245783],
-  "geometry": {"coordinates":[-89.072656,42.245783],"type":"Point"}
+  "bbox": [
+    -89.072656,
+    42.245783,
+    -89.072656,
+    42.245783
+],
+  "geometry": {"coordinates":[-89.07265599999999,42.245783],"type":"Point"}
 }

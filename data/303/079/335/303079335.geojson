@@ -2,13 +2,14 @@
   "id": 303079335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.290222,41.795177,-88.290222,41.795177",
     "geom:latitude":41.795177,
     "geom:longitude":-88.290222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Church Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303079335,
-    "wof:lastmodified":1449000153,
+    "wof:lastmodified":1466491083,
     "wof:name":"Annunciation Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.290222,41.795177,-88.290222,41.795177],
+  "bbox": [
+    -88.290222,
+    41.795177,
+    -88.290222,
+    41.795177
+],
   "geometry": {"coordinates":[-88.290222,41.795177],"type":"Point"}
 }

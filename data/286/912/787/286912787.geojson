@@ -2,13 +2,14 @@
   "id": 286912787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745325,41.886519,-87.745325,41.886519",
     "geom:latitude":41.886519,
     "geom:longitude":-87.745325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 W Lake St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286912787,
-    "wof:lastmodified":1449016642,
+    "wof:lastmodified":1466498127,
     "wof:name":"A G Welding",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.745325,41.886519,-87.745325,41.886519],
-  "geometry": {"coordinates":[-87.745325,41.886519],"type":"Point"}
+  "bbox": [
+    -87.745325,
+    41.886519,
+    -87.745325,
+    41.886519
+],
+  "geometry": {"coordinates":[-87.74532499999999,41.886519],"type":"Point"}
 }

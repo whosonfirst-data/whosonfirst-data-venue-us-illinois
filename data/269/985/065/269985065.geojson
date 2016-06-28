@@ -2,13 +2,14 @@
   "id": 269985065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.317732,41.680461,-90.317732,41.680461",
     "geom:latitude":41.680461,
     "geom:longitude":-90.317732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Main Ave",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269985065,
-    "wof:lastmodified":1449037333,
+    "wof:lastmodified":1466496433,
     "wof:name":"Cordova Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-90.317732,41.680461,-90.317732,41.680461],
-  "geometry": {"coordinates":[-90.317732,41.680461],"type":"Point"}
+  "bbox": [
+    -90.317732,
+    41.680461,
+    -90.317732,
+    41.680461
+],
+  "geometry": {"coordinates":[-90.31773200000001,41.680461],"type":"Point"}
 }

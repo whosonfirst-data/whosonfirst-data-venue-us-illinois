@@ -2,13 +2,14 @@
   "id": 202406863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.620523,40.84185,-89.620523,40.84185",
     "geom:latitude":40.84185,
     "geom:longitude":-89.620523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12609 N Broadview Ct",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202406863,
-    "wof:lastmodified":1449061474,
+    "wof:lastmodified":1466493205,
     "wof:name":"Mc Kinley & Mc Kinley",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-89.620523,40.84185,-89.620523,40.84185],
-  "geometry": {"coordinates":[-89.620523,40.84185],"type":"Point"}
+  "bbox": [
+    -89.620523,
+    40.84185,
+    -89.620523,
+    40.84185
+],
+  "geometry": {"coordinates":[-89.62052300000001,40.84185],"type":"Point"}
 }

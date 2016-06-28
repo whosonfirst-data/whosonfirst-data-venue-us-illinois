@@ -2,13 +2,14 @@
   "id": 252754489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.164249,42.456399,-89.164249,42.456399",
     "geom:latitude":42.456399,
     "geom:longitude":-89.164249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13527 Mary Lynne Dr",
     "sg:city":"Rockton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252754489,
-    "wof:lastmodified":1449006112,
+    "wof:lastmodified":1466489593,
     "wof:name":"Doodle Studio",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.164249,42.456399,-89.164249,42.456399],
+  "bbox": [
+    -89.164249,
+    42.456399,
+    -89.164249,
+    42.456399
+],
   "geometry": {"coordinates":[-89.164249,42.456399],"type":"Point"}
 }

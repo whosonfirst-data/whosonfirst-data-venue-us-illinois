@@ -2,13 +2,14 @@
   "id": 203373157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06182,41.52792,-88.06182,41.52792",
     "geom:latitude":41.52792,
     "geom:longitude":-88.06182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Bissel St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203373157,
-    "wof:lastmodified":1449025910,
+    "wof:lastmodified":1466491278,
     "wof:name":"Munster Stone Inc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-88.06182,41.52792,-88.06182,41.52792],
+  "bbox": [
+    -88.06182,
+    41.52792,
+    -88.06182,
+    41.52792
+],
   "geometry": {"coordinates":[-88.06182,41.52792],"type":"Point"}
 }

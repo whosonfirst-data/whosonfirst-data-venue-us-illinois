@@ -2,13 +2,14 @@
   "id": 270271925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.621659,41.829774,-87.621659,41.829774",
     "geom:latitude":41.829774,
     "geom:longitude":-87.621659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 S Indiana Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270271925,
-    "wof:lastmodified":1449009921,
+    "wof:lastmodified":1466493160,
     "wof:name":"Keyboard Enterprises Dev Inc",
     "wof:parent_id":85867575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operative"
     ]
 },
-  "bbox": [-87.621659,41.829774,-87.621659,41.829774],
-  "geometry": {"coordinates":[-87.621659,41.829774],"type":"Point"}
+  "bbox": [
+    -87.621659,
+    41.829774,
+    -87.621659,
+    41.829774
+],
+  "geometry": {"coordinates":[-87.62165899999999,41.829774],"type":"Point"}
 }

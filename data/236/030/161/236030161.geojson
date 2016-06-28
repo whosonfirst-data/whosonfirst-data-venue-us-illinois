@@ -2,13 +2,14 @@
   "id": 236030161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654266,41.942487,-87.654266,41.942487",
     "geom:latitude":41.942487,
     "geom:longitude":-87.654266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3358 N Sheffield Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236030161,
-    "wof:lastmodified":1449002741,
+    "wof:lastmodified":1466489335,
     "wof:name":"Redmons",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.654266,41.942487,-87.654266,41.942487],
-  "geometry": {"coordinates":[-87.654266,41.942487],"type":"Point"}
+  "bbox": [
+    -87.654266,
+    41.942487,
+    -87.654266,
+    41.942487
+],
+  "geometry": {"coordinates":[-87.65426600000001,41.942487],"type":"Point"}
 }

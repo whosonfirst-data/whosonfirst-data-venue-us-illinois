@@ -2,13 +2,14 @@
   "id": 185687213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.232047,40.013823,-91.232047,40.013823",
     "geom:latitude":40.013823,
     "geom:longitude":-91.232047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 N 1750th Ave",
     "sg:city":"Fowler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185687213,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1466494578,
     "wof:name":"Prairie Point Design",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-91.232047,40.013823,-91.232047,40.013823],
-  "geometry": {"coordinates":[-91.232047,40.013823],"type":"Point"}
+  "bbox": [
+    -91.232047,
+    40.013823,
+    -91.232047,
+    40.013823
+],
+  "geometry": {"coordinates":[-91.23204699999999,40.013823],"type":"Point"}
 }

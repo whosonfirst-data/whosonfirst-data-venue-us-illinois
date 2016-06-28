@@ -2,13 +2,14 @@
   "id": 270399331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.382964,40.466245,-88.382964,40.466245",
     "geom:latitude":40.466245,
     "geom:longitude":-88.382964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W 9th St",
     "sg:city":"Gibson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270399331,
-    "wof:lastmodified":1449009074,
+    "wof:lastmodified":1466495112,
     "wof:name":"Gibson City Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.382964,40.466245,-88.382964,40.466245],
+  "bbox": [
+    -88.382964,
+    40.466245,
+    -88.382964,
+    40.466245
+],
   "geometry": {"coordinates":[-88.382964,40.466245],"type":"Point"}
 }

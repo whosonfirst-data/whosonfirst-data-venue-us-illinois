@@ -2,13 +2,14 @@
   "id": 252919699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.795403,38.379108,-89.795403,38.379108",
     "geom:latitude":38.379108,
     "geom:longitude":-89.795403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 N 3rd St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252919699,
-    "wof:lastmodified":1449006238,
+    "wof:lastmodified":1466491710,
     "wof:name":"Middendorf Rehmer Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.795403,38.379108,-89.795403,38.379108],
-  "geometry": {"coordinates":[-89.795403,38.379108],"type":"Point"}
+  "bbox": [
+    -89.795403,
+    38.379108,
+    -89.795403,
+    38.379108
+],
+  "geometry": {"coordinates":[-89.79540299999999,38.379108],"type":"Point"}
 }

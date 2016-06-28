@@ -2,13 +2,14 @@
   "id": 286844809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.291665,41.89082,-88.291665,41.89082",
     "geom:latitude":41.89082,
     "geom:longitude":-88.291665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Park Ave",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286844809,
-    "wof:lastmodified":1449016435,
+    "wof:lastmodified":1466497844,
     "wof:name":"York Builders Inc",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.291665,41.89082,-88.291665,41.89082],
-  "geometry": {"coordinates":[-88.291665,41.89082],"type":"Point"}
+  "bbox": [
+    -88.291665,
+    41.89082,
+    -88.291665,
+    41.89082
+],
+  "geometry": {"coordinates":[-88.29166499999999,41.89082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169733823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.816528,39.121452,-89.816528,39.121452",
     "geom:latitude":39.121452,
     "geom:longitude":-89.816528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Staunton Rd",
     "sg:city":"Gillespie",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":169733823,
-    "wof:lastmodified":1449033149,
+    "wof:lastmodified":1466493126,
     "wof:name":"COUNTRY Financial - Brian Lacey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.816528,39.121452,-89.816528,39.121452],
-  "geometry": {"coordinates":[-89.816528,39.121452],"type":"Point"}
+  "bbox": [
+    -89.816528,
+    39.121452,
+    -89.816528,
+    39.121452
+],
+  "geometry": {"coordinates":[-89.81652800000001,39.121452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219889163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895828,42.085394,-87.895828,42.085394",
     "geom:latitude":42.085394,
     "geom:longitude":-87.895828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Kiowa Ln",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219889163,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1466496898,
     "wof:name":"G&L Dist",
     "wof:parent_id":85838279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-87.895828,42.085394,-87.895828,42.085394],
-  "geometry": {"coordinates":[-87.895828,42.085394],"type":"Point"}
+  "bbox": [
+    -87.895828,
+    42.085394,
+    -87.895828,
+    42.085394
+],
+  "geometry": {"coordinates":[-87.89582799999999,42.085394],"type":"Point"}
 }

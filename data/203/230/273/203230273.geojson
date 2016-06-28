@@ -2,13 +2,14 @@
   "id": 203230273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.648199,40.255531,-87.648199,40.255531",
     "geom:latitude":40.255531,
     "geom:longitude":-87.648199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26945 State Rte 1",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203230273,
-    "wof:lastmodified":1449026371,
+    "wof:lastmodified":1466489681,
     "wof:name":"Jeff Goin",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-87.648199,40.255531,-87.648199,40.255531],
-  "geometry": {"coordinates":[-87.648199,40.255531],"type":"Point"}
+  "bbox": [
+    -87.648199,
+    40.255531,
+    -87.648199,
+    40.255531
+],
+  "geometry": {"coordinates":[-87.64819900000001,40.255531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202693669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047188,41.597074,-88.047188,41.597074",
     "geom:latitude":41.597074,
     "geom:longitude":-88.047188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Madison St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202693669,
-    "wof:lastmodified":1449060249,
+    "wof:lastmodified":1466490736,
     "wof:name":"Bc Builders",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.047188,41.597074,-88.047188,41.597074],
-  "geometry": {"coordinates":[-88.047188,41.597074],"type":"Point"}
+  "bbox": [
+    -88.047188,
+    41.597074,
+    -88.047188,
+    41.597074
+],
+  "geometry": {"coordinates":[-88.04718800000001,41.597074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202676425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.50848,41.834862,-89.50848,41.834862",
     "geom:latitude":41.834862,
     "geom:longitude":-89.50848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Eels Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202676425,
-    "wof:lastmodified":1449061714,
+    "wof:lastmodified":1466490543,
     "wof:name":"Adcock Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.50848,41.834862,-89.50848,41.834862],
-  "geometry": {"coordinates":[-89.50848,41.834862],"type":"Point"}
+  "bbox": [
+    -89.50848,
+    41.834862,
+    -89.50848,
+    41.834862
+],
+  "geometry": {"coordinates":[-89.50848000000001,41.834862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203142035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314504,42.015228,-88.314504,42.015228",
     "geom:latitude":42.015228,
     "geom:longitude":-88.314504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N McLean Blvd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203142035,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466495369,
     "wof:name":"PLS Financial",
     "wof:parent_id":85859429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-88.314504,42.015228,-88.314504,42.015228],
+  "bbox": [
+    -88.314504,
+    42.015228,
+    -88.314504,
+    42.015228
+],
   "geometry": {"coordinates":[-88.314504,42.015228],"type":"Point"}
 }

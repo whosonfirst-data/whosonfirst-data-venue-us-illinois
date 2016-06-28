@@ -2,13 +2,14 @@
   "id": 287092419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.770924,41.880073,-87.770924,41.880073",
     "geom:latitude":41.880073,
     "geom:longitude":-87.770924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5815 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287092419,
-    "wof:lastmodified":1449001392,
+    "wof:lastmodified":1466491445,
     "wof:name":"Chicago City Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.770924,41.880073,-87.770924,41.880073],
-  "geometry": {"coordinates":[-87.770924,41.880073],"type":"Point"}
+  "bbox": [
+    -87.770924,
+    41.880073,
+    -87.770924,
+    41.880073
+],
+  "geometry": {"coordinates":[-87.77092399999999,41.880073],"type":"Point"}
 }

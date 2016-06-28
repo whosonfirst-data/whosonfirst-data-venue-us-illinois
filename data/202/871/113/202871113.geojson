@@ -2,13 +2,14 @@
   "id": 202871113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.100277,38.517988,-89.100277,38.517988",
     "geom:latitude":38.517988,
     "geom:longitude":-89.100277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 E Calumet St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202871113,
-    "wof:lastmodified":1449060939,
+    "wof:lastmodified":1466492832,
     "wof:name":"Craney Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-89.100277,38.517988,-89.100277,38.517988],
-  "geometry": {"coordinates":[-89.100277,38.517988],"type":"Point"}
+  "bbox": [
+    -89.100277,
+    38.517988,
+    -89.100277,
+    38.517988
+],
+  "geometry": {"coordinates":[-89.10027700000001,38.517988],"type":"Point"}
 }

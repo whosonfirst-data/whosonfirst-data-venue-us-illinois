@@ -2,13 +2,14 @@
   "id": 253569473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.120601,41.501735,-88.120601,41.501735",
     "geom:latitude":41.501735,
     "geom:longitude":-88.120601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Mound Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253569473,
-    "wof:lastmodified":1449065682,
+    "wof:lastmodified":1466496616,
     "wof:name":"Borowskis Race Enterprise",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "shop"
     ]
 },
-  "bbox": [-88.120601,41.501735,-88.120601,41.501735],
-  "geometry": {"coordinates":[-88.120601,41.501735],"type":"Point"}
+  "bbox": [
+    -88.120601,
+    41.501735,
+    -88.120601,
+    41.501735
+],
+  "geometry": {"coordinates":[-88.12060099999999,41.501735],"type":"Point"}
 }

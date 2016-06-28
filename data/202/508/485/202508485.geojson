@@ -2,13 +2,14 @@
   "id": 202508485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.867003,41.506029,-87.867003,41.506029",
     "geom:latitude":41.506029,
     "geom:longitude":-87.867003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10241 W Lincoln Hwy",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202508485,
-    "wof:lastmodified":1449061528,
+    "wof:lastmodified":1466495257,
     "wof:name":"Patrick & Douglas Inc",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-87.867003,41.506029,-87.867003,41.506029],
+  "bbox": [
+    -87.867003,
+    41.506029,
+    -87.867003,
+    41.506029
+],
   "geometry": {"coordinates":[-87.867003,41.506029],"type":"Point"}
 }

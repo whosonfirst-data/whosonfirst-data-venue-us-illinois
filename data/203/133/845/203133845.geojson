@@ -2,13 +2,14 @@
   "id": 203133845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.429645,42.415522,-90.429645,42.415522",
     "geom:latitude":42.415522,
     "geom:longitude":-90.429645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 S Main St",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203133845,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466495251,
     "wof:name":"Grape Escape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-90.429645,42.415522,-90.429645,42.415522],
-  "geometry": {"coordinates":[-90.429645,42.415522],"type":"Point"}
+  "bbox": [
+    -90.429645,
+    42.415522,
+    -90.429645,
+    42.415522
+],
+  "geometry": {"coordinates":[-90.42964499999999,42.415522],"type":"Point"}
 }

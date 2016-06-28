@@ -2,13 +2,14 @@
   "id": 185881871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.694077,39.76408,-89.694077,39.76408",
     "geom:latitude":39.76408,
     "geom:longitude":-89.694077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Wabash Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":185881871,
-    "wof:lastmodified":1449007544,
+    "wof:lastmodified":1466489747,
     "wof:name":"Prompt Care West",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.694077,39.76408,-89.694077,39.76408],
-  "geometry": {"coordinates":[-89.694077,39.76408],"type":"Point"}
+  "bbox": [
+    -89.694077,
+    39.76408,
+    -89.694077,
+    39.76408
+],
+  "geometry": {"coordinates":[-89.69407699999999,39.76408],"type":"Point"}
 }

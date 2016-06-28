@@ -2,13 +2,14 @@
   "id": 220171467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053503,42.104887,-88.053503,42.104887",
     "geom:latitude":42.104887,
     "geom:longitude":-88.053503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 S Cedar St",
     "sg:city":"Palatine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220171467,
-    "wof:lastmodified":1449074885,
+    "wof:lastmodified":1466491032,
     "wof:name":"Aquaone",
     "wof:parent_id":85890881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.053503,42.104887,-88.053503,42.104887],
-  "geometry": {"coordinates":[-88.053503,42.104887],"type":"Point"}
+  "bbox": [
+    -88.053503,
+    42.104887,
+    -88.053503,
+    42.104887
+],
+  "geometry": {"coordinates":[-88.05350300000001,42.104887],"type":"Point"}
 }

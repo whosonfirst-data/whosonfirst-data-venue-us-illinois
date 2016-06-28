@@ -2,13 +2,14 @@
   "id": 185791723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.581393,39.597129,-89.581393,39.597129",
     "geom:latitude":39.597129,
     "geom:longitude":-89.581393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 7th St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185791723,
-    "wof:lastmodified":1449007864,
+    "wof:lastmodified":1466488968,
     "wof:name":"J & V Mundhenke Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-89.581393,39.597129,-89.581393,39.597129],
-  "geometry": {"coordinates":[-89.581393,39.597129],"type":"Point"}
+  "bbox": [
+    -89.581393,
+    39.597129,
+    -89.581393,
+    39.597129
+],
+  "geometry": {"coordinates":[-89.58139300000001,39.597129],"type":"Point"}
 }

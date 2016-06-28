@@ -2,13 +2,14 @@
   "id": 303123711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.167663,40.571257,-91.167663,40.571257",
     "geom:latitude":40.571257,
     "geom:longitude":-91.167663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 N Co Rd 1750",
     "sg:city":"Colusa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303123711,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1466491796,
     "wof:name":"Colusa Elevator Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "elevator"
     ]
 },
-  "bbox": [-91.167663,40.571257,-91.167663,40.571257],
+  "bbox": [
+    -91.167663,
+    40.571257,
+    -91.167663,
+    40.571257
+],
   "geometry": {"coordinates":[-91.167663,40.571257],"type":"Point"}
 }

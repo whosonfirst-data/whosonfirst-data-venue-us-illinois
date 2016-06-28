@@ -2,13 +2,14 @@
   "id": 236320627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.855594,40.124278,-88.855594,40.124278",
     "geom:latitude":40.124278,
     "geom:longitude":-88.855594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Walnut St",
     "sg:city":"Lane",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236320627,
-    "wof:lastmodified":1449002308,
+    "wof:lastmodified":1466493023,
     "wof:name":"Lane Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.855594,40.124278,-88.855594,40.124278],
+  "bbox": [
+    -88.855594,
+    40.124278,
+    -88.855594,
+    40.124278
+],
   "geometry": {"coordinates":[-88.855594,40.124278],"type":"Point"}
 }

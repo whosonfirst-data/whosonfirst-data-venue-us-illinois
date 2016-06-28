@@ -2,13 +2,14 @@
   "id": 185882753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.561491,39.831734,-89.561491,39.831734",
     "geom:latitude":39.831734,
     "geom:longitude":-89.561491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4837 Camp Butler Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":185882753,
-    "wof:lastmodified":1449006894,
+    "wof:lastmodified":1466489759,
     "wof:name":"Bobcat Of Springfield",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "store"
     ]
 },
-  "bbox": [-89.561491,39.831734,-89.561491,39.831734],
+  "bbox": [
+    -89.561491,
+    39.831734,
+    -89.561491,
+    39.831734
+],
   "geometry": {"coordinates":[-89.561491,39.831734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303089433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.67584,40.856862,-89.67584,40.856862",
     "geom:latitude":40.856862,
     "geom:longitude":-89.67584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5408 W Legion Hall Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303089433,
-    "wof:lastmodified":1448998610,
+    "wof:lastmodified":1466491234,
     "wof:name":"Fox Electric Serv Inc",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.67584,40.856862,-89.67584,40.856862],
-  "geometry": {"coordinates":[-89.67584,40.856862],"type":"Point"}
+  "bbox": [
+    -89.67584,
+    40.856862,
+    -89.67584,
+    40.856862
+],
+  "geometry": {"coordinates":[-89.67583999999999,40.856862],"type":"Point"}
 }

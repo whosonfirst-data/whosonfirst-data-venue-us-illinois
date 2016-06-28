@@ -2,13 +2,14 @@
   "id": 236150283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696527,41.684527,-87.696527,41.684527",
     "geom:latitude":41.684527,
     "geom:longitude":-87.696527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11432 S Whipple St",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236150283,
-    "wof:lastmodified":1449001711,
+    "wof:lastmodified":1466490803,
     "wof:name":"Beverly Garage Doors",
     "wof:parent_id":85866783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-87.696527,41.684527,-87.696527,41.684527],
+  "bbox": [
+    -87.696527,
+    41.684527,
+    -87.696527,
+    41.684527
+],
   "geometry": {"coordinates":[-87.696527,41.684527],"type":"Point"}
 }

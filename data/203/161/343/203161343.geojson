@@ -2,13 +2,14 @@
   "id": 203161343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.951551,40.031129,-90.951551,40.031129",
     "geom:latitude":40.031129,
     "geom:longitude":-90.951551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203161343,
-    "wof:lastmodified":1449025667,
+    "wof:lastmodified":1466495793,
     "wof:name":"Buss Welding and Repair",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-90.951551,40.031129,-90.951551,40.031129],
-  "geometry": {"coordinates":[-90.951551,40.031129],"type":"Point"}
+  "bbox": [
+    -90.951551,
+    40.031129,
+    -90.951551,
+    40.031129
+],
+  "geometry": {"coordinates":[-90.95155099999999,40.031129],"type":"Point"}
 }

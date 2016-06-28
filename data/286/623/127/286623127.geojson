@@ -2,13 +2,14 @@
   "id": 286623127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911651,38.38556,-87.911651,38.38556",
     "geom:latitude":38.38556,
     "geom:longitude":-87.911651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Main St",
     "sg:city":"Bellmont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286623127,
-    "wof:lastmodified":1449017252,
+    "wof:lastmodified":1466495562,
     "wof:name":"Bellmont City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-87.911651,38.38556,-87.911651,38.38556],
-  "geometry": {"coordinates":[-87.911651,38.38556],"type":"Point"}
+  "bbox": [
+    -87.911651,
+    38.38556,
+    -87.911651,
+    38.38556
+],
+  "geometry": {"coordinates":[-87.91165100000001,38.38556],"type":"Point"}
 }

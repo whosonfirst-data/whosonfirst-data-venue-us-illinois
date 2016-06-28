@@ -2,13 +2,14 @@
   "id": 203125701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313936,42.018571,-88.313936,42.018571",
     "geom:latitude":42.018571,
     "geom:longitude":-88.313936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 N McLean Blvd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203125701,
-    "wof:lastmodified":1449026808,
+    "wof:lastmodified":1466495158,
     "wof:name":"Family Sewer",
     "wof:parent_id":85859429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drain"
     ]
 },
-  "bbox": [-88.313936,42.018571,-88.313936,42.018571],
+  "bbox": [
+    -88.313936,
+    42.018571,
+    -88.313936,
+    42.018571
+],
   "geometry": {"coordinates":[-88.313936,42.018571],"type":"Point"}
 }

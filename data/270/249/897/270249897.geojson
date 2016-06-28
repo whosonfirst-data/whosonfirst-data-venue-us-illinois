@@ -2,13 +2,14 @@
   "id": 270249897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.812706,41.711515,-87.812706,41.711515",
     "geom:latitude":41.711515,
     "geom:longitude":-87.812706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9831 S 78th Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270249897,
-    "wof:lastmodified":1449008804,
+    "wof:lastmodified":1466492813,
     "wof:name":"Midwest Specialty Metals Inc",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.812706,41.711515,-87.812706,41.711515],
-  "geometry": {"coordinates":[-87.812706,41.711515],"type":"Point"}
+  "bbox": [
+    -87.812706,
+    41.711515,
+    -87.812706,
+    41.711515
+],
+  "geometry": {"coordinates":[-87.81270600000001,41.711515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286410727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.803488,41.888679,-87.803488,41.888679",
     "geom:latitude":41.888679,
     "geom:longitude":-87.803488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Lake St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286410727,
-    "wof:lastmodified":1449015199,
+    "wof:lastmodified":1466492118,
     "wof:name":"Chp International",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.803488,41.888679,-87.803488,41.888679],
+  "bbox": [
+    -87.803488,
+    41.888679,
+    -87.803488,
+    41.888679
+],
   "geometry": {"coordinates":[-87.803488,41.888679],"type":"Point"}
 }

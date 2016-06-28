@@ -2,13 +2,14 @@
   "id": 203342037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.479819,41.840112,-89.479819,41.840112",
     "geom:latitude":41.840112,
     "geom:longitude":-89.479819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Ottawa Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203342037,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466490933,
     "wof:name":"Sauk Valley Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.479819,41.840112,-89.479819,41.840112],
-  "geometry": {"coordinates":[-89.479819,41.840112],"type":"Point"}
+  "bbox": [
+    -89.479819,
+    41.840112,
+    -89.479819,
+    41.840112
+],
+  "geometry": {"coordinates":[-89.47981900000001,41.840112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169856651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.986962,38.671046,-89.986962,38.671046",
     "geom:latitude":38.671046,
     "geom:longitude":-89.986962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Clay St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169856651,
-    "wof:lastmodified":1449033615,
+    "wof:lastmodified":1466495136,
     "wof:name":"Schools Public",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.986962,38.671046,-89.986962,38.671046],
-  "geometry": {"coordinates":[-89.986962,38.671046],"type":"Point"}
+  "bbox": [
+    -89.986962,
+    38.671046,
+    -89.986962,
+    38.671046
+],
+  "geometry": {"coordinates":[-89.98696200000001,38.671046],"type":"Point"}
 }

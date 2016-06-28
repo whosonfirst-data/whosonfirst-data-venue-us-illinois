@@ -2,13 +2,14 @@
   "id": 269969335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.795718,40.694141,-89.795718,40.694141",
     "geom:latitude":40.694141,
     "geom:longitude":-89.795718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Peoria St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269969335,
-    "wof:lastmodified":1449036719,
+    "wof:lastmodified":1466496274,
     "wof:name":"Wants & Needs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.795718,40.694141,-89.795718,40.694141],
-  "geometry": {"coordinates":[-89.795718,40.694141],"type":"Point"}
+  "bbox": [
+    -89.795718,
+    40.694141,
+    -89.795718,
+    40.694141
+],
+  "geometry": {"coordinates":[-89.79571799999999,40.694141],"type":"Point"}
 }

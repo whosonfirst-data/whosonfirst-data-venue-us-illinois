@@ -2,13 +2,14 @@
   "id": 185886895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.716012,39.764092,-89.716012,39.764092",
     "geom:latitude":39.764092,
     "geom:longitude":-89.716012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Hedley Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185886895,
-    "wof:lastmodified":1449007501,
+    "wof:lastmodified":1466489820,
     "wof:name":"Alexander, Richard B Md",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.716012,39.764092,-89.716012,39.764092],
-  "geometry": {"coordinates":[-89.716012,39.764092],"type":"Point"}
+  "bbox": [
+    -89.716012,
+    39.764092,
+    -89.716012,
+    39.764092
+],
+  "geometry": {"coordinates":[-89.71601200000001,39.764092],"type":"Point"}
 }

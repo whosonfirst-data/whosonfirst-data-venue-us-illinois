@@ -2,13 +2,14 @@
   "id": 236305465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.65413,41.9734,-87.65413,41.9734",
     "geom:latitude":41.9734,
     "geom:longitude":-87.65413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Argyle St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236305465,
-    "wof:lastmodified":1449002053,
+    "wof:lastmodified":1466492845,
     "wof:name":"900 Argyle Apartments",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.65413,41.9734,-87.65413,41.9734],
-  "geometry": {"coordinates":[-87.65413,41.9734],"type":"Point"}
+  "bbox": [
+    -87.65413,
+    41.9734,
+    -87.65413,
+    41.9734
+],
+  "geometry": {"coordinates":[-87.65412999999999,41.9734],"type":"Point"}
 }

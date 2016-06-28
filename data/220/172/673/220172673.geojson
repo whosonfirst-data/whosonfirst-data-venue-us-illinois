@@ -2,13 +2,14 @@
   "id": 220172673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009752,41.791407,-88.009752,41.791407",
     "geom:latitude":41.791407,
     "geom:longitude":-88.009752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Maple Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220172673,
-    "wof:lastmodified":1449074363,
+    "wof:lastmodified":1466491046,
     "wof:name":"Downers Grove Christian School",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.009752,41.791407,-88.009752,41.791407],
-  "geometry": {"coordinates":[-88.009752,41.791407],"type":"Point"}
+  "bbox": [
+    -88.009752,
+    41.791407,
+    -88.009752,
+    41.791407
+],
+  "geometry": {"coordinates":[-88.00975200000001,41.791407],"type":"Point"}
 }

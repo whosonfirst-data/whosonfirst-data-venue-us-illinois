@@ -2,13 +2,14 @@
   "id": 203040979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.581263,41.490485,-90.581263,41.490485",
     "geom:latitude":41.490485,
     "geom:longitude":-90.581263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 21st Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203040979,
-    "wof:lastmodified":1449026825,
+    "wof:lastmodified":1466493400,
     "wof:name":"Olivet Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.581263,41.490485,-90.581263,41.490485],
-  "geometry": {"coordinates":[-90.581263,41.490485],"type":"Point"}
+  "bbox": [
+    -90.581263,
+    41.490485,
+    -90.581263,
+    41.490485
+],
+  "geometry": {"coordinates":[-90.58126300000001,41.490485],"type":"Point"}
 }

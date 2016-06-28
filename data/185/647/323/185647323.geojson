@@ -2,13 +2,14 @@
   "id": 185647323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.705593,38.110989,-89.705593,38.110989",
     "geom:latitude":38.110989,
     "geom:longitude":-89.705593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Park Est",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185647323,
-    "wof:lastmodified":1449007378,
+    "wof:lastmodified":1466493557,
     "wof:name":"Park Estates Mhc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-89.705593,38.110989,-89.705593,38.110989],
-  "geometry": {"coordinates":[-89.705593,38.110989],"type":"Point"}
+  "bbox": [
+    -89.705593,
+    38.110989,
+    -89.705593,
+    38.110989
+],
+  "geometry": {"coordinates":[-89.70559299999999,38.110989],"type":"Point"}
 }

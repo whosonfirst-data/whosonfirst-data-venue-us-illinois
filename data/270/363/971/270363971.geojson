@@ -2,13 +2,14 @@
   "id": 270363971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.817313,41.522507,-87.817313,41.522507",
     "geom:latitude":41.522507,
     "geom:longitude":-87.817313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8154 W Orchard Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270363971,
-    "wof:lastmodified":1449010798,
+    "wof:lastmodified":1466494577,
     "wof:name":"SMR",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-87.817313,41.522507,-87.817313,41.522507],
+  "bbox": [
+    -87.817313,
+    41.522507,
+    -87.817313,
+    41.522507
+],
   "geometry": {"coordinates":[-87.817313,41.522507],"type":"Point"}
 }

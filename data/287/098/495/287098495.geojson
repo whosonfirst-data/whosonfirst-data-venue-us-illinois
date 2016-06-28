@@ -2,13 +2,14 @@
   "id": 287098495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.111297,38.574428,-90.111297,38.574428",
     "geom:latitude":38.574428,
     "geom:longitude":-90.111297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Bond Ave",
     "sg:city":"Alorton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287098495,
-    "wof:lastmodified":1449001487,
+    "wof:lastmodified":1466491539,
     "wof:name":"Original House Of Prayer",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.111297,38.574428,-90.111297,38.574428],
-  "geometry": {"coordinates":[-90.111297,38.574428],"type":"Point"}
+  "bbox": [
+    -90.111297,
+    38.574428,
+    -90.111297,
+    38.574428
+],
+  "geometry": {"coordinates":[-90.11129699999999,38.574428],"type":"Point"}
 }

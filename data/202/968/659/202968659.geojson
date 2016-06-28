@@ -2,13 +2,14 @@
   "id": 202968659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058094,41.546277,-88.058094,41.546277",
     "geom:latitude":41.546277,
     "geom:longitude":-88.058094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Woodruff Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202968659,
-    "wof:lastmodified":1449060267,
+    "wof:lastmodified":1466494000,
     "wof:name":"Mike's Food & Deli",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.058094,41.546277,-88.058094,41.546277],
+  "bbox": [
+    -88.058094,
+    41.546277,
+    -88.058094,
+    41.546277
+],
   "geometry": {"coordinates":[-88.058094,41.546277],"type":"Point"}
 }

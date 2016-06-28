@@ -2,13 +2,14 @@
   "id": 202532845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.854493,38.314699,-88.854493,38.314699",
     "geom:latitude":38.314699,
     "geom:longitude":-88.854493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13159 N Chestnut Ln",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202532845,
-    "wof:lastmodified":1449060967,
+    "wof:lastmodified":1466495570,
     "wof:name":"J & H Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-88.854493,38.314699,-88.854493,38.314699],
-  "geometry": {"coordinates":[-88.854493,38.314699],"type":"Point"}
+  "bbox": [
+    -88.854493,
+    38.314699,
+    -88.854493,
+    38.314699
+],
+  "geometry": {"coordinates":[-88.85449300000001,38.314699],"type":"Point"}
 }

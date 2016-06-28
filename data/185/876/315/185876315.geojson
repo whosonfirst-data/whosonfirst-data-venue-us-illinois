@@ -2,13 +2,14 @@
   "id": 185876315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.694454,39.766411,-89.694454,39.766411",
     "geom:latitude":39.766411,
     "geom:longitude":-89.694454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Montvale Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185876315,
-    "wof:lastmodified":1449006940,
+    "wof:lastmodified":1466489670,
     "wof:name":"Baker Virginia Lcpc",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "counselor"
     ]
 },
-  "bbox": [-89.694454,39.766411,-89.694454,39.766411],
-  "geometry": {"coordinates":[-89.694454,39.766411],"type":"Point"}
+  "bbox": [
+    -89.694454,
+    39.766411,
+    -89.694454,
+    39.766411
+],
+  "geometry": {"coordinates":[-89.69445399999999,39.766411],"type":"Point"}
 }

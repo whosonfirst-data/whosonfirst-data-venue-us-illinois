@@ -2,13 +2,14 @@
   "id": 202532119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.061062,42.219205,-88.061062,42.219205",
     "geom:latitude":42.219205,
     "geom:longitude":-88.061062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24481 N Old McHenry Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202532119,
-    "wof:lastmodified":1449060969,
+    "wof:lastmodified":1466495563,
     "wof:name":"Hawthorn Gardens",
     "wof:parent_id":85867889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-88.061062,42.219205,-88.061062,42.219205],
-  "geometry": {"coordinates":[-88.061062,42.219205],"type":"Point"}
+  "bbox": [
+    -88.061062,
+    42.219205,
+    -88.061062,
+    42.219205
+],
+  "geometry": {"coordinates":[-88.06106200000001,42.219205],"type":"Point"}
 }

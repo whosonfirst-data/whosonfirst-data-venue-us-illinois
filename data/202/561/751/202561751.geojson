@@ -2,13 +2,14 @@
   "id": 202561751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.866875,42.193707,-87.866875,42.193707",
     "geom:latitude":42.193707,
     "geom:longitude":-87.866875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2275 Telegraph Rd",
     "sg:city":"Bannockburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202561751,
-    "wof:lastmodified":1449061896,
+    "wof:lastmodified":1466489221,
     "wof:name":"Bannockburn Police Dept",
     "wof:parent_id":85825293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.866875,42.193707,-87.866875,42.193707],
-  "geometry": {"coordinates":[-87.866875,42.193707],"type":"Point"}
+  "bbox": [
+    -87.866875,
+    42.193707,
+    -87.866875,
+    42.193707
+],
+  "geometry": {"coordinates":[-87.86687499999999,42.193707],"type":"Point"}
 }

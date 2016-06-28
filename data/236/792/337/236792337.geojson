@@ -2,13 +2,14 @@
   "id": 236792337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701945,42.012096,-87.701945,42.012096",
     "geom:latitude":42.012096,
     "geom:longitude":-87.701945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 W Touhy Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236792337,
-    "wof:lastmodified":1449002209,
+    "wof:lastmodified":1466497826,
     "wof:name":"Cut Me Luc",
     "wof:parent_id":85867811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.701945,42.012096,-87.701945,42.012096],
-  "geometry": {"coordinates":[-87.701945,42.012096],"type":"Point"}
+  "bbox": [
+    -87.701945,
+    42.012096,
+    -87.701945,
+    42.012096
+],
+  "geometry": {"coordinates":[-87.70194499999999,42.012096],"type":"Point"}
 }

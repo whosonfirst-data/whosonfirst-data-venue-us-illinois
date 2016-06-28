@@ -2,13 +2,14 @@
   "id": 269615123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.996395,38.670027,-89.996395,38.670027",
     "geom:latitude":38.670027,
     "geom:longitude":-89.996395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Summit Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269615123,
-    "wof:lastmodified":1449036902,
+    "wof:lastmodified":1466491066,
     "wof:name":"Collinsville City Office",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.996395,38.670027,-89.996395,38.670027],
-  "geometry": {"coordinates":[-89.996395,38.670027],"type":"Point"}
+  "bbox": [
+    -89.996395,
+    38.670027,
+    -89.996395,
+    38.670027
+],
+  "geometry": {"coordinates":[-89.99639500000001,38.670027],"type":"Point"}
 }

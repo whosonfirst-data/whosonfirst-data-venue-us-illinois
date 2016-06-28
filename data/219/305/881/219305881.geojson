@@ -2,13 +2,14 @@
   "id": 219305881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119324,41.550793,-88.119324,41.550793",
     "geom:latitude":41.550793,
     "geom:longitude":-88.119324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Boston Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219305881,
-    "wof:lastmodified":1449070927,
+    "wof:lastmodified":1466490778,
     "wof:name":"Stevens Towing",
     "wof:parent_id":85845453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.119324,41.550793,-88.119324,41.550793],
-  "geometry": {"coordinates":[-88.119324,41.550793],"type":"Point"}
+  "bbox": [
+    -88.119324,
+    41.550793,
+    -88.119324,
+    41.550793
+],
+  "geometry": {"coordinates":[-88.11932400000001,41.550793],"type":"Point"}
 }

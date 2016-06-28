@@ -2,13 +2,14 @@
   "id": 287304703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.168037,40.636701,-91.168037,40.636701",
     "geom:latitude":40.636701,
     "geom:longitude":-91.168037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Oak St",
     "sg:city":"Dallas City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287304703,
-    "wof:lastmodified":1449001337,
+    "wof:lastmodified":1466494805,
     "wof:name":"Pioneer Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-91.168037,40.636701,-91.168037,40.636701],
+  "bbox": [
+    -91.168037,
+    40.636701,
+    -91.168037,
+    40.636701
+],
   "geometry": {"coordinates":[-91.168037,40.636701],"type":"Point"}
 }

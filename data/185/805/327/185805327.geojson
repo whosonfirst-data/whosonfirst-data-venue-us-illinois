@@ -2,13 +2,14 @@
   "id": 185805327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.29551,39.552261,-89.29551,39.552261",
     "geom:latitude":39.552261,
     "geom:longitude":-89.29551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Park St",
     "sg:city":"Taylorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185805327,
-    "wof:lastmodified":1449007136,
+    "wof:lastmodified":1466489060,
     "wof:name":"Route Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.29551,39.552261,-89.29551,39.552261],
-  "geometry": {"coordinates":[-89.29551,39.552261],"type":"Point"}
+  "bbox": [
+    -89.29551,
+    39.552261,
+    -89.29551,
+    39.552261
+],
+  "geometry": {"coordinates":[-89.29550999999999,39.552261],"type":"Point"}
 }

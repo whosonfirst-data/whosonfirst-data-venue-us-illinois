@@ -2,13 +2,14 @@
   "id": 185868445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.633621,39.779388,-89.633621,39.779388",
     "geom:latitude":39.779388,
     "geom:longitude":-89.633621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Ash St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185868445,
-    "wof:lastmodified":1449006646,
+    "wof:lastmodified":1466489559,
     "wof:name":"Bacon's Termite And Pest Control",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "termite"
     ]
 },
-  "bbox": [-89.633621,39.779388,-89.633621,39.779388],
-  "geometry": {"coordinates":[-89.633621,39.779388],"type":"Point"}
+  "bbox": [
+    -89.633621,
+    39.779388,
+    -89.633621,
+    39.779388
+],
+  "geometry": {"coordinates":[-89.63362100000001,39.779388],"type":"Point"}
 }

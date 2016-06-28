@@ -2,13 +2,14 @@
   "id": 203252017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.983791,41.706651,-88.983791,41.706651",
     "geom:latitude":41.706651,
     "geom:longitude":-88.983791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"794 Paw Paw Rd",
     "sg:city":"Paw Paw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203252017,
-    "wof:lastmodified":1449025191,
+    "wof:lastmodified":1466489932,
     "wof:name":"R-Vac Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.983791,41.706651,-88.983791,41.706651],
+  "bbox": [
+    -88.983791,
+    41.706651,
+    -88.983791,
+    41.706651
+],
   "geometry": {"coordinates":[-88.983791,41.706651],"type":"Point"}
 }

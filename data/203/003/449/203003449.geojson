@@ -2,13 +2,14 @@
   "id": 203003449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101879,41.993205,-88.101879,41.993205",
     "geom:latitude":41.993205,
     "geom:longitude":-88.101879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Wright Blvd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203003449,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1466488960,
     "wof:name":"R G Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.101879,41.993205,-88.101879,41.993205],
+  "bbox": [
+    -88.101879,
+    41.993205,
+    -88.101879,
+    41.993205
+],
   "geometry": {"coordinates":[-88.101879,41.993205],"type":"Point"}
 }

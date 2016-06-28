@@ -2,13 +2,14 @@
   "id": 203043117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.035043,40.557563,-90.035043,40.557563",
     "geom:latitude":40.557563,
     "geom:longitude":-90.035043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 N Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203043117,
-    "wof:lastmodified":1449026381,
+    "wof:lastmodified":1466493460,
     "wof:name":"Bard Optical",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.035043,40.557563,-90.035043,40.557563],
+  "bbox": [
+    -90.035043,
+    40.557563,
+    -90.035043,
+    40.557563
+],
   "geometry": {"coordinates":[-90.035043,40.557563],"type":"Point"}
 }

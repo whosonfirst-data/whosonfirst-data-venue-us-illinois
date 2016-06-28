@@ -2,13 +2,14 @@
   "id": 203338601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.721544,41.740377,-87.721544,41.740377",
     "geom:latitude":41.740377,
     "geom:longitude":-87.721544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8333 S Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338601,
-    "wof:lastmodified":1449025573,
+    "wof:lastmodified":1466490894,
     "wof:name":"Pulaski Laundromat",
     "wof:parent_id":85867553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-87.721544,41.740377,-87.721544,41.740377],
-  "geometry": {"coordinates":[-87.721544,41.740377],"type":"Point"}
+  "bbox": [
+    -87.721544,
+    41.740377,
+    -87.721544,
+    41.740377
+],
+  "geometry": {"coordinates":[-87.72154399999999,41.740377],"type":"Point"}
 }

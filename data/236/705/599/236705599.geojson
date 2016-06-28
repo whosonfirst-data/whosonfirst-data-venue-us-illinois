@@ -2,13 +2,14 @@
   "id": 236705599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.513382,41.494415,-90.513382,41.494415",
     "geom:latitude":41.494415,
     "geom:longitude":-90.513382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 16th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236705599,
-    "wof:lastmodified":1449005274,
+    "wof:lastmodified":1466497099,
     "wof:name":"Duck Pond",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collectible"
     ]
 },
-  "bbox": [-90.513382,41.494415,-90.513382,41.494415],
-  "geometry": {"coordinates":[-90.513382,41.494415],"type":"Point"}
+  "bbox": [
+    -90.513382,
+    41.494415,
+    -90.513382,
+    41.494415
+],
+  "geometry": {"coordinates":[-90.51338199999999,41.494415],"type":"Point"}
 }

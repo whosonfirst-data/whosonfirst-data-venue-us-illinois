@@ -2,13 +2,14 @@
   "id": 202897481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.437189,41.484402,-90.437189,41.484402",
     "geom:latitude":41.484402,
     "geom:longitude":-90.437189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 46th Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202897481,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466493141,
     "wof:name":"JLS Enterprises Parking Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attendant"
     ]
 },
-  "bbox": [-90.437189,41.484402,-90.437189,41.484402],
+  "bbox": [
+    -90.437189,
+    41.484402,
+    -90.437189,
+    41.484402
+],
   "geometry": {"coordinates":[-90.437189,41.484402],"type":"Point"}
 }

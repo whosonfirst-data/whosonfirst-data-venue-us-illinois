@@ -2,13 +2,14 @@
   "id": 270206771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.355618,41.762319,-88.355618,41.762319",
     "geom:latitude":41.762319,
     "geom:longitude":-88.355618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 S Westlawn Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270206771,
-    "wof:lastmodified":1449010338,
+    "wof:lastmodified":1466492141,
     "wof:name":"Omega Medical Group Inc",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.355618,41.762319,-88.355618,41.762319],
-  "geometry": {"coordinates":[-88.355618,41.762319],"type":"Point"}
+  "bbox": [
+    -88.355618,
+    41.762319,
+    -88.355618,
+    41.762319
+],
+  "geometry": {"coordinates":[-88.35561800000001,41.762319],"type":"Point"}
 }

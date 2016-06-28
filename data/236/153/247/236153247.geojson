@@ -2,13 +2,14 @@
   "id": 236153247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.072215,41.876702,-88.072215,41.876702",
     "geom:latitude":41.876702,
     "geom:longitude":-88.072215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Pennsylvania Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236153247,
-    "wof:lastmodified":1449004015,
+    "wof:lastmodified":1466490843,
     "wof:name":"James Brandman MD",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.072215,41.876702,-88.072215,41.876702],
+  "bbox": [
+    -88.072215,
+    41.876702,
+    -88.072215,
+    41.876702
+],
   "geometry": {"coordinates":[-88.072215,41.876702],"type":"Point"}
 }

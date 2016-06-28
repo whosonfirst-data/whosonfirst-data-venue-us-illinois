@@ -2,13 +2,14 @@
   "id": 253153767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.050148,42.296182,-89.050148,42.296182",
     "geom:latitude":42.296182,
     "geom:longitude":-89.050148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Crestwood Ln",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253153767,
-    "wof:lastmodified":1449064883,
+    "wof:lastmodified":1466490794,
     "wof:name":"Albert W Hudson MD",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.050148,42.296182,-89.050148,42.296182],
-  "geometry": {"coordinates":[-89.050148,42.296182],"type":"Point"}
+  "bbox": [
+    -89.050148,
+    42.296182,
+    -89.050148,
+    42.296182
+],
+  "geometry": {"coordinates":[-89.05014799999999,42.296182],"type":"Point"}
 }

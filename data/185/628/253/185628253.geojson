@@ -2,13 +2,14 @@
   "id": 185628253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.924698,38.588501,-89.924698,38.588501",
     "geom:latitude":38.588501,
     "geom:longitude":-89.924698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 W US Highway 50",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185628253,
-    "wof:lastmodified":1449007920,
+    "wof:lastmodified":1466493017,
     "wof:name":"Florida Tan Studio",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.924698,38.588501,-89.924698,38.588501],
-  "geometry": {"coordinates":[-89.924698,38.588501],"type":"Point"}
+  "bbox": [
+    -89.924698,
+    38.588501,
+    -89.924698,
+    38.588501
+],
+  "geometry": {"coordinates":[-89.92469800000001,38.588501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220061523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119988,41.924689,-88.119988,41.924689",
     "geom:latitude":41.924689,
     "geom:longitude":-88.119988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 E Elk Trl",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220061523,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466489702,
     "wof:name":"Homemakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.119988,41.924689,-88.119988,41.924689],
-  "geometry": {"coordinates":[-88.119988,41.924689],"type":"Point"}
+  "bbox": [
+    -88.119988,
+    41.924689,
+    -88.119988,
+    41.924689
+],
+  "geometry": {"coordinates":[-88.11998800000001,41.924689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202979699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.791018,41.883571,-87.791018,41.883571",
     "geom:latitude":41.883571,
     "geom:longitude":-87.791018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Wesley Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202979699,
-    "wof:lastmodified":1449061887,
+    "wof:lastmodified":1466494128,
     "wof:name":"Architectural Dynamics",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-87.791018,41.883571,-87.791018,41.883571],
-  "geometry": {"coordinates":[-87.791018,41.883571],"type":"Point"}
+  "bbox": [
+    -87.791018,
+    41.883571,
+    -87.791018,
+    41.883571
+],
+  "geometry": {"coordinates":[-87.79101799999999,41.883571],"type":"Point"}
 }

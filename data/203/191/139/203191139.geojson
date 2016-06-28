@@ -2,13 +2,14 @@
   "id": 203191139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709652,41.749765,-87.709652,41.749765",
     "geom:latitude":41.749765,
     "geom:longitude":-87.709652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3438 W 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203191139,
-    "wof:lastmodified":1449026082,
+    "wof:lastmodified":1466489254,
     "wof:name":"Network Security Inc",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-87.709652,41.749765,-87.709652,41.749765],
-  "geometry": {"coordinates":[-87.709652,41.749765],"type":"Point"}
+  "bbox": [
+    -87.709652,
+    41.749765,
+    -87.709652,
+    41.749765
+],
+  "geometry": {"coordinates":[-87.70965200000001,41.749765],"type":"Point"}
 }

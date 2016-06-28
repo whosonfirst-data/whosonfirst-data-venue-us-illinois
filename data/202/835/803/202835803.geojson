@@ -2,13 +2,14 @@
   "id": 202835803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.339656,41.238108,-90.339656,41.238108",
     "geom:latitude":41.238108,
     "geom:longitude":-90.339656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6629 E 500th St",
     "sg:city":"Lynn Center",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202835803,
-    "wof:lastmodified":1449060471,
+    "wof:lastmodified":1466492402,
     "wof:name":"M & C Enterprises",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "earthenware"
     ]
 },
-  "bbox": [-90.339656,41.238108,-90.339656,41.238108],
-  "geometry": {"coordinates":[-90.339656,41.238108],"type":"Point"}
+  "bbox": [
+    -90.339656,
+    41.238108,
+    -90.339656,
+    41.238108
+],
+  "geometry": {"coordinates":[-90.33965600000001,41.238108],"type":"Point"}
 }

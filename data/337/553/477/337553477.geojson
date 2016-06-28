@@ -2,13 +2,14 @@
   "id": 337553477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063015,42.145886,-88.063015,42.145886",
     "geom:latitude":42.145886,
     "geom:longitude":-88.063015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 N Quentin Rd",
     "sg:city":"Palatine",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337553477,
-    "wof:lastmodified":1449026936,
+    "wof:lastmodified":1466492680,
     "wof:name":"Cook County Forest Preserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.063015,42.145886,-88.063015,42.145886],
-  "geometry": {"coordinates":[-88.063015,42.145886],"type":"Point"}
+  "bbox": [
+    -88.063015,
+    42.145886,
+    -88.063015,
+    42.145886
+],
+  "geometry": {"coordinates":[-88.06301499999999,42.145886],"type":"Point"}
 }

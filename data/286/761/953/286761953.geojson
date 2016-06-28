@@ -2,13 +2,14 @@
   "id": 286761953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850946,41.163106,-87.850946,41.163106",
     "geom:latitude":41.163106,
     "geom:longitude":-87.850946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 N State Rte 50",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286761953,
-    "wof:lastmodified":1449017427,
+    "wof:lastmodified":1466496942,
     "wof:name":"Reliable Rental Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-87.850946,41.163106,-87.850946,41.163106],
-  "geometry": {"coordinates":[-87.850946,41.163106],"type":"Point"}
+  "bbox": [
+    -87.850946,
+    41.163106,
+    -87.850946,
+    41.163106
+],
+  "geometry": {"coordinates":[-87.85094599999999,41.163106],"type":"Point"}
 }

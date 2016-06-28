@@ -2,13 +2,14 @@
   "id": 203384139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07705,41.898464,-88.07705,41.898464",
     "geom:latitude":41.898464,
     "geom:longitude":-88.07705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Shorewood Dr",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203384139,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466491403,
     "wof:name":"Oracle Consulting Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.07705,41.898464,-88.07705,41.898464],
+  "bbox": [
+    -88.07705,
+    41.898464,
+    -88.07705,
+    41.898464
+],
   "geometry": {"coordinates":[-88.07705,41.898464],"type":"Point"}
 }

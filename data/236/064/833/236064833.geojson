@@ -2,13 +2,14 @@
   "id": 236064833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.443429,40.353825,-91.443429,40.353825",
     "geom:latitude":40.353825,
     "geom:longitude":-91.443429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Mulberry St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236064833,
-    "wof:lastmodified":1449002675,
+    "wof:lastmodified":1466489746,
     "wof:name":"Corner Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.443429,40.353825,-91.443429,40.353825],
-  "geometry": {"coordinates":[-91.443429,40.353825],"type":"Point"}
+  "bbox": [
+    -91.443429,
+    40.353825,
+    -91.443429,
+    40.353825
+],
+  "geometry": {"coordinates":[-91.44342899999999,40.353825],"type":"Point"}
 }

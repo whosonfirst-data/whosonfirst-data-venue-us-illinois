@@ -2,13 +2,14 @@
   "id": 270443125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250892,42.314738,-88.250892,42.314738",
     "geom:latitude":42.314738,
     "geom:longitude":-88.250892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Totem Trl",
     "sg:city":"Mc Henry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270443125,
-    "wof:lastmodified":1449010618,
+    "wof:lastmodified":1466495872,
     "wof:name":"Pykas Completer Furniture",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.250892,42.314738,-88.250892,42.314738],
-  "geometry": {"coordinates":[-88.250892,42.314738],"type":"Point"}
+  "bbox": [
+    -88.250892,
+    42.314738,
+    -88.250892,
+    42.314738
+],
+  "geometry": {"coordinates":[-88.25089199999999,42.314738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287148053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.315947,40.371423,-91.315947,40.371423",
     "geom:latitude":40.371423,
     "geom:longitude":-91.315947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 E Co Rd 1120",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287148053,
-    "wof:lastmodified":1449001428,
+    "wof:lastmodified":1466492345,
     "wof:name":"Snyder Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "motor"
     ]
 },
-  "bbox": [-91.315947,40.371423,-91.315947,40.371423],
-  "geometry": {"coordinates":[-91.315947,40.371423],"type":"Point"}
+  "bbox": [
+    -91.315947,
+    40.371423,
+    -91.315947,
+    40.371423
+],
+  "geometry": {"coordinates":[-91.31594699999999,40.371423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253325851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308354,41.885827,-88.308354,41.885827",
     "geom:latitude":41.885827,
     "geom:longitude":-88.308354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253325851,
-    "wof:lastmodified":1449063981,
+    "wof:lastmodified":1466493088,
     "wof:name":"Ye Old Provincial House Inc",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "drapery"
     ]
 },
-  "bbox": [-88.308354,41.885827,-88.308354,41.885827],
-  "geometry": {"coordinates":[-88.308354,41.885827],"type":"Point"}
+  "bbox": [
+    -88.308354,
+    41.885827,
+    -88.308354,
+    41.885827
+],
+  "geometry": {"coordinates":[-88.30835399999999,41.885827],"type":"Point"}
 }

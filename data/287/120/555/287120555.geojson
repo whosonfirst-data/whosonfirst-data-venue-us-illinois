@@ -2,13 +2,14 @@
   "id": 287120555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.219704,41.790206,-90.219704,41.790206",
     "geom:latitude":41.790206,
     "geom:longitude":-90.219704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287120555,
-    "wof:lastmodified":1449001447,
+    "wof:lastmodified":1466491908,
     "wof:name":"Ammons Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.219704,41.790206,-90.219704,41.790206],
-  "geometry": {"coordinates":[-90.219704,41.790206],"type":"Point"}
+  "bbox": [
+    -90.219704,
+    41.790206,
+    -90.219704,
+    41.790206
+],
+  "geometry": {"coordinates":[-90.21970399999999,41.790206],"type":"Point"}
 }

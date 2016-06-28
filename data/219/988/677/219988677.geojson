@@ -2,13 +2,14 @@
   "id": 219988677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.611736,40.122917,-87.611736,40.122917",
     "geom:latitude":40.122917,
     "geom:longitude":-87.611736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Bowman Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219988677,
-    "wof:lastmodified":1449071616,
+    "wof:lastmodified":1466497510,
     "wof:name":"Department Of Human Svc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-87.611736,40.122917,-87.611736,40.122917],
-  "geometry": {"coordinates":[-87.611736,40.122917],"type":"Point"}
+  "bbox": [
+    -87.611736,
+    40.122917,
+    -87.611736,
+    40.122917
+],
+  "geometry": {"coordinates":[-87.61173599999999,40.122917],"type":"Point"}
 }

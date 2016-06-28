@@ -2,13 +2,14 @@
   "id": 270125537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.808603,40.572942,-89.808603,40.572942",
     "geom:latitude":40.572942,
     "geom:longitude":-89.808603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 E Main St",
     "sg:city":"Glasford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270125537,
-    "wof:lastmodified":1449011043,
+    "wof:lastmodified":1466490884,
     "wof:name":"Mc Nicol Family Auction Team",
     "wof:parent_id":85827007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-89.808603,40.572942,-89.808603,40.572942],
-  "geometry": {"coordinates":[-89.808603,40.572942],"type":"Point"}
+  "bbox": [
+    -89.808603,
+    40.572942,
+    -89.808603,
+    40.572942
+],
+  "geometry": {"coordinates":[-89.80860300000001,40.572942],"type":"Point"}
 }

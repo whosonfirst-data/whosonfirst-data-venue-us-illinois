@@ -2,13 +2,14 @@
   "id": 286426049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.055366,42.233827,-89.055366,42.233827",
     "geom:latitude":42.233827,
     "geom:longitude":-89.055366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 22nd St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286426049,
-    "wof:lastmodified":1449015796,
+    "wof:lastmodified":1466492362,
     "wof:name":"Elephant's Ear",
     "wof:parent_id":85867945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.055366,42.233827,-89.055366,42.233827],
-  "geometry": {"coordinates":[-89.055366,42.233827],"type":"Point"}
+  "bbox": [
+    -89.055366,
+    42.233827,
+    -89.055366,
+    42.233827
+],
+  "geometry": {"coordinates":[-89.05536600000001,42.233827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219293933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.163356,40.314724,-88.163356,40.314724",
     "geom:latitude":40.314724,
     "geom:longitude":-88.163356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Fox Ridge Dr",
     "sg:city":"Rantoul",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219293933,
-    "wof:lastmodified":1449071085,
+    "wof:lastmodified":1466490624,
     "wof:name":"Bottom Up Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-88.163356,40.314724,-88.163356,40.314724],
-  "geometry": {"coordinates":[-88.163356,40.314724],"type":"Point"}
+  "bbox": [
+    -88.163356,
+    40.314724,
+    -88.163356,
+    40.314724
+],
+  "geometry": {"coordinates":[-88.16335599999999,40.314724],"type":"Point"}
 }

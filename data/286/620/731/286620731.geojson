@@ -2,13 +2,14 @@
   "id": 286620731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742388,42.034009,-87.742388,42.034009",
     "geom:latitude":42.034009,
     "geom:longitude":-87.742388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8525 Kenton Ave",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286620731,
-    "wof:lastmodified":1449017845,
+    "wof:lastmodified":1466495526,
     "wof:name":"Evanston Golf Club",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-87.742388,42.034009,-87.742388,42.034009],
-  "geometry": {"coordinates":[-87.742388,42.034009],"type":"Point"}
+  "bbox": [
+    -87.742388,
+    42.034009,
+    -87.742388,
+    42.034009
+],
+  "geometry": {"coordinates":[-87.74238800000001,42.034009],"type":"Point"}
 }

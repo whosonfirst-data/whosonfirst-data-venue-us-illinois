@@ -2,13 +2,14 @@
   "id": 220009155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.233479,39.698826,-90.233479,39.698826",
     "geom:latitude":39.698826,
     "geom:longitude":-90.233479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Willow Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220009155,
-    "wof:lastmodified":1449074863,
+    "wof:lastmodified":1466489054,
     "wof:name":"American Data Xchange Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-90.233479,39.698826,-90.233479,39.698826],
+  "bbox": [
+    -90.233479,
+    39.698826,
+    -90.233479,
+    39.698826
+],
   "geometry": {"coordinates":[-90.233479,39.698826],"type":"Point"}
 }

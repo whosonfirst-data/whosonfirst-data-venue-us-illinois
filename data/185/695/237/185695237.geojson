@@ -2,13 +2,14 @@
   "id": 185695237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.820844,39.610168,-90.820844,39.610168",
     "geom:latitude":39.610168,
     "geom:longitude":-90.820844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"938 W Perry St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185695237,
-    "wof:lastmodified":1449007211,
+    "wof:lastmodified":1466494683,
     "wof:name":"Midwest Land Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.820844,39.610168,-90.820844,39.610168],
-  "geometry": {"coordinates":[-90.820844,39.610168],"type":"Point"}
+  "bbox": [
+    -90.820844,
+    39.610168,
+    -90.820844,
+    39.610168
+],
+  "geometry": {"coordinates":[-90.82084399999999,39.610168],"type":"Point"}
 }

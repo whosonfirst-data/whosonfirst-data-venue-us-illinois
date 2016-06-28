@@ -2,13 +2,14 @@
   "id": 185718793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133104,39.118242,-88.133104,39.118242",
     "geom:latitude":39.118242,
     "geom:longitude":-88.133104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18478 N 1300th St",
     "sg:city":"Hidalgo",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185718793,
-    "wof:lastmodified":1449006964,
+    "wof:lastmodified":1466494940,
     "wof:name":"Ted Marrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feeding"
     ]
 },
-  "bbox": [-88.133104,39.118242,-88.133104,39.118242],
+  "bbox": [
+    -88.133104,
+    39.118242,
+    -88.133104,
+    39.118242
+],
   "geometry": {"coordinates":[-88.133104,39.118242],"type":"Point"}
 }

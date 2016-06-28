@@ -2,13 +2,14 @@
   "id": 203149695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798148,41.908189,-87.798148,41.908189",
     "geom:latitude":41.908189,
     "geom:longitude":-87.798148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 N Kenilworth Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203149695,
-    "wof:lastmodified":1449024943,
+    "wof:lastmodified":1466495484,
     "wof:name":"Conference Direct",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-87.798148,41.908189,-87.798148,41.908189],
+  "bbox": [
+    -87.798148,
+    41.908189,
+    -87.798148,
+    41.908189
+],
   "geometry": {"coordinates":[-87.798148,41.908189],"type":"Point"}
 }

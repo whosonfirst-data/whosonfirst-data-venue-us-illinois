@@ -2,13 +2,14 @@
   "id": 253730645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.031447,42.270776,-89.031447,42.270776",
     "geom:latitude":42.270776,
     "geom:longitude":-89.031447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 Eastridge Dr",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253730645,
-    "wof:lastmodified":1449065287,
+    "wof:lastmodified":1466497757,
     "wof:name":"Entertainment",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-89.031447,42.270776,-89.031447,42.270776],
+  "bbox": [
+    -89.031447,
+    42.270776,
+    -89.031447,
+    42.270776
+],
   "geometry": {"coordinates":[-89.031447,42.270776],"type":"Point"}
 }

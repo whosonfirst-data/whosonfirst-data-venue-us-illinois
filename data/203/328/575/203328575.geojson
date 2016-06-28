@@ -2,13 +2,14 @@
   "id": 203328575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.934559,41.235811,-89.934559,41.235811",
     "geom:latitude":41.235811,
     "geom:longitude":-89.934559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Pine St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203328575,
-    "wof:lastmodified":1449026059,
+    "wof:lastmodified":1466490776,
     "wof:name":"Midwest Kidney Kewanee Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-89.934559,41.235811,-89.934559,41.235811],
-  "geometry": {"coordinates":[-89.934559,41.235811],"type":"Point"}
+  "bbox": [
+    -89.934559,
+    41.235811,
+    -89.934559,
+    41.235811
+],
+  "geometry": {"coordinates":[-89.93455899999999,41.235811],"type":"Point"}
 }

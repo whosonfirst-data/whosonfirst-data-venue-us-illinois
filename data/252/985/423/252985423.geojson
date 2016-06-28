@@ -2,13 +2,14 @@
   "id": 252985423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.831286,42.001663,-87.831286,42.001663",
     "geom:latitude":42.001663,
     "geom:longitude":-87.831286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Courtland Ave",
     "sg:city":"Park Ridge",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252985423,
-    "wof:lastmodified":1449005955,
+    "wof:lastmodified":1466492586,
     "wof:name":"La Ola Ltd",
     "wof:parent_id":85867583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.831286,42.001663,-87.831286,42.001663],
-  "geometry": {"coordinates":[-87.831286,42.001663],"type":"Point"}
+  "bbox": [
+    -87.831286,
+    42.001663,
+    -87.831286,
+    42.001663
+],
+  "geometry": {"coordinates":[-87.83128600000001,42.001663],"type":"Point"}
 }

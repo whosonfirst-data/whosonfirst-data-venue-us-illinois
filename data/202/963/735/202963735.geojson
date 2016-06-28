@@ -2,13 +2,14 @@
   "id": 202963735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.8061,39.605599,-90.8061,39.605599",
     "geom:latitude":39.605599,
     "geom:longitude":-90.8061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Madison St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202963735,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466493939,
     "wof:name":"Wade Real Estate",
     "wof:parent_id":85851445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.8061,39.605599,-90.8061,39.605599],
+  "bbox": [
+    -90.8061,
+    39.605599,
+    -90.8061,
+    39.605599
+],
   "geometry": {"coordinates":[-90.8061,39.605599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840111,40.530069,-87.840111,40.530069",
     "geom:latitude":40.530069,
     "geom:longitude":-87.840111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 N 1500 East Rd",
     "sg:city":"Cissna Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203100549,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466494786,
     "wof:name":"Perfume Acres Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.840111,40.530069,-87.840111,40.530069],
-  "geometry": {"coordinates":[-87.840111,40.530069],"type":"Point"}
+  "bbox": [
+    -87.840111,
+    40.530069,
+    -87.840111,
+    40.530069
+],
+  "geometry": {"coordinates":[-87.84011099999999,40.530069],"type":"Point"}
 }

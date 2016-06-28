@@ -2,13 +2,14 @@
   "id": 220063429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850352,42.039616,-87.850352,42.039616",
     "geom:latitude":42.039616,
     "geom:longitude":-87.850352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Dempster St",
     "sg:city":"Park Ridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220063429,
-    "wof:lastmodified":1449074099,
+    "wof:lastmodified":1466489728,
     "wof:name":"Midwest Diagnstc Pathology SC",
     "wof:parent_id":85867583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pathologist"
     ]
 },
-  "bbox": [-87.850352,42.039616,-87.850352,42.039616],
+  "bbox": [
+    -87.850352,
+    42.039616,
+    -87.850352,
+    42.039616
+],
   "geometry": {"coordinates":[-87.850352,42.039616],"type":"Point"}
 }

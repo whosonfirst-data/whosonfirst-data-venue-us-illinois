@@ -2,13 +2,14 @@
   "id": 202463593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.056292,41.765209,-88.056292,41.765209",
     "geom:latitude":41.765209,
     "geom:longitude":-88.056292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Hobson Rd",
     "sg:city":"Woodridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202463593,
-    "wof:lastmodified":1449061857,
+    "wof:lastmodified":1466494525,
     "wof:name":"AKRD Garage Door Svc",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-88.056292,41.765209,-88.056292,41.765209],
+  "bbox": [
+    -88.056292,
+    41.765209,
+    -88.056292,
+    41.765209
+],
   "geometry": {"coordinates":[-88.056292,41.765209],"type":"Point"}
 }

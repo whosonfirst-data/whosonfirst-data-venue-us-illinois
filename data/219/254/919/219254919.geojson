@@ -2,13 +2,14 @@
   "id": 219254919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958119,40.035993,-87.958119,40.035993",
     "geom:latitude":40.035993,
     "geom:longitude":-87.958119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Main St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219254919,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466490151,
     "wof:name":"Homer Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.958119,40.035993,-87.958119,40.035993],
+  "bbox": [
+    -87.958119,
+    40.035993,
+    -87.958119,
+    40.035993
+],
   "geometry": {"coordinates":[-87.958119,40.035993],"type":"Point"}
 }

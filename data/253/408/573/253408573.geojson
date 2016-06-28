@@ -2,13 +2,14 @@
   "id": 253408573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.377919,40.54979,-91.377919,40.54979",
     "geom:latitude":40.54979,
     "geom:longitude":-91.377919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Mulholland St",
     "sg:city":"Nauvoo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253408573,
-    "wof:lastmodified":1449063189,
+    "wof:lastmodified":1466494375,
     "wof:name":"Hancock County Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.377919,40.54979,-91.377919,40.54979],
-  "geometry": {"coordinates":[-91.377919,40.54979],"type":"Point"}
+  "bbox": [
+    -91.377919,
+    40.54979,
+    -91.377919,
+    40.54979
+],
+  "geometry": {"coordinates":[-91.37791900000001,40.54979],"type":"Point"}
 }

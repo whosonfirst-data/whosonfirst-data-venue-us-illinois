@@ -2,13 +2,14 @@
   "id": 219520147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572564,41.761553,-87.572564,41.761553",
     "geom:latitude":41.761553,
     "geom:longitude":-87.572564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7344 S Merrill Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219520147,
-    "wof:lastmodified":1449071560,
+    "wof:lastmodified":1466493415,
     "wof:name":"G Dehaas & Assocs Production",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.572564,41.761553,-87.572564,41.761553],
+  "bbox": [
+    -87.572564,
+    41.761553,
+    -87.572564,
+    41.761553
+],
   "geometry": {"coordinates":[-87.572564,41.761553],"type":"Point"}
 }

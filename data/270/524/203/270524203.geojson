@@ -2,13 +2,14 @@
   "id": 270524203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255681,41.727385,-88.255681,41.727385",
     "geom:latitude":41.727385,
     "geom:longitude":-88.255681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Cumberland Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270524203,
-    "wof:lastmodified":1449008647,
+    "wof:lastmodified":1466496520,
     "wof:name":"Alpine Carpentry",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-88.255681,41.727385,-88.255681,41.727385],
+  "bbox": [
+    -88.255681,
+    41.727385,
+    -88.255681,
+    41.727385
+],
   "geometry": {"coordinates":[-88.255681,41.727385],"type":"Point"}
 }

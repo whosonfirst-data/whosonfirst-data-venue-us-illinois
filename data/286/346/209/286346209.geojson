@@ -2,13 +2,14 @@
   "id": 286346209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.02267,38.543126,-90.02267,38.543126",
     "geom:latitude":38.543126,
     "geom:longitude":-90.02267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Bellevue Park Plz",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286346209,
-    "wof:lastmodified":1449015150,
+    "wof:lastmodified":1466491120,
     "wof:name":"Sappington Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-90.02267,38.543126,-90.02267,38.543126],
-  "geometry": {"coordinates":[-90.02267,38.543126],"type":"Point"}
+  "bbox": [
+    -90.02267,
+    38.543126,
+    -90.02267,
+    38.543126
+],
+  "geometry": {"coordinates":[-90.02267000000001,38.543126],"type":"Point"}
 }

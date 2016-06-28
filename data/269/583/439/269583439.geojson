@@ -2,13 +2,14 @@
   "id": 269583439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.228992,39.747769,-90.228992,39.747769",
     "geom:latitude":39.747769,
     "geom:longitude":-90.228992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269583439,
-    "wof:lastmodified":1449038315,
+    "wof:lastmodified":1466490561,
     "wof:name":"Sport City Of Jacksonville Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-90.228992,39.747769,-90.228992,39.747769],
-  "geometry": {"coordinates":[-90.228992,39.747769],"type":"Point"}
+  "bbox": [
+    -90.228992,
+    39.747769,
+    -90.228992,
+    39.747769
+],
+  "geometry": {"coordinates":[-90.22899200000001,39.747769],"type":"Point"}
 }

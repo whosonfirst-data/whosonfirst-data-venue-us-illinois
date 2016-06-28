@@ -2,13 +2,14 @@
   "id": 337450963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670994,41.942879,-87.670994,41.942879",
     "geom:latitude":41.942879,
     "geom:longitude":-87.670994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337450963,
-    "wof:lastmodified":1449027613,
+    "wof:lastmodified":1466492345,
     "wof:name":"Graefen Thomas MD",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.670994,41.942879,-87.670994,41.942879],
-  "geometry": {"coordinates":[-87.670994,41.942879],"type":"Point"}
+  "bbox": [
+    -87.670994,
+    41.942879,
+    -87.670994,
+    41.942879
+],
+  "geometry": {"coordinates":[-87.67099399999999,41.942879],"type":"Point"}
 }

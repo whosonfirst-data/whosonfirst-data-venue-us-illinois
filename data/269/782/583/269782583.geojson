@@ -2,13 +2,14 @@
   "id": 269782583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865051,41.467262,-87.865051,41.467262",
     "geom:latitude":41.467262,
     "geom:longitude":-87.865051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23360 S 104th Ave",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269782583,
-    "wof:lastmodified":1449036138,
+    "wof:lastmodified":1466493748,
     "wof:name":"Roger Rainford",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.865051,41.467262,-87.865051,41.467262],
-  "geometry": {"coordinates":[-87.865051,41.467262],"type":"Point"}
+  "bbox": [
+    -87.865051,
+    41.467262,
+    -87.865051,
+    41.467262
+],
+  "geometry": {"coordinates":[-87.86505099999999,41.467262],"type":"Point"}
 }

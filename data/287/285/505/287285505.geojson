@@ -2,13 +2,14 @@
   "id": 287285505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.54779,39.090661,-88.54779,39.090661",
     "geom:latitude":39.090661,
     "geom:longitude":-88.54779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 S Banker St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287285505,
-    "wof:lastmodified":1449000698,
+    "wof:lastmodified":1466494517,
     "wof:name":"Mahdurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.54779,39.090661,-88.54779,39.090661],
-  "geometry": {"coordinates":[-88.54779,39.090661],"type":"Point"}
+  "bbox": [
+    -88.54779,
+    39.090661,
+    -88.54779,
+    39.090661
+],
+  "geometry": {"coordinates":[-88.54779000000001,39.090661],"type":"Point"}
 }

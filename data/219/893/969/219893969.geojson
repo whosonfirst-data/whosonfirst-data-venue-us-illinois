@@ -2,13 +2,14 @@
   "id": 219893969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.592672,40.14343,-87.592672,40.14343",
     "geom:latitude":40.14343,
     "geom:longitude":-87.592672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Beechwood Dr",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219893969,
-    "wof:lastmodified":1449073257,
+    "wof:lastmodified":1466497083,
     "wof:name":"Community Room",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.592672,40.14343,-87.592672,40.14343],
-  "geometry": {"coordinates":[-87.592672,40.14343],"type":"Point"}
+  "bbox": [
+    -87.592672,
+    40.14343,
+    -87.592672,
+    40.14343
+],
+  "geometry": {"coordinates":[-87.59267199999999,40.14343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220018111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.946861,40.076225,-87.946861,40.076225",
     "geom:latitude":40.076225,
     "geom:longitude":-87.946861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2769 Co Rd 1350 N",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220018111,
-    "wof:lastmodified":1449074442,
+    "wof:lastmodified":1466489167,
     "wof:name":"Clark Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.946861,40.076225,-87.946861,40.076225],
+  "bbox": [
+    -87.946861,
+    40.076225,
+    -87.946861,
+    40.076225
+],
   "geometry": {"coordinates":[-87.946861,40.076225],"type":"Point"}
 }

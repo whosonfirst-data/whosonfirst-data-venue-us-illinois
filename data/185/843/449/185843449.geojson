@@ -2,13 +2,14 @@
   "id": 185843449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.59404,40.101891,-89.59404,40.101891",
     "geom:latitude":40.101891,
     "geom:longitude":-89.59404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Anson St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185843449,
-    "wof:lastmodified":1449006748,
+    "wof:lastmodified":1466489293,
     "wof:name":"American Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "academic"
     ]
 },
-  "bbox": [-89.59404,40.101891,-89.59404,40.101891],
-  "geometry": {"coordinates":[-89.59404,40.101891],"type":"Point"}
+  "bbox": [
+    -89.59404,
+    40.101891,
+    -89.59404,
+    40.101891
+],
+  "geometry": {"coordinates":[-89.59404000000001,40.101891],"type":"Point"}
 }

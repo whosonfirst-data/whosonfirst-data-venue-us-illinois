@@ -2,13 +2,14 @@
   "id": 202814193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.572727,40.024024,-88.572727,40.024024",
     "geom:latitude":40.024024,
     "geom:longitude":-88.572727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Lafayette St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202814193,
-    "wof:lastmodified":1449060569,
+    "wof:lastmodified":1466492122,
     "wof:name":"Community Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.572727,40.024024,-88.572727,40.024024],
+  "bbox": [
+    -88.572727,
+    40.024024,
+    -88.572727,
+    40.024024
+],
   "geometry": {"coordinates":[-88.572727,40.024024],"type":"Point"}
 }

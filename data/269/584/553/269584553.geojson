@@ -2,13 +2,14 @@
   "id": 269584553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.199373,38.44262,-90.199373,38.44262",
     "geom:latitude":38.44262,
     "geom:longitude":-90.199373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269584553,
-    "wof:lastmodified":1449036403,
+    "wof:lastmodified":1466490578,
     "wof:name":"Bon Vivant Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-90.199373,38.44262,-90.199373,38.44262],
-  "geometry": {"coordinates":[-90.199373,38.44262],"type":"Point"}
+  "bbox": [
+    -90.199373,
+    38.44262,
+    -90.199373,
+    38.44262
+],
+  "geometry": {"coordinates":[-90.19937299999999,38.44262],"type":"Point"}
 }

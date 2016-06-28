@@ -2,13 +2,14 @@
   "id": 202826909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.57629,41.765684,-87.57629,41.765684",
     "geom:latitude":41.765684,
     "geom:longitude":-87.57629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 S Jeffery Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202826909,
-    "wof:lastmodified":1449061944,
+    "wof:lastmodified":1466492282,
     "wof:name":"Seasons Best",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-87.57629,41.765684,-87.57629,41.765684],
+  "bbox": [
+    -87.57629,
+    41.765684,
+    -87.57629,
+    41.765684
+],
   "geometry": {"coordinates":[-87.57629,41.765684],"type":"Point"}
 }

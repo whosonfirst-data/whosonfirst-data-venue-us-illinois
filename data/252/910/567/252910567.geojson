@@ -2,13 +2,14 @@
   "id": 252910567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76645,41.588259,-87.76645,41.588259",
     "geom:latitude":41.588259,
     "geom:longitude":-87.76645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16651 Fulton Ter",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252910567,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1466491582,
     "wof:name":"L & N Trucking",
     "wof:parent_id":85890953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.76645,41.588259,-87.76645,41.588259],
-  "geometry": {"coordinates":[-87.76645,41.588259],"type":"Point"}
+  "bbox": [
+    -87.76645,
+    41.588259,
+    -87.76645,
+    41.588259
+],
+  "geometry": {"coordinates":[-87.76645000000001,41.588259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202529195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.272038,40.144222,-88.272038,40.144222",
     "geom:latitude":40.144222,
     "geom:longitude":-88.272038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Queens Way",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202529195,
-    "wof:lastmodified":1449061233,
+    "wof:lastmodified":1466495524,
     "wof:name":"Colonic Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.272038,40.144222,-88.272038,40.144222],
-  "geometry": {"coordinates":[-88.272038,40.144222],"type":"Point"}
+  "bbox": [
+    -88.272038,
+    40.144222,
+    -88.272038,
+    40.144222
+],
+  "geometry": {"coordinates":[-88.27203799999999,40.144222],"type":"Point"}
 }

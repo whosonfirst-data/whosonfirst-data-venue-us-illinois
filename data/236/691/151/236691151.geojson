@@ -2,13 +2,14 @@
   "id": 236691151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.546399,41.497329,-90.546399,41.497329",
     "geom:latitude":41.497329,
     "geom:longitude":-90.546399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 14th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236691151,
-    "wof:lastmodified":1449001877,
+    "wof:lastmodified":1466497023,
     "wof:name":"A & M Automotive",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-90.546399,41.497329,-90.546399,41.497329],
-  "geometry": {"coordinates":[-90.546399,41.497329],"type":"Point"}
+  "bbox": [
+    -90.546399,
+    41.497329,
+    -90.546399,
+    41.497329
+],
+  "geometry": {"coordinates":[-90.54639899999999,41.497329],"type":"Point"}
 }

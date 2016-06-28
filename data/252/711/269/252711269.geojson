@@ -2,13 +2,14 @@
   "id": 252711269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.29368,42.070949,-88.29368,42.070949",
     "geom:latitude":42.070949,
     "geom:longitude":-88.29368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Tollgate Rd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252711269,
-    "wof:lastmodified":1449006310,
+    "wof:lastmodified":1466489035,
     "wof:name":"Jimmy John's Enterprise",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-88.29368,42.070949,-88.29368,42.070949],
-  "geometry": {"coordinates":[-88.29368,42.070949],"type":"Point"}
+  "bbox": [
+    -88.29368,
+    42.070949,
+    -88.29368,
+    42.070949
+],
+  "geometry": {"coordinates":[-88.29367999999999,42.070949],"type":"Point"}
 }

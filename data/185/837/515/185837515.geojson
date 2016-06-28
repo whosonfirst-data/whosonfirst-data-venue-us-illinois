@@ -2,13 +2,14 @@
   "id": 185837515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.363228,40.148689,-89.363228,40.148689",
     "geom:latitude":40.148689,
     "geom:longitude":-89.363228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Sangamon St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185837515,
-    "wof:lastmodified":1449006865,
+    "wof:lastmodified":1466489258,
     "wof:name":"Bode's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-89.363228,40.148689,-89.363228,40.148689],
-  "geometry": {"coordinates":[-89.363228,40.148689],"type":"Point"}
+  "bbox": [
+    -89.363228,
+    40.148689,
+    -89.363228,
+    40.148689
+],
+  "geometry": {"coordinates":[-89.36322800000001,40.148689],"type":"Point"}
 }

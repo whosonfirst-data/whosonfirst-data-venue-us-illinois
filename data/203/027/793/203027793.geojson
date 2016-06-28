@@ -2,13 +2,14 @@
   "id": 203027793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886025,42.218221,-87.886025,42.218221",
     "geom:latitude":42.218221,
     "geom:longitude":-87.886025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Estate Ln",
     "sg:city":"Lake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203027793,
-    "wof:lastmodified":1449025288,
+    "wof:lastmodified":1466493082,
     "wof:name":"Schmidt Architectural Iron",
     "wof:parent_id":85855787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "iron"
     ]
 },
-  "bbox": [-87.886025,42.218221,-87.886025,42.218221],
+  "bbox": [
+    -87.886025,
+    42.218221,
+    -87.886025,
+    42.218221
+],
   "geometry": {"coordinates":[-87.886025,42.218221],"type":"Point"}
 }

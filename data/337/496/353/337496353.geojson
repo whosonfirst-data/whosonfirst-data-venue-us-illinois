@@ -2,13 +2,14 @@
   "id": 337496353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.757387,41.960599,-87.757387,41.960599",
     "geom:latitude":41.960599,
     "geom:longitude":-87.757387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5128 W Montrose Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337496353,
-    "wof:lastmodified":1449027617,
+    "wof:lastmodified":1466492502,
     "wof:name":"Bernard Movers Inc",
     "wof:parent_id":85867691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-87.757387,41.960599,-87.757387,41.960599],
-  "geometry": {"coordinates":[-87.757387,41.960599],"type":"Point"}
+  "bbox": [
+    -87.757387,
+    41.960599,
+    -87.757387,
+    41.960599
+],
+  "geometry": {"coordinates":[-87.75738699999999,41.960599],"type":"Point"}
 }

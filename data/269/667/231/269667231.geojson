@@ -2,13 +2,14 @@
   "id": 269667231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.549791,39.951875,-89.549791,39.951875",
     "geom:latitude":39.951875,
     "geom:longitude":-89.549791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Jones St",
     "sg:city":"Williamsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269667231,
-    "wof:lastmodified":1449037689,
+    "wof:lastmodified":1466491878,
     "wof:name":"Williamsville United Methodist",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.549791,39.951875,-89.549791,39.951875],
+  "bbox": [
+    -89.549791,
+    39.951875,
+    -89.549791,
+    39.951875
+],
   "geometry": {"coordinates":[-89.549791,39.951875],"type":"Point"}
 }

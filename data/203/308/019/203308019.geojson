@@ -2,13 +2,14 @@
   "id": 203308019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.471847,41.471539,-90.471847,41.471539",
     "geom:latitude":41.471539,
     "geom:longitude":-90.471847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 38th Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203308019,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466490561,
     "wof:name":"City of Moline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-90.471847,41.471539,-90.471847,41.471539],
+  "bbox": [
+    -90.471847,
+    41.471539,
+    -90.471847,
+    41.471539
+],
   "geometry": {"coordinates":[-90.471847,41.471539],"type":"Point"}
 }

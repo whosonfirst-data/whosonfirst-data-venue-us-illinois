@@ -2,13 +2,14 @@
   "id": 236248231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.843775,41.877955,-87.843775,41.877955",
     "geom:latitude":41.877955,
     "geom:longitude":-87.843775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S 9th Ave",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236248231,
-    "wof:lastmodified":1449003473,
+    "wof:lastmodified":1466492085,
     "wof:name":"Grocery Basket",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.843775,41.877955,-87.843775,41.877955],
-  "geometry": {"coordinates":[-87.843775,41.877955],"type":"Point"}
+  "bbox": [
+    -87.843775,
+    41.877955,
+    -87.843775,
+    41.877955
+],
+  "geometry": {"coordinates":[-87.84377499999999,41.877955],"type":"Point"}
 }

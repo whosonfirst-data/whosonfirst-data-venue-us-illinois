@@ -2,13 +2,14 @@
   "id": 219244297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.532288,41.567311,-87.532288,41.567311",
     "geom:latitude":41.567311,
     "geom:longitude":-87.532288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3406 Washington St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219244297,
-    "wof:lastmodified":1449071791,
+    "wof:lastmodified":1466490027,
     "wof:name":"Reynolds Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "heating"
     ]
 },
-  "bbox": [-87.532288,41.567311,-87.532288,41.567311],
-  "geometry": {"coordinates":[-87.532288,41.567311],"type":"Point"}
+  "bbox": [
+    -87.532288,
+    41.567311,
+    -87.532288,
+    41.567311
+],
+  "geometry": {"coordinates":[-87.53228799999999,41.567311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287125483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.023496,41.62564,-88.023496,41.62564",
     "geom:latitude":41.62564,
     "geom:longitude":-88.023496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14401 Archer Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287125483,
-    "wof:lastmodified":1449001556,
+    "wof:lastmodified":1466491988,
     "wof:name":"Network One Communications",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.023496,41.62564,-88.023496,41.62564],
-  "geometry": {"coordinates":[-88.023496,41.62564],"type":"Point"}
+  "bbox": [
+    -88.023496,
+    41.62564,
+    -88.023496,
+    41.62564
+],
+  "geometry": {"coordinates":[-88.02349599999999,41.62564],"type":"Point"}
 }

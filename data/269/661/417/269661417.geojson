@@ -2,13 +2,14 @@
   "id": 269661417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.46305,39.714689,-88.46305,39.714689",
     "geom:latitude":39.714689,
     "geom:longitude":-88.46305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Park St",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269661417,
-    "wof:lastmodified":1449038717,
+    "wof:lastmodified":1466491790,
     "wof:name":"Arthur Bourbon Lowe Cemeteries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-88.46305,39.714689,-88.46305,39.714689],
+  "bbox": [
+    -88.46305,
+    39.714689,
+    -88.46305,
+    39.714689
+],
   "geometry": {"coordinates":[-88.46305,39.714689],"type":"Point"}
 }

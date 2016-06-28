@@ -2,13 +2,14 @@
   "id": 219776503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.123845,41.624255,-88.123845,41.624255",
     "geom:latitude":41.624255,
     "geom:longitude":-88.123845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 S Weber Rd",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219776503,
-    "wof:lastmodified":1449071168,
+    "wof:lastmodified":1466496220,
     "wof:name":"Helsel Tree Farm",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-88.123845,41.624255,-88.123845,41.624255],
+  "bbox": [
+    -88.123845,
+    41.624255,
+    -88.123845,
+    41.624255
+],
   "geometry": {"coordinates":[-88.123845,41.624255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270467603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.301291,41.190678,-88.301291,41.190678",
     "geom:latitude":41.190678,
     "geom:longitude":-88.301291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S State Rte 53",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270467603,
-    "wof:lastmodified":1449010537,
+    "wof:lastmodified":1466496187,
     "wof:name":"J & R Svc Ctr",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.301291,41.190678,-88.301291,41.190678],
-  "geometry": {"coordinates":[-88.301291,41.190678],"type":"Point"}
+  "bbox": [
+    -88.301291,
+    41.190678,
+    -88.301291,
+    41.190678
+],
+  "geometry": {"coordinates":[-88.30129100000001,41.190678],"type":"Point"}
 }

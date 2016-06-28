@@ -2,13 +2,14 @@
   "id": 253609375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962633,42.241772,-87.962633,42.241772",
     "geom:latitude":42.241772,
     "geom:longitude":-87.962633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Hawthorn Pkwy",
     "sg:city":"Vernon Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253609375,
-    "wof:lastmodified":1449063932,
+    "wof:lastmodified":1466496914,
     "wof:name":"Hawthorne Lakes",
     "wof:parent_id":85890955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.962633,42.241772,-87.962633,42.241772],
+  "bbox": [
+    -87.962633,
+    42.241772,
+    -87.962633,
+    42.241772
+],
   "geometry": {"coordinates":[-87.962633,42.241772],"type":"Point"}
 }

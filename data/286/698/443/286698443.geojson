@@ -2,13 +2,14 @@
   "id": 286698443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111751,42.203369,-88.111751,42.203369",
     "geom:latitude":42.203369,
     "geom:longitude":-88.111751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N Rand Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286698443,
-    "wof:lastmodified":1449017912,
+    "wof:lastmodified":1466496403,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85867895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.111751,42.203369,-88.111751,42.203369],
+  "bbox": [
+    -88.111751,
+    42.203369,
+    -88.111751,
+    42.203369
+],
   "geometry": {"coordinates":[-88.111751,42.203369],"type":"Point"}
 }

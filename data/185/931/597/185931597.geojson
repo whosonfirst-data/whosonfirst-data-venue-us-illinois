@@ -2,13 +2,14 @@
   "id": 185931597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.120798,38.615389,-89.120798,38.615389",
     "geom:latitude":38.615389,
     "geom:longitude":-89.120798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Sandoval",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185931597,
-    "wof:lastmodified":1449008073,
+    "wof:lastmodified":1466490146,
     "wof:name":"Bill's Breakfast Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-89.120798,38.615389,-89.120798,38.615389],
-  "geometry": {"coordinates":[-89.120798,38.615389],"type":"Point"}
+  "bbox": [
+    -89.120798,
+    38.615389,
+    -89.120798,
+    38.615389
+],
+  "geometry": {"coordinates":[-89.12079799999999,38.615389],"type":"Point"}
 }

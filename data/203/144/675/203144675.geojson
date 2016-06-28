@@ -2,13 +2,14 @@
   "id": 203144675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.815379,41.775163,-87.815379,41.775163",
     "geom:latitude":41.775163,
     "geom:longitude":-87.815379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 S Archer Rd",
     "sg:city":"Summit Argo",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203144675,
-    "wof:lastmodified":1449026361,
+    "wof:lastmodified":1466495439,
     "wof:name":"Donlar Corp",
     "wof:parent_id":85811257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-87.815379,41.775163,-87.815379,41.775163],
-  "geometry": {"coordinates":[-87.815379,41.775163],"type":"Point"}
+  "bbox": [
+    -87.815379,
+    41.775163,
+    -87.815379,
+    41.775163
+],
+  "geometry": {"coordinates":[-87.81537899999999,41.775163],"type":"Point"}
 }

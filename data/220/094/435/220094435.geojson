@@ -2,13 +2,14 @@
   "id": 220094435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.99031,38.592827,-89.99031,38.592827",
     "geom:latitude":38.592827,
     "geom:longitude":-89.99031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 Lincoln Trl",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220094435,
-    "wof:lastmodified":1449074550,
+    "wof:lastmodified":1466490105,
     "wof:name":"Sarah Colony",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-89.99031,38.592827,-89.99031,38.592827],
-  "geometry": {"coordinates":[-89.99031,38.592827],"type":"Point"}
+  "bbox": [
+    -89.99031,
+    38.592827,
+    -89.99031,
+    38.592827
+],
+  "geometry": {"coordinates":[-89.99030999999999,38.592827],"type":"Point"}
 }

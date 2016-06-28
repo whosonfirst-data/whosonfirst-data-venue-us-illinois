@@ -2,13 +2,14 @@
   "id": 219413185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.345993,41.711107,-88.345993,41.711107",
     "geom:latitude":41.711107,
     "geom:longitude":-88.345993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Garden Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219413185,
-    "wof:lastmodified":1449070946,
+    "wof:lastmodified":1466492130,
     "wof:name":"Boulder Hl Grdn Hmeowners Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.345993,41.711107,-88.345993,41.711107],
-  "geometry": {"coordinates":[-88.345993,41.711107],"type":"Point"}
+  "bbox": [
+    -88.345993,
+    41.711107,
+    -88.345993,
+    41.711107
+],
+  "geometry": {"coordinates":[-88.34599300000001,41.711107],"type":"Point"}
 }

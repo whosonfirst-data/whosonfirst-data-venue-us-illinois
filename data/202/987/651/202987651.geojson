@@ -2,13 +2,14 @@
   "id": 202987651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.02993,40.289709,-90.02993,40.289709",
     "geom:latitude":40.289709,
     "geom:longitude":-90.02993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17550 E Co Rd 1600N",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202987651,
-    "wof:lastmodified":1449061524,
+    "wof:lastmodified":1466494223,
     "wof:name":"Phelcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.02993,40.289709,-90.02993,40.289709],
-  "geometry": {"coordinates":[-90.02993,40.289709],"type":"Point"}
+  "bbox": [
+    -90.02993,
+    40.289709,
+    -90.02993,
+    40.289709
+],
+  "geometry": {"coordinates":[-90.02992999999999,40.289709],"type":"Point"}
 }

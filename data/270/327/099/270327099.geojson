@@ -2,13 +2,14 @@
   "id": 270327099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980129,41.587113,-87.980129,41.587113",
     "geom:latitude":41.587113,
     "geom:longitude":-87.980129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16516 S Windsor Ln",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270327099,
-    "wof:lastmodified":1449008830,
+    "wof:lastmodified":1466494006,
     "wof:name":"MJM Sedans & Limos",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.980129,41.587113,-87.980129,41.587113],
-  "geometry": {"coordinates":[-87.980129,41.587113],"type":"Point"}
+  "bbox": [
+    -87.980129,
+    41.587113,
+    -87.980129,
+    41.587113
+],
+  "geometry": {"coordinates":[-87.98012900000001,41.587113],"type":"Point"}
 }

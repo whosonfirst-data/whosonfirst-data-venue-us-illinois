@@ -2,13 +2,14 @@
   "id": 287092847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.780761,41.881846,-87.780761,41.881846",
     "geom:latitude":41.881846,
     "geom:longitude":-87.780761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Washington Blvd",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287092847,
-    "wof:lastmodified":1449001391,
+    "wof:lastmodified":1466491452,
     "wof:name":"Carolina Distribution",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-87.780761,41.881846,-87.780761,41.881846],
+  "bbox": [
+    -87.780761,
+    41.881846,
+    -87.780761,
+    41.881846
+],
   "geometry": {"coordinates":[-87.780761,41.881846],"type":"Point"}
 }

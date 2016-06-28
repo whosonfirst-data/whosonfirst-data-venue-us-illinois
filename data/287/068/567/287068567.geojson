@@ -2,13 +2,14 @@
   "id": 287068567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.682364,40.841259,-89.682364,40.841259",
     "geom:latitude":40.841259,
     "geom:longitude":-89.682364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5725 W Salem School Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287068567,
-    "wof:lastmodified":1449001118,
+    "wof:lastmodified":1466491059,
     "wof:name":"Roy Thorne Well Drilling",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-89.682364,40.841259,-89.682364,40.841259],
-  "geometry": {"coordinates":[-89.682364,40.841259],"type":"Point"}
+  "bbox": [
+    -89.682364,
+    40.841259,
+    -89.682364,
+    40.841259
+],
+  "geometry": {"coordinates":[-89.68236400000001,40.841259],"type":"Point"}
 }

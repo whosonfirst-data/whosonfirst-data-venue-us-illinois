@@ -2,13 +2,14 @@
   "id": 286441665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.707247,41.923311,-87.707247,41.923311",
     "geom:latitude":41.923311,
     "geom:longitude":-87.707247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 N Kedzie Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286441665,
-    "wof:lastmodified":1449015403,
+    "wof:lastmodified":1466492619,
     "wof:name":"Boulevard Manor",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.707247,41.923311,-87.707247,41.923311],
+  "bbox": [
+    -87.707247,
+    41.923311,
+    -87.707247,
+    41.923311
+],
   "geometry": {"coordinates":[-87.707247,41.923311],"type":"Point"}
 }

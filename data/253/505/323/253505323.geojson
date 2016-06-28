@@ -2,13 +2,14 @@
   "id": 253505323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927183,41.511067,-87.927183,41.511067",
     "geom:latitude":41.511067,
     "geom:longitude":-87.927183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20700 S Schoolhouse Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253505323,
-    "wof:lastmodified":1449065282,
+    "wof:lastmodified":1466495800,
     "wof:name":"Lincoln Way Area Spec Ed Dist",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "administrative"
     ]
 },
-  "bbox": [-87.927183,41.511067,-87.927183,41.511067],
+  "bbox": [
+    -87.927183,
+    41.511067,
+    -87.927183,
+    41.511067
+],
   "geometry": {"coordinates":[-87.927183,41.511067],"type":"Point"}
 }

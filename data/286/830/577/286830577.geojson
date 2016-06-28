@@ -2,13 +2,14 @@
   "id": 286830577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.756019,42.04141,-87.756019,42.04141",
     "geom:latitude":42.04141,
     "geom:longitude":-87.756019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8804 Gross Point Rd",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286830577,
-    "wof:lastmodified":1449015795,
+    "wof:lastmodified":1466497766,
     "wof:name":"Banc Trust",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.756019,42.04141,-87.756019,42.04141],
-  "geometry": {"coordinates":[-87.756019,42.04141],"type":"Point"}
+  "bbox": [
+    -87.756019,
+    42.04141,
+    -87.756019,
+    42.04141
+],
+  "geometry": {"coordinates":[-87.75601899999999,42.04141],"type":"Point"}
 }

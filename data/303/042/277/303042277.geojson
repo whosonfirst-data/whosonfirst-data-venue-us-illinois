@@ -2,13 +2,14 @@
   "id": 303042277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.923313,41.244418,-89.923313,41.244418",
     "geom:latitude":41.244418,
     "geom:longitude":-89.923313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Burr Blvd",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303042277,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466490510,
     "wof:name":"Save A Lot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.923313,41.244418,-89.923313,41.244418],
-  "geometry": {"coordinates":[-89.923313,41.244418],"type":"Point"}
+  "bbox": [
+    -89.923313,
+    41.244418,
+    -89.923313,
+    41.244418
+],
+  "geometry": {"coordinates":[-89.92331299999999,41.244418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202612053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.955581,38.624488,-88.955581,38.624488",
     "geom:latitude":38.624488,
     "geom:longitude":-88.955581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Elm St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202612053,
-    "wof:lastmodified":1449061243,
+    "wof:lastmodified":1466489802,
     "wof:name":"Marion County Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.955581,38.624488,-88.955581,38.624488],
+  "bbox": [
+    -88.955581,
+    38.624488,
+    -88.955581,
+    38.624488
+],
   "geometry": {"coordinates":[-88.955581,38.624488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202426985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.098588,41.767272,-88.098588,41.767272",
     "geom:latitude":41.767272,
     "geom:longitude":-88.098588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6468 College Rd",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202426985,
-    "wof:lastmodified":1449060661,
+    "wof:lastmodified":1466493724,
     "wof:name":"Edward Jones 06190",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.098588,41.767272,-88.098588,41.767272],
-  "geometry": {"coordinates":[-88.098588,41.767272],"type":"Point"}
+  "bbox": [
+    -88.098588,
+    41.767272,
+    -88.098588,
+    41.767272
+],
+  "geometry": {"coordinates":[-88.09858800000001,41.767272],"type":"Point"}
 }

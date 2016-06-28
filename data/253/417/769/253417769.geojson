@@ -2,13 +2,14 @@
   "id": 253417769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737192,41.748518,-87.737192,41.748518",
     "geom:latitude":41.748518,
     "geom:longitude":-87.737192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8030 S Kilpatrick Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253417769,
-    "wof:lastmodified":1449064036,
+    "wof:lastmodified":1466494519,
     "wof:name":"Mayster Electric Svc",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.737192,41.748518,-87.737192,41.748518],
-  "geometry": {"coordinates":[-87.737192,41.748518],"type":"Point"}
+  "bbox": [
+    -87.737192,
+    41.748518,
+    -87.737192,
+    41.748518
+],
+  "geometry": {"coordinates":[-87.73719199999999,41.748518],"type":"Point"}
 }

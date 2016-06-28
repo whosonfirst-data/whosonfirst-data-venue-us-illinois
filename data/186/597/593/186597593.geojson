@@ -2,13 +2,14 @@
   "id": 186597593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979607,41.497309,-87.979607,41.497309",
     "geom:latitude":41.497309,
     "geom:longitude":-87.979607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13955 W Illinois Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186597593,
-    "wof:lastmodified":1449053004,
+    "wof:lastmodified":1466489389,
     "wof:name":"Direct Fasteners",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-87.979607,41.497309,-87.979607,41.497309],
+  "bbox": [
+    -87.979607,
+    41.497309,
+    -87.979607,
+    41.497309
+],
   "geometry": {"coordinates":[-87.979607,41.497309],"type":"Point"}
 }

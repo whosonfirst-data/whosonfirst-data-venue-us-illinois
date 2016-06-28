@@ -2,13 +2,14 @@
   "id": 202704879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.02715,42.066913,-88.02715,42.066913",
     "geom:latitude":42.066913,
     "geom:longitude":-88.02715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 E Frontage Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704879,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466490859,
     "wof:name":"Mr Taxi Inc American Tax",
     "wof:parent_id":85867819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-88.02715,42.066913,-88.02715,42.066913],
-  "geometry": {"coordinates":[-88.02715,42.066913],"type":"Point"}
+  "bbox": [
+    -88.02715,
+    42.066913,
+    -88.02715,
+    42.066913
+],
+  "geometry": {"coordinates":[-88.02715000000001,42.066913],"type":"Point"}
 }

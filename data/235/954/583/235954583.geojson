@@ -2,13 +2,14 @@
   "id": 235954583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.712702,40.011247,-88.712702,40.011247",
     "geom:latitude":40.011247,
     "geom:longitude":-88.712702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 E 1500 North Rd",
     "sg:city":"Cisco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":235954583,
-    "wof:lastmodified":1449008562,
+    "wof:lastmodified":1466489238,
     "wof:name":"Jacobs Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.712702,40.011247,-88.712702,40.011247],
-  "geometry": {"coordinates":[-88.712702,40.011247],"type":"Point"}
+  "bbox": [
+    -88.712702,
+    40.011247,
+    -88.712702,
+    40.011247
+],
+  "geometry": {"coordinates":[-88.71270199999999,40.011247],"type":"Point"}
 }

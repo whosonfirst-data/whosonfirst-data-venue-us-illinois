@@ -2,13 +2,14 @@
   "id": 219186097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.738662,41.901946,-87.738662,41.901946",
     "geom:latitude":41.901946,
     "geom:longitude":-87.738662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 N Kilbourn Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219186097,
-    "wof:lastmodified":1449073165,
+    "wof:lastmodified":1466489319,
     "wof:name":"Buyer's Market Inc",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "operates"
     ]
 },
-  "bbox": [-87.738662,41.901946,-87.738662,41.901946],
-  "geometry": {"coordinates":[-87.738662,41.901946],"type":"Point"}
+  "bbox": [
+    -87.738662,
+    41.901946,
+    -87.738662,
+    41.901946
+],
+  "geometry": {"coordinates":[-87.73866200000001,41.901946],"type":"Point"}
 }

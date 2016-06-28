@@ -2,13 +2,14 @@
   "id": 252774753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725564,41.504562,-87.725564,41.504562",
     "geom:latitude":41.504562,
     "geom:longitude":-87.725564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Lincoln Mall Dr",
     "sg:city":"Matteson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252774753,
-    "wof:lastmodified":1449005834,
+    "wof:lastmodified":1466489848,
     "wof:name":"Rainbow 475",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-87.725564,41.504562,-87.725564,41.504562],
-  "geometry": {"coordinates":[-87.725564,41.504562],"type":"Point"}
+  "bbox": [
+    -87.725564,
+    41.504562,
+    -87.725564,
+    41.504562
+],
+  "geometry": {"coordinates":[-87.72556400000001,41.504562],"type":"Point"}
 }

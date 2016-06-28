@@ -2,13 +2,14 @@
   "id": 253250979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.674337,40.886643,-89.674337,40.886643",
     "geom:latitude":40.886643,
     "geom:longitude":-89.674337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 W Hicks Hollow Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253250979,
-    "wof:lastmodified":1449064510,
+    "wof:lastmodified":1466492016,
     "wof:name":"Lease Farm Land",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.674337,40.886643,-89.674337,40.886643],
-  "geometry": {"coordinates":[-89.674337,40.886643],"type":"Point"}
+  "bbox": [
+    -89.674337,
+    40.886643,
+    -89.674337,
+    40.886643
+],
+  "geometry": {"coordinates":[-89.67433699999999,40.886643],"type":"Point"}
 }

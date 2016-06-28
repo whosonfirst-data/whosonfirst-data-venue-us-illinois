@@ -2,13 +2,14 @@
   "id": 236821435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956015,41.602619,-87.956015,41.602619",
     "geom:latitude":41.602619,
     "geom:longitude":-87.956015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15624 Marian Dr",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236821435,
-    "wof:lastmodified":1449003457,
+    "wof:lastmodified":1466497989,
     "wof:name":"Marian Village",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.956015,41.602619,-87.956015,41.602619],
-  "geometry": {"coordinates":[-87.956015,41.602619],"type":"Point"}
+  "bbox": [
+    -87.956015,
+    41.602619,
+    -87.956015,
+    41.602619
+],
+  "geometry": {"coordinates":[-87.95601499999999,41.602619],"type":"Point"}
 }

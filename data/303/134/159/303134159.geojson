@@ -2,13 +2,14 @@
   "id": 303134159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.320264,41.846967,-88.320264,41.846967",
     "geom:latitude":41.846967,
     "geom:longitude":-88.320264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Main St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303134159,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1466491969,
     "wof:name":"Office Supply Outlet",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.320264,41.846967,-88.320264,41.846967],
-  "geometry": {"coordinates":[-88.320264,41.846967],"type":"Point"}
+  "bbox": [
+    -88.320264,
+    41.846967,
+    -88.320264,
+    41.846967
+],
+  "geometry": {"coordinates":[-88.32026399999999,41.846967],"type":"Point"}
 }

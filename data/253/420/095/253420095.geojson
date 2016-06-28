@@ -2,13 +2,14 @@
   "id": 253420095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242781,40.117959,-88.242781,40.117959",
     "geom:latitude":40.117959,
     "geom:longitude":-88.242781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Main St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253420095,
-    "wof:lastmodified":1449064238,
+    "wof:lastmodified":1466494557,
     "wof:name":"Michael L Antoline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.242781,40.117959,-88.242781,40.117959],
-  "geometry": {"coordinates":[-88.242781,40.117959],"type":"Point"}
+  "bbox": [
+    -88.242781,
+    40.117959,
+    -88.242781,
+    40.117959
+],
+  "geometry": {"coordinates":[-88.24278099999999,40.117959],"type":"Point"}
 }

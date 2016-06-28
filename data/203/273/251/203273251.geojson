@@ -2,13 +2,14 @@
   "id": 203273251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.040883,38.328839,-89.040883,38.328839",
     "geom:latitude":38.328839,
     "geom:longitude":-89.040883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Park St",
     "sg:city":"Woodlawn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203273251,
-    "wof:lastmodified":1449025912,
+    "wof:lastmodified":1466490172,
     "wof:name":"Desirees Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-89.040883,38.328839,-89.040883,38.328839],
-  "geometry": {"coordinates":[-89.040883,38.328839],"type":"Point"}
+  "bbox": [
+    -89.040883,
+    38.328839,
+    -89.040883,
+    38.328839
+],
+  "geometry": {"coordinates":[-89.04088299999999,38.328839],"type":"Point"}
 }

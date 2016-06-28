@@ -2,13 +2,14 @@
   "id": 286285025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.311236,41.326561,-89.311236,41.326561",
     "geom:latitude":41.326561,
     "geom:longitude":-89.311236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 East St",
     "sg:city":"Depue",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286285025,
-    "wof:lastmodified":1449015239,
+    "wof:lastmodified":1466490190,
     "wof:name":"Yuvan's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.311236,41.326561,-89.311236,41.326561],
-  "geometry": {"coordinates":[-89.311236,41.326561],"type":"Point"}
+  "bbox": [
+    -89.311236,
+    41.326561,
+    -89.311236,
+    41.326561
+],
+  "geometry": {"coordinates":[-89.31123599999999,41.326561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185617443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.799213,38.490287,-89.799213,38.490287",
     "geom:latitude":38.490287,
     "geom:longitude":-89.799213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 W Main St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185617443,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1466492104,
     "wof:name":"Bethel United Methodist Church",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-89.799213,38.490287,-89.799213,38.490287],
-  "geometry": {"coordinates":[-89.799213,38.490287],"type":"Point"}
+  "bbox": [
+    -89.799213,
+    38.490287,
+    -89.799213,
+    38.490287
+],
+  "geometry": {"coordinates":[-89.79921299999999,38.490287],"type":"Point"}
 }

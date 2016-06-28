@@ -2,13 +2,14 @@
   "id": 203133631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.39049,39.680844,-88.39049,39.680844",
     "geom:latitude":39.680844,
     "geom:longitude":-88.39049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 E Co Rd 200 N",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203133631,
-    "wof:lastmodified":1449026513,
+    "wof:lastmodified":1466495249,
     "wof:name":"Country Salvage Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.39049,39.680844,-88.39049,39.680844],
+  "bbox": [
+    -88.39049,
+    39.680844,
+    -88.39049,
+    39.680844
+],
   "geometry": {"coordinates":[-88.39049,39.680844],"type":"Point"}
 }

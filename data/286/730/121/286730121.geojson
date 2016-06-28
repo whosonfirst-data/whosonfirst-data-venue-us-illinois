@@ -2,13 +2,14 @@
   "id": 286730121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.761925,37.867975,-88.761925,37.867975",
     "geom:latitude":37.867975,
     "geom:longitude":-88.761925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 S Thompsonville Rd",
     "sg:city":"Thompsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286730121,
-    "wof:lastmodified":1449017640,
+    "wof:lastmodified":1466496966,
     "wof:name":"Bob's Mobile Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "home"
     ]
 },
-  "bbox": [-88.761925,37.867975,-88.761925,37.867975],
-  "geometry": {"coordinates":[-88.761925,37.867975],"type":"Point"}
+  "bbox": [
+    -88.761925,
+    37.867975,
+    -88.761925,
+    37.867975
+],
+  "geometry": {"coordinates":[-88.76192500000001,37.867975],"type":"Point"}
 }

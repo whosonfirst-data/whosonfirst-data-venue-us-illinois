@@ -2,13 +2,14 @@
   "id": 253645885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653159,41.942902,-87.653159,41.942902",
     "geom:latitude":41.942902,
     "geom:longitude":-87.653159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253645885,
-    "wof:lastmodified":1449063105,
+    "wof:lastmodified":1466497058,
     "wof:name":"Chicago Metals Inc",
     "wof:parent_id":85882143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-87.653159,41.942902,-87.653159,41.942902],
+  "bbox": [
+    -87.653159,
+    41.942902,
+    -87.653159,
+    41.942902
+],
   "geometry": {"coordinates":[-87.653159,41.942902],"type":"Point"}
 }

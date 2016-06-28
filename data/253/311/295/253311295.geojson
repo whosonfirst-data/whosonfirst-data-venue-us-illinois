@@ -2,13 +2,14 @@
   "id": 253311295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.945456,38.532211,-89.945456,38.532211",
     "geom:latitude":38.532211,
     "geom:longitude":-89.945456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Palmetto Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253311295,
-    "wof:lastmodified":1449063506,
+    "wof:lastmodified":1466492891,
     "wof:name":"Ehret Reporting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-89.945456,38.532211,-89.945456,38.532211],
-  "geometry": {"coordinates":[-89.945456,38.532211],"type":"Point"}
+  "bbox": [
+    -89.945456,
+    38.532211,
+    -89.945456,
+    38.532211
+],
+  "geometry": {"coordinates":[-89.94545599999999,38.532211],"type":"Point"}
 }

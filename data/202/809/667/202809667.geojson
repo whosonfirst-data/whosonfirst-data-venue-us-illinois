@@ -2,13 +2,14 @@
   "id": 202809667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465111,41.37116,-89.465111,41.37116",
     "geom:latitude":41.37116,
     "geom:longitude":-89.465111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202809667,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466492065,
     "wof:name":"Green River Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.465111,41.37116,-89.465111,41.37116],
-  "geometry": {"coordinates":[-89.465111,41.37116],"type":"Point"}
+  "bbox": [
+    -89.465111,
+    41.37116,
+    -89.465111,
+    41.37116
+],
+  "geometry": {"coordinates":[-89.46511099999999,41.37116],"type":"Point"}
 }

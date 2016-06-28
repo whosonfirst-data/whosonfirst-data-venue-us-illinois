@@ -2,13 +2,14 @@
   "id": 185739043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.003443,38.652375,-88.003443,38.652375",
     "geom:latitude":38.652375,
     "geom:longitude":-88.003443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2176 N Shell Rd",
     "sg:city":"Olney",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185739043,
-    "wof:lastmodified":1449007281,
+    "wof:lastmodified":1466495771,
     "wof:name":"Steve Gardener",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feeding"
     ]
 },
-  "bbox": [-88.003443,38.652375,-88.003443,38.652375],
+  "bbox": [
+    -88.003443,
+    38.652375,
+    -88.003443,
+    38.652375
+],
   "geometry": {"coordinates":[-88.003443,38.652375],"type":"Point"}
 }

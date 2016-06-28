@@ -2,13 +2,14 @@
   "id": 286830047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.936467,41.901086,-87.936467,41.901086",
     "geom:latitude":41.901086,
     "geom:longitude":-87.936467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Schiller St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286830047,
-    "wof:lastmodified":1449015792,
+    "wof:lastmodified":1466497763,
     "wof:name":"Elmhurst Place Apartments",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.936467,41.901086,-87.936467,41.901086],
-  "geometry": {"coordinates":[-87.936467,41.901086],"type":"Point"}
+  "bbox": [
+    -87.936467,
+    41.901086,
+    -87.936467,
+    41.901086
+],
+  "geometry": {"coordinates":[-87.93646699999999,41.901086],"type":"Point"}
 }

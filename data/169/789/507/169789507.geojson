@@ -2,13 +2,14 @@
   "id": 169789507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.153099,38.610401,-90.153099,38.610401",
     "geom:latitude":38.610401,
     "geom:longitude":-90.153099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Bond Ave",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169789507,
-    "wof:lastmodified":1449034160,
+    "wof:lastmodified":1466494271,
     "wof:name":"Bond Avenue Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-90.153099,38.610401,-90.153099,38.610401],
+  "bbox": [
+    -90.153099,
+    38.610401,
+    -90.153099,
+    38.610401
+],
   "geometry": {"coordinates":[-90.153099,38.610401],"type":"Point"}
 }

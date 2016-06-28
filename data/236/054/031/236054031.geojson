@@ -2,13 +2,14 @@
   "id": 236054031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.808502,41.721524,-87.808502,41.721524",
     "geom:latitude":41.721524,
     "geom:longitude":-87.808502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9318 S 76th Ave",
     "sg:city":"Hickory Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236054031,
-    "wof:lastmodified":1449003155,
+    "wof:lastmodified":1466489616,
     "wof:name":"Carpenters Local",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-87.808502,41.721524,-87.808502,41.721524],
+  "bbox": [
+    -87.808502,
+    41.721524,
+    -87.808502,
+    41.721524
+],
   "geometry": {"coordinates":[-87.808502,41.721524],"type":"Point"}
 }

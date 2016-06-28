@@ -2,13 +2,14 @@
   "id": 269730161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.130626,41.548282,-89.130626,41.548282",
     "geom:latitude":41.548282,
     "geom:longitude":-89.130626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Washington St",
     "sg:city":"Mendota",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269730161,
-    "wof:lastmodified":1449038471,
+    "wof:lastmodified":1466492913,
     "wof:name":"Mary Chin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-89.130626,41.548282,-89.130626,41.548282],
-  "geometry": {"coordinates":[-89.130626,41.548282],"type":"Point"}
+  "bbox": [
+    -89.130626,
+    41.548282,
+    -89.130626,
+    41.548282
+],
+  "geometry": {"coordinates":[-89.13062600000001,41.548282],"type":"Point"}
 }

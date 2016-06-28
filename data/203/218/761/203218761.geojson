@@ -2,13 +2,14 @@
   "id": 203218761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.730112,40.680831,-90.730112,40.680831",
     "geom:latitude":40.680831,
     "geom:longitude":-90.730112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 30th St",
     "sg:city":"Roseville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203218761,
-    "wof:lastmodified":1449026173,
+    "wof:lastmodified":1466489558,
     "wof:name":"Point Pleasant Township Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.730112,40.680831,-90.730112,40.680831],
-  "geometry": {"coordinates":[-90.730112,40.680831],"type":"Point"}
+  "bbox": [
+    -90.730112,
+    40.680831,
+    -90.730112,
+    40.680831
+],
+  "geometry": {"coordinates":[-90.73011200000001,40.680831],"type":"Point"}
 }

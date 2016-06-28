@@ -2,13 +2,14 @@
   "id": 269584721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.774177,40.646889,-88.774177,40.646889",
     "geom:latitude":40.646889,
     "geom:longitude":-88.774177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 N Orange St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269584721,
-    "wof:lastmodified":1449036408,
+    "wof:lastmodified":1466490581,
     "wof:name":"Lexington Place Apartments",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.774177,40.646889,-88.774177,40.646889],
-  "geometry": {"coordinates":[-88.774177,40.646889],"type":"Point"}
+  "bbox": [
+    -88.774177,
+    40.646889,
+    -88.774177,
+    40.646889
+],
+  "geometry": {"coordinates":[-88.77417699999999,40.646889],"type":"Point"}
 }

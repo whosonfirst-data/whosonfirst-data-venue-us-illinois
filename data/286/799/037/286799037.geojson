@@ -2,13 +2,14 @@
   "id": 286799037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.088437,41.538023,-88.088437,41.538023",
     "geom:latitude":41.538023,
     "geom:longitude":-88.088437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Ruby St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286799037,
-    "wof:lastmodified":1449018095,
+    "wof:lastmodified":1466497207,
     "wof:name":"Mls Productions",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-88.088437,41.538023,-88.088437,41.538023],
+  "bbox": [
+    -88.088437,
+    41.538023,
+    -88.088437,
+    41.538023
+],
   "geometry": {"coordinates":[-88.088437,41.538023],"type":"Point"}
 }

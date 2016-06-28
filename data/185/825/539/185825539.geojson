@@ -2,13 +2,14 @@
   "id": 185825539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.777564,39.444754,-89.777564,39.444754",
     "geom:latitude":39.444754,
     "geom:longitude":-89.777564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S 1st St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185825539,
-    "wof:lastmodified":1449006640,
+    "wof:lastmodified":1466489191,
     "wof:name":"Girard Relief Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.777564,39.444754,-89.777564,39.444754],
+  "bbox": [
+    -89.777564,
+    39.444754,
+    -89.777564,
+    39.444754
+],
   "geometry": {"coordinates":[-89.777564,39.444754],"type":"Point"}
 }

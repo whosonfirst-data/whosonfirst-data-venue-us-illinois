@@ -2,13 +2,14 @@
   "id": 253602705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.482845,41.843722,-89.482845,41.843722",
     "geom:latitude":41.843722,
     "geom:longitude":-89.482845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 S Galena Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253602705,
-    "wof:lastmodified":1449064218,
+    "wof:lastmodified":1466496864,
     "wof:name":"Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-89.482845,41.843722,-89.482845,41.843722],
+  "bbox": [
+    -89.482845,
+    41.843722,
+    -89.482845,
+    41.843722
+],
   "geometry": {"coordinates":[-89.482845,41.843722],"type":"Point"}
 }

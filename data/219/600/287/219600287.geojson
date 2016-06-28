@@ -2,13 +2,14 @@
   "id": 219600287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.691125,41.721831,-87.691125,41.721831",
     "geom:latitude":41.721831,
     "geom:longitude":-87.691125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 W 94th Pl",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219600287,
-    "wof:lastmodified":1449070713,
+    "wof:lastmodified":1466494341,
     "wof:name":"Bit O Bread",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-87.691125,41.721831,-87.691125,41.721831],
+  "bbox": [
+    -87.691125,
+    41.721831,
+    -87.691125,
+    41.721831
+],
   "geometry": {"coordinates":[-87.691125,41.721831],"type":"Point"}
 }

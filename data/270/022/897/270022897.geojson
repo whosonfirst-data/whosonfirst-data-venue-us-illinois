@@ -2,13 +2,14 @@
   "id": 270022897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.75463,41.6359,-87.75463,41.6359",
     "geom:latitude":41.6359,
     "geom:longitude":-87.75463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13939 Linder Ave",
     "sg:city":"Midlothian",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270022897,
-    "wof:lastmodified":1449009451,
+    "wof:lastmodified":1466489372,
     "wof:name":"Central Food Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.75463,41.6359,-87.75463,41.6359],
-  "geometry": {"coordinates":[-87.75463,41.6359],"type":"Point"}
+  "bbox": [
+    -87.75463,
+    41.6359,
+    -87.75463,
+    41.6359
+],
+  "geometry": {"coordinates":[-87.75463000000001,41.6359],"type":"Point"}
 }

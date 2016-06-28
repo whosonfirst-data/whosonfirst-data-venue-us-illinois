@@ -2,13 +2,14 @@
   "id": 203256929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.093558,41.500653,-88.093558,41.500653",
     "geom:latitude":41.500653,
     "geom:longitude":-88.093558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Patterson Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203256929,
-    "wof:lastmodified":1449026387,
+    "wof:lastmodified":1466489988,
     "wof:name":"St Paul's Missionary Baptist",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.093558,41.500653,-88.093558,41.500653],
+  "bbox": [
+    -88.093558,
+    41.500653,
+    -88.093558,
+    41.500653
+],
   "geometry": {"coordinates":[-88.093558,41.500653],"type":"Point"}
 }

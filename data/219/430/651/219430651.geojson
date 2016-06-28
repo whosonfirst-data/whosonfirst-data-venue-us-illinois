@@ -2,13 +2,14 @@
   "id": 219430651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.736263,41.707436,-87.736263,41.707436",
     "geom:latitude":41.707436,
     "geom:longitude":-87.736263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633 W 102nd St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219430651,
-    "wof:lastmodified":1449072632,
+    "wof:lastmodified":1466492343,
     "wof:name":"Grant Hospital",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-87.736263,41.707436,-87.736263,41.707436],
-  "geometry": {"coordinates":[-87.736263,41.707436],"type":"Point"}
+  "bbox": [
+    -87.736263,
+    41.707436,
+    -87.736263,
+    41.707436
+],
+  "geometry": {"coordinates":[-87.73626299999999,41.707436],"type":"Point"}
 }

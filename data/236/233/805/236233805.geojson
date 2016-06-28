@@ -2,13 +2,14 @@
   "id": 236233805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.807719,38.597476,-89.807719,38.597476",
     "geom:latitude":38.597476,
     "geom:longitude":-89.807719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 S Madison St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236233805,
-    "wof:lastmodified":1449005315,
+    "wof:lastmodified":1466491875,
     "wof:name":"Dollar General",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.807719,38.597476,-89.807719,38.597476],
-  "geometry": {"coordinates":[-89.807719,38.597476],"type":"Point"}
+  "bbox": [
+    -89.807719,
+    38.597476,
+    -89.807719,
+    38.597476
+],
+  "geometry": {"coordinates":[-89.80771900000001,38.597476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185856901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.647905,39.800255,-89.647905,39.800255",
     "geom:latitude":39.800255,
     "geom:longitude":-89.647905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 S 6th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185856901,
-    "wof:lastmodified":1449007069,
+    "wof:lastmodified":1466489395,
     "wof:name":"Oxtoby Properties",
     "wof:parent_id":85803559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.647905,39.800255,-89.647905,39.800255],
-  "geometry": {"coordinates":[-89.647905,39.800255],"type":"Point"}
+  "bbox": [
+    -89.647905,
+    39.800255,
+    -89.647905,
+    39.800255
+],
+  "geometry": {"coordinates":[-89.64790499999999,39.800255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253004195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.769241,41.169754,-87.769241,41.169754",
     "geom:latitude":41.169754,
     "geom:longitude":-87.769241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3149 N 5500E Rd",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253004195,
-    "wof:lastmodified":1449063906,
+    "wof:lastmodified":1466489044,
     "wof:name":"Interstate Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.769241,41.169754,-87.769241,41.169754],
-  "geometry": {"coordinates":[-87.769241,41.169754],"type":"Point"}
+  "bbox": [
+    -87.769241,
+    41.169754,
+    -87.769241,
+    41.169754
+],
+  "geometry": {"coordinates":[-87.76924099999999,41.169754],"type":"Point"}
 }

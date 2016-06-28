@@ -2,13 +2,14 @@
   "id": 303134199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.50146,37.82548,-88.50146,37.82548",
     "geom:latitude":37.82548,
     "geom:longitude":-88.50146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Woodlake Rd",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303134199,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1466491969,
     "wof:name":"Triplett Ladonna",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-88.50146,37.82548,-88.50146,37.82548],
-  "geometry": {"coordinates":[-88.50146,37.82548],"type":"Point"}
+  "bbox": [
+    -88.50146,
+    37.82548,
+    -88.50146,
+    37.82548
+],
+  "geometry": {"coordinates":[-88.50145999999999,37.82548],"type":"Point"}
 }

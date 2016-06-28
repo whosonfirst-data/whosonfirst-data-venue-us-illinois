@@ -2,13 +2,14 @@
   "id": 219837111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.201501,41.882473,-88.201501,41.882473",
     "geom:latitude":41.882473,
     "geom:longitude":-88.201501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Chicago St",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219837111,
-    "wof:lastmodified":1449070942,
+    "wof:lastmodified":1466496761,
     "wof:name":"West Chicago Chiropractic",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.201501,41.882473,-88.201501,41.882473],
-  "geometry": {"coordinates":[-88.201501,41.882473],"type":"Point"}
+  "bbox": [
+    -88.201501,
+    41.882473,
+    -88.201501,
+    41.882473
+],
+  "geometry": {"coordinates":[-88.20150099999999,41.882473],"type":"Point"}
 }

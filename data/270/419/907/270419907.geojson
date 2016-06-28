@@ -2,13 +2,14 @@
   "id": 270419907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.729544,41.94551,-87.729544,41.94551",
     "geom:latitude":41.94551,
     "geom:longitude":-87.729544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 W Eddy St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270419907,
-    "wof:lastmodified":1449011095,
+    "wof:lastmodified":1466495424,
     "wof:name":"M Caligraphy",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "invitation"
     ]
 },
-  "bbox": [-87.729544,41.94551,-87.729544,41.94551],
+  "bbox": [
+    -87.729544,
+    41.94551,
+    -87.729544,
+    41.94551
+],
   "geometry": {"coordinates":[-87.729544,41.94551],"type":"Point"}
 }

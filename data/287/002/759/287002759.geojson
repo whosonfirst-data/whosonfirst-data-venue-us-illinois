@@ -2,13 +2,14 @@
   "id": 287002759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.526327,41.430191,-90.526327,41.430191",
     "geom:latitude":41.430191,
     "geom:longitude":-90.526327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 83rd Ave Ct",
     "sg:city":"Milan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287002759,
-    "wof:lastmodified":1449001400,
+    "wof:lastmodified":1466490020,
     "wof:name":"Residential Rental Properties",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-90.526327,41.430191,-90.526327,41.430191],
-  "geometry": {"coordinates":[-90.526327,41.430191],"type":"Point"}
+  "bbox": [
+    -90.526327,
+    41.430191,
+    -90.526327,
+    41.430191
+],
+  "geometry": {"coordinates":[-90.52632699999999,41.430191],"type":"Point"}
 }

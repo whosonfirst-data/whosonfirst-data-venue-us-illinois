@@ -2,13 +2,14 @@
   "id": 236815165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.113251,41.914703,-88.113251,41.914703",
     "geom:latitude":41.914703,
     "geom:longitude":-88.113251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Kimberly Dr",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236815165,
-    "wof:lastmodified":1449003210,
+    "wof:lastmodified":1466498046,
     "wof:name":"Benjamin Moore Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-88.113251,41.914703,-88.113251,41.914703],
-  "geometry": {"coordinates":[-88.113251,41.914703],"type":"Point"}
+  "bbox": [
+    -88.113251,
+    41.914703,
+    -88.113251,
+    41.914703
+],
+  "geometry": {"coordinates":[-88.11325100000001,41.914703],"type":"Point"}
 }

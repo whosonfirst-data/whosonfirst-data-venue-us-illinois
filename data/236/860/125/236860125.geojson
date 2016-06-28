@@ -2,13 +2,14 @@
   "id": 236860125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223593,39.332304,-88.223593,39.332304",
     "geom:latitude":39.332304,
     "geom:longitude":-88.223593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1075 Co Rd 1350 E",
     "sg:city":"Toledo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236860125,
-    "wof:lastmodified":1449003060,
+    "wof:lastmodified":1466498084,
     "wof:name":"Swearingen Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.223593,39.332304,-88.223593,39.332304],
-  "geometry": {"coordinates":[-88.223593,39.332304],"type":"Point"}
+  "bbox": [
+    -88.223593,
+    39.332304,
+    -88.223593,
+    39.332304
+],
+  "geometry": {"coordinates":[-88.22359299999999,39.332304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286549869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.445298,41.37348,-88.445298,41.37348",
     "geom:latitude":41.37348,
     "geom:longitude":-88.445298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 Mollie Dr",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286549869,
-    "wof:lastmodified":1449015993,
+    "wof:lastmodified":1466494365,
     "wof:name":"Whittington Day Care",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-88.445298,41.37348,-88.445298,41.37348],
-  "geometry": {"coordinates":[-88.445298,41.37348],"type":"Point"}
+  "bbox": [
+    -88.445298,
+    41.37348,
+    -88.445298,
+    41.37348
+],
+  "geometry": {"coordinates":[-88.44529799999999,41.37348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252933387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.49447,41.491958,-90.49447,41.491958",
     "geom:latitude":41.491958,
     "geom:longitude":-90.49447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 23rd Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252933387,
-    "wof:lastmodified":1449005640,
+    "wof:lastmodified":1466491902,
     "wof:name":"Moline Burke Cleaners Inc",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-90.49447,41.491958,-90.49447,41.491958],
-  "geometry": {"coordinates":[-90.49447,41.491958],"type":"Point"}
+  "bbox": [
+    -90.49447,
+    41.491958,
+    -90.49447,
+    41.491958
+],
+  "geometry": {"coordinates":[-90.49447000000001,41.491958],"type":"Point"}
 }

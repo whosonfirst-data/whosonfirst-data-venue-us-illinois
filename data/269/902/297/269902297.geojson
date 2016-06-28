@@ -2,13 +2,14 @@
   "id": 269902297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.620503,41.809245,-87.620503,41.809245",
     "geom:latitude":41.809245,
     "geom:longitude":-87.620503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 47th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269902297,
-    "wof:lastmodified":1449038098,
+    "wof:lastmodified":1466495611,
     "wof:name":"Fashion Collection",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.620503,41.809245,-87.620503,41.809245],
+  "bbox": [
+    -87.620503,
+    41.809245,
+    -87.620503,
+    41.809245
+],
   "geometry": {"coordinates":[-87.620503,41.809245],"type":"Point"}
 }

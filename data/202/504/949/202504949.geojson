@@ -2,13 +2,14 @@
   "id": 202504949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.291638,38.56462,-89.291638,38.56462",
     "geom:latitude":38.56462,
     "geom:longitude":-89.291638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9617 Huey Rd",
     "sg:city":"Carlyle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202504949,
-    "wof:lastmodified":1449060544,
+    "wof:lastmodified":1466495181,
     "wof:name":"Wessel Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "design"
     ]
 },
-  "bbox": [-89.291638,38.56462,-89.291638,38.56462],
-  "geometry": {"coordinates":[-89.291638,38.56462],"type":"Point"}
+  "bbox": [
+    -89.291638,
+    38.56462,
+    -89.291638,
+    38.56462
+],
+  "geometry": {"coordinates":[-89.29163800000001,38.56462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253255351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758457,41.851059,-87.758457,41.851059",
     "geom:latitude":41.851059,
     "geom:longitude":-87.758457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5323 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253255351,
-    "wof:lastmodified":1449064165,
+    "wof:lastmodified":1466492072,
     "wof:name":"Cermak Automotive",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-87.758457,41.851059,-87.758457,41.851059],
-  "geometry": {"coordinates":[-87.758457,41.851059],"type":"Point"}
+  "bbox": [
+    -87.758457,
+    41.851059,
+    -87.758457,
+    41.851059
+],
+  "geometry": {"coordinates":[-87.75845700000001,41.851059],"type":"Point"}
 }

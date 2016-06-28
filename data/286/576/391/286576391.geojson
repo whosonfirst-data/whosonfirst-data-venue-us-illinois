@@ -2,13 +2,14 @@
   "id": 286576391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.326067,41.754486,-88.326067,41.754486",
     "geom:latitude":41.754486,
     "geom:longitude":-88.326067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 S Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":286576391,
-    "wof:lastmodified":1449017450,
+    "wof:lastmodified":1466494794,
     "wof:name":"Nock & Feather Kustom Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.326067,41.754486,-88.326067,41.754486],
-  "geometry": {"coordinates":[-88.326067,41.754486],"type":"Point"}
+  "bbox": [
+    -88.326067,
+    41.754486,
+    -88.326067,
+    41.754486
+],
+  "geometry": {"coordinates":[-88.32606699999999,41.754486],"type":"Point"}
 }

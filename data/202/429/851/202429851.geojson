@@ -2,13 +2,14 @@
   "id": 202429851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.159996,39.623058,-88.159996,39.623058",
     "geom:latitude":39.623058,
     "geom:longitude":-88.159996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17926 E Co Rd 1700 N",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202429851,
-    "wof:lastmodified":1449062510,
+    "wof:lastmodified":1466493791,
     "wof:name":"Ronnie Uphoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.159996,39.623058,-88.159996,39.623058],
-  "geometry": {"coordinates":[-88.159996,39.623058],"type":"Point"}
+  "bbox": [
+    -88.159996,
+    39.623058,
+    -88.159996,
+    39.623058
+],
+  "geometry": {"coordinates":[-88.15999600000001,39.623058],"type":"Point"}
 }

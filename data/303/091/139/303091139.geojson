@@ -2,13 +2,14 @@
   "id": 303091139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.288515,40.143855,-88.288515,40.143855",
     "geom:latitude":40.143855,
     "geom:longitude":-88.288515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 W Bloomington Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303091139,
-    "wof:lastmodified":1448998363,
+    "wof:lastmodified":1466491261,
     "wof:name":"Grandview Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-88.288515,40.143855,-88.288515,40.143855],
+  "bbox": [
+    -88.288515,
+    40.143855,
+    -88.288515,
+    40.143855
+],
   "geometry": {"coordinates":[-88.288515,40.143855],"type":"Point"}
 }

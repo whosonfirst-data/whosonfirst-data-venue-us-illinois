@@ -2,13 +2,14 @@
   "id": 337411877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.410056,39.933223,-91.410056,39.933223",
     "geom:latitude":39.933223,
     "geom:longitude":-91.410056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 4th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337411877,
-    "wof:lastmodified":1449026980,
+    "wof:lastmodified":1466492129,
     "wof:name":"Lincoln Douglas Apartment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-91.410056,39.933223,-91.410056,39.933223],
+  "bbox": [
+    -91.410056,
+    39.933223,
+    -91.410056,
+    39.933223
+],
   "geometry": {"coordinates":[-91.410056,39.933223],"type":"Point"}
 }

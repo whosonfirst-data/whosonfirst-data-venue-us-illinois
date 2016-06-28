@@ -2,13 +2,14 @@
   "id": 269652153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.143546,41.304133,-88.143546,41.304133",
     "geom:latitude":41.304133,
     "geom:longitude":-88.143546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 S Main St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269652153,
-    "wof:lastmodified":1449037675,
+    "wof:lastmodified":1466491640,
     "wof:name":"St Rose Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.143546,41.304133,-88.143546,41.304133],
+  "bbox": [
+    -88.143546,
+    41.304133,
+    -88.143546,
+    41.304133
+],
   "geometry": {"coordinates":[-88.143546,41.304133],"type":"Point"}
 }

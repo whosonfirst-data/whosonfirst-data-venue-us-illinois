@@ -2,13 +2,14 @@
   "id": 253527173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.167719,41.509497,-88.167719,41.509497",
     "geom:latitude":41.509497,
     "geom:longitude":-88.167719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Silver Leaf Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253527173,
-    "wof:lastmodified":1449065150,
+    "wof:lastmodified":1466496218,
     "wof:name":"Concord Homes",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-88.167719,41.509497,-88.167719,41.509497],
-  "geometry": {"coordinates":[-88.167719,41.509497],"type":"Point"}
+  "bbox": [
+    -88.167719,
+    41.509497,
+    -88.167719,
+    41.509497
+],
+  "geometry": {"coordinates":[-88.16771900000001,41.509497],"type":"Point"}
 }

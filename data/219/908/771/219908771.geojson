@@ -2,13 +2,14 @@
   "id": 219908771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668605,41.706593,-87.668605,41.706593",
     "geom:latitude":41.706593,
     "geom:longitude":-87.668605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 W 103rd St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219908771,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466497013,
     "wof:name":"Books Ink",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-87.668605,41.706593,-87.668605,41.706593],
+  "bbox": [
+    -87.668605,
+    41.706593,
+    -87.668605,
+    41.706593
+],
   "geometry": {"coordinates":[-87.668605,41.706593],"type":"Point"}
 }

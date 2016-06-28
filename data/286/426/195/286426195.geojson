@@ -2,13 +2,14 @@
   "id": 286426195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.84502,42.390191,-87.84502,42.390191",
     "geom:latitude":42.390191,
     "geom:longitude":-87.84502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2052 Western Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286426195,
-    "wof:lastmodified":1449015796,
+    "wof:lastmodified":1466492365,
     "wof:name":"Cuts Above",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.84502,42.390191,-87.84502,42.390191],
-  "geometry": {"coordinates":[-87.84502,42.390191],"type":"Point"}
+  "bbox": [
+    -87.84502,
+    42.390191,
+    -87.84502,
+    42.390191
+],
+  "geometry": {"coordinates":[-87.84502000000001,42.390191],"type":"Point"}
 }

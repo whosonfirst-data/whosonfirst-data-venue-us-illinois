@@ -2,13 +2,14 @@
   "id": 286360289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.771025,41.61221,-87.771025,41.61221",
     "geom:latitude":41.61221,
     "geom:longitude":-87.771025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Boca Rio Dr",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286360289,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466491329,
     "wof:name":"Pete Backas Inc",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.771025,41.61221,-87.771025,41.61221],
-  "geometry": {"coordinates":[-87.771025,41.61221],"type":"Point"}
+  "bbox": [
+    -87.771025,
+    41.61221,
+    -87.771025,
+    41.61221
+],
+  "geometry": {"coordinates":[-87.77102499999999,41.61221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185894173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984818,38.565151,-89.984818,38.565151",
     "geom:latitude":38.565151,
     "geom:longitude":-89.984818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4212 N Illinois St",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185894173,
-    "wof:lastmodified":1449007263,
+    "wof:lastmodified":1466489874,
     "wof:name":"Destination Station",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.984818,38.565151,-89.984818,38.565151],
+  "bbox": [
+    -89.984818,
+    38.565151,
+    -89.984818,
+    38.565151
+],
   "geometry": {"coordinates":[-89.984818,38.565151],"type":"Point"}
 }

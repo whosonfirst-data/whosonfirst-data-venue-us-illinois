@@ -2,13 +2,14 @@
   "id": 236720953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.773093,41.826149,-87.773093,41.826149",
     "geom:latitude":41.826149,
     "geom:longitude":-87.773093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3646 S Austin Blvd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236720953,
-    "wof:lastmodified":1449002272,
+    "wof:lastmodified":1466497361,
     "wof:name":"CRA Tuckpointing & Masonry",
     "wof:parent_id":85890737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pointing"
     ]
 },
-  "bbox": [-87.773093,41.826149,-87.773093,41.826149],
+  "bbox": [
+    -87.773093,
+    41.826149,
+    -87.773093,
+    41.826149
+],
   "geometry": {"coordinates":[-87.773093,41.826149],"type":"Point"}
 }

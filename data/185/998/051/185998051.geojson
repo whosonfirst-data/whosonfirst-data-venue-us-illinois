@@ -2,13 +2,14 @@
   "id": 185998051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.208801,37.726299,-89.208801,37.726299",
     "geom:latitude":37.726299,
     "geom:longitude":-89.208801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Wall St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185998051,
-    "wof:lastmodified":1449007124,
+    "wof:lastmodified":1466490440,
     "wof:name":"Walgreen Drug Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-89.208801,37.726299,-89.208801,37.726299],
-  "geometry": {"coordinates":[-89.208801,37.726299],"type":"Point"}
+  "bbox": [
+    -89.208801,
+    37.726299,
+    -89.208801,
+    37.726299
+],
+  "geometry": {"coordinates":[-89.20880099999999,37.726299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253543219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908178,41.156694,-87.908178,41.156694",
     "geom:latitude":41.156694,
     "geom:longitude":-87.908178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 Sportsman Club Rd",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253543219,
-    "wof:lastmodified":1449063392,
+    "wof:lastmodified":1466496351,
     "wof:name":"H & S Septic Sewer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.908178,41.156694,-87.908178,41.156694],
-  "geometry": {"coordinates":[-87.908178,41.156694],"type":"Point"}
+  "bbox": [
+    -87.908178,
+    41.156694,
+    -87.908178,
+    41.156694
+],
+  "geometry": {"coordinates":[-87.90817800000001,41.156694],"type":"Point"}
 }

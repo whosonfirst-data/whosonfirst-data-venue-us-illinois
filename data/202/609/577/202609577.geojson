@@ -2,13 +2,14 @@
   "id": 202609577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.327734,40.552881,-89.327734,40.552881",
     "geom:latitude":40.552881,
     "geom:longitude":-89.327734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Heritage Dr",
     "sg:city":"Mackinaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202609577,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1466489777,
     "wof:name":"Janet Armburst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.327734,40.552881,-89.327734,40.552881],
-  "geometry": {"coordinates":[-89.327734,40.552881],"type":"Point"}
+  "bbox": [
+    -89.327734,
+    40.552881,
+    -89.327734,
+    40.552881
+],
+  "geometry": {"coordinates":[-89.32773400000001,40.552881],"type":"Point"}
 }

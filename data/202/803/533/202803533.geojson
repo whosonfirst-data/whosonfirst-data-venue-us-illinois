@@ -2,13 +2,14 @@
   "id": 202803533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.882819,42.374654,-87.882819,42.374654",
     "geom:latitude":42.374654,
     "geom:longitude":-87.882819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Green Bay Rd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202803533,
-    "wof:lastmodified":1449062682,
+    "wof:lastmodified":1466491990,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.882819,42.374654,-87.882819,42.374654],
+  "bbox": [
+    -87.882819,
+    42.374654,
+    -87.882819,
+    42.374654
+],
   "geometry": {"coordinates":[-87.882819,42.374654],"type":"Point"}
 }

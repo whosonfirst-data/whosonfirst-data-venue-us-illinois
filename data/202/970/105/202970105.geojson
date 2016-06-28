@@ -2,13 +2,14 @@
   "id": 202970105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307882,39.685646,-88.307882,39.685646",
     "geom:latitude":39.685646,
     "geom:longitude":-88.307882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Oak St",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202970105,
-    "wof:lastmodified":1449062590,
+    "wof:lastmodified":1466494020,
     "wof:name":"Letterman's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.307882,39.685646,-88.307882,39.685646],
-  "geometry": {"coordinates":[-88.307882,39.685646],"type":"Point"}
+  "bbox": [
+    -88.307882,
+    39.685646,
+    -88.307882,
+    39.685646
+],
+  "geometry": {"coordinates":[-88.30788200000001,39.685646],"type":"Point"}
 }

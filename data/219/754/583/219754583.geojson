@@ -2,13 +2,14 @@
   "id": 219754583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.46631,41.489724,-90.46631,41.489724",
     "geom:latitude":41.489724,
     "geom:longitude":-90.46631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4902 23rd Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219754583,
-    "wof:lastmodified":1449072696,
+    "wof:lastmodified":1466496009,
     "wof:name":"Buckys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-90.46631,41.489724,-90.46631,41.489724],
-  "geometry": {"coordinates":[-90.46631,41.489724],"type":"Point"}
+  "bbox": [
+    -90.46631,
+    41.489724,
+    -90.46631,
+    41.489724
+],
+  "geometry": {"coordinates":[-90.46630999999999,41.489724],"type":"Point"}
 }

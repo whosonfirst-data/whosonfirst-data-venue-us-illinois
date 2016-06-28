@@ -2,13 +2,14 @@
   "id": 253598969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308251,41.851211,-88.308251,41.851211",
     "geom:latitude":41.851211,
     "geom:longitude":-88.308251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 N Island Ave",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253598969,
-    "wof:lastmodified":1449062975,
+    "wof:lastmodified":1466496745,
     "wof:name":"American Home Svc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.308251,41.851211,-88.308251,41.851211],
+  "bbox": [
+    -88.308251,
+    41.851211,
+    -88.308251,
+    41.851211
+],
   "geometry": {"coordinates":[-88.308251,41.851211],"type":"Point"}
 }

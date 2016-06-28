@@ -2,13 +2,14 @@
   "id": 235958955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.125453,41.675263,-88.125453,41.675263",
     "geom:latitude":41.675263,
     "geom:longitude":-88.125453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"899 S Weber Rd",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235958955,
-    "wof:lastmodified":1449008523,
+    "wof:lastmodified":1466489290,
     "wof:name":"S & K Cleaners",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-88.125453,41.675263,-88.125453,41.675263],
-  "geometry": {"coordinates":[-88.125453,41.675263],"type":"Point"}
+  "bbox": [
+    -88.125453,
+    41.675263,
+    -88.125453,
+    41.675263
+],
+  "geometry": {"coordinates":[-88.12545299999999,41.675263],"type":"Point"}
 }

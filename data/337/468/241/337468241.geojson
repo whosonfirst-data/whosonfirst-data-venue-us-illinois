@@ -2,13 +2,14 @@
   "id": 337468241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042666,41.509925,-88.042666,41.509925",
     "geom:latitude":41.509925,
     "geom:longitude":-88.042666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 S Briggs St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337468241,
-    "wof:lastmodified":1449027532,
+    "wof:lastmodified":1466492395,
     "wof:name":"East Joliet Fire Protection",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.042666,41.509925,-88.042666,41.509925],
+  "bbox": [
+    -88.042666,
+    41.509925,
+    -88.042666,
+    41.509925
+],
   "geometry": {"coordinates":[-88.042666,41.509925],"type":"Point"}
 }

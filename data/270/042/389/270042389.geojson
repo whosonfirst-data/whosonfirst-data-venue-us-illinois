@@ -2,13 +2,14 @@
   "id": 270042389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081758,41.525852,-88.081758,41.525852",
     "geom:latitude":41.525852,
     "geom:longitude":-88.081758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 W Van Buren St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270042389,
-    "wof:lastmodified":1449010483,
+    "wof:lastmodified":1466489669,
     "wof:name":"Fraterrigo Beranek Feiereisel",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.081758,41.525852,-88.081758,41.525852],
-  "geometry": {"coordinates":[-88.081758,41.525852],"type":"Point"}
+  "bbox": [
+    -88.081758,
+    41.525852,
+    -88.081758,
+    41.525852
+],
+  "geometry": {"coordinates":[-88.08175799999999,41.525852],"type":"Point"}
 }

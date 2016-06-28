@@ -2,13 +2,14 @@
   "id": 286838697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650292,41.662314,-87.650292,41.662314",
     "geom:latitude":41.662314,
     "geom:longitude":-87.650292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 W 127th Pl",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286838697,
-    "wof:lastmodified":1449015524,
+    "wof:lastmodified":1466497703,
     "wof:name":"D K Stage",
     "wof:parent_id":85856203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "make"
     ]
 },
-  "bbox": [-87.650292,41.662314,-87.650292,41.662314],
-  "geometry": {"coordinates":[-87.650292,41.662314],"type":"Point"}
+  "bbox": [
+    -87.650292,
+    41.662314,
+    -87.650292,
+    41.662314
+],
+  "geometry": {"coordinates":[-87.65029199999999,41.662314],"type":"Point"}
 }

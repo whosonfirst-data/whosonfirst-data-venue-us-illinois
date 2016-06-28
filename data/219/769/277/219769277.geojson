@@ -2,13 +2,14 @@
   "id": 219769277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.230658,41.370028,-88.230658,41.370028",
     "geom:latitude":41.370028,
     "geom:longitude":-88.230658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28240 Kelly Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219769277,
-    "wof:lastmodified":1449071567,
+    "wof:lastmodified":1466496323,
     "wof:name":"Country Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.230658,41.370028,-88.230658,41.370028],
-  "geometry": {"coordinates":[-88.230658,41.370028],"type":"Point"}
+  "bbox": [
+    -88.230658,
+    41.370028,
+    -88.230658,
+    41.370028
+],
+  "geometry": {"coordinates":[-88.23065800000001,41.370028],"type":"Point"}
 }

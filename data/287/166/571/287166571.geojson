@@ -2,13 +2,14 @@
   "id": 287166571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753318,41.940645,-87.753318,41.940645",
     "geom:latitude":41.940645,
     "geom:longitude":-87.753318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5046 W School St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287166571,
-    "wof:lastmodified":1449001169,
+    "wof:lastmodified":1466492651,
     "wof:name":"Karroll Construction Company",
     "wof:parent_id":85867621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-87.753318,41.940645,-87.753318,41.940645],
-  "geometry": {"coordinates":[-87.753318,41.940645],"type":"Point"}
+  "bbox": [
+    -87.753318,
+    41.940645,
+    -87.753318,
+    41.940645
+],
+  "geometry": {"coordinates":[-87.75331799999999,41.940645],"type":"Point"}
 }

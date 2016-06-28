@@ -2,13 +2,14 @@
   "id": 202408175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.335505,41.882216,-88.335505,41.882216",
     "geom:latitude":41.882216,
     "geom:longitude":-88.335505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Gary Ln",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202408175,
-    "wof:lastmodified":1449060413,
+    "wof:lastmodified":1466493248,
     "wof:name":"Geneva Twp Hwy Commissioner",
     "wof:parent_id":85890919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.335505,41.882216,-88.335505,41.882216],
+  "bbox": [
+    -88.335505,
+    41.882216,
+    -88.335505,
+    41.882216
+],
   "geometry": {"coordinates":[-88.335505,41.882216],"type":"Point"}
 }

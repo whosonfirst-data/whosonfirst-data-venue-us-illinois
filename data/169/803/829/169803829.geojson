@@ -2,13 +2,14 @@
   "id": 169803829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.991036,38.591816,-89.991036,38.591816",
     "geom:latitude":38.591816,
     "geom:longitude":-89.991036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10850 Lincoln Trl Unit 10",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169803829,
-    "wof:lastmodified":1449036009,
+    "wof:lastmodified":1466494555,
     "wof:name":"Once Upon A Child",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-89.991036,38.591816,-89.991036,38.591816],
-  "geometry": {"coordinates":[-89.991036,38.591816],"type":"Point"}
+  "bbox": [
+    -89.991036,
+    38.591816,
+    -89.991036,
+    38.591816
+],
+  "geometry": {"coordinates":[-89.99103599999999,38.591816],"type":"Point"}
 }

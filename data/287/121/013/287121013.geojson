@@ -2,13 +2,14 @@
   "id": 287121013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.075201,38.545107,-90.075201,38.545107",
     "geom:latitude":38.545107,
     "geom:longitude":-90.075201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Eiler Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287121013,
-    "wof:lastmodified":1449001358,
+    "wof:lastmodified":1466491916,
     "wof:name":"Stookey Township Highway Dept",
     "wof:parent_id":85839243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.075201,38.545107,-90.075201,38.545107],
-  "geometry": {"coordinates":[-90.075201,38.545107],"type":"Point"}
+  "bbox": [
+    -90.075201,
+    38.545107,
+    -90.075201,
+    38.545107
+],
+  "geometry": {"coordinates":[-90.07520100000001,38.545107],"type":"Point"}
 }

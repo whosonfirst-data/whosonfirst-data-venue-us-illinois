@@ -2,13 +2,14 @@
   "id": 203212943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682082,41.721401,-87.682082,41.721401",
     "geom:latitude":41.721401,
     "geom:longitude":-87.682082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 S Western Ave",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203212943,
-    "wof:lastmodified":1449026202,
+    "wof:lastmodified":1466489497,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-87.682082,41.721401,-87.682082,41.721401],
-  "geometry": {"coordinates":[-87.682082,41.721401],"type":"Point"}
+  "bbox": [
+    -87.682082,
+    41.721401,
+    -87.682082,
+    41.721401
+],
+  "geometry": {"coordinates":[-87.68208199999999,41.721401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185809399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.083447,39.863321,-90.083447,39.863321",
     "geom:latitude":39.863321,
     "geom:longitude":-90.083447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 Stice Rd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185809399,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1466489085,
     "wof:name":"Dwayne Stice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-90.083447,39.863321,-90.083447,39.863321],
-  "geometry": {"coordinates":[-90.083447,39.863321],"type":"Point"}
+  "bbox": [
+    -90.083447,
+    39.863321,
+    -90.083447,
+    39.863321
+],
+  "geometry": {"coordinates":[-90.08344700000001,39.863321],"type":"Point"}
 }

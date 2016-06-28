@@ -2,13 +2,14 @@
   "id": 202607103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.092085,41.876684,-88.092085,41.876684",
     "geom:latitude":41.876684,
     "geom:longitude":-88.092085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 N President St",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202607103,
-    "wof:lastmodified":1449060440,
+    "wof:lastmodified":1466489749,
     "wof:name":"Kagers Vending Services",
     "wof:parent_id":85891051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-88.092085,41.876684,-88.092085,41.876684],
+  "bbox": [
+    -88.092085,
+    41.876684,
+    -88.092085,
+    41.876684
+],
   "geometry": {"coordinates":[-88.092085,41.876684],"type":"Point"}
 }

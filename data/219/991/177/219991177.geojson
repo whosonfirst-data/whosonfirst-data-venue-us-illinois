@@ -2,13 +2,14 @@
   "id": 219991177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725918,41.511423,-87.725918,41.511423",
     "geom:latitude":41.511423,
     "geom:longitude":-87.725918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 School Ave",
     "sg:city":"Matteson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219991177,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466497520,
     "wof:name":"Matteson Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.725918,41.511423,-87.725918,41.511423],
-  "geometry": {"coordinates":[-87.725918,41.511423],"type":"Point"}
+  "bbox": [
+    -87.725918,
+    41.511423,
+    -87.725918,
+    41.511423
+],
+  "geometry": {"coordinates":[-87.72591799999999,41.511423],"type":"Point"}
 }

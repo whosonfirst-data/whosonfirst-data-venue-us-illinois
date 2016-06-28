@@ -2,13 +2,14 @@
   "id": 219655783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055625,41.877157,-88.055625,41.877157",
     "geom:latitude":41.877157,
     "geom:longitude":-88.055625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 Taylor Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219655783,
-    "wof:lastmodified":1449072404,
+    "wof:lastmodified":1466494992,
     "wof:name":"Stratigraphics Geotechnical",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-88.055625,41.877157,-88.055625,41.877157],
-  "geometry": {"coordinates":[-88.055625,41.877157],"type":"Point"}
+  "bbox": [
+    -88.055625,
+    41.877157,
+    -88.055625,
+    41.877157
+],
+  "geometry": {"coordinates":[-88.05562500000001,41.877157],"type":"Point"}
 }

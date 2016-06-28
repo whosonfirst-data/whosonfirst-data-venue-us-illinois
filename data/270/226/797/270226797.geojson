@@ -2,13 +2,14 @@
   "id": 270226797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.551578,41.569349,-87.551578,41.569349",
     "geom:latitude":41.569349,
     "geom:longitude":-87.551578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17954 Exchange Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270226797,
-    "wof:lastmodified":1449010429,
+    "wof:lastmodified":1466492466,
     "wof:name":"Velarde Verardo",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.551578,41.569349,-87.551578,41.569349],
-  "geometry": {"coordinates":[-87.551578,41.569349],"type":"Point"}
+  "bbox": [
+    -87.551578,
+    41.569349,
+    -87.551578,
+    41.569349
+],
+  "geometry": {"coordinates":[-87.55157800000001,41.569349],"type":"Point"}
 }

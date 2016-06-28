@@ -2,13 +2,14 @@
   "id": 203389257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.829307,42.125479,-87.829307,42.125479",
     "geom:latitude":42.125479,
     "geom:longitude":-87.829307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Shermer Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203389257,
-    "wof:lastmodified":1449026439,
+    "wof:lastmodified":1466491458,
     "wof:name":"Suns Cleaners",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-87.829307,42.125479,-87.829307,42.125479],
+  "bbox": [
+    -87.829307,
+    42.125479,
+    -87.829307,
+    42.125479
+],
   "geometry": {"coordinates":[-87.829307,42.125479],"type":"Point"}
 }

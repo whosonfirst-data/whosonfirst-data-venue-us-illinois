@@ -2,13 +2,14 @@
   "id": 185669449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.374256,39.942791,-91.374256,39.942791",
     "geom:latitude":39.942791,
     "geom:longitude":-91.374256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Chestnut St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185669449,
-    "wof:lastmodified":1449006790,
+    "wof:lastmodified":1466494146,
     "wof:name":"Mathews Tree Service",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-91.374256,39.942791,-91.374256,39.942791],
+  "bbox": [
+    -91.374256,
+    39.942791,
+    -91.374256,
+    39.942791
+],
   "geometry": {"coordinates":[-91.374256,39.942791],"type":"Point"}
 }

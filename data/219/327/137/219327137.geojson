@@ -2,13 +2,14 @@
   "id": 219327137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.774733,41.901933,-87.774733,41.901933",
     "geom:latitude":41.901933,
     "geom:longitude":-87.774733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5937 W Division St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219327137,
-    "wof:lastmodified":1449070657,
+    "wof:lastmodified":1466491046,
     "wof:name":"PA Hotdog",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.774733,41.901933,-87.774733,41.901933],
+  "bbox": [
+    -87.774733,
+    41.901933,
+    -87.774733,
+    41.901933
+],
   "geometry": {"coordinates":[-87.774733,41.901933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270069403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.61222,40.15237,-87.61222,40.15237",
     "geom:latitude":40.15237,
     "geom:longitude":-87.61222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Valleyview Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270069403,
-    "wof:lastmodified":1449010201,
+    "wof:lastmodified":1466490059,
     "wof:name":"Valleyview Heights Apartments",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.61222,40.15237,-87.61222,40.15237],
-  "geometry": {"coordinates":[-87.61222,40.15237],"type":"Point"}
+  "bbox": [
+    -87.61222,
+    40.15237,
+    -87.61222,
+    40.15237
+],
+  "geometry": {"coordinates":[-87.61221999999999,40.15237],"type":"Point"}
 }

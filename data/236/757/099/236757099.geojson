@@ -2,13 +2,14 @@
   "id": 236757099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111747,42.20234,-88.111747,42.20234",
     "geom:latitude":42.20234,
     "geom:longitude":-88.111747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 N Rand Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236757099,
-    "wof:lastmodified":1449003528,
+    "wof:lastmodified":1466497621,
     "wof:name":"D & J Bistro",
     "wof:parent_id":85867895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.111747,42.20234,-88.111747,42.20234],
-  "geometry": {"coordinates":[-88.111747,42.20234],"type":"Point"}
+  "bbox": [
+    -88.111747,
+    42.20234,
+    -88.111747,
+    42.20234
+],
+  "geometry": {"coordinates":[-88.11174699999999,42.20234],"type":"Point"}
 }

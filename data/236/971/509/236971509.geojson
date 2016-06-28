@@ -2,13 +2,14 @@
   "id": 236971509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.255878,42.125469,-89.255878,42.125469",
     "geom:latitude":42.125469,
     "geom:longitude":-89.255878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Union St",
     "sg:city":"Byron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236971509,
-    "wof:lastmodified":1449003295,
+    "wof:lastmodified":1466498546,
     "wof:name":"Union Street Station Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.255878,42.125469,-89.255878,42.125469],
+  "bbox": [
+    -89.255878,
+    42.125469,
+    -89.255878,
+    42.125469
+],
   "geometry": {"coordinates":[-89.255878,42.125469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236392973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.844909,41.346827,-88.844909,41.346827",
     "geom:latitude":41.346827,
     "geom:longitude":-88.844909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Madison St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236392973,
-    "wof:lastmodified":1449004457,
+    "wof:lastmodified":1466493963,
     "wof:name":"Ottawa Park Dept",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-88.844909,41.346827,-88.844909,41.346827],
+  "bbox": [
+    -88.844909,
+    41.346827,
+    -88.844909,
+    41.346827
+],
   "geometry": {"coordinates":[-88.844909,41.346827],"type":"Point"}
 }

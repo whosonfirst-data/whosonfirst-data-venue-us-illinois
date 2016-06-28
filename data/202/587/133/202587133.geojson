@@ -2,13 +2,14 @@
   "id": 202587133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306096,41.889628,-88.306096,41.889628",
     "geom:latitude":41.889628,
     "geom:longitude":-88.306096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N 2nd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202587133,
-    "wof:lastmodified":1449060981,
+    "wof:lastmodified":1466489520,
     "wof:name":"Music Mood Swing",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.306096,41.889628,-88.306096,41.889628],
+  "bbox": [
+    -88.306096,
+    41.889628,
+    -88.306096,
+    41.889628
+],
   "geometry": {"coordinates":[-88.306096,41.889628],"type":"Point"}
 }

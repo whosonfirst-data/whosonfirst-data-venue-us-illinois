@@ -2,13 +2,14 @@
   "id": 185640355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.377962,38.087131,-89.377962,38.087131",
     "geom:latitude":38.087131,
     "geom:longitude":-89.377962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Water Works Rd",
     "sg:city":"Pinckneyville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185640355,
-    "wof:lastmodified":1449007317,
+    "wof:lastmodified":1466493384,
     "wof:name":"Pinckneyville Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.377962,38.087131,-89.377962,38.087131],
+  "bbox": [
+    -89.377962,
+    38.087131,
+    -89.377962,
+    38.087131
+],
   "geometry": {"coordinates":[-89.377962,38.087131],"type":"Point"}
 }

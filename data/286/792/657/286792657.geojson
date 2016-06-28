@@ -2,13 +2,14 @@
   "id": 286792657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.672795,41.339498,-88.672795,41.339498",
     "geom:latitude":41.339498,
     "geom:longitude":-88.672795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2582 N 28th Rd",
     "sg:city":"Marseilles",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286792657,
-    "wof:lastmodified":1449015801,
+    "wof:lastmodified":1466497319,
     "wof:name":"Woodland Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.672795,41.339498,-88.672795,41.339498],
-  "geometry": {"coordinates":[-88.672795,41.339498],"type":"Point"}
+  "bbox": [
+    -88.672795,
+    41.339498,
+    -88.672795,
+    41.339498
+],
+  "geometry": {"coordinates":[-88.67279499999999,41.339498],"type":"Point"}
 }

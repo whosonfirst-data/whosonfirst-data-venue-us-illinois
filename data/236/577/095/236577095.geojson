@@ -2,13 +2,14 @@
   "id": 236577095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.348571,40.157461,-89.348571,40.157461",
     "geom:latitude":40.157461,
     "geom:longitude":-89.348571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N McLean St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236577095,
-    "wof:lastmodified":1449005369,
+    "wof:lastmodified":1466496164,
     "wof:name":"New Wine Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.348571,40.157461,-89.348571,40.157461],
-  "geometry": {"coordinates":[-89.348571,40.157461],"type":"Point"}
+  "bbox": [
+    -89.348571,
+    40.157461,
+    -89.348571,
+    40.157461
+],
+  "geometry": {"coordinates":[-89.34857100000001,40.157461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286343303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.075864,41.890072,-88.075864,41.890072",
     "geom:latitude":41.890072,
     "geom:longitude":-88.075864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"859 Evergreen Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286343303,
-    "wof:lastmodified":1449017272,
+    "wof:lastmodified":1466491074,
     "wof:name":"Electronic Data Developers",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-88.075864,41.890072,-88.075864,41.890072],
+  "bbox": [
+    -88.075864,
+    41.890072,
+    -88.075864,
+    41.890072
+],
   "geometry": {"coordinates":[-88.075864,41.890072],"type":"Point"}
 }

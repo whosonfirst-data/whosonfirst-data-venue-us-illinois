@@ -2,13 +2,14 @@
   "id": 185792759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.51153,39.86549,-89.51153,39.86549",
     "geom:latitude":39.86549,
     "geom:longitude":-89.51153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Taft Rd",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185792759,
-    "wof:lastmodified":1449006962,
+    "wof:lastmodified":1466488980,
     "wof:name":"Mary Taft",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-89.51153,39.86549,-89.51153,39.86549],
-  "geometry": {"coordinates":[-89.51153,39.86549],"type":"Point"}
+  "bbox": [
+    -89.51153,
+    39.86549,
+    -89.51153,
+    39.86549
+],
+  "geometry": {"coordinates":[-89.51152999999999,39.86549],"type":"Point"}
 }

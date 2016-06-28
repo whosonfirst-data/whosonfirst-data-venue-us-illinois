@@ -2,13 +2,14 @@
   "id": 269895431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.847609,41.543016,-87.847609,41.543016",
     "geom:latitude":41.543016,
     "geom:longitude":-87.847609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9485 191st St",
     "sg:city":"Mokena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269895431,
-    "wof:lastmodified":1449037145,
+    "wof:lastmodified":1466495506,
     "wof:name":"Super 8 Mokena",
     "wof:parent_id":85890947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.847609,41.543016,-87.847609,41.543016],
-  "geometry": {"coordinates":[-87.847609,41.543016],"type":"Point"}
+  "bbox": [
+    -87.847609,
+    41.543016,
+    -87.847609,
+    41.543016
+],
+  "geometry": {"coordinates":[-87.84760900000001,41.543016],"type":"Point"}
 }

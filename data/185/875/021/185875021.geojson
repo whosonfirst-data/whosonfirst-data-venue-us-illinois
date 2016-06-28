@@ -2,13 +2,14 @@
   "id": 185875021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.668303,39.780215,-89.668303,39.780215",
     "geom:latitude":39.780215,
     "geom:longitude":-89.668303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S Macarthur Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":185875021,
-    "wof:lastmodified":1449007796,
+    "wof:lastmodified":1466489652,
     "wof:name":"Edward Jones - TIM HEALY",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-89.668303,39.780215,-89.668303,39.780215],
-  "geometry": {"coordinates":[-89.668303,39.780215],"type":"Point"}
+  "bbox": [
+    -89.668303,
+    39.780215,
+    -89.668303,
+    39.780215
+],
+  "geometry": {"coordinates":[-89.66830299999999,39.780215],"type":"Point"}
 }

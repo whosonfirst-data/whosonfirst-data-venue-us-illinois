@@ -2,13 +2,14 @@
   "id": 253396783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.253391,38.654671,-89.253391,38.654671",
     "geom:latitude":38.654671,
     "geom:longitude":-89.253391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16225 Coles Creek Rd",
     "sg:city":"Carlyle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253396783,
-    "wof:lastmodified":1449064778,
+    "wof:lastmodified":1466494182,
     "wof:name":"Coles Creek Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-89.253391,38.654671,-89.253391,38.654671],
-  "geometry": {"coordinates":[-89.253391,38.654671],"type":"Point"}
+  "bbox": [
+    -89.253391,
+    38.654671,
+    -89.253391,
+    38.654671
+],
+  "geometry": {"coordinates":[-89.25339099999999,38.654671],"type":"Point"}
 }

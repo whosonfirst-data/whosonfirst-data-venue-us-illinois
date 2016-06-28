@@ -2,13 +2,14 @@
   "id": 236630069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.647345,41.879003,-87.647345,41.879003",
     "geom:latitude":41.879003,
     "geom:longitude":-87.647345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236630069,
-    "wof:lastmodified":1449002698,
+    "wof:lastmodified":1466496749,
     "wof:name":"Cafe Kallisto",
     "wof:parent_id":85869305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-87.647345,41.879003,-87.647345,41.879003],
+  "bbox": [
+    -87.647345,
+    41.879003,
+    -87.647345,
+    41.879003
+],
   "geometry": {"coordinates":[-87.647345,41.879003],"type":"Point"}
 }

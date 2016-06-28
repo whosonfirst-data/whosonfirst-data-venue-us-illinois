@@ -2,13 +2,14 @@
   "id": 303082679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328848,41.7614,-88.328848,41.7614",
     "geom:latitude":41.7614,
     "geom:longitude":-88.328848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 W Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303082679,
-    "wof:lastmodified":1448998180,
+    "wof:lastmodified":1466491131,
     "wof:name":"Don Zuelke Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.328848,41.7614,-88.328848,41.7614],
-  "geometry": {"coordinates":[-88.328848,41.7614],"type":"Point"}
+  "bbox": [
+    -88.328848,
+    41.7614,
+    -88.328848,
+    41.7614
+],
+  "geometry": {"coordinates":[-88.32884799999999,41.7614],"type":"Point"}
 }

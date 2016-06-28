@@ -2,13 +2,14 @@
   "id": 253445263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.783014,41.092551,-87.783014,41.092551",
     "geom:latitude":41.092551,
     "geom:longitude":-87.783014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1794 S Sandbar Rd",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253445263,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466494958,
     "wof:name":"Varvels Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.783014,41.092551,-87.783014,41.092551],
-  "geometry": {"coordinates":[-87.783014,41.092551],"type":"Point"}
+  "bbox": [
+    -87.783014,
+    41.092551,
+    -87.783014,
+    41.092551
+],
+  "geometry": {"coordinates":[-87.78301399999999,41.092551],"type":"Point"}
 }

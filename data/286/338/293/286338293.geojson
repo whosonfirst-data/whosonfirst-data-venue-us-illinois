@@ -2,13 +2,14 @@
   "id": 286338293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.804282,41.535805,-87.804282,41.535805",
     "geom:latitude":41.535805,
     "geom:longitude":-87.804282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7758 W Lakeview Ter",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286338293,
-    "wof:lastmodified":1449016203,
+    "wof:lastmodified":1466490997,
     "wof:name":"STS Towing",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-87.804282,41.535805,-87.804282,41.535805],
+  "bbox": [
+    -87.804282,
+    41.535805,
+    -87.804282,
+    41.535805
+],
   "geometry": {"coordinates":[-87.804282,41.535805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202379721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.607223,40.327666,-90.607223,40.327666",
     "geom:latitude":40.327666,
     "geom:longitude":-90.607223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Main St",
     "sg:city":"Industry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202379721,
-    "wof:lastmodified":1449061593,
+    "wof:lastmodified":1466488965,
     "wof:name":"Industry Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.607223,40.327666,-90.607223,40.327666],
+  "bbox": [
+    -90.607223,
+    40.327666,
+    -90.607223,
+    40.327666
+],
   "geometry": {"coordinates":[-90.607223,40.327666],"type":"Point"}
 }

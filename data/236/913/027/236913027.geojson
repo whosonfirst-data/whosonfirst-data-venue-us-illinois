@@ -2,13 +2,14 @@
   "id": 236913027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.813465,41.522758,-87.813465,41.522758",
     "geom:latitude":41.522758,
     "geom:longitude":-87.813465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20253 W Lismore Cir",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236913027,
-    "wof:lastmodified":1449002824,
+    "wof:lastmodified":1466498259,
     "wof:name":"Mg Trucking Inc",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.813465,41.522758,-87.813465,41.522758],
-  "geometry": {"coordinates":[-87.813465,41.522758],"type":"Point"}
+  "bbox": [
+    -87.813465,
+    41.522758,
+    -87.813465,
+    41.522758
+],
+  "geometry": {"coordinates":[-87.81346499999999,41.522758],"type":"Point"}
 }

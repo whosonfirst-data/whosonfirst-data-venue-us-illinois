@@ -2,13 +2,14 @@
   "id": 252887269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.286746,41.860782,-88.286746,41.860782",
     "geom:latitude":41.860782,
     "geom:longitude":-88.286746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Kingsland Dr",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252887269,
-    "wof:lastmodified":1449006287,
+    "wof:lastmodified":1466491271,
     "wof:name":"Remedease",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-88.286746,41.860782,-88.286746,41.860782],
-  "geometry": {"coordinates":[-88.286746,41.860782],"type":"Point"}
+  "bbox": [
+    -88.286746,
+    41.860782,
+    -88.286746,
+    41.860782
+],
+  "geometry": {"coordinates":[-88.28674599999999,41.860782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202845255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132575,41.678027,-88.132575,41.678027",
     "geom:latitude":41.678027,
     "geom:longitude":-88.132575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1456 Parkside Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202845255,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466492516,
     "wof:name":"CMR Enterprises",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.132575,41.678027,-88.132575,41.678027],
+  "bbox": [
+    -88.132575,
+    41.678027,
+    -88.132575,
+    41.678027
+],
   "geometry": {"coordinates":[-88.132575,41.678027],"type":"Point"}
 }

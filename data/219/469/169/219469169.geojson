@@ -2,13 +2,14 @@
   "id": 219469169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090584,41.78749,-88.090584,41.78749",
     "geom:latitude":41.78749,
     "geom:longitude":-88.090584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5326 Newport Dr",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219469169,
-    "wof:lastmodified":1449074022,
+    "wof:lastmodified":1466492820,
     "wof:name":"Custom Tile & Marble Instlltns",
     "wof:parent_id":85890827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.090584,41.78749,-88.090584,41.78749],
-  "geometry": {"coordinates":[-88.090584,41.78749],"type":"Point"}
+  "bbox": [
+    -88.090584,
+    41.78749,
+    -88.090584,
+    41.78749
+],
+  "geometry": {"coordinates":[-88.09058400000001,41.78749],"type":"Point"}
 }

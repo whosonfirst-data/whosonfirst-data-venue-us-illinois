@@ -2,13 +2,14 @@
   "id": 236183001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.079636,38.690497,-89.079636,38.690497",
     "geom:latitude":38.690497,
     "geom:longitude":-89.079636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Ferrydale Rd",
     "sg:city":"Odin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236183001,
-    "wof:lastmodified":1449003424,
+    "wof:lastmodified":1466491216,
     "wof:name":"FMC Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.079636,38.690497,-89.079636,38.690497],
-  "geometry": {"coordinates":[-89.079636,38.690497],"type":"Point"}
+  "bbox": [
+    -89.079636,
+    38.690497,
+    -89.079636,
+    38.690497
+],
+  "geometry": {"coordinates":[-89.07963599999999,38.690497],"type":"Point"}
 }

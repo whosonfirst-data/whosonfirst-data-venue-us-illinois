@@ -2,13 +2,14 @@
   "id": 253572245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080323,41.518781,-88.080323,41.518781",
     "geom:latitude":41.518781,
     "geom:longitude":-88.080323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 3rd Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253572245,
-    "wof:lastmodified":1449064621,
+    "wof:lastmodified":1466496635,
     "wof:name":"Ace Iron & Metals Inc",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metal"
     ]
 },
-  "bbox": [-88.080323,41.518781,-88.080323,41.518781],
-  "geometry": {"coordinates":[-88.080323,41.518781],"type":"Point"}
+  "bbox": [
+    -88.080323,
+    41.518781,
+    -88.080323,
+    41.518781
+],
+  "geometry": {"coordinates":[-88.08032300000001,41.518781],"type":"Point"}
 }

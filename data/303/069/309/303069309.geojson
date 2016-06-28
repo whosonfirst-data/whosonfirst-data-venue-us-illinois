@@ -2,13 +2,14 @@
   "id": 303069309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.337257,41.888511,-88.337257,41.888511",
     "geom:latitude":41.888511,
     "geom:longitude":-88.337257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2258 Newport Ln",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303069309,
-    "wof:lastmodified":1448999660,
+    "wof:lastmodified":1466490930,
     "wof:name":"Anna Ariel Interiors LLC",
     "wof:parent_id":85890919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.337257,41.888511,-88.337257,41.888511],
-  "geometry": {"coordinates":[-88.337257,41.888511],"type":"Point"}
+  "bbox": [
+    -88.337257,
+    41.888511,
+    -88.337257,
+    41.888511
+],
+  "geometry": {"coordinates":[-88.33725699999999,41.888511],"type":"Point"}
 }

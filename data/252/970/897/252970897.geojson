@@ -2,13 +2,14 @@
   "id": 252970897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.181969,38.924888,-90.181969,38.924888",
     "geom:latitude":38.924888,
     "geom:longitude":-90.181969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Northport Dr",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252970897,
-    "wof:lastmodified":1449006485,
+    "wof:lastmodified":1466492408,
     "wof:name":"Alton Med Ctr",
     "wof:parent_id":85837175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.181969,38.924888,-90.181969,38.924888],
+  "bbox": [
+    -90.181969,
+    38.924888,
+    -90.181969,
+    38.924888
+],
   "geometry": {"coordinates":[-90.181969,38.924888],"type":"Point"}
 }

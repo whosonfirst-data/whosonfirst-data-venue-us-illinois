@@ -2,13 +2,14 @@
   "id": 303200353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.399768,39.918545,-91.399768,39.918545",
     "geom:latitude":39.918545,
     "geom:longitude":-91.399768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Monroe St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303200353,
-    "wof:lastmodified":1448999097,
+    "wof:lastmodified":1466493045,
     "wof:name":"Terri Heinecke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-91.399768,39.918545,-91.399768,39.918545],
-  "geometry": {"coordinates":[-91.399768,39.918545],"type":"Point"}
+  "bbox": [
+    -91.399768,
+    39.918545,
+    -91.399768,
+    39.918545
+],
+  "geometry": {"coordinates":[-91.39976799999999,39.918545],"type":"Point"}
 }

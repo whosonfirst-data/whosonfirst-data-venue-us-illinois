@@ -2,13 +2,14 @@
   "id": 203382939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.190784,40.096753,-88.190784,40.096753",
     "geom:latitude":40.096753,
     "geom:longitude":-88.190784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Philo Rd",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203382939,
-    "wof:lastmodified":1449025414,
+    "wof:lastmodified":1466491389,
     "wof:name":"Personal Touch Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-88.190784,40.096753,-88.190784,40.096753],
-  "geometry": {"coordinates":[-88.190784,40.096753],"type":"Point"}
+  "bbox": [
+    -88.190784,
+    40.096753,
+    -88.190784,
+    40.096753
+],
+  "geometry": {"coordinates":[-88.19078399999999,40.096753],"type":"Point"}
 }

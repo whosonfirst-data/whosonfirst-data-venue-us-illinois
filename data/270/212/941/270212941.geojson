@@ -2,13 +2,14 @@
   "id": 270212941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.564478,41.56184,-87.564478,41.56184",
     "geom:latitude":41.56184,
     "geom:longitude":-87.564478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 183rd Pl",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270212941,
-    "wof:lastmodified":1449010251,
+    "wof:lastmodified":1466492236,
     "wof:name":"Rietveld Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.564478,41.56184,-87.564478,41.56184],
-  "geometry": {"coordinates":[-87.564478,41.56184],"type":"Point"}
+  "bbox": [
+    -87.564478,
+    41.56184,
+    -87.564478,
+    41.56184
+],
+  "geometry": {"coordinates":[-87.56447799999999,41.56184],"type":"Point"}
 }

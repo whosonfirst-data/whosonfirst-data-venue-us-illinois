@@ -2,13 +2,14 @@
   "id": 386978765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.537715,41.44796,-87.537715,41.44796",
     "geom:latitude":41.44796,
     "geom:longitude":-87.537715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 S Deer Run Trl",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386978765,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1466492223,
     "wof:name":"Safe Passage Security Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-87.537715,41.44796,-87.537715,41.44796],
-  "geometry": {"coordinates":[-87.537715,41.44796],"type":"Point"}
+  "bbox": [
+    -87.537715,
+    41.44796,
+    -87.537715,
+    41.44796
+],
+  "geometry": {"coordinates":[-87.53771500000001,41.44796],"type":"Point"}
 }

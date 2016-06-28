@@ -2,13 +2,14 @@
   "id": 252719683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05583,38.567566,-90.05583,38.567566",
     "geom:latitude":38.567566,
     "geom:longitude":-90.05583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Country Club Ln",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252719683,
-    "wof:lastmodified":1449005542,
+    "wof:lastmodified":1466489143,
     "wof:name":"Robert L Quaas MD",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.05583,38.567566,-90.05583,38.567566],
+  "bbox": [
+    -90.05583,
+    38.567566,
+    -90.05583,
+    38.567566
+],
   "geometry": {"coordinates":[-90.05583,38.567566],"type":"Point"}
 }

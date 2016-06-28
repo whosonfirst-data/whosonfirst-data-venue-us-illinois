@@ -2,13 +2,14 @@
   "id": 202696643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653663,41.967372,-87.653663,41.967372",
     "geom:latitude":41.967372,
     "geom:longitude":-87.653663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 W Leland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202696643,
-    "wof:lastmodified":1449060302,
+    "wof:lastmodified":1466490768,
     "wof:name":"Thresholds Design Group",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.653663,41.967372,-87.653663,41.967372],
-  "geometry": {"coordinates":[-87.653663,41.967372],"type":"Point"}
+  "bbox": [
+    -87.653663,
+    41.967372,
+    -87.653663,
+    41.967372
+],
+  "geometry": {"coordinates":[-87.65366299999999,41.967372],"type":"Point"}
 }

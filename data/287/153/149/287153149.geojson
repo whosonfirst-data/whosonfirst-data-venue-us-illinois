@@ -2,13 +2,14 @@
   "id": 287153149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.333875,40.339287,-90.333875,40.339287",
     "geom:latitude":40.339287,
     "geom:longitude":-90.333875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10324 N Plant Rd",
     "sg:city":"Ipava",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287153149,
-    "wof:lastmodified":1449001294,
+    "wof:lastmodified":1466492435,
     "wof:name":"Ron Wys",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-90.333875,40.339287,-90.333875,40.339287],
-  "geometry": {"coordinates":[-90.333875,40.339287],"type":"Point"}
+  "bbox": [
+    -90.333875,
+    40.339287,
+    -90.333875,
+    40.339287
+],
+  "geometry": {"coordinates":[-90.33387500000001,40.339287],"type":"Point"}
 }

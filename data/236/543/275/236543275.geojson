@@ -2,13 +2,14 @@
   "id": 236543275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.27973,40.100433,-88.27973,40.100433",
     "geom:latitude":40.100433,
     "geom:longitude":-88.27973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 Hollycrest Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236543275,
-    "wof:lastmodified":1449002159,
+    "wof:lastmodified":1466495865,
     "wof:name":"Helen Purcell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.27973,40.100433,-88.27973,40.100433],
+  "bbox": [
+    -88.27973,
+    40.100433,
+    -88.27973,
+    40.100433
+],
   "geometry": {"coordinates":[-88.27973,40.100433],"type":"Point"}
 }

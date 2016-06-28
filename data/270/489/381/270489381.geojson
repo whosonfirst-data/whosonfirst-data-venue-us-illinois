@@ -2,13 +2,14 @@
   "id": 270489381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94092,41.928226,-87.94092,41.928226",
     "geom:latitude":41.928226,
     "geom:longitude":-87.94092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Diversey Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270489381,
-    "wof:lastmodified":1449009976,
+    "wof:lastmodified":1466496343,
     "wof:name":"Ingersoll-Rand",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "meta"
     ]
 },
-  "bbox": [-87.94092,41.928226,-87.94092,41.928226],
-  "geometry": {"coordinates":[-87.94092,41.928226],"type":"Point"}
+  "bbox": [
+    -87.94092,
+    41.928226,
+    -87.94092,
+    41.928226
+],
+  "geometry": {"coordinates":[-87.94092000000001,41.928226],"type":"Point"}
 }

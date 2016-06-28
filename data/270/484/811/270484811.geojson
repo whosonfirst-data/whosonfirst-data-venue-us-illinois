@@ -2,13 +2,14 @@
   "id": 270484811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.860903,38.723531,-87.860903,38.723531",
     "geom:latitude":38.723531,
     "geom:longitude":-87.860903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Poplar St",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270484811,
-    "wof:lastmodified":1449010973,
+    "wof:lastmodified":1466496331,
     "wof:name":"Sumner Care & Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-87.860903,38.723531,-87.860903,38.723531],
-  "geometry": {"coordinates":[-87.860903,38.723531],"type":"Point"}
+  "bbox": [
+    -87.860903,
+    38.723531,
+    -87.860903,
+    38.723531
+],
+  "geometry": {"coordinates":[-87.86090299999999,38.723531],"type":"Point"}
 }

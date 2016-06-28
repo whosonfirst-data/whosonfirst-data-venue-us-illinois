@@ -2,13 +2,14 @@
   "id": 219720323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.106158,41.367791,-89.106158,41.367791",
     "geom:latitude":41.367791,
     "geom:longitude":-89.106158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2969 E 3rd Rd",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219720323,
-    "wof:lastmodified":1449071234,
+    "wof:lastmodified":1466495912,
     "wof:name":"Sauer-SUNDSTRAND Uaw Local",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.106158,41.367791,-89.106158,41.367791],
-  "geometry": {"coordinates":[-89.106158,41.367791],"type":"Point"}
+  "bbox": [
+    -89.106158,
+    41.367791,
+    -89.106158,
+    41.367791
+],
+  "geometry": {"coordinates":[-89.10615799999999,41.367791],"type":"Point"}
 }

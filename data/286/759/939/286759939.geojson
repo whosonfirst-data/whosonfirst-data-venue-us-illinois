@@ -2,13 +2,14 @@
   "id": 286759939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166402,41.937601,-88.166402,41.937601",
     "geom:latitude":41.937601,
     "geom:longitude":-88.166402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1294 Spring Valley Dr",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286759939,
-    "wof:lastmodified":1449018126,
+    "wof:lastmodified":1466496935,
     "wof:name":"United Cargo",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.166402,41.937601,-88.166402,41.937601],
-  "geometry": {"coordinates":[-88.166402,41.937601],"type":"Point"}
+  "bbox": [
+    -88.166402,
+    41.937601,
+    -88.166402,
+    41.937601
+],
+  "geometry": {"coordinates":[-88.16640200000001,41.937601],"type":"Point"}
 }

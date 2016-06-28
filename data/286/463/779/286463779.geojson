@@ -2,13 +2,14 @@
   "id": 286463779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.818757,41.517782,-87.818757,41.517782",
     "geom:latitude":41.517782,
     "geom:longitude":-87.818757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8330 Brickstone Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286463779,
-    "wof:lastmodified":1449017226,
+    "wof:lastmodified":1466492941,
     "wof:name":"RIS Corp",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "freezer"
     ]
 },
-  "bbox": [-87.818757,41.517782,-87.818757,41.517782],
-  "geometry": {"coordinates":[-87.818757,41.517782],"type":"Point"}
+  "bbox": [
+    -87.818757,
+    41.517782,
+    -87.818757,
+    41.517782
+],
+  "geometry": {"coordinates":[-87.81875700000001,41.517782],"type":"Point"}
 }

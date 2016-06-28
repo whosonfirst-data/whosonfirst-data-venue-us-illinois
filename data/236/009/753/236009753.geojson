@@ -2,13 +2,14 @@
   "id": 236009753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04636,41.627154,-88.04636,41.627154",
     "geom:latitude":41.627154,
     "geom:longitude":-88.04636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14224 High Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236009753,
-    "wof:lastmodified":1449005166,
+    "wof:lastmodified":1466489073,
     "wof:name":"State Wide Real Estate",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.04636,41.627154,-88.04636,41.627154],
-  "geometry": {"coordinates":[-88.04636,41.627154],"type":"Point"}
+  "bbox": [
+    -88.04636,
+    41.627154,
+    -88.04636,
+    41.627154
+],
+  "geometry": {"coordinates":[-88.04636000000001,41.627154],"type":"Point"}
 }

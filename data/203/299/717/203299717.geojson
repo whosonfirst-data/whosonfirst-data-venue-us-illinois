@@ -2,13 +2,14 @@
   "id": 203299717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.93685,41.512367,-87.93685,41.512367",
     "geom:latitude":41.512367,
     "geom:longitude":-87.93685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 S Anderson Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203299717,
-    "wof:lastmodified":1449025395,
+    "wof:lastmodified":1466490467,
     "wof:name":"Priority Heating & Air",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.93685,41.512367,-87.93685,41.512367],
-  "geometry": {"coordinates":[-87.93685,41.512367],"type":"Point"}
+  "bbox": [
+    -87.93685,
+    41.512367,
+    -87.93685,
+    41.512367
+],
+  "geometry": {"coordinates":[-87.93685000000001,41.512367],"type":"Point"}
 }

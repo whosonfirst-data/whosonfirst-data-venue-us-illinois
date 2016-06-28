@@ -2,13 +2,14 @@
   "id": 219707273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.056429,41.523045,-88.056429,41.523045",
     "geom:latitude":41.523045,
     "geom:longitude":-88.056429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 E Washington St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219707273,
-    "wof:lastmodified":1449073357,
+    "wof:lastmodified":1466495627,
     "wof:name":"Bill Osman",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.056429,41.523045,-88.056429,41.523045],
-  "geometry": {"coordinates":[-88.056429,41.523045],"type":"Point"}
+  "bbox": [
+    -88.056429,
+    41.523045,
+    -88.056429,
+    41.523045
+],
+  "geometry": {"coordinates":[-88.05642899999999,41.523045],"type":"Point"}
 }

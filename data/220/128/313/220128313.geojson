@@ -2,13 +2,14 @@
   "id": 220128313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.134682,38.633331,-90.134682,38.633331",
     "geom:latitude":38.633331,
     "geom:longitude":-90.134682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N 13th St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220128313,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466490512,
     "wof:name":"L B Davis Neighborhood House",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "welfare"
     ]
 },
-  "bbox": [-90.134682,38.633331,-90.134682,38.633331],
+  "bbox": [
+    -90.134682,
+    38.633331,
+    -90.134682,
+    38.633331
+],
   "geometry": {"coordinates":[-90.134682,38.633331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270287669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.791046,41.609303,-87.791046,41.609303",
     "geom:latitude":41.609303,
     "geom:longitude":-87.791046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Wheeler Dr",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270287669,
-    "wof:lastmodified":1449008804,
+    "wof:lastmodified":1466493396,
     "wof:name":"American Import Tiles LTD",
     "wof:parent_id":85890941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-87.791046,41.609303,-87.791046,41.609303],
-  "geometry": {"coordinates":[-87.791046,41.609303],"type":"Point"}
+  "bbox": [
+    -87.791046,
+    41.609303,
+    -87.791046,
+    41.609303
+],
+  "geometry": {"coordinates":[-87.79104599999999,41.609303],"type":"Point"}
 }

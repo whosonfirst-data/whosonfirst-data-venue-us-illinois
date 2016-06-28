@@ -2,13 +2,14 @@
   "id": 253396425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.494408,40.929368,-89.494408,40.929368",
     "geom:latitude":40.929368,
     "geom:longitude":-89.494408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 N Santa Fe Ave",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":253396425,
-    "wof:lastmodified":1449064779,
+    "wof:lastmodified":1466494176,
     "wof:name":"Burlington Northern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.494408,40.929368,-89.494408,40.929368],
-  "geometry": {"coordinates":[-89.494408,40.929368],"type":"Point"}
+  "bbox": [
+    -89.494408,
+    40.929368,
+    -89.494408,
+    40.929368
+],
+  "geometry": {"coordinates":[-89.49440800000001,40.929368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270003387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758654,41.95412,-87.758654,41.95412",
     "geom:latitude":41.95412,
     "geom:longitude":-87.758654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5247 W Cuyler Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270003387,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466489090,
     "wof:name":"Mgd Remodelers",
     "wof:parent_id":85882317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.758654,41.95412,-87.758654,41.95412],
-  "geometry": {"coordinates":[-87.758654,41.95412],"type":"Point"}
+  "bbox": [
+    -87.758654,
+    41.95412,
+    -87.758654,
+    41.95412
+],
+  "geometry": {"coordinates":[-87.75865400000001,41.95412],"type":"Point"}
 }

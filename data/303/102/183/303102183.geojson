@@ -2,13 +2,14 @@
   "id": 303102183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.472794,41.809674,-89.472794,41.809674",
     "geom:latitude":41.809674,
     "geom:longitude":-89.472794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Lovett Dr",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303102183,
-    "wof:lastmodified":1449000380,
+    "wof:lastmodified":1466491434,
     "wof:name":"Genco Mid-Western Regional Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [-89.472794,41.809674,-89.472794,41.809674],
-  "geometry": {"coordinates":[-89.472794,41.809674],"type":"Point"}
+  "bbox": [
+    -89.472794,
+    41.809674,
+    -89.472794,
+    41.809674
+],
+  "geometry": {"coordinates":[-89.47279399999999,41.809674],"type":"Point"}
 }

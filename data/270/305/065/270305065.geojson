@@ -2,13 +2,14 @@
   "id": 270305065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.900793,39.565972,-89.900793,39.565972",
     "geom:latitude":39.565972,
     "geom:longitude":-89.900793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13695 Caruthers Rd",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270305065,
-    "wof:lastmodified":1449009009,
+    "wof:lastmodified":1466493661,
     "wof:name":"Rick & Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.900793,39.565972,-89.900793,39.565972],
-  "geometry": {"coordinates":[-89.900793,39.565972],"type":"Point"}
+  "bbox": [
+    -89.900793,
+    39.565972,
+    -89.900793,
+    39.565972
+],
+  "geometry": {"coordinates":[-89.90079299999999,39.565972],"type":"Point"}
 }

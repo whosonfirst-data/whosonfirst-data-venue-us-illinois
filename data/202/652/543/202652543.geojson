@@ -2,13 +2,14 @@
   "id": 202652543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.79299,40.425534,-90.79299,40.425534",
     "geom:latitude":40.425534,
     "geom:longitude":-90.79299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Depot St",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202652543,
-    "wof:lastmodified":1449061728,
+    "wof:lastmodified":1466490268,
     "wof:name":"North Side Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.79299,40.425534,-90.79299,40.425534],
+  "bbox": [
+    -90.79299,
+    40.425534,
+    -90.79299,
+    40.425534
+],
   "geometry": {"coordinates":[-90.79299,40.425534],"type":"Point"}
 }

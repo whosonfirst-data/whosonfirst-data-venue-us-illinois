@@ -2,13 +2,14 @@
   "id": 185841519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.390144,40.15783,-89.390144,40.15783",
     "geom:latitude":40.15783,
     "geom:longitude":-89.390144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Woodlawn Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":185841519,
-    "wof:lastmodified":1449006956,
+    "wof:lastmodified":1466489283,
     "wof:name":"Big R Of Lincoln",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "saw"
     ]
 },
-  "bbox": [-89.390144,40.15783,-89.390144,40.15783],
-  "geometry": {"coordinates":[-89.390144,40.15783],"type":"Point"}
+  "bbox": [
+    -89.390144,
+    40.15783,
+    -89.390144,
+    40.15783
+],
+  "geometry": {"coordinates":[-89.39014400000001,40.15783],"type":"Point"}
 }

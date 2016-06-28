@@ -2,13 +2,14 @@
   "id": 303119149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900742,42.270184,-87.900742,42.270184",
     "geom:latitude":42.270184,
     "geom:longitude":-87.900742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28101 Ballard Dr",
     "sg:city":"Lake Forest",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303119149,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466491716,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.900742,42.270184,-87.900742,42.270184],
-  "geometry": {"coordinates":[-87.900742,42.270184],"type":"Point"}
+  "bbox": [
+    -87.900742,
+    42.270184,
+    -87.900742,
+    42.270184
+],
+  "geometry": {"coordinates":[-87.90074199999999,42.270184],"type":"Point"}
 }

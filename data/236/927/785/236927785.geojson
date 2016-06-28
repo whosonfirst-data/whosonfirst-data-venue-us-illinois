@@ -2,13 +2,14 @@
   "id": 236927785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.053697,42.259323,-89.053697,42.259323",
     "geom:latitude":42.259323,
     "geom:longitude":-89.053697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 Charles St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236927785,
-    "wof:lastmodified":1449004830,
+    "wof:lastmodified":1466498342,
     "wof:name":"McDonalds",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.053697,42.259323,-89.053697,42.259323],
+  "bbox": [
+    -89.053697,
+    42.259323,
+    -89.053697,
+    42.259323
+],
   "geometry": {"coordinates":[-89.053697,42.259323],"type":"Point"}
 }

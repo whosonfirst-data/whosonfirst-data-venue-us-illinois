@@ -2,13 +2,14 @@
   "id": 219594665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.335022,41.770329,-88.335022,41.770329",
     "geom:latitude":41.770329,
     "geom:longitude":-88.335022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 W Illinois Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219594665,
-    "wof:lastmodified":1449070904,
+    "wof:lastmodified":1466494279,
     "wof:name":"Illinois Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.335022,41.770329,-88.335022,41.770329],
+  "bbox": [
+    -88.335022,
+    41.770329,
+    -88.335022,
+    41.770329
+],
   "geometry": {"coordinates":[-88.335022,41.770329],"type":"Point"}
 }

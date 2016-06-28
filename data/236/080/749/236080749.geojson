@@ -2,13 +2,14 @@
   "id": 236080749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.819808,41.633617,-87.819808,41.633617",
     "geom:latitude":41.633617,
     "geom:longitude":-87.819808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14200 S 82nd Ave",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236080749,
-    "wof:lastmodified":1449005135,
+    "wof:lastmodified":1466489944,
     "wof:name":"Prairie School",
     "wof:parent_id":85890895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.819808,41.633617,-87.819808,41.633617],
-  "geometry": {"coordinates":[-87.819808,41.633617],"type":"Point"}
+  "bbox": [
+    -87.819808,
+    41.633617,
+    -87.819808,
+    41.633617
+],
+  "geometry": {"coordinates":[-87.81980799999999,41.633617],"type":"Point"}
 }

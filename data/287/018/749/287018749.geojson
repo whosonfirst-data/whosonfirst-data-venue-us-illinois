@@ -2,13 +2,14 @@
   "id": 287018749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.976036,38.581787,-89.976036,38.581787",
     "geom:latitude":38.581787,
     "geom:longitude":-89.976036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Joseph Dr",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287018749,
-    "wof:lastmodified":1449001105,
+    "wof:lastmodified":1466490268,
     "wof:name":"William Holliday School",
     "wof:parent_id":85813041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.976036,38.581787,-89.976036,38.581787],
-  "geometry": {"coordinates":[-89.976036,38.581787],"type":"Point"}
+  "bbox": [
+    -89.976036,
+    38.581787,
+    -89.976036,
+    38.581787
+],
+  "geometry": {"coordinates":[-89.97603599999999,38.581787],"type":"Point"}
 }

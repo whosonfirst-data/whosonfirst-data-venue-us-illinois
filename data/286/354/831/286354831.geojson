@@ -2,13 +2,14 @@
   "id": 286354831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.740867,41.95259,-87.740867,41.95259",
     "geom:latitude":41.95259,
     "geom:longitude":-87.740867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3935 N Kilbourn Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286354831,
-    "wof:lastmodified":1449017766,
+    "wof:lastmodified":1466491247,
     "wof:name":"Law Office of James Fine",
     "wof:parent_id":85867763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.740867,41.95259,-87.740867,41.95259],
-  "geometry": {"coordinates":[-87.740867,41.95259],"type":"Point"}
+  "bbox": [
+    -87.740867,
+    41.95259,
+    -87.740867,
+    41.95259
+],
+  "geometry": {"coordinates":[-87.74086699999999,41.95259],"type":"Point"}
 }

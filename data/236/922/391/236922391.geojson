@@ -2,13 +2,14 @@
   "id": 236922391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.822421,41.356602,-88.822421,41.356602",
     "geom:latitude":41.356602,
     "geom:longitude":-88.822421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Starfire Dr",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236922391,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1466498193,
     "wof:name":"Heartland Cardiovascular Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.822421,41.356602,-88.822421,41.356602],
-  "geometry": {"coordinates":[-88.822421,41.356602],"type":"Point"}
+  "bbox": [
+    -88.822421,
+    41.356602,
+    -88.822421,
+    41.356602
+],
+  "geometry": {"coordinates":[-88.82242100000001,41.356602],"type":"Point"}
 }

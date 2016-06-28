@@ -2,13 +2,14 @@
   "id": 202651027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.635579,40.1152,-87.635579,40.1152",
     "geom:latitude":40.1152,
     "geom:longitude":-87.635579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 E 2nd St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202651027,
-    "wof:lastmodified":1449060609,
+    "wof:lastmodified":1466490251,
     "wof:name":"Danville Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protection"
     ]
 },
-  "bbox": [-87.635579,40.1152,-87.635579,40.1152],
-  "geometry": {"coordinates":[-87.635579,40.1152],"type":"Point"}
+  "bbox": [
+    -87.635579,
+    40.1152,
+    -87.635579,
+    40.1152
+],
+  "geometry": {"coordinates":[-87.63557900000001,40.1152],"type":"Point"}
 }

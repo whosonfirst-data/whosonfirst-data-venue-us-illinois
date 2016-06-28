@@ -2,13 +2,14 @@
   "id": 185799137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.793022,39.41991,-88.793022,39.41991",
     "geom:latitude":39.41991,
     "geom:longitude":-88.793022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E North 12th St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185799137,
-    "wof:lastmodified":1449008216,
+    "wof:lastmodified":1466489021,
     "wof:name":"Shelbyville Bridges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-88.793022,39.41991,-88.793022,39.41991],
-  "geometry": {"coordinates":[-88.793022,39.41991],"type":"Point"}
+  "bbox": [
+    -88.793022,
+    39.41991,
+    -88.793022,
+    39.41991
+],
+  "geometry": {"coordinates":[-88.79302199999999,39.41991],"type":"Point"}
 }

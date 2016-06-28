@@ -2,13 +2,14 @@
   "id": 185798049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.796866,39.405245,-88.796866,39.405245",
     "geom:latitude":39.405245,
     "geom:longitude":-88.796866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Long St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185798049,
-    "wof:lastmodified":1449006919,
+    "wof:lastmodified":1466489015,
     "wof:name":"Joe Painting Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.796866,39.405245,-88.796866,39.405245],
-  "geometry": {"coordinates":[-88.796866,39.405245],"type":"Point"}
+  "bbox": [
+    -88.796866,
+    39.405245,
+    -88.796866,
+    39.405245
+],
+  "geometry": {"coordinates":[-88.79686599999999,39.405245],"type":"Point"}
 }

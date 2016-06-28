@@ -2,13 +2,14 @@
   "id": 185661861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.150609,38.336118,-90.150609,38.336118",
     "geom:latitude":38.336118,
     "geom:longitude":-90.150609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Mill St",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185661861,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466493927,
     "wof:name":"AmeriGas Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-90.150609,38.336118,-90.150609,38.336118],
+  "bbox": [
+    -90.150609,
+    38.336118,
+    -90.150609,
+    38.336118
+],
   "geometry": {"coordinates":[-90.150609,38.336118],"type":"Point"}
 }

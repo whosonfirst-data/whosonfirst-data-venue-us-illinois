@@ -2,13 +2,14 @@
   "id": 203369909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.994244,38.07587,-88.994244,38.07587",
     "geom:latitude":38.07587,
     "geom:longitude":-88.994244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14759 N Rend City Rd",
     "sg:city":"Sesser",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203369909,
-    "wof:lastmodified":1449026777,
+    "wof:lastmodified":1466491240,
     "wof:name":"Klaesners First Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.994244,38.07587,-88.994244,38.07587],
-  "geometry": {"coordinates":[-88.994244,38.07587],"type":"Point"}
+  "bbox": [
+    -88.994244,
+    38.07587,
+    -88.994244,
+    38.07587
+],
+  "geometry": {"coordinates":[-88.99424399999999,38.07587],"type":"Point"}
 }

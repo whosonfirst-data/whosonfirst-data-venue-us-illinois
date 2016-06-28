@@ -2,13 +2,14 @@
   "id": 269853187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.002291,41.796509,-88.002291,41.796509",
     "geom:latitude":41.796509,
     "geom:longitude":-88.002291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Rogers St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269853187,
-    "wof:lastmodified":1449037110,
+    "wof:lastmodified":1466494850,
     "wof:name":"Mattson",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.002291,41.796509,-88.002291,41.796509],
+  "bbox": [
+    -88.002291,
+    41.796509,
+    -88.002291,
+    41.796509
+],
   "geometry": {"coordinates":[-88.002291,41.796509],"type":"Point"}
 }

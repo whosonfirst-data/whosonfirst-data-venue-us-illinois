@@ -2,13 +2,14 @@
   "id": 202929929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809379,41.581295,-87.809379,41.581295",
     "geom:latitude":41.581295,
     "geom:longitude":-87.809379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17025 Bedford Ln",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202929929,
-    "wof:lastmodified":1449061086,
+    "wof:lastmodified":1466493530,
     "wof:name":"GE",
     "wof:parent_id":85890945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.809379,41.581295,-87.809379,41.581295],
-  "geometry": {"coordinates":[-87.809379,41.581295],"type":"Point"}
+  "bbox": [
+    -87.809379,
+    41.581295,
+    -87.809379,
+    41.581295
+],
+  "geometry": {"coordinates":[-87.80937900000001,41.581295],"type":"Point"}
 }

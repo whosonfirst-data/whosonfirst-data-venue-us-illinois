@@ -2,13 +2,14 @@
   "id": 269820839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.880685,42.279817,-87.880685,42.279817",
     "geom:latitude":42.279817,
     "geom:longitude":-87.880685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12610 Rockland Rd",
     "sg:city":"Lake Bluff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269820839,
-    "wof:lastmodified":1449037384,
+    "wof:lastmodified":1466494336,
     "wof:name":"Scooters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.880685,42.279817,-87.880685,42.279817],
+  "bbox": [
+    -87.880685,
+    42.279817,
+    -87.880685,
+    42.279817
+],
   "geometry": {"coordinates":[-87.880685,42.279817],"type":"Point"}
 }

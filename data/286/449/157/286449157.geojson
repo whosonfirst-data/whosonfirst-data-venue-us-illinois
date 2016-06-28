@@ -2,13 +2,14 @@
   "id": 286449157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030315,40.559955,-90.030315,40.559955",
     "geom:latitude":40.559955,
     "geom:longitude":-90.030315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 N 3rd Ave",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286449157,
-    "wof:lastmodified":1449017875,
+    "wof:lastmodified":1466492734,
     "wof:name":"Accent Limousine",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-90.030315,40.559955,-90.030315,40.559955],
+  "bbox": [
+    -90.030315,
+    40.559955,
+    -90.030315,
+    40.559955
+],
   "geometry": {"coordinates":[-90.030315,40.559955],"type":"Point"}
 }

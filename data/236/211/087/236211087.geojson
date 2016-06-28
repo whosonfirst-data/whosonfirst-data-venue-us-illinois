@@ -2,13 +2,14 @@
   "id": 236211087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.0483,41.536564,-88.0483,41.536564",
     "geom:latitude":41.536564,
     "geom:longitude":-88.0483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Copperfield Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236211087,
-    "wof:lastmodified":1449002290,
+    "wof:lastmodified":1466491574,
     "wof:name":"Midwest Heart Center",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.0483,41.536564,-88.0483,41.536564],
+  "bbox": [
+    -88.0483,
+    41.536564,
+    -88.0483,
+    41.536564
+],
   "geometry": {"coordinates":[-88.0483,41.536564],"type":"Point"}
 }

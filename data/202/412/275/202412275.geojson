@@ -2,13 +2,14 @@
   "id": 202412275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747729,41.690706,-87.747729,41.690706",
     "geom:latitude":41.690706,
     "geom:longitude":-87.747729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 W 111th St",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202412275,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466493349,
     "wof:name":"Georgia's Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.747729,41.690706,-87.747729,41.690706],
-  "geometry": {"coordinates":[-87.747729,41.690706],"type":"Point"}
+  "bbox": [
+    -87.747729,
+    41.690706,
+    -87.747729,
+    41.690706
+],
+  "geometry": {"coordinates":[-87.74772900000001,41.690706],"type":"Point"}
 }

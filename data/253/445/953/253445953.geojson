@@ -2,13 +2,14 @@
   "id": 253445953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.217549,39.723149,-90.217549,39.723149",
     "geom:latitude":39.723149,
     "geom:longitude":-90.217549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Morton Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253445953,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466494971,
     "wof:name":"Drivers License Exam Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-90.217549,39.723149,-90.217549,39.723149],
-  "geometry": {"coordinates":[-90.217549,39.723149],"type":"Point"}
+  "bbox": [
+    -90.217549,
+    39.723149,
+    -90.217549,
+    39.723149
+],
+  "geometry": {"coordinates":[-90.21754900000001,39.723149],"type":"Point"}
 }

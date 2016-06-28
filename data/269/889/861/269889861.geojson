@@ -2,13 +2,14 @@
   "id": 269889861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.734907,42.046192,-87.734907,42.046192",
     "geom:latitude":42.046192,
     "geom:longitude":-87.734907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Kildare Ave",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269889861,
-    "wof:lastmodified":1449036103,
+    "wof:lastmodified":1466495412,
     "wof:name":"Saint Timothys Lutheran Church",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.734907,42.046192,-87.734907,42.046192],
-  "geometry": {"coordinates":[-87.734907,42.046192],"type":"Point"}
+  "bbox": [
+    -87.734907,
+    42.046192,
+    -87.734907,
+    42.046192
+],
+  "geometry": {"coordinates":[-87.73490700000001,42.046192],"type":"Point"}
 }

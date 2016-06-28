@@ -2,13 +2,14 @@
   "id": 286328591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087274,41.545408,-88.087274,41.545408",
     "geom:latitude":41.545408,
     "geom:longitude":-88.087274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Hickory St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286328591,
-    "wof:lastmodified":1449016928,
+    "wof:lastmodified":1466490850,
     "wof:name":"Lumpy Pickle Co",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.087274,41.545408,-88.087274,41.545408],
-  "geometry": {"coordinates":[-88.087274,41.545408],"type":"Point"}
+  "bbox": [
+    -88.087274,
+    41.545408,
+    -88.087274,
+    41.545408
+],
+  "geometry": {"coordinates":[-88.08727399999999,41.545408],"type":"Point"}
 }

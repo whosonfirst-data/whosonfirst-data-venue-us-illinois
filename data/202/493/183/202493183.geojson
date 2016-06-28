@@ -2,13 +2,14 @@
   "id": 202493183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.152775,41.514704,-88.152775,41.514704",
     "geom:latitude":41.514704,
     "geom:longitude":-88.152775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 McDonough St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202493183,
-    "wof:lastmodified":1449060914,
+    "wof:lastmodified":1466494992,
     "wof:name":"Juvenile Probation",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-88.152775,41.514704,-88.152775,41.514704],
-  "geometry": {"coordinates":[-88.152775,41.514704],"type":"Point"}
+  "bbox": [
+    -88.152775,
+    41.514704,
+    -88.152775,
+    41.514704
+],
+  "geometry": {"coordinates":[-88.15277500000001,41.514704],"type":"Point"}
 }

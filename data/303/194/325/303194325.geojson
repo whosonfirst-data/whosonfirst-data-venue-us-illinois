@@ -2,13 +2,14 @@
   "id": 303194325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95952,41.512196,-87.95952,41.512196",
     "geom:latitude":41.512196,
     "geom:longitude":-87.95952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 E Lincoln Hwy",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303194325,
-    "wof:lastmodified":1449000206,
+    "wof:lastmodified":1466492952,
     "wof:name":"Bp Connect",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.95952,41.512196,-87.95952,41.512196],
+  "bbox": [
+    -87.95952,
+    41.512196,
+    -87.95952,
+    41.512196
+],
   "geometry": {"coordinates":[-87.95952,41.512196],"type":"Point"}
 }

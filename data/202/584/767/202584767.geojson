@@ -2,13 +2,14 @@
   "id": 202584767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.112558,42.23686,-88.112558,42.23686",
     "geom:latitude":42.23686,
     "geom:longitude":-88.112558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24404 N US Hwy 12",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202584767,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466489494,
     "wof:name":"E-Z-Go",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cart"
     ]
 },
-  "bbox": [-88.112558,42.23686,-88.112558,42.23686],
-  "geometry": {"coordinates":[-88.112558,42.23686],"type":"Point"}
+  "bbox": [
+    -88.112558,
+    42.23686,
+    -88.112558,
+    42.23686
+],
+  "geometry": {"coordinates":[-88.11255800000001,42.23686],"type":"Point"}
 }

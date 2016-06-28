@@ -2,13 +2,14 @@
   "id": 219878551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.854624,41.496846,-87.854624,41.496846",
     "geom:latitude":41.496846,
     "geom:longitude":-87.854624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Maple St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219878551,
-    "wof:lastmodified":1449072229,
+    "wof:lastmodified":1466496843,
     "wof:name":"Cambria Fire Dept",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.854624,41.496846,-87.854624,41.496846],
+  "bbox": [
+    -87.854624,
+    41.496846,
+    -87.854624,
+    41.496846
+],
   "geometry": {"coordinates":[-87.854624,41.496846],"type":"Point"}
 }

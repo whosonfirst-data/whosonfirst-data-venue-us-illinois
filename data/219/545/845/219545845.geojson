@@ -2,13 +2,14 @@
   "id": 219545845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.410671,41.510771,-90.410671,41.510771",
     "geom:latitude":41.510771,
     "geom:longitude":-90.410671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 13th St",
     "sg:city":"Rapids City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219545845,
-    "wof:lastmodified":1449071244,
+    "wof:lastmodified":1466493711,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.410671,41.510771,-90.410671,41.510771],
-  "geometry": {"coordinates":[-90.410671,41.510771],"type":"Point"}
+  "bbox": [
+    -90.410671,
+    41.510771,
+    -90.410671,
+    41.510771
+],
+  "geometry": {"coordinates":[-90.41067099999999,41.510771],"type":"Point"}
 }

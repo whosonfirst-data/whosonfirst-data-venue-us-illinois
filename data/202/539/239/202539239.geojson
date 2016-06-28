@@ -2,13 +2,14 @@
   "id": 202539239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940773,41.87293,-87.940773,41.87293",
     "geom:latitude":41.87293,
     "geom:longitude":-87.940773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Washington St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202539239,
-    "wof:lastmodified":1449062706,
+    "wof:lastmodified":1466488939,
     "wof:name":"Elmhurst Anesthesiologists",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.940773,41.87293,-87.940773,41.87293],
-  "geometry": {"coordinates":[-87.940773,41.87293],"type":"Point"}
+  "bbox": [
+    -87.940773,
+    41.87293,
+    -87.940773,
+    41.87293
+],
+  "geometry": {"coordinates":[-87.94077299999999,41.87293],"type":"Point"}
 }

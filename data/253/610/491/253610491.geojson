@@ -2,13 +2,14 @@
   "id": 253610491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670059,41.989655,-87.670059,41.989655",
     "geom:latitude":41.989655,
     "geom:longitude":-87.670059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5908 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253610491,
-    "wof:lastmodified":1449065755,
+    "wof:lastmodified":1466496914,
     "wof:name":"Fastback Express Corp",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "freight"
     ]
 },
-  "bbox": [-87.670059,41.989655,-87.670059,41.989655],
-  "geometry": {"coordinates":[-87.670059,41.989655],"type":"Point"}
+  "bbox": [
+    -87.670059,
+    41.989655,
+    -87.670059,
+    41.989655
+],
+  "geometry": {"coordinates":[-87.67005899999999,41.989655],"type":"Point"}
 }

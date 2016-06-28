@@ -2,13 +2,14 @@
   "id": 269682749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.086507,42.195075,-89.086507,42.195075",
     "geom:latitude":42.195075,
     "geom:longitude":-89.086507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5560 Falcon Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269682749,
-    "wof:lastmodified":1449036543,
+    "wof:lastmodified":1466492141,
     "wof:name":"RPI Food Svc",
     "wof:parent_id":85867957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.086507,42.195075,-89.086507,42.195075],
+  "bbox": [
+    -89.086507,
+    42.195075,
+    -89.086507,
+    42.195075
+],
   "geometry": {"coordinates":[-89.086507,42.195075],"type":"Point"}
 }

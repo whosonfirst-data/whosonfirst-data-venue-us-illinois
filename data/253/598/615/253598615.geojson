@@ -2,13 +2,14 @@
   "id": 253598615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.031779,38.583185,-89.031779,38.583185",
     "geom:latitude":38.583185,
     "geom:longitude":-89.031779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 W Line Rd",
     "sg:city":"Odin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253598615,
-    "wof:lastmodified":1449062975,
+    "wof:lastmodified":1466496741,
     "wof:name":"The Standard Oil Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pipeline"
     ]
 },
-  "bbox": [-89.031779,38.583185,-89.031779,38.583185],
+  "bbox": [
+    -89.031779,
+    38.583185,
+    -89.031779,
+    38.583185
+],
   "geometry": {"coordinates":[-89.031779,38.583185],"type":"Point"}
 }

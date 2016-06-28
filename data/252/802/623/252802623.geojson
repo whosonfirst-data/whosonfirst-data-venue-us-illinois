@@ -2,13 +2,14 @@
   "id": 252802623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.706922,41.329055,-88.706922,41.329055",
     "geom:latitude":41.329055,
     "geom:longitude":-88.706922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Washington St",
     "sg:city":"Marseilles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252802623,
-    "wof:lastmodified":1449006308,
+    "wof:lastmodified":1466490216,
     "wof:name":"Masonic Temple Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.706922,41.329055,-88.706922,41.329055],
-  "geometry": {"coordinates":[-88.706922,41.329055],"type":"Point"}
+  "bbox": [
+    -88.706922,
+    41.329055,
+    -88.706922,
+    41.329055
+],
+  "geometry": {"coordinates":[-88.70692200000001,41.329055],"type":"Point"}
 }

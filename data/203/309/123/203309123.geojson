@@ -2,13 +2,14 @@
   "id": 203309123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.360628,40.146727,-89.360628,40.146727",
     "geom:latitude":40.146727,
     "geom:longitude":-89.360628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N McLean St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203309123,
-    "wof:lastmodified":1449025341,
+    "wof:lastmodified":1466490571,
     "wof:name":"Pink Shutter Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.360628,40.146727,-89.360628,40.146727],
-  "geometry": {"coordinates":[-89.360628,40.146727],"type":"Point"}
+  "bbox": [
+    -89.360628,
+    40.146727,
+    -89.360628,
+    40.146727
+],
+  "geometry": {"coordinates":[-89.36062800000001,40.146727],"type":"Point"}
 }

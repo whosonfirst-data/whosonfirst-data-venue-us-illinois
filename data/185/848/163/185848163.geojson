@@ -2,13 +2,14 @@
   "id": 185848163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.604599,39.8927,-89.604599,39.8927",
     "geom:latitude":39.8927,
     "geom:longitude":-89.604599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 S Crossing Rd",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185848163,
-    "wof:lastmodified":1449006833,
+    "wof:lastmodified":1466489327,
     "wof:name":"Williamsville State Bank & Trust",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.604599,39.8927,-89.604599,39.8927],
-  "geometry": {"coordinates":[-89.604599,39.8927],"type":"Point"}
+  "bbox": [
+    -89.604599,
+    39.8927,
+    -89.604599,
+    39.8927
+],
+  "geometry": {"coordinates":[-89.60459899999999,39.8927],"type":"Point"}
 }

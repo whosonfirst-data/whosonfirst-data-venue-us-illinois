@@ -2,13 +2,14 @@
   "id": 253677281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.2592,40.054485,-88.2592,40.054485",
     "geom:latitude":40.054485,
     "geom:longitude":-88.2592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 W Church St",
     "sg:city":"Savoy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253677281,
-    "wof:lastmodified":1449063890,
+    "wof:lastmodified":1466497279,
     "wof:name":"Visbox Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "integration"
     ]
 },
-  "bbox": [-88.2592,40.054485,-88.2592,40.054485],
-  "geometry": {"coordinates":[-88.2592,40.054485],"type":"Point"}
+  "bbox": [
+    -88.2592,
+    40.054485,
+    -88.2592,
+    40.054485
+],
+  "geometry": {"coordinates":[-88.25920000000001,40.054485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203202749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242289,40.13143,-88.242289,40.13143",
     "geom:latitude":40.13143,
     "geom:longitude":-88.242289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Howard St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203202749,
-    "wof:lastmodified":1449026613,
+    "wof:lastmodified":1466489382,
     "wof:name":"Grand Lodge Illinois IOOF",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.242289,40.13143,-88.242289,40.13143],
+  "bbox": [
+    -88.242289,
+    40.13143,
+    -88.242289,
+    40.13143
+],
   "geometry": {"coordinates":[-88.242289,40.13143],"type":"Point"}
 }

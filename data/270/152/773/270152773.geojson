@@ -2,13 +2,14 @@
   "id": 270152773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.67799,41.506253,-87.67799,41.506253",
     "geom:latitude":41.506253,
     "geom:longitude":-87.67799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Lincoln Hwy",
     "sg:city":"Olympia Fields",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270152773,
-    "wof:lastmodified":1449010491,
+    "wof:lastmodified":1466491288,
     "wof:name":"Enterprise Rent-A-Car Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-87.67799,41.506253,-87.67799,41.506253],
-  "geometry": {"coordinates":[-87.67799,41.506253],"type":"Point"}
+  "bbox": [
+    -87.67799,
+    41.506253,
+    -87.67799,
+    41.506253
+],
+  "geometry": {"coordinates":[-87.67798999999999,41.506253],"type":"Point"}
 }

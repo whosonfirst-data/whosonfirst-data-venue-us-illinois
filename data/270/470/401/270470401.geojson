@@ -2,13 +2,14 @@
   "id": 270470401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.976042,41.952709,-87.976042,41.952709",
     "geom:latitude":41.952709,
     "geom:longitude":-87.976042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Elizabeth Ct",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270470401,
-    "wof:lastmodified":1449009221,
+    "wof:lastmodified":1466495992,
     "wof:name":"A-AAA Go Lock Svc",
     "wof:parent_id":85890711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-87.976042,41.952709,-87.976042,41.952709],
-  "geometry": {"coordinates":[-87.976042,41.952709],"type":"Point"}
+  "bbox": [
+    -87.976042,
+    41.952709,
+    -87.976042,
+    41.952709
+],
+  "geometry": {"coordinates":[-87.97604200000001,41.952709],"type":"Point"}
 }

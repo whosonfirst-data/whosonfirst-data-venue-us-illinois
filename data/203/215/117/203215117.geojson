@@ -2,13 +2,14 @@
   "id": 203215117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.786434,41.868476,-87.786434,41.868476",
     "geom:latitude":41.868476,
     "geom:longitude":-87.786434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Gunderson Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203215117,
-    "wof:lastmodified":1449026511,
+    "wof:lastmodified":1466489518,
     "wof:name":"Chuck's Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiator"
     ]
 },
-  "bbox": [-87.786434,41.868476,-87.786434,41.868476],
+  "bbox": [
+    -87.786434,
+    41.868476,
+    -87.786434,
+    41.868476
+],
   "geometry": {"coordinates":[-87.786434,41.868476],"type":"Point"}
 }

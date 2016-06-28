@@ -2,13 +2,14 @@
   "id": 236685539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685571,41.711786,-87.685571,41.711786",
     "geom:latitude":41.711786,
     "geom:longitude":-87.685571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10046 S Maplewood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236685539,
-    "wof:lastmodified":1449005153,
+    "wof:lastmodified":1466497118,
     "wof:name":"CEC Properties",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.685571,41.711786,-87.685571,41.711786],
+  "bbox": [
+    -87.685571,
+    41.711786,
+    -87.685571,
+    41.711786
+],
   "geometry": {"coordinates":[-87.685571,41.711786],"type":"Point"}
 }

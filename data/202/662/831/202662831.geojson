@@ -2,13 +2,14 @@
   "id": 202662831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840984,41.062581,-87.840984,41.062581",
     "geom:latitude":41.062581,
     "geom:longitude":-87.840984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E 4000S Rd",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202662831,
-    "wof:lastmodified":1449061807,
+    "wof:lastmodified":1466490384,
     "wof:name":"Us Faa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-87.840984,41.062581,-87.840984,41.062581],
-  "geometry": {"coordinates":[-87.840984,41.062581],"type":"Point"}
+  "bbox": [
+    -87.840984,
+    41.062581,
+    -87.840984,
+    41.062581
+],
+  "geometry": {"coordinates":[-87.84098400000001,41.062581],"type":"Point"}
 }

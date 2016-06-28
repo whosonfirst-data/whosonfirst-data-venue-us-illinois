@@ -2,13 +2,14 @@
   "id": 219191021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.230714,38.599122,-88.230714,38.599122",
     "geom:latitude":38.599122,
     "geom:longitude":-88.230714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 E Berryville Ln",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219191021,
-    "wof:lastmodified":1449072533,
+    "wof:lastmodified":1466489375,
     "wof:name":"Sam Bourne Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.230714,38.599122,-88.230714,38.599122],
-  "geometry": {"coordinates":[-88.230714,38.599122],"type":"Point"}
+  "bbox": [
+    -88.230714,
+    38.599122,
+    -88.230714,
+    38.599122
+],
+  "geometry": {"coordinates":[-88.23071400000001,38.599122],"type":"Point"}
 }

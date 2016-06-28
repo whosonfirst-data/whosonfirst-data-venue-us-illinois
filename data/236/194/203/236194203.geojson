@@ -2,13 +2,14 @@
   "id": 236194203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132219,41.543509,-88.132219,41.543509",
     "geom:latitude":41.543509,
     "geom:longitude":-88.132219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Belden Way",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236194203,
-    "wof:lastmodified":1449004671,
+    "wof:lastmodified":1466491350,
     "wof:name":"Thomas Financial Services",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-88.132219,41.543509,-88.132219,41.543509],
-  "geometry": {"coordinates":[-88.132219,41.543509],"type":"Point"}
+  "bbox": [
+    -88.132219,
+    41.543509,
+    -88.132219,
+    41.543509
+],
+  "geometry": {"coordinates":[-88.13221900000001,41.543509],"type":"Point"}
 }

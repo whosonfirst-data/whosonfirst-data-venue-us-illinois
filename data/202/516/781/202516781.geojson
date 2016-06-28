@@ -2,13 +2,14 @@
   "id": 202516781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.263832,38.541122,-89.263832,38.541122",
     "geom:latitude":38.541122,
     "geom:longitude":-89.263832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Broadway",
     "sg:city":"Hoffman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202516781,
-    "wof:lastmodified":1449060598,
+    "wof:lastmodified":1466495339,
     "wof:name":"Village of Hoffman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "town"
     ]
 },
-  "bbox": [-89.263832,38.541122,-89.263832,38.541122],
-  "geometry": {"coordinates":[-89.263832,38.541122],"type":"Point"}
+  "bbox": [
+    -89.263832,
+    38.541122,
+    -89.263832,
+    38.541122
+],
+  "geometry": {"coordinates":[-89.26383199999999,38.541122],"type":"Point"}
 }

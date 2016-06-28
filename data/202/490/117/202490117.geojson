@@ -2,13 +2,14 @@
   "id": 202490117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.658116,40.85675,-89.658116,40.85675",
     "geom:latitude":40.85675,
     "geom:longitude":-89.658116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 W Legion Hall Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202490117,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466494944,
     "wof:name":"Lloyds Plumbing Repair",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.658116,40.85675,-89.658116,40.85675],
-  "geometry": {"coordinates":[-89.658116,40.85675],"type":"Point"}
+  "bbox": [
+    -89.658116,
+    40.85675,
+    -89.658116,
+    40.85675
+],
+  "geometry": {"coordinates":[-89.65811600000001,40.85675],"type":"Point"}
 }

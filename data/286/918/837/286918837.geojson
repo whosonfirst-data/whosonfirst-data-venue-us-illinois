@@ -2,13 +2,14 @@
   "id": 286918837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835125,41.573417,-87.835125,41.573417",
     "geom:latitude":41.573417,
     "geom:longitude":-87.835125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8921 Chestnut Dr",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286918837,
-    "wof:lastmodified":1449017185,
+    "wof:lastmodified":1466498099,
     "wof:name":"Chicago Heights Wireless Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-87.835125,41.573417,-87.835125,41.573417],
-  "geometry": {"coordinates":[-87.835125,41.573417],"type":"Point"}
+  "bbox": [
+    -87.835125,
+    41.573417,
+    -87.835125,
+    41.573417
+],
+  "geometry": {"coordinates":[-87.83512500000001,41.573417],"type":"Point"}
 }

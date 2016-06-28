@@ -2,13 +2,14 @@
   "id": 269763937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.319842,41.880238,-88.319842,41.880238",
     "geom:latitude":41.880238,
     "geom:longitude":-88.319842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Cheever Ave",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269763937,
-    "wof:lastmodified":1449038952,
+    "wof:lastmodified":1466493449,
     "wof:name":"Glaser Virgil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-88.319842,41.880238,-88.319842,41.880238],
-  "geometry": {"coordinates":[-88.319842,41.880238],"type":"Point"}
+  "bbox": [
+    -88.319842,
+    41.880238,
+    -88.319842,
+    41.880238
+],
+  "geometry": {"coordinates":[-88.31984199999999,41.880238],"type":"Point"}
 }

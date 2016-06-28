@@ -2,13 +2,14 @@
   "id": 287160483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.851121,41.495977,-87.851121,41.495977",
     "geom:latitude":41.495977,
     "geom:longitude":-87.851121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Oak St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287160483,
-    "wof:lastmodified":1449001427,
+    "wof:lastmodified":1466492555,
     "wof:name":"Frankfort Park District",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.851121,41.495977,-87.851121,41.495977],
-  "geometry": {"coordinates":[-87.851121,41.495977],"type":"Point"}
+  "bbox": [
+    -87.851121,
+    41.495977,
+    -87.851121,
+    41.495977
+],
+  "geometry": {"coordinates":[-87.85112100000001,41.495977],"type":"Point"}
 }

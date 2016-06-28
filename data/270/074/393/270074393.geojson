@@ -2,13 +2,14 @@
   "id": 270074393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.839537,42.269017,-88.839537,42.269017",
     "geom:latitude":42.269017,
     "geom:longitude":-88.839537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 E Jackson St",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270074393,
-    "wof:lastmodified":1449009962,
+    "wof:lastmodified":1466490131,
     "wof:name":"State Line Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.839537,42.269017,-88.839537,42.269017],
-  "geometry": {"coordinates":[-88.839537,42.269017],"type":"Point"}
+  "bbox": [
+    -88.839537,
+    42.269017,
+    -88.839537,
+    42.269017
+],
+  "geometry": {"coordinates":[-88.83953700000001,42.269017],"type":"Point"}
 }

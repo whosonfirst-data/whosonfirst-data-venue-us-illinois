@@ -2,13 +2,14 @@
   "id": 203192399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138387,41.529482,-88.138387,41.529482",
     "geom:latitude":41.529482,
     "geom:longitude":-88.138387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2358 Glenwood Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203192399,
-    "wof:lastmodified":1449026308,
+    "wof:lastmodified":1466489267,
     "wof:name":"Swan Cleaners",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-88.138387,41.529482,-88.138387,41.529482],
-  "geometry": {"coordinates":[-88.138387,41.529482],"type":"Point"}
+  "bbox": [
+    -88.138387,
+    41.529482,
+    -88.138387,
+    41.529482
+],
+  "geometry": {"coordinates":[-88.13838699999999,41.529482],"type":"Point"}
 }

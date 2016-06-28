@@ -2,13 +2,14 @@
   "id": 202507151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.302455,41.77032,-88.302455,41.77032",
     "geom:latitude":41.77032,
     "geom:longitude":-88.302455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Edwards St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202507151,
-    "wof:lastmodified":1449061420,
+    "wof:lastmodified":1466495251,
     "wof:name":"Northwest Drywall",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.302455,41.77032,-88.302455,41.77032],
-  "geometry": {"coordinates":[-88.302455,41.77032],"type":"Point"}
+  "bbox": [
+    -88.302455,
+    41.77032,
+    -88.302455,
+    41.77032
+],
+  "geometry": {"coordinates":[-88.30245499999999,41.77032],"type":"Point"}
 }

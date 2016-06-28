@@ -2,13 +2,14 @@
   "id": 269796259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.272609,40.907852,-90.272609,40.907852",
     "geom:latitude":40.907852,
     "geom:longitude":-90.272609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 E Main St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269796259,
-    "wof:lastmodified":1449037266,
+    "wof:lastmodified":1466493957,
     "wof:name":"Knoxville Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.272609,40.907852,-90.272609,40.907852],
+  "bbox": [
+    -90.272609,
+    40.907852,
+    -90.272609,
+    40.907852
+],
   "geometry": {"coordinates":[-90.272609,40.907852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219494971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105091,41.537565,-88.105091,41.537565",
     "geom:latitude":41.537565,
     "geom:longitude":-88.105091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 N William St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219494971,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1466493127,
     "wof:name":"Whatman Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-88.105091,41.537565,-88.105091,41.537565],
+  "bbox": [
+    -88.105091,
+    41.537565,
+    -88.105091,
+    41.537565
+],
   "geometry": {"coordinates":[-88.105091,41.537565],"type":"Point"}
 }

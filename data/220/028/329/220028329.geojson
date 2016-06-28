@@ -2,13 +2,14 @@
   "id": 220028329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.208019,42.281435,-88.208019,42.281435",
     "geom:latitude":42.281435,
     "geom:longitude":-88.208019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Auburn Dr",
     "sg:city":"Island Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220028329,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466489285,
     "wof:name":"Dancer's Pointe",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-88.208019,42.281435,-88.208019,42.281435],
-  "geometry": {"coordinates":[-88.208019,42.281435],"type":"Point"}
+  "bbox": [
+    -88.208019,
+    42.281435,
+    -88.208019,
+    42.281435
+],
+  "geometry": {"coordinates":[-88.20801899999999,42.281435],"type":"Point"}
 }

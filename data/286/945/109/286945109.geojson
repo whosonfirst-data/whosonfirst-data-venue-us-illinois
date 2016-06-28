@@ -2,13 +2,14 @@
   "id": 286945109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.62646,39.715356,-88.62646,39.715356",
     "geom:latitude":39.715356,
     "geom:longitude":-88.62646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Noah St",
     "sg:city":"Lovington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286945109,
-    "wof:lastmodified":1449015436,
+    "wof:lastmodified":1466498318,
     "wof:name":"Soft Rain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "softening"
     ]
 },
-  "bbox": [-88.62646,39.715356,-88.62646,39.715356],
-  "geometry": {"coordinates":[-88.62646,39.715356],"type":"Point"}
+  "bbox": [
+    -88.62646,
+    39.715356,
+    -88.62646,
+    39.715356
+],
+  "geometry": {"coordinates":[-88.62645999999999,39.715356],"type":"Point"}
 }

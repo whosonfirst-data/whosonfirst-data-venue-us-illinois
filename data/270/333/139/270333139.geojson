@@ -2,13 +2,14 @@
   "id": 270333139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.026395,40.605922,-89.026395,40.605922",
     "geom:latitude":40.605922,
     "geom:longitude":-89.026395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12905 E 2200 North Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270333139,
-    "wof:lastmodified":1449010937,
+    "wof:lastmodified":1466494107,
     "wof:name":"Fine Woodworking",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-89.026395,40.605922,-89.026395,40.605922],
-  "geometry": {"coordinates":[-89.026395,40.605922],"type":"Point"}
+  "bbox": [
+    -89.026395,
+    40.605922,
+    -89.026395,
+    40.605922
+],
+  "geometry": {"coordinates":[-89.02639499999999,40.605922],"type":"Point"}
 }

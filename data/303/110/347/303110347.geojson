@@ -2,13 +2,14 @@
   "id": 303110347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.639409,41.938157,-87.639409,41.938157",
     "geom:latitude":41.938157,
     "geom:longitude":-87.639409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303110347,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466491572,
     "wof:name":"Ashley Management & Dev Corp",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-87.639409,41.938157,-87.639409,41.938157],
+  "bbox": [
+    -87.639409,
+    41.938157,
+    -87.639409,
+    41.938157
+],
   "geometry": {"coordinates":[-87.639409,41.938157],"type":"Point"}
 }

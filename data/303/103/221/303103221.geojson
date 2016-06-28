@@ -2,13 +2,14 @@
   "id": 303103221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.707949,41.910247,-87.707949,41.910247",
     "geom:latitude":41.910247,
     "geom:longitude":-87.707949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3214 W North Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303103221,
-    "wof:lastmodified":1448999647,
+    "wof:lastmodified":1466491452,
     "wof:name":"Labcarrita",
     "wof:parent_id":85867761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.707949,41.910247,-87.707949,41.910247],
+  "bbox": [
+    -87.707949,
+    41.910247,
+    -87.707949,
+    41.910247
+],
   "geometry": {"coordinates":[-87.707949,41.910247],"type":"Point"}
 }

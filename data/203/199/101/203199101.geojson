@@ -2,13 +2,14 @@
   "id": 203199101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.144539,42.050498,-88.144539,42.050498",
     "geom:latitude":42.050498,
     "geom:longitude":-88.144539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 S Barrington Rd",
     "sg:city":"Hoffman Estates",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203199101,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466489342,
     "wof:name":"Fox Valley Hematology Oncology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.144539,42.050498,-88.144539,42.050498],
-  "geometry": {"coordinates":[-88.144539,42.050498],"type":"Point"}
+  "bbox": [
+    -88.144539,
+    42.050498,
+    -88.144539,
+    42.050498
+],
+  "geometry": {"coordinates":[-88.14453899999999,42.050498],"type":"Point"}
 }

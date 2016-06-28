@@ -2,13 +2,14 @@
   "id": 269596373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.389789,40.1579,-89.389789,40.1579",
     "geom:latitude":40.1579,
     "geom:longitude":-89.389789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Woodlawn Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269596373,
-    "wof:lastmodified":1449037369,
+    "wof:lastmodified":1466490763,
     "wof:name":"Chart Distribution Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grease"
     ]
 },
-  "bbox": [-89.389789,40.1579,-89.389789,40.1579],
-  "geometry": {"coordinates":[-89.389789,40.1579],"type":"Point"}
+  "bbox": [
+    -89.389789,
+    40.1579,
+    -89.389789,
+    40.1579
+],
+  "geometry": {"coordinates":[-89.38978899999999,40.1579],"type":"Point"}
 }

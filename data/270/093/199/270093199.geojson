@@ -2,13 +2,14 @@
   "id": 270093199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.805245,37.926968,-89.805245,37.926968",
     "geom:latitude":37.926968,
     "geom:longitude":-89.805245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 State St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270093199,
-    "wof:lastmodified":1449008663,
+    "wof:lastmodified":1466490408,
     "wof:name":"Henry Gross Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.805245,37.926968,-89.805245,37.926968],
+  "bbox": [
+    -89.805245,
+    37.926968,
+    -89.805245,
+    37.926968
+],
   "geometry": {"coordinates":[-89.805245,37.926968],"type":"Point"}
 }

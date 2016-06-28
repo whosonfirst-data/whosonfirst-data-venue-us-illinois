@@ -2,13 +2,14 @@
   "id": 185848381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.605257,39.892093,-89.605257,39.892093",
     "geom:latitude":39.892093,
     "geom:longitude":-89.605257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Crossing Dr",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":185848381,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466489330,
     "wof:name":"Subway",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-89.605257,39.892093,-89.605257,39.892093],
-  "geometry": {"coordinates":[-89.605257,39.892093],"type":"Point"}
+  "bbox": [
+    -89.605257,
+    39.892093,
+    -89.605257,
+    39.892093
+],
+  "geometry": {"coordinates":[-89.60525699999999,39.892093],"type":"Point"}
 }

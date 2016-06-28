@@ -2,13 +2,14 @@
   "id": 185773497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.955836,39.841004,-88.955836,39.841004",
     "geom:latitude":39.841004,
     "geom:longitude":-88.955836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 S Main St Ste 501",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185773497,
-    "wof:lastmodified":1449006803,
+    "wof:lastmodified":1466495499,
     "wof:name":"Macon County Court Services",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "government-city"
     ]
 },
-  "bbox": [-88.955836,39.841004,-88.955836,39.841004],
-  "geometry": {"coordinates":[-88.955836,39.841004],"type":"Point"}
+  "bbox": [
+    -88.955836,
+    39.841004,
+    -88.955836,
+    39.841004
+],
+  "geometry": {"coordinates":[-88.95583600000001,39.841004],"type":"Point"}
 }

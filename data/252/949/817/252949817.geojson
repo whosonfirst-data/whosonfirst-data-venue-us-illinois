@@ -2,13 +2,14 @@
   "id": 252949817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764513,41.748541,-87.764513,41.748541",
     "geom:latitude":41.748541,
     "geom:longitude":-87.764513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7916 Massasoit Ave",
     "sg:city":"Bedford Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252949817,
-    "wof:lastmodified":1449006099,
+    "wof:lastmodified":1466492120,
     "wof:name":"Moises & Sons Trucking Inc",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.764513,41.748541,-87.764513,41.748541],
-  "geometry": {"coordinates":[-87.764513,41.748541],"type":"Point"}
+  "bbox": [
+    -87.764513,
+    41.748541,
+    -87.764513,
+    41.748541
+],
+  "geometry": {"coordinates":[-87.76451299999999,41.748541],"type":"Point"}
 }

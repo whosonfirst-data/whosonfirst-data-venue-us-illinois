@@ -2,13 +2,14 @@
   "id": 169853791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984817,38.670456,-89.984817,38.670456",
     "geom:latitude":38.670456,
     "geom:longitude":-89.984817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169853791,
-    "wof:lastmodified":1449034012,
+    "wof:lastmodified":1466495115,
     "wof:name":"Sizzor Shak",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "artist"
     ]
 },
-  "bbox": [-89.984817,38.670456,-89.984817,38.670456],
-  "geometry": {"coordinates":[-89.984817,38.670456],"type":"Point"}
+  "bbox": [
+    -89.984817,
+    38.670456,
+    -89.984817,
+    38.670456
+],
+  "geometry": {"coordinates":[-89.98481700000001,38.670456],"type":"Point"}
 }

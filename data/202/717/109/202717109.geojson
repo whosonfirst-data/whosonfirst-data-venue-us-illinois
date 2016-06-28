@@ -2,13 +2,14 @@
   "id": 202717109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030262,40.116779,-88.030262,40.116779",
     "geom:latitude":40.116779,
     "geom:longitude":-88.030262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Laurel Dr",
     "sg:city":"St Joseph",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202717109,
-    "wof:lastmodified":1449060164,
+    "wof:lastmodified":1466490993,
     "wof:name":"Choice Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-88.030262,40.116779,-88.030262,40.116779],
-  "geometry": {"coordinates":[-88.030262,40.116779],"type":"Point"}
+  "bbox": [
+    -88.030262,
+    40.116779,
+    -88.030262,
+    40.116779
+],
+  "geometry": {"coordinates":[-88.03026199999999,40.116779],"type":"Point"}
 }

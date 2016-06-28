@@ -2,13 +2,14 @@
   "id": 236510441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.357705,39.905901,-91.357705,39.905901",
     "geom:latitude":39.905901,
     "geom:longitude":-91.357705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Talken Dr",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236510441,
-    "wof:lastmodified":1449003673,
+    "wof:lastmodified":1466495514,
     "wof:name":"Circle Sewer Svc",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-91.357705,39.905901,-91.357705,39.905901],
+  "bbox": [
+    -91.357705,
+    39.905901,
+    -91.357705,
+    39.905901
+],
   "geometry": {"coordinates":[-91.357705,39.905901],"type":"Point"}
 }

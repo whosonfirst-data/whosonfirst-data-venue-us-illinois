@@ -2,13 +2,14 @@
   "id": 203003633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.401345,39.931799,-91.401345,39.931799",
     "geom:latitude":39.931799,
     "geom:longitude":-91.401345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Maine St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203003633,
-    "wof:lastmodified":1449026722,
+    "wof:lastmodified":1466488962,
     "wof:name":"Geise Jewel Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.401345,39.931799,-91.401345,39.931799],
-  "geometry": {"coordinates":[-91.401345,39.931799],"type":"Point"}
+  "bbox": [
+    -91.401345,
+    39.931799,
+    -91.401345,
+    39.931799
+],
+  "geometry": {"coordinates":[-91.40134500000001,39.931799],"type":"Point"}
 }

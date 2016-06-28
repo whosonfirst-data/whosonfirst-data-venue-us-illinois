@@ -2,13 +2,14 @@
   "id": 270521429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.177501,41.560066,-88.177501,41.560066",
     "geom:latitude":41.560066,
     "geom:longitude":-88.177501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 September Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270521429,
-    "wof:lastmodified":1449011008,
+    "wof:lastmodified":1466496633,
     "wof:name":"A M Computer Svc",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.177501,41.560066,-88.177501,41.560066],
-  "geometry": {"coordinates":[-88.177501,41.560066],"type":"Point"}
+  "bbox": [
+    -88.177501,
+    41.560066,
+    -88.177501,
+    41.560066
+],
+  "geometry": {"coordinates":[-88.17750100000001,41.560066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303067309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.253532,41.770003,-88.253532,41.770003",
     "geom:latitude":41.770003,
     "geom:longitude":-88.253532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 Glenford Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303067309,
-    "wof:lastmodified":1448998276,
+    "wof:lastmodified":1466490897,
     "wof:name":"PC Proformance",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.253532,41.770003,-88.253532,41.770003],
-  "geometry": {"coordinates":[-88.253532,41.770003],"type":"Point"}
+  "bbox": [
+    -88.253532,
+    41.770003,
+    -88.253532,
+    41.770003
+],
+  "geometry": {"coordinates":[-88.25353200000001,41.770003],"type":"Point"}
 }

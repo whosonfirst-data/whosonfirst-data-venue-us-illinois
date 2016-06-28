@@ -2,13 +2,14 @@
   "id": 236665761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76839,41.885121,-87.76839,41.885121",
     "geom:latitude":41.885121,
     "geom:longitude":-87.76839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 N Waller Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236665761,
-    "wof:lastmodified":1449002497,
+    "wof:lastmodified":1466496992,
     "wof:name":"Universal Landscape",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-87.76839,41.885121,-87.76839,41.885121],
+  "bbox": [
+    -87.76839,
+    41.885121,
+    -87.76839,
+    41.885121
+],
   "geometry": {"coordinates":[-87.76839,41.885121],"type":"Point"}
 }

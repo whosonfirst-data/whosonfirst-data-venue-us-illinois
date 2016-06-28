@@ -2,13 +2,14 @@
   "id": 287022865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.299504,41.735158,-88.299504,41.735158",
     "geom:latitude":41.735158,
     "geom:longitude":-88.299504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S State St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287022865,
-    "wof:lastmodified":1449000954,
+    "wof:lastmodified":1466490329,
     "wof:name":"Standard Parking",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-88.299504,41.735158,-88.299504,41.735158],
+  "bbox": [
+    -88.299504,
+    41.735158,
+    -88.299504,
+    41.735158
+],
   "geometry": {"coordinates":[-88.299504,41.735158],"type":"Point"}
 }

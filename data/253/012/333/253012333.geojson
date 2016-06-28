@@ -2,13 +2,14 @@
   "id": 253012333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.649617,39.374631,-89.649617,39.374631",
     "geom:latitude":39.374631,
     "geom:longitude":-89.649617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 S McCullough St",
     "sg:city":"Waggoner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253012333,
-    "wof:lastmodified":1449065487,
+    "wof:lastmodified":1466489147,
     "wof:name":"Farmersville Press",
     "wof:parent_id":85852173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-89.649617,39.374631,-89.649617,39.374631],
-  "geometry": {"coordinates":[-89.649617,39.374631],"type":"Point"}
+  "bbox": [
+    -89.649617,
+    39.374631,
+    -89.649617,
+    39.374631
+],
+  "geometry": {"coordinates":[-89.64961700000001,39.374631],"type":"Point"}
 }

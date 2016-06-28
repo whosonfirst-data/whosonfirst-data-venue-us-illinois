@@ -2,13 +2,14 @@
   "id": 270139133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111753,42.205603,-88.111753,42.205603",
     "geom:latitude":42.205603,
     "geom:longitude":-88.111753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21060 N Rand Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270139133,
-    "wof:lastmodified":1449008876,
+    "wof:lastmodified":1466491094,
     "wof:name":"Hutch Music Studio",
     "wof:parent_id":85867895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-88.111753,42.205603,-88.111753,42.205603],
-  "geometry": {"coordinates":[-88.111753,42.205603],"type":"Point"}
+  "bbox": [
+    -88.111753,
+    42.205603,
+    -88.111753,
+    42.205603
+],
+  "geometry": {"coordinates":[-88.11175299999999,42.205603],"type":"Point"}
 }

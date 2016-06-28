@@ -2,13 +2,14 @@
   "id": 269547743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741582,41.65899,-87.741582,41.65899",
     "geom:latitude":41.65899,
     "geom:longitude":-87.741582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 W 128th Pl",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269547743,
-    "wof:lastmodified":1449036398,
+    "wof:lastmodified":1466489993,
     "wof:name":"Allied Mechanical Inc",
     "wof:parent_id":85890723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.741582,41.65899,-87.741582,41.65899],
-  "geometry": {"coordinates":[-87.741582,41.65899],"type":"Point"}
+  "bbox": [
+    -87.741582,
+    41.65899,
+    -87.741582,
+    41.65899
+],
+  "geometry": {"coordinates":[-87.74158199999999,41.65899],"type":"Point"}
 }

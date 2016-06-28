@@ -2,13 +2,14 @@
   "id": 287000087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741188,41.746513,-87.741188,41.746513",
     "geom:latitude":41.746513,
     "geom:longitude":-87.741188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7951 S Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287000087,
-    "wof:lastmodified":1449000803,
+    "wof:lastmodified":1466495639,
     "wof:name":"Check Now",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-87.741188,41.746513,-87.741188,41.746513],
-  "geometry": {"coordinates":[-87.741188,41.746513],"type":"Point"}
+  "bbox": [
+    -87.741188,
+    41.746513,
+    -87.741188,
+    41.746513
+],
+  "geometry": {"coordinates":[-87.74118799999999,41.746513],"type":"Point"}
 }

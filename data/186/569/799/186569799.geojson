@@ -2,13 +2,14 @@
   "id": 186569799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272742,40.71881,-89.272742,40.71881",
     "geom:latitude":40.71881,
     "geom:longitude":-89.272742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 State Rte 117",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186569799,
-    "wof:lastmodified":1449052935,
+    "wof:lastmodified":1466489046,
     "wof:name":"Soy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-89.272742,40.71881,-89.272742,40.71881],
-  "geometry": {"coordinates":[-89.272742,40.71881],"type":"Point"}
+  "bbox": [
+    -89.272742,
+    40.71881,
+    -89.272742,
+    40.71881
+],
+  "geometry": {"coordinates":[-89.27274199999999,40.71881],"type":"Point"}
 }

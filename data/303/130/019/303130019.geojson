@@ -2,13 +2,14 @@
   "id": 303130019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.018574,42.05976,-88.018574,42.05976",
     "geom:latitude":42.05976,
     "geom:longitude":-88.018574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Newport Dr",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303130019,
-    "wof:lastmodified":1448998957,
+    "wof:lastmodified":1466491897,
     "wof:name":"Modagrafics Inc",
     "wof:parent_id":85867819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "interior"
     ]
 },
-  "bbox": [-88.018574,42.05976,-88.018574,42.05976],
+  "bbox": [
+    -88.018574,
+    42.05976,
+    -88.018574,
+    42.05976
+],
   "geometry": {"coordinates":[-88.018574,42.05976],"type":"Point"}
 }

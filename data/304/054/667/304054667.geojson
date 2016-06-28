@@ -2,13 +2,14 @@
   "id": 304054667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.533222,41.453296,-87.533222,41.453296",
     "geom:latitude":41.453296,
     "geom:longitude":-87.533222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24150 S Lakeside Trl",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304054667,
-    "wof:lastmodified":1449043813,
+    "wof:lastmodified":1466491384,
     "wof:name":"CMIT Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-87.533222,41.453296,-87.533222,41.453296],
-  "geometry": {"coordinates":[-87.533222,41.453296],"type":"Point"}
+  "bbox": [
+    -87.533222,
+    41.453296,
+    -87.533222,
+    41.453296
+],
+  "geometry": {"coordinates":[-87.53322199999999,41.453296],"type":"Point"}
 }

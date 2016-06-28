@@ -2,13 +2,14 @@
   "id": 235935501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.146833,38.901084,-90.146833,38.901084",
     "geom:latitude":38.901084,
     "geom:longitude":-90.146833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Edwards St",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235935501,
-    "wof:lastmodified":1449008538,
+    "wof:lastmodified":1466495629,
     "wof:name":"Drug Treatment Program",
     "wof:parent_id":85868935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-90.146833,38.901084,-90.146833,38.901084],
+  "bbox": [
+    -90.146833,
+    38.901084,
+    -90.146833,
+    38.901084
+],
   "geometry": {"coordinates":[-90.146833,38.901084],"type":"Point"}
 }

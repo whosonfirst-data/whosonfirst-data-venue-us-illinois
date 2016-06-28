@@ -2,13 +2,14 @@
   "id": 203335079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.564254,41.751681,-87.564254,41.751681",
     "geom:latitude":41.751681,
     "geom:longitude":-87.564254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2459 E 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203335079,
-    "wof:lastmodified":1449026234,
+    "wof:lastmodified":1466490852,
     "wof:name":"Ford Cleaners",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-87.564254,41.751681,-87.564254,41.751681],
-  "geometry": {"coordinates":[-87.564254,41.751681],"type":"Point"}
+  "bbox": [
+    -87.564254,
+    41.751681,
+    -87.564254,
+    41.751681
+],
+  "geometry": {"coordinates":[-87.56425400000001,41.751681],"type":"Point"}
 }

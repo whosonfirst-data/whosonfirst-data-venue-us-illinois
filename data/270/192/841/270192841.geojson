@@ -2,13 +2,14 @@
   "id": 270192841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086503,42.157769,-88.086503,42.157769",
     "geom:latitude":42.157769,
     "geom:longitude":-88.086503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Ferndale Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270192841,
-    "wof:lastmodified":1449010379,
+    "wof:lastmodified":1466491916,
     "wof:name":"Kelk & Associates",
     "wof:parent_id":85867901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-88.086503,42.157769,-88.086503,42.157769],
-  "geometry": {"coordinates":[-88.086503,42.157769],"type":"Point"}
+  "bbox": [
+    -88.086503,
+    42.157769,
+    -88.086503,
+    42.157769
+],
+  "geometry": {"coordinates":[-88.08650299999999,42.157769],"type":"Point"}
 }

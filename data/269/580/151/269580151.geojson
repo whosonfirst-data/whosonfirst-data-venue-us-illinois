@@ -2,13 +2,14 @@
   "id": 269580151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.311626,41.736535,-88.311626,41.736535",
     "geom:latitude":41.736535,
     "geom:longitude":-88.311626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Talma St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":269580151,
-    "wof:lastmodified":1449037730,
+    "wof:lastmodified":1466490509,
     "wof:name":"Talma Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.311626,41.736535,-88.311626,41.736535],
+  "bbox": [
+    -88.311626,
+    41.736535,
+    -88.311626,
+    41.736535
+],
   "geometry": {"coordinates":[-88.311626,41.736535],"type":"Point"}
 }

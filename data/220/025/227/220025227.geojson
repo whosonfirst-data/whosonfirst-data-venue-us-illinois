@@ -2,13 +2,14 @@
   "id": 220025227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.566576,41.767416,-87.566576,41.767416",
     "geom:latitude":41.767416,
     "geom:longitude":-87.566576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7022 S South Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220025227,
-    "wof:lastmodified":1449074732,
+    "wof:lastmodified":1466489252,
     "wof:name":"Jr Cleveland Dewitt",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.566576,41.767416,-87.566576,41.767416],
+  "bbox": [
+    -87.566576,
+    41.767416,
+    -87.566576,
+    41.767416
+],
   "geometry": {"coordinates":[-87.566576,41.767416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286980275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.527103,41.622318,-87.527103,41.622318",
     "geom:latitude":41.622318,
     "geom:longitude":-87.527103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 State St",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286980275,
-    "wof:lastmodified":1449015373,
+    "wof:lastmodified":1466498470,
     "wof:name":"Johns Restaurant & Pizzeria",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-87.527103,41.622318,-87.527103,41.622318],
+  "bbox": [
+    -87.527103,
+    41.622318,
+    -87.527103,
+    41.622318
+],
   "geometry": {"coordinates":[-87.527103,41.622318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202995051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.048353,42.310592,-89.048353,42.310592",
     "geom:latitude":42.310592,
     "geom:longitude":-89.048353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 River Ln",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202995051,
-    "wof:lastmodified":1449062368,
+    "wof:lastmodified":1466494311,
     "wof:name":"Midwest Imaging & Signs",
     "wof:parent_id":85880429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.048353,42.310592,-89.048353,42.310592],
-  "geometry": {"coordinates":[-89.048353,42.310592],"type":"Point"}
+  "bbox": [
+    -89.048353,
+    42.310592,
+    -89.048353,
+    42.310592
+],
+  "geometry": {"coordinates":[-89.04835300000001,42.310592],"type":"Point"}
 }

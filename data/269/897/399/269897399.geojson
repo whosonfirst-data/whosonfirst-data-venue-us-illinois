@@ -2,13 +2,14 @@
   "id": 269897399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.796596,39.003159,-89.796596,39.003159",
     "geom:latitude":39.003159,
     "geom:longitude":-89.796596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Hackman St",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269897399,
-    "wof:lastmodified":1449038461,
+    "wof:lastmodified":1466495538,
     "wof:name":"Berg Welding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-89.796596,39.003159,-89.796596,39.003159],
-  "geometry": {"coordinates":[-89.796596,39.003159],"type":"Point"}
+  "bbox": [
+    -89.796596,
+    39.003159,
+    -89.796596,
+    39.003159
+],
+  "geometry": {"coordinates":[-89.79659599999999,39.003159],"type":"Point"}
 }

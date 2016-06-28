@@ -2,13 +2,14 @@
   "id": 270528547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.752327,39.146504,-88.752327,39.146504",
     "geom:latitude":39.146504,
     "geom:longitude":-88.752327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2767 E 1600th Ave",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270528547,
-    "wof:lastmodified":1449009266,
+    "wof:lastmodified":1466496553,
     "wof:name":"Norman Hammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.752327,39.146504,-88.752327,39.146504],
-  "geometry": {"coordinates":[-88.752327,39.146504],"type":"Point"}
+  "bbox": [
+    -88.752327,
+    39.146504,
+    -88.752327,
+    39.146504
+],
+  "geometry": {"coordinates":[-88.75232699999999,39.146504],"type":"Point"}
 }

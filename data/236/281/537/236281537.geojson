@@ -2,13 +2,14 @@
   "id": 236281537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104854,41.906679,-88.104854,41.906679",
     "geom:latitude":41.906679,
     "geom:longitude":-88.104854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Randy Rd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236281537,
-    "wof:lastmodified":1449004641,
+    "wof:lastmodified":1466492535,
     "wof:name":"Knight Security Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "patrol"
     ]
 },
-  "bbox": [-88.104854,41.906679,-88.104854,41.906679],
+  "bbox": [
+    -88.104854,
+    41.906679,
+    -88.104854,
+    41.906679
+],
   "geometry": {"coordinates":[-88.104854,41.906679],"type":"Point"}
 }

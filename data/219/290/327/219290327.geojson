@@ -2,13 +2,14 @@
   "id": 219290327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.827104,41.133547,-87.827104,41.133547",
     "geom:latitude":41.133547,
     "geom:longitude":-87.827104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Grinnell Rd",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219290327,
-    "wof:lastmodified":1449071904,
+    "wof:lastmodified":1466490578,
     "wof:name":"Thermogas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-87.827104,41.133547,-87.827104,41.133547],
-  "geometry": {"coordinates":[-87.827104,41.133547],"type":"Point"}
+  "bbox": [
+    -87.827104,
+    41.133547,
+    -87.827104,
+    41.133547
+],
+  "geometry": {"coordinates":[-87.82710400000001,41.133547],"type":"Point"}
 }

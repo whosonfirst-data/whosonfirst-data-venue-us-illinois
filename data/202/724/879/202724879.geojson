@@ -2,13 +2,14 @@
   "id": 202724879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.300884,41.33865,-90.300884,41.33865",
     "geom:latitude":41.33865,
     "geom:longitude":-90.300884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6885 N 1300th Ave",
     "sg:city":"Osco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202724879,
-    "wof:lastmodified":1449062575,
+    "wof:lastmodified":1466491080,
     "wof:name":"Steve Bosold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-90.300884,41.33865,-90.300884,41.33865],
+  "bbox": [
+    -90.300884,
+    41.33865,
+    -90.300884,
+    41.33865
+],
   "geometry": {"coordinates":[-90.300884,41.33865],"type":"Point"}
 }

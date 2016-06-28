@@ -2,13 +2,14 @@
   "id": 219215767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.800172,41.879591,-87.800172,41.879591",
     "geom:latitude":41.879591,
     "geom:longitude":-87.800172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219215767,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466489693,
     "wof:name":"A-Austin Business Machines",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "repair"
     ]
 },
-  "bbox": [-87.800172,41.879591,-87.800172,41.879591],
+  "bbox": [
+    -87.800172,
+    41.879591,
+    -87.800172,
+    41.879591
+],
   "geometry": {"coordinates":[-87.800172,41.879591],"type":"Point"}
 }

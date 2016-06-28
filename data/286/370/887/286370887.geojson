@@ -2,13 +2,14 @@
   "id": 286370887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649352,41.945325,-87.649352,41.945325",
     "geom:latitude":41.945325,
     "geom:longitude":-87.649352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3441 N Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286370887,
-    "wof:lastmodified":1449016786,
+    "wof:lastmodified":1466491485,
     "wof:name":"Voltaire",
     "wof:parent_id":85882143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabaret"
     ]
 },
-  "bbox": [-87.649352,41.945325,-87.649352,41.945325],
-  "geometry": {"coordinates":[-87.649352,41.945325],"type":"Point"}
+  "bbox": [
+    -87.649352,
+    41.945325,
+    -87.649352,
+    41.945325
+],
+  "geometry": {"coordinates":[-87.64935199999999,41.945325],"type":"Point"}
 }

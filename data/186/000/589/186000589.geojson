@@ -2,13 +2,14 @@
   "id": 186000589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.199387,37.720779,-89.199387,37.720779",
     "geom:latitude":37.720779,
     "geom:longitude":-89.199387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Lewis Ln",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186000589,
-    "wof:lastmodified":1449050832,
+    "wof:lastmodified":1466488938,
     "wof:name":"Mike's Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-89.199387,37.720779,-89.199387,37.720779],
+  "bbox": [
+    -89.199387,
+    37.720779,
+    -89.199387,
+    37.720779
+],
   "geometry": {"coordinates":[-89.199387,37.720779],"type":"Point"}
 }

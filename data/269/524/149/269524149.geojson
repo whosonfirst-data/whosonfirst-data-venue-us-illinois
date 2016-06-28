@@ -2,13 +2,14 @@
   "id": 269524149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085149,41.541803,-88.085149,41.541803",
     "geom:latitude":41.541803,
     "geom:longitude":-88.085149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Broadway St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269524149,
-    "wof:lastmodified":1449036119,
+    "wof:lastmodified":1466489632,
     "wof:name":"Dick's Towing Svc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-88.085149,41.541803,-88.085149,41.541803],
+  "bbox": [
+    -88.085149,
+    41.541803,
+    -88.085149,
+    41.541803
+],
   "geometry": {"coordinates":[-88.085149,41.541803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220154915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.155785,38.623611,-90.155785,38.623611",
     "geom:latitude":38.623611,
     "geom:longitude":-90.155785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N 8th St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220154915,
-    "wof:lastmodified":1449074892,
+    "wof:lastmodified":1466490835,
     "wof:name":"Med East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.155785,38.623611,-90.155785,38.623611],
-  "geometry": {"coordinates":[-90.155785,38.623611],"type":"Point"}
+  "bbox": [
+    -90.155785,
+    38.623611,
+    -90.155785,
+    38.623611
+],
+  "geometry": {"coordinates":[-90.15578499999999,38.623611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270311119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.245829,40.135682,-88.245829,40.135682",
     "geom:latitude":40.135682,
     "geom:longitude":-88.245829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Anthony Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270311119,
-    "wof:lastmodified":1449009204,
+    "wof:lastmodified":1466493756,
     "wof:name":"Carle Homecare",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "registry"
     ]
 },
-  "bbox": [-88.245829,40.135682,-88.245829,40.135682],
+  "bbox": [
+    -88.245829,
+    40.135682,
+    -88.245829,
+    40.135682
+],
   "geometry": {"coordinates":[-88.245829,40.135682],"type":"Point"}
 }

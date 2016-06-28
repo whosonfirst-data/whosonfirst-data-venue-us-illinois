@@ -2,13 +2,14 @@
   "id": 286591889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697246,41.738569,-87.697246,41.738569",
     "geom:latitude":41.738569,
     "geom:longitude":-87.697246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 W 85th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286591889,
-    "wof:lastmodified":1449016761,
+    "wof:lastmodified":1466495054,
     "wof:name":"SC Designs",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "imprinting"
     ]
 },
-  "bbox": [-87.697246,41.738569,-87.697246,41.738569],
-  "geometry": {"coordinates":[-87.697246,41.738569],"type":"Point"}
+  "bbox": [
+    -87.697246,
+    41.738569,
+    -87.697246,
+    41.738569
+],
+  "geometry": {"coordinates":[-87.69724600000001,41.738569],"type":"Point"}
 }

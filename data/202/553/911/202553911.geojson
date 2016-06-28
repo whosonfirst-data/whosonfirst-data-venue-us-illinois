@@ -2,13 +2,14 @@
   "id": 202553911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.98185,41.903788,-87.98185,41.903788",
     "geom:latitude":41.903788,
     "geom:longitude":-87.98185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 N Yale Ave",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202553911,
-    "wof:lastmodified":1449060124,
+    "wof:lastmodified":1466489113,
     "wof:name":"Balco Inc",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-87.98185,41.903788,-87.98185,41.903788],
-  "geometry": {"coordinates":[-87.98185,41.903788],"type":"Point"}
+  "bbox": [
+    -87.98185,
+    41.903788,
+    -87.98185,
+    41.903788
+],
+  "geometry": {"coordinates":[-87.98184999999999,41.903788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219225283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.161617,41.565201,-88.161617,41.565201",
     "geom:latitude":41.565201,
     "geom:longitude":-88.161617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2318 Essington Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219225283,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466489808,
     "wof:name":"Dominick's Finer Foods",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.161617,41.565201,-88.161617,41.565201],
-  "geometry": {"coordinates":[-88.161617,41.565201],"type":"Point"}
+  "bbox": [
+    -88.161617,
+    41.565201,
+    -88.161617,
+    41.565201
+],
+  "geometry": {"coordinates":[-88.16161700000001,41.565201],"type":"Point"}
 }

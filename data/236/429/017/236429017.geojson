@@ -2,13 +2,14 @@
   "id": 236429017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.53964,41.571057,-87.53964,41.571057",
     "geom:latitude":41.571057,
     "geom:longitude":-87.53964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3143 178th Pl",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236429017,
-    "wof:lastmodified":1449005035,
+    "wof:lastmodified":1466494455,
     "wof:name":"Rocha Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.53964,41.571057,-87.53964,41.571057],
-  "geometry": {"coordinates":[-87.53964,41.571057],"type":"Point"}
+  "bbox": [
+    -87.53964,
+    41.571057,
+    -87.53964,
+    41.571057
+],
+  "geometry": {"coordinates":[-87.53964000000001,41.571057],"type":"Point"}
 }

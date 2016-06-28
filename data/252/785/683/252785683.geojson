@@ -2,13 +2,14 @@
   "id": 252785683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.870492,41.105686,-87.870492,41.105686",
     "geom:latitude":41.105686,
     "geom:longitude":-87.870492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 W Jeffery St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252785683,
-    "wof:lastmodified":1449006330,
+    "wof:lastmodified":1466489991,
     "wof:name":"MEVS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-87.870492,41.105686,-87.870492,41.105686],
+  "bbox": [
+    -87.870492,
+    41.105686,
+    -87.870492,
+    41.105686
+],
   "geometry": {"coordinates":[-87.870492,41.105686],"type":"Point"}
 }

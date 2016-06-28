@@ -2,13 +2,14 @@
   "id": 286551965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.838315,41.86437,-87.838315,41.86437",
     "geom:latitude":41.86437,
     "geom:longitude":-87.838315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 S 5th Ave",
     "sg:city":"Hines",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286551965,
-    "wof:lastmodified":1449015753,
+    "wof:lastmodified":1466494400,
     "wof:name":"Department Of Veterans Affairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.838315,41.86437,-87.838315,41.86437],
-  "geometry": {"coordinates":[-87.838315,41.86437],"type":"Point"}
+  "bbox": [
+    -87.838315,
+    41.86437,
+    -87.838315,
+    41.86437
+],
+  "geometry": {"coordinates":[-87.83831499999999,41.86437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253302595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937367,41.572346,-87.937367,41.572346",
     "geom:latitude":41.572346,
     "geom:longitude":-87.937367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13044 W Chicago Bloomington Trl",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253302595,
-    "wof:lastmodified":1449063818,
+    "wof:lastmodified":1466492766,
     "wof:name":"Country Manor Builders",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.937367,41.572346,-87.937367,41.572346],
-  "geometry": {"coordinates":[-87.937367,41.572346],"type":"Point"}
+  "bbox": [
+    -87.937367,
+    41.572346,
+    -87.937367,
+    41.572346
+],
+  "geometry": {"coordinates":[-87.93736699999999,41.572346],"type":"Point"}
 }

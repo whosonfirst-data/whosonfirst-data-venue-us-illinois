@@ -2,13 +2,14 @@
   "id": 186023089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.044502,37.751202,-89.044502,37.751202",
     "geom:latitude":37.751202,
     "geom:longitude":-89.044502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10240 Samuel Rd",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186023089,
-    "wof:lastmodified":1449052756,
+    "wof:lastmodified":1466493402,
     "wof:name":"S I Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.044502,37.751202,-89.044502,37.751202],
-  "geometry": {"coordinates":[-89.044502,37.751202],"type":"Point"}
+  "bbox": [
+    -89.044502,
+    37.751202,
+    -89.044502,
+    37.751202
+],
+  "geometry": {"coordinates":[-89.04450199999999,37.751202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203030571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.931957,41.896596,-87.931957,41.896596",
     "geom:latitude":41.896596,
     "geom:longitude":-87.931957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Lawndale Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203030571,
-    "wof:lastmodified":1449025613,
+    "wof:lastmodified":1466493159,
     "wof:name":"McDonalds",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.931957,41.896596,-87.931957,41.896596],
+  "bbox": [
+    -87.931957,
+    41.896596,
+    -87.931957,
+    41.896596
+],
   "geometry": {"coordinates":[-87.931957,41.896596],"type":"Point"}
 }

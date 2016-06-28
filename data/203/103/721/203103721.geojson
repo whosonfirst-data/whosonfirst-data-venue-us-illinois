@@ -2,13 +2,14 @@
   "id": 203103721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.96127,39.316999,-87.96127,39.316999",
     "geom:latitude":39.316999,
     "geom:longitude":-87.96127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E US Hwy 40",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203103721,
-    "wof:lastmodified":1449026135,
+    "wof:lastmodified":1466494822,
     "wof:name":"Solid Rock Apostolic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.96127,39.316999,-87.96127,39.316999],
+  "bbox": [
+    -87.96127,
+    39.316999,
+    -87.96127,
+    39.316999
+],
   "geometry": {"coordinates":[-87.96127,39.316999],"type":"Point"}
 }

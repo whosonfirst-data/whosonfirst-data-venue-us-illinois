@@ -2,13 +2,14 @@
   "id": 219804557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.035165,41.807438,-88.035165,41.807438",
     "geom:latitude":41.807438,
     "geom:longitude":-88.035165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Ogden Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219804557,
-    "wof:lastmodified":1449072851,
+    "wof:lastmodified":1466496425,
     "wof:name":"Bill Kay Chrysler-Plymouth",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.035165,41.807438,-88.035165,41.807438],
-  "geometry": {"coordinates":[-88.035165,41.807438],"type":"Point"}
+  "bbox": [
+    -88.035165,
+    41.807438,
+    -88.035165,
+    41.807438
+],
+  "geometry": {"coordinates":[-88.03516500000001,41.807438],"type":"Point"}
 }

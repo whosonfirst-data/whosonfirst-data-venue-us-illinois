@@ -2,13 +2,14 @@
   "id": 253487609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.468505,39.71684,-88.468505,39.71684",
     "geom:latitude":39.71684,
     "geom:longitude":-88.468505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Progress St",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253487609,
-    "wof:lastmodified":1449063793,
+    "wof:lastmodified":1466495646,
     "wof:name":"Arthur Auction Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-88.468505,39.71684,-88.468505,39.71684],
-  "geometry": {"coordinates":[-88.468505,39.71684],"type":"Point"}
+  "bbox": [
+    -88.468505,
+    39.71684,
+    -88.468505,
+    39.71684
+],
+  "geometry": {"coordinates":[-88.46850499999999,39.71684],"type":"Point"}
 }

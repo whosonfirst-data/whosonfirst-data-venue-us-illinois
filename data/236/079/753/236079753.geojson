@@ -2,13 +2,14 @@
   "id": 236079753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.094637,38.960333,-89.094637,38.960333",
     "geom:latitude":38.960333,
     "geom:longitude":-89.094637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S 4th St",
     "sg:city":"Vandalia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236079753,
-    "wof:lastmodified":1449004582,
+    "wof:lastmodified":1466489933,
     "wof:name":"WKRV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-89.094637,38.960333,-89.094637,38.960333],
-  "geometry": {"coordinates":[-89.094637,38.960333],"type":"Point"}
+  "bbox": [
+    -89.094637,
+    38.960333,
+    -89.094637,
+    38.960333
+],
+  "geometry": {"coordinates":[-89.09463700000001,38.960333],"type":"Point"}
 }

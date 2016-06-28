@@ -2,13 +2,14 @@
   "id": 286500451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.34328,41.760064,-88.34328,41.760064",
     "geom:latitude":41.760064,
     "geom:longitude":-88.34328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Garfield Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286500451,
-    "wof:lastmodified":1449015905,
+    "wof:lastmodified":1466493541,
     "wof:name":"John W Gudenas Dr",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-88.34328,41.760064,-88.34328,41.760064],
-  "geometry": {"coordinates":[-88.34328,41.760064],"type":"Point"}
+  "bbox": [
+    -88.34328,
+    41.760064,
+    -88.34328,
+    41.760064
+],
+  "geometry": {"coordinates":[-88.34327999999999,41.760064],"type":"Point"}
 }

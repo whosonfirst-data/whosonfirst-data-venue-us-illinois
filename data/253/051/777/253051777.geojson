@@ -2,13 +2,14 @@
   "id": 253051777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699542,41.575692,-87.699542,41.575692",
     "geom:latitude":41.575692,
     "geom:longitude":-87.699542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Hazel Ln",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253051777,
-    "wof:lastmodified":1449064643,
+    "wof:lastmodified":1466489631,
     "wof:name":"Haskin Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "healthy"
     ]
 },
-  "bbox": [-87.699542,41.575692,-87.699542,41.575692],
-  "geometry": {"coordinates":[-87.699542,41.575692],"type":"Point"}
+  "bbox": [
+    -87.699542,
+    41.575692,
+    -87.699542,
+    41.575692
+],
+  "geometry": {"coordinates":[-87.69954199999999,41.575692],"type":"Point"}
 }

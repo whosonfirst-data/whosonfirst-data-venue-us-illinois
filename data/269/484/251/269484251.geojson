@@ -2,13 +2,14 @@
   "id": 269484251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.103479,41.5233,-88.103479,41.5233",
     "geom:latitude":41.5233,
     "geom:longitude":-88.103479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269484251,
-    "wof:lastmodified":1449038831,
+    "wof:lastmodified":1466495632,
     "wof:name":"Harvey Dahlen Paint Store",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-88.103479,41.5233,-88.103479,41.5233],
-  "geometry": {"coordinates":[-88.103479,41.5233],"type":"Point"}
+  "bbox": [
+    -88.103479,
+    41.5233,
+    -88.103479,
+    41.5233
+],
+  "geometry": {"coordinates":[-88.10347899999999,41.5233],"type":"Point"}
 }

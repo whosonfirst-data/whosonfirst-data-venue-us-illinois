@@ -2,13 +2,14 @@
   "id": 269582813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87059,41.994616,-87.87059,41.994616",
     "geom:latitude":41.994616,
     "geom:longitude":-87.87059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9624 W Higgins Rd",
     "sg:city":"Rosemont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269582813,
-    "wof:lastmodified":1449037426,
+    "wof:lastmodified":1466490551,
     "wof:name":"Genco International",
     "wof:parent_id":85809035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-87.87059,41.994616,-87.87059,41.994616],
-  "geometry": {"coordinates":[-87.87059,41.994616],"type":"Point"}
+  "bbox": [
+    -87.87059,
+    41.994616,
+    -87.87059,
+    41.994616
+],
+  "geometry": {"coordinates":[-87.87059000000001,41.994616],"type":"Point"}
 }

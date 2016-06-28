@@ -2,13 +2,14 @@
   "id": 253352701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.305517,41.844989,-88.305517,41.844989",
     "geom:latitude":41.844989,
     "geom:longitude":-88.305517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 S River St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253352701,
-    "wof:lastmodified":1449064630,
+    "wof:lastmodified":1466493491,
     "wof:name":"Batavia Auto Repair",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.305517,41.844989,-88.305517,41.844989],
-  "geometry": {"coordinates":[-88.305517,41.844989],"type":"Point"}
+  "bbox": [
+    -88.305517,
+    41.844989,
+    -88.305517,
+    41.844989
+],
+  "geometry": {"coordinates":[-88.30551699999999,41.844989],"type":"Point"}
 }

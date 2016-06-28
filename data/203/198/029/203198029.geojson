@@ -2,13 +2,14 @@
   "id": 203198029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105342,42.006054,-88.105342,42.006054",
     "geom:latitude":42.006054,
     "geom:longitude":-88.105342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Cranbrook Dr",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203198029,
-    "wof:lastmodified":1449025603,
+    "wof:lastmodified":1466489330,
     "wof:name":"Weathersfield South Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeowner"
     ]
 },
-  "bbox": [-88.105342,42.006054,-88.105342,42.006054],
-  "geometry": {"coordinates":[-88.105342,42.006054],"type":"Point"}
+  "bbox": [
+    -88.105342,
+    42.006054,
+    -88.105342,
+    42.006054
+],
+  "geometry": {"coordinates":[-88.10534199999999,42.006054],"type":"Point"}
 }

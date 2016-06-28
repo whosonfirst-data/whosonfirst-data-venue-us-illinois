@@ -2,13 +2,14 @@
   "id": 220123139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.854487,41.177307,-87.854487,41.177307",
     "geom:latitude":41.177307,
     "geom:longitude":-87.854487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Larry Power Rd",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220123139,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466490447,
     "wof:name":"Cloverleaf Chemicals Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.854487,41.177307,-87.854487,41.177307],
-  "geometry": {"coordinates":[-87.854487,41.177307],"type":"Point"}
+  "bbox": [
+    -87.854487,
+    41.177307,
+    -87.854487,
+    41.177307
+],
+  "geometry": {"coordinates":[-87.85448700000001,41.177307],"type":"Point"}
 }

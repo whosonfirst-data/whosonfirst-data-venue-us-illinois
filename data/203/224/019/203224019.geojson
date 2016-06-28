@@ -2,13 +2,14 @@
   "id": 203224019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252665,42.213288,-88.252665,42.213288",
     "geom:latitude":42.213288,
     "geom:longitude":-88.252665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Industrial Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203224019,
-    "wof:lastmodified":1449026355,
+    "wof:lastmodified":1466489614,
     "wof:name":"Home Instead Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-88.252665,42.213288,-88.252665,42.213288],
-  "geometry": {"coordinates":[-88.252665,42.213288],"type":"Point"}
+  "bbox": [
+    -88.252665,
+    42.213288,
+    -88.252665,
+    42.213288
+],
+  "geometry": {"coordinates":[-88.25266499999999,42.213288],"type":"Point"}
 }

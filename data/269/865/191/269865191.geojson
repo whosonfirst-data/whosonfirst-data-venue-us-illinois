@@ -2,13 +2,14 @@
   "id": 269865191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.845351,41.601564,-87.845351,41.601564",
     "geom:latitude":41.601564,
     "geom:longitude":-87.845351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9204 W 159th St",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269865191,
-    "wof:lastmodified":1449038206,
+    "wof:lastmodified":1466495036,
     "wof:name":"Dahn Yoga Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yoga"
     ]
 },
-  "bbox": [-87.845351,41.601564,-87.845351,41.601564],
-  "geometry": {"coordinates":[-87.845351,41.601564],"type":"Point"}
+  "bbox": [
+    -87.845351,
+    41.601564,
+    -87.845351,
+    41.601564
+],
+  "geometry": {"coordinates":[-87.84535099999999,41.601564],"type":"Point"}
 }

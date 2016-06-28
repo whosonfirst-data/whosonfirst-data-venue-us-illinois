@@ -2,13 +2,14 @@
   "id": 253131479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.11817,38.529015,-89.11817,38.529015",
     "geom:latitude":38.529015,
     "geom:longitude":-89.11817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 M L King Dr",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253131479,
-    "wof:lastmodified":1449063712,
+    "wof:lastmodified":1466490594,
     "wof:name":"Elizabeth M Franczyk MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.11817,38.529015,-89.11817,38.529015],
-  "geometry": {"coordinates":[-89.11817,38.529015],"type":"Point"}
+  "bbox": [
+    -89.11817,
+    38.529015,
+    -89.11817,
+    38.529015
+],
+  "geometry": {"coordinates":[-89.11817000000001,38.529015],"type":"Point"}
 }

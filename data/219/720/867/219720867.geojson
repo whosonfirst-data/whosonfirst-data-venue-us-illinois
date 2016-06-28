@@ -2,13 +2,14 @@
   "id": 219720867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.549777,41.493395,-90.549777,41.493395",
     "geom:latitude":41.493395,
     "geom:longitude":-90.549777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 36th St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219720867,
-    "wof:lastmodified":1449071237,
+    "wof:lastmodified":1466495921,
     "wof:name":"Grasshoppers Lawn & Landscape",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-90.549777,41.493395,-90.549777,41.493395],
-  "geometry": {"coordinates":[-90.549777,41.493395],"type":"Point"}
+  "bbox": [
+    -90.549777,
+    41.493395,
+    -90.549777,
+    41.493395
+],
+  "geometry": {"coordinates":[-90.54977700000001,41.493395],"type":"Point"}
 }

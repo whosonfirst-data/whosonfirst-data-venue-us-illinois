@@ -2,13 +2,14 @@
   "id": 202662991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742337,41.993633,-87.742337,41.993633",
     "geom:latitude":41.993633,
     "geom:longitude":-87.742337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6226 N Knox Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202662991,
-    "wof:lastmodified":1449061805,
+    "wof:lastmodified":1466490387,
     "wof:name":"Klusendorf Trading",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [-87.742337,41.993633,-87.742337,41.993633],
-  "geometry": {"coordinates":[-87.742337,41.993633],"type":"Point"}
+  "bbox": [
+    -87.742337,
+    41.993633,
+    -87.742337,
+    41.993633
+],
+  "geometry": {"coordinates":[-87.74233700000001,41.993633],"type":"Point"}
 }

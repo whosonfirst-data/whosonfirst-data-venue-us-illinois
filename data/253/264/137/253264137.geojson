@@ -2,13 +2,14 @@
   "id": 253264137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.319309,41.784575,-88.319309,41.784575",
     "geom:latitude":41.784575,
     "geom:longitude":-88.319309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 N Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253264137,
-    "wof:lastmodified":1449064758,
+    "wof:lastmodified":1466492194,
     "wof:name":"Avenue",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.319309,41.784575,-88.319309,41.784575],
+  "bbox": [
+    -88.319309,
+    41.784575,
+    -88.319309,
+    41.784575
+],
   "geometry": {"coordinates":[-88.319309,41.784575],"type":"Point"}
 }

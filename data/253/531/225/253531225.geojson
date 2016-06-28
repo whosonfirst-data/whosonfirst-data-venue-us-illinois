@@ -2,13 +2,14 @@
   "id": 253531225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.088073,42.00928,-88.088073,42.00928",
     "geom:latitude":42.00928,
     "geom:longitude":-88.088073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Gregory Ln",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253531225,
-    "wof:lastmodified":1449063517,
+    "wof:lastmodified":1466496259,
     "wof:name":"McKeown Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.088073,42.00928,-88.088073,42.00928],
-  "geometry": {"coordinates":[-88.088073,42.00928],"type":"Point"}
+  "bbox": [
+    -88.088073,
+    42.00928,
+    -88.088073,
+    42.00928
+],
+  "geometry": {"coordinates":[-88.08807299999999,42.00928],"type":"Point"}
 }

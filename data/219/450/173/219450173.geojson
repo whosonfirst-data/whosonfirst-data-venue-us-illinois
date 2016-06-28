@@ -2,13 +2,14 @@
   "id": 219450173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685352,41.66823,-87.685352,41.66823",
     "geom:latitude":41.66823,
     "geom:longitude":-87.685352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12336 Maple Ave",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219450173,
-    "wof:lastmodified":1449073366,
+    "wof:lastmodified":1466492584,
     "wof:name":"Chicago Air and Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.685352,41.66823,-87.685352,41.66823],
-  "geometry": {"coordinates":[-87.685352,41.66823],"type":"Point"}
+  "bbox": [
+    -87.685352,
+    41.66823,
+    -87.685352,
+    41.66823
+],
+  "geometry": {"coordinates":[-87.68535199999999,41.66823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236054311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.110711,38.560156,-90.110711,38.560156",
     "geom:latitude":38.560156,
     "geom:longitude":-90.110711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 Church Rd",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236054311,
-    "wof:lastmodified":1449003155,
+    "wof:lastmodified":1466489620,
     "wof:name":"Olivers Resale Shop",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.110711,38.560156,-90.110711,38.560156],
-  "geometry": {"coordinates":[-90.110711,38.560156],"type":"Point"}
+  "bbox": [
+    -90.110711,
+    38.560156,
+    -90.110711,
+    38.560156
+],
+  "geometry": {"coordinates":[-90.11071099999999,38.560156],"type":"Point"}
 }

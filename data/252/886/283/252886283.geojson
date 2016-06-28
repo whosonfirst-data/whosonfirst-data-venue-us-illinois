@@ -2,13 +2,14 @@
   "id": 252886283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995618,38.540854,-89.995618,38.540854",
     "geom:latitude":38.540854,
     "geom:longitude":-89.995618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 N Belt W",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252886283,
-    "wof:lastmodified":1449006017,
+    "wof:lastmodified":1466491259,
     "wof:name":"Barcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-89.995618,38.540854,-89.995618,38.540854],
-  "geometry": {"coordinates":[-89.995618,38.540854],"type":"Point"}
+  "bbox": [
+    -89.995618,
+    38.540854,
+    -89.995618,
+    38.540854
+],
+  "geometry": {"coordinates":[-89.99561799999999,38.540854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253467677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149039,40.306935,-88.149039,40.306935",
     "geom:latitude":40.306935,
     "geom:longitude":-88.149039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Wabash Ave",
     "sg:city":"Rantoul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253467677,
-    "wof:lastmodified":1449065125,
+    "wof:lastmodified":1466495332,
     "wof:name":"Champaign County Public Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-88.149039,40.306935,-88.149039,40.306935],
+  "bbox": [
+    -88.149039,
+    40.306935,
+    -88.149039,
+    40.306935
+],
   "geometry": {"coordinates":[-88.149039,40.306935],"type":"Point"}
 }

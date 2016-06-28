@@ -2,13 +2,14 @@
   "id": 253257413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.815972,41.888239,-87.815972,41.888239",
     "geom:latitude":41.888239,
     "geom:longitude":-87.815972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7617 Lake St",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253257413,
-    "wof:lastmodified":1449063681,
+    "wof:lastmodified":1466492099,
     "wof:name":"Corporate ID",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "premium"
     ]
 },
-  "bbox": [-87.815972,41.888239,-87.815972,41.888239],
+  "bbox": [
+    -87.815972,
+    41.888239,
+    -87.815972,
+    41.888239
+],
   "geometry": {"coordinates":[-87.815972,41.888239],"type":"Point"}
 }

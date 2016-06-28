@@ -2,13 +2,14 @@
   "id": 286782357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.873793,41.487888,-87.873793,41.487888",
     "geom:latitude":41.487888,
     "geom:longitude":-87.873793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22101 Princeton Cir",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286782357,
-    "wof:lastmodified":1449015156,
+    "wof:lastmodified":1466497073,
     "wof:name":"Balloon Buffoon",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-87.873793,41.487888,-87.873793,41.487888],
-  "geometry": {"coordinates":[-87.873793,41.487888],"type":"Point"}
+  "bbox": [
+    -87.873793,
+    41.487888,
+    -87.873793,
+    41.487888
+],
+  "geometry": {"coordinates":[-87.87379300000001,41.487888],"type":"Point"}
 }

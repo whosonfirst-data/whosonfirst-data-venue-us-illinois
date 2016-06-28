@@ -2,13 +2,14 @@
   "id": 270393167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.123919,41.548121,-89.123919,41.548121",
     "geom:latitude":41.548121,
     "geom:longitude":-89.123919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Washington St",
     "sg:city":"Mendota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270393167,
-    "wof:lastmodified":1449009393,
+    "wof:lastmodified":1466495020,
     "wof:name":"Chad Wendelken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.123919,41.548121,-89.123919,41.548121],
+  "bbox": [
+    -89.123919,
+    41.548121,
+    -89.123919,
+    41.548121
+],
   "geometry": {"coordinates":[-89.123919,41.548121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253680227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.020633,41.757453,-88.020633,41.757453",
     "geom:latitude":41.757453,
     "geom:longitude":-88.020633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7188 Springside Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253680227,
-    "wof:lastmodified":1449064909,
+    "wof:lastmodified":1466497490,
     "wof:name":"Morrison Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.020633,41.757453,-88.020633,41.757453],
+  "bbox": [
+    -88.020633,
+    41.757453,
+    -88.020633,
+    41.757453
+],
   "geometry": {"coordinates":[-88.020633,41.757453],"type":"Point"}
 }

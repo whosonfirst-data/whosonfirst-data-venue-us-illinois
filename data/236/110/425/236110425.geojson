@@ -2,13 +2,14 @@
   "id": 236110425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690391,42.020475,-87.690391,42.020475",
     "geom:latitude":42.020475,
     "geom:longitude":-87.690391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Dobson St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236110425,
-    "wof:lastmodified":1449002582,
+    "wof:lastmodified":1466490309,
     "wof:name":"Peter H Zastrow",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-87.690391,42.020475,-87.690391,42.020475],
-  "geometry": {"coordinates":[-87.690391,42.020475],"type":"Point"}
+  "bbox": [
+    -87.690391,
+    42.020475,
+    -87.690391,
+    42.020475
+],
+  "geometry": {"coordinates":[-87.69039100000001,42.020475],"type":"Point"}
 }

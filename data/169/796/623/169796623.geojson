@@ -2,13 +2,14 @@
   "id": 169796623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.978203,38.592701,-89.978203,38.592701",
     "geom:latitude":38.592701,
     "geom:longitude":-89.978203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Lincoln Hwy Ste 10",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":169796623,
-    "wof:lastmodified":1449034237,
+    "wof:lastmodified":1466494339,
     "wof:name":"Wells Fargo Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.978203,38.592701,-89.978203,38.592701],
-  "geometry": {"coordinates":[-89.978203,38.592701],"type":"Point"}
+  "bbox": [
+    -89.978203,
+    38.592701,
+    -89.978203,
+    38.592701
+],
+  "geometry": {"coordinates":[-89.97820299999999,38.592701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236038807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649002,41.938128,-87.649002,41.938128",
     "geom:latitude":41.938128,
     "geom:longitude":-87.649002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 N Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236038807,
-    "wof:lastmodified":1449003825,
+    "wof:lastmodified":1466489442,
     "wof:name":"New View Realty",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649002,41.938128,-87.649002,41.938128],
+  "bbox": [
+    -87.649002,
+    41.938128,
+    -87.649002,
+    41.938128
+],
   "geometry": {"coordinates":[-87.649002,41.938128],"type":"Point"}
 }

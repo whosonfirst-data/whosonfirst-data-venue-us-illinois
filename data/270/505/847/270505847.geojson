@@ -2,13 +2,14 @@
   "id": 270505847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.055957,42.259937,-89.055957,42.259937",
     "geom:latitude":42.259937,
     "geom:longitude":-89.055957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2518 Charles St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270505847,
-    "wof:lastmodified":1449010675,
+    "wof:lastmodified":1466496338,
     "wof:name":"Us Cleaners",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-89.055957,42.259937,-89.055957,42.259937],
-  "geometry": {"coordinates":[-89.055957,42.259937],"type":"Point"}
+  "bbox": [
+    -89.055957,
+    42.259937,
+    -89.055957,
+    42.259937
+],
+  "geometry": {"coordinates":[-89.05595700000001,42.259937],"type":"Point"}
 }

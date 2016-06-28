@@ -2,13 +2,14 @@
   "id": 270468629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.084427,38.853384,-88.084427,38.853384",
     "geom:latitude":38.853384,
     "geom:longitude":-88.084427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Silver St",
     "sg:city":"West Liberty",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270468629,
-    "wof:lastmodified":1449010406,
+    "wof:lastmodified":1466496188,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.084427,38.853384,-88.084427,38.853384],
-  "geometry": {"coordinates":[-88.084427,38.853384],"type":"Point"}
+  "bbox": [
+    -88.084427,
+    38.853384,
+    -88.084427,
+    38.853384
+],
+  "geometry": {"coordinates":[-88.08442700000001,38.853384],"type":"Point"}
 }

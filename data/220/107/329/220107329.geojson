@@ -2,13 +2,14 @@
   "id": 220107329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.165626,41.865325,-90.165626,41.865325",
     "geom:latitude":41.865325,
     "geom:longitude":-90.165626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 4th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220107329,
-    "wof:lastmodified":1449074065,
+    "wof:lastmodified":1466490259,
     "wof:name":"River Bend Small Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-90.165626,41.865325,-90.165626,41.865325],
+  "bbox": [
+    -90.165626,
+    41.865325,
+    -90.165626,
+    41.865325
+],
   "geometry": {"coordinates":[-90.165626,41.865325],"type":"Point"}
 }

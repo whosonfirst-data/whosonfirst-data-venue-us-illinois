@@ -2,13 +2,14 @@
   "id": 202565661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.395896,38.901865,-89.395896,38.901865",
     "geom:latitude":38.901865,
     "geom:longitude":-89.395896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 E State Rte 140",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202565661,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1466489266,
     "wof:name":"Rasler's Plumbing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.395896,38.901865,-89.395896,38.901865],
-  "geometry": {"coordinates":[-89.395896,38.901865],"type":"Point"}
+  "bbox": [
+    -89.395896,
+    38.901865,
+    -89.395896,
+    38.901865
+],
+  "geometry": {"coordinates":[-89.39589599999999,38.901865],"type":"Point"}
 }

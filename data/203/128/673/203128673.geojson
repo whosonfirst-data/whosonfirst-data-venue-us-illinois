@@ -2,13 +2,14 @@
   "id": 203128673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25646,40.115233,-88.25646,40.115233",
     "geom:latitude":40.115233,
     "geom:longitude":-88.25646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Clark St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203128673,
-    "wof:lastmodified":1449025649,
+    "wof:lastmodified":1466495184,
     "wof:name":"Kahinas Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.25646,40.115233,-88.25646,40.115233],
+  "bbox": [
+    -88.25646,
+    40.115233,
+    -88.25646,
+    40.115233
+],
   "geometry": {"coordinates":[-88.25646,40.115233],"type":"Point"}
 }

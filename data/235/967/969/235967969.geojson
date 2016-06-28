@@ -2,13 +2,14 @@
   "id": 235967969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25839,40.084328,-88.25839,40.084328",
     "geom:latitude":40.084328,
     "geom:longitude":-88.25839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Seaton Ct",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235967969,
-    "wof:lastmodified":1449008592,
+    "wof:lastmodified":1466489397,
     "wof:name":"Codex Novus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.25839,40.084328,-88.25839,40.084328],
-  "geometry": {"coordinates":[-88.25839,40.084328],"type":"Point"}
+  "bbox": [
+    -88.25839,
+    40.084328,
+    -88.25839,
+    40.084328
+],
+  "geometry": {"coordinates":[-88.25839000000001,40.084328],"type":"Point"}
 }

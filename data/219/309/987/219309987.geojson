@@ -2,13 +2,14 @@
   "id": 219309987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.868983,41.105105,-87.868983,41.105105",
     "geom:latitude":41.105105,
     "geom:longitude":-87.868983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 S East Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219309987,
-    "wof:lastmodified":1449071185,
+    "wof:lastmodified":1466490829,
     "wof:name":"Bar Fly",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.868983,41.105105,-87.868983,41.105105],
+  "bbox": [
+    -87.868983,
+    41.105105,
+    -87.868983,
+    41.105105
+],
   "geometry": {"coordinates":[-87.868983,41.105105],"type":"Point"}
 }

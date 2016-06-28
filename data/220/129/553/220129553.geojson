@@ -2,13 +2,14 @@
   "id": 220129553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.880733,40.749182,-88.880733,40.749182",
     "geom:latitude":40.749182,
     "geom:longitude":-88.880733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E 9th St",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220129553,
-    "wof:lastmodified":1449074684,
+    "wof:lastmodified":1466490529,
     "wof:name":"Stephen Kearney",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-88.880733,40.749182,-88.880733,40.749182],
-  "geometry": {"coordinates":[-88.880733,40.749182],"type":"Point"}
+  "bbox": [
+    -88.880733,
+    40.749182,
+    -88.880733,
+    40.749182
+],
+  "geometry": {"coordinates":[-88.88073300000001,40.749182],"type":"Point"}
 }

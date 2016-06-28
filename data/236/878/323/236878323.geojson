@@ -2,13 +2,14 @@
   "id": 236878323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.156514,41.315013,-88.156514,41.315013",
     "geom:latitude":41.315013,
     "geom:longitude":-88.156514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Widows Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236878323,
-    "wof:lastmodified":1449003362,
+    "wof:lastmodified":1466498071,
     "wof:name":"Wilmington Water Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.156514,41.315013,-88.156514,41.315013],
+  "bbox": [
+    -88.156514,
+    41.315013,
+    -88.156514,
+    41.315013
+],
   "geometry": {"coordinates":[-88.156514,41.315013],"type":"Point"}
 }

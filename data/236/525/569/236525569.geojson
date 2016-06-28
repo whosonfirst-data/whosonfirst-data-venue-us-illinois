@@ -2,13 +2,14 @@
   "id": 236525569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.049349,41.52332,-88.049349,41.52332",
     "geom:latitude":41.52332,
     "geom:longitude":-88.049349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 E Washington St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236525569,
-    "wof:lastmodified":1449004421,
+    "wof:lastmodified":1466495696,
     "wof:name":"Action Radiators",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-88.049349,41.52332,-88.049349,41.52332],
-  "geometry": {"coordinates":[-88.049349,41.52332],"type":"Point"}
+  "bbox": [
+    -88.049349,
+    41.52332,
+    -88.049349,
+    41.52332
+],
+  "geometry": {"coordinates":[-88.04934900000001,41.52332],"type":"Point"}
 }

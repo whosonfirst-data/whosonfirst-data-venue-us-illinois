@@ -2,13 +2,14 @@
   "id": 219440387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.472749,38.994768,-89.472749,38.994768",
     "geom:latitude":38.994768,
     "geom:longitude":-89.472749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 S State Rte 127",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219440387,
-    "wof:lastmodified":1449071639,
+    "wof:lastmodified":1466492457,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leasing"
     ]
 },
-  "bbox": [-89.472749,38.994768,-89.472749,38.994768],
-  "geometry": {"coordinates":[-89.472749,38.994768],"type":"Point"}
+  "bbox": [
+    -89.472749,
+    38.994768,
+    -89.472749,
+    38.994768
+],
+  "geometry": {"coordinates":[-89.47274899999999,38.994768],"type":"Point"}
 }

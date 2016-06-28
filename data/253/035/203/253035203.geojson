@@ -2,13 +2,14 @@
   "id": 253035203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.102584,41.538483,-88.102584,41.538483",
     "geom:latitude":41.538483,
     "geom:longitude":-88.102584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Plainfield Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253035203,
-    "wof:lastmodified":1449065196,
+    "wof:lastmodified":1466489435,
     "wof:name":"Joe's Hot Dog Plainfield Rd",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.102584,41.538483,-88.102584,41.538483],
-  "geometry": {"coordinates":[-88.102584,41.538483],"type":"Point"}
+  "bbox": [
+    -88.102584,
+    41.538483,
+    -88.102584,
+    41.538483
+],
+  "geometry": {"coordinates":[-88.10258399999999,41.538483],"type":"Point"}
 }

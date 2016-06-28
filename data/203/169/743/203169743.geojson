@@ -2,13 +2,14 @@
   "id": 203169743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.099153,41.352534,-89.099153,41.352534",
     "geom:latitude":41.352534,
     "geom:longitude":-89.099153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 23rd St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203169743,
-    "wof:lastmodified":1449026112,
+    "wof:lastmodified":1466489017,
     "wof:name":"Allied Dental Assoc LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-89.099153,41.352534,-89.099153,41.352534],
+  "bbox": [
+    -89.099153,
+    41.352534,
+    -89.099153,
+    41.352534
+],
   "geometry": {"coordinates":[-89.099153,41.352534],"type":"Point"}
 }

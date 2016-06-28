@@ -2,13 +2,14 @@
   "id": 219236561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650697,41.947303,-87.650697,41.947303",
     "geom:latitude":41.947303,
     "geom:longitude":-87.650697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 N Reta Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219236561,
-    "wof:lastmodified":1449070766,
+    "wof:lastmodified":1466489938,
     "wof:name":"Business Sense Consulting",
     "wof:parent_id":85882143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-87.650697,41.947303,-87.650697,41.947303],
-  "geometry": {"coordinates":[-87.650697,41.947303],"type":"Point"}
+  "bbox": [
+    -87.650697,
+    41.947303,
+    -87.650697,
+    41.947303
+],
+  "geometry": {"coordinates":[-87.65069699999999,41.947303],"type":"Point"}
 }

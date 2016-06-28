@@ -2,13 +2,14 @@
   "id": 253039205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.967405,41.965599,-87.967405,41.965599",
     "geom:latitude":41.965599,
     "geom:longitude":-87.967405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 N Hemlock Ave",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253039205,
-    "wof:lastmodified":1449065405,
+    "wof:lastmodified":1466489482,
     "wof:name":"ADT Management Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.967405,41.965599,-87.967405,41.965599],
+  "bbox": [
+    -87.967405,
+    41.965599,
+    -87.967405,
+    41.965599
+],
   "geometry": {"coordinates":[-87.967405,41.965599],"type":"Point"}
 }

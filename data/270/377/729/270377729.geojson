@@ -2,13 +2,14 @@
   "id": 270377729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.387048,39.928646,-91.387048,39.928646",
     "geom:latitude":39.928646,
     "geom:longitude":-91.387048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Grove Ave",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270377729,
-    "wof:lastmodified":1449009558,
+    "wof:lastmodified":1466494787,
     "wof:name":"Strawman Construction Inc",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-91.387048,39.928646,-91.387048,39.928646],
-  "geometry": {"coordinates":[-91.387048,39.928646],"type":"Point"}
+  "bbox": [
+    -91.387048,
+    39.928646,
+    -91.387048,
+    39.928646
+],
+  "geometry": {"coordinates":[-91.38704799999999,39.928646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202602739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.230511,42.478055,-89.230511,42.478055",
     "geom:latitude":42.478055,
     "geom:longitude":-89.230511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9725 Yale Bridge Rd",
     "sg:city":"Rockton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202602739,
-    "wof:lastmodified":1449061312,
+    "wof:lastmodified":1466489693,
     "wof:name":"Shutters & Board Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.230511,42.478055,-89.230511,42.478055],
-  "geometry": {"coordinates":[-89.230511,42.478055],"type":"Point"}
+  "bbox": [
+    -89.230511,
+    42.478055,
+    -89.230511,
+    42.478055
+],
+  "geometry": {"coordinates":[-89.23051100000001,42.478055],"type":"Point"}
 }

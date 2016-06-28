@@ -2,13 +2,14 @@
   "id": 303171803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.011739,42.280769,-88.011739,42.280769",
     "geom:latitude":42.280769,
     "geom:longitude":-88.011739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Killarney Pass Cir",
     "sg:city":"Mundelein",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303171803,
-    "wof:lastmodified":1449000577,
+    "wof:lastmodified":1466492582,
     "wof:name":"Wiikells Upholstering Co",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.011739,42.280769,-88.011739,42.280769],
-  "geometry": {"coordinates":[-88.011739,42.280769],"type":"Point"}
+  "bbox": [
+    -88.011739,
+    42.280769,
+    -88.011739,
+    42.280769
+],
+  "geometry": {"coordinates":[-88.01173900000001,42.280769],"type":"Point"}
 }

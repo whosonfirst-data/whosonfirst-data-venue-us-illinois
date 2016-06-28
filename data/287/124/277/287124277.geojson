@@ -2,13 +2,14 @@
   "id": 287124277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.999777,42.282278,-88.999777,42.282278",
     "geom:latitude":42.282278,
     "geom:longitude":-88.999777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5970 Guilford Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287124277,
-    "wof:lastmodified":1449001518,
+    "wof:lastmodified":1466491969,
     "wof:name":"Lindstrom Travel",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-88.999777,42.282278,-88.999777,42.282278],
-  "geometry": {"coordinates":[-88.999777,42.282278],"type":"Point"}
+  "bbox": [
+    -88.999777,
+    42.282278,
+    -88.999777,
+    42.282278
+],
+  "geometry": {"coordinates":[-88.99977699999999,42.282278],"type":"Point"}
 }

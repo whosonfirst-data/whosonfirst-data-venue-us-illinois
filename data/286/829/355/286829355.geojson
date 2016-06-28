@@ -2,13 +2,14 @@
   "id": 286829355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702199,41.684163,-87.702199,41.684163",
     "geom:latitude":41.684163,
     "geom:longitude":-87.702199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 W 115th St",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286829355,
-    "wof:lastmodified":1449017900,
+    "wof:lastmodified":1466497499,
     "wof:name":"Gentle Jungle",
     "wof:parent_id":85866783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702199,41.684163,-87.702199,41.684163],
-  "geometry": {"coordinates":[-87.702199,41.684163],"type":"Point"}
+  "bbox": [
+    -87.702199,
+    41.684163,
+    -87.702199,
+    41.684163
+],
+  "geometry": {"coordinates":[-87.70219899999999,41.684163],"type":"Point"}
 }

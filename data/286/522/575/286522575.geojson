@@ -2,13 +2,14 @@
   "id": 286522575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.731498,41.655433,-87.731498,41.655433",
     "geom:latitude":41.655433,
     "geom:longitude":-87.731498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4541 W 129th St",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286522575,
-    "wof:lastmodified":1449016591,
+    "wof:lastmodified":1466493897,
     "wof:name":"Action Limousine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.731498,41.655433,-87.731498,41.655433],
+  "bbox": [
+    -87.731498,
+    41.655433,
+    -87.731498,
+    41.655433
+],
   "geometry": {"coordinates":[-87.731498,41.655433],"type":"Point"}
 }

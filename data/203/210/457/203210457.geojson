@@ -2,13 +2,14 @@
   "id": 203210457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.783016,41.884287,-87.783016,41.884287",
     "geom:latitude":41.884287,
     "geom:longitude":-87.783016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Cuyler Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203210457,
-    "wof:lastmodified":1449025556,
+    "wof:lastmodified":1466489468,
     "wof:name":"Biomedical Communications",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-87.783016,41.884287,-87.783016,41.884287],
+  "bbox": [
+    -87.783016,
+    41.884287,
+    -87.783016,
+    41.884287
+],
   "geometry": {"coordinates":[-87.783016,41.884287],"type":"Point"}
 }

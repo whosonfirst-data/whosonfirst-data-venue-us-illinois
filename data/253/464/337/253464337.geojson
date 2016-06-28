@@ -2,13 +2,14 @@
   "id": 253464337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979607,41.497309,-87.979607,41.497309",
     "geom:latitude":41.497309,
     "geom:longitude":-87.979607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13959 W Illinois Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253464337,
-    "wof:lastmodified":1449063606,
+    "wof:lastmodified":1466495279,
     "wof:name":"Flameout Fire Protection",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-87.979607,41.497309,-87.979607,41.497309],
+  "bbox": [
+    -87.979607,
+    41.497309,
+    -87.979607,
+    41.497309
+],
   "geometry": {"coordinates":[-87.979607,41.497309],"type":"Point"}
 }

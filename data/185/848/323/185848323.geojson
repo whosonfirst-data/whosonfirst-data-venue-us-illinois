@@ -2,13 +2,14 @@
   "id": 185848323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.611298,39.895901,-89.611298,39.895901",
     "geom:latitude":39.895901,
     "geom:longitude":-89.611298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 E Andrew Rd",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185848323,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466489329,
     "wof:name":"Sherman United Methodist Church",
     "wof:parent_id":85868929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.611298,39.895901,-89.611298,39.895901],
-  "geometry": {"coordinates":[-89.611298,39.895901],"type":"Point"}
+  "bbox": [
+    -89.611298,
+    39.895901,
+    -89.611298,
+    39.895901
+],
+  "geometry": {"coordinates":[-89.61129800000001,39.895901],"type":"Point"}
 }

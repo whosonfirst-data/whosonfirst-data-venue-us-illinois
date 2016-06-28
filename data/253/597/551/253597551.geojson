@@ -2,13 +2,14 @@
   "id": 253597551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.810347,41.496139,-87.810347,41.496139",
     "geom:latitude":41.496139,
     "geom:longitude":-87.810347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Hawthorne Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253597551,
-    "wof:lastmodified":1449065771,
+    "wof:lastmodified":1466496832,
     "wof:name":"Carb-Rite",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.810347,41.496139,-87.810347,41.496139],
-  "geometry": {"coordinates":[-87.810347,41.496139],"type":"Point"}
+  "bbox": [
+    -87.810347,
+    41.496139,
+    -87.810347,
+    41.496139
+],
+  "geometry": {"coordinates":[-87.81034699999999,41.496139],"type":"Point"}
 }

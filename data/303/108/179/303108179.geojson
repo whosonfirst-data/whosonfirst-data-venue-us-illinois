@@ -2,13 +2,14 @@
   "id": 303108179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.805849,41.7873,-87.805849,41.7873",
     "geom:latitude":41.7873,
     "geom:longitude":-87.805849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7316 W 57th Pl",
     "sg:city":"Summit Argo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303108179,
-    "wof:lastmodified":1448998162,
+    "wof:lastmodified":1466491536,
     "wof:name":"Universal Bowling",
     "wof:parent_id":85869271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.805849,41.7873,-87.805849,41.7873],
-  "geometry": {"coordinates":[-87.805849,41.7873],"type":"Point"}
+  "bbox": [
+    -87.805849,
+    41.7873,
+    -87.805849,
+    41.7873
+],
+  "geometry": {"coordinates":[-87.80584899999999,41.7873],"type":"Point"}
 }

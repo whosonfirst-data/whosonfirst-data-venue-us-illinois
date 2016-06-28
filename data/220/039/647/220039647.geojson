@@ -2,13 +2,14 @@
   "id": 220039647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465097,41.388429,-89.465097,41.388429",
     "geom:latitude":41.388429,
     "geom:longitude":-89.465097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220039647,
-    "wof:lastmodified":1449074773,
+    "wof:lastmodified":1466489428,
     "wof:name":"Allen Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-89.465097,41.388429,-89.465097,41.388429],
+  "bbox": [
+    -89.465097,
+    41.388429,
+    -89.465097,
+    41.388429
+],
   "geometry": {"coordinates":[-89.465097,41.388429],"type":"Point"}
 }

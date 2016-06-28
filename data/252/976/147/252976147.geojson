@@ -2,13 +2,14 @@
   "id": 252976147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.225417,39.723307,-90.225417,39.723307",
     "geom:latitude":39.723307,
     "geom:longitude":-90.225417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 E Morton Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252976147,
-    "wof:lastmodified":1449005857,
+    "wof:lastmodified":1466492473,
     "wof:name":"Adecco Staffing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.225417,39.723307,-90.225417,39.723307],
-  "geometry": {"coordinates":[-90.225417,39.723307],"type":"Point"}
+  "bbox": [
+    -90.225417,
+    39.723307,
+    -90.225417,
+    39.723307
+],
+  "geometry": {"coordinates":[-90.22541699999999,39.723307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185723015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694814,39.39102,-87.694814,39.39102",
     "geom:latitude":39.39102,
     "geom:longitude":-87.694814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N 7th St",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185723015,
-    "wof:lastmodified":1449007551,
+    "wof:lastmodified":1466495761,
     "wof:name":"Mjm Studio",
     "wof:parent_id":85867487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.694814,39.39102,-87.694814,39.39102],
-  "geometry": {"coordinates":[-87.694814,39.39102],"type":"Point"}
+  "bbox": [
+    -87.694814,
+    39.39102,
+    -87.694814,
+    39.39102
+],
+  "geometry": {"coordinates":[-87.69481399999999,39.39102],"type":"Point"}
 }

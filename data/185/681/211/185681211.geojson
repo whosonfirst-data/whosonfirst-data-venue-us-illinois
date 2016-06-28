@@ -2,13 +2,14 @@
   "id": 185681211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.337584,39.935051,-91.337584,39.935051",
     "geom:latitude":39.935051,
     "geom:longitude":-91.337584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Broadway St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185681211,
-    "wof:lastmodified":1449007600,
+    "wof:lastmodified":1466494486,
     "wof:name":"U.S. Cellular Authorized Agent - Wavelengths",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cellular"
     ]
 },
-  "bbox": [-91.337584,39.935051,-91.337584,39.935051],
-  "geometry": {"coordinates":[-91.337584,39.935051],"type":"Point"}
+  "bbox": [
+    -91.337584,
+    39.935051,
+    -91.337584,
+    39.935051
+],
+  "geometry": {"coordinates":[-91.33758400000001,39.935051],"type":"Point"}
 }

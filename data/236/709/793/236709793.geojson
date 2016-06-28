@@ -2,13 +2,14 @@
   "id": 236709793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.150427,41.94063,-88.150427,41.94063",
     "geom:latitude":41.94063,
     "geom:longitude":-88.150427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 W Army Trail Rd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236709793,
-    "wof:lastmodified":1449002170,
+    "wof:lastmodified":1466497268,
     "wof:name":"BP",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.150427,41.94063,-88.150427,41.94063],
-  "geometry": {"coordinates":[-88.150427,41.94063],"type":"Point"}
+  "bbox": [
+    -88.150427,
+    41.94063,
+    -88.150427,
+    41.94063
+],
+  "geometry": {"coordinates":[-88.15042699999999,41.94063],"type":"Point"}
 }

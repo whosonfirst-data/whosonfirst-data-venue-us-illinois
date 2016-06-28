@@ -2,13 +2,14 @@
   "id": 253740439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328511,37.981495,-88.328511,37.981495",
     "geom:latitude":37.981495,
     "geom:longitude":-88.328511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Wabash St",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253740439,
-    "wof:lastmodified":1449064154,
+    "wof:lastmodified":1466498035,
     "wof:name":"Cardinal Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.328511,37.981495,-88.328511,37.981495],
-  "geometry": {"coordinates":[-88.328511,37.981495],"type":"Point"}
+  "bbox": [
+    -88.328511,
+    37.981495,
+    -88.328511,
+    37.981495
+],
+  "geometry": {"coordinates":[-88.32851100000001,37.981495],"type":"Point"}
 }

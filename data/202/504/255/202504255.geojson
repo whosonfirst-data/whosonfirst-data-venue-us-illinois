@@ -2,13 +2,14 @@
   "id": 202504255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059683,41.870945,-88.059683,41.870945",
     "geom:latitude":41.870945,
     "geom:longitude":-88.059683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"671 Turner Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202504255,
-    "wof:lastmodified":1449060544,
+    "wof:lastmodified":1466495173,
     "wof:name":"Superior Remod & Cnstr",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.059683,41.870945,-88.059683,41.870945],
-  "geometry": {"coordinates":[-88.059683,41.870945],"type":"Point"}
+  "bbox": [
+    -88.059683,
+    41.870945,
+    -88.059683,
+    41.870945
+],
+  "geometry": {"coordinates":[-88.05968300000001,41.870945],"type":"Point"}
 }

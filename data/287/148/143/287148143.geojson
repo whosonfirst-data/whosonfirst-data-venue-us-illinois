@@ -2,13 +2,14 @@
   "id": 287148143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.12193,38.527127,-89.12193,38.527127",
     "geom:latitude":38.527127,
     "geom:longitude":-89.12193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 E Noleman St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287148143,
-    "wof:lastmodified":1449001431,
+    "wof:lastmodified":1466492346,
     "wof:name":"LTD Ford Lincoln Mercury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.12193,38.527127,-89.12193,38.527127],
-  "geometry": {"coordinates":[-89.12193,38.527127],"type":"Point"}
+  "bbox": [
+    -89.12193,
+    38.527127,
+    -89.12193,
+    38.527127
+],
+  "geometry": {"coordinates":[-89.12193000000001,38.527127],"type":"Point"}
 }

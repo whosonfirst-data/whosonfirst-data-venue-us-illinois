@@ -2,13 +2,14 @@
   "id": 220112785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.823261,41.977831,-87.823261,41.977831",
     "geom:latitude":41.977831,
     "geom:longitude":-87.823261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7818 W Balmoral Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":220112785,
-    "wof:lastmodified":1449074389,
+    "wof:lastmodified":1466490321,
     "wof:name":"Blue Windy Days",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.823261,41.977831,-87.823261,41.977831],
+  "bbox": [
+    -87.823261,
+    41.977831,
+    -87.823261,
+    41.977831
+],
   "geometry": {"coordinates":[-87.823261,41.977831],"type":"Point"}
 }

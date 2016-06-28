@@ -2,13 +2,14 @@
   "id": 202711605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.837665,41.137824,-87.837665,41.137824",
     "geom:latitude":41.137824,
     "geom:longitude":-87.837665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Stanford Dr",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202711605,
-    "wof:lastmodified":1449062199,
+    "wof:lastmodified":1466490935,
     "wof:name":"Acme-Bus Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-87.837665,41.137824,-87.837665,41.137824],
+  "bbox": [
+    -87.837665,
+    41.137824,
+    -87.837665,
+    41.137824
+],
   "geometry": {"coordinates":[-87.837665,41.137824],"type":"Point"}
 }

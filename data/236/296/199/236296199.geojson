@@ -2,13 +2,14 @@
   "id": 236296199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.070625,41.771314,-88.070625,41.771314",
     "geom:latitude":41.771314,
     "geom:longitude":-88.070625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mulligan Dr",
     "sg:city":"Woodridge",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236296199,
-    "wof:lastmodified":1449004510,
+    "wof:lastmodified":1466492720,
     "wof:name":"Woodridge Golf Club Oper Ventr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "public"
     ]
 },
-  "bbox": [-88.070625,41.771314,-88.070625,41.771314],
-  "geometry": {"coordinates":[-88.070625,41.771314],"type":"Point"}
+  "bbox": [
+    -88.070625,
+    41.771314,
+    -88.070625,
+    41.771314
+],
+  "geometry": {"coordinates":[-88.07062500000001,41.771314],"type":"Point"}
 }

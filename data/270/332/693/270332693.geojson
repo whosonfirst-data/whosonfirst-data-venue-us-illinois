@@ -2,13 +2,14 @@
   "id": 270332693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794091,41.87289,-87.794091,41.87289",
     "geom:latitude":41.87289,
     "geom:longitude":-87.794091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Harrison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270332693,
-    "wof:lastmodified":1449010006,
+    "wof:lastmodified":1466494099,
     "wof:name":"Copier Service Ctr",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.794091,41.87289,-87.794091,41.87289],
-  "geometry": {"coordinates":[-87.794091,41.87289],"type":"Point"}
+  "bbox": [
+    -87.794091,
+    41.87289,
+    -87.794091,
+    41.87289
+],
+  "geometry": {"coordinates":[-87.79409099999999,41.87289],"type":"Point"}
 }

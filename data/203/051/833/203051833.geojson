@@ -2,13 +2,14 @@
   "id": 203051833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.124923,38.614875,-90.124923,38.614875",
     "geom:latitude":38.614875,
     "geom:longitude":-90.124923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 State St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203051833,
-    "wof:lastmodified":1449026115,
+    "wof:lastmodified":1466493663,
     "wof:name":"East St Louis Fire Dept",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-90.124923,38.614875,-90.124923,38.614875],
+  "bbox": [
+    -90.124923,
+    38.614875,
+    -90.124923,
+    38.614875
+],
   "geometry": {"coordinates":[-90.124923,38.614875],"type":"Point"}
 }

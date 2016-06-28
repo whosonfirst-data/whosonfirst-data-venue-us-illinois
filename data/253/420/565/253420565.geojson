@@ -2,13 +2,14 @@
   "id": 253420565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.167665,40.571201,-91.167665,40.571201",
     "geom:latitude":40.571201,
     "geom:longitude":-91.167665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2544 N Co Rd 1750",
     "sg:city":"Colusa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253420565,
-    "wof:lastmodified":1449064239,
+    "wof:lastmodified":1466494563,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.167665,40.571201,-91.167665,40.571201],
+  "bbox": [
+    -91.167665,
+    40.571201,
+    -91.167665,
+    40.571201
+],
   "geometry": {"coordinates":[-91.167665,40.571201],"type":"Point"}
 }

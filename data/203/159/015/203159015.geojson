@@ -2,13 +2,14 @@
   "id": 203159015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.178655,41.559334,-88.178655,41.559334",
     "geom:latitude":41.559334,
     "geom:longitude":-88.178655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Jo Ann Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203159015,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466495790,
     "wof:name":"DMA Ventures Inc",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-88.178655,41.559334,-88.178655,41.559334],
-  "geometry": {"coordinates":[-88.178655,41.559334],"type":"Point"}
+  "bbox": [
+    -88.178655,
+    41.559334,
+    -88.178655,
+    41.559334
+],
+  "geometry": {"coordinates":[-88.17865500000001,41.559334],"type":"Point"}
 }

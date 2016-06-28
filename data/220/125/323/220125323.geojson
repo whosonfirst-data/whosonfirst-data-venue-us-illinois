@@ -2,13 +2,14 @@
   "id": 220125323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.733287,41.576675,-87.733287,41.576675",
     "geom:latitude":41.576675,
     "geom:longitude":-87.733287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17280 Cicero Ave",
     "sg:city":"Country Club Hls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220125323,
-    "wof:lastmodified":1449074844,
+    "wof:lastmodified":1466490476,
     "wof:name":"Forest Lumber Co",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-87.733287,41.576675,-87.733287,41.576675],
+  "bbox": [
+    -87.733287,
+    41.576675,
+    -87.733287,
+    41.576675
+],
   "geometry": {"coordinates":[-87.733287,41.576675],"type":"Point"}
 }

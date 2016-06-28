@@ -2,13 +2,14 @@
   "id": 270459881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.640593,40.19491,-87.640593,40.19491",
     "geom:latitude":40.19491,
     "geom:longitude":-87.640593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Illini Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270459881,
-    "wof:lastmodified":1449009636,
+    "wof:lastmodified":1466496130,
     "wof:name":"Diana Mitchell",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.640593,40.19491,-87.640593,40.19491],
+  "bbox": [
+    -87.640593,
+    40.19491,
+    -87.640593,
+    40.19491
+],
   "geometry": {"coordinates":[-87.640593,40.19491],"type":"Point"}
 }

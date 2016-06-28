@@ -2,13 +2,14 @@
   "id": 169863967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.9655,38.675529,-89.9655,38.675529",
     "geom:latitude":38.675529,
     "geom:longitude":-89.9655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 Lebanon Rd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169863967,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466495230,
     "wof:name":"Stinchfield Lawn & Landscaping",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.9655,38.675529,-89.9655,38.675529],
-  "geometry": {"coordinates":[-89.9655,38.675529],"type":"Point"}
+  "bbox": [
+    -89.9655,
+    38.675529,
+    -89.9655,
+    38.675529
+],
+  "geometry": {"coordinates":[-89.96550000000001,38.675529],"type":"Point"}
 }

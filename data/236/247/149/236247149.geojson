@@ -2,13 +2,14 @@
   "id": 236247149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.802456,41.881953,-87.802456,41.881953",
     "geom:latitude":41.881953,
     "geom:longitude":-87.802456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Wisconsin Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236247149,
-    "wof:lastmodified":1449003604,
+    "wof:lastmodified":1466492068,
     "wof:name":"Abacus Inventory",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-87.802456,41.881953,-87.802456,41.881953],
-  "geometry": {"coordinates":[-87.802456,41.881953],"type":"Point"}
+  "bbox": [
+    -87.802456,
+    41.881953,
+    -87.802456,
+    41.881953
+],
+  "geometry": {"coordinates":[-87.80245600000001,41.881953],"type":"Point"}
 }

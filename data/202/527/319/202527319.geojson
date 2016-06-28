@@ -2,13 +2,14 @@
   "id": 202527319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.81601,41.877514,-87.81601,41.877514",
     "geom:latitude":41.877514,
     "geom:longitude":-87.81601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7660 Adams St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202527319,
-    "wof:lastmodified":1449062144,
+    "wof:lastmodified":1466495507,
     "wof:name":"Christian Help Home Day Care",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.81601,41.877514,-87.81601,41.877514],
-  "geometry": {"coordinates":[-87.81601,41.877514],"type":"Point"}
+  "bbox": [
+    -87.81601,
+    41.877514,
+    -87.81601,
+    41.877514
+],
+  "geometry": {"coordinates":[-87.81601000000001,41.877514],"type":"Point"}
 }

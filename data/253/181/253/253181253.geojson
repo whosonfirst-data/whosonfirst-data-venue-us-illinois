@@ -2,13 +2,14 @@
   "id": 253181253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.951636,40.23027,-90.951636,40.23027",
     "geom:latitude":40.23027,
     "geom:longitude":-90.951636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Main St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253181253,
-    "wof:lastmodified":1449064627,
+    "wof:lastmodified":1466491102,
     "wof:name":"Water Works Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-90.951636,40.23027,-90.951636,40.23027],
-  "geometry": {"coordinates":[-90.951636,40.23027],"type":"Point"}
+  "bbox": [
+    -90.951636,
+    40.23027,
+    -90.951636,
+    40.23027
+],
+  "geometry": {"coordinates":[-90.95163599999999,40.23027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269873881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.993468,38.670295,-89.993468,38.670295",
     "geom:latitude":38.670295,
     "geom:longitude":-89.993468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Hesperia St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269873881,
-    "wof:lastmodified":1449036646,
+    "wof:lastmodified":1466495169,
     "wof:name":"La Dixon Express",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.993468,38.670295,-89.993468,38.670295],
-  "geometry": {"coordinates":[-89.993468,38.670295],"type":"Point"}
+  "bbox": [
+    -89.993468,
+    38.670295,
+    -89.993468,
+    38.670295
+],
+  "geometry": {"coordinates":[-89.99346799999999,38.670295],"type":"Point"}
 }

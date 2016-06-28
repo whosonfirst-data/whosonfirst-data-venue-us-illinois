@@ -2,13 +2,14 @@
   "id": 219196373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.119909,37.778392,-89.119909,37.778392",
     "geom:latitude":37.778392,
     "geom:longitude":-89.119909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Ralph St",
     "sg:city":"Cambria",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219196373,
-    "wof:lastmodified":1449071192,
+    "wof:lastmodified":1466489440,
     "wof:name":"Countryside Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.119909,37.778392,-89.119909,37.778392],
-  "geometry": {"coordinates":[-89.119909,37.778392],"type":"Point"}
+  "bbox": [
+    -89.119909,
+    37.778392,
+    -89.119909,
+    37.778392
+],
+  "geometry": {"coordinates":[-89.11990900000001,37.778392],"type":"Point"}
 }

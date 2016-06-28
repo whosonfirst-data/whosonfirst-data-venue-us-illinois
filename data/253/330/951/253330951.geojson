@@ -2,13 +2,14 @@
   "id": 253330951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.099657,42.273252,-89.099657,42.273252",
     "geom:latitude":42.273252,
     "geom:longitude":-89.099657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 W State St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253330951,
-    "wof:lastmodified":1449064301,
+    "wof:lastmodified":1466493159,
     "wof:name":"Rockford Reachout Jail Mnstry",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.099657,42.273252,-89.099657,42.273252],
-  "geometry": {"coordinates":[-89.099657,42.273252],"type":"Point"}
+  "bbox": [
+    -89.099657,
+    42.273252,
+    -89.099657,
+    42.273252
+],
+  "geometry": {"coordinates":[-89.09965699999999,42.273252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303181689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01757,42.139144,-88.01757,42.139144",
     "geom:latitude":42.139144,
     "geom:longitude":-88.01757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1186 E Dundee Rd",
     "sg:city":"Palatine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303181689,
-    "wof:lastmodified":1448999621,
+    "wof:lastmodified":1466492746,
     "wof:name":"La Rosita Travel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.01757,42.139144,-88.01757,42.139144],
-  "geometry": {"coordinates":[-88.01757,42.139144],"type":"Point"}
+  "bbox": [
+    -88.01757,
+    42.139144,
+    -88.01757,
+    42.139144
+],
+  "geometry": {"coordinates":[-88.01757000000001,42.139144],"type":"Point"}
 }

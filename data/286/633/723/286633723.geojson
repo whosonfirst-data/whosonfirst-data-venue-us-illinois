@@ -2,13 +2,14 @@
   "id": 286633723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.530049,41.472875,-90.530049,41.472875",
     "geom:latitude":41.472875,
     "geom:longitude":-90.530049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Valley View Dr",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286633723,
-    "wof:lastmodified":1449018059,
+    "wof:lastmodified":1466495703,
     "wof:name":"Work Fitness Center Inc",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-90.530049,41.472875,-90.530049,41.472875],
-  "geometry": {"coordinates":[-90.530049,41.472875],"type":"Point"}
+  "bbox": [
+    -90.530049,
+    41.472875,
+    -90.530049,
+    41.472875
+],
+  "geometry": {"coordinates":[-90.53004900000001,41.472875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303128191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.190299,41.317633,-88.190299,41.317633",
     "geom:latitude":41.317633,
     "geom:longitude":-88.190299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29843 E Frontage Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303128191,
-    "wof:lastmodified":1448999077,
+    "wof:lastmodified":1466491864,
     "wof:name":"DLM Oil Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.190299,41.317633,-88.190299,41.317633],
+  "bbox": [
+    -88.190299,
+    41.317633,
+    -88.190299,
+    41.317633
+],
   "geometry": {"coordinates":[-88.190299,41.317633],"type":"Point"}
 }

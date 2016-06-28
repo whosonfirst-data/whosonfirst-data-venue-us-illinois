@@ -2,13 +2,14 @@
   "id": 236798147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009858,41.789997,-88.009858,41.789997",
     "geom:latitude":41.789997,
     "geom:longitude":-88.009858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 Main St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236798147,
-    "wof:lastmodified":1449002137,
+    "wof:lastmodified":1466497750,
     "wof:name":"Streetsmart Resources Inc",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recruited"
     ]
 },
-  "bbox": [-88.009858,41.789997,-88.009858,41.789997],
-  "geometry": {"coordinates":[-88.009858,41.789997],"type":"Point"}
+  "bbox": [
+    -88.009858,
+    41.789997,
+    -88.009858,
+    41.789997
+],
+  "geometry": {"coordinates":[-88.00985799999999,41.789997],"type":"Point"}
 }

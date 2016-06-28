@@ -2,13 +2,14 @@
   "id": 269529515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.435375,39.045665,-88.435375,39.045665",
     "geom:latitude":39.045665,
     "geom:longitude":-88.435375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20271 E 900th Ave",
     "sg:city":"Dieterich",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269529515,
-    "wof:lastmodified":1449037187,
+    "wof:lastmodified":1466489719,
     "wof:name":"Brummer Porkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-88.435375,39.045665,-88.435375,39.045665],
-  "geometry": {"coordinates":[-88.435375,39.045665],"type":"Point"}
+  "bbox": [
+    -88.435375,
+    39.045665,
+    -88.435375,
+    39.045665
+],
+  "geometry": {"coordinates":[-88.43537499999999,39.045665],"type":"Point"}
 }

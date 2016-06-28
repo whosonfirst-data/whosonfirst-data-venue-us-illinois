@@ -2,13 +2,14 @@
   "id": 202630825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809819,41.602105,-87.809819,41.602105",
     "geom:latitude":41.602105,
     "geom:longitude":-87.809819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7936 W 159th St",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202630825,
-    "wof:lastmodified":1449061011,
+    "wof:lastmodified":1466490030,
     "wof:name":"American Mattress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.809819,41.602105,-87.809819,41.602105],
+  "bbox": [
+    -87.809819,
+    41.602105,
+    -87.809819,
+    41.602105
+],
   "geometry": {"coordinates":[-87.809819,41.602105],"type":"Point"}
 }

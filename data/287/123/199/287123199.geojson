@@ -2,13 +2,14 @@
   "id": 287123199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701748,41.526327,-87.701748,41.526327",
     "geom:latitude":41.526327,
     "geom:longitude":-87.701748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20000 Governors Dr",
     "sg:city":"Olympia Fields",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287123199,
-    "wof:lastmodified":1449000912,
+    "wof:lastmodified":1466491951,
     "wof:name":"Camille Humes",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701748,41.526327,-87.701748,41.526327],
-  "geometry": {"coordinates":[-87.701748,41.526327],"type":"Point"}
+  "bbox": [
+    -87.701748,
+    41.526327,
+    -87.701748,
+    41.526327
+],
+  "geometry": {"coordinates":[-87.70174799999999,41.526327],"type":"Point"}
 }

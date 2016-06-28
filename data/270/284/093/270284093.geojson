@@ -2,13 +2,14 @@
   "id": 270284093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.914263,37.921253,-89.914263,37.921253",
     "geom:latitude":37.921253,
     "geom:longitude":-89.914263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Illinois St",
     "sg:city":"Pierron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270284093,
-    "wof:lastmodified":1449010158,
+    "wof:lastmodified":1466493342,
     "wof:name":"Village Of Pieron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.914263,37.921253,-89.914263,37.921253],
-  "geometry": {"coordinates":[-89.914263,37.921253],"type":"Point"}
+  "bbox": [
+    -89.914263,
+    37.921253,
+    -89.914263,
+    37.921253
+],
+  "geometry": {"coordinates":[-89.91426300000001,37.921253],"type":"Point"}
 }

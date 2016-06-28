@@ -2,13 +2,14 @@
   "id": 286805417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654226,41.941367,-87.654226,41.941367",
     "geom:latitude":41.941367,
     "geom:longitude":-87.654226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 N Sheffield Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286805417,
-    "wof:lastmodified":1449016166,
+    "wof:lastmodified":1466497467,
     "wof:name":"Sheffield Cleaners",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-87.654226,41.941367,-87.654226,41.941367],
-  "geometry": {"coordinates":[-87.654226,41.941367],"type":"Point"}
+  "bbox": [
+    -87.654226,
+    41.941367,
+    -87.654226,
+    41.941367
+],
+  "geometry": {"coordinates":[-87.65422599999999,41.941367],"type":"Point"}
 }

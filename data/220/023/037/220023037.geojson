@@ -2,13 +2,14 @@
   "id": 220023037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.143741,42.273068,-88.143741,42.273068",
     "geom:latitude":42.273068,
     "geom:longitude":-88.143741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Parkview Dr",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220023037,
-    "wof:lastmodified":1449074800,
+    "wof:lastmodified":1466489222,
     "wof:name":"RS Graybill Inc",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.143741,42.273068,-88.143741,42.273068],
-  "geometry": {"coordinates":[-88.143741,42.273068],"type":"Point"}
+  "bbox": [
+    -88.143741,
+    42.273068,
+    -88.143741,
+    42.273068
+],
+  "geometry": {"coordinates":[-88.14374100000001,42.273068],"type":"Point"}
 }

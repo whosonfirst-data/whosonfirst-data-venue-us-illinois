@@ -2,13 +2,14 @@
   "id": 253449173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.54649,41.49511,-90.54649,41.49511",
     "geom:latitude":41.49511,
     "geom:longitude":-90.54649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 39th St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253449173,
-    "wof:lastmodified":1449065572,
+    "wof:lastmodified":1466495023,
     "wof:name":"Wakeland Fire Equipment Co",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-90.54649,41.49511,-90.54649,41.49511],
-  "geometry": {"coordinates":[-90.54649,41.49511],"type":"Point"}
+  "bbox": [
+    -90.54649,
+    41.49511,
+    -90.54649,
+    41.49511
+],
+  "geometry": {"coordinates":[-90.54649000000001,41.49511],"type":"Point"}
 }

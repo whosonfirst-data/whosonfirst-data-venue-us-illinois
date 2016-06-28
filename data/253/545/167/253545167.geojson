@@ -2,13 +2,14 @@
   "id": 253545167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.559891,40.87879,-89.559891,40.87879",
     "geom:latitude":40.87879,
     "geom:longitude":-89.559891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 E Rome Rd",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253545167,
-    "wof:lastmodified":1449063527,
+    "wof:lastmodified":1466496365,
     "wof:name":"James H Laas Co Inc",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-89.559891,40.87879,-89.559891,40.87879],
-  "geometry": {"coordinates":[-89.559891,40.87879],"type":"Point"}
+  "bbox": [
+    -89.559891,
+    40.87879,
+    -89.559891,
+    40.87879
+],
+  "geometry": {"coordinates":[-89.55989099999999,40.87879],"type":"Point"}
 }

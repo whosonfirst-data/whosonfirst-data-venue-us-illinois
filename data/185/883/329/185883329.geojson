@@ -2,13 +2,14 @@
   "id": 185883329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.569331,39.846326,-89.569331,39.846326",
     "geom:latitude":39.846326,
     "geom:longitude":-89.569331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4392 Bissell Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185883329,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1466489768,
     "wof:name":"James M Mccann",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builders'"
     ]
 },
-  "bbox": [-89.569331,39.846326,-89.569331,39.846326],
-  "geometry": {"coordinates":[-89.569331,39.846326],"type":"Point"}
+  "bbox": [
+    -89.569331,
+    39.846326,
+    -89.569331,
+    39.846326
+],
+  "geometry": {"coordinates":[-89.56933100000001,39.846326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219685775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.740985,41.997124,-87.740985,41.997124",
     "geom:latitude":41.997124,
     "geom:longitude":-87.740985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6309 N Knox Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219685775,
-    "wof:lastmodified":1449073825,
+    "wof:lastmodified":1466495363,
     "wof:name":"St Dymphna Society Foundation",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.740985,41.997124,-87.740985,41.997124],
-  "geometry": {"coordinates":[-87.740985,41.997124],"type":"Point"}
+  "bbox": [
+    -87.740985,
+    41.997124,
+    -87.740985,
+    41.997124
+],
+  "geometry": {"coordinates":[-87.74098499999999,41.997124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236626183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.526768,41.622345,-87.526768,41.622345",
     "geom:latitude":41.622345,
     "geom:longitude":-87.526768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 State St",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236626183,
-    "wof:lastmodified":1449005252,
+    "wof:lastmodified":1466496588,
     "wof:name":"Door Industries",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-87.526768,41.622345,-87.526768,41.622345],
+  "bbox": [
+    -87.526768,
+    41.622345,
+    -87.526768,
+    41.622345
+],
   "geometry": {"coordinates":[-87.526768,41.622345],"type":"Point"}
 }

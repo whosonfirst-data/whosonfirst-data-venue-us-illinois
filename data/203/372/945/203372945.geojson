@@ -2,13 +2,14 @@
   "id": 203372945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835833,42.374932,-87.835833,42.374932",
     "geom:latitude":42.374932,
     "geom:longitude":-87.835833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 North Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203372945,
-    "wof:lastmodified":1449026087,
+    "wof:lastmodified":1466491274,
     "wof:name":"Edor Able Properties",
     "wof:parent_id":85890989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-87.835833,42.374932,-87.835833,42.374932],
-  "geometry": {"coordinates":[-87.835833,42.374932],"type":"Point"}
+  "bbox": [
+    -87.835833,
+    42.374932,
+    -87.835833,
+    42.374932
+],
+  "geometry": {"coordinates":[-87.83583299999999,42.374932],"type":"Point"}
 }

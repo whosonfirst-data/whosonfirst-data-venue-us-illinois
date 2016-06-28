@@ -2,13 +2,14 @@
   "id": 286500093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.589689,40.930318,-89.589689,40.930318",
     "geom:latitude":40.930318,
     "geom:longitude":-89.589689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20017 N Isaacson Dr",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286500093,
-    "wof:lastmodified":1449015903,
+    "wof:lastmodified":1466493535,
     "wof:name":"Frank's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.589689,40.930318,-89.589689,40.930318],
-  "geometry": {"coordinates":[-89.589689,40.930318],"type":"Point"}
+  "bbox": [
+    -89.589689,
+    40.930318,
+    -89.589689,
+    40.930318
+],
+  "geometry": {"coordinates":[-89.58968900000001,40.930318],"type":"Point"}
 }

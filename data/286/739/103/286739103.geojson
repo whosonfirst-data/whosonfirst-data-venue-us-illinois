@@ -2,13 +2,14 @@
   "id": 286739103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.853616,42.415273,-87.853616,42.415273",
     "geom:latitude":42.415273,
     "geom:longitude":-87.853616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38137 N Charleston Rd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286739103,
-    "wof:lastmodified":1449016420,
+    "wof:lastmodified":1466496874,
     "wof:name":"Lake Front Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-87.853616,42.415273,-87.853616,42.415273],
+  "bbox": [
+    -87.853616,
+    42.415273,
+    -87.853616,
+    42.415273
+],
   "geometry": {"coordinates":[-87.853616,42.415273],"type":"Point"}
 }

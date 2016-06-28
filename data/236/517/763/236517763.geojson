@@ -2,13 +2,14 @@
   "id": 236517763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.845445,41.115627,-87.845445,41.115627",
     "geom:latitude":41.115627,
     "geom:longitude":-87.845445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S Nelson Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236517763,
-    "wof:lastmodified":1449003552,
+    "wof:lastmodified":1466495615,
     "wof:name":"Nelson Avenue Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.845445,41.115627,-87.845445,41.115627],
+  "bbox": [
+    -87.845445,
+    41.115627,
+    -87.845445,
+    41.115627
+],
   "geometry": {"coordinates":[-87.845445,41.115627],"type":"Point"}
 }

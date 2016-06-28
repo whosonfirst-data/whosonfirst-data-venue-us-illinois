@@ -2,13 +2,14 @@
   "id": 253108621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306886,41.190415,-88.306886,41.190415",
     "geom:latitude":41.190415,
     "geom:longitude":-88.306886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 N Elm St",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253108621,
-    "wof:lastmodified":1449062873,
+    "wof:lastmodified":1466490327,
     "wof:name":"Sisters Helping Each Other",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-88.306886,41.190415,-88.306886,41.190415],
-  "geometry": {"coordinates":[-88.306886,41.190415],"type":"Point"}
+  "bbox": [
+    -88.306886,
+    41.190415,
+    -88.306886,
+    41.190415
+],
+  "geometry": {"coordinates":[-88.30688600000001,41.190415],"type":"Point"}
 }

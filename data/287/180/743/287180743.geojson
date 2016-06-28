@@ -2,13 +2,14 @@
   "id": 287180743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.16997,38.675848,-90.16997,38.675848",
     "geom:latitude":38.675848,
     "geom:longitude":-90.16997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Klein Ave",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287180743,
-    "wof:lastmodified":1449000707,
+    "wof:lastmodified":1466492880,
     "wof:name":"New Salem Baptist Church",
     "wof:parent_id":85838143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.16997,38.675848,-90.16997,38.675848],
-  "geometry": {"coordinates":[-90.16997,38.675848],"type":"Point"}
+  "bbox": [
+    -90.16997,
+    38.675848,
+    -90.16997,
+    38.675848
+],
+  "geometry": {"coordinates":[-90.16997000000001,38.675848],"type":"Point"}
 }

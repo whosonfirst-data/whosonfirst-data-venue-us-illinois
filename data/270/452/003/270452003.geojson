@@ -2,13 +2,14 @@
   "id": 270452003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.818022,41.810031,-87.818022,41.810031",
     "geom:latitude":41.810031,
     "geom:longitude":-87.818022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 Amelia Ave",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270452003,
-    "wof:lastmodified":1449009213,
+    "wof:lastmodified":1466495785,
     "wof:name":"A-Local Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-87.818022,41.810031,-87.818022,41.810031],
+  "bbox": [
+    -87.818022,
+    41.810031,
+    -87.818022,
+    41.810031
+],
   "geometry": {"coordinates":[-87.818022,41.810031],"type":"Point"}
 }

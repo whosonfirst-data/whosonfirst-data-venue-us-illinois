@@ -2,13 +2,14 @@
   "id": 286602671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.070189,41.87682,-88.070189,41.87682",
     "geom:latitude":41.87682,
     "geom:longitude":-88.070189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Prospect Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286602671,
-    "wof:lastmodified":1449016568,
+    "wof:lastmodified":1466495231,
     "wof:name":"Dupage Medical Group",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.070189,41.87682,-88.070189,41.87682],
+  "bbox": [
+    -88.070189,
+    41.87682,
+    -88.070189,
+    41.87682
+],
   "geometry": {"coordinates":[-88.070189,41.87682],"type":"Point"}
 }

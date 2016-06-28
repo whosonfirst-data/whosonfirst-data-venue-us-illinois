@@ -2,13 +2,14 @@
   "id": 185881151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.686966,39.799579,-89.686966,39.799579",
     "geom:latitude":39.799579,
     "geom:longitude":-89.686966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W Monroe St",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185881151,
-    "wof:lastmodified":1449007542,
+    "wof:lastmodified":1466489736,
     "wof:name":"County Market Pharmacy",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.686966,39.799579,-89.686966,39.799579],
+  "bbox": [
+    -89.686966,
+    39.799579,
+    -89.686966,
+    39.799579
+],
   "geometry": {"coordinates":[-89.686966,39.799579],"type":"Point"}
 }

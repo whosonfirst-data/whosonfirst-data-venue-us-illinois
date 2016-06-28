@@ -2,13 +2,14 @@
   "id": 252740569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009802,41.66011,-88.009802,41.66011",
     "geom:latitude":41.66011,
     "geom:longitude":-88.009802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Rose Ct",
     "sg:city":"Lemont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252740569,
-    "wof:lastmodified":1449005913,
+    "wof:lastmodified":1466489416,
     "wof:name":"Petzoldt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-88.009802,41.66011,-88.009802,41.66011],
-  "geometry": {"coordinates":[-88.009802,41.66011],"type":"Point"}
+  "bbox": [
+    -88.009802,
+    41.66011,
+    -88.009802,
+    41.66011
+],
+  "geometry": {"coordinates":[-88.00980199999999,41.66011],"type":"Point"}
 }

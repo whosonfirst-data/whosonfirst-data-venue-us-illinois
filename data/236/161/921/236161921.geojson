@@ -2,13 +2,14 @@
   "id": 236161921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.994633,39.302575,-87.994633,39.302575",
     "geom:latitude":39.302575,
     "geom:longitude":-87.994633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 NW 1st St",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236161921,
-    "wof:lastmodified":1449002867,
+    "wof:lastmodified":1466490955,
     "wof:name":"Audio Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-87.994633,39.302575,-87.994633,39.302575],
-  "geometry": {"coordinates":[-87.994633,39.302575],"type":"Point"}
+  "bbox": [
+    -87.994633,
+    39.302575,
+    -87.994633,
+    39.302575
+],
+  "geometry": {"coordinates":[-87.99463299999999,39.302575],"type":"Point"}
 }

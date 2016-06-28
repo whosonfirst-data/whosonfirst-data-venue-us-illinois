@@ -2,13 +2,14 @@
   "id": 286460183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.072527,41.775529,-88.072527,41.775529",
     "geom:latitude":41.775529,
     "geom:longitude":-88.072527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Ironwood Ln",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286460183,
-    "wof:lastmodified":1449017923,
+    "wof:lastmodified":1466492884,
     "wof:name":"Tri K Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-88.072527,41.775529,-88.072527,41.775529],
-  "geometry": {"coordinates":[-88.072527,41.775529],"type":"Point"}
+  "bbox": [
+    -88.072527,
+    41.775529,
+    -88.072527,
+    41.775529
+],
+  "geometry": {"coordinates":[-88.07252699999999,41.775529],"type":"Point"}
 }

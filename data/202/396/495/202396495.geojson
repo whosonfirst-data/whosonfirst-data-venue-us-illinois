@@ -2,13 +2,14 @@
   "id": 202396495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042864,40.111444,-88.042864,40.111444",
     "geom:latitude":40.111444,
     "geom:longitude":-88.042864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 2nd St",
     "sg:city":"Saint Joseph",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202396495,
-    "wof:lastmodified":1449061749,
+    "wof:lastmodified":1466492808,
     "wof:name":"Campbell Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-88.042864,40.111444,-88.042864,40.111444],
-  "geometry": {"coordinates":[-88.042864,40.111444],"type":"Point"}
+  "bbox": [
+    -88.042864,
+    40.111444,
+    -88.042864,
+    40.111444
+],
+  "geometry": {"coordinates":[-88.04286399999999,40.111444],"type":"Point"}
 }

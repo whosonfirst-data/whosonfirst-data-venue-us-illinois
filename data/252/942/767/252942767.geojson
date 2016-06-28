@@ -2,13 +2,14 @@
   "id": 252942767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.612024,37.839617,-88.612024,37.839617",
     "geom:latitude":37.839617,
     "geom:longitude":-88.612024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Main Cross St",
     "sg:city":"Galatia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252942767,
-    "wof:lastmodified":1449005916,
+    "wof:lastmodified":1466492023,
     "wof:name":"Galatia Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.612024,37.839617,-88.612024,37.839617],
-  "geometry": {"coordinates":[-88.612024,37.839617],"type":"Point"}
+  "bbox": [
+    -88.612024,
+    37.839617,
+    -88.612024,
+    37.839617
+],
+  "geometry": {"coordinates":[-88.61202400000001,37.839617],"type":"Point"}
 }

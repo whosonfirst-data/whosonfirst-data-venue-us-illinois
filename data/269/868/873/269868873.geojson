@@ -2,13 +2,14 @@
   "id": 269868873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.733741,41.990557,-87.733741,41.990557",
     "geom:latitude":41.990557,
     "geom:longitude":-87.733741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6007 N Sauganash Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269868873,
-    "wof:lastmodified":1449036234,
+    "wof:lastmodified":1466495092,
     "wof:name":"Classic Cleaners",
     "wof:parent_id":85865777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.733741,41.990557,-87.733741,41.990557],
-  "geometry": {"coordinates":[-87.733741,41.990557],"type":"Point"}
+  "bbox": [
+    -87.733741,
+    41.990557,
+    -87.733741,
+    41.990557
+],
+  "geometry": {"coordinates":[-87.73374099999999,41.990557],"type":"Point"}
 }

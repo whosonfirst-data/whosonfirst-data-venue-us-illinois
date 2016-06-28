@@ -2,13 +2,14 @@
   "id": 203071621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.189626,40.101605,-88.189626,40.101605",
     "geom:latitude":40.101605,
     "geom:longitude":-88.189626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 E Fairlawn Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203071621,
-    "wof:lastmodified":1449026155,
+    "wof:lastmodified":1466494176,
     "wof:name":"Advanced Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-88.189626,40.101605,-88.189626,40.101605],
+  "bbox": [
+    -88.189626,
+    40.101605,
+    -88.189626,
+    40.101605
+],
   "geometry": {"coordinates":[-88.189626,40.101605],"type":"Point"}
 }

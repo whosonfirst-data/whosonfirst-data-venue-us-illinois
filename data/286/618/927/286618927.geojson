@@ -2,13 +2,14 @@
   "id": 286618927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.464621,38.55382,-89.464621,38.55382",
     "geom:latitude":38.55382,
     "geom:longitude":-89.464621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9020 Bartelso Rd",
     "sg:city":"Bartelso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286618927,
-    "wof:lastmodified":1449017035,
+    "wof:lastmodified":1466495499,
     "wof:name":"Mike Kampwerth Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.464621,38.55382,-89.464621,38.55382],
-  "geometry": {"coordinates":[-89.464621,38.55382],"type":"Point"}
+  "bbox": [
+    -89.464621,
+    38.55382,
+    -89.464621,
+    38.55382
+],
+  "geometry": {"coordinates":[-89.46462099999999,38.55382],"type":"Point"}
 }

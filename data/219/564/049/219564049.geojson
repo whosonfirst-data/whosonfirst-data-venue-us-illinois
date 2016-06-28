@@ -2,13 +2,14 @@
   "id": 219564049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314969,41.75959,-88.314969,41.75959",
     "geom:latitude":41.75959,
     "geom:longitude":-88.314969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 W New York St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219564049,
-    "wof:lastmodified":1449073702,
+    "wof:lastmodified":1466493922,
     "wof:name":"Lampliter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.314969,41.75959,-88.314969,41.75959],
+  "bbox": [
+    -88.314969,
+    41.75959,
+    -88.314969,
+    41.75959
+],
   "geometry": {"coordinates":[-88.314969,41.75959],"type":"Point"}
 }

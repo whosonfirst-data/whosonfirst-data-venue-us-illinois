@@ -2,13 +2,14 @@
   "id": 270454451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.268919,40.130023,-88.268919,40.130023",
     "geom:latitude":40.130023,
     "geom:longitude":-88.268919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Hedge Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270454451,
-    "wof:lastmodified":1449010863,
+    "wof:lastmodified":1466496065,
     "wof:name":"Fitzpatrick Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.268919,40.130023,-88.268919,40.130023],
+  "bbox": [
+    -88.268919,
+    40.130023,
+    -88.268919,
+    40.130023
+],
   "geometry": {"coordinates":[-88.268919,40.130023],"type":"Point"}
 }

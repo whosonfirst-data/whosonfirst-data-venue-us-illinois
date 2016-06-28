@@ -2,13 +2,14 @@
   "id": 219438415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.327951,41.791125,-88.327951,41.791125",
     "geom:latitude":41.791125,
     "geom:longitude":-88.327951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Fairview Dr",
     "sg:city":"Naperville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219438415,
-    "wof:lastmodified":1449071594,
+    "wof:lastmodified":1466492436,
     "wof:name":"Geneva",
     "wof:parent_id":85818385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-88.327951,41.791125,-88.327951,41.791125],
+  "bbox": [
+    -88.327951,
+    41.791125,
+    -88.327951,
+    41.791125
+],
   "geometry": {"coordinates":[-88.327951,41.791125],"type":"Point"}
 }

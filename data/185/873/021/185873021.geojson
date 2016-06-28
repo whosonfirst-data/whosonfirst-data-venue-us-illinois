@@ -2,13 +2,14 @@
   "id": 185873021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.671985,39.796015,-89.671985,39.796015",
     "geom:latitude":39.796015,
     "geom:longitude":-89.671985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 W Edwards St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185873021,
-    "wof:lastmodified":1449006948,
+    "wof:lastmodified":1466489625,
     "wof:name":"Laura Lutkowski Seamtress",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-89.671985,39.796015,-89.671985,39.796015],
-  "geometry": {"coordinates":[-89.671985,39.796015],"type":"Point"}
+  "bbox": [
+    -89.671985,
+    39.796015,
+    -89.671985,
+    39.796015
+],
+  "geometry": {"coordinates":[-89.67198500000001,39.796015],"type":"Point"}
 }

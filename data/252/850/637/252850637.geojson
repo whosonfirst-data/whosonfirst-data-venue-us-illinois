@@ -2,13 +2,14 @@
   "id": 252850637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.832957,42.152809,-87.832957,42.152809",
     "geom:latitude":42.152809,
     "geom:longitude":-87.832957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Lake Cook Rd",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252850637,
-    "wof:lastmodified":1449006044,
+    "wof:lastmodified":1466490814,
     "wof:name":"North Subn Evang Free Church",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.832957,42.152809,-87.832957,42.152809],
-  "geometry": {"coordinates":[-87.832957,42.152809],"type":"Point"}
+  "bbox": [
+    -87.832957,
+    42.152809,
+    -87.832957,
+    42.152809
+],
+  "geometry": {"coordinates":[-87.83295699999999,42.152809],"type":"Point"}
 }

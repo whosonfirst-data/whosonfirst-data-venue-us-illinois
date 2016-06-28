@@ -2,13 +2,14 @@
   "id": 286655475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616701,41.822652,-87.616701,41.822652",
     "geom:latitude":41.822652,
     "geom:longitude":-87.616701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 E Oakwood Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286655475,
-    "wof:lastmodified":1449016875,
+    "wof:lastmodified":1466495946,
     "wof:name":"King Lajoyce",
     "wof:parent_id":85867635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catering"
     ]
 },
-  "bbox": [-87.616701,41.822652,-87.616701,41.822652],
-  "geometry": {"coordinates":[-87.616701,41.822652],"type":"Point"}
+  "bbox": [
+    -87.616701,
+    41.822652,
+    -87.616701,
+    41.822652
+],
+  "geometry": {"coordinates":[-87.61670100000001,41.822652],"type":"Point"}
 }

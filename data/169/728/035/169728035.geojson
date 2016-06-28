@@ -2,13 +2,14 @@
   "id": 169728035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.951118,38.782663,-89.951118,38.782663",
     "geom:latitude":38.782663,
     "geom:longitude":-89.951118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2470 Troy Rd",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169728035,
-    "wof:lastmodified":1449033461,
+    "wof:lastmodified":1466492977,
     "wof:name":"Atlas Copco Rental Services Corp",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-89.951118,38.782663,-89.951118,38.782663],
-  "geometry": {"coordinates":[-89.951118,38.782663],"type":"Point"}
+  "bbox": [
+    -89.951118,
+    38.782663,
+    -89.951118,
+    38.782663
+],
+  "geometry": {"coordinates":[-89.95111799999999,38.782663],"type":"Point"}
 }

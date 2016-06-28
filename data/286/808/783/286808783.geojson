@@ -2,13 +2,14 @@
   "id": 286808783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.700195,42.041032,-87.700195,42.041032",
     "geom:latitude":42.041032,
     "geom:longitude":-87.700195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Dempster St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286808783,
-    "wof:lastmodified":1449015306,
+    "wof:lastmodified":1466497308,
     "wof:name":"E Z Laundry",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.700195,42.041032,-87.700195,42.041032],
-  "geometry": {"coordinates":[-87.700195,42.041032],"type":"Point"}
+  "bbox": [
+    -87.700195,
+    42.041032,
+    -87.700195,
+    42.041032
+],
+  "geometry": {"coordinates":[-87.70019499999999,42.041032],"type":"Point"}
 }

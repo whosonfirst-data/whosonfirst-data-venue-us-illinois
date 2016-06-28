@@ -2,13 +2,14 @@
   "id": 253582657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.454295,39.631436,-90.454295,39.631436",
     "geom:latitude":39.631436,
     "geom:longitude":-90.454295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Pearl St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253582657,
-    "wof:lastmodified":1449064419,
+    "wof:lastmodified":1466496835,
     "wof:name":"St Mark's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.454295,39.631436,-90.454295,39.631436],
+  "bbox": [
+    -90.454295,
+    39.631436,
+    -90.454295,
+    39.631436
+],
   "geometry": {"coordinates":[-90.454295,39.631436],"type":"Point"}
 }

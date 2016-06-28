@@ -2,13 +2,14 @@
   "id": 252842343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.681345,38.741493,-89.681345,38.741493",
     "geom:latitude":38.741493,
     "geom:longitude":-89.681345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 9th St",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252842343,
-    "wof:lastmodified":1449005493,
+    "wof:lastmodified":1466490708,
     "wof:name":"Green-Waltman Eye Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.681345,38.741493,-89.681345,38.741493],
-  "geometry": {"coordinates":[-89.681345,38.741493],"type":"Point"}
+  "bbox": [
+    -89.681345,
+    38.741493,
+    -89.681345,
+    38.741493
+],
+  "geometry": {"coordinates":[-89.68134499999999,38.741493],"type":"Point"}
 }

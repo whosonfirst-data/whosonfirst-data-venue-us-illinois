@@ -2,13 +2,14 @@
   "id": 303067933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655418,41.993471,-87.655418,41.993471",
     "geom:latitude":41.993471,
     "geom:longitude":-87.655418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6121 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303067933,
-    "wof:lastmodified":1448998276,
+    "wof:lastmodified":1466490906,
     "wof:name":"Smart Mortgage Ctr",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-87.655418,41.993471,-87.655418,41.993471],
+  "bbox": [
+    -87.655418,
+    41.993471,
+    -87.655418,
+    41.993471
+],
   "geometry": {"coordinates":[-87.655418,41.993471],"type":"Point"}
 }

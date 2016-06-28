@@ -2,13 +2,14 @@
   "id": 202559305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.289456,41.887365,-88.289456,41.887365",
     "geom:latitude":41.887365,
     "geom:longitude":-88.289456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E State St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202559305,
-    "wof:lastmodified":1449062101,
+    "wof:lastmodified":1466489189,
     "wof:name":"Valley Animal Hospital Inc",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-88.289456,41.887365,-88.289456,41.887365],
+  "bbox": [
+    -88.289456,
+    41.887365,
+    -88.289456,
+    41.887365
+],
   "geometry": {"coordinates":[-88.289456,41.887365],"type":"Point"}
 }

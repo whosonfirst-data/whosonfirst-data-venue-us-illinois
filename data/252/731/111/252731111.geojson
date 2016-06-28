@@ -2,13 +2,14 @@
   "id": 252731111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.778633,41.719544,-87.778633,41.719544",
     "geom:latitude":41.719544,
     "geom:longitude":-87.778633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 W 95th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252731111,
-    "wof:lastmodified":1449006392,
+    "wof:lastmodified":1466489295,
     "wof:name":"Thomas J Dunn DDS",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.778633,41.719544,-87.778633,41.719544],
+  "bbox": [
+    -87.778633,
+    41.719544,
+    -87.778633,
+    41.719544
+],
   "geometry": {"coordinates":[-87.778633,41.719544],"type":"Point"}
 }

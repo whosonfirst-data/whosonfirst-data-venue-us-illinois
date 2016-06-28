@@ -2,13 +2,14 @@
   "id": 219898219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.797266,41.690028,-87.797266,41.690028",
     "geom:latitude":41.690028,
     "geom:longitude":-87.797266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7112 W 111th St",
     "sg:city":"Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219898219,
-    "wof:lastmodified":1449070310,
+    "wof:lastmodified":1466496953,
     "wof:name":"Village of Worth",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-87.797266,41.690028,-87.797266,41.690028],
-  "geometry": {"coordinates":[-87.797266,41.690028],"type":"Point"}
+  "bbox": [
+    -87.797266,
+    41.690028,
+    -87.797266,
+    41.690028
+],
+  "geometry": {"coordinates":[-87.79726599999999,41.690028],"type":"Point"}
 }

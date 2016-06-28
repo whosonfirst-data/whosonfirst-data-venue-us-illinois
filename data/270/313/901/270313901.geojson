@@ -2,13 +2,14 @@
   "id": 270313901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709035,41.929976,-87.709035,41.929976",
     "geom:latitude":41.929976,
     "geom:longitude":-87.709035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2644 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270313901,
-    "wof:lastmodified":1449008742,
+    "wof:lastmodified":1466493798,
     "wof:name":"El Espanol Accounting Service",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-87.709035,41.929976,-87.709035,41.929976],
+  "bbox": [
+    -87.709035,
+    41.929976,
+    -87.709035,
+    41.929976
+],
   "geometry": {"coordinates":[-87.709035,41.929976],"type":"Point"}
 }

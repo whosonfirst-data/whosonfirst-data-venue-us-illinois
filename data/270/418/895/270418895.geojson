@@ -2,13 +2,14 @@
   "id": 270418895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.056671,38.376915,-88.056671,38.376915",
     "geom:latitude":38.376915,
     "geom:longitude":-88.056671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 E Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270418895,
-    "wof:lastmodified":1449010526,
+    "wof:lastmodified":1466495409,
     "wof:name":"S S Disposal Well",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-88.056671,38.376915,-88.056671,38.376915],
-  "geometry": {"coordinates":[-88.056671,38.376915],"type":"Point"}
+  "bbox": [
+    -88.056671,
+    38.376915,
+    -88.056671,
+    38.376915
+],
+  "geometry": {"coordinates":[-88.05667099999999,38.376915],"type":"Point"}
 }

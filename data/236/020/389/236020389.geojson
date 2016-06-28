@@ -2,13 +2,14 @@
   "id": 236020389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.201312,41.905266,-88.201312,41.905266",
     "geom:latitude":41.905266,
     "geom:longitude":-88.201312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Hill Ct",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236020389,
-    "wof:lastmodified":1449003141,
+    "wof:lastmodified":1466489212,
     "wof:name":"DAB Consulting",
     "wof:parent_id":85890999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.201312,41.905266,-88.201312,41.905266],
+  "bbox": [
+    -88.201312,
+    41.905266,
+    -88.201312,
+    41.905266
+],
   "geometry": {"coordinates":[-88.201312,41.905266],"type":"Point"}
 }

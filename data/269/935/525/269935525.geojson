@@ -2,13 +2,14 @@
   "id": 269935525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.809537,39.711245,-88.809537,39.711245",
     "geom:latitude":39.711245,
     "geom:longitude":-88.809537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Main St",
     "sg:city":"Dalton City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269935525,
-    "wof:lastmodified":1449038419,
+    "wof:lastmodified":1466495927,
     "wof:name":"Dalton City Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-88.809537,39.711245,-88.809537,39.711245],
-  "geometry": {"coordinates":[-88.809537,39.711245],"type":"Point"}
+  "bbox": [
+    -88.809537,
+    39.711245,
+    -88.809537,
+    39.711245
+],
+  "geometry": {"coordinates":[-88.80953700000001,39.711245],"type":"Point"}
 }

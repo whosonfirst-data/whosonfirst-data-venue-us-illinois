@@ -2,13 +2,14 @@
   "id": 253228255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.834409,40.04793,-87.834409,40.04793",
     "geom:latitude":40.04793,
     "geom:longitude":-87.834409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 1500 North Rd",
     "sg:city":"Fairmount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253228255,
-    "wof:lastmodified":1449063744,
+    "wof:lastmodified":1466491698,
     "wof:name":"Boy Scouts Camp Drake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-87.834409,40.04793,-87.834409,40.04793],
-  "geometry": {"coordinates":[-87.834409,40.04793],"type":"Point"}
+  "bbox": [
+    -87.834409,
+    40.04793,
+    -87.834409,
+    40.04793
+],
+  "geometry": {"coordinates":[-87.83440899999999,40.04793],"type":"Point"}
 }

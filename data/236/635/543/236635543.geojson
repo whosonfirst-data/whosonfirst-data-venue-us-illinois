@@ -2,13 +2,14 @@
   "id": 236635543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.648479,41.575872,-87.648479,41.575872",
     "geom:latitude":41.575872,
     "geom:longitude":-87.648479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17223 Throop St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236635543,
-    "wof:lastmodified":1449003016,
+    "wof:lastmodified":1466496771,
     "wof:name":"East Hazel Crest Police Dept",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.648479,41.575872,-87.648479,41.575872],
-  "geometry": {"coordinates":[-87.648479,41.575872],"type":"Point"}
+  "bbox": [
+    -87.648479,
+    41.575872,
+    -87.648479,
+    41.575872
+],
+  "geometry": {"coordinates":[-87.64847899999999,41.575872],"type":"Point"}
 }

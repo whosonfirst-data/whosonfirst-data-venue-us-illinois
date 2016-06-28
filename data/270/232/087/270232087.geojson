@@ -2,13 +2,14 @@
   "id": 270232087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.571824,40.025445,-88.571824,40.025445",
     "geom:latitude":40.025445,
     "geom:longitude":-88.571824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Washington St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270232087,
-    "wof:lastmodified":1449009417,
+    "wof:lastmodified":1466492547,
     "wof:name":"Jordan Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.571824,40.025445,-88.571824,40.025445],
-  "geometry": {"coordinates":[-88.571824,40.025445],"type":"Point"}
+  "bbox": [
+    -88.571824,
+    40.025445,
+    -88.571824,
+    40.025445
+],
+  "geometry": {"coordinates":[-88.57182400000001,40.025445],"type":"Point"}
 }

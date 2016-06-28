@@ -2,13 +2,14 @@
   "id": 203160687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673612,42.038426,-87.673612,42.038426",
     "geom:latitude":42.038426,
     "geom:longitude":-87.673612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Michigan Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203160687,
-    "wof:lastmodified":1449026544,
+    "wof:lastmodified":1466495608,
     "wof:name":"Galati Productions",
     "wof:parent_id":85890805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.673612,42.038426,-87.673612,42.038426],
-  "geometry": {"coordinates":[-87.673612,42.038426],"type":"Point"}
+  "bbox": [
+    -87.673612,
+    42.038426,
+    -87.673612,
+    42.038426
+],
+  "geometry": {"coordinates":[-87.67361200000001,42.038426],"type":"Point"}
 }

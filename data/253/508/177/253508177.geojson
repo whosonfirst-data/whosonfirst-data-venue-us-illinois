@@ -2,13 +2,14 @@
   "id": 253508177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.364225,41.744558,-88.364225,41.744558",
     "geom:latitude":41.744558,
     "geom:longitude":-88.364225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 Jericho Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253508177,
-    "wof:lastmodified":1449064485,
+    "wof:lastmodified":1466496086,
     "wof:name":"Ted Kline",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.364225,41.744558,-88.364225,41.744558],
+  "bbox": [
+    -88.364225,
+    41.744558,
+    -88.364225,
+    41.744558
+],
   "geometry": {"coordinates":[-88.364225,41.744558],"type":"Point"}
 }

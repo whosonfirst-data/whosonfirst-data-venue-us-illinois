@@ -2,13 +2,14 @@
   "id": 269708483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173926,39.485249,-88.173926,39.485249",
     "geom:latitude":39.485249,
     "geom:longitude":-88.173926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1443 7th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269708483,
-    "wof:lastmodified":1449036525,
+    "wof:lastmodified":1466492552,
     "wof:name":"7th & Glory Chrstn Bk Gift Str",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.173926,39.485249,-88.173926,39.485249],
-  "geometry": {"coordinates":[-88.173926,39.485249],"type":"Point"}
+  "bbox": [
+    -88.173926,
+    39.485249,
+    -88.173926,
+    39.485249
+],
+  "geometry": {"coordinates":[-88.17392599999999,39.485249],"type":"Point"}
 }

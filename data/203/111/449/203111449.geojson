@@ -2,13 +2,14 @@
   "id": 203111449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.001914,41.673538,-88.001914,41.673538",
     "geom:latitude":41.673538,
     "geom:longitude":-88.001914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Lemont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203111449,
-    "wof:lastmodified":1449026908,
+    "wof:lastmodified":1466494967,
     "wof:name":"Train Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.001914,41.673538,-88.001914,41.673538],
+  "bbox": [
+    -88.001914,
+    41.673538,
+    -88.001914,
+    41.673538
+],
   "geometry": {"coordinates":[-88.001914,41.673538],"type":"Point"}
 }

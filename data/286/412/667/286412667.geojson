@@ -2,13 +2,14 @@
   "id": 286412667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.843483,41.890506,-87.843483,41.890506",
     "geom:latitude":41.890506,
     "geom:longitude":-87.843483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Lake St",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286412667,
-    "wof:lastmodified":1449015764,
+    "wof:lastmodified":1466492152,
     "wof:name":"B & O Transmission",
     "wof:parent_id":85890841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-87.843483,41.890506,-87.843483,41.890506],
-  "geometry": {"coordinates":[-87.843483,41.890506],"type":"Point"}
+  "bbox": [
+    -87.843483,
+    41.890506,
+    -87.843483,
+    41.890506
+],
+  "geometry": {"coordinates":[-87.84348300000001,41.890506],"type":"Point"}
 }

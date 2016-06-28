@@ -2,13 +2,14 @@
   "id": 236890281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.403606,41.111398,-89.403606,41.111398",
     "geom:latitude":41.111398,
     "geom:longitude":-89.403606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Western Rd",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236890281,
-    "wof:lastmodified":1449002220,
+    "wof:lastmodified":1466498171,
     "wof:name":"Pavement Maintenace Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-89.403606,41.111398,-89.403606,41.111398],
+  "bbox": [
+    -89.403606,
+    41.111398,
+    -89.403606,
+    41.111398
+],
   "geometry": {"coordinates":[-89.403606,41.111398],"type":"Point"}
 }

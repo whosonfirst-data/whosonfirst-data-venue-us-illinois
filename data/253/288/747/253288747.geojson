@@ -2,13 +2,14 @@
   "id": 253288747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.658079,41.983097,-87.658079,41.983097",
     "geom:latitude":41.983097,
     "geom:longitude":-87.658079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5530 N Winthrop Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253288747,
-    "wof:lastmodified":1449063121,
+    "wof:lastmodified":1466492550,
     "wof:name":"B T Healthcare Svc",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-87.658079,41.983097,-87.658079,41.983097],
+  "bbox": [
+    -87.658079,
+    41.983097,
+    -87.658079,
+    41.983097
+],
   "geometry": {"coordinates":[-87.658079,41.983097],"type":"Point"}
 }

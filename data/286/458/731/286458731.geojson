@@ -2,13 +2,14 @@
   "id": 286458731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.836711,38.931616,-89.836711,38.931616",
     "geom:latitude":38.931616,
     "geom:longitude":-89.836711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Wall St",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286458731,
-    "wof:lastmodified":1449017279,
+    "wof:lastmodified":1466492864,
     "wof:name":"Worden Lumber Co",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-89.836711,38.931616,-89.836711,38.931616],
-  "geometry": {"coordinates":[-89.836711,38.931616],"type":"Point"}
+  "bbox": [
+    -89.836711,
+    38.931616,
+    -89.836711,
+    38.931616
+],
+  "geometry": {"coordinates":[-89.83671099999999,38.931616],"type":"Point"}
 }

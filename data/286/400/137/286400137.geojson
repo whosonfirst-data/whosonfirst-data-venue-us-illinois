@@ -2,13 +2,14 @@
   "id": 286400137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.613106,37.838965,-88.613106,37.838965",
     "geom:latitude":37.838965,
     "geom:longitude":-88.613106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Mill St",
     "sg:city":"Galatia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286400137,
-    "wof:lastmodified":1449015468,
+    "wof:lastmodified":1466491954,
     "wof:name":"Jackson Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-88.613106,37.838965,-88.613106,37.838965],
+  "bbox": [
+    -88.613106,
+    37.838965,
+    -88.613106,
+    37.838965
+],
   "geometry": {"coordinates":[-88.613106,37.838965],"type":"Point"}
 }

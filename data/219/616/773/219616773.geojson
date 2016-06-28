@@ -2,13 +2,14 @@
   "id": 219616773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.381027,42.45226,-89.381027,42.45226",
     "geom:latitude":42.45226,
     "geom:longitude":-89.381027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13865 Best Rd",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219616773,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466494539,
     "wof:name":"Lakeside Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-89.381027,42.45226,-89.381027,42.45226],
+  "bbox": [
+    -89.381027,
+    42.45226,
+    -89.381027,
+    42.45226
+],
   "geometry": {"coordinates":[-89.381027,42.45226],"type":"Point"}
 }

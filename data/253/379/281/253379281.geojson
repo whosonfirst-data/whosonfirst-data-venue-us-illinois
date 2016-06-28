@@ -2,13 +2,14 @@
   "id": 253379281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.133069,41.332074,-89.133069,41.332074",
     "geom:latitude":41.332074,
     "geom:longitude":-89.133069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 9th St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253379281,
-    "wof:lastmodified":1449064538,
+    "wof:lastmodified":1466493894,
     "wof:name":"Carpetech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-89.133069,41.332074,-89.133069,41.332074],
-  "geometry": {"coordinates":[-89.133069,41.332074],"type":"Point"}
+  "bbox": [
+    -89.133069,
+    41.332074,
+    -89.133069,
+    41.332074
+],
+  "geometry": {"coordinates":[-89.13306900000001,41.332074],"type":"Point"}
 }

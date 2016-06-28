@@ -2,13 +2,14 @@
   "id": 253146523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.857188,41.34484,-88.857188,41.34484",
     "geom:latitude":41.34484,
     "geom:longitude":-88.857188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Phelps St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253146523,
-    "wof:lastmodified":1449064051,
+    "wof:lastmodified":1466490731,
     "wof:name":"Mavrick Designs",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-88.857188,41.34484,-88.857188,41.34484],
-  "geometry": {"coordinates":[-88.857188,41.34484],"type":"Point"}
+  "bbox": [
+    -88.857188,
+    41.34484,
+    -88.857188,
+    41.34484
+],
+  "geometry": {"coordinates":[-88.85718799999999,41.34484],"type":"Point"}
 }

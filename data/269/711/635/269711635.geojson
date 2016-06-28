@@ -2,13 +2,14 @@
   "id": 269711635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.115895,41.507957,-88.115895,41.507957",
     "geom:latitude":41.507957,
     "geom:longitude":-88.115895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Warren Ave",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269711635,
-    "wof:lastmodified":1449038401,
+    "wof:lastmodified":1466492602,
     "wof:name":"Detrok",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-88.115895,41.507957,-88.115895,41.507957],
-  "geometry": {"coordinates":[-88.115895,41.507957],"type":"Point"}
+  "bbox": [
+    -88.115895,
+    41.507957,
+    -88.115895,
+    41.507957
+],
+  "geometry": {"coordinates":[-88.11589499999999,41.507957],"type":"Point"}
 }

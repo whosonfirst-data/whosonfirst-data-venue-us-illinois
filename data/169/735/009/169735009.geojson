@@ -2,13 +2,14 @@
   "id": 169735009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.190857,38.94401,-90.190857,38.94401",
     "geom:latitude":38.94401,
     "geom:longitude":-90.190857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5411 Godfrey Rd",
     "sg:city":"Godfrey",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":169735009,
-    "wof:lastmodified":1449035892,
+    "wof:lastmodified":1466495693,
     "wof:name":"Frankford Heating & Cooling",
     "wof:parent_id":85868933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.190857,38.94401,-90.190857,38.94401],
-  "geometry": {"coordinates":[-90.190857,38.94401],"type":"Point"}
+  "bbox": [
+    -90.190857,
+    38.94401,
+    -90.190857,
+    38.94401
+],
+  "geometry": {"coordinates":[-90.19085699999999,38.94401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236912585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.16288,40.637117,-91.16288,40.637117",
     "geom:latitude":40.637117,
     "geom:longitude":-91.16288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 4th St",
     "sg:city":"Dallas City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236912585,
-    "wof:lastmodified":1449003245,
+    "wof:lastmodified":1466498255,
     "wof:name":"Dallas City High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.16288,40.637117,-91.16288,40.637117],
+  "bbox": [
+    -91.16288,
+    40.637117,
+    -91.16288,
+    40.637117
+],
   "geometry": {"coordinates":[-91.16288,40.637117],"type":"Point"}
 }

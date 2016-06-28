@@ -2,13 +2,14 @@
   "id": 236867339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633603,40.124512,-87.633603,40.124512",
     "geom:latitude":40.124512,
     "geom:longitude":-87.633603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Main St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236867339,
-    "wof:lastmodified":1449003013,
+    "wof:lastmodified":1466498109,
     "wof:name":"Frank's House Of Color",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-87.633603,40.124512,-87.633603,40.124512],
-  "geometry": {"coordinates":[-87.633603,40.124512],"type":"Point"}
+  "bbox": [
+    -87.633603,
+    40.124512,
+    -87.633603,
+    40.124512
+],
+  "geometry": {"coordinates":[-87.63360299999999,40.124512],"type":"Point"}
 }

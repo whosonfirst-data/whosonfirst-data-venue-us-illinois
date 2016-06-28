@@ -2,13 +2,14 @@
   "id": 269510143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.726998,41.935151,-87.726998,41.935151",
     "geom:latitude":41.935151,
     "geom:longitude":-87.726998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2959 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269510143,
-    "wof:lastmodified":1449037604,
+    "wof:lastmodified":1466489405,
     "wof:name":"F & G Remodeling",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.726998,41.935151,-87.726998,41.935151],
-  "geometry": {"coordinates":[-87.726998,41.935151],"type":"Point"}
+  "bbox": [
+    -87.726998,
+    41.935151,
+    -87.726998,
+    41.935151
+],
+  "geometry": {"coordinates":[-87.72699799999999,41.935151],"type":"Point"}
 }

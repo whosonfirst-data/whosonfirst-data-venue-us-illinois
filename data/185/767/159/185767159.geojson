@@ -2,13 +2,14 @@
   "id": 185767159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.893612,39.823512,-88.893612,39.823512",
     "geom:latitude":39.823512,
     "geom:longitude":-88.893612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3848 E Fulton Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185767159,
-    "wof:lastmodified":1449007077,
+    "wof:lastmodified":1466495419,
     "wof:name":"Allen Engineering Corporation",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-88.893612,39.823512,-88.893612,39.823512],
+  "bbox": [
+    -88.893612,
+    39.823512,
+    -88.893612,
+    39.823512
+],
   "geometry": {"coordinates":[-88.893612,39.823512],"type":"Point"}
 }

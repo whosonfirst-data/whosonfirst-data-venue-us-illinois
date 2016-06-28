@@ -2,13 +2,14 @@
   "id": 219965237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.426211,41.09327,-88.426211,41.09327",
     "geom:latitude":41.09327,
     "geom:longitude":-88.426211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Main St",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219965237,
-    "wof:lastmodified":1449072854,
+    "wof:lastmodified":1466497325,
     "wof:name":"BTC Skynet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-88.426211,41.09327,-88.426211,41.09327],
+  "bbox": [
+    -88.426211,
+    41.09327,
+    -88.426211,
+    41.09327
+],
   "geometry": {"coordinates":[-88.426211,41.09327],"type":"Point"}
 }

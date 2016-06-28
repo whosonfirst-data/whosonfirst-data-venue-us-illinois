@@ -2,13 +2,14 @@
   "id": 270255679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.123709,41.36069,-89.123709,41.36069",
     "geom:latitude":41.36069,
     "geom:longitude":-89.123709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 Mahoney Dr",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270255679,
-    "wof:lastmodified":1449009741,
+    "wof:lastmodified":1466492907,
     "wof:name":"Menards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-89.123709,41.36069,-89.123709,41.36069],
-  "geometry": {"coordinates":[-89.123709,41.36069],"type":"Point"}
+  "bbox": [
+    -89.123709,
+    41.36069,
+    -89.123709,
+    41.36069
+],
+  "geometry": {"coordinates":[-89.12370900000001,41.36069],"type":"Point"}
 }

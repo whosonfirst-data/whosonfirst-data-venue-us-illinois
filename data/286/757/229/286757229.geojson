@@ -2,13 +2,14 @@
   "id": 286757229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633958,39.978552,-87.633958,39.978552",
     "geom:latitude":39.978552,
     "geom:longitude":-87.633958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Perrysville Ave",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286757229,
-    "wof:lastmodified":1449016842,
+    "wof:lastmodified":1466496902,
     "wof:name":"Bible Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.633958,39.978552,-87.633958,39.978552],
-  "geometry": {"coordinates":[-87.633958,39.978552],"type":"Point"}
+  "bbox": [
+    -87.633958,
+    39.978552,
+    -87.633958,
+    39.978552
+],
+  "geometry": {"coordinates":[-87.63395800000001,39.978552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252906843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.285109,41.895612,-88.285109,41.895612",
     "geom:latitude":41.895612,
     "geom:longitude":-88.285109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Lexington Dr",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252906843,
-    "wof:lastmodified":1449005812,
+    "wof:lastmodified":1466491527,
     "wof:name":"Thill Consulting Inc",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.285109,41.895612,-88.285109,41.895612],
-  "geometry": {"coordinates":[-88.285109,41.895612],"type":"Point"}
+  "bbox": [
+    -88.285109,
+    41.895612,
+    -88.285109,
+    41.895612
+],
+  "geometry": {"coordinates":[-88.28510900000001,41.895612],"type":"Point"}
 }

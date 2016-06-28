@@ -2,13 +2,14 @@
   "id": 186637789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.53221,41.597048,-87.53221,41.597048",
     "geom:latitude":41.597048,
     "geom:longitude":-87.53221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 River Oaks Center Dr",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186637789,
-    "wof:lastmodified":1449050253,
+    "wof:lastmodified":1466489867,
     "wof:name":"Coffee Beanery",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.53221,41.597048,-87.53221,41.597048],
-  "geometry": {"coordinates":[-87.53221,41.597048],"type":"Point"}
+  "bbox": [
+    -87.53221,
+    41.597048,
+    -87.53221,
+    41.597048
+],
+  "geometry": {"coordinates":[-87.53221000000001,41.597048],"type":"Point"}
 }

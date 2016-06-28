@@ -2,13 +2,14 @@
   "id": 236603729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.31457,41.770777,-88.31457,41.770777",
     "geom:latitude":41.770777,
     "geom:longitude":-88.31457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 W Illinois Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236603729,
-    "wof:lastmodified":1449004634,
+    "wof:lastmodified":1466496418,
     "wof:name":"El Conquistador",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-88.31457,41.770777,-88.31457,41.770777],
+  "bbox": [
+    -88.31457,
+    41.770777,
+    -88.31457,
+    41.770777
+],
   "geometry": {"coordinates":[-88.31457,41.770777],"type":"Point"}
 }

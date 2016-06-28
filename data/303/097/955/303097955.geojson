@@ -2,13 +2,14 @@
   "id": 303097955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101598,41.841521,-88.101598,41.841521",
     "geom:latitude":41.841521,
     "geom:longitude":-88.101598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 S Naperville Rd",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303097955,
-    "wof:lastmodified":1448999085,
+    "wof:lastmodified":1466491367,
     "wof:name":"American Housing Partners",
     "wof:parent_id":85891047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.101598,41.841521,-88.101598,41.841521],
+  "bbox": [
+    -88.101598,
+    41.841521,
+    -88.101598,
+    41.841521
+],
   "geometry": {"coordinates":[-88.101598,41.841521],"type":"Point"}
 }

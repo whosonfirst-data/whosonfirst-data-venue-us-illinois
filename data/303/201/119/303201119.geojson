@@ -2,13 +2,14 @@
   "id": 303201119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.747902,39.063238,-88.747902,39.063238",
     "geom:latitude":39.063238,
     "geom:longitude":-88.747902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Main St",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303201119,
-    "wof:lastmodified":1449000238,
+    "wof:lastmodified":1466493058,
     "wof:name":"Gartner Todd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.747902,39.063238,-88.747902,39.063238],
+  "bbox": [
+    -88.747902,
+    39.063238,
+    -88.747902,
+    39.063238
+],
   "geometry": {"coordinates":[-88.747902,39.063238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253128823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.317672,42.222751,-88.317672,42.222751",
     "geom:latitude":42.222751,
     "geom:longitude":-88.317672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6170 Factory Rd",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253128823,
-    "wof:lastmodified":1449063981,
+    "wof:lastmodified":1466490569,
     "wof:name":"Mail Merry Systems",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.317672,42.222751,-88.317672,42.222751],
+  "bbox": [
+    -88.317672,
+    42.222751,
+    -88.317672,
+    42.222751
+],
   "geometry": {"coordinates":[-88.317672,42.222751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286861795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.298887,41.764062,-88.298887,41.764062",
     "geom:latitude":41.764062,
     "geom:longitude":-88.298887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Front St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286861795,
-    "wof:lastmodified":1449018062,
+    "wof:lastmodified":1466497819,
     "wof:name":"Valet Today",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valet"
     ]
 },
-  "bbox": [-88.298887,41.764062,-88.298887,41.764062],
-  "geometry": {"coordinates":[-88.298887,41.764062],"type":"Point"}
+  "bbox": [
+    -88.298887,
+    41.764062,
+    -88.298887,
+    41.764062
+],
+  "geometry": {"coordinates":[-88.29888699999999,41.764062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236391097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.962686,41.928756,-87.962686,41.928756",
     "geom:latitude":41.928756,
     "geom:longitude":-87.962686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Lamont Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236391097,
-    "wof:lastmodified":1449003822,
+    "wof:lastmodified":1466493938,
     "wof:name":"Kelloggs Food Away From Home",
     "wof:parent_id":85890711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cream"
     ]
 },
-  "bbox": [-87.962686,41.928756,-87.962686,41.928756],
-  "geometry": {"coordinates":[-87.962686,41.928756],"type":"Point"}
+  "bbox": [
+    -87.962686,
+    41.928756,
+    -87.962686,
+    41.928756
+],
+  "geometry": {"coordinates":[-87.96268600000001,41.928756],"type":"Point"}
 }

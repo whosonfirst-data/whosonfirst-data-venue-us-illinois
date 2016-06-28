@@ -2,13 +2,14 @@
   "id": 270013343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.719158,41.659515,-87.719158,41.659515",
     "geom:latitude":41.659515,
     "geom:longitude":-87.719158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12840 S Pulaski Rd",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270013343,
-    "wof:lastmodified":1449010321,
+    "wof:lastmodified":1466489230,
     "wof:name":"Dow Chemical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.719158,41.659515,-87.719158,41.659515],
-  "geometry": {"coordinates":[-87.719158,41.659515],"type":"Point"}
+  "bbox": [
+    -87.719158,
+    41.659515,
+    -87.719158,
+    41.659515
+],
+  "geometry": {"coordinates":[-87.71915799999999,41.659515],"type":"Point"}
 }

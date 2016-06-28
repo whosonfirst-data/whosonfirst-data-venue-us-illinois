@@ -2,13 +2,14 @@
   "id": 203246761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.700448,41.986118,-87.700448,41.986118",
     "geom:latitude":41.986118,
     "geom:longitude":-87.700448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5772 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203246761,
-    "wof:lastmodified":1449025063,
+    "wof:lastmodified":1466489870,
     "wof:name":"Chicago Marine Co Inc",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.700448,41.986118,-87.700448,41.986118],
-  "geometry": {"coordinates":[-87.700448,41.986118],"type":"Point"}
+  "bbox": [
+    -87.700448,
+    41.986118,
+    -87.700448,
+    41.986118
+],
+  "geometry": {"coordinates":[-87.70044799999999,41.986118],"type":"Point"}
 }

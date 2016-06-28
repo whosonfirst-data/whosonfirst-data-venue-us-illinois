@@ -2,13 +2,14 @@
   "id": 219155951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.686186,41.327082,-88.686186,41.327082",
     "geom:latitude":41.327082,
     "geom:longitude":-88.686186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1292 Morris Rd",
     "sg:city":"Marseilles",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219155951,
-    "wof:lastmodified":1449073307,
+    "wof:lastmodified":1466488974,
     "wof:name":"Church of Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.686186,41.327082,-88.686186,41.327082],
-  "geometry": {"coordinates":[-88.686186,41.327082],"type":"Point"}
+  "bbox": [
+    -88.686186,
+    41.327082,
+    -88.686186,
+    41.327082
+],
+  "geometry": {"coordinates":[-88.68618600000001,41.327082],"type":"Point"}
 }

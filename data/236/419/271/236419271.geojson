@@ -2,13 +2,14 @@
   "id": 236419271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307325,41.889824,-88.307325,41.889824",
     "geom:latitude":41.889824,
     "geom:longitude":-88.307325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236419271,
-    "wof:lastmodified":1449005176,
+    "wof:lastmodified":1466494327,
     "wof:name":"Geneva Investment Group",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consulting"
     ]
 },
-  "bbox": [-88.307325,41.889824,-88.307325,41.889824],
-  "geometry": {"coordinates":[-88.307325,41.889824],"type":"Point"}
+  "bbox": [
+    -88.307325,
+    41.889824,
+    -88.307325,
+    41.889824
+],
+  "geometry": {"coordinates":[-88.30732500000001,41.889824],"type":"Point"}
 }

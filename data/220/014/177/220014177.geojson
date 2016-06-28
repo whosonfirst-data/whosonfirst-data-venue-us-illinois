@@ -2,13 +2,14 @@
   "id": 220014177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676457,39.799078,-87.676457,39.799078",
     "geom:latitude":39.799078,
     "geom:longitude":-87.676457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Cleveland Ave",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220014177,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466489120,
     "wof:name":"Guaranteed Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.676457,39.799078,-87.676457,39.799078],
+  "bbox": [
+    -87.676457,
+    39.799078,
+    -87.676457,
+    39.799078
+],
   "geometry": {"coordinates":[-87.676457,39.799078],"type":"Point"}
 }

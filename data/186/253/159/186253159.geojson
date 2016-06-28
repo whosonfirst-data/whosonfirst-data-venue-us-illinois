@@ -2,13 +2,14 @@
   "id": 186253159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192596,38.6194,-90.192596,38.6194",
     "geom:latitude":38.6194,
     "geom:longitude":-90.192596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 S Broadway",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186253159,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466495384,
     "wof:name":"Broadway Oyster Bar",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cajun/creole"
     ]
 },
-  "bbox": [-90.192596,38.6194,-90.192596,38.6194],
-  "geometry": {"coordinates":[-90.192596,38.6194],"type":"Point"}
+  "bbox": [
+    -90.192596,
+    38.6194,
+    -90.192596,
+    38.6194
+],
+  "geometry": {"coordinates":[-90.19259599999999,38.6194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252874355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.253475,37.533049,-89.253475,37.533049",
     "geom:latitude":37.533049,
     "geom:longitude":-89.253475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Front St",
     "sg:city":"Cobden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252874355,
-    "wof:lastmodified":1449006440,
+    "wof:lastmodified":1466491110,
     "wof:name":"Fuzzy's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-89.253475,37.533049,-89.253475,37.533049],
-  "geometry": {"coordinates":[-89.253475,37.533049],"type":"Point"}
+  "bbox": [
+    -89.253475,
+    37.533049,
+    -89.253475,
+    37.533049
+],
+  "geometry": {"coordinates":[-89.25347499999999,37.533049],"type":"Point"}
 }

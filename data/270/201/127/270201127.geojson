@@ -2,13 +2,14 @@
   "id": 270201127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.547012,39.105124,-88.547012,39.105124",
     "geom:latitude":39.105124,
     "geom:longitude":-88.547012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 S Banker St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270201127,
-    "wof:lastmodified":1449010766,
+    "wof:lastmodified":1466492052,
     "wof:name":"Bob's Salvage Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-88.547012,39.105124,-88.547012,39.105124],
+  "bbox": [
+    -88.547012,
+    39.105124,
+    -88.547012,
+    39.105124
+],
   "geometry": {"coordinates":[-88.547012,39.105124],"type":"Point"}
 }

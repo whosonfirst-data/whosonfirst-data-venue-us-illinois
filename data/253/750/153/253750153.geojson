@@ -2,13 +2,14 @@
   "id": 253750153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.382752,41.456193,-90.382752,41.456193",
     "geom:latitude":41.456193,
     "geom:longitude":-90.382752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 US Hwy 6",
     "sg:city":"Coal Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253750153,
-    "wof:lastmodified":1449064588,
+    "wof:lastmodified":1466497895,
     "wof:name":"FCA Manufacturing",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-90.382752,41.456193,-90.382752,41.456193],
+  "bbox": [
+    -90.382752,
+    41.456193,
+    -90.382752,
+    41.456193
+],
   "geometry": {"coordinates":[-90.382752,41.456193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337529603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748928,41.945171,-87.748928,41.945171",
     "geom:latitude":41.945171,
     "geom:longitude":-87.748928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4933 W Eddy St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337529603,
-    "wof:lastmodified":1449027298,
+    "wof:lastmodified":1466492606,
     "wof:name":"American Romanian Community",
     "wof:parent_id":85867621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-87.748928,41.945171,-87.748928,41.945171],
-  "geometry": {"coordinates":[-87.748928,41.945171],"type":"Point"}
+  "bbox": [
+    -87.748928,
+    41.945171,
+    -87.748928,
+    41.945171
+],
+  "geometry": {"coordinates":[-87.74892800000001,41.945171],"type":"Point"}
 }

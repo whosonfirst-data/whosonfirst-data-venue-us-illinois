@@ -2,13 +2,14 @@
   "id": 253484509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.657856,41.974916,-87.657856,41.974916",
     "geom:latitude":41.974916,
     "geom:longitude":-87.657856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 N Winthrop Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253484509,
-    "wof:lastmodified":1449065623,
+    "wof:lastmodified":1466495615,
     "wof:name":"Kevin Ellison",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.657856,41.974916,-87.657856,41.974916],
+  "bbox": [
+    -87.657856,
+    41.974916,
+    -87.657856,
+    41.974916
+],
   "geometry": {"coordinates":[-87.657856,41.974916],"type":"Point"}
 }

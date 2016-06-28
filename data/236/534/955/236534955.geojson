@@ -2,13 +2,14 @@
   "id": 236534955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.417326,41.493089,-90.417326,41.493089",
     "geom:latitude":41.493089,
     "geom:longitude":-90.417326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Hospital Rd",
     "sg:city":"Silvis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236534955,
-    "wof:lastmodified":1449002322,
+    "wof:lastmodified":1466496026,
     "wof:name":"Echo Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-90.417326,41.493089,-90.417326,41.493089],
+  "bbox": [
+    -90.417326,
+    41.493089,
+    -90.417326,
+    41.493089
+],
   "geometry": {"coordinates":[-90.417326,41.493089],"type":"Point"}
 }

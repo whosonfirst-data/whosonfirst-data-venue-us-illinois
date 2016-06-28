@@ -2,13 +2,14 @@
   "id": 253081555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.80804,41.50675,-87.80804,41.50675",
     "geom:latitude":41.50675,
     "geom:longitude":-87.80804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7940 W Lincoln Hwy",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253081555,
-    "wof:lastmodified":1449063739,
+    "wof:lastmodified":1466489996,
     "wof:name":"R-U-Tan Tanning Salon",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-87.80804,41.50675,-87.80804,41.50675],
-  "geometry": {"coordinates":[-87.80804,41.50675],"type":"Point"}
+  "bbox": [
+    -87.80804,
+    41.50675,
+    -87.80804,
+    41.50675
+],
+  "geometry": {"coordinates":[-87.80804000000001,41.50675],"type":"Point"}
 }

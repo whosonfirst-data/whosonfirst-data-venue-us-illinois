@@ -2,13 +2,14 @@
   "id": 236285935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.71438,41.300848,-88.71438,41.300848",
     "geom:latitude":41.300848,
     "geom:longitude":-88.71438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2529 E 2350th Rd",
     "sg:city":"Marseilles",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236285935,
-    "wof:lastmodified":1449001750,
+    "wof:lastmodified":1466492590,
     "wof:name":"Thrivent Fincl For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-88.71438,41.300848,-88.71438,41.300848],
-  "geometry": {"coordinates":[-88.71438,41.300848],"type":"Point"}
+  "bbox": [
+    -88.71438,
+    41.300848,
+    -88.71438,
+    41.300848
+],
+  "geometry": {"coordinates":[-88.71438000000001,41.300848],"type":"Point"}
 }

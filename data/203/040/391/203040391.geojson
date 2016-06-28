@@ -2,13 +2,14 @@
   "id": 203040391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.864429,41.117991,-87.864429,41.117991",
     "geom:latitude":41.117991,
     "geom:longitude":-87.864429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S Schuyler Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203040391,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1466493393,
     "wof:name":"Home Builders Assn",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.864429,41.117991,-87.864429,41.117991],
+  "bbox": [
+    -87.864429,
+    41.117991,
+    -87.864429,
+    41.117991
+],
   "geometry": {"coordinates":[-87.864429,41.117991],"type":"Point"}
 }

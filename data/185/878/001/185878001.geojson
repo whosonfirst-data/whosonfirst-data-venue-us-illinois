@@ -2,13 +2,14 @@
   "id": 185878001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.71022,39.765953,-89.71022,39.765953",
     "geom:latitude":39.765953,
     "geom:longitude":-89.71022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2943 W White Oaks Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185878001,
-    "wof:lastmodified":1449007467,
+    "wof:lastmodified":1466489693,
     "wof:name":"White Oaks Dental",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "oral"
     ]
 },
-  "bbox": [-89.71022,39.765953,-89.71022,39.765953],
-  "geometry": {"coordinates":[-89.71022,39.765953],"type":"Point"}
+  "bbox": [
+    -89.71022,
+    39.765953,
+    -89.71022,
+    39.765953
+],
+  "geometry": {"coordinates":[-89.71022000000001,39.765953],"type":"Point"}
 }

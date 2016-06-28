@@ -2,13 +2,14 @@
   "id": 203064303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94115,41.931256,-87.94115,41.931256",
     "geom:latitude":41.931256,
     "geom:longitude":-87.94115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 W Grand Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203064303,
-    "wof:lastmodified":1449025592,
+    "wof:lastmodified":1466493959,
     "wof:name":"Joes Auto/Truck Repair",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-87.94115,41.931256,-87.94115,41.931256],
-  "geometry": {"coordinates":[-87.94115,41.931256],"type":"Point"}
+  "bbox": [
+    -87.94115,
+    41.931256,
+    -87.94115,
+    41.931256
+],
+  "geometry": {"coordinates":[-87.94114999999999,41.931256],"type":"Point"}
 }

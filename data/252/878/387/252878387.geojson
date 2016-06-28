@@ -2,13 +2,14 @@
   "id": 252878387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.646167,41.88449,-87.646167,41.88449",
     "geom:latitude":41.88449,
     "geom:longitude":-87.646167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Randolph St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252878387,
-    "wof:lastmodified":1449005990,
+    "wof:lastmodified":1466491160,
     "wof:name":"Arcitectual Design Builders",
     "wof:parent_id":85890751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.646167,41.88449,-87.646167,41.88449],
-  "geometry": {"coordinates":[-87.646167,41.88449],"type":"Point"}
+  "bbox": [
+    -87.646167,
+    41.88449,
+    -87.646167,
+    41.88449
+],
+  "geometry": {"coordinates":[-87.64616700000001,41.88449],"type":"Point"}
 }

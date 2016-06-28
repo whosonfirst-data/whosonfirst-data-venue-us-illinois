@@ -2,13 +2,14 @@
   "id": 202602341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.842855,38.180727,-89.842855,38.180727",
     "geom:latitude":38.180727,
     "geom:longitude":-89.842855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S 5th St",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202602341,
-    "wof:lastmodified":1449061315,
+    "wof:lastmodified":1466489688,
     "wof:name":"Baldwin Community Dev Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.842855,38.180727,-89.842855,38.180727],
+  "bbox": [
+    -89.842855,
+    38.180727,
+    -89.842855,
+    38.180727
+],
   "geometry": {"coordinates":[-89.842855,38.180727],"type":"Point"}
 }

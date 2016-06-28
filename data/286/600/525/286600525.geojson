@@ -2,13 +2,14 @@
   "id": 286600525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.787017,41.835952,-87.787017,41.835952",
     "geom:latitude":41.835952,
     "geom:longitude":-87.787017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6548 31st St",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286600525,
-    "wof:lastmodified":1449015457,
+    "wof:lastmodified":1466495198,
     "wof:name":"Berwyn City Pool",
     "wof:parent_id":85890739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-87.787017,41.835952,-87.787017,41.835952],
-  "geometry": {"coordinates":[-87.787017,41.835952],"type":"Point"}
+  "bbox": [
+    -87.787017,
+    41.835952,
+    -87.787017,
+    41.835952
+],
+  "geometry": {"coordinates":[-87.78701700000001,41.835952],"type":"Point"}
 }

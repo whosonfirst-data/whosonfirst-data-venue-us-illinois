@@ -2,13 +2,14 @@
   "id": 169746421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.039554,38.712503,-90.039554,38.712503",
     "geom:latitude":38.712503,
     "geom:longitude":-90.039554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Shirlwin Dr",
     "sg:city":"Granite City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169746421,
-    "wof:lastmodified":1449032656,
+    "wof:lastmodified":1466493452,
     "wof:name":"Search Source",
     "wof:parent_id":85820353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.039554,38.712503,-90.039554,38.712503],
+  "bbox": [
+    -90.039554,
+    38.712503,
+    -90.039554,
+    38.712503
+],
   "geometry": {"coordinates":[-90.039554,38.712503],"type":"Point"}
 }

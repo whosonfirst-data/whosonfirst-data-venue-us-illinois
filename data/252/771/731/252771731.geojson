@@ -2,13 +2,14 @@
   "id": 252771731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95266,42.045115,-87.95266,42.045115",
     "geom:latitude":42.045115,
     "geom:longitude":-87.95266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 S Cypress Dr",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252771731,
-    "wof:lastmodified":1449006004,
+    "wof:lastmodified":1466489809,
     "wof:name":"Ebill Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "con"
     ]
 },
-  "bbox": [-87.95266,42.045115,-87.95266,42.045115],
-  "geometry": {"coordinates":[-87.95266,42.045115],"type":"Point"}
+  "bbox": [
+    -87.95266,
+    42.045115,
+    -87.95266,
+    42.045115
+],
+  "geometry": {"coordinates":[-87.95265999999999,42.045115],"type":"Point"}
 }

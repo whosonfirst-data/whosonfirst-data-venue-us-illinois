@@ -2,13 +2,14 @@
   "id": 202602887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97534,38.524808,-89.97534,38.524808",
     "geom:latitude":38.524808,
     "geom:longitude":-89.97534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Church St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202602887,
-    "wof:lastmodified":1449061314,
+    "wof:lastmodified":1466489695,
     "wof:name":"Meyer & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.97534,38.524808,-89.97534,38.524808],
+  "bbox": [
+    -89.97534,
+    38.524808,
+    -89.97534,
+    38.524808
+],
   "geometry": {"coordinates":[-89.97534,38.524808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.077295,37.780791,-89.077295,37.780791",
     "geom:latitude":37.780791,
     "geom:longitude":-89.077295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Dewmaine Ln",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203100979,
-    "wof:lastmodified":1449026366,
+    "wof:lastmodified":1466494790,
     "wof:name":"Vic's Banquet Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-89.077295,37.780791,-89.077295,37.780791],
-  "geometry": {"coordinates":[-89.077295,37.780791],"type":"Point"}
+  "bbox": [
+    -89.077295,
+    37.780791,
+    -89.077295,
+    37.780791
+],
+  "geometry": {"coordinates":[-89.07729500000001,37.780791],"type":"Point"}
 }

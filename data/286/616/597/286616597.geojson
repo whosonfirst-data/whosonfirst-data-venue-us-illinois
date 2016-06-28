@@ -2,13 +2,14 @@
   "id": 286616597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.591015,40.143883,-87.591015,40.143883",
     "geom:latitude":40.143883,
     "geom:longitude":-87.591015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Edgewood Dr",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286616597,
-    "wof:lastmodified":1449017344,
+    "wof:lastmodified":1466495461,
     "wof:name":"Green Meadow Apartments",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.591015,40.143883,-87.591015,40.143883],
+  "bbox": [
+    -87.591015,
+    40.143883,
+    -87.591015,
+    40.143883
+],
   "geometry": {"coordinates":[-87.591015,40.143883],"type":"Point"}
 }

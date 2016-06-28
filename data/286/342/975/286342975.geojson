@@ -2,13 +2,14 @@
   "id": 286342975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.614657,41.811303,-87.614657,41.811303",
     "geom:latitude":41.811303,
     "geom:longitude":-87.614657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 E 46th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286342975,
-    "wof:lastmodified":1449017881,
+    "wof:lastmodified":1466491069,
     "wof:name":"KMC Productions Inc",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-87.614657,41.811303,-87.614657,41.811303],
-  "geometry": {"coordinates":[-87.614657,41.811303],"type":"Point"}
+  "bbox": [
+    -87.614657,
+    41.811303,
+    -87.614657,
+    41.811303
+],
+  "geometry": {"coordinates":[-87.61465699999999,41.811303],"type":"Point"}
 }

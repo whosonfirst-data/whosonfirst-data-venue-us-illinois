@@ -2,13 +2,14 @@
   "id": 236655453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.274069,40.098168,-88.274069,40.098168",
     "geom:latitude":40.098168,
     "geom:longitude":-88.274069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 W Kirby Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236655453,
-    "wof:lastmodified":1449003566,
+    "wof:lastmodified":1466497060,
     "wof:name":"Finish Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-88.274069,40.098168,-88.274069,40.098168],
+  "bbox": [
+    -88.274069,
+    40.098168,
+    -88.274069,
+    40.098168
+],
   "geometry": {"coordinates":[-88.274069,40.098168],"type":"Point"}
 }

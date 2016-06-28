@@ -2,13 +2,14 @@
   "id": 219895751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.243168,41.50256,-90.243168,41.50256",
     "geom:latitude":41.50256,
     "geom:longitude":-90.243168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Crestview Cir",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219895751,
-    "wof:lastmodified":1449071881,
+    "wof:lastmodified":1466496943,
     "wof:name":"Larson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.243168,41.50256,-90.243168,41.50256],
+  "bbox": [
+    -90.243168,
+    41.50256,
+    -90.243168,
+    41.50256
+],
   "geometry": {"coordinates":[-90.243168,41.50256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286929005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798505,41.595039,-87.798505,41.595039",
     "geom:latitude":41.595039,
     "geom:longitude":-87.798505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7340 163rd St",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286929005,
-    "wof:lastmodified":1449016311,
+    "wof:lastmodified":1466498141,
     "wof:name":"Gerrys Embroidery",
     "wof:parent_id":85890941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.798505,41.595039,-87.798505,41.595039],
-  "geometry": {"coordinates":[-87.798505,41.595039],"type":"Point"}
+  "bbox": [
+    -87.798505,
+    41.595039,
+    -87.798505,
+    41.595039
+],
+  "geometry": {"coordinates":[-87.79850500000001,41.595039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253246201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.860903,41.469926,-87.860903,41.469926",
     "geom:latitude":41.469926,
     "geom:longitude":-87.860903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10221 W Steger Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253246201,
-    "wof:lastmodified":1449063022,
+    "wof:lastmodified":1466491950,
     "wof:name":"Bishop Trucking Inc",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.860903,41.469926,-87.860903,41.469926],
-  "geometry": {"coordinates":[-87.860903,41.469926],"type":"Point"}
+  "bbox": [
+    -87.860903,
+    41.469926,
+    -87.860903,
+    41.469926
+],
+  "geometry": {"coordinates":[-87.86090299999999,41.469926],"type":"Point"}
 }

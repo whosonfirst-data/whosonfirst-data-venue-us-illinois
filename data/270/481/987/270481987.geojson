@@ -2,13 +2,14 @@
   "id": 270481987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.326475,37.980962,-88.326475,37.980962",
     "geom:latitude":37.980962,
     "geom:longitude":-88.326475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Co Rd 700 N",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270481987,
-    "wof:lastmodified":1449010774,
+    "wof:lastmodified":1466496120,
     "wof:name":"Texas Eastern Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-88.326475,37.980962,-88.326475,37.980962],
+  "bbox": [
+    -88.326475,
+    37.980962,
+    -88.326475,
+    37.980962
+],
   "geometry": {"coordinates":[-88.326475,37.980962],"type":"Point"}
 }

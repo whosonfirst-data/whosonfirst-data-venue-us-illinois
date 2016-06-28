@@ -2,13 +2,14 @@
   "id": 270312461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.085569,42.253654,-89.085569,42.253654",
     "geom:latitude":42.253654,
     "geom:longitude":-89.085569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Lorden Ct",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270312461,
-    "wof:lastmodified":1449009870,
+    "wof:lastmodified":1466493779,
     "wof:name":"Zero Tolerance Straightening",
     "wof:parent_id":85880447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.085569,42.253654,-89.085569,42.253654],
-  "geometry": {"coordinates":[-89.085569,42.253654],"type":"Point"}
+  "bbox": [
+    -89.085569,
+    42.253654,
+    -89.085569,
+    42.253654
+],
+  "geometry": {"coordinates":[-89.08556900000001,42.253654],"type":"Point"}
 }

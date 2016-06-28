@@ -2,13 +2,14 @@
   "id": 303115163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054116,41.852,-88.054116,41.852",
     "geom:latitude":41.852,
     "geom:longitude":-88.054116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Sheehan Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303115163,
-    "wof:lastmodified":1448998098,
+    "wof:lastmodified":1466491653,
     "wof:name":"Glen Crest Middle School",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.054116,41.852,-88.054116,41.852],
-  "geometry": {"coordinates":[-88.054116,41.852],"type":"Point"}
+  "bbox": [
+    -88.054116,
+    41.852,
+    -88.054116,
+    41.852
+],
+  "geometry": {"coordinates":[-88.05411599999999,41.852],"type":"Point"}
 }

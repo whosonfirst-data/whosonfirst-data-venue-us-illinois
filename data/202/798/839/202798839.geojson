@@ -2,13 +2,14 @@
   "id": 202798839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741101,41.743929,-87.741101,41.743929",
     "geom:latitude":41.743929,
     "geom:longitude":-87.741101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8133 S Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202798839,
-    "wof:lastmodified":1449060580,
+    "wof:lastmodified":1466491932,
     "wof:name":"Circle Furniture Co",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.741101,41.743929,-87.741101,41.743929],
+  "bbox": [
+    -87.741101,
+    41.743929,
+    -87.741101,
+    41.743929
+],
   "geometry": {"coordinates":[-87.741101,41.743929],"type":"Point"}
 }

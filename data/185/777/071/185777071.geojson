@@ -2,13 +2,14 @@
   "id": 185777071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.922068,39.875402,-88.922068,39.875402",
     "geom:latitude":39.875402,
     "geom:longitude":-88.922068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 N 25th St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185777071,
-    "wof:lastmodified":1449007471,
+    "wof:lastmodified":1466495529,
     "wof:name":"Mustang Trucking",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.922068,39.875402,-88.922068,39.875402],
+  "bbox": [
+    -88.922068,
+    39.875402,
+    -88.922068,
+    39.875402
+],
   "geometry": {"coordinates":[-88.922068,39.875402],"type":"Point"}
 }

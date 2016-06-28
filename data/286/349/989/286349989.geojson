@@ -2,13 +2,14 @@
   "id": 286349989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.800638,41.511039,-87.800638,41.511039",
     "geom:latitude":41.511039,
     "geom:longitude":-87.800638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7646 W Hickory Creek Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286349989,
-    "wof:lastmodified":1449016292,
+    "wof:lastmodified":1466491171,
     "wof:name":"Fix It All Man",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.800638,41.511039,-87.800638,41.511039],
-  "geometry": {"coordinates":[-87.800638,41.511039],"type":"Point"}
+  "bbox": [
+    -87.800638,
+    41.511039,
+    -87.800638,
+    41.511039
+],
+  "geometry": {"coordinates":[-87.80063800000001,41.511039],"type":"Point"}
 }

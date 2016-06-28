@@ -2,13 +2,14 @@
   "id": 203183731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.204861,37.726242,-89.204861,37.726242",
     "geom:latitude":37.726242,
     "geom:longitude":-89.204861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Walnut St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203183731,
-    "wof:lastmodified":1449025963,
+    "wof:lastmodified":1466489165,
     "wof:name":"S I Auto Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.204861,37.726242,-89.204861,37.726242],
-  "geometry": {"coordinates":[-89.204861,37.726242],"type":"Point"}
+  "bbox": [
+    -89.204861,
+    37.726242,
+    -89.204861,
+    37.726242
+],
+  "geometry": {"coordinates":[-89.20486099999999,37.726242],"type":"Point"}
 }

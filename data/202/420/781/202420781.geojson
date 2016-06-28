@@ -2,13 +2,14 @@
   "id": 202420781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085997,41.779945,-88.085997,41.779945",
     "geom:latitude":41.779945,
     "geom:longitude":-88.085997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5550 Abbey Dr",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202420781,
-    "wof:lastmodified":1449061340,
+    "wof:lastmodified":1466493570,
     "wof:name":"Abbey Apts At Four Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.085997,41.779945,-88.085997,41.779945],
-  "geometry": {"coordinates":[-88.085997,41.779945],"type":"Point"}
+  "bbox": [
+    -88.085997,
+    41.779945,
+    -88.085997,
+    41.779945
+],
+  "geometry": {"coordinates":[-88.08599700000001,41.779945],"type":"Point"}
 }

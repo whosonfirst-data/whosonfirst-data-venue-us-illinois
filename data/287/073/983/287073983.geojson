@@ -2,13 +2,14 @@
   "id": 287073983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.171019,41.577456,-88.171019,41.577456",
     "geom:latitude":41.577456,
     "geom:longitude":-88.171019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3080 Woodside Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287073983,
-    "wof:lastmodified":1449000782,
+    "wof:lastmodified":1466491146,
     "wof:name":"RWH Transport",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-88.171019,41.577456,-88.171019,41.577456],
+  "bbox": [
+    -88.171019,
+    41.577456,
+    -88.171019,
+    41.577456
+],
   "geometry": {"coordinates":[-88.171019,41.577456],"type":"Point"}
 }

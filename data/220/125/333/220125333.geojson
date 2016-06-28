@@ -2,13 +2,14 @@
   "id": 220125333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.815077,41.639199,-87.815077,41.639199",
     "geom:latitude":41.639199,
     "geom:longitude":-87.815077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Salvatori Ct",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220125333,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466490477,
     "wof:name":"Building Solutions",
     "wof:parent_id":85890895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.815077,41.639199,-87.815077,41.639199],
+  "bbox": [
+    -87.815077,
+    41.639199,
+    -87.815077,
+    41.639199
+],
   "geometry": {"coordinates":[-87.815077,41.639199],"type":"Point"}
 }

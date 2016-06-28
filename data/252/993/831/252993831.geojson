@@ -2,13 +2,14 @@
   "id": 252993831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.735616,42.016483,-87.735616,42.016483",
     "geom:latitude":42.016483,
     "geom:longitude":-87.735616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7439 Kildare Ave",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252993831,
-    "wof:lastmodified":1449005890,
+    "wof:lastmodified":1466492696,
     "wof:name":"Miriam Krasno",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.735616,42.016483,-87.735616,42.016483],
-  "geometry": {"coordinates":[-87.735616,42.016483],"type":"Point"}
+  "bbox": [
+    -87.735616,
+    42.016483,
+    -87.735616,
+    42.016483
+],
+  "geometry": {"coordinates":[-87.73561599999999,42.016483],"type":"Point"}
 }

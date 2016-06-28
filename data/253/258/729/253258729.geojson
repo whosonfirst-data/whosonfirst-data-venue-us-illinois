@@ -2,13 +2,14 @@
   "id": 253258729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905431,41.843965,-87.905431,41.843965",
     "geom:latitude":41.843965,
     "geom:longitude":-87.905431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11258 Wildridge St",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253258729,
-    "wof:lastmodified":1449065157,
+    "wof:lastmodified":1466492114,
     "wof:name":"Chicagoland Barbecue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.905431,41.843965,-87.905431,41.843965],
-  "geometry": {"coordinates":[-87.905431,41.843965],"type":"Point"}
+  "bbox": [
+    -87.905431,
+    41.843965,
+    -87.905431,
+    41.843965
+],
+  "geometry": {"coordinates":[-87.90543099999999,41.843965],"type":"Point"}
 }

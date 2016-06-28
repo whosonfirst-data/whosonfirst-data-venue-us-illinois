@@ -2,13 +2,14 @@
   "id": 270303827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.41948,38.540276,-89.41948,38.540276",
     "geom:latitude":38.540276,
     "geom:longitude":-89.41948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 Trame Rd",
     "sg:city":"Bartelso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270303827,
-    "wof:lastmodified":1449008678,
+    "wof:lastmodified":1466493642,
     "wof:name":"Beckmann Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.41948,38.540276,-89.41948,38.540276],
-  "geometry": {"coordinates":[-89.41948,38.540276],"type":"Point"}
+  "bbox": [
+    -89.41948,
+    38.540276,
+    -89.41948,
+    38.540276
+],
+  "geometry": {"coordinates":[-89.41947999999999,38.540276],"type":"Point"}
 }

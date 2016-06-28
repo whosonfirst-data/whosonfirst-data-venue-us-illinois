@@ -2,13 +2,14 @@
   "id": 220057845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.113295,41.505176,-88.113295,41.505176",
     "geom:latitude":41.505176,
     "geom:longitude":-88.113295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Moen Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220057845,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466489653,
     "wof:name":"Will Couny Fence Construction",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.113295,41.505176,-88.113295,41.505176],
-  "geometry": {"coordinates":[-88.113295,41.505176],"type":"Point"}
+  "bbox": [
+    -88.113295,
+    41.505176,
+    -88.113295,
+    41.505176
+],
+  "geometry": {"coordinates":[-88.11329499999999,41.505176],"type":"Point"}
 }

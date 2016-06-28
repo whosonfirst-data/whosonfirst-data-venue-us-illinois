@@ -2,13 +2,14 @@
   "id": 303122373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.093871,41.347975,-89.093871,41.347975",
     "geom:latitude":41.347975,
     "geom:longitude":-89.093871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Grant Ave",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303122373,
-    "wof:lastmodified":1448999510,
+    "wof:lastmodified":1466491774,
     "wof:name":"Kid's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "welfare"
     ]
 },
-  "bbox": [-89.093871,41.347975,-89.093871,41.347975],
-  "geometry": {"coordinates":[-89.093871,41.347975],"type":"Point"}
+  "bbox": [
+    -89.093871,
+    41.347975,
+    -89.093871,
+    41.347975
+],
+  "geometry": {"coordinates":[-89.09387099999999,41.347975],"type":"Point"}
 }

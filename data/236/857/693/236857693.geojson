@@ -2,13 +2,14 @@
   "id": 236857693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.945518,38.618181,-88.945518,38.618181",
     "geom:latitude":38.618181,
     "geom:longitude":-88.945518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 S Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236857693,
-    "wof:lastmodified":1449003861,
+    "wof:lastmodified":1466498075,
     "wof:name":"D C Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-88.945518,38.618181,-88.945518,38.618181],
-  "geometry": {"coordinates":[-88.945518,38.618181],"type":"Point"}
+  "bbox": [
+    -88.945518,
+    38.618181,
+    -88.945518,
+    38.618181
+],
+  "geometry": {"coordinates":[-88.94551800000001,38.618181],"type":"Point"}
 }

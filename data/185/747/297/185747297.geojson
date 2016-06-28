@@ -2,13 +2,14 @@
   "id": 185747297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.777194,39.006783,-87.777194,39.006783",
     "geom:latitude":39.006783,
     "geom:longitude":-87.777194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10328 N 900th St",
     "sg:city":"Robinson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185747297,
-    "wof:lastmodified":1449006906,
+    "wof:lastmodified":1466495280,
     "wof:name":"Robinson Township Road And Bridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "village"
     ]
 },
-  "bbox": [-87.777194,39.006783,-87.777194,39.006783],
-  "geometry": {"coordinates":[-87.777194,39.006783],"type":"Point"}
+  "bbox": [
+    -87.777194,
+    39.006783,
+    -87.777194,
+    39.006783
+],
+  "geometry": {"coordinates":[-87.77719399999999,39.006783],"type":"Point"}
 }

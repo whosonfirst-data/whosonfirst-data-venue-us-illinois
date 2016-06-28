@@ -2,13 +2,14 @@
   "id": 252776513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.632629,40.126329,-87.632629,40.126329",
     "geom:latitude":40.126329,
     "geom:longitude":-87.632629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W North St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252776513,
-    "wof:lastmodified":1449005662,
+    "wof:lastmodified":1466489871,
     "wof:name":"Project Success",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-87.632629,40.126329,-87.632629,40.126329],
-  "geometry": {"coordinates":[-87.632629,40.126329],"type":"Point"}
+  "bbox": [
+    -87.632629,
+    40.126329,
+    -87.632629,
+    40.126329
+],
+  "geometry": {"coordinates":[-87.63262899999999,40.126329],"type":"Point"}
 }

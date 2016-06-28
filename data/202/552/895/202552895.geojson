@@ -2,13 +2,14 @@
   "id": 202552895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.098566,41.767313,-88.098566,41.767313",
     "geom:latitude":41.767313,
     "geom:longitude":-88.098566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6472 College Rd",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202552895,
-    "wof:lastmodified":1449061173,
+    "wof:lastmodified":1466489103,
     "wof:name":"Fine Wines & Liquor Inc",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-88.098566,41.767313,-88.098566,41.767313],
-  "geometry": {"coordinates":[-88.098566,41.767313],"type":"Point"}
+  "bbox": [
+    -88.098566,
+    41.767313,
+    -88.098566,
+    41.767313
+],
+  "geometry": {"coordinates":[-88.09856600000001,41.767313],"type":"Point"}
 }

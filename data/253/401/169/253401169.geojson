@@ -2,13 +2,14 @@
   "id": 253401169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.84699,41.868377,-87.84699,41.868377",
     "geom:latitude":41.868377,
     "geom:longitude":-87.84699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 S 12th Ave",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253401169,
-    "wof:lastmodified":1449065334,
+    "wof:lastmodified":1466494252,
     "wof:name":"Daphne Livsey Hollis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.84699,41.868377,-87.84699,41.868377],
-  "geometry": {"coordinates":[-87.84699,41.868377],"type":"Point"}
+  "bbox": [
+    -87.84699,
+    41.868377,
+    -87.84699,
+    41.868377
+],
+  "geometry": {"coordinates":[-87.84699000000001,41.868377],"type":"Point"}
 }

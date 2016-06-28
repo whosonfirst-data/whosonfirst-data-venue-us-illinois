@@ -2,13 +2,14 @@
   "id": 202526945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799377,42.051737,-87.799377,42.051737",
     "geom:latitude":42.051737,
     "geom:longitude":-87.799377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9339 Waukegan Rd",
     "sg:city":"Morton Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202526945,
-    "wof:lastmodified":1449060891,
+    "wof:lastmodified":1466495514,
     "wof:name":"Charter One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.799377,42.051737,-87.799377,42.051737],
-  "geometry": {"coordinates":[-87.799377,42.051737],"type":"Point"}
+  "bbox": [
+    -87.799377,
+    42.051737,
+    -87.799377,
+    42.051737
+],
+  "geometry": {"coordinates":[-87.79937700000001,42.051737],"type":"Point"}
 }

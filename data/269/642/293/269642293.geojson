@@ -2,13 +2,14 @@
   "id": 269642293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.74523,41.584973,-87.74523,41.584973",
     "geom:latitude":41.584973,
     "geom:longitude":-87.74523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16854 Laramie Ave",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269642293,
-    "wof:lastmodified":1449036282,
+    "wof:lastmodified":1466491490,
     "wof:name":"Dak Transport Inc",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.74523,41.584973,-87.74523,41.584973],
-  "geometry": {"coordinates":[-87.74523,41.584973],"type":"Point"}
+  "bbox": [
+    -87.74523,
+    41.584973,
+    -87.74523,
+    41.584973
+],
+  "geometry": {"coordinates":[-87.74523000000001,41.584973],"type":"Point"}
 }

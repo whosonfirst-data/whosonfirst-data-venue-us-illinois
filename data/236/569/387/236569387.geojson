@@ -2,13 +2,14 @@
   "id": 236569387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.136474,41.512714,-88.136474,41.512714",
     "geom:latitude":41.512714,
     "geom:longitude":-88.136474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Oak Leaf St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236569387,
-    "wof:lastmodified":1449005092,
+    "wof:lastmodified":1466496276,
     "wof:name":"Insulco Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "heat"
     ]
 },
-  "bbox": [-88.136474,41.512714,-88.136474,41.512714],
-  "geometry": {"coordinates":[-88.136474,41.512714],"type":"Point"}
+  "bbox": [
+    -88.136474,
+    41.512714,
+    -88.136474,
+    41.512714
+],
+  "geometry": {"coordinates":[-88.13647400000001,41.512714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202955879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.140641,42.441729,-88.140641,42.441729",
     "geom:latitude":42.441729,
     "geom:longitude":-88.140641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26131 W Lotus Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202955879,
-    "wof:lastmodified":1449061846,
+    "wof:lastmodified":1466493840,
     "wof:name":"Midwest Services",
     "wof:parent_id":85831403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.140641,42.441729,-88.140641,42.441729],
+  "bbox": [
+    -88.140641,
+    42.441729,
+    -88.140641,
+    42.441729
+],
   "geometry": {"coordinates":[-88.140641,42.441729],"type":"Point"}
 }

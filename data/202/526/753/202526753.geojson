@@ -2,13 +2,14 @@
   "id": 202526753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.043052,41.53657,-88.043052,41.53657",
     "geom:latitude":41.53657,
     "geom:longitude":-88.043052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Copperfield Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202526753,
-    "wof:lastmodified":1449060891,
+    "wof:lastmodified":1466495509,
     "wof:name":"Ridgewood Food Mart",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.043052,41.53657,-88.043052,41.53657],
+  "bbox": [
+    -88.043052,
+    41.53657,
+    -88.043052,
+    41.53657
+],
   "geometry": {"coordinates":[-88.043052,41.53657],"type":"Point"}
 }

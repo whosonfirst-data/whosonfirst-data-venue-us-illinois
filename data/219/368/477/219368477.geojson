@@ -2,13 +2,14 @@
   "id": 219368477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970571,41.991263,-87.970571,41.991263",
     "geom:latitude":41.991263,
     "geom:longitude":-87.970571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Lively Blvd",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219368477,
-    "wof:lastmodified":1449071199,
+    "wof:lastmodified":1466491515,
     "wof:name":"Seven C",
     "wof:parent_id":85867755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.970571,41.991263,-87.970571,41.991263],
-  "geometry": {"coordinates":[-87.970571,41.991263],"type":"Point"}
+  "bbox": [
+    -87.970571,
+    41.991263,
+    -87.970571,
+    41.991263
+],
+  "geometry": {"coordinates":[-87.97057100000001,41.991263],"type":"Point"}
 }

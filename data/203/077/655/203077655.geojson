@@ -2,13 +2,14 @@
   "id": 203077655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.891906,42.344685,-87.891906,42.344685",
     "geom:latitude":42.344685,
     "geom:longitude":-87.891906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 S Northpoint Blvd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203077655,
-    "wof:lastmodified":1449025234,
+    "wof:lastmodified":1466494369,
     "wof:name":"Illco",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.891906,42.344685,-87.891906,42.344685],
-  "geometry": {"coordinates":[-87.891906,42.344685],"type":"Point"}
+  "bbox": [
+    -87.891906,
+    42.344685,
+    -87.891906,
+    42.344685
+],
+  "geometry": {"coordinates":[-87.89190600000001,42.344685],"type":"Point"}
 }

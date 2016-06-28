@@ -2,13 +2,14 @@
   "id": 236551181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984705,38.569486,-89.984705,38.569486",
     "geom:latitude":38.569486,
     "geom:longitude":-89.984705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 N Illinois St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236551181,
-    "wof:lastmodified":1449002174,
+    "wof:lastmodified":1466496173,
     "wof:name":"Teachers Billiards & Sports",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "billiard"
     ]
 },
-  "bbox": [-89.984705,38.569486,-89.984705,38.569486],
-  "geometry": {"coordinates":[-89.984705,38.569486],"type":"Point"}
+  "bbox": [
+    -89.984705,
+    38.569486,
+    -89.984705,
+    38.569486
+],
+  "geometry": {"coordinates":[-89.98470500000001,38.569486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303195797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048148,41.585288,-88.048148,41.585288",
     "geom:latitude":41.585288,
     "geom:longitude":-88.048148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Garfield Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303195797,
-    "wof:lastmodified":1448999725,
+    "wof:lastmodified":1466492973,
     "wof:name":"A Touch Of Sea",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-88.048148,41.585288,-88.048148,41.585288],
+  "bbox": [
+    -88.048148,
+    41.585288,
+    -88.048148,
+    41.585288
+],
   "geometry": {"coordinates":[-88.048148,41.585288],"type":"Point"}
 }

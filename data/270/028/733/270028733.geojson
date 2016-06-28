@@ -2,13 +2,14 @@
   "id": 270028733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.265341,41.810288,-88.265341,41.810288",
     "geom:latitude":41.810288,
     "geom:longitude":-88.265341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2631 Ginger Woods Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270028733,
-    "wof:lastmodified":1449009964,
+    "wof:lastmodified":1466489452,
     "wof:name":"Compass Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-88.265341,41.810288,-88.265341,41.810288],
-  "geometry": {"coordinates":[-88.265341,41.810288],"type":"Point"}
+  "bbox": [
+    -88.265341,
+    41.810288,
+    -88.265341,
+    41.810288
+],
+  "geometry": {"coordinates":[-88.26534100000001,41.810288],"type":"Point"}
 }

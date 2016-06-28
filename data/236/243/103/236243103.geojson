@@ -2,13 +2,14 @@
   "id": 236243103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.738549,41.50549,-87.738549,41.50549",
     "geom:latitude":41.50549,
     "geom:longitude":-87.738549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Holiday Plaza Dr",
     "sg:city":"Matteson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236243103,
-    "wof:lastmodified":1449002573,
+    "wof:lastmodified":1466492011,
     "wof:name":"CB Richard Ellis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-87.738549,41.50549,-87.738549,41.50549],
-  "geometry": {"coordinates":[-87.738549,41.50549],"type":"Point"}
+  "bbox": [
+    -87.738549,
+    41.50549,
+    -87.738549,
+    41.50549
+],
+  "geometry": {"coordinates":[-87.73854900000001,41.50549],"type":"Point"}
 }

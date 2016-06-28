@@ -2,13 +2,14 @@
   "id": 220060813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060465,40.502399,-90.060465,40.502399",
     "geom:latitude":40.502399,
     "geom:longitude":-90.060465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20516 Co Rd 22",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220060813,
-    "wof:lastmodified":1449074800,
+    "wof:lastmodified":1466489693,
     "wof:name":"Radiators Plus",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-90.060465,40.502399,-90.060465,40.502399],
-  "geometry": {"coordinates":[-90.060465,40.502399],"type":"Point"}
+  "bbox": [
+    -90.060465,
+    40.502399,
+    -90.060465,
+    40.502399
+],
+  "geometry": {"coordinates":[-90.06046499999999,40.502399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252989683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.845649,41.346824,-88.845649,41.346824",
     "geom:latitude":41.346824,
     "geom:longitude":-88.845649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 W Madison St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252989683,
-    "wof:lastmodified":1449006197,
+    "wof:lastmodified":1466492645,
     "wof:name":"Regional Office Of Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-88.845649,41.346824,-88.845649,41.346824],
-  "geometry": {"coordinates":[-88.845649,41.346824],"type":"Point"}
+  "bbox": [
+    -88.845649,
+    41.346824,
+    -88.845649,
+    41.346824
+],
+  "geometry": {"coordinates":[-88.84564899999999,41.346824],"type":"Point"}
 }

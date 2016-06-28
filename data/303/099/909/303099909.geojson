@@ -2,13 +2,14 @@
   "id": 303099909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.380721,39.92867,-91.380721,39.92867",
     "geom:latitude":39.92867,
     "geom:longitude":-91.380721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 East Ave",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303099909,
-    "wof:lastmodified":1448999711,
+    "wof:lastmodified":1466491398,
     "wof:name":"Dave Bellis Construction",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-91.380721,39.92867,-91.380721,39.92867],
-  "geometry": {"coordinates":[-91.380721,39.92867],"type":"Point"}
+  "bbox": [
+    -91.380721,
+    39.92867,
+    -91.380721,
+    39.92867
+],
+  "geometry": {"coordinates":[-91.38072099999999,39.92867],"type":"Point"}
 }

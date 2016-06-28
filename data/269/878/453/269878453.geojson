@@ -2,13 +2,14 @@
   "id": 269878453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.679865,40.857013,-89.679865,40.857013",
     "geom:latitude":40.857013,
     "geom:longitude":-89.679865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 W Legion Hall Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269878453,
-    "wof:lastmodified":1449037390,
+    "wof:lastmodified":1466495237,
     "wof:name":"Dunlap-American Legion",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-89.679865,40.857013,-89.679865,40.857013],
-  "geometry": {"coordinates":[-89.679865,40.857013],"type":"Point"}
+  "bbox": [
+    -89.679865,
+    40.857013,
+    -89.679865,
+    40.857013
+],
+  "geometry": {"coordinates":[-89.67986500000001,40.857013],"type":"Point"}
 }

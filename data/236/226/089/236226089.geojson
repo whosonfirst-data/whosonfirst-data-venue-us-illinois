@@ -2,13 +2,14 @@
   "id": 236226089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.989628,42.160911,-87.989628,42.160911",
     "geom:latitude":42.160911,
     "geom:longitude":-87.989628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 Checker Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236226089,
-    "wof:lastmodified":1449004153,
+    "wof:lastmodified":1466491774,
     "wof:name":"Temple Chai",
     "wof:parent_id":85890883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.989628,42.160911,-87.989628,42.160911],
+  "bbox": [
+    -87.989628,
+    42.160911,
+    -87.989628,
+    42.160911
+],
   "geometry": {"coordinates":[-87.989628,42.160911],"type":"Point"}
 }

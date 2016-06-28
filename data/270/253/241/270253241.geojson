@@ -2,13 +2,14 @@
   "id": 270253241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.290678,40.086101,-91.290678,40.086101",
     "geom:latitude":40.086101,
     "geom:longitude":-91.290678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W Washington St",
     "sg:city":"Mendon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270253241,
-    "wof:lastmodified":1449010795,
+    "wof:lastmodified":1466492868,
     "wof:name":"Carol's Salon",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-91.290678,40.086101,-91.290678,40.086101],
+  "bbox": [
+    -91.290678,
+    40.086101,
+    -91.290678,
+    40.086101
+],
   "geometry": {"coordinates":[-91.290678,40.086101],"type":"Point"}
 }

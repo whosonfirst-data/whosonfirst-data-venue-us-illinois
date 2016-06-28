@@ -2,13 +2,14 @@
   "id": 287021399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.622459,40.178799,-87.622459,40.178799",
     "geom:latitude":40.178799,
     "geom:longitude":-87.622459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Wilson Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287021399,
-    "wof:lastmodified":1449001235,
+    "wof:lastmodified":1466490310,
     "wof:name":"Wm G Nipper",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.622459,40.178799,-87.622459,40.178799],
-  "geometry": {"coordinates":[-87.622459,40.178799],"type":"Point"}
+  "bbox": [
+    -87.622459,
+    40.178799,
+    -87.622459,
+    40.178799
+],
+  "geometry": {"coordinates":[-87.62245900000001,40.178799],"type":"Point"}
 }

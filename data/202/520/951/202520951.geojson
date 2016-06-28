@@ -2,13 +2,14 @@
   "id": 202520951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.340368,41.872172,-88.340368,41.872172",
     "geom:latitude":41.872172,
     "geom:longitude":-88.340368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 S Randall Rd",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202520951,
-    "wof:lastmodified":1449060939,
+    "wof:lastmodified":1466495395,
     "wof:name":"St Roger Abbey",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.340368,41.872172,-88.340368,41.872172],
+  "bbox": [
+    -88.340368,
+    41.872172,
+    -88.340368,
+    41.872172
+],
   "geometry": {"coordinates":[-88.340368,41.872172],"type":"Point"}
 }

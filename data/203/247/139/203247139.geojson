@@ -2,13 +2,14 @@
   "id": 203247139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.963844,41.641966,-87.963844,41.641966",
     "geom:latitude":41.641966,
     "geom:longitude":-87.963844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13630 S Dublin Dr",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203247139,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466489874,
     "wof:name":"PHG Technologies",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.963844,41.641966,-87.963844,41.641966],
-  "geometry": {"coordinates":[-87.963844,41.641966],"type":"Point"}
+  "bbox": [
+    -87.963844,
+    41.641966,
+    -87.963844,
+    41.641966
+],
+  "geometry": {"coordinates":[-87.96384399999999,41.641966],"type":"Point"}
 }

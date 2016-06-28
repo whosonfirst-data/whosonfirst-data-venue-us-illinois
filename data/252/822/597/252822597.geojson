@@ -2,13 +2,14 @@
   "id": 252822597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.739247,41.939006,-87.739247,41.939006",
     "geom:latitude":41.939006,
     "geom:longitude":-87.739247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252822597,
-    "wof:lastmodified":1449006470,
+    "wof:lastmodified":1466490464,
     "wof:name":"National Acoustics",
     "wof:parent_id":85867645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.739247,41.939006,-87.739247,41.939006],
-  "geometry": {"coordinates":[-87.739247,41.939006],"type":"Point"}
+  "bbox": [
+    -87.739247,
+    41.939006,
+    -87.739247,
+    41.939006
+],
+  "geometry": {"coordinates":[-87.73924700000001,41.939006],"type":"Point"}
 }

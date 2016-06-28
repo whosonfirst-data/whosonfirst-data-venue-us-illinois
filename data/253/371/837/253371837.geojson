@@ -2,13 +2,14 @@
   "id": 253371837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030293,42.217304,-88.030293,42.217304",
     "geom:latitude":42.217304,
     "geom:longitude":-88.030293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Canterbury Ln",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253371837,
-    "wof:lastmodified":1449065095,
+    "wof:lastmodified":1466493772,
     "wof:name":"Inter-Active USA",
     "wof:parent_id":85867887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-88.030293,42.217304,-88.030293,42.217304],
+  "bbox": [
+    -88.030293,
+    42.217304,
+    -88.030293,
+    42.217304
+],
   "geometry": {"coordinates":[-88.030293,42.217304],"type":"Point"}
 }

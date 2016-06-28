@@ -2,13 +2,14 @@
   "id": 236635153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166773,39.24945,-88.166773,39.24945",
     "geom:latitude":39.24945,
     "geom:longitude":-88.166773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Mill St",
     "sg:city":"Greenup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236635153,
-    "wof:lastmodified":1449003018,
+    "wof:lastmodified":1466496657,
     "wof:name":"Greenup Rural Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.166773,39.24945,-88.166773,39.24945],
-  "geometry": {"coordinates":[-88.166773,39.24945],"type":"Point"}
+  "bbox": [
+    -88.166773,
+    39.24945,
+    -88.166773,
+    39.24945
+],
+  "geometry": {"coordinates":[-88.16677300000001,39.24945],"type":"Point"}
 }

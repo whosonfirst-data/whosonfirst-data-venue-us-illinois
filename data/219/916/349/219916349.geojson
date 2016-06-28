@@ -2,13 +2,14 @@
   "id": 219916349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742537,41.581649,-87.742537,41.581649",
     "geom:latitude":41.581649,
     "geom:longitude":-87.742537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16953 Le Claire Ave",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219916349,
-    "wof:lastmodified":1449072311,
+    "wof:lastmodified":1466497070,
     "wof:name":"Chicago Mobile Notary",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-87.742537,41.581649,-87.742537,41.581649],
+  "bbox": [
+    -87.742537,
+    41.581649,
+    -87.742537,
+    41.581649
+],
   "geometry": {"coordinates":[-87.742537,41.581649],"type":"Point"}
 }

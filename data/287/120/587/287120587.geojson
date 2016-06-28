@@ -2,13 +2,14 @@
   "id": 287120587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.599851,40.839338,-89.599851,40.839338",
     "geom:latitude":40.839338,
     "geom:longitude":-89.599851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12503 N Hickory Grove Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287120587,
-    "wof:lastmodified":1449001445,
+    "wof:lastmodified":1466491909,
     "wof:name":"German American Central",
     "wof:parent_id":85879847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-89.599851,40.839338,-89.599851,40.839338],
+  "bbox": [
+    -89.599851,
+    40.839338,
+    -89.599851,
+    40.839338
+],
   "geometry": {"coordinates":[-89.599851,40.839338],"type":"Point"}
 }

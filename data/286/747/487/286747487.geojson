@@ -2,13 +2,14 @@
   "id": 286747487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903617,42.024253,-87.903617,42.024253",
     "geom:latitude":42.024253,
     "geom:longitude":-87.903617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 Fairmount Ct",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286747487,
-    "wof:lastmodified":1449015698,
+    "wof:lastmodified":1466496817,
     "wof:name":"GCI",
     "wof:parent_id":85890773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.903617,42.024253,-87.903617,42.024253],
+  "bbox": [
+    -87.903617,
+    42.024253,
+    -87.903617,
+    42.024253
+],
   "geometry": {"coordinates":[-87.903617,42.024253],"type":"Point"}
 }

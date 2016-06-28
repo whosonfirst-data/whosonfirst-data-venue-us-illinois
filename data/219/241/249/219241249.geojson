@@ -2,13 +2,14 @@
   "id": 219241249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.825293,41.979361,-87.825293,41.979361",
     "geom:latitude":41.979361,
     "geom:longitude":-87.825293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 N Linden Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219241249,
-    "wof:lastmodified":1449073814,
+    "wof:lastmodified":1466489992,
     "wof:name":"Stanley Home & Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.825293,41.979361,-87.825293,41.979361],
+  "bbox": [
+    -87.825293,
+    41.979361,
+    -87.825293,
+    41.979361
+],
   "geometry": {"coordinates":[-87.825293,41.979361],"type":"Point"}
 }

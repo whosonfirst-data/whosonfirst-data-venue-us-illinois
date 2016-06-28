@@ -2,13 +2,14 @@
   "id": 202607437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682565,41.490653,-87.682565,41.490653",
     "geom:latitude":41.490653,
     "geom:longitude":-87.682565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Centre St",
     "sg:city":"Park Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202607437,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1466489752,
     "wof:name":"My Hair Studio",
     "wof:parent_id":85890899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.682565,41.490653,-87.682565,41.490653],
+  "bbox": [
+    -87.682565,
+    41.490653,
+    -87.682565,
+    41.490653
+],
   "geometry": {"coordinates":[-87.682565,41.490653],"type":"Point"}
 }

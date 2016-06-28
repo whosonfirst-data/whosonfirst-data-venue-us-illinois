@@ -2,13 +2,14 @@
   "id": 219931095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.072853,41.517068,-88.072853,41.517068",
     "geom:latitude":41.517068,
     "geom:longitude":-88.072853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Union St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219931095,
-    "wof:lastmodified":1449073602,
+    "wof:lastmodified":1466497258,
     "wof:name":"Thomas Roach & Assoc",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-88.072853,41.517068,-88.072853,41.517068],
-  "geometry": {"coordinates":[-88.072853,41.517068],"type":"Point"}
+  "bbox": [
+    -88.072853,
+    41.517068,
+    -88.072853,
+    41.517068
+],
+  "geometry": {"coordinates":[-88.07285299999999,41.517068],"type":"Point"}
 }

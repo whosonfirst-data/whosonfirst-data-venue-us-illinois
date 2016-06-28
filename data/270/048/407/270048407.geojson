@@ -2,13 +2,14 @@
   "id": 270048407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313994,41.850985,-88.313994,41.850985",
     "geom:latitude":41.850985,
     "geom:longitude":-88.313994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Houston St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270048407,
-    "wof:lastmodified":1449009493,
+    "wof:lastmodified":1466489761,
     "wof:name":"Mortgage Man",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-88.313994,41.850985,-88.313994,41.850985],
-  "geometry": {"coordinates":[-88.313994,41.850985],"type":"Point"}
+  "bbox": [
+    -88.313994,
+    41.850985,
+    -88.313994,
+    41.850985
+],
+  "geometry": {"coordinates":[-88.31399399999999,41.850985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269731061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.312795,41.753964,-88.312795,41.753964",
     "geom:latitude":41.753964,
     "geom:longitude":-88.312795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E Benton St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":269731061,
-    "wof:lastmodified":1449038683,
+    "wof:lastmodified":1466492929,
     "wof:name":"Trinity Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.312795,41.753964,-88.312795,41.753964],
-  "geometry": {"coordinates":[-88.312795,41.753964],"type":"Point"}
+  "bbox": [
+    -88.312795,
+    41.753964,
+    -88.312795,
+    41.753964
+],
+  "geometry": {"coordinates":[-88.31279499999999,41.753964],"type":"Point"}
 }

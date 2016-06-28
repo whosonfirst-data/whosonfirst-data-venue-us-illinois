@@ -2,13 +2,14 @@
   "id": 236272883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.010612,42.394724,-89.010612,42.394724",
     "geom:latitude":42.394724,
     "geom:longitude":-89.010612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9241 Starboard Dr",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236272883,
-    "wof:lastmodified":1449004979,
+    "wof:lastmodified":1466492426,
     "wof:name":"Service Components Inc",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.010612,42.394724,-89.010612,42.394724],
-  "geometry": {"coordinates":[-89.010612,42.394724],"type":"Point"}
+  "bbox": [
+    -89.010612,
+    42.394724,
+    -89.010612,
+    42.394724
+],
+  "geometry": {"coordinates":[-89.01061199999999,42.394724],"type":"Point"}
 }

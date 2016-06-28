@@ -2,13 +2,14 @@
   "id": 220153069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807927,41.974596,-87.807927,41.974596",
     "geom:latitude":41.974596,
     "geom:longitude":-87.807927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 W Foster Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220153069,
-    "wof:lastmodified":1449074606,
+    "wof:lastmodified":1466490815,
     "wof:name":"Roberts Hair Design Ltd",
     "wof:parent_id":85824195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.807927,41.974596,-87.807927,41.974596],
-  "geometry": {"coordinates":[-87.807927,41.974596],"type":"Point"}
+  "bbox": [
+    -87.807927,
+    41.974596,
+    -87.807927,
+    41.974596
+],
+  "geometry": {"coordinates":[-87.80792700000001,41.974596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203365361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.913648,42.414124,-87.913648,42.414124",
     "geom:latitude":42.414124,
     "geom:longitude":-87.913648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14565 W Yorkhouse Rd",
     "sg:city":"Wadsworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203365361,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466491192,
     "wof:name":"Midland Country Club",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-87.913648,42.414124,-87.913648,42.414124],
-  "geometry": {"coordinates":[-87.913648,42.414124],"type":"Point"}
+  "bbox": [
+    -87.913648,
+    42.414124,
+    -87.913648,
+    42.414124
+],
+  "geometry": {"coordinates":[-87.91364799999999,42.414124],"type":"Point"}
 }

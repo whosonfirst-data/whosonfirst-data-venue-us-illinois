@@ -2,13 +2,14 @@
   "id": 270004237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.118351,38.618546,-90.118351,38.618546",
     "geom:latitude":38.618546,
     "geom:longitude":-90.118351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 N 31st St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270004237,
-    "wof:lastmodified":1449009528,
+    "wof:lastmodified":1466489102,
     "wof:name":"St Paul Joppa Lodge",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-90.118351,38.618546,-90.118351,38.618546],
+  "bbox": [
+    -90.118351,
+    38.618546,
+    -90.118351,
+    38.618546
+],
   "geometry": {"coordinates":[-90.118351,38.618546],"type":"Point"}
 }

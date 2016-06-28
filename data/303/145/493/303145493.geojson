@@ -2,13 +2,14 @@
   "id": 303145493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.787244,41.908115,-87.787244,41.908115",
     "geom:latitude":41.908115,
     "geom:longitude":-87.787244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 N Elmwood Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303145493,
-    "wof:lastmodified":1448998859,
+    "wof:lastmodified":1466492155,
     "wof:name":"G T S Inc",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-87.787244,41.908115,-87.787244,41.908115],
+  "bbox": [
+    -87.787244,
+    41.908115,
+    -87.787244,
+    41.908115
+],
   "geometry": {"coordinates":[-87.787244,41.908115],"type":"Point"}
 }

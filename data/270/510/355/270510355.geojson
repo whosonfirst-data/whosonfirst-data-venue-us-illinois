@@ -2,13 +2,14 @@
   "id": 270510355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.744908,41.895947,-87.744908,41.895947",
     "geom:latitude":41.895947,
     "geom:longitude":-87.744908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4731 W Rice St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270510355,
-    "wof:lastmodified":1449010103,
+    "wof:lastmodified":1466496560,
     "wof:name":"Fence Factory Inc",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.744908,41.895947,-87.744908,41.895947],
+  "bbox": [
+    -87.744908,
+    41.895947,
+    -87.744908,
+    41.895947
+],
   "geometry": {"coordinates":[-87.744908,41.895947],"type":"Point"}
 }

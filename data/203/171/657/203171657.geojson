@@ -2,13 +2,14 @@
   "id": 203171657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.330486,42.436387,-89.330486,42.436387",
     "geom:latitude":42.436387,
     "geom:longitude":-89.330486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Oak St",
     "sg:city":"Durand",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203171657,
-    "wof:lastmodified":1449026871,
+    "wof:lastmodified":1466489037,
     "wof:name":"Country Co Insur & Fincl Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.330486,42.436387,-89.330486,42.436387],
-  "geometry": {"coordinates":[-89.330486,42.436387],"type":"Point"}
+  "bbox": [
+    -89.330486,
+    42.436387,
+    -89.330486,
+    42.436387
+],
+  "geometry": {"coordinates":[-89.33048599999999,42.436387],"type":"Point"}
 }

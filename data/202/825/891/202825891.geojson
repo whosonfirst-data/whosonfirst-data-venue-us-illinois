@@ -2,13 +2,14 @@
   "id": 202825891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.93273,41.870049,-87.93273,41.870049",
     "geom:latitude":41.870049,
     "geom:longitude":-87.93273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Butterfield Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202825891,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466492269,
     "wof:name":"Elmhurst Plaza Standard Svc",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "towing"
     ]
 },
-  "bbox": [-87.93273,41.870049,-87.93273,41.870049],
-  "geometry": {"coordinates":[-87.93273,41.870049],"type":"Point"}
+  "bbox": [
+    -87.93273,
+    41.870049,
+    -87.93273,
+    41.870049
+],
+  "geometry": {"coordinates":[-87.93273000000001,41.870049],"type":"Point"}
 }

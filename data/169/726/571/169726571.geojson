@@ -2,13 +2,14 @@
   "id": 169726571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.979019,38.78188,-89.979019,38.78188",
     "geom:latitude":38.78188,
     "geom:longitude":-89.979019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Southpointe",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":169726571,
-    "wof:lastmodified":1449034954,
+    "wof:lastmodified":1466492844,
     "wof:name":"COUNTRY Financial - Randy Riekena",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.979019,38.78188,-89.979019,38.78188],
-  "geometry": {"coordinates":[-89.979019,38.78188],"type":"Point"}
+  "bbox": [
+    -89.979019,
+    38.78188,
+    -89.979019,
+    38.78188
+],
+  "geometry": {"coordinates":[-89.97901899999999,38.78188],"type":"Point"}
 }

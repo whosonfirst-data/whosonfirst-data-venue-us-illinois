@@ -2,13 +2,14 @@
   "id": 270073255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.143228,40.078598,-88.143228,40.078598",
     "geom:latitude":40.078598,
     "geom:longitude":-88.143228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 S Cottonwood Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270073255,
-    "wof:lastmodified":1449008984,
+    "wof:lastmodified":1466490116,
     "wof:name":"Cross Pavement Maintenance",
     "wof:parent_id":85834599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-88.143228,40.078598,-88.143228,40.078598],
-  "geometry": {"coordinates":[-88.143228,40.078598],"type":"Point"}
+  "bbox": [
+    -88.143228,
+    40.078598,
+    -88.143228,
+    40.078598
+],
+  "geometry": {"coordinates":[-88.14322799999999,40.078598],"type":"Point"}
 }

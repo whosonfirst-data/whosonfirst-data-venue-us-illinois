@@ -2,13 +2,14 @@
   "id": 203170803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453516,38.979176,-88.453516,38.979176",
     "geom:latitude":38.979176,
     "geom:longitude":-88.453516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19487 E 450th Ave",
     "sg:city":"Dieterich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203170803,
-    "wof:lastmodified":1449025109,
+    "wof:lastmodified":1466489028,
     "wof:name":"Arthur Bierman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-88.453516,38.979176,-88.453516,38.979176],
-  "geometry": {"coordinates":[-88.453516,38.979176],"type":"Point"}
+  "bbox": [
+    -88.453516,
+    38.979176,
+    -88.453516,
+    38.979176
+],
+  "geometry": {"coordinates":[-88.45351599999999,38.979176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253643987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.20919,38.520119,-90.20919,38.520119",
     "geom:latitude":38.520119,
     "geom:longitude":-90.20919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Emma Ave",
     "sg:city":"Dupo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253643987,
-    "wof:lastmodified":1449065384,
+    "wof:lastmodified":1466497178,
     "wof:name":"Olympia Funds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-90.20919,38.520119,-90.20919,38.520119],
-  "geometry": {"coordinates":[-90.20919,38.520119],"type":"Point"}
+  "bbox": [
+    -90.20919,
+    38.520119,
+    -90.20919,
+    38.520119
+],
+  "geometry": {"coordinates":[-90.20919000000001,38.520119],"type":"Point"}
 }

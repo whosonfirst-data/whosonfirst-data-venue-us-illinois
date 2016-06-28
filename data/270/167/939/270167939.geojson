@@ -2,13 +2,14 @@
   "id": 270167939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.509165,41.487454,-90.509165,41.487454",
     "geom:latitude":41.487454,
     "geom:longitude":-90.509165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1860 25th Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270167939,
-    "wof:lastmodified":1449009907,
+    "wof:lastmodified":1466491509,
     "wof:name":"Weshare",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-90.509165,41.487454,-90.509165,41.487454],
+  "bbox": [
+    -90.509165,
+    41.487454,
+    -90.509165,
+    41.487454
+],
   "geometry": {"coordinates":[-90.509165,41.487454],"type":"Point"}
 }

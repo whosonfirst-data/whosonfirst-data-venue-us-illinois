@@ -2,13 +2,14 @@
   "id": 303136869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.032521,42.299827,-88.032521,42.299827",
     "geom:latitude":42.299827,
     "geom:longitude":-88.032521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29278 N State Rte 83",
     "sg:city":"Mundelein",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303136869,
-    "wof:lastmodified":1449000528,
+    "wof:lastmodified":1466492016,
     "wof:name":"Lake County Animal/Rabies",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-88.032521,42.299827,-88.032521,42.299827],
+  "bbox": [
+    -88.032521,
+    42.299827,
+    -88.032521,
+    42.299827
+],
   "geometry": {"coordinates":[-88.032521,42.299827],"type":"Point"}
 }

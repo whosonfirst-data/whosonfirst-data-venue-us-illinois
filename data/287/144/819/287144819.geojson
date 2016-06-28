@@ -2,13 +2,14 @@
   "id": 287144819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.482718,41.49066,-90.482718,41.49066",
     "geom:latitude":41.49066,
     "geom:longitude":-90.482718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 23rd Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287144819,
-    "wof:lastmodified":1449001329,
+    "wof:lastmodified":1466492294,
     "wof:name":"Walgreens",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.482718,41.49066,-90.482718,41.49066],
-  "geometry": {"coordinates":[-90.482718,41.49066],"type":"Point"}
+  "bbox": [
+    -90.482718,
+    41.49066,
+    -90.482718,
+    41.49066
+],
+  "geometry": {"coordinates":[-90.48271800000001,41.49066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186586891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.562942,40.10504,-88.562942,40.10504",
     "geom:latitude":40.10504,
     "geom:longitude":-88.562942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 E 2150 North Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186586891,
-    "wof:lastmodified":1449052713,
+    "wof:lastmodified":1466489254,
     "wof:name":"Maden Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.562942,40.10504,-88.562942,40.10504],
-  "geometry": {"coordinates":[-88.562942,40.10504],"type":"Point"}
+  "bbox": [
+    -88.562942,
+    40.10504,
+    -88.562942,
+    40.10504
+],
+  "geometry": {"coordinates":[-88.56294200000001,40.10504],"type":"Point"}
 }

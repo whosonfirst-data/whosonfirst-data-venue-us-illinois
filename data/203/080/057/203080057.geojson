@@ -2,13 +2,14 @@
   "id": 203080057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694094,41.720893,-87.694094,41.720893",
     "geom:latitude":41.720893,
     "geom:longitude":-87.694094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203080057,
-    "wof:lastmodified":1449026827,
+    "wof:lastmodified":1466494409,
     "wof:name":"Century Ear Nose & Throat",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.694094,41.720893,-87.694094,41.720893],
-  "geometry": {"coordinates":[-87.694094,41.720893],"type":"Point"}
+  "bbox": [
+    -87.694094,
+    41.720893,
+    -87.694094,
+    41.720893
+],
+  "geometry": {"coordinates":[-87.69409400000001,41.720893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269522521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.970347,40.315234,-88.970347,40.315234",
     "geom:latitude":40.315234,
     "geom:longitude":-88.970347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E Newton St",
     "sg:city":"Heyworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269522521,
-    "wof:lastmodified":1449037287,
+    "wof:lastmodified":1466489605,
     "wof:name":"Bell Construction",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.970347,40.315234,-88.970347,40.315234],
+  "bbox": [
+    -88.970347,
+    40.315234,
+    -88.970347,
+    40.315234
+],
   "geometry": {"coordinates":[-88.970347,40.315234],"type":"Point"}
 }

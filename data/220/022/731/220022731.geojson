@@ -2,13 +2,14 @@
   "id": 220022731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.248855,37.459227,-89.248855,37.459227",
     "geom:latitude":37.459227,
     "geom:longitude":-89.248855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 S Main St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220022731,
-    "wof:lastmodified":1449074289,
+    "wof:lastmodified":1466489219,
     "wof:name":"Lodge 1346 - Anna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.248855,37.459227,-89.248855,37.459227],
-  "geometry": {"coordinates":[-89.248855,37.459227],"type":"Point"}
+  "bbox": [
+    -89.248855,
+    37.459227,
+    -89.248855,
+    37.459227
+],
+  "geometry": {"coordinates":[-89.24885500000001,37.459227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185628315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.929066,38.590845,-89.929066,38.590845",
     "geom:latitude":38.590845,
     "geom:longitude":-89.929066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Eagle Ctr",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185628315,
-    "wof:lastmodified":1449007922,
+    "wof:lastmodified":1466493018,
     "wof:name":"McR Federal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.929066,38.590845,-89.929066,38.590845],
-  "geometry": {"coordinates":[-89.929066,38.590845],"type":"Point"}
+  "bbox": [
+    -89.929066,
+    38.590845,
+    -89.929066,
+    38.590845
+],
+  "geometry": {"coordinates":[-89.92906600000001,38.590845],"type":"Point"}
 }

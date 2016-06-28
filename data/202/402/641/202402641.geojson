@@ -2,13 +2,14 @@
   "id": 202402641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.185067,41.521359,-88.185067,41.521359",
     "geom:latitude":41.521359,
     "geom:longitude":-88.185067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 McDonald Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202402641,
-    "wof:lastmodified":1449060929,
+    "wof:lastmodified":1466493107,
     "wof:name":"Greenscapes Services",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-88.185067,41.521359,-88.185067,41.521359],
+  "bbox": [
+    -88.185067,
+    41.521359,
+    -88.185067,
+    41.521359
+],
   "geometry": {"coordinates":[-88.185067,41.521359],"type":"Point"}
 }

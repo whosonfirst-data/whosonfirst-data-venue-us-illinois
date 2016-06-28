@@ -2,13 +2,14 @@
   "id": 287136023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.860707,41.122503,-87.860707,41.122503",
     "geom:latitude":41.122503,
     "geom:longitude":-87.860707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Indiana Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287136023,
-    "wof:lastmodified":1449001585,
+    "wof:lastmodified":1466492151,
     "wof:name":"Police Dept-Records Div",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.860707,41.122503,-87.860707,41.122503],
+  "bbox": [
+    -87.860707,
+    41.122503,
+    -87.860707,
+    41.122503
+],
   "geometry": {"coordinates":[-87.860707,41.122503],"type":"Point"}
 }

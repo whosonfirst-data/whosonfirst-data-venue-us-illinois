@@ -2,13 +2,14 @@
   "id": 236369847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.831403,41.565878,-87.831403,41.565878",
     "geom:latitude":41.565878,
     "geom:longitude":-87.831403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8837 O'Brien Dr",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236369847,
-    "wof:lastmodified":1449005045,
+    "wof:lastmodified":1466493651,
     "wof:name":"Jay McMahon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.831403,41.565878,-87.831403,41.565878],
-  "geometry": {"coordinates":[-87.831403,41.565878],"type":"Point"}
+  "bbox": [
+    -87.831403,
+    41.565878,
+    -87.831403,
+    41.565878
+],
+  "geometry": {"coordinates":[-87.83140299999999,41.565878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269630641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.514342,41.505684,-90.514342,41.505684",
     "geom:latitude":41.505684,
     "geom:longitude":-90.514342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 6th Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269630641,
-    "wof:lastmodified":1449036993,
+    "wof:lastmodified":1466491317,
     "wof:name":"Armor Corporation",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-90.514342,41.505684,-90.514342,41.505684],
+  "bbox": [
+    -90.514342,
+    41.505684,
+    -90.514342,
+    41.505684
+],
   "geometry": {"coordinates":[-90.514342,41.505684],"type":"Point"}
 }

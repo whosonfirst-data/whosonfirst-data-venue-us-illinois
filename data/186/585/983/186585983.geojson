@@ -2,13 +2,14 @@
   "id": 186585983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.329843,41.863232,-88.329843,41.863232",
     "geom:latitude":41.863232,
     "geom:longitude":-88.329843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Hazelwood Ct",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186585983,
-    "wof:lastmodified":1449052153,
+    "wof:lastmodified":1466489245,
     "wof:name":"Learning Care",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-88.329843,41.863232,-88.329843,41.863232],
+  "bbox": [
+    -88.329843,
+    41.863232,
+    -88.329843,
+    41.863232
+],
   "geometry": {"coordinates":[-88.329843,41.863232],"type":"Point"}
 }

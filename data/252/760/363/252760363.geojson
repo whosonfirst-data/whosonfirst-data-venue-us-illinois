@@ -2,13 +2,14 @@
   "id": 252760363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945931,41.532255,-87.945931,41.532255",
     "geom:latitude":41.532255,
     "geom:longitude":-87.945931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 E Francis Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252760363,
-    "wof:lastmodified":1449006457,
+    "wof:lastmodified":1466489666,
     "wof:name":"Admiral Consulting",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.945931,41.532255,-87.945931,41.532255],
+  "bbox": [
+    -87.945931,
+    41.532255,
+    -87.945931,
+    41.532255
+],
   "geometry": {"coordinates":[-87.945931,41.532255],"type":"Point"}
 }

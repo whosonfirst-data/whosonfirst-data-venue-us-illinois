@@ -2,13 +2,14 @@
   "id": 270075223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119661,41.997641,-88.119661,41.997641",
     "geom:latitude":41.997641,
     "geom:longitude":-88.119661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"887 W Irving Park Rd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270075223,
-    "wof:lastmodified":1449009970,
+    "wof:lastmodified":1466490143,
     "wof:name":"US Helicopters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [-88.119661,41.997641,-88.119661,41.997641],
-  "geometry": {"coordinates":[-88.119661,41.997641],"type":"Point"}
+  "bbox": [
+    -88.119661,
+    41.997641,
+    -88.119661,
+    41.997641
+],
+  "geometry": {"coordinates":[-88.11966099999999,41.997641],"type":"Point"}
 }

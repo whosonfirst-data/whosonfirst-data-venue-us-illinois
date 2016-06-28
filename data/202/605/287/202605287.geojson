@@ -2,13 +2,14 @@
   "id": 202605287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030081,41.607581,-88.030081,41.607581",
     "geom:latitude":41.607581,
     "geom:longitude":-88.030081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1334 Foxford Ln",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202605287,
-    "wof:lastmodified":1449061366,
+    "wof:lastmodified":1466489724,
     "wof:name":"Alltech Supply",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-88.030081,41.607581,-88.030081,41.607581],
+  "bbox": [
+    -88.030081,
+    41.607581,
+    -88.030081,
+    41.607581
+],
   "geometry": {"coordinates":[-88.030081,41.607581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252905689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.16205,41.61851,-88.16205,41.61851",
     "geom:latitude":41.61851,
     "geom:longitude":-88.16205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2078 Sutcliff Ct",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252905689,
-    "wof:lastmodified":1449005843,
+    "wof:lastmodified":1466491512,
     "wof:name":"Wisequest Inc",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-88.16205,41.61851,-88.16205,41.61851],
-  "geometry": {"coordinates":[-88.16205,41.61851],"type":"Point"}
+  "bbox": [
+    -88.16205,
+    41.61851,
+    -88.16205,
+    41.61851
+],
+  "geometry": {"coordinates":[-88.16204999999999,41.61851],"type":"Point"}
 }

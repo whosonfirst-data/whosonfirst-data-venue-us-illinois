@@ -2,13 +2,14 @@
   "id": 270415441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.035337,42.245008,-89.035337,42.245008",
     "geom:latitude":42.245008,
     "geom:longitude":-89.035337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 Florida Dr",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270415441,
-    "wof:lastmodified":1449010410,
+    "wof:lastmodified":1466495359,
     "wof:name":"Scratch & Patch",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-89.035337,42.245008,-89.035337,42.245008],
+  "bbox": [
+    -89.035337,
+    42.245008,
+    -89.035337,
+    42.245008
+],
   "geometry": {"coordinates":[-89.035337,42.245008],"type":"Point"}
 }

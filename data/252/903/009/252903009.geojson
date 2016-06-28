@@ -2,13 +2,14 @@
   "id": 252903009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.561459,39.120507,-88.561459,39.120507",
     "geom:latitude":39.120507,
     "geom:longitude":-88.561459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 W Fayette Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252903009,
-    "wof:lastmodified":1449005473,
+    "wof:lastmodified":1466491478,
     "wof:name":"Diagnostic Center USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-88.561459,39.120507,-88.561459,39.120507],
+  "bbox": [
+    -88.561459,
+    39.120507,
+    -88.561459,
+    39.120507
+],
   "geometry": {"coordinates":[-88.561459,39.120507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203310083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.935512,38.487642,-89.935512,38.487642",
     "geom:latitude":38.487642,
     "geom:longitude":-89.935512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"679 S Green Mount Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203310083,
-    "wof:lastmodified":1449026104,
+    "wof:lastmodified":1466490580,
     "wof:name":"Green Mt Catholic Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-89.935512,38.487642,-89.935512,38.487642],
+  "bbox": [
+    -89.935512,
+    38.487642,
+    -89.935512,
+    38.487642
+],
   "geometry": {"coordinates":[-89.935512,38.487642],"type":"Point"}
 }

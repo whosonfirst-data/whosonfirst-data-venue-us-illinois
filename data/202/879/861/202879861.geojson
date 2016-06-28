@@ -2,13 +2,14 @@
   "id": 202879861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.395575,38.905937,-89.395575,38.905937",
     "geom:latitude":38.905937,
     "geom:longitude":-89.395575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Joshu Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202879861,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466492935,
     "wof:name":"A T & T Voice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-89.395575,38.905937,-89.395575,38.905937],
-  "geometry": {"coordinates":[-89.395575,38.905937],"type":"Point"}
+  "bbox": [
+    -89.395575,
+    38.905937,
+    -89.395575,
+    38.905937
+],
+  "geometry": {"coordinates":[-89.39557499999999,38.905937],"type":"Point"}
 }

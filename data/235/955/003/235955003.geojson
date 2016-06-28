@@ -2,13 +2,14 @@
   "id": 235955003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655256,41.983494,-87.655256,41.983494",
     "geom:latitude":41.983494,
     "geom:longitude":-87.655256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235955003,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1466489245,
     "wof:name":"Keogh & Keogh Inc",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "communications"
     ]
 },
-  "bbox": [-87.655256,41.983494,-87.655256,41.983494],
-  "geometry": {"coordinates":[-87.655256,41.983494],"type":"Point"}
+  "bbox": [
+    -87.655256,
+    41.983494,
+    -87.655256,
+    41.983494
+],
+  "geometry": {"coordinates":[-87.65525599999999,41.983494],"type":"Point"}
 }

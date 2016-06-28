@@ -2,13 +2,14 @@
   "id": 287083779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727112,41.939201,-87.727112,41.939201",
     "geom:latitude":41.939201,
     "geom:longitude":-87.727112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3247 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287083779,
-    "wof:lastmodified":1449001075,
+    "wof:lastmodified":1466491301,
     "wof:name":"Color Works",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-87.727112,41.939201,-87.727112,41.939201],
-  "geometry": {"coordinates":[-87.727112,41.939201],"type":"Point"}
+  "bbox": [
+    -87.727112,
+    41.939201,
+    -87.727112,
+    41.939201
+],
+  "geometry": {"coordinates":[-87.72711200000001,41.939201],"type":"Point"}
 }

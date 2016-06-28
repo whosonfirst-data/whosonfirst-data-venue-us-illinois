@@ -2,13 +2,14 @@
   "id": 270511573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.468706,41.363806,-89.468706,41.363806",
     "geom:latitude":41.363806,
     "geom:longitude":-89.468706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Prairie Ln W",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270511573,
-    "wof:lastmodified":1449009765,
+    "wof:lastmodified":1466496379,
     "wof:name":"Ray Farm Management Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-89.468706,41.363806,-89.468706,41.363806],
+  "bbox": [
+    -89.468706,
+    41.363806,
+    -89.468706,
+    41.363806
+],
   "geometry": {"coordinates":[-89.468706,41.363806],"type":"Point"}
 }

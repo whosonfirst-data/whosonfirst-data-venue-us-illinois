@@ -2,13 +2,14 @@
   "id": 185848171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.602962,39.886821,-89.602962,39.886821",
     "geom:latitude":39.886821,
     "geom:longitude":-89.602962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 S 1st St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185848171,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1466489328,
     "wof:name":"Welander Consulting",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-89.602962,39.886821,-89.602962,39.886821],
-  "geometry": {"coordinates":[-89.602962,39.886821],"type":"Point"}
+  "bbox": [
+    -89.602962,
+    39.886821,
+    -89.602962,
+    39.886821
+],
+  "geometry": {"coordinates":[-89.60296200000001,39.886821],"type":"Point"}
 }

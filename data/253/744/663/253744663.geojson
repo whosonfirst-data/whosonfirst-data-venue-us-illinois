@@ -2,13 +2,14 @@
   "id": 253744663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.400098,39.943027,-91.400098,39.943027",
     "geom:latitude":39.943027,
     "geom:longitude":-91.400098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N 10th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253744663,
-    "wof:lastmodified":1449063894,
+    "wof:lastmodified":1466498050,
     "wof:name":"D & D Corral",
     "wof:parent_id":85867475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-91.400098,39.943027,-91.400098,39.943027],
+  "bbox": [
+    -91.400098,
+    39.943027,
+    -91.400098,
+    39.943027
+],
   "geometry": {"coordinates":[-91.400098,39.943027],"type":"Point"}
 }

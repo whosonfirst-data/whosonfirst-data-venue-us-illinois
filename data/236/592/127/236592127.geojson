@@ -2,13 +2,14 @@
   "id": 236592127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.86329,40.325023,-87.86329,40.325023",
     "geom:latitude":40.325023,
     "geom:longitude":-87.86329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31792 N 420 E Rd",
     "sg:city":"Potomac",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236592127,
-    "wof:lastmodified":1449003563,
+    "wof:lastmodified":1466496304,
     "wof:name":"Ellis Auto Recyclers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-87.86329,40.325023,-87.86329,40.325023],
-  "geometry": {"coordinates":[-87.86329,40.325023],"type":"Point"}
+  "bbox": [
+    -87.86329,
+    40.325023,
+    -87.86329,
+    40.325023
+],
+  "geometry": {"coordinates":[-87.86329000000001,40.325023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203315691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.123708,39.700186,-89.123708,39.700186",
     "geom:latitude":39.700186,
     "geom:longitude":-89.123708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W Niles St",
     "sg:city":"Blue Mound",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203315691,
-    "wof:lastmodified":1449026769,
+    "wof:lastmodified":1466490638,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.123708,39.700186,-89.123708,39.700186],
-  "geometry": {"coordinates":[-89.123708,39.700186],"type":"Point"}
+  "bbox": [
+    -89.123708,
+    39.700186,
+    -89.123708,
+    39.700186
+],
+  "geometry": {"coordinates":[-89.12370799999999,39.700186],"type":"Point"}
 }

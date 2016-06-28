@@ -2,13 +2,14 @@
   "id": 219315027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727003,41.935339,-87.727003,41.935339",
     "geom:latitude":41.935339,
     "geom:longitude":-87.727003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2947 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219315027,
-    "wof:lastmodified":1449073723,
+    "wof:lastmodified":1466490897,
     "wof:name":"Rada Auto Rebuilder",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-87.727003,41.935339,-87.727003,41.935339],
+  "bbox": [
+    -87.727003,
+    41.935339,
+    -87.727003,
+    41.935339
+],
   "geometry": {"coordinates":[-87.727003,41.935339],"type":"Point"}
 }

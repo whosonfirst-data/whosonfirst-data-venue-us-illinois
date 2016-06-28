@@ -2,13 +2,14 @@
   "id": 236509449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.79645,39.08588,-89.79645,39.08588",
     "geom:latitude":39.08588,
     "geom:longitude":-89.79645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Maple St",
     "sg:city":"Benld",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236509449,
-    "wof:lastmodified":1449001781,
+    "wof:lastmodified":1466495500,
     "wof:name":"Adopt-A-Pet Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-89.79645,39.08588,-89.79645,39.08588],
-  "geometry": {"coordinates":[-89.79645,39.08588],"type":"Point"}
+  "bbox": [
+    -89.79645,
+    39.08588,
+    -89.79645,
+    39.08588
+],
+  "geometry": {"coordinates":[-89.79644999999999,39.08588],"type":"Point"}
 }

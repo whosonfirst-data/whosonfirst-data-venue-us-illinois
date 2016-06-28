@@ -2,13 +2,14 @@
   "id": 202593439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.747043,40.763799,-89.747043,40.763799",
     "geom:latitude":40.763799,
     "geom:longitude":-89.747043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6302 N Kickapoo-Edwards Rd",
     "sg:city":"Edwards",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202593439,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466489593,
     "wof:name":"Mark Willi Carpentry",
     "wof:parent_id":85879807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.747043,40.763799,-89.747043,40.763799],
-  "geometry": {"coordinates":[-89.747043,40.763799],"type":"Point"}
+  "bbox": [
+    -89.747043,
+    40.763799,
+    -89.747043,
+    40.763799
+],
+  "geometry": {"coordinates":[-89.74704300000001,40.763799],"type":"Point"}
 }

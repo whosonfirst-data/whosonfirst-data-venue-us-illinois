@@ -2,13 +2,14 @@
   "id": 219183791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.03279,42.339843,-89.03279,42.339843",
     "geom:latitude":42.339843,
     "geom:longitude":-89.03279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Harlem Rd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219183791,
-    "wof:lastmodified":1449072278,
+    "wof:lastmodified":1466489287,
     "wof:name":"Harlem Road Auto Motors",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-89.03279,42.339843,-89.03279,42.339843],
-  "geometry": {"coordinates":[-89.03279,42.339843],"type":"Point"}
+  "bbox": [
+    -89.03279,
+    42.339843,
+    -89.03279,
+    42.339843
+],
+  "geometry": {"coordinates":[-89.03279000000001,42.339843],"type":"Point"}
 }

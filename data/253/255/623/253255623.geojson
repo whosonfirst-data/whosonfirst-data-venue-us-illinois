@@ -2,13 +2,14 @@
   "id": 253255623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060287,38.619527,-90.060287,38.619527",
     "geom:latitude":38.619527,
     "geom:longitude":-90.060287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 N 81st St",
     "sg:city":"Caseyville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253255623,
-    "wof:lastmodified":1449064164,
+    "wof:lastmodified":1466492076,
     "wof:name":"Industrial Engine & Generator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-90.060287,38.619527,-90.060287,38.619527],
+  "bbox": [
+    -90.060287,
+    38.619527,
+    -90.060287,
+    38.619527
+],
   "geometry": {"coordinates":[-90.060287,38.619527],"type":"Point"}
 }

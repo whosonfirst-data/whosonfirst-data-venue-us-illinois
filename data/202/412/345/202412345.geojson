@@ -2,13 +2,14 @@
   "id": 202412345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.7852,41.880033,-87.7852,41.880033",
     "geom:latitude":41.880033,
     "geom:longitude":-87.7852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202412345,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466493351,
     "wof:name":"Cyla Design Associates Inc",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-87.7852,41.880033,-87.7852,41.880033],
+  "bbox": [
+    -87.7852,
+    41.880033,
+    -87.7852,
+    41.880033
+],
   "geometry": {"coordinates":[-87.7852,41.880033],"type":"Point"}
 }

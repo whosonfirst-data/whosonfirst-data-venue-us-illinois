@@ -2,13 +2,14 @@
   "id": 286919525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.456393,42.339564,-89.456393,42.339564",
     "geom:latitude":42.339564,
     "geom:longitude":-89.456393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 N Kinney Rd",
     "sg:city":"Savanna",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286919525,
-    "wof:lastmodified":1449017410,
+    "wof:lastmodified":1466498176,
     "wof:name":"Riverpoint Railroad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.456393,42.339564,-89.456393,42.339564],
-  "geometry": {"coordinates":[-89.456393,42.339564],"type":"Point"}
+  "bbox": [
+    -89.456393,
+    42.339564,
+    -89.456393,
+    42.339564
+],
+  "geometry": {"coordinates":[-89.45639300000001,42.339564],"type":"Point"}
 }

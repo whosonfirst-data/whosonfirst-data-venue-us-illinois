@@ -2,13 +2,14 @@
   "id": 202950375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240102,40.116322,-88.240102,40.116322",
     "geom:latitude":40.116322,
     "geom:longitude":-88.240102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E University Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202950375,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466493776,
     "wof:name":"Amtrak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.240102,40.116322,-88.240102,40.116322],
-  "geometry": {"coordinates":[-88.240102,40.116322],"type":"Point"}
+  "bbox": [
+    -88.240102,
+    40.116322,
+    -88.240102,
+    40.116322
+],
+  "geometry": {"coordinates":[-88.24010199999999,40.116322],"type":"Point"}
 }

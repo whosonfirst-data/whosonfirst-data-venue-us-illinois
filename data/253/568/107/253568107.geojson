@@ -2,13 +2,14 @@
   "id": 253568107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.413497,40.42029,-89.413497,40.42029",
     "geom:latitude":40.42029,
     "geom:longitude":-89.413497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 NW Main St",
     "sg:city":"Hopedale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253568107,
-    "wof:lastmodified":1449062759,
+    "wof:lastmodified":1466496737,
     "wof:name":"Froggy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-89.413497,40.42029,-89.413497,40.42029],
-  "geometry": {"coordinates":[-89.413497,40.42029],"type":"Point"}
+  "bbox": [
+    -89.413497,
+    40.42029,
+    -89.413497,
+    40.42029
+],
+  "geometry": {"coordinates":[-89.41349700000001,40.42029],"type":"Point"}
 }

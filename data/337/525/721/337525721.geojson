@@ -2,13 +2,14 @@
   "id": 337525721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.790365,41.843375,-87.790365,41.843375",
     "geom:latitude":41.843375,
     "geom:longitude":-87.790365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6643 26th St",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337525721,
-    "wof:lastmodified":1449027584,
+    "wof:lastmodified":1466492594,
     "wof:name":"Millers Place",
     "wof:parent_id":85890741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.790365,41.843375,-87.790365,41.843375],
-  "geometry": {"coordinates":[-87.790365,41.843375],"type":"Point"}
+  "bbox": [
+    -87.790365,
+    41.843375,
+    -87.790365,
+    41.843375
+],
+  "geometry": {"coordinates":[-87.79036499999999,41.843375],"type":"Point"}
 }

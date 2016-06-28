@@ -2,13 +2,14 @@
   "id": 185868119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.607745,39.778025,-89.607745,39.778025",
     "geom:latitude":39.778025,
     "geom:longitude":-89.607745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 S Dirksen Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185868119,
-    "wof:lastmodified":1449006648,
+    "wof:lastmodified":1466489554,
     "wof:name":"County Of Sangamon",
     "wof:parent_id":85850297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government-county"
     ]
 },
-  "bbox": [-89.607745,39.778025,-89.607745,39.778025],
-  "geometry": {"coordinates":[-89.607745,39.778025],"type":"Point"}
+  "bbox": [
+    -89.607745,
+    39.778025,
+    -89.607745,
+    39.778025
+],
+  "geometry": {"coordinates":[-89.60774499999999,39.778025],"type":"Point"}
 }

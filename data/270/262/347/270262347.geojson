@@ -2,13 +2,14 @@
   "id": 270262347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.329343,41.763501,-88.329343,41.763501",
     "geom:latitude":41.763501,
     "geom:longitude":-88.329343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Highland Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":270262347,
-    "wof:lastmodified":1449010156,
+    "wof:lastmodified":1466493010,
     "wof:name":"Chuck's Automotive Diagnostic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-88.329343,41.763501,-88.329343,41.763501],
-  "geometry": {"coordinates":[-88.329343,41.763501],"type":"Point"}
+  "bbox": [
+    -88.329343,
+    41.763501,
+    -88.329343,
+    41.763501
+],
+  "geometry": {"coordinates":[-88.32934299999999,41.763501],"type":"Point"}
 }

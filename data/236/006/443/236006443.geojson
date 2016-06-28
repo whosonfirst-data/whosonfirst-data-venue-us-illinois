@@ -2,13 +2,14 @@
   "id": 236006443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.027615,41.861194,-88.027615,41.861194",
     "geom:latitude":41.861194,
     "geom:longitude":-88.027615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Old Bond Ct",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236006443,
-    "wof:lastmodified":1449004477,
+    "wof:lastmodified":1466489033,
     "wof:name":"Ambassador Monthly Suites",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.027615,41.861194,-88.027615,41.861194],
+  "bbox": [
+    -88.027615,
+    41.861194,
+    -88.027615,
+    41.861194
+],
   "geometry": {"coordinates":[-88.027615,41.861194],"type":"Point"}
 }

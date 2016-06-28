@@ -2,13 +2,14 @@
   "id": 286625539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.780857,41.879685,-87.780857,41.879685",
     "geom:latitude":41.879685,
     "geom:longitude":-87.780857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S Harvey Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286625539,
-    "wof:lastmodified":1449018134,
+    "wof:lastmodified":1466495600,
     "wof:name":"Aquamax Laser Display",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laser"
     ]
 },
-  "bbox": [-87.780857,41.879685,-87.780857,41.879685],
+  "bbox": [
+    -87.780857,
+    41.879685,
+    -87.780857,
+    41.879685
+],
   "geometry": {"coordinates":[-87.780857,41.879685],"type":"Point"}
 }

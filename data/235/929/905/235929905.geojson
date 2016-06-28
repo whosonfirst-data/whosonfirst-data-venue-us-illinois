@@ -2,13 +2,14 @@
   "id": 235929905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.34386,41.752288,-88.34386,41.752288",
     "geom:latitude":41.752288,
     "geom:longitude":-88.34386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Prairie St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":235929905,
-    "wof:lastmodified":1449008386,
+    "wof:lastmodified":1466495625,
     "wof:name":"Re/Max Town & Country",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.34386,41.752288,-88.34386,41.752288],
-  "geometry": {"coordinates":[-88.34386,41.752288],"type":"Point"}
+  "bbox": [
+    -88.34386,
+    41.752288,
+    -88.34386,
+    41.752288
+],
+  "geometry": {"coordinates":[-88.34386000000001,41.752288],"type":"Point"}
 }

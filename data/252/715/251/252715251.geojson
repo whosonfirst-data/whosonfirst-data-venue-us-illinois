@@ -2,13 +2,14 @@
   "id": 252715251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.416958,41.360339,-88.416958,41.360339",
     "geom:latitude":41.360339,
     "geom:longitude":-88.416958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Jackson St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252715251,
-    "wof:lastmodified":1449006279,
+    "wof:lastmodified":1466489083,
     "wof:name":"Immaculate Conception Church",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.416958,41.360339,-88.416958,41.360339],
-  "geometry": {"coordinates":[-88.416958,41.360339],"type":"Point"}
+  "bbox": [
+    -88.416958,
+    41.360339,
+    -88.416958,
+    41.360339
+],
+  "geometry": {"coordinates":[-88.41695799999999,41.360339],"type":"Point"}
 }

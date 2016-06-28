@@ -2,13 +2,14 @@
   "id": 202886133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030864,41.992596,-88.030864,41.992596",
     "geom:latitude":41.992596,
     "geom:longitude":-88.030864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1166 W Devon Ave",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202886133,
-    "wof:lastmodified":1449061510,
+    "wof:lastmodified":1466493013,
     "wof:name":"Antiques Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.030864,41.992596,-88.030864,41.992596],
-  "geometry": {"coordinates":[-88.030864,41.992596],"type":"Point"}
+  "bbox": [
+    -88.030864,
+    41.992596,
+    -88.030864,
+    41.992596
+],
+  "geometry": {"coordinates":[-88.03086399999999,41.992596],"type":"Point"}
 }

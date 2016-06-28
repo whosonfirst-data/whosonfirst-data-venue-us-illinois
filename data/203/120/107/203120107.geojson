@@ -2,13 +2,14 @@
   "id": 203120107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.251004,37.730365,-89.251004,37.730365",
     "geom:latitude":37.730365,
     "geom:longitude":-89.251004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Parrish Ln",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203120107,
-    "wof:lastmodified":1449026582,
+    "wof:lastmodified":1466495072,
     "wof:name":"Unitarian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.251004,37.730365,-89.251004,37.730365],
-  "geometry": {"coordinates":[-89.251004,37.730365],"type":"Point"}
+  "bbox": [
+    -89.251004,
+    37.730365,
+    -89.251004,
+    37.730365
+],
+  "geometry": {"coordinates":[-89.25100399999999,37.730365],"type":"Point"}
 }

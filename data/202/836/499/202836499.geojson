@@ -2,13 +2,14 @@
   "id": 202836499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798646,41.852604,-87.798646,41.852604",
     "geom:latitude":41.852604,
     "geom:longitude":-87.798646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Home Ave",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202836499,
-    "wof:lastmodified":1449061759,
+    "wof:lastmodified":1466492414,
     "wof:name":"24 Hour Towing Svc",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-87.798646,41.852604,-87.798646,41.852604],
-  "geometry": {"coordinates":[-87.798646,41.852604],"type":"Point"}
+  "bbox": [
+    -87.798646,
+    41.852604,
+    -87.798646,
+    41.852604
+],
+  "geometry": {"coordinates":[-87.79864600000001,41.852604],"type":"Point"}
 }

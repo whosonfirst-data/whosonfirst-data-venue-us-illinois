@@ -2,13 +2,14 @@
   "id": 252776129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.819319,41.879346,-87.819319,41.879346",
     "geom:latitude":41.879346,
     "geom:longitude":-87.819319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7820 Madison St",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252776129,
-    "wof:lastmodified":1449005663,
+    "wof:lastmodified":1466489865,
     "wof:name":"Hines Lumber",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.819319,41.879346,-87.819319,41.879346],
-  "geometry": {"coordinates":[-87.819319,41.879346],"type":"Point"}
+  "bbox": [
+    -87.819319,
+    41.879346,
+    -87.819319,
+    41.879346
+],
+  "geometry": {"coordinates":[-87.81931899999999,41.879346],"type":"Point"}
 }

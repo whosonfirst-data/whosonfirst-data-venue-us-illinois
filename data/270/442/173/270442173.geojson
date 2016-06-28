@@ -2,13 +2,14 @@
   "id": 270442173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.864201,41.11925,-87.864201,41.11925",
     "geom:latitude":41.11925,
     "geom:longitude":-87.864201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Schuyler Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270442173,
-    "wof:lastmodified":1449009710,
+    "wof:lastmodified":1466495716,
     "wof:name":"Kankakee Valley Adult Reading",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-87.864201,41.11925,-87.864201,41.11925],
-  "geometry": {"coordinates":[-87.864201,41.11925],"type":"Point"}
+  "bbox": [
+    -87.864201,
+    41.11925,
+    -87.864201,
+    41.11925
+],
+  "geometry": {"coordinates":[-87.86420099999999,41.11925],"type":"Point"}
 }

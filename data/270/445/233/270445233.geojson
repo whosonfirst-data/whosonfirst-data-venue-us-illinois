@@ -2,13 +2,14 @@
   "id": 270445233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.87192,40.766518,-88.87192,40.766518",
     "geom:latitude":40.766518,
     "geom:longitude":-88.87192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9966 N 300 E Rd",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270445233,
-    "wof:lastmodified":1449008972,
+    "wof:lastmodified":1466495901,
     "wof:name":"David Wettstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.87192,40.766518,-88.87192,40.766518],
+  "bbox": [
+    -88.87192,
+    40.766518,
+    -88.87192,
+    40.766518
+],
   "geometry": {"coordinates":[-88.87192,40.766518],"type":"Point"}
 }

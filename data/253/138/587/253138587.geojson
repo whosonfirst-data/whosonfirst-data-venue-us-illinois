@@ -2,13 +2,14 @@
   "id": 253138587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08056,41.647163,-88.08056,41.647163",
     "geom:latitude":41.647163,
     "geom:longitude":-88.08056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Independence Blvd",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253138587,
-    "wof:lastmodified":1449063666,
+    "wof:lastmodified":1466490659,
     "wof:name":"RETURN Ministry",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.08056,41.647163,-88.08056,41.647163],
-  "geometry": {"coordinates":[-88.08056,41.647163],"type":"Point"}
+  "bbox": [
+    -88.08056,
+    41.647163,
+    -88.08056,
+    41.647163
+],
+  "geometry": {"coordinates":[-88.08056000000001,41.647163],"type":"Point"}
 }

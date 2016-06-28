@@ -2,13 +2,14 @@
   "id": 202767769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.59633,40.14629,-87.59633,40.14629",
     "geom:latitude":40.14629,
     "geom:longitude":-87.59633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Koehn Dr",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202767769,
-    "wof:lastmodified":1449060850,
+    "wof:lastmodified":1466491571,
     "wof:name":"Lowenstein Trucking",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.59633,40.14629,-87.59633,40.14629],
-  "geometry": {"coordinates":[-87.59633,40.14629],"type":"Point"}
+  "bbox": [
+    -87.59633,
+    40.14629,
+    -87.59633,
+    40.14629
+],
+  "geometry": {"coordinates":[-87.59632999999999,40.14629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220000123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.863692,41.120957,-87.863692,41.120957",
     "geom:latitude":41.120957,
     "geom:longitude":-87.863692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Schuyler Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220000123,
-    "wof:lastmodified":1449074164,
+    "wof:lastmodified":1466488945,
     "wof:name":"Coffee Suite",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-87.863692,41.120957,-87.863692,41.120957],
+  "bbox": [
+    -87.863692,
+    41.120957,
+    -87.863692,
+    41.120957
+],
   "geometry": {"coordinates":[-87.863692,41.120957],"type":"Point"}
 }

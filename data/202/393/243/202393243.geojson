@@ -2,13 +2,14 @@
   "id": 202393243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.244948,37.467752,-89.244948,37.467752",
     "geom:latitude":37.467752,
     "geom:longitude":-89.244948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Main St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202393243,
-    "wof:lastmodified":1449060902,
+    "wof:lastmodified":1466492248,
     "wof:name":"Fellowship House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-89.244948,37.467752,-89.244948,37.467752],
-  "geometry": {"coordinates":[-89.244948,37.467752],"type":"Point"}
+  "bbox": [
+    -89.244948,
+    37.467752,
+    -89.244948,
+    37.467752
+],
+  "geometry": {"coordinates":[-89.24494799999999,37.467752],"type":"Point"}
 }

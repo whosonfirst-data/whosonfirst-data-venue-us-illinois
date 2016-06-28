@@ -2,13 +2,14 @@
   "id": 303099477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.144373,41.458183,-90.144373,41.458183",
     "geom:latitude":41.458183,
     "geom:longitude":-90.144373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 E Wells St",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303099477,
-    "wof:lastmodified":1448999708,
+    "wof:lastmodified":1466491390,
     "wof:name":"Maple City Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-90.144373,41.458183,-90.144373,41.458183],
+  "bbox": [
+    -90.144373,
+    41.458183,
+    -90.144373,
+    41.458183
+],
   "geometry": {"coordinates":[-90.144373,41.458183],"type":"Point"}
 }

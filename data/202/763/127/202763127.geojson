@@ -2,13 +2,14 @@
   "id": 202763127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054833,41.539409,-88.054833,41.539409",
     "geom:latitude":41.539409,
     "geom:longitude":-88.054833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Draper Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202763127,
-    "wof:lastmodified":1449062637,
+    "wof:lastmodified":1466491518,
     "wof:name":"Hytech Coatings",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-88.054833,41.539409,-88.054833,41.539409],
+  "bbox": [
+    -88.054833,
+    41.539409,
+    -88.054833,
+    41.539409
+],
   "geometry": {"coordinates":[-88.054833,41.539409],"type":"Point"}
 }

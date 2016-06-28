@@ -2,13 +2,14 @@
   "id": 186020733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.078321,37.745325,-89.078321,37.745325",
     "geom:latitude":37.745325,
     "geom:longitude":-89.078321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Plaza Dr Ste B",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186020733,
-    "wof:lastmodified":1449051629,
+    "wof:lastmodified":1466493337,
     "wof:name":"Cablelink Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.078321,37.745325,-89.078321,37.745325],
+  "bbox": [
+    -89.078321,
+    37.745325,
+    -89.078321,
+    37.745325
+],
   "geometry": {"coordinates":[-89.078321,37.745325],"type":"Point"}
 }

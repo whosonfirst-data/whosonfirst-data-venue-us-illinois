@@ -2,13 +2,14 @@
   "id": 303198533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.62742,41.585204,-87.62742,41.585204",
     "geom:latitude":41.585204,
     "geom:longitude":-87.62742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17021 Canal St",
     "sg:city":"Thornton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303198533,
-    "wof:lastmodified":1448999005,
+    "wof:lastmodified":1466493013,
     "wof:name":"Excel Direct",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-87.62742,41.585204,-87.62742,41.585204],
+  "bbox": [
+    -87.62742,
+    41.585204,
+    -87.62742,
+    41.585204
+],
   "geometry": {"coordinates":[-87.62742,41.585204],"type":"Point"}
 }

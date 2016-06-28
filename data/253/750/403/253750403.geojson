@@ -2,13 +2,14 @@
   "id": 253750403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.17624,39.498111,-88.17624,39.498111",
     "geom:latitude":39.498111,
     "geom:longitude":-88.17624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 6th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253750403,
-    "wof:lastmodified":1449064589,
+    "wof:lastmodified":1466497898,
     "wof:name":"Merry Lichtenberger Ms Lcpc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-88.17624,39.498111,-88.17624,39.498111],
-  "geometry": {"coordinates":[-88.17624,39.498111],"type":"Point"}
+  "bbox": [
+    -88.17624,
+    39.498111,
+    -88.17624,
+    39.498111
+],
+  "geometry": {"coordinates":[-88.17624000000001,39.498111],"type":"Point"}
 }

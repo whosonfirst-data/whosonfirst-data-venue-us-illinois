@@ -2,13 +2,14 @@
   "id": 252771047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.219545,40.132442,-88.219545,40.132442",
     "geom:latitude":40.132442,
     "geom:longitude":-88.219545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Lincoln Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252771047,
-    "wof:lastmodified":1449006002,
+    "wof:lastmodified":1466489803,
     "wof:name":"Connor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.219545,40.132442,-88.219545,40.132442],
+  "bbox": [
+    -88.219545,
+    40.132442,
+    -88.219545,
+    40.132442
+],
   "geometry": {"coordinates":[-88.219545,40.132442],"type":"Point"}
 }

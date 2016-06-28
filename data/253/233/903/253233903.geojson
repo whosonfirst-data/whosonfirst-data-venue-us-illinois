@@ -2,13 +2,14 @@
   "id": 253233903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.53678,41.895525,-88.53678,41.895525",
     "geom:latitude":41.895525,
     "geom:longitude":-88.53678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 State Rte 38",
     "sg:city":"Maple Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253233903,
-    "wof:lastmodified":1449065847,
+    "wof:lastmodified":1466491779,
     "wof:name":"George Kay & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.53678,41.895525,-88.53678,41.895525],
-  "geometry": {"coordinates":[-88.53678,41.895525],"type":"Point"}
+  "bbox": [
+    -88.53678,
+    41.895525,
+    -88.53678,
+    41.895525
+],
+  "geometry": {"coordinates":[-88.53677999999999,41.895525],"type":"Point"}
 }

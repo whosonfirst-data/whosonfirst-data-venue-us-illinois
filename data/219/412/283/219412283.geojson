@@ -2,13 +2,14 @@
   "id": 219412283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.475091,41.826002,-89.475091,41.826002",
     "geom:latitude":41.826002,
     "geom:longitude":-89.475091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 S Galena Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219412283,
-    "wof:lastmodified":1449071114,
+    "wof:lastmodified":1466492120,
     "wof:name":"E & M Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.475091,41.826002,-89.475091,41.826002],
-  "geometry": {"coordinates":[-89.475091,41.826002],"type":"Point"}
+  "bbox": [
+    -89.475091,
+    41.826002,
+    -89.475091,
+    41.826002
+],
+  "geometry": {"coordinates":[-89.47509100000001,41.826002],"type":"Point"}
 }

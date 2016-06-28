@@ -2,13 +2,14 @@
   "id": 202393699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.823911,41.355993,-88.823911,41.355993",
     "geom:latitude":41.355993,
     "geom:longitude":-88.823911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Norris Dr",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202393699,
-    "wof:lastmodified":1449060901,
+    "wof:lastmodified":1466492253,
     "wof:name":"Ottawa Diagnostic Scanning Svc",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "x"
     ]
 },
-  "bbox": [-88.823911,41.355993,-88.823911,41.355993],
+  "bbox": [
+    -88.823911,
+    41.355993,
+    -88.823911,
+    41.355993
+],
   "geometry": {"coordinates":[-88.823911,41.355993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236001027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.446977,41.489827,-90.446977,41.489827",
     "geom:latitude":41.489827,
     "geom:longitude":-90.446977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 42nd Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236001027,
-    "wof:lastmodified":1449002241,
+    "wof:lastmodified":1466488963,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-90.446977,41.489827,-90.446977,41.489827],
+  "bbox": [
+    -90.446977,
+    41.489827,
+    -90.446977,
+    41.489827
+],
   "geometry": {"coordinates":[-90.446977,41.489827],"type":"Point"}
 }

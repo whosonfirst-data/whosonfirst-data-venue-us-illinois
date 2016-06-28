@@ -2,13 +2,14 @@
   "id": 236520379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.621625,39.934708,-89.621625,39.934708",
     "geom:latitude":39.934708,
     "geom:longitude":-89.621625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9865 State Rte 124",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236520379,
-    "wof:lastmodified":1449002592,
+    "wof:lastmodified":1466495649,
     "wof:name":"Voepel & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-89.621625,39.934708,-89.621625,39.934708],
-  "geometry": {"coordinates":[-89.621625,39.934708],"type":"Point"}
+  "bbox": [
+    -89.621625,
+    39.934708,
+    -89.621625,
+    39.934708
+],
+  "geometry": {"coordinates":[-89.62162499999999,39.934708],"type":"Point"}
 }

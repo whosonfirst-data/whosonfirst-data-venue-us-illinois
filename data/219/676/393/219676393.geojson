@@ -2,13 +2,14 @@
   "id": 219676393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.35541,41.110439,-89.35541,41.110439",
     "geom:latitude":41.110439,
     "geom:longitude":-89.35541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Edward St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219676393,
-    "wof:lastmodified":1449072644,
+    "wof:lastmodified":1466495249,
     "wof:name":"William Wagner DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-89.35541,41.110439,-89.35541,41.110439],
-  "geometry": {"coordinates":[-89.35541,41.110439],"type":"Point"}
+  "bbox": [
+    -89.35541,
+    41.110439,
+    -89.35541,
+    41.110439
+],
+  "geometry": {"coordinates":[-89.35541000000001,41.110439],"type":"Point"}
 }

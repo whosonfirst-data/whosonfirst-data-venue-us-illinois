@@ -2,13 +2,14 @@
   "id": 287264863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.746042,41.661609,-87.746042,41.661609",
     "geom:latitude":41.661609,
     "geom:longitude":-87.746042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12560 S Holiday Dr",
     "sg:city":"Alsip",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287264863,
-    "wof:lastmodified":1449001261,
+    "wof:lastmodified":1466494204,
     "wof:name":"Transportation Dev Corp",
     "wof:parent_id":85890723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.746042,41.661609,-87.746042,41.661609],
+  "bbox": [
+    -87.746042,
+    41.661609,
+    -87.746042,
+    41.661609
+],
   "geometry": {"coordinates":[-87.746042,41.661609],"type":"Point"}
 }

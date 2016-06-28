@@ -2,13 +2,14 @@
   "id": 185884633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.74501,39.799091,-89.74501,39.799091",
     "geom:latitude":39.799091,
     "geom:longitude":-89.74501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Oakwood Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185884633,
-    "wof:lastmodified":1449007916,
+    "wof:lastmodified":1466489787,
     "wof:name":"Oakwood House Interiors",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "decorator"
     ]
 },
-  "bbox": [-89.74501,39.799091,-89.74501,39.799091],
-  "geometry": {"coordinates":[-89.74501,39.799091],"type":"Point"}
+  "bbox": [
+    -89.74501,
+    39.799091,
+    -89.74501,
+    39.799091
+],
+  "geometry": {"coordinates":[-89.74500999999999,39.799091],"type":"Point"}
 }

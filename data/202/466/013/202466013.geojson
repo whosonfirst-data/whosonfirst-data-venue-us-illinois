@@ -2,13 +2,14 @@
   "id": 202466013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147747,41.309292,-88.147747,41.309292",
     "geom:latitude":41.309292,
     "geom:longitude":-88.147747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Water St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202466013,
-    "wof:lastmodified":1449060873,
+    "wof:lastmodified":1466495741,
     "wof:name":"Cycle Werks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.147747,41.309292,-88.147747,41.309292],
+  "bbox": [
+    -88.147747,
+    41.309292,
+    -88.147747,
+    41.309292
+],
   "geometry": {"coordinates":[-88.147747,41.309292],"type":"Point"}
 }

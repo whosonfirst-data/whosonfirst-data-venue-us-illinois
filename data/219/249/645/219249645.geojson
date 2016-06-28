@@ -2,13 +2,14 @@
   "id": 219249645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.67356,41.522842,-87.67356,41.522842",
     "geom:latitude":41.522842,
     "geom:longitude":-87.67356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Graymoor Ln",
     "sg:city":"Olympia Fields",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219249645,
-    "wof:lastmodified":1449070557,
+    "wof:lastmodified":1466490090,
     "wof:name":"Foresight Notary",
     "wof:parent_id":85868891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-87.67356,41.522842,-87.67356,41.522842],
-  "geometry": {"coordinates":[-87.67356,41.522842],"type":"Point"}
+  "bbox": [
+    -87.67356,
+    41.522842,
+    -87.67356,
+    41.522842
+],
+  "geometry": {"coordinates":[-87.67355999999999,41.522842],"type":"Point"}
 }

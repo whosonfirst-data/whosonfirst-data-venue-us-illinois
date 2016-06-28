@@ -2,13 +2,14 @@
   "id": 286802645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.820045,38.494022,-89.820045,38.494022",
     "geom:latitude":38.494022,
     "geom:longitude":-89.820045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 W Main St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286802645,
-    "wof:lastmodified":1449017568,
+    "wof:lastmodified":1466497244,
     "wof:name":"Dental Care of Mascoutah",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.820045,38.494022,-89.820045,38.494022],
-  "geometry": {"coordinates":[-89.820045,38.494022],"type":"Point"}
+  "bbox": [
+    -89.820045,
+    38.494022,
+    -89.820045,
+    38.494022
+],
+  "geometry": {"coordinates":[-89.82004499999999,38.494022],"type":"Point"}
 }

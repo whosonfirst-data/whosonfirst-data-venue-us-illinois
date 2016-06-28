@@ -2,13 +2,14 @@
   "id": 236440985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.564323,39.125083,-88.564323,39.125083",
     "geom:latitude":39.125083,
     "geom:longitude":-88.564323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 N Lakewood Dr",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236440985,
-    "wof:lastmodified":1449002687,
+    "wof:lastmodified":1466494615,
     "wof:name":"Effingham Health & Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-88.564323,39.125083,-88.564323,39.125083],
+  "bbox": [
+    -88.564323,
+    39.125083,
+    -88.564323,
+    39.125083
+],
   "geometry": {"coordinates":[-88.564323,39.125083],"type":"Point"}
 }

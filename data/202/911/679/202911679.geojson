@@ -2,13 +2,14 @@
   "id": 202911679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192631,41.305692,-90.192631,41.305692",
     "geom:latitude":41.305692,
     "geom:longitude":-90.192631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Railroad St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202911679,
-    "wof:lastmodified":1449062246,
+    "wof:lastmodified":1466493314,
     "wof:name":"Cambridge Pattern Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maker"
     ]
 },
-  "bbox": [-90.192631,41.305692,-90.192631,41.305692],
-  "geometry": {"coordinates":[-90.192631,41.305692],"type":"Point"}
+  "bbox": [
+    -90.192631,
+    41.305692,
+    -90.192631,
+    41.305692
+],
+  "geometry": {"coordinates":[-90.19263100000001,41.305692],"type":"Point"}
 }

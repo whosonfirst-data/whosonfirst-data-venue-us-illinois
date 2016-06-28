@@ -2,13 +2,14 @@
   "id": 202816769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.100529,41.974064,-90.100529,41.974064",
     "geom:latitude":41.974064,
     "geom:longitude":-90.100529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10620 Sandburr Ct",
     "sg:city":"Thomson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202816769,
-    "wof:lastmodified":1449061594,
+    "wof:lastmodified":1466492154,
     "wof:name":"Holm Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-90.100529,41.974064,-90.100529,41.974064],
-  "geometry": {"coordinates":[-90.100529,41.974064],"type":"Point"}
+  "bbox": [
+    -90.100529,
+    41.974064,
+    -90.100529,
+    41.974064
+],
+  "geometry": {"coordinates":[-90.10052899999999,41.974064],"type":"Point"}
 }

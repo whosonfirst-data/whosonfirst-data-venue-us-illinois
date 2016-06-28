@@ -2,13 +2,14 @@
   "id": 253530591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.687377,41.916219,-87.687377,41.916219",
     "geom:latitude":41.916219,
     "geom:longitude":-87.687377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 N Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253530591,
-    "wof:lastmodified":1449064402,
+    "wof:lastmodified":1466496068,
     "wof:name":"Chicago Locks Smith",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-87.687377,41.916219,-87.687377,41.916219],
+  "bbox": [
+    -87.687377,
+    41.916219,
+    -87.687377,
+    41.916219
+],
   "geometry": {"coordinates":[-87.687377,41.916219],"type":"Point"}
 }

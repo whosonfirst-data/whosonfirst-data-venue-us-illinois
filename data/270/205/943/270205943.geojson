@@ -2,13 +2,14 @@
   "id": 270205943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799389,41.899756,-87.799389,41.899756",
     "geom:latitude":41.899756,
     "geom:longitude":-87.799389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Woodbine Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270205943,
-    "wof:lastmodified":1449010108,
+    "wof:lastmodified":1466492126,
     "wof:name":"Communications Programming Inc",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-87.799389,41.899756,-87.799389,41.899756],
-  "geometry": {"coordinates":[-87.799389,41.899756],"type":"Point"}
+  "bbox": [
+    -87.799389,
+    41.899756,
+    -87.799389,
+    41.899756
+],
+  "geometry": {"coordinates":[-87.79938900000001,41.899756],"type":"Point"}
 }

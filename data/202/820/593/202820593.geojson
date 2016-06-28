@@ -2,13 +2,14 @@
   "id": 202820593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.353518,40.160232,-89.353518,40.160232",
     "geom:latitude":40.160232,
     "geom:longitude":-89.353518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Yosemite Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202820593,
-    "wof:lastmodified":1449061431,
+    "wof:lastmodified":1466492202,
     "wof:name":"Summers Custom Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-89.353518,40.160232,-89.353518,40.160232],
-  "geometry": {"coordinates":[-89.353518,40.160232],"type":"Point"}
+  "bbox": [
+    -89.353518,
+    40.160232,
+    -89.353518,
+    40.160232
+],
+  "geometry": {"coordinates":[-89.35351799999999,40.160232],"type":"Point"}
 }

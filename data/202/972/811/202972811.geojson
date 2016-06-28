@@ -2,13 +2,14 @@
   "id": 202972811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100885,41.537843,-88.100885,41.537843",
     "geom:latitude":41.537843,
     "geom:longitude":-88.100885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Ruby St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202972811,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466494053,
     "wof:name":"Thirty Bucks",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.100885,41.537843,-88.100885,41.537843],
-  "geometry": {"coordinates":[-88.100885,41.537843],"type":"Point"}
+  "bbox": [
+    -88.100885,
+    41.537843,
+    -88.100885,
+    41.537843
+],
+  "geometry": {"coordinates":[-88.10088500000001,41.537843],"type":"Point"}
 }

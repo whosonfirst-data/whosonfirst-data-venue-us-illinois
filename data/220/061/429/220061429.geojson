@@ -2,13 +2,14 @@
   "id": 220061429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.056812,42.315905,-89.056812,42.315905",
     "geom:latitude":42.315905,
     "geom:longitude":-89.056812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5619 Jensen Dr",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220061429,
-    "wof:lastmodified":1449074635,
+    "wof:lastmodified":1466489701,
     "wof:name":"Park Tire & Auto Svc Ctr",
     "wof:parent_id":85880429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.056812,42.315905,-89.056812,42.315905],
-  "geometry": {"coordinates":[-89.056812,42.315905],"type":"Point"}
+  "bbox": [
+    -89.056812,
+    42.315905,
+    -89.056812,
+    42.315905
+],
+  "geometry": {"coordinates":[-89.05681199999999,42.315905],"type":"Point"}
 }

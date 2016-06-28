@@ -2,13 +2,14 @@
   "id": 253720105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.632616,40.940344,-89.632616,40.940344",
     "geom:latitude":40.940344,
     "geom:longitude":-89.632616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 W Main St",
     "sg:city":"Edelstein",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253720105,
-    "wof:lastmodified":1449063523,
+    "wof:lastmodified":1466497776,
     "wof:name":"Hub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ballroom"
     ]
 },
-  "bbox": [-89.632616,40.940344,-89.632616,40.940344],
+  "bbox": [
+    -89.632616,
+    40.940344,
+    -89.632616,
+    40.940344
+],
   "geometry": {"coordinates":[-89.632616,40.940344],"type":"Point"}
 }

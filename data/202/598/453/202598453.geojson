@@ -2,13 +2,14 @@
   "id": 202598453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.466952,41.368004,-89.466952,41.368004",
     "geom:latitude":41.368004,
     "geom:longitude":-89.466952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Park Ave W",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202598453,
-    "wof:lastmodified":1449060235,
+    "wof:lastmodified":1466489648,
     "wof:name":"Firm Bowman Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.466952,41.368004,-89.466952,41.368004],
-  "geometry": {"coordinates":[-89.466952,41.368004],"type":"Point"}
+  "bbox": [
+    -89.466952,
+    41.368004,
+    -89.466952,
+    41.368004
+],
+  "geometry": {"coordinates":[-89.46695200000001,41.368004],"type":"Point"}
 }

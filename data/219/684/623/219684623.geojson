@@ -2,13 +2,14 @@
   "id": 219684623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.15124,41.439453,-90.15124,41.439453",
     "geom:latitude":41.439453,
     "geom:longitude":-90.15124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 US Hwy 6 E",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219684623,
-    "wof:lastmodified":1449071276,
+    "wof:lastmodified":1466495349,
     "wof:name":"Travelers Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.15124,41.439453,-90.15124,41.439453],
+  "bbox": [
+    -90.15124,
+    41.439453,
+    -90.15124,
+    41.439453
+],
   "geometry": {"coordinates":[-90.15124,41.439453],"type":"Point"}
 }

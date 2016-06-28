@@ -2,13 +2,14 @@
   "id": 236733909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.319617,41.785281,-88.319617,41.785281",
     "geom:latitude":41.785281,
     "geom:longitude":-88.319617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 N Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236733909,
-    "wof:lastmodified":1449002020,
+    "wof:lastmodified":1466497481,
     "wof:name":"Spherion Corporation",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.319617,41.785281,-88.319617,41.785281],
-  "geometry": {"coordinates":[-88.319617,41.785281],"type":"Point"}
+  "bbox": [
+    -88.319617,
+    41.785281,
+    -88.319617,
+    41.785281
+],
+  "geometry": {"coordinates":[-88.31961699999999,41.785281],"type":"Point"}
 }

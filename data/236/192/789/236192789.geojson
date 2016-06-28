@@ -2,13 +2,14 @@
   "id": 236192789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.741029,41.898854,-87.741029,41.898854",
     "geom:latitude":41.898854,
     "geom:longitude":-87.741029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 W Augusta Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236192789,
-    "wof:lastmodified":1449004086,
+    "wof:lastmodified":1466491332,
     "wof:name":"Coster Towing",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-87.741029,41.898854,-87.741029,41.898854],
+  "bbox": [
+    -87.741029,
+    41.898854,
+    -87.741029,
+    41.898854
+],
   "geometry": {"coordinates":[-87.741029,41.898854],"type":"Point"}
 }

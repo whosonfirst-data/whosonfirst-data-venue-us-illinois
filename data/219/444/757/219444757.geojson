@@ -2,13 +2,14 @@
   "id": 219444757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.630069,40.13277,-87.630069,40.13277",
     "geom:latitude":40.13277,
     "geom:longitude":-87.630069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 N Vermilion St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219444757,
-    "wof:lastmodified":1449073431,
+    "wof:lastmodified":1466492515,
     "wof:name":"Bob's Marathon",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.630069,40.13277,-87.630069,40.13277],
-  "geometry": {"coordinates":[-87.630069,40.13277],"type":"Point"}
+  "bbox": [
+    -87.630069,
+    40.13277,
+    -87.630069,
+    40.13277
+],
+  "geometry": {"coordinates":[-87.63006900000001,40.13277],"type":"Point"}
 }

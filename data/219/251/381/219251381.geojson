@@ -2,13 +2,14 @@
   "id": 219251381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.351143,41.838671,-88.351143,41.838671",
     "geom:latitude":41.838671,
     "geom:longitude":-88.351143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2568 Kane Ln",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219251381,
-    "wof:lastmodified":1449070433,
+    "wof:lastmodified":1466490110,
     "wof:name":"Reese Custom Residences",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "builder"
     ]
 },
-  "bbox": [-88.351143,41.838671,-88.351143,41.838671],
-  "geometry": {"coordinates":[-88.351143,41.838671],"type":"Point"}
+  "bbox": [
+    -88.351143,
+    41.838671,
+    -88.351143,
+    41.838671
+],
+  "geometry": {"coordinates":[-88.35114299999999,41.838671],"type":"Point"}
 }

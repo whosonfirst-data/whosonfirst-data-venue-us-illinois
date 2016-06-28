@@ -2,13 +2,14 @@
   "id": 252749485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063294,42.200961,-88.063294,42.200961",
     "geom:latitude":42.200961,
     "geom:longitude":-88.063294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Rose Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252749485,
-    "wof:lastmodified":1449005729,
+    "wof:lastmodified":1466489531,
     "wof:name":"Powercom",
     "wof:parent_id":85867873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.063294,42.200961,-88.063294,42.200961],
+  "bbox": [
+    -88.063294,
+    42.200961,
+    -88.063294,
+    42.200961
+],
   "geometry": {"coordinates":[-88.063294,42.200961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219212345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.563452,41.493587,-90.563452,41.493587",
     "geom:latitude":41.493587,
     "geom:longitude":-90.563452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 18th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219212345,
-    "wof:lastmodified":1449072670,
+    "wof:lastmodified":1466489648,
     "wof:name":"Dr Gyros",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.563452,41.493587,-90.563452,41.493587],
+  "bbox": [
+    -90.563452,
+    41.493587,
+    -90.563452,
+    41.493587
+],
   "geometry": {"coordinates":[-90.563452,41.493587],"type":"Point"}
 }

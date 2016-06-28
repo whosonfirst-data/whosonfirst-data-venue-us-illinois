@@ -2,13 +2,14 @@
   "id": 270515991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.577388,41.509507,-90.577388,41.509507",
     "geom:latitude":41.509507,
     "geom:longitude":-90.577388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 3rd Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270515991,
-    "wof:lastmodified":1449009200,
+    "wof:lastmodified":1466496428,
     "wof:name":"Rock Island Cnty Vital Records",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-90.577388,41.509507,-90.577388,41.509507],
+  "bbox": [
+    -90.577388,
+    41.509507,
+    -90.577388,
+    41.509507
+],
   "geometry": {"coordinates":[-90.577388,41.509507],"type":"Point"}
 }

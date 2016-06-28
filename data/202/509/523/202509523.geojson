@@ -2,13 +2,14 @@
   "id": 202509523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958847,41.885484,-87.958847,41.885484",
     "geom:latitude":41.885484,
     "geom:longitude":-87.958847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Rex Blvd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202509523,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1466495263,
     "wof:name":"Object Architects Inc",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-87.958847,41.885484,-87.958847,41.885484],
-  "geometry": {"coordinates":[-87.958847,41.885484],"type":"Point"}
+  "bbox": [
+    -87.958847,
+    41.885484,
+    -87.958847,
+    41.885484
+],
+  "geometry": {"coordinates":[-87.95884700000001,41.885484],"type":"Point"}
 }

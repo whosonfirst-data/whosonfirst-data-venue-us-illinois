@@ -2,13 +2,14 @@
   "id": 185885141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.739157,39.79811,-89.739157,39.79811",
     "geom:latitude":39.79811,
     "geom:longitude":-89.739157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 S Bradfordton Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185885141,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466489794,
     "wof:name":"Gardner Township",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-89.739157,39.79811,-89.739157,39.79811],
-  "geometry": {"coordinates":[-89.739157,39.79811],"type":"Point"}
+  "bbox": [
+    -89.739157,
+    39.79811,
+    -89.739157,
+    39.79811
+],
+  "geometry": {"coordinates":[-89.73915700000001,39.79811],"type":"Point"}
 }

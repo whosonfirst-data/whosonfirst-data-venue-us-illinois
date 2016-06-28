@@ -2,13 +2,14 @@
   "id": 219543163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.177267,42.429427,-88.177267,42.429427",
     "geom:latitude":42.429427,
     "geom:longitude":-88.177267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6930 Brightwater Dr",
     "sg:city":"Fox Lake",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219543163,
-    "wof:lastmodified":1449071086,
+    "wof:lastmodified":1466493681,
     "wof:name":"Brightwater",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.177267,42.429427,-88.177267,42.429427],
+  "bbox": [
+    -88.177267,
+    42.429427,
+    -88.177267,
+    42.429427
+],
   "geometry": {"coordinates":[-88.177267,42.429427],"type":"Point"}
 }

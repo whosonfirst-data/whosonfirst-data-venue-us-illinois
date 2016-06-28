@@ -2,13 +2,14 @@
   "id": 253008537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.592633,39.19195,-89.592633,39.19195",
     "geom:latitude":39.19195,
     "geom:longitude":-89.592633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Yaeger Lake Trl",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253008537,
-    "wof:lastmodified":1449063749,
+    "wof:lastmodified":1466489096,
     "wof:name":"Gold D Morgans",
     "wof:parent_id":85867927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "horse"
     ]
 },
-  "bbox": [-89.592633,39.19195,-89.592633,39.19195],
-  "geometry": {"coordinates":[-89.592633,39.19195],"type":"Point"}
+  "bbox": [
+    -89.592633,
+    39.19195,
+    -89.592633,
+    39.19195
+],
+  "geometry": {"coordinates":[-89.59263300000001,39.19195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203119981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.041321,41.541951,-88.041321,41.541951",
     "geom:latitude":41.541951,
     "geom:longitude":-88.041321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Maple Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203119981,
-    "wof:lastmodified":1449026323,
+    "wof:lastmodified":1466495053,
     "wof:name":"Norwalk Tank Company",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "concrete"
     ]
 },
-  "bbox": [-88.041321,41.541951,-88.041321,41.541951],
+  "bbox": [
+    -88.041321,
+    41.541951,
+    -88.041321,
+    41.541951
+],
   "geometry": {"coordinates":[-88.041321,41.541951],"type":"Point"}
 }

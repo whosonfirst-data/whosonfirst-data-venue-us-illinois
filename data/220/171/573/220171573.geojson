@@ -2,13 +2,14 @@
   "id": 220171573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.131074,41.512824,-88.131074,41.512824",
     "geom:latitude":41.512824,
     "geom:longitude":-88.131074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Oak Leaf Ct",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220171573,
-    "wof:lastmodified":1449074886,
+    "wof:lastmodified":1466491033,
     "wof:name":"Excelsior Mfg",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-88.131074,41.512824,-88.131074,41.512824],
+  "bbox": [
+    -88.131074,
+    41.512824,
+    -88.131074,
+    41.512824
+],
   "geometry": {"coordinates":[-88.131074,41.512824],"type":"Point"}
 }

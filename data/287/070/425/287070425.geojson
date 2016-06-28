@@ -2,13 +2,14 @@
   "id": 287070425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.201332,41.882415,-88.201332,41.882415",
     "geom:latitude":41.882415,
     "geom:longitude":-88.201332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Chicago St",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287070425,
-    "wof:lastmodified":1449001083,
+    "wof:lastmodified":1466491088,
     "wof:name":"Alvarado's Landscape & Mntnc",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.201332,41.882415,-88.201332,41.882415],
-  "geometry": {"coordinates":[-88.201332,41.882415],"type":"Point"}
+  "bbox": [
+    -88.201332,
+    41.882415,
+    -88.201332,
+    41.882415
+],
+  "geometry": {"coordinates":[-88.20133199999999,41.882415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203171693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.712556,41.98614,-87.712556,41.98614",
     "geom:latitude":41.98614,
     "geom:longitude":-87.712556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5729 N Christiana Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203171693,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1466489037,
     "wof:name":"Cartech Muffler & Brake",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.712556,41.98614,-87.712556,41.98614],
-  "geometry": {"coordinates":[-87.712556,41.98614],"type":"Point"}
+  "bbox": [
+    -87.712556,
+    41.98614,
+    -87.712556,
+    41.98614
+],
+  "geometry": {"coordinates":[-87.71255600000001,41.98614],"type":"Point"}
 }

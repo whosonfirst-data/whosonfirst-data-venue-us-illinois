@@ -2,13 +2,14 @@
   "id": 269887021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.012282,42.354274,-89.012282,42.354274",
     "geom:latitude":42.354274,
     "geom:longitude":-89.012282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6486 Cedar Point Dr",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269887021,
-    "wof:lastmodified":1449038351,
+    "wof:lastmodified":1466495367,
     "wof:name":"Alpine Builders",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.012282,42.354274,-89.012282,42.354274],
+  "bbox": [
+    -89.012282,
+    42.354274,
+    -89.012282,
+    42.354274
+],
   "geometry": {"coordinates":[-89.012282,42.354274],"type":"Point"}
 }

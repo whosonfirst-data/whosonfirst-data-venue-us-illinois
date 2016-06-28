@@ -2,13 +2,14 @@
   "id": 202836623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.947161,38.785056,-89.947161,38.785056",
     "geom:latitude":38.785056,
     "geom:longitude":-89.947161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Madiera Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202836623,
-    "wof:lastmodified":1449061759,
+    "wof:lastmodified":1466492416,
     "wof:name":"IL Deri Foods Inc",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-89.947161,38.785056,-89.947161,38.785056],
-  "geometry": {"coordinates":[-89.947161,38.785056],"type":"Point"}
+  "bbox": [
+    -89.947161,
+    38.785056,
+    -89.947161,
+    38.785056
+],
+  "geometry": {"coordinates":[-89.94716099999999,38.785056],"type":"Point"}
 }

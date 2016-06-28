@@ -2,13 +2,14 @@
   "id": 286580803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.567344,41.562804,-87.567344,41.562804",
     "geom:latitude":41.562804,
     "geom:longitude":-87.567344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18323 Olde Farm Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286580803,
-    "wof:lastmodified":1449017169,
+    "wof:lastmodified":1466494863,
     "wof:name":"Davis License Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "license"
     ]
 },
-  "bbox": [-87.567344,41.562804,-87.567344,41.562804],
-  "geometry": {"coordinates":[-87.567344,41.562804],"type":"Point"}
+  "bbox": [
+    -87.567344,
+    41.562804,
+    -87.567344,
+    41.562804
+],
+  "geometry": {"coordinates":[-87.56734400000001,41.562804],"type":"Point"}
 }

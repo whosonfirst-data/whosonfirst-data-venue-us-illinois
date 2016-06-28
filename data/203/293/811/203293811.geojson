@@ -2,13 +2,14 @@
   "id": 203293811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.965257,38.527128,-89.965257,38.527128",
     "geom:latitude":38.527128,
     "geom:longitude":-89.965257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Sherman St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203293811,
-    "wof:lastmodified":1449025307,
+    "wof:lastmodified":1466490399,
     "wof:name":"Sandys License Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.965257,38.527128,-89.965257,38.527128],
-  "geometry": {"coordinates":[-89.965257,38.527128],"type":"Point"}
+  "bbox": [
+    -89.965257,
+    38.527128,
+    -89.965257,
+    38.527128
+],
+  "geometry": {"coordinates":[-89.96525699999999,38.527128],"type":"Point"}
 }

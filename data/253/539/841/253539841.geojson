@@ -2,13 +2,14 @@
   "id": 253539841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.82183,39.609336,-90.82183,39.609336",
     "geom:latitude":39.609336,
     "geom:longitude":-90.82183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Grove St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253539841,
-    "wof:lastmodified":1449065856,
+    "wof:lastmodified":1466496169,
     "wof:name":"Maintenance Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-90.82183,39.609336,-90.82183,39.609336],
-  "geometry": {"coordinates":[-90.82183,39.609336],"type":"Point"}
+  "bbox": [
+    -90.82183,
+    39.609336,
+    -90.82183,
+    39.609336
+],
+  "geometry": {"coordinates":[-90.82183000000001,39.609336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219661181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.956353,41.66485,-87.956353,41.66485",
     "geom:latitude":41.66485,
     "geom:longitude":-87.956353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13800 McCarthy Rd",
     "sg:city":"Lemont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219661181,
-    "wof:lastmodified":1449073538,
+    "wof:lastmodified":1466495059,
     "wof:name":"Ldh Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.956353,41.66485,-87.956353,41.66485],
-  "geometry": {"coordinates":[-87.956353,41.66485],"type":"Point"}
+  "bbox": [
+    -87.956353,
+    41.66485,
+    -87.956353,
+    41.66485
+],
+  "geometry": {"coordinates":[-87.95635299999999,41.66485],"type":"Point"}
 }

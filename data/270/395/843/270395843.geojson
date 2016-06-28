@@ -2,13 +2,14 @@
   "id": 270395843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.303013,41.791669,-88.303013,41.791669",
     "geom:latitude":41.791669,
     "geom:longitude":-88.303013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 NE Industrial Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270395843,
-    "wof:lastmodified":1449010718,
+    "wof:lastmodified":1466495059,
     "wof:name":"Haldon Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "producer"
     ]
 },
-  "bbox": [-88.303013,41.791669,-88.303013,41.791669],
-  "geometry": {"coordinates":[-88.303013,41.791669],"type":"Point"}
+  "bbox": [
+    -88.303013,
+    41.791669,
+    -88.303013,
+    41.791669
+],
+  "geometry": {"coordinates":[-88.30301300000001,41.791669],"type":"Point"}
 }

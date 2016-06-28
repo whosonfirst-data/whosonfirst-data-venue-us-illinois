@@ -2,13 +2,14 @@
   "id": 203045713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745077,41.574369,-87.745077,41.574369",
     "geom:latitude":41.574369,
     "geom:longitude":-87.745077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17390 Brennan Hwy",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203045713,
-    "wof:lastmodified":1449026648,
+    "wof:lastmodified":1466493508,
     "wof:name":"Air Ease Heating & Cooling",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.745077,41.574369,-87.745077,41.574369],
-  "geometry": {"coordinates":[-87.745077,41.574369],"type":"Point"}
+  "bbox": [
+    -87.745077,
+    41.574369,
+    -87.745077,
+    41.574369
+],
+  "geometry": {"coordinates":[-87.74507699999999,41.574369],"type":"Point"}
 }

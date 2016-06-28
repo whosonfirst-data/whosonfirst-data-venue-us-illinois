@@ -2,13 +2,14 @@
   "id": 236922913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127565,41.865609,-88.127565,41.865609",
     "geom:latitude":41.865609,
     "geom:longitude":-88.127565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Morgan Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236922913,
-    "wof:lastmodified":1449001897,
+    "wof:lastmodified":1466498332,
     "wof:name":"Faith Home Improvements",
     "wof:parent_id":85891055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.127565,41.865609,-88.127565,41.865609],
+  "bbox": [
+    -88.127565,
+    41.865609,
+    -88.127565,
+    41.865609
+],
   "geometry": {"coordinates":[-88.127565,41.865609],"type":"Point"}
 }

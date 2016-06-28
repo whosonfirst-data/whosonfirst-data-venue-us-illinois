@@ -2,13 +2,14 @@
   "id": 186590935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.54312,39.121304,-88.54312,39.121304",
     "geom:latitude":39.121304,
     "geom:longitude":-88.54312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Jefferson Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186590935,
-    "wof:lastmodified":1449051968,
+    "wof:lastmodified":1466489304,
     "wof:name":"World Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-88.54312,39.121304,-88.54312,39.121304],
+  "bbox": [
+    -88.54312,
+    39.121304,
+    -88.54312,
+    39.121304
+],
   "geometry": {"coordinates":[-88.54312,39.121304],"type":"Point"}
 }

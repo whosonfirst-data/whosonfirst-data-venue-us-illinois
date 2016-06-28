@@ -2,13 +2,14 @@
   "id": 202526597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.686613,41.666331,-87.686613,41.666331",
     "geom:latitude":41.666331,
     "geom:longitude":-87.686613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 Cochran St",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202526597,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466495508,
     "wof:name":"Mason Dalle Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.686613,41.666331,-87.686613,41.666331],
-  "geometry": {"coordinates":[-87.686613,41.666331],"type":"Point"}
+  "bbox": [
+    -87.686613,
+    41.666331,
+    -87.686613,
+    41.666331
+],
+  "geometry": {"coordinates":[-87.68661299999999,41.666331],"type":"Point"}
 }

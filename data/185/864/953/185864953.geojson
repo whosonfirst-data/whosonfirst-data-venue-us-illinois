@@ -2,13 +2,14 @@
   "id": 185864953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.644905,39.777775,-89.644905,39.777775",
     "geom:latitude":39.777775,
     "geom:longitude":-89.644905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 S 9th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185864953,
-    "wof:lastmodified":1449008232,
+    "wof:lastmodified":1466489511,
     "wof:name":"Eurosport",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-89.644905,39.777775,-89.644905,39.777775],
-  "geometry": {"coordinates":[-89.644905,39.777775],"type":"Point"}
+  "bbox": [
+    -89.644905,
+    39.777775,
+    -89.644905,
+    39.777775
+],
+  "geometry": {"coordinates":[-89.64490499999999,39.777775],"type":"Point"}
 }

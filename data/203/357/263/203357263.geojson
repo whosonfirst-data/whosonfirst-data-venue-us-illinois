@@ -2,13 +2,14 @@
   "id": 203357263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.703755,41.988308,-87.703755,41.988308",
     "geom:latitude":41.988308,
     "geom:longitude":-87.703755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5865 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203357263,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1466491101,
     "wof:name":"Fast Line Trucking",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.703755,41.988308,-87.703755,41.988308],
+  "bbox": [
+    -87.703755,
+    41.988308,
+    -87.703755,
+    41.988308
+],
   "geometry": {"coordinates":[-87.703755,41.988308],"type":"Point"}
 }

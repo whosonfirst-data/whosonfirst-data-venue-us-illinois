@@ -2,13 +2,14 @@
   "id": 253181669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105764,41.649759,-88.105764,41.649759",
     "geom:latitude":41.649759,
     "geom:longitude":-88.105764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Wild Indigo Ave",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253181669,
-    "wof:lastmodified":1449064622,
+    "wof:lastmodified":1466491108,
     "wof:name":"Curious Creations Murals",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.105764,41.649759,-88.105764,41.649759],
-  "geometry": {"coordinates":[-88.105764,41.649759],"type":"Point"}
+  "bbox": [
+    -88.105764,
+    41.649759,
+    -88.105764,
+    41.649759
+],
+  "geometry": {"coordinates":[-88.10576399999999,41.649759],"type":"Point"}
 }

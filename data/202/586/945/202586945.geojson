@@ -2,13 +2,14 @@
   "id": 202586945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.339368,40.223271,-88.339368,40.223271",
     "geom:latitude":40.223271,
     "geom:longitude":-88.339368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2397 Co Rd 675 E",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202586945,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466489518,
     "wof:name":"Briarwood Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-88.339368,40.223271,-88.339368,40.223271],
-  "geometry": {"coordinates":[-88.339368,40.223271],"type":"Point"}
+  "bbox": [
+    -88.339368,
+    40.223271,
+    -88.339368,
+    40.223271
+],
+  "geometry": {"coordinates":[-88.33936799999999,40.223271],"type":"Point"}
 }

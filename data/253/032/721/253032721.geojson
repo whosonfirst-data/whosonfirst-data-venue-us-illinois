@@ -2,13 +2,14 @@
   "id": 253032721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.640796,40.114207,-87.640796,40.114207",
     "geom:latitude":40.114207,
     "geom:longitude":-87.640796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 3rd St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253032721,
-    "wof:lastmodified":1449064271,
+    "wof:lastmodified":1466489405,
     "wof:name":"Lone Oak Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.640796,40.114207,-87.640796,40.114207],
-  "geometry": {"coordinates":[-87.640796,40.114207],"type":"Point"}
+  "bbox": [
+    -87.640796,
+    40.114207,
+    -87.640796,
+    40.114207
+],
+  "geometry": {"coordinates":[-87.64079599999999,40.114207],"type":"Point"}
 }

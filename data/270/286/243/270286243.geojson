@@ -2,13 +2,14 @@
   "id": 270286243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10268,41.770151,-88.10268,41.770151",
     "geom:latitude":41.770151,
     "geom:longitude":-88.10268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6382 Hastings Ln",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270286243,
-    "wof:lastmodified":1449009257,
+    "wof:lastmodified":1466493375,
     "wof:name":"Cispi",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-88.10268,41.770151,-88.10268,41.770151],
-  "geometry": {"coordinates":[-88.10268,41.770151],"type":"Point"}
+  "bbox": [
+    -88.10268,
+    41.770151,
+    -88.10268,
+    41.770151
+],
+  "geometry": {"coordinates":[-88.10268000000001,41.770151],"type":"Point"}
 }

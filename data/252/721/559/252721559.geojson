@@ -2,13 +2,14 @@
   "id": 252721559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727489,41.94676,-87.727489,41.94676",
     "geom:latitude":41.94676,
     "geom:longitude":-87.727489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252721559,
-    "wof:lastmodified":1449006511,
+    "wof:lastmodified":1466489169,
     "wof:name":"30th Ward Office",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-87.727489,41.94676,-87.727489,41.94676],
-  "geometry": {"coordinates":[-87.727489,41.94676],"type":"Point"}
+  "bbox": [
+    -87.727489,
+    41.94676,
+    -87.727489,
+    41.94676
+],
+  "geometry": {"coordinates":[-87.72748900000001,41.94676],"type":"Point"}
 }

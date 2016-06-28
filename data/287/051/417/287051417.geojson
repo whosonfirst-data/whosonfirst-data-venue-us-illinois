@@ -2,13 +2,14 @@
   "id": 287051417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.291705,41.868819,-88.291705,41.868819",
     "geom:latitude":41.868819,
     "geom:longitude":-88.291705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 E Fabyan Pkwy",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287051417,
-    "wof:lastmodified":1449001206,
+    "wof:lastmodified":1466490787,
     "wof:name":"Settler's Hill Recycling",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landfill"
     ]
 },
-  "bbox": [-88.291705,41.868819,-88.291705,41.868819],
-  "geometry": {"coordinates":[-88.291705,41.868819],"type":"Point"}
+  "bbox": [
+    -88.291705,
+    41.868819,
+    -88.291705,
+    41.868819
+],
+  "geometry": {"coordinates":[-88.29170499999999,41.868819],"type":"Point"}
 }

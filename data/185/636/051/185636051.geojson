@@ -2,13 +2,14 @@
   "id": 185636051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.944099,38.587002,-89.944099,38.587002",
     "geom:latitude":38.587002,
     "geom:longitude":-89.944099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Park Plaza Dr Ste 2",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185636051,
-    "wof:lastmodified":1449007258,
+    "wof:lastmodified":1466493284,
     "wof:name":"Kujawski & Nowak P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.944099,38.587002,-89.944099,38.587002],
-  "geometry": {"coordinates":[-89.944099,38.587002],"type":"Point"}
+  "bbox": [
+    -89.944099,
+    38.587002,
+    -89.944099,
+    38.587002
+],
+  "geometry": {"coordinates":[-89.94409899999999,38.587002],"type":"Point"}
 }

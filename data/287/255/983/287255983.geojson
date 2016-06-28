@@ -2,13 +2,14 @@
   "id": 287255983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.156467,41.69441,-88.156467,41.69441",
     "geom:latitude":41.69441,
     "geom:longitude":-88.156467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Danube Way",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287255983,
-    "wof:lastmodified":1449001060,
+    "wof:lastmodified":1466494070,
     "wof:name":"Software Enabling Technology",
     "wof:parent_id":85879129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.156467,41.69441,-88.156467,41.69441],
-  "geometry": {"coordinates":[-88.156467,41.69441],"type":"Point"}
+  "bbox": [
+    -88.156467,
+    41.69441,
+    -88.156467,
+    41.69441
+],
+  "geometry": {"coordinates":[-88.15646700000001,41.69441],"type":"Point"}
 }

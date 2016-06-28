@@ -2,13 +2,14 @@
   "id": 286562645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668445,41.935766,-87.668445,41.935766",
     "geom:latitude":41.935766,
     "geom:longitude":-87.668445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2955 N Ashland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286562645,
-    "wof:lastmodified":1449016744,
+    "wof:lastmodified":1466494568,
     "wof:name":"Auto Alarm Center",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-87.668445,41.935766,-87.668445,41.935766],
-  "geometry": {"coordinates":[-87.668445,41.935766],"type":"Point"}
+  "bbox": [
+    -87.668445,
+    41.935766,
+    -87.668445,
+    41.935766
+],
+  "geometry": {"coordinates":[-87.66844500000001,41.935766],"type":"Point"}
 }

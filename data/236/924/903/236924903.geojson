@@ -2,13 +2,14 @@
   "id": 236924903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758299,41.901287,-87.758299,41.901287",
     "geom:latitude":41.901287,
     "geom:longitude":-87.758299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 N Lockwood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236924903,
-    "wof:lastmodified":1449002379,
+    "wof:lastmodified":1466498431,
     "wof:name":"H & H Inc Of Chicago",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-87.758299,41.901287,-87.758299,41.901287],
-  "geometry": {"coordinates":[-87.758299,41.901287],"type":"Point"}
+  "bbox": [
+    -87.758299,
+    41.901287,
+    -87.758299,
+    41.901287
+],
+  "geometry": {"coordinates":[-87.75829899999999,41.901287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186623293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855104,42.402761,-87.855104,42.402761",
     "geom:latitude":42.402761,
     "geom:longitude":-87.855104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 N Lewis Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186623293,
-    "wof:lastmodified":1449052239,
+    "wof:lastmodified":1466489696,
     "wof:name":"Bonnie Brook Golf Course",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "course"
     ]
 },
-  "bbox": [-87.855104,42.402761,-87.855104,42.402761],
+  "bbox": [
+    -87.855104,
+    42.402761,
+    -87.855104,
+    42.402761
+],
   "geometry": {"coordinates":[-87.855104,42.402761],"type":"Point"}
 }

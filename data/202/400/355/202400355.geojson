@@ -2,13 +2,14 @@
   "id": 202400355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.926305,41.505295,-87.926305,41.505295",
     "geom:latitude":41.505295,
     "geom:longitude":-87.926305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"791 Wellington Pkwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202400355,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466493008,
     "wof:name":"Kuczero Ltd",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.926305,41.505295,-87.926305,41.505295],
+  "bbox": [
+    -87.926305,
+    41.505295,
+    -87.926305,
+    41.505295
+],
   "geometry": {"coordinates":[-87.926305,41.505295],"type":"Point"}
 }

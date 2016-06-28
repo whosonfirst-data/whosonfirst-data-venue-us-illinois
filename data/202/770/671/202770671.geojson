@@ -2,13 +2,14 @@
   "id": 202770671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.074593,41.80015,-88.074593,41.80015",
     "geom:latitude":41.80015,
     "geom:longitude":-88.074593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Main St",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202770671,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1466491603,
     "wof:name":"Best Little Hairhouse Inc",
     "wof:parent_id":85890831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.074593,41.80015,-88.074593,41.80015],
-  "geometry": {"coordinates":[-88.074593,41.80015],"type":"Point"}
+  "bbox": [
+    -88.074593,
+    41.80015,
+    -88.074593,
+    41.80015
+],
+  "geometry": {"coordinates":[-88.07459299999999,41.80015],"type":"Point"}
 }

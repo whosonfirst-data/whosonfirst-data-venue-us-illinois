@@ -2,13 +2,14 @@
   "id": 185884499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.720981,39.773477,-89.720981,39.773477",
     "geom:latitude":39.773477,
     "geom:longitude":-89.720981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 Cloverfield Ln",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185884499,
-    "wof:lastmodified":1449007913,
+    "wof:lastmodified":1466489784,
     "wof:name":"Thirstys Playground Inc",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.720981,39.773477,-89.720981,39.773477],
-  "geometry": {"coordinates":[-89.720981,39.773477],"type":"Point"}
+  "bbox": [
+    -89.720981,
+    39.773477,
+    -89.720981,
+    39.773477
+],
+  "geometry": {"coordinates":[-89.72098099999999,39.773477],"type":"Point"}
 }

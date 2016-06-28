@@ -2,13 +2,14 @@
   "id": 253751999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.657755,41.968975,-87.657755,41.968975",
     "geom:latitude":41.968975,
     "geom:longitude":-87.657755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Lawrence Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253751999,
-    "wof:lastmodified":1449062987,
+    "wof:lastmodified":1466498011,
     "wof:name":"A Floors",
     "wof:parent_id":85867541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-87.657755,41.968975,-87.657755,41.968975],
-  "geometry": {"coordinates":[-87.657755,41.968975],"type":"Point"}
+  "bbox": [
+    -87.657755,
+    41.968975,
+    -87.657755,
+    41.968975
+],
+  "geometry": {"coordinates":[-87.65775499999999,41.968975],"type":"Point"}
 }

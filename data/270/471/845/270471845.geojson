@@ -2,13 +2,14 @@
   "id": 270471845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169587,41.531801,-88.169587,41.531801",
     "geom:latitude":41.531801,
     "geom:longitude":-88.169587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Bankview Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270471845,
-    "wof:lastmodified":1449009614,
+    "wof:lastmodified":1466496009,
     "wof:name":"Travel Consulting Svc Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.169587,41.531801,-88.169587,41.531801],
-  "geometry": {"coordinates":[-88.169587,41.531801],"type":"Point"}
+  "bbox": [
+    -88.169587,
+    41.531801,
+    -88.169587,
+    41.531801
+],
+  "geometry": {"coordinates":[-88.16958700000001,41.531801],"type":"Point"}
 }

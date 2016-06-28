@@ -2,13 +2,14 @@
   "id": 186026015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.383192,37.795225,-88.383192,37.795225",
     "geom:latitude":37.795225,
     "geom:longitude":-88.383192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Wesley Chapel Rd",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186026015,
-    "wof:lastmodified":1449051951,
+    "wof:lastmodified":1466493471,
     "wof:name":"Jim Combs Trucking Inc",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.383192,37.795225,-88.383192,37.795225],
-  "geometry": {"coordinates":[-88.383192,37.795225],"type":"Point"}
+  "bbox": [
+    -88.383192,
+    37.795225,
+    -88.383192,
+    37.795225
+],
+  "geometry": {"coordinates":[-88.38319199999999,37.795225],"type":"Point"}
 }

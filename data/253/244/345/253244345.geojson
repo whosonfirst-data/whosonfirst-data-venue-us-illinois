@@ -2,13 +2,14 @@
   "id": 253244345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848062,41.604376,-87.848062,41.604376",
     "geom:latitude":41.604376,
     "geom:longitude":-87.848062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15850 S 94th Ave",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253244345,
-    "wof:lastmodified":1449064004,
+    "wof:lastmodified":1466491930,
     "wof:name":"Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-87.848062,41.604376,-87.848062,41.604376],
+  "bbox": [
+    -87.848062,
+    41.604376,
+    -87.848062,
+    41.604376
+],
   "geometry": {"coordinates":[-87.848062,41.604376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202859711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.721267,41.89981,-87.721267,41.89981",
     "geom:latitude":41.89981,
     "geom:longitude":-87.721267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1059 N Hamlin Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202859711,
-    "wof:lastmodified":1449061913,
+    "wof:lastmodified":1466492685,
     "wof:name":"Courtesy Style Shop",
     "wof:parent_id":85867721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.721267,41.89981,-87.721267,41.89981],
+  "bbox": [
+    -87.721267,
+    41.89981,
+    -87.721267,
+    41.89981
+],
   "geometry": {"coordinates":[-87.721267,41.89981],"type":"Point"}
 }

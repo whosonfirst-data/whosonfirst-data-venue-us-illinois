@@ -2,13 +2,14 @@
   "id": 269829323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.545127,39.119482,-88.545127,39.119482",
     "geom:latitude":39.119482,
     "geom:longitude":-88.545127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Banker St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269829323,
-    "wof:lastmodified":1449038813,
+    "wof:lastmodified":1466494469,
     "wof:name":"Illinois Mfg Extension Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.545127,39.119482,-88.545127,39.119482],
-  "geometry": {"coordinates":[-88.545127,39.119482],"type":"Point"}
+  "bbox": [
+    -88.545127,
+    39.119482,
+    -88.545127,
+    39.119482
+],
+  "geometry": {"coordinates":[-88.54512699999999,39.119482],"type":"Point"}
 }

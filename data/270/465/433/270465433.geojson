@@ -2,13 +2,14 @@
   "id": 270465433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.601672,41.545144,-87.601672,41.545144",
     "geom:latitude":41.545144,
     "geom:longitude":-87.601672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Willow Ln",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270465433,
-    "wof:lastmodified":1449010309,
+    "wof:lastmodified":1466495935,
     "wof:name":"American Veterans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.601672,41.545144,-87.601672,41.545144],
-  "geometry": {"coordinates":[-87.601672,41.545144],"type":"Point"}
+  "bbox": [
+    -87.601672,
+    41.545144,
+    -87.601672,
+    41.545144
+],
+  "geometry": {"coordinates":[-87.60167199999999,41.545144],"type":"Point"}
 }

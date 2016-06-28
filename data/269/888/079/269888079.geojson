@@ -2,13 +2,14 @@
   "id": 269888079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753183,41.96057,-87.753183,41.96057",
     "geom:latitude":41.96057,
     "geom:longitude":-87.753183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5031 W Montrose Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269888079,
-    "wof:lastmodified":1449037646,
+    "wof:lastmodified":1466495383,
     "wof:name":"CTS Financial Svc",
     "wof:parent_id":85867691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.753183,41.96057,-87.753183,41.96057],
-  "geometry": {"coordinates":[-87.753183,41.96057],"type":"Point"}
+  "bbox": [
+    -87.753183,
+    41.96057,
+    -87.753183,
+    41.96057
+],
+  "geometry": {"coordinates":[-87.75318300000001,41.96057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220090425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.079174,38.85635,-90.079174,38.85635",
     "geom:latitude":38.85635,
     "geom:longitude":-90.079174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Central Ave",
     "sg:city":"Wood River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220090425,
-    "wof:lastmodified":1449074672,
+    "wof:lastmodified":1466490051,
     "wof:name":"B Tann",
     "wof:parent_id":85868931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-90.079174,38.85635,-90.079174,38.85635],
-  "geometry": {"coordinates":[-90.079174,38.85635],"type":"Point"}
+  "bbox": [
+    -90.079174,
+    38.85635,
+    -90.079174,
+    38.85635
+],
+  "geometry": {"coordinates":[-90.07917399999999,38.85635],"type":"Point"}
 }

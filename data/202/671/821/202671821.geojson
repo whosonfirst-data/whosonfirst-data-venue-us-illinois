@@ -2,13 +2,14 @@
   "id": 202671821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.687165,41.685496,-87.687165,41.685496",
     "geom:latitude":41.685496,
     "geom:longitude":-87.687165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11456 S Talman Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202671821,
-    "wof:lastmodified":1449060691,
+    "wof:lastmodified":1466490490,
     "wof:name":"Ed OFarrell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.687165,41.685496,-87.687165,41.685496],
-  "geometry": {"coordinates":[-87.687165,41.685496],"type":"Point"}
+  "bbox": [
+    -87.687165,
+    41.685496,
+    -87.687165,
+    41.685496
+],
+  "geometry": {"coordinates":[-87.68716499999999,41.685496],"type":"Point"}
 }

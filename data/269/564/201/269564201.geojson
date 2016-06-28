@@ -2,13 +2,14 @@
   "id": 269564201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.799805,41.346401,-88.799805,41.346401",
     "geom:latitude":41.346401,
     "geom:longitude":-88.799805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1897 N 2753rd Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269564201,
-    "wof:lastmodified":1449038828,
+    "wof:lastmodified":1466490251,
     "wof:name":"WCMY 1430 Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-88.799805,41.346401,-88.799805,41.346401],
-  "geometry": {"coordinates":[-88.799805,41.346401],"type":"Point"}
+  "bbox": [
+    -88.799805,
+    41.346401,
+    -88.799805,
+    41.346401
+],
+  "geometry": {"coordinates":[-88.79980500000001,41.346401],"type":"Point"}
 }

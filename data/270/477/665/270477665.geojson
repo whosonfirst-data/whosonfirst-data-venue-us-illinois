@@ -2,13 +2,14 @@
   "id": 270477665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.244948,40.096716,-88.244948,40.096716",
     "geom:latitude":40.096716,
     "geom:longitude":-88.244948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 S Neil St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270477665,
-    "wof:lastmodified":1449009056,
+    "wof:lastmodified":1466496081,
     "wof:name":"Ramjet Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "memory"
     ]
 },
-  "bbox": [-88.244948,40.096716,-88.244948,40.096716],
-  "geometry": {"coordinates":[-88.244948,40.096716],"type":"Point"}
+  "bbox": [
+    -88.244948,
+    40.096716,
+    -88.244948,
+    40.096716
+],
+  "geometry": {"coordinates":[-88.24494799999999,40.096716],"type":"Point"}
 }

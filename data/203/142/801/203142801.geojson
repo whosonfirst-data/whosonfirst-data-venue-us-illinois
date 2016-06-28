@@ -2,13 +2,14 @@
   "id": 203142801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.833512,42.167234,-87.833512,42.167234",
     "geom:latitude":42.167234,
     "geom:longitude":-87.833512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Deerfield Rd",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203142801,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466495380,
     "wof:name":"Deerspring Pool",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-87.833512,42.167234,-87.833512,42.167234],
+  "bbox": [
+    -87.833512,
+    42.167234,
+    -87.833512,
+    42.167234
+],
   "geometry": {"coordinates":[-87.833512,42.167234],"type":"Point"}
 }

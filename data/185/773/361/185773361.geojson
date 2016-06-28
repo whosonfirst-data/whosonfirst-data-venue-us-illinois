@@ -2,13 +2,14 @@
   "id": 185773361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.95314,39.846329,-88.95314,39.846329",
     "geom:latitude":39.846329,
     "geom:longitude":-88.95314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Franklin St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185773361,
-    "wof:lastmodified":1449006800,
+    "wof:lastmodified":1466495498,
     "wof:name":"Decatur Public Bldg Commission",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.95314,39.846329,-88.95314,39.846329],
+  "bbox": [
+    -88.95314,
+    39.846329,
+    -88.95314,
+    39.846329
+],
   "geometry": {"coordinates":[-88.95314,39.846329],"type":"Point"}
 }

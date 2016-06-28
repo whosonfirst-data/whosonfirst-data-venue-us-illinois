@@ -2,13 +2,14 @@
   "id": 219231191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.304228,39.301752,-88.304228,39.301752",
     "geom:latitude":39.301752,
     "geom:longitude":-88.304228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"967 Co Rd 900 E",
     "sg:city":"Toledo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219231191,
-    "wof:lastmodified":1449072189,
+    "wof:lastmodified":1466489876,
     "wof:name":"MBH Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.304228,39.301752,-88.304228,39.301752],
-  "geometry": {"coordinates":[-88.304228,39.301752],"type":"Point"}
+  "bbox": [
+    -88.304228,
+    39.301752,
+    -88.304228,
+    39.301752
+],
+  "geometry": {"coordinates":[-88.30422799999999,39.301752],"type":"Point"}
 }

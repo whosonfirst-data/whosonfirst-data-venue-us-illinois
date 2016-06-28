@@ -2,13 +2,14 @@
   "id": 303072949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.833785,41.379427,-88.833785,41.379427",
     "geom:latitude":41.379427,
     "geom:longitude":-88.833785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Stevenson Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303072949,
-    "wof:lastmodified":1448999411,
+    "wof:lastmodified":1466490987,
     "wof:name":"Wwto TV 35",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.833785,41.379427,-88.833785,41.379427],
-  "geometry": {"coordinates":[-88.833785,41.379427],"type":"Point"}
+  "bbox": [
+    -88.833785,
+    41.379427,
+    -88.833785,
+    41.379427
+],
+  "geometry": {"coordinates":[-88.83378500000001,41.379427],"type":"Point"}
 }

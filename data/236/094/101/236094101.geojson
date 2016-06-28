@@ -2,13 +2,14 @@
   "id": 236094101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.652785,41.157082,-88.652785,41.157082",
     "geom:latitude":41.157082,
     "geom:longitude":-88.652785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Lincoln St",
     "sg:city":"Ransom",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236094101,
-    "wof:lastmodified":1449003772,
+    "wof:lastmodified":1466490110,
     "wof:name":"Jerry's Tap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.652785,41.157082,-88.652785,41.157082],
-  "geometry": {"coordinates":[-88.652785,41.157082],"type":"Point"}
+  "bbox": [
+    -88.652785,
+    41.157082,
+    -88.652785,
+    41.157082
+],
+  "geometry": {"coordinates":[-88.65278499999999,41.157082],"type":"Point"}
 }

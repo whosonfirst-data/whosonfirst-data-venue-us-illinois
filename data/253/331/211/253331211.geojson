@@ -2,13 +2,14 @@
   "id": 253331211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.096609,39.81475,-91.096609,39.81475",
     "geom:latitude":39.81475,
     "geom:longitude":-91.096609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 E 2150th Pl",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253331211,
-    "wof:lastmodified":1449064605,
+    "wof:lastmodified":1466493164,
     "wof:name":"Lowell Schmalshof",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-91.096609,39.81475,-91.096609,39.81475],
+  "bbox": [
+    -91.096609,
+    39.81475,
+    -91.096609,
+    39.81475
+],
   "geometry": {"coordinates":[-91.096609,39.81475],"type":"Point"}
 }

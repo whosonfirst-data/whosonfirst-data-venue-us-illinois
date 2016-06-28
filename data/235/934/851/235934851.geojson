@@ -2,13 +2,14 @@
   "id": 235934851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.065057,41.919375,-89.065057,41.919375",
     "geom:latitude":41.919375,
     "geom:longitude":-89.065057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Main St",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235934851,
-    "wof:lastmodified":1449008292,
+    "wof:lastmodified":1466489005,
     "wof:name":"Lincoln Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-89.065057,41.919375,-89.065057,41.919375],
+  "bbox": [
+    -89.065057,
+    41.919375,
+    -89.065057,
+    41.919375
+],
   "geometry": {"coordinates":[-89.065057,41.919375],"type":"Point"}
 }

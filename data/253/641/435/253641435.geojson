@@ -2,13 +2,14 @@
   "id": 253641435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855617,42.370294,-87.855617,42.370294",
     "geom:latitude":42.370294,
     "geom:longitude":-87.855617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Grand Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253641435,
-    "wof:lastmodified":1449065055,
+    "wof:lastmodified":1466497041,
     "wof:name":"Healthreach Clinic",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-87.855617,42.370294,-87.855617,42.370294],
+  "bbox": [
+    -87.855617,
+    42.370294,
+    -87.855617,
+    42.370294
+],
   "geometry": {"coordinates":[-87.855617,42.370294],"type":"Point"}
 }

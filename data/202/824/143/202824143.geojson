@@ -2,13 +2,14 @@
   "id": 202824143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.726957,41.93368,-87.726957,41.93368",
     "geom:latitude":41.93368,
     "geom:longitude":-87.726957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2937 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202824143,
-    "wof:lastmodified":1449061007,
+    "wof:lastmodified":1466492245,
     "wof:name":"No 1 Fire Extinguisher",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-87.726957,41.93368,-87.726957,41.93368],
+  "bbox": [
+    -87.726957,
+    41.93368,
+    -87.726957,
+    41.93368
+],
   "geometry": {"coordinates":[-87.726957,41.93368],"type":"Point"}
 }

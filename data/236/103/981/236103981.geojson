@@ -2,13 +2,14 @@
   "id": 236103981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.946846,40.965555,-89.946846,40.965555",
     "geom:latitude":40.965555,
     "geom:longitude":-89.946846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23125 N White Rd",
     "sg:city":"Laura",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236103981,
-    "wof:lastmodified":1449003765,
+    "wof:lastmodified":1466490229,
     "wof:name":"Mark Colgan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.946846,40.965555,-89.946846,40.965555],
-  "geometry": {"coordinates":[-89.946846,40.965555],"type":"Point"}
+  "bbox": [
+    -89.946846,
+    40.965555,
+    -89.946846,
+    40.965555
+],
+  "geometry": {"coordinates":[-89.94684599999999,40.965555],"type":"Point"}
 }

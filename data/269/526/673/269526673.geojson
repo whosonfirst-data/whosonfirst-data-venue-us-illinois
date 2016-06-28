@@ -2,13 +2,14 @@
   "id": 269526673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.312103,41.851082,-88.312103,41.851082",
     "geom:latitude":41.851082,
     "geom:longitude":-88.312103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Houston St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269526673,
-    "wof:lastmodified":1449036890,
+    "wof:lastmodified":1466489668,
     "wof:name":"Richard Eckblade",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-88.312103,41.851082,-88.312103,41.851082],
-  "geometry": {"coordinates":[-88.312103,41.851082],"type":"Point"}
+  "bbox": [
+    -88.312103,
+    41.851082,
+    -88.312103,
+    41.851082
+],
+  "geometry": {"coordinates":[-88.31210299999999,41.851082],"type":"Point"}
 }

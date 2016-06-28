@@ -2,13 +2,14 @@
   "id": 253372027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05213,41.711663,-88.05213,41.711663",
     "geom:latitude":41.711663,
     "geom:longitude":-88.05213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Pinecrest Rd",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253372027,
-    "wof:lastmodified":1449064601,
+    "wof:lastmodified":1466493775,
     "wof:name":"Archie Bragg Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-88.05213,41.711663,-88.05213,41.711663],
-  "geometry": {"coordinates":[-88.05213,41.711663],"type":"Point"}
+  "bbox": [
+    -88.05213,
+    41.711663,
+    -88.05213,
+    41.711663
+],
+  "geometry": {"coordinates":[-88.05213000000001,41.711663],"type":"Point"}
 }

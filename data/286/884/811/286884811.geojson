@@ -2,13 +2,14 @@
   "id": 286884811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699025,41.580293,-87.699025,41.580293",
     "geom:latitude":41.580293,
     "geom:longitude":-87.699025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 Tulip Dr",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286884811,
-    "wof:lastmodified":1449017557,
+    "wof:lastmodified":1466497878,
     "wof:name":"American Academy-Physical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.699025,41.580293,-87.699025,41.580293],
-  "geometry": {"coordinates":[-87.699025,41.580293],"type":"Point"}
+  "bbox": [
+    -87.699025,
+    41.580293,
+    -87.699025,
+    41.580293
+],
+  "geometry": {"coordinates":[-87.69902500000001,41.580293],"type":"Point"}
 }

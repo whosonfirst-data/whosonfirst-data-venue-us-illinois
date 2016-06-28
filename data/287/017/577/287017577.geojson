@@ -2,13 +2,14 @@
   "id": 287017577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.98005,40.575422,-89.98005,40.575422",
     "geom:latitude":40.575422,
     "geom:longitude":-89.98005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24539 E Lake Breeze Dr",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287017577,
-    "wof:lastmodified":1449001142,
+    "wof:lastmodified":1466490249,
     "wof:name":"Bankerts Service",
     "wof:parent_id":85867847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-89.98005,40.575422,-89.98005,40.575422],
-  "geometry": {"coordinates":[-89.98005,40.575422],"type":"Point"}
+  "bbox": [
+    -89.98005,
+    40.575422,
+    -89.98005,
+    40.575422
+],
+  "geometry": {"coordinates":[-89.98005000000001,40.575422],"type":"Point"}
 }

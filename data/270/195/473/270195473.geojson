@@ -2,13 +2,14 @@
   "id": 270195473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05428,41.873841,-88.05428,41.873841",
     "geom:latitude":41.873841,
     "geom:longitude":-88.05428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Carleton Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270195473,
-    "wof:lastmodified":1449010273,
+    "wof:lastmodified":1466491961,
     "wof:name":"Scott Sims Inc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-88.05428,41.873841,-88.05428,41.873841],
-  "geometry": {"coordinates":[-88.05428,41.873841],"type":"Point"}
+  "bbox": [
+    -88.05428,
+    41.873841,
+    -88.05428,
+    41.873841
+],
+  "geometry": {"coordinates":[-88.05428000000001,41.873841],"type":"Point"}
 }

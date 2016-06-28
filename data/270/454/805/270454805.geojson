@@ -2,13 +2,14 @@
   "id": 270454805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048201,41.586311,-88.048201,41.586311",
     "geom:latitude":41.586311,
     "geom:longitude":-88.048201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Garfield Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270454805,
-    "wof:lastmodified":1449010863,
+    "wof:lastmodified":1466495821,
     "wof:name":"Central Dry Cleaners",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-88.048201,41.586311,-88.048201,41.586311],
-  "geometry": {"coordinates":[-88.048201,41.586311],"type":"Point"}
+  "bbox": [
+    -88.048201,
+    41.586311,
+    -88.048201,
+    41.586311
+],
+  "geometry": {"coordinates":[-88.04820100000001,41.586311],"type":"Point"}
 }

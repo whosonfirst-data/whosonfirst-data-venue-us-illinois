@@ -2,13 +2,14 @@
   "id": 270007925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.947519,40.775086,-87.947519,40.775086",
     "geom:latitude":40.775086,
     "geom:longitude":-87.947519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 E 1850 North Rd",
     "sg:city":"Gilman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270007925,
-    "wof:lastmodified":1449010646,
+    "wof:lastmodified":1466489156,
     "wof:name":"Jon Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.947519,40.775086,-87.947519,40.775086],
+  "bbox": [
+    -87.947519,
+    40.775086,
+    -87.947519,
+    40.775086
+],
   "geometry": {"coordinates":[-87.947519,40.775086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236040855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.743586,41.865838,-87.743586,41.865838",
     "geom:latitude":41.865838,
     "geom:longitude":-87.743586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 W Roosevelt Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236040855,
-    "wof:lastmodified":1449005134,
+    "wof:lastmodified":1466489465,
     "wof:name":"Bus Station",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-87.743586,41.865838,-87.743586,41.865838],
-  "geometry": {"coordinates":[-87.743586,41.865838],"type":"Point"}
+  "bbox": [
+    -87.743586,
+    41.865838,
+    -87.743586,
+    41.865838
+],
+  "geometry": {"coordinates":[-87.74358599999999,41.865838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269662625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.68506,41.997214,-87.68506,41.997214",
     "geom:latitude":41.997214,
     "geom:longitude":-87.68506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6340 N Leavitt St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269662625,
-    "wof:lastmodified":1449037738,
+    "wof:lastmodified":1466491811,
     "wof:name":"Coin Liquor & Grocery Inc",
     "wof:parent_id":85885333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-87.68506,41.997214,-87.68506,41.997214],
-  "geometry": {"coordinates":[-87.68506,41.997214],"type":"Point"}
+  "bbox": [
+    -87.68506,
+    41.997214,
+    -87.68506,
+    41.997214
+],
+  "geometry": {"coordinates":[-87.68505999999999,41.997214],"type":"Point"}
 }

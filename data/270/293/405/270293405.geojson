@@ -2,13 +2,14 @@
   "id": 270293405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.072235,42.22729,-89.072235,42.22729",
     "geom:latitude":42.22729,
     "geom:longitude":-89.072235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 11th St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270293405,
-    "wof:lastmodified":1449009115,
+    "wof:lastmodified":1466493482,
     "wof:name":"Tire Tracks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.072235,42.22729,-89.072235,42.22729],
-  "geometry": {"coordinates":[-89.072235,42.22729],"type":"Point"}
+  "bbox": [
+    -89.072235,
+    42.22729,
+    -89.072235,
+    42.22729
+],
+  "geometry": {"coordinates":[-89.07223500000001,42.22729],"type":"Point"}
 }

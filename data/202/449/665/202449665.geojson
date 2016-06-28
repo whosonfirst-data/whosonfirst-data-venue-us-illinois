@@ -2,13 +2,14 @@
   "id": 202449665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539443,41.55624,-87.539443,41.55624",
     "geom:latitude":41.55624,
     "geom:longitude":-87.539443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18610 Burnham Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202449665,
-    "wof:lastmodified":1449062465,
+    "wof:lastmodified":1466494294,
     "wof:name":"Crystal Pure Cleaners",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.539443,41.55624,-87.539443,41.55624],
-  "geometry": {"coordinates":[-87.539443,41.55624],"type":"Point"}
+  "bbox": [
+    -87.539443,
+    41.55624,
+    -87.539443,
+    41.55624
+],
+  "geometry": {"coordinates":[-87.53944300000001,41.55624],"type":"Point"}
 }

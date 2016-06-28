@@ -2,13 +2,14 @@
   "id": 270083289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63053,40.172931,-87.63053,40.172931",
     "geom:latitude":40.172931,
     "geom:longitude":-87.63053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 N Vermilion St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270083289,
-    "wof:lastmodified":1449009796,
+    "wof:lastmodified":1466490261,
     "wof:name":"Koehn Motors Inc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.63053,40.172931,-87.63053,40.172931],
-  "geometry": {"coordinates":[-87.63053,40.172931],"type":"Point"}
+  "bbox": [
+    -87.63053,
+    40.172931,
+    -87.63053,
+    40.172931
+],
+  "geometry": {"coordinates":[-87.63052999999999,40.172931],"type":"Point"}
 }

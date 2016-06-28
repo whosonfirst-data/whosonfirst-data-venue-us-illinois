@@ -2,13 +2,14 @@
   "id": 253474705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.040707,41.784479,-88.040707,41.784479",
     "geom:latitude":41.784479,
     "geom:longitude":-88.040707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Maple Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253474705,
-    "wof:lastmodified":1449062952,
+    "wof:lastmodified":1466495451,
     "wof:name":"Goodyear",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.040707,41.784479,-88.040707,41.784479],
+  "bbox": [
+    -88.040707,
+    41.784479,
+    -88.040707,
+    41.784479
+],
   "geometry": {"coordinates":[-88.040707,41.784479],"type":"Point"}
 }

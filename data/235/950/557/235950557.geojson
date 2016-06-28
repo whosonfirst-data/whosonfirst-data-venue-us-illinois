@@ -2,13 +2,14 @@
   "id": 235950557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.974724,38.683625,-89.974724,38.683625",
     "geom:latitude":38.683625,
     "geom:longitude":-89.974724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Union Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235950557,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466489191,
     "wof:name":"Gateway Embroidery",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-89.974724,38.683625,-89.974724,38.683625],
-  "geometry": {"coordinates":[-89.974724,38.683625],"type":"Point"}
+  "bbox": [
+    -89.974724,
+    38.683625,
+    -89.974724,
+    38.683625
+],
+  "geometry": {"coordinates":[-89.97472399999999,38.683625],"type":"Point"}
 }

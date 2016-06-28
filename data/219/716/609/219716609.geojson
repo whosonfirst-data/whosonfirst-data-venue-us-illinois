@@ -2,13 +2,14 @@
   "id": 219716609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.029665,41.795255,-88.029665,41.795255",
     "geom:latitude":41.795255,
     "geom:longitude":-88.029665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Gilbert Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219716609,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466495858,
     "wof:name":"Dupage Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-88.029665,41.795255,-88.029665,41.795255],
-  "geometry": {"coordinates":[-88.029665,41.795255],"type":"Point"}
+  "bbox": [
+    -88.029665,
+    41.795255,
+    -88.029665,
+    41.795255
+],
+  "geometry": {"coordinates":[-88.02966499999999,41.795255],"type":"Point"}
 }

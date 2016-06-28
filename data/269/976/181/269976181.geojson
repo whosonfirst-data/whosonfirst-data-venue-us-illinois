@@ -2,13 +2,14 @@
   "id": 269976181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.319882,41.760448,-88.319882,41.760448",
     "geom:latitude":41.760448,
     "geom:longitude":-88.319882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":269976181,
-    "wof:lastmodified":1449037123,
+    "wof:lastmodified":1466496531,
     "wof:name":"La Hacienda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.319882,41.760448,-88.319882,41.760448],
-  "geometry": {"coordinates":[-88.319882,41.760448],"type":"Point"}
+  "bbox": [
+    -88.319882,
+    41.760448,
+    -88.319882,
+    41.760448
+],
+  "geometry": {"coordinates":[-88.31988200000001,41.760448],"type":"Point"}
 }

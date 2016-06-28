@@ -2,13 +2,14 @@
   "id": 203405179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.967971,38.682331,-89.967971,38.682331",
     "geom:latitude":38.682331,
     "geom:longitude":-89.967971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Lester Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203405179,
-    "wof:lastmodified":1449026698,
+    "wof:lastmodified":1466491656,
     "wof:name":"Willard T Atkins",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.967971,38.682331,-89.967971,38.682331],
-  "geometry": {"coordinates":[-89.967971,38.682331],"type":"Point"}
+  "bbox": [
+    -89.967971,
+    38.682331,
+    -89.967971,
+    38.682331
+],
+  "geometry": {"coordinates":[-89.96797100000001,38.682331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270017319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.801031,41.842794,-87.801031,41.842794",
     "geom:latitude":41.842794,
     "geom:longitude":-87.801031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7117 Riverside Dr",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270017319,
-    "wof:lastmodified":1449009941,
+    "wof:lastmodified":1466489291,
     "wof:name":"Trankina & Associates",
     "wof:parent_id":85890739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.801031,41.842794,-87.801031,41.842794],
-  "geometry": {"coordinates":[-87.801031,41.842794],"type":"Point"}
+  "bbox": [
+    -87.801031,
+    41.842794,
+    -87.801031,
+    41.842794
+],
+  "geometry": {"coordinates":[-87.80103099999999,41.842794],"type":"Point"}
 }

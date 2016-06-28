@@ -2,13 +2,14 @@
   "id": 203353013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.916738,41.508162,-87.916738,41.508162",
     "geom:latitude":41.508162,
     "geom:longitude":-87.916738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 E Lincoln Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203353013,
-    "wof:lastmodified":1449025445,
+    "wof:lastmodified":1466491056,
     "wof:name":"Marquette Bank",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.916738,41.508162,-87.916738,41.508162],
+  "bbox": [
+    -87.916738,
+    41.508162,
+    -87.916738,
+    41.508162
+],
   "geometry": {"coordinates":[-87.916738,41.508162],"type":"Point"}
 }

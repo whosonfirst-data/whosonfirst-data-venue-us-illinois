@@ -2,13 +2,14 @@
   "id": 270377381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.983264,41.888914,-87.983264,41.888914",
     "geom:latitude":41.888914,
     "geom:longitude":-87.983264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 W Home Ave",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270377381,
-    "wof:lastmodified":1449009557,
+    "wof:lastmodified":1466494779,
     "wof:name":"BDK Quality Svc",
     "wof:parent_id":85890961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-87.983264,41.888914,-87.983264,41.888914],
-  "geometry": {"coordinates":[-87.983264,41.888914],"type":"Point"}
+  "bbox": [
+    -87.983264,
+    41.888914,
+    -87.983264,
+    41.888914
+],
+  "geometry": {"coordinates":[-87.98326400000001,41.888914],"type":"Point"}
 }

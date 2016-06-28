@@ -2,13 +2,14 @@
   "id": 203041847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.785519,41.58555,-89.785519,41.58555",
     "geom:latitude":41.58555,
     "geom:longitude":-89.785519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Main St",
     "sg:city":"Tampico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203041847,
-    "wof:lastmodified":1449025595,
+    "wof:lastmodified":1466493431,
     "wof:name":"Ronald Reagan's Birthplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tourist"
     ]
 },
-  "bbox": [-89.785519,41.58555,-89.785519,41.58555],
-  "geometry": {"coordinates":[-89.785519,41.58555],"type":"Point"}
+  "bbox": [
+    -89.785519,
+    41.58555,
+    -89.785519,
+    41.58555
+],
+  "geometry": {"coordinates":[-89.78551899999999,41.58555],"type":"Point"}
 }

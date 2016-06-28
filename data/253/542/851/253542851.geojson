@@ -2,13 +2,14 @@
   "id": 253542851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.590732,39.798032,-88.590732,39.798032",
     "geom:latitude":39.798032,
     "geom:longitude":-88.590732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 3rd St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253542851,
-    "wof:lastmodified":1449065090,
+    "wof:lastmodified":1466496362,
     "wof:name":"Hammond Fire Protection Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.590732,39.798032,-88.590732,39.798032],
+  "bbox": [
+    -88.590732,
+    39.798032,
+    -88.590732,
+    39.798032
+],
   "geometry": {"coordinates":[-88.590732,39.798032],"type":"Point"}
 }

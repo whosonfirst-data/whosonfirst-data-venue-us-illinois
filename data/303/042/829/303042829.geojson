@@ -2,13 +2,14 @@
   "id": 303042829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.675339,41.93695,-87.675339,41.93695",
     "geom:latitude":41.93695,
     "geom:longitude":-87.675339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1834 W Nelson St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303042829,
-    "wof:lastmodified":1448999976,
+    "wof:lastmodified":1466490519,
     "wof:name":"Rofran Refrigeration",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.675339,41.93695,-87.675339,41.93695],
-  "geometry": {"coordinates":[-87.675339,41.93695],"type":"Point"}
+  "bbox": [
+    -87.675339,
+    41.93695,
+    -87.675339,
+    41.93695
+],
+  "geometry": {"coordinates":[-87.67533899999999,41.93695],"type":"Point"}
 }

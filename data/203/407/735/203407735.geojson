@@ -2,13 +2,14 @@
   "id": 203407735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539226,41.559415,-87.539226,41.559415",
     "geom:latitude":41.559415,
     "geom:longitude":-87.539226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18413 Burnham Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203407735,
-    "wof:lastmodified":1449026005,
+    "wof:lastmodified":1466491689,
     "wof:name":"Mac Solutions Inc",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.539226,41.559415,-87.539226,41.559415],
+  "bbox": [
+    -87.539226,
+    41.559415,
+    -87.539226,
+    41.559415
+],
   "geometry": {"coordinates":[-87.539226,41.559415],"type":"Point"}
 }

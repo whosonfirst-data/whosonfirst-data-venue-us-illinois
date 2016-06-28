@@ -2,13 +2,14 @@
   "id": 219731785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785019,42.037363,-87.785019,42.037363",
     "geom:latitude":42.037363,
     "geom:longitude":-87.785019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8602 Ferris Ave",
     "sg:city":"Morton Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219731785,
-    "wof:lastmodified":1449073527,
+    "wof:lastmodified":1466496041,
     "wof:name":"Henry E Szachowicz Jr",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.785019,42.037363,-87.785019,42.037363],
-  "geometry": {"coordinates":[-87.785019,42.037363],"type":"Point"}
+  "bbox": [
+    -87.785019,
+    42.037363,
+    -87.785019,
+    42.037363
+],
+  "geometry": {"coordinates":[-87.78501900000001,42.037363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202383857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.949575,38.624626,-88.949575,38.624626",
     "geom:latitude":38.624626,
     "geom:longitude":-88.949575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S College St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202383857,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466489824,
     "wof:name":"Magic Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.949575,38.624626,-88.949575,38.624626],
+  "bbox": [
+    -88.949575,
+    38.624626,
+    -88.949575,
+    38.624626
+],
   "geometry": {"coordinates":[-88.949575,38.624626],"type":"Point"}
 }

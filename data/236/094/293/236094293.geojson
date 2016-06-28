@@ -2,13 +2,14 @@
   "id": 236094293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.415983,41.366579,-88.415983,41.366579",
     "geom:latitude":41.366579,
     "geom:longitude":-88.415983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 2nd Ave",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236094293,
-    "wof:lastmodified":1449003771,
+    "wof:lastmodified":1466490112,
     "wof:name":"Barbara Kneller",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.415983,41.366579,-88.415983,41.366579],
+  "bbox": [
+    -88.415983,
+    41.366579,
+    -88.415983,
+    41.366579
+],
   "geometry": {"coordinates":[-88.415983,41.366579],"type":"Point"}
 }

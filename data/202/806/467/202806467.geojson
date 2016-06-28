@@ -2,13 +2,14 @@
   "id": 202806467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.118074,41.555852,-89.118074,41.555852",
     "geom:latitude":41.555852,
     "geom:longitude":-89.118074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Guiles Ave",
     "sg:city":"Mendota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202806467,
-    "wof:lastmodified":1449060103,
+    "wof:lastmodified":1466492025,
     "wof:name":"Delao Mexican Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.118074,41.555852,-89.118074,41.555852],
-  "geometry": {"coordinates":[-89.118074,41.555852],"type":"Point"}
+  "bbox": [
+    -89.118074,
+    41.555852,
+    -89.118074,
+    41.555852
+],
+  "geometry": {"coordinates":[-89.11807399999999,41.555852],"type":"Point"}
 }

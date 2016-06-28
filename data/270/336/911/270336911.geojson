@@ -2,13 +2,14 @@
   "id": 270336911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.611725,40.130038,-87.611725,40.130038",
     "geom:latitude":40.130038,
     "geom:longitude":-87.611725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 N Bowman Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270336911,
-    "wof:lastmodified":1449008621,
+    "wof:lastmodified":1466494168,
     "wof:name":"Bluessoul Inc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.611725,40.130038,-87.611725,40.130038],
-  "geometry": {"coordinates":[-87.611725,40.130038],"type":"Point"}
+  "bbox": [
+    -87.611725,
+    40.130038,
+    -87.611725,
+    40.130038
+],
+  "geometry": {"coordinates":[-87.61172500000001,40.130038],"type":"Point"}
 }

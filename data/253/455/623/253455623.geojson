@@ -2,13 +2,14 @@
   "id": 253455623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306069,41.888851,-88.306069,41.888851",
     "geom:latitude":41.888851,
     "geom:longitude":-88.306069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Hamilton St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253455623,
-    "wof:lastmodified":1449065293,
+    "wof:lastmodified":1466495135,
     "wof:name":"Elizabeth Wray Design",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.306069,41.888851,-88.306069,41.888851],
-  "geometry": {"coordinates":[-88.306069,41.888851],"type":"Point"}
+  "bbox": [
+    -88.306069,
+    41.888851,
+    -88.306069,
+    41.888851
+],
+  "geometry": {"coordinates":[-88.30606899999999,41.888851],"type":"Point"}
 }

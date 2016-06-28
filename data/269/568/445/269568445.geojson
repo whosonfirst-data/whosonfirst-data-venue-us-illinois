@@ -2,13 +2,14 @@
   "id": 269568445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114933,41.516261,-88.114933,41.516261",
     "geom:latitude":41.516261,
     "geom:longitude":-88.114933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Midland Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269568445,
-    "wof:lastmodified":1449036083,
+    "wof:lastmodified":1466490321,
     "wof:name":"Trizzino Construction",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.114933,41.516261,-88.114933,41.516261],
-  "geometry": {"coordinates":[-88.114933,41.516261],"type":"Point"}
+  "bbox": [
+    -88.114933,
+    41.516261,
+    -88.114933,
+    41.516261
+],
+  "geometry": {"coordinates":[-88.11493299999999,41.516261],"type":"Point"}
 }

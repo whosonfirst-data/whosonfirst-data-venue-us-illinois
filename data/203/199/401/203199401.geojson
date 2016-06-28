@@ -2,13 +2,14 @@
   "id": 203199401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677498,41.911925,-87.677498,41.911925",
     "geom:latitude":41.911925,
     "geom:longitude":-87.677498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1643 N Damen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203199401,
-    "wof:lastmodified":1449025131,
+    "wof:lastmodified":1466489344,
     "wof:name":"Spears Inc",
     "wof:parent_id":85866935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stock"
     ]
 },
-  "bbox": [-87.677498,41.911925,-87.677498,41.911925],
+  "bbox": [
+    -87.677498,
+    41.911925,
+    -87.677498,
+    41.911925
+],
   "geometry": {"coordinates":[-87.677498,41.911925],"type":"Point"}
 }

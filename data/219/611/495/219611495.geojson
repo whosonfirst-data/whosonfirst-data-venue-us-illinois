@@ -2,13 +2,14 @@
   "id": 219611495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.049337,41.771529,-88.049337,41.771529",
     "geom:latitude":41.771529,
     "geom:longitude":-88.049337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Hobson Rd",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219611495,
-    "wof:lastmodified":1449073181,
+    "wof:lastmodified":1466494474,
     "wof:name":"Estate Plan Svc",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "estate"
     ]
 },
-  "bbox": [-88.049337,41.771529,-88.049337,41.771529],
-  "geometry": {"coordinates":[-88.049337,41.771529],"type":"Point"}
+  "bbox": [
+    -88.049337,
+    41.771529,
+    -88.049337,
+    41.771529
+],
+  "geometry": {"coordinates":[-88.04933699999999,41.771529],"type":"Point"}
 }

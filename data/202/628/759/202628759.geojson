@@ -2,13 +2,14 @@
   "id": 202628759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.443025,41.367189,-88.443025,41.367189",
     "geom:latitude":41.367189,
     "geom:longitude":-88.443025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Lakewood Dr",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202628759,
-    "wof:lastmodified":1449062186,
+    "wof:lastmodified":1466490007,
     "wof:name":"Wrobel Data Services",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-88.443025,41.367189,-88.443025,41.367189],
-  "geometry": {"coordinates":[-88.443025,41.367189],"type":"Point"}
+  "bbox": [
+    -88.443025,
+    41.367189,
+    -88.443025,
+    41.367189
+],
+  "geometry": {"coordinates":[-88.44302500000001,41.367189],"type":"Point"}
 }

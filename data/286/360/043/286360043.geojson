@@ -2,13 +2,14 @@
   "id": 286360043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.773604,39.023915,-89.773604,39.023915",
     "geom:latitude":39.023915,
     "geom:longitude":-89.773604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1739 Reservoir Rd",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286360043,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466491324,
     "wof:name":"Thomas Heigert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-89.773604,39.023915,-89.773604,39.023915],
-  "geometry": {"coordinates":[-89.773604,39.023915],"type":"Point"}
+  "bbox": [
+    -89.773604,
+    39.023915,
+    -89.773604,
+    39.023915
+],
+  "geometry": {"coordinates":[-89.77360400000001,39.023915],"type":"Point"}
 }

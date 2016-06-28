@@ -2,13 +2,14 @@
   "id": 253230879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.070167,42.252359,-89.070167,42.252359",
     "geom:latitude":42.252359,
     "geom:longitude":-89.070167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Broadway",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253230879,
-    "wof:lastmodified":1449065017,
+    "wof:lastmodified":1466491735,
     "wof:name":"Rockford Instrument Lab",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-89.070167,42.252359,-89.070167,42.252359],
+  "bbox": [
+    -89.070167,
+    42.252359,
+    -89.070167,
+    42.252359
+],
   "geometry": {"coordinates":[-89.070167,42.252359],"type":"Point"}
 }

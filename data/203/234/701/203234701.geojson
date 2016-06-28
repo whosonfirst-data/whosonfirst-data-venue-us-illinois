@@ -2,13 +2,14 @@
   "id": 203234701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.13346,42.275947,-89.13346,42.275947",
     "geom:latitude":42.275947,
     "geom:longitude":-89.13346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Klines Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203234701,
-    "wof:lastmodified":1449026770,
+    "wof:lastmodified":1466489728,
     "wof:name":"Renton Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.13346,42.275947,-89.13346,42.275947],
+  "bbox": [
+    -89.13346,
+    42.275947,
+    -89.13346,
+    42.275947
+],
   "geometry": {"coordinates":[-89.13346,42.275947],"type":"Point"}
 }

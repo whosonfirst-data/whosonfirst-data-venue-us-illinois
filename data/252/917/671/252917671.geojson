@@ -2,13 +2,14 @@
   "id": 252917671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.228587,39.497241,-88.228587,39.497241",
     "geom:latitude":39.497241,
     "geom:longitude":-88.228587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8355 Country Club Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252917671,
-    "wof:lastmodified":1449006365,
+    "wof:lastmodified":1466491680,
     "wof:name":"Charleston Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-88.228587,39.497241,-88.228587,39.497241],
+  "bbox": [
+    -88.228587,
+    39.497241,
+    -88.228587,
+    39.497241
+],
   "geometry": {"coordinates":[-88.228587,39.497241],"type":"Point"}
 }

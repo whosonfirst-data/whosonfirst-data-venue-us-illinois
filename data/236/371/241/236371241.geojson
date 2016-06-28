@@ -2,13 +2,14 @@
   "id": 236371241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.30594,41.756434,-88.30594,41.756434",
     "geom:latitude":41.756434,
     "geom:longitude":-88.30594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Root St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236371241,
-    "wof:lastmodified":1449004362,
+    "wof:lastmodified":1466493669,
     "wof:name":"Super Mercado El Guero-Aurora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.30594,41.756434,-88.30594,41.756434],
-  "geometry": {"coordinates":[-88.30594,41.756434],"type":"Point"}
+  "bbox": [
+    -88.30594,
+    41.756434,
+    -88.30594,
+    41.756434
+],
+  "geometry": {"coordinates":[-88.30594000000001,41.756434],"type":"Point"}
 }

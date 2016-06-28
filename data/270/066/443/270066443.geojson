@@ -2,13 +2,14 @@
   "id": 270066443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.991627,41.850346,-87.991627,41.850346",
     "geom:latitude":41.850346,
     "geom:longitude":-87.991627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Astor Ave",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270066443,
-    "wof:lastmodified":1449009315,
+    "wof:lastmodified":1466490014,
     "wof:name":"Steven W Anderson CPA",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.991627,41.850346,-87.991627,41.850346],
-  "geometry": {"coordinates":[-87.991627,41.850346],"type":"Point"}
+  "bbox": [
+    -87.991627,
+    41.850346,
+    -87.991627,
+    41.850346
+],
+  "geometry": {"coordinates":[-87.99162699999999,41.850346],"type":"Point"}
 }

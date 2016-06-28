@@ -2,13 +2,14 @@
   "id": 270323345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849485,42.375665,-87.849485,42.375665",
     "geom:latitude":42.375665,
     "geom:longitude":-87.849485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Yeoman St",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270323345,
-    "wof:lastmodified":1449008862,
+    "wof:lastmodified":1466493943,
     "wof:name":"Gideon Baptist Church",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.849485,42.375665,-87.849485,42.375665],
+  "bbox": [
+    -87.849485,
+    42.375665,
+    -87.849485,
+    42.375665
+],
   "geometry": {"coordinates":[-87.849485,42.375665],"type":"Point"}
 }

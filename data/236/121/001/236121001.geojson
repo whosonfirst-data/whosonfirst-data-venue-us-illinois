@@ -2,13 +2,14 @@
   "id": 236121001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.352647,38.178565,-88.352647,38.178565",
     "geom:latitude":38.178565,
     "geom:longitude":-88.352647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Carter Ave",
     "sg:city":"Springerton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236121001,
-    "wof:lastmodified":1449004376,
+    "wof:lastmodified":1466490440,
     "wof:name":"John W Pierce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.352647,38.178565,-88.352647,38.178565],
+  "bbox": [
+    -88.352647,
+    38.178565,
+    -88.352647,
+    38.178565
+],
   "geometry": {"coordinates":[-88.352647,38.178565],"type":"Point"}
 }

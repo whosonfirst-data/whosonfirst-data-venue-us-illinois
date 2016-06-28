@@ -2,13 +2,14 @@
   "id": 287296913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328921,41.783568,-88.328921,41.783568",
     "geom:latitude":41.783568,
     "geom:longitude":-88.328921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N Highland Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287296913,
-    "wof:lastmodified":1449001393,
+    "wof:lastmodified":1466494688,
     "wof:name":"Association For Individual Dev",
     "wof:parent_id":85818385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.328921,41.783568,-88.328921,41.783568],
-  "geometry": {"coordinates":[-88.328921,41.783568],"type":"Point"}
+  "bbox": [
+    -88.328921,
+    41.783568,
+    -88.328921,
+    41.783568
+],
+  "geometry": {"coordinates":[-88.32892099999999,41.783568],"type":"Point"}
 }

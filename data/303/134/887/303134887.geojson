@@ -2,13 +2,14 @@
   "id": 303134887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.135551,41.880555,-88.135551,41.880555",
     "geom:latitude":41.880555,
     "geom:longitude":-88.135551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Armbrust Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303134887,
-    "wof:lastmodified":1449000430,
+    "wof:lastmodified":1466491982,
     "wof:name":"Bucner Industries Ltd",
     "wof:parent_id":85827485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.135551,41.880555,-88.135551,41.880555],
-  "geometry": {"coordinates":[-88.135551,41.880555],"type":"Point"}
+  "bbox": [
+    -88.135551,
+    41.880555,
+    -88.135551,
+    41.880555
+],
+  "geometry": {"coordinates":[-88.13555100000001,41.880555],"type":"Point"}
 }

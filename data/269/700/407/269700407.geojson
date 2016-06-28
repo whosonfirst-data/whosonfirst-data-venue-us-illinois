@@ -2,13 +2,14 @@
   "id": 269700407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.230338,40.104176,-88.230338,40.104176",
     "geom:latitude":40.104176,
     "geom:longitude":-88.230338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 S 6th St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269700407,
-    "wof:lastmodified":1449038777,
+    "wof:lastmodified":1466492422,
     "wof:name":"University of Illinois Bands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.230338,40.104176,-88.230338,40.104176],
+  "bbox": [
+    -88.230338,
+    40.104176,
+    -88.230338,
+    40.104176
+],
   "geometry": {"coordinates":[-88.230338,40.104176],"type":"Point"}
 }

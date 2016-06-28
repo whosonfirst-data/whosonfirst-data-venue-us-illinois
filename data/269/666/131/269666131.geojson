@@ -2,13 +2,14 @@
   "id": 269666131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.952008,38.997259,-88.952008,38.997259",
     "geom:latitude":38.997259,
     "geom:longitude":-88.952008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 E Main St",
     "sg:city":"Brownstown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269666131,
-    "wof:lastmodified":1449037022,
+    "wof:lastmodified":1466491861,
     "wof:name":"Brownstown Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-88.952008,38.997259,-88.952008,38.997259],
-  "geometry": {"coordinates":[-88.952008,38.997259],"type":"Point"}
+  "bbox": [
+    -88.952008,
+    38.997259,
+    -88.952008,
+    38.997259
+],
+  "geometry": {"coordinates":[-88.95200800000001,38.997259],"type":"Point"}
 }

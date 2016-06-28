@@ -2,13 +2,14 @@
   "id": 253540187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693373,41.912082,-87.693373,41.912082",
     "geom:latitude":41.912082,
     "geom:longitude":-87.693373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 N Talman Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253540187,
-    "wof:lastmodified":1449063986,
+    "wof:lastmodified":1466496171,
     "wof:name":"S Gray & Associates Ltd",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.693373,41.912082,-87.693373,41.912082],
-  "geometry": {"coordinates":[-87.693373,41.912082],"type":"Point"}
+  "bbox": [
+    -87.693373,
+    41.912082,
+    -87.693373,
+    41.912082
+],
+  "geometry": {"coordinates":[-87.69337299999999,41.912082],"type":"Point"}
 }

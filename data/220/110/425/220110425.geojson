@@ -2,13 +2,14 @@
   "id": 220110425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.949935,41.995885,-87.949935,41.995885",
     "geom:latitude":41.995885,
     "geom:longitude":-87.949935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Arthur Ave",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220110425,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1466490296,
     "wof:name":"Repro Graphics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "offset"
     ]
 },
-  "bbox": [-87.949935,41.995885,-87.949935,41.995885],
+  "bbox": [
+    -87.949935,
+    41.995885,
+    -87.949935,
+    41.995885
+],
   "geometry": {"coordinates":[-87.949935,41.995885],"type":"Point"}
 }

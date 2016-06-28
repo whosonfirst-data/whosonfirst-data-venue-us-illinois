@@ -2,13 +2,14 @@
   "id": 286840885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727353,41.944801,-87.727353,41.944801",
     "geom:latitude":41.944801,
     "geom:longitude":-87.727353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286840885,
-    "wof:lastmodified":1449017464,
+    "wof:lastmodified":1466497825,
     "wof:name":"Pulaski Auto Parts",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-87.727353,41.944801,-87.727353,41.944801],
-  "geometry": {"coordinates":[-87.727353,41.944801],"type":"Point"}
+  "bbox": [
+    -87.727353,
+    41.944801,
+    -87.727353,
+    41.944801
+],
+  "geometry": {"coordinates":[-87.72735299999999,41.944801],"type":"Point"}
 }

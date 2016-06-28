@@ -2,13 +2,14 @@
   "id": 219974831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.068621,41.708047,-88.068621,41.708047",
     "geom:latitude":41.708047,
     "geom:longitude":-88.068621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 N Bolingbrook Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219974831,
-    "wof:lastmodified":1449073453,
+    "wof:lastmodified":1466497393,
     "wof:name":"Erik's Tacos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.068621,41.708047,-88.068621,41.708047],
-  "geometry": {"coordinates":[-88.068621,41.708047],"type":"Point"}
+  "bbox": [
+    -88.068621,
+    41.708047,
+    -88.068621,
+    41.708047
+],
+  "geometry": {"coordinates":[-88.06862099999999,41.708047],"type":"Point"}
 }

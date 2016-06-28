@@ -2,13 +2,14 @@
   "id": 303045173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.154413,42.258088,-88.154413,42.258088",
     "geom:latitude":42.258088,
     "geom:longitude":-88.154413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 W Liberty St",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303045173,
-    "wof:lastmodified":1449000280,
+    "wof:lastmodified":1466490554,
     "wof:name":"Nextel Communications Inc",
     "wof:parent_id":85843889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-88.154413,42.258088,-88.154413,42.258088],
-  "geometry": {"coordinates":[-88.154413,42.258088],"type":"Point"}
+  "bbox": [
+    -88.154413,
+    42.258088,
+    -88.154413,
+    42.258088
+],
+  "geometry": {"coordinates":[-88.15441300000001,42.258088],"type":"Point"}
 }

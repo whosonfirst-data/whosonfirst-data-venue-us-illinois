@@ -2,13 +2,14 @@
   "id": 269872107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.027481,40.103728,-88.027481,40.103728",
     "geom:latitude":40.103728,
     "geom:longitude":-88.027481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Somerset Cir",
     "sg:city":"Saint Joseph",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269872107,
-    "wof:lastmodified":1449036359,
+    "wof:lastmodified":1466495143,
     "wof:name":"Mutual Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.027481,40.103728,-88.027481,40.103728],
-  "geometry": {"coordinates":[-88.027481,40.103728],"type":"Point"}
+  "bbox": [
+    -88.027481,
+    40.103728,
+    -88.027481,
+    40.103728
+],
+  "geometry": {"coordinates":[-88.02748099999999,40.103728],"type":"Point"}
 }

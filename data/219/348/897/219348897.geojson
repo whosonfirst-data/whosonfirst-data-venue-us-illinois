@@ -2,13 +2,14 @@
   "id": 219348897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.032668,40.555698,-90.032668,40.555698",
     "geom:latitude":40.555698,
     "geom:longitude":-90.032668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 E Elm St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219348897,
-    "wof:lastmodified":1449070526,
+    "wof:lastmodified":1466491290,
     "wof:name":"Jim's Barber Shop",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.032668,40.555698,-90.032668,40.555698],
+  "bbox": [
+    -90.032668,
+    40.555698,
+    -90.032668,
+    40.555698
+],
   "geometry": {"coordinates":[-90.032668,40.555698],"type":"Point"}
 }

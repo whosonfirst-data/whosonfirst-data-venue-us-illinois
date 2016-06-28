@@ -2,13 +2,14 @@
   "id": 253359919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13415,41.974045,-88.13415,41.974045",
     "geom:latitude":41.974045,
     "geom:longitude":-88.13415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5566 Santa Cruz Dr",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253359919,
-    "wof:lastmodified":1449062782,
+    "wof:lastmodified":1466493591,
     "wof:name":"T J Arneson Trucking",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.13415,41.974045,-88.13415,41.974045],
-  "geometry": {"coordinates":[-88.13415,41.974045],"type":"Point"}
+  "bbox": [
+    -88.13415,
+    41.974045,
+    -88.13415,
+    41.974045
+],
+  "geometry": {"coordinates":[-88.13415000000001,41.974045],"type":"Point"}
 }

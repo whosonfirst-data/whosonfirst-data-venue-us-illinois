@@ -2,13 +2,14 @@
   "id": 236007745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.74089,41.724628,-87.74089,41.724628",
     "geom:latitude":41.724628,
     "geom:longitude":-87.74089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9249 S Cicero Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236007745,
-    "wof:lastmodified":1449004565,
+    "wof:lastmodified":1466489049,
     "wof:name":"Oak Lawn Station",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-87.74089,41.724628,-87.74089,41.724628],
-  "geometry": {"coordinates":[-87.74089,41.724628],"type":"Point"}
+  "bbox": [
+    -87.74089,
+    41.724628,
+    -87.74089,
+    41.724628
+],
+  "geometry": {"coordinates":[-87.74088999999999,41.724628],"type":"Point"}
 }

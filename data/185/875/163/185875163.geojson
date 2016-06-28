@@ -2,13 +2,14 @@
   "id": 185875163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.700989,39.764061,-89.700989,39.764061",
     "geom:latitude":39.764061,
     "geom:longitude":-89.700989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Drawbridge Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":185875163,
-    "wof:lastmodified":1449007798,
+    "wof:lastmodified":1466489654,
     "wof:name":"Edward Jones - BRENT R DAVIS",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-89.700989,39.764061,-89.700989,39.764061],
-  "geometry": {"coordinates":[-89.700989,39.764061],"type":"Point"}
+  "bbox": [
+    -89.700989,
+    39.764061,
+    -89.700989,
+    39.764061
+],
+  "geometry": {"coordinates":[-89.70098900000001,39.764061],"type":"Point"}
 }

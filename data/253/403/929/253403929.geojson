@@ -2,13 +2,14 @@
   "id": 253403929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.222513,37.752829,-89.222513,37.752829",
     "geom:latitude":37.752829,
     "geom:longitude":-89.222513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Charles Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253403929,
-    "wof:lastmodified":1449065362,
+    "wof:lastmodified":1466494298,
     "wof:name":"Edgewood Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-89.222513,37.752829,-89.222513,37.752829],
-  "geometry": {"coordinates":[-89.222513,37.752829],"type":"Point"}
+  "bbox": [
+    -89.222513,
+    37.752829,
+    -89.222513,
+    37.752829
+],
+  "geometry": {"coordinates":[-89.22251300000001,37.752829],"type":"Point"}
 }

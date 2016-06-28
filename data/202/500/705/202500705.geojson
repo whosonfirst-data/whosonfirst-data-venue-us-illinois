@@ -2,13 +2,14 @@
   "id": 202500705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.671407,40.458185,-90.671407,40.458185",
     "geom:latitude":40.458185,
     "geom:longitude":-90.671407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 S Side Sq",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202500705,
-    "wof:lastmodified":1449060754,
+    "wof:lastmodified":1466495107,
     "wof:name":"Lasalle Street Securities LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-90.671407,40.458185,-90.671407,40.458185],
+  "bbox": [
+    -90.671407,
+    40.458185,
+    -90.671407,
+    40.458185
+],
   "geometry": {"coordinates":[-90.671407,40.458185],"type":"Point"}
 }

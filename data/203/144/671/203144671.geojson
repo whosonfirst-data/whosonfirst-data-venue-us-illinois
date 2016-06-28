@@ -2,13 +2,14 @@
   "id": 203144671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.977742,41.517051,-87.977742,41.517051",
     "geom:latitude":41.517051,
     "geom:longitude":-87.977742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Maple St",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203144671,
-    "wof:lastmodified":1449026358,
+    "wof:lastmodified":1466495439,
     "wof:name":"Glen J Kulig DDS",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.977742,41.517051,-87.977742,41.517051],
-  "geometry": {"coordinates":[-87.977742,41.517051],"type":"Point"}
+  "bbox": [
+    -87.977742,
+    41.517051,
+    -87.977742,
+    41.517051
+],
+  "geometry": {"coordinates":[-87.97774200000001,41.517051],"type":"Point"}
 }

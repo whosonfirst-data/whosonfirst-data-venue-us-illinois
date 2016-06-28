@@ -2,13 +2,14 @@
   "id": 186060863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.93264,37.752491,-88.93264,37.752491",
     "geom:latitude":37.752491,
     "geom:longitude":-88.93264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819A N Court St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":186060863,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466494393,
     "wof:name":"Scenic Route RV Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "lease"
     ]
 },
-  "bbox": [-88.93264,37.752491,-88.93264,37.752491],
-  "geometry": {"coordinates":[-88.93264,37.752491],"type":"Point"}
+  "bbox": [
+    -88.93264,
+    37.752491,
+    -88.93264,
+    37.752491
+],
+  "geometry": {"coordinates":[-88.93264000000001,37.752491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203233173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.788843,41.668366,-87.788843,41.668366",
     "geom:latitude":41.668366,
     "geom:longitude":-87.788843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12212 S 68th Ct",
     "sg:city":"Palos Heights",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203233173,
-    "wof:lastmodified":1449026884,
+    "wof:lastmodified":1466489712,
     "wof:name":"Village Woodmasters Inc",
     "wof:parent_id":85890889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.788843,41.668366,-87.788843,41.668366],
+  "bbox": [
+    -87.788843,
+    41.668366,
+    -87.788843,
+    41.668366
+],
   "geometry": {"coordinates":[-87.788843,41.668366],"type":"Point"}
 }

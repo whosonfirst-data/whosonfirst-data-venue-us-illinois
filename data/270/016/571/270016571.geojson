@@ -2,13 +2,14 @@
   "id": 270016571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.790591,40.693519,-89.790591,40.693519",
     "geom:latitude":40.693519,
     "geom:longitude":-89.790591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 N Phil Gould Dr",
     "sg:city":"Hanna City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270016571,
-    "wof:lastmodified":1449009066,
+    "wof:lastmodified":1466489279,
     "wof:name":"Brooks Auction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-89.790591,40.693519,-89.790591,40.693519],
-  "geometry": {"coordinates":[-89.790591,40.693519],"type":"Point"}
+  "bbox": [
+    -89.790591,
+    40.693519,
+    -89.790591,
+    40.693519
+],
+  "geometry": {"coordinates":[-89.79059100000001,40.693519],"type":"Point"}
 }

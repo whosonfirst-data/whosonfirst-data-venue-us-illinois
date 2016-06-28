@@ -2,13 +2,14 @@
   "id": 286651103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677884,39.804526,-87.677884,39.804526",
     "geom:latitude":39.804526,
     "geom:longitude":-87.677884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 W Madison Ave",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286651103,
-    "wof:lastmodified":1449015746,
+    "wof:lastmodified":1466495881,
     "wof:name":"Chrisman's Cozy Cor Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.677884,39.804526,-87.677884,39.804526],
-  "geometry": {"coordinates":[-87.677884,39.804526],"type":"Point"}
+  "bbox": [
+    -87.677884,
+    39.804526,
+    -87.677884,
+    39.804526
+],
+  "geometry": {"coordinates":[-87.67788400000001,39.804526],"type":"Point"}
 }

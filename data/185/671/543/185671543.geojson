@@ -2,13 +2,14 @@
   "id": 185671543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.367751,39.936459,-91.367751,39.936459",
     "geom:latitude":39.936459,
     "geom:longitude":-91.367751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 N 30th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":185671543,
-    "wof:lastmodified":1449006981,
+    "wof:lastmodified":1466494179,
     "wof:name":"County Market",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.367751,39.936459,-91.367751,39.936459],
+  "bbox": [
+    -91.367751,
+    39.936459,
+    -91.367751,
+    39.936459
+],
   "geometry": {"coordinates":[-91.367751,39.936459],"type":"Point"}
 }

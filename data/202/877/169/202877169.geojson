@@ -2,13 +2,14 @@
   "id": 202877169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727247,41.907989,-87.727247,41.907989",
     "geom:latitude":41.907989,
     "geom:longitude":-87.727247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4027 W Le Moyne St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202877169,
-    "wof:lastmodified":1449061881,
+    "wof:lastmodified":1466492906,
     "wof:name":"B & B Automotive Co",
     "wof:parent_id":85867611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.727247,41.907989,-87.727247,41.907989],
-  "geometry": {"coordinates":[-87.727247,41.907989],"type":"Point"}
+  "bbox": [
+    -87.727247,
+    41.907989,
+    -87.727247,
+    41.907989
+],
+  "geometry": {"coordinates":[-87.72724700000001,41.907989],"type":"Point"}
 }

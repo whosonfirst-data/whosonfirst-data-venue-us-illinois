@@ -2,13 +2,14 @@
   "id": 303114437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850978,41.164323,-87.850978,41.164323",
     "geom:latitude":41.164323,
     "geom:longitude":-87.850978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1764 N State Rte 50",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303114437,
-    "wof:lastmodified":1448999138,
+    "wof:lastmodified":1466491637,
     "wof:name":"Infinity Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-87.850978,41.164323,-87.850978,41.164323],
+  "bbox": [
+    -87.850978,
+    41.164323,
+    -87.850978,
+    41.164323
+],
   "geometry": {"coordinates":[-87.850978,41.164323],"type":"Point"}
 }

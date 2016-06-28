@@ -2,13 +2,14 @@
   "id": 202556425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.853366,41.807806,-87.853366,41.807806",
     "geom:latitude":41.807806,
     "geom:longitude":-87.853366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4533 Madison Ave",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202556425,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466489150,
     "wof:name":"F&C Transport Inc",
     "wof:parent_id":85890817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.853366,41.807806,-87.853366,41.807806],
-  "geometry": {"coordinates":[-87.853366,41.807806],"type":"Point"}
+  "bbox": [
+    -87.853366,
+    41.807806,
+    -87.853366,
+    41.807806
+],
+  "geometry": {"coordinates":[-87.85336599999999,41.807806],"type":"Point"}
 }

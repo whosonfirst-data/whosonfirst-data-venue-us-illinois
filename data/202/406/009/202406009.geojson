@@ -2,13 +2,14 @@
   "id": 202406009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.802537,41.88432,-87.802537,41.88432",
     "geom:latitude":41.88432,
     "geom:longitude":-87.802537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Marion St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202406009,
-    "wof:lastmodified":1449061474,
+    "wof:lastmodified":1466495695,
     "wof:name":"Drechsler Brown & Williams",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.802537,41.88432,-87.802537,41.88432],
+  "bbox": [
+    -87.802537,
+    41.88432,
+    -87.802537,
+    41.88432
+],
   "geometry": {"coordinates":[-87.802537,41.88432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270425595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693323,41.910319,-87.693323,41.910319",
     "geom:latitude":41.910319,
     "geom:longitude":-87.693323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 W North Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270425595,
-    "wof:lastmodified":1449009507,
+    "wof:lastmodified":1466495520,
     "wof:name":"ABC",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.693323,41.910319,-87.693323,41.910319],
-  "geometry": {"coordinates":[-87.693323,41.910319],"type":"Point"}
+  "bbox": [
+    -87.693323,
+    41.910319,
+    -87.693323,
+    41.910319
+],
+  "geometry": {"coordinates":[-87.69332300000001,41.910319],"type":"Point"}
 }

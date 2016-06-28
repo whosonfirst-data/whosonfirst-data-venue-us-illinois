@@ -2,13 +2,14 @@
   "id": 185799043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.86335,39.478495,-88.86335,39.478495",
     "geom:latitude":39.478495,
     "geom:longitude":-88.86335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 4th St",
     "sg:city":"Westervelt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185799043,
-    "wof:lastmodified":1449008217,
+    "wof:lastmodified":1466489020,
     "wof:name":"Kidd's Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "archery"
     ]
 },
-  "bbox": [-88.86335,39.478495,-88.86335,39.478495],
+  "bbox": [
+    -88.86335,
+    39.478495,
+    -88.86335,
+    39.478495
+],
   "geometry": {"coordinates":[-88.86335,39.478495],"type":"Point"}
 }

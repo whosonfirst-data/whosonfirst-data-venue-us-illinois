@@ -2,13 +2,14 @@
   "id": 236275865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.120489,41.665026,-88.120489,41.665026",
     "geom:latitude":41.665026,
     "geom:longitude":-88.120489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 W Lakeview Ct",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236275865,
-    "wof:lastmodified":1449002557,
+    "wof:lastmodified":1466492465,
     "wof:name":"RGIS Inventory Specialist",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-88.120489,41.665026,-88.120489,41.665026],
-  "geometry": {"coordinates":[-88.120489,41.665026],"type":"Point"}
+  "bbox": [
+    -88.120489,
+    41.665026,
+    -88.120489,
+    41.665026
+],
+  "geometry": {"coordinates":[-88.12048900000001,41.665026],"type":"Point"}
 }

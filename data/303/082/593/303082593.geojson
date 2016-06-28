@@ -2,13 +2,14 @@
   "id": 303082593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.703455,41.746991,-87.703455,41.746991",
     "geom:latitude":41.746991,
     "geom:longitude":-87.703455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8047 S Sawyer Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303082593,
-    "wof:lastmodified":1448998180,
+    "wof:lastmodified":1466491131,
     "wof:name":"Sonya Hayes Consultants",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-87.703455,41.746991,-87.703455,41.746991],
-  "geometry": {"coordinates":[-87.703455,41.746991],"type":"Point"}
+  "bbox": [
+    -87.703455,
+    41.746991,
+    -87.703455,
+    41.746991
+],
+  "geometry": {"coordinates":[-87.70345500000001,41.746991],"type":"Point"}
 }

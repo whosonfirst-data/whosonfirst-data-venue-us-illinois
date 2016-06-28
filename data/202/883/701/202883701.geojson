@@ -2,13 +2,14 @@
   "id": 202883701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.432104,41.493155,-90.432104,41.493155",
     "geom:latitude":41.493155,
     "geom:longitude":-90.432104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Archer Dr",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202883701,
-    "wof:lastmodified":1449062063,
+    "wof:lastmodified":1466492983,
     "wof:name":"East Moline Municipal Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.432104,41.493155,-90.432104,41.493155],
+  "bbox": [
+    -90.432104,
+    41.493155,
+    -90.432104,
+    41.493155
+],
   "geometry": {"coordinates":[-90.432104,41.493155],"type":"Point"}
 }

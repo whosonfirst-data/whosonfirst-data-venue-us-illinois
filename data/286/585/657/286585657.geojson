@@ -2,13 +2,14 @@
   "id": 286585657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.276772,40.112849,-88.276772,40.112849",
     "geom:latitude":40.112849,
     "geom:longitude":-88.276772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Springfield Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286585657,
-    "wof:lastmodified":1449017149,
+    "wof:lastmodified":1466494942,
     "wof:name":"Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-88.276772,40.112849,-88.276772,40.112849],
-  "geometry": {"coordinates":[-88.276772,40.112849],"type":"Point"}
+  "bbox": [
+    -88.276772,
+    40.112849,
+    -88.276772,
+    40.112849
+],
+  "geometry": {"coordinates":[-88.27677199999999,40.112849],"type":"Point"}
 }

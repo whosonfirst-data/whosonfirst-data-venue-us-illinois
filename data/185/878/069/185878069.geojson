@@ -2,13 +2,14 @@
   "id": 185878069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.679036,39.76038,-89.679036,39.76038",
     "geom:latitude":39.76038,
     "geom:longitude":-89.679036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Seven Pines Rd Apt E",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185878069,
-    "wof:lastmodified":1449007468,
+    "wof:lastmodified":1466489693,
     "wof:name":"The Hometeam Inspection Service",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-89.679036,39.76038,-89.679036,39.76038],
+  "bbox": [
+    -89.679036,
+    39.76038,
+    -89.679036,
+    39.76038
+],
   "geometry": {"coordinates":[-89.679036,39.76038],"type":"Point"}
 }

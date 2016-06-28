@@ -2,13 +2,14 @@
   "id": 185635621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.923638,38.59971,-89.923638,38.59971",
     "geom:latitude":38.59971,
     "geom:longitude":-89.923638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Ogle Rd",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185635621,
-    "wof:lastmodified":1449007314,
+    "wof:lastmodified":1466493262,
     "wof:name":"O'fallon Schools",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.923638,38.59971,-89.923638,38.59971],
+  "bbox": [
+    -89.923638,
+    38.59971,
+    -89.923638,
+    38.59971
+],
   "geometry": {"coordinates":[-89.923638,38.59971],"type":"Point"}
 }

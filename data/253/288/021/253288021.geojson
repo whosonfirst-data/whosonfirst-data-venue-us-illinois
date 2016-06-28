@@ -2,13 +2,14 @@
   "id": 253288021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.450482,37.810063,-88.450482,37.810063",
     "geom:latitude":37.810063,
     "geom:longitude":-88.450482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Academy St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253288021,
-    "wof:lastmodified":1449063122,
+    "wof:lastmodified":1466492540,
     "wof:name":"Charles Phelps Rev",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.450482,37.810063,-88.450482,37.810063],
-  "geometry": {"coordinates":[-88.450482,37.810063],"type":"Point"}
+  "bbox": [
+    -88.450482,
+    37.810063,
+    -88.450482,
+    37.810063
+],
+  "geometry": {"coordinates":[-88.45048199999999,37.810063],"type":"Point"}
 }

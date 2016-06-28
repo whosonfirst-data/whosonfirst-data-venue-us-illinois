@@ -2,13 +2,14 @@
   "id": 269771183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.663253,41.967069,-87.663253,41.967069",
     "geom:latitude":41.967069,
     "geom:longitude":-87.663253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 W Leland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269771183,
-    "wof:lastmodified":1449037437,
+    "wof:lastmodified":1466493564,
     "wof:name":"Leland House",
     "wof:parent_id":85867781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-87.663253,41.967069,-87.663253,41.967069],
+  "bbox": [
+    -87.663253,
+    41.967069,
+    -87.663253,
+    41.967069
+],
   "geometry": {"coordinates":[-87.663253,41.967069],"type":"Point"}
 }

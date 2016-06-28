@@ -2,13 +2,14 @@
   "id": 219911825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.170873,40.115517,-88.170873,40.115517",
     "geom:latitude":40.115517,
     "geom:longitude":-88.170873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 N Abbey Rd",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219911825,
-    "wof:lastmodified":1449073337,
+    "wof:lastmodified":1466497043,
     "wof:name":"Hearthstone Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.170873,40.115517,-88.170873,40.115517],
+  "bbox": [
+    -88.170873,
+    40.115517,
+    -88.170873,
+    40.115517
+],
   "geometry": {"coordinates":[-88.170873,40.115517],"type":"Point"}
 }

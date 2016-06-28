@@ -2,13 +2,14 @@
   "id": 253006319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706781,41.913602,-87.706781,41.913602",
     "geom:latitude":41.913602,
     "geom:longitude":-87.706781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 N Kedzie Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253006319,
-    "wof:lastmodified":1449065191,
+    "wof:lastmodified":1466489070,
     "wof:name":"Chicken House",
     "wof:parent_id":85867761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706781,41.913602,-87.706781,41.913602],
-  "geometry": {"coordinates":[-87.706781,41.913602],"type":"Point"}
+  "bbox": [
+    -87.706781,
+    41.913602,
+    -87.706781,
+    41.913602
+],
+  "geometry": {"coordinates":[-87.70678100000001,41.913602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253522687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748444,41.905128,-87.748444,41.905128",
     "geom:latitude":41.905128,
     "geom:longitude":-87.748444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4826 W Kamerling Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253522687,
-    "wof:lastmodified":1449064230,
+    "wof:lastmodified":1466495975,
     "wof:name":"Fine Trading",
     "wof:parent_id":85867611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "certified"
     ]
 },
-  "bbox": [-87.748444,41.905128,-87.748444,41.905128],
-  "geometry": {"coordinates":[-87.748444,41.905128],"type":"Point"}
+  "bbox": [
+    -87.748444,
+    41.905128,
+    -87.748444,
+    41.905128
+],
+  "geometry": {"coordinates":[-87.74844400000001,41.905128],"type":"Point"}
 }

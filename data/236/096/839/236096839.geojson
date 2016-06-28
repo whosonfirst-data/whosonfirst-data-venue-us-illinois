@@ -2,13 +2,14 @@
   "id": 236096839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.732036,41.93903,-87.732036,41.93903",
     "geom:latitude":41.93903,
     "geom:longitude":-87.732036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236096839,
-    "wof:lastmodified":1449002566,
+    "wof:lastmodified":1466490144,
     "wof:name":"None",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.732036,41.93903,-87.732036,41.93903],
-  "geometry": {"coordinates":[-87.732036,41.93903],"type":"Point"}
+  "bbox": [
+    -87.732036,
+    41.93903,
+    -87.732036,
+    41.93903
+],
+  "geometry": {"coordinates":[-87.73203599999999,41.93903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236553103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.350119,41.133469,-89.350119,41.133469",
     "geom:latitude":41.133469,
     "geom:longitude":-89.350119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Co Rd 1450 N",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236553103,
-    "wof:lastmodified":1449001691,
+    "wof:lastmodified":1466495960,
     "wof:name":"CAM Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-89.350119,41.133469,-89.350119,41.133469],
-  "geometry": {"coordinates":[-89.350119,41.133469],"type":"Point"}
+  "bbox": [
+    -89.350119,
+    41.133469,
+    -89.350119,
+    41.133469
+],
+  "geometry": {"coordinates":[-89.35011900000001,41.133469],"type":"Point"}
 }

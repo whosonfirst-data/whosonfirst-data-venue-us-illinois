@@ -2,13 +2,14 @@
   "id": 220026941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.116966,41.342111,-89.116966,41.342111",
     "geom:latitude":41.342111,
     "geom:longitude":-89.116966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Marquette Rd",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220026941,
-    "wof:lastmodified":1449074517,
+    "wof:lastmodified":1466489272,
     "wof:name":"Country Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "operator"
     ]
 },
-  "bbox": [-89.116966,41.342111,-89.116966,41.342111],
-  "geometry": {"coordinates":[-89.116966,41.342111],"type":"Point"}
+  "bbox": [
+    -89.116966,
+    41.342111,
+    -89.116966,
+    41.342111
+],
+  "geometry": {"coordinates":[-89.11696600000001,41.342111],"type":"Point"}
 }

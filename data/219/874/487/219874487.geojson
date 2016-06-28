@@ -2,13 +2,14 @@
   "id": 219874487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.931378,41.64056,-87.931378,41.64056",
     "geom:latitude":41.64056,
     "geom:longitude":-87.931378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13517 S Bell Rd",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219874487,
-    "wof:lastmodified":1449073682,
+    "wof:lastmodified":1466496835,
     "wof:name":"U S Tennis Court Construction",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-87.931378,41.64056,-87.931378,41.64056],
+  "bbox": [
+    -87.931378,
+    41.64056,
+    -87.931378,
+    41.64056
+],
   "geometry": {"coordinates":[-87.931378,41.64056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286937133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.67633,41.937699,-87.67633,41.937699",
     "geom:latitude":41.937699,
     "geom:longitude":-87.67633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 W Barry Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286937133,
-    "wof:lastmodified":1449015721,
+    "wof:lastmodified":1466498286,
     "wof:name":"1955 W Barry Condominium Assn",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.67633,41.937699,-87.67633,41.937699],
-  "geometry": {"coordinates":[-87.67633,41.937699],"type":"Point"}
+  "bbox": [
+    -87.67633,
+    41.937699,
+    -87.67633,
+    41.937699
+],
+  "geometry": {"coordinates":[-87.67632999999999,41.937699],"type":"Point"}
 }

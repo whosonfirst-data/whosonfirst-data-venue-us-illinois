@@ -2,13 +2,14 @@
   "id": 202880715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849309,42.410153,-87.849309,42.410153",
     "geom:latitude":42.410153,
     "geom:longitude":-87.849309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 W Yorkhouse Rd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202880715,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466492945,
     "wof:name":"Lake County Baptist Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.849309,42.410153,-87.849309,42.410153],
-  "geometry": {"coordinates":[-87.849309,42.410153],"type":"Point"}
+  "bbox": [
+    -87.849309,
+    42.410153,
+    -87.849309,
+    42.410153
+],
+  "geometry": {"coordinates":[-87.84930900000001,42.410153],"type":"Point"}
 }

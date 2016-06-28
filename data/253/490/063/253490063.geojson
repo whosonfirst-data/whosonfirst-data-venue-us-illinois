@@ -2,13 +2,14 @@
   "id": 253490063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.303222,41.730903,-88.303222,41.730903",
     "geom:latitude":41.730903,
     "geom:longitude":-88.303222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 S Union St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253490063,
-    "wof:lastmodified":1449065480,
+    "wof:lastmodified":1466495664,
     "wof:name":"Performance Fx",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.303222,41.730903,-88.303222,41.730903],
-  "geometry": {"coordinates":[-88.303222,41.730903],"type":"Point"}
+  "bbox": [
+    -88.303222,
+    41.730903,
+    -88.303222,
+    41.730903
+],
+  "geometry": {"coordinates":[-88.30322200000001,41.730903],"type":"Point"}
 }

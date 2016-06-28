@@ -2,13 +2,14 @@
   "id": 269794291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572324,41.751653,-87.572324,41.751653",
     "geom:latitude":41.751653,
     "geom:longitude":-87.572324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269794291,
-    "wof:lastmodified":1449037291,
+    "wof:lastmodified":1466493929,
     "wof:name":"87th Street Stony Island",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.572324,41.751653,-87.572324,41.751653],
-  "geometry": {"coordinates":[-87.572324,41.751653],"type":"Point"}
+  "bbox": [
+    -87.572324,
+    41.751653,
+    -87.572324,
+    41.751653
+],
+  "geometry": {"coordinates":[-87.57232399999999,41.751653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185687031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.199829,40.013512,-91.199829,40.013512",
     "geom:latitude":40.013512,
     "geom:longitude":-91.199829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 N 1750th Ave",
     "sg:city":"Fowler",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185687031,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1466494575,
     "wof:name":"Henry Moellring",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hay"
     ]
 },
-  "bbox": [-91.199829,40.013512,-91.199829,40.013512],
-  "geometry": {"coordinates":[-91.199829,40.013512],"type":"Point"}
+  "bbox": [
+    -91.199829,
+    40.013512,
+    -91.199829,
+    40.013512
+],
+  "geometry": {"coordinates":[-91.19982899999999,40.013512],"type":"Point"}
 }

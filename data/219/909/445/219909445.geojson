@@ -2,13 +2,14 @@
   "id": 219909445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64438,41.934173,-87.64438,41.934173",
     "geom:latitude":41.934173,
     "geom:longitude":-87.64438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219909445,
-    "wof:lastmodified":1449073058,
+    "wof:lastmodified":1466497020,
     "wof:name":"Standard Parking Corporation",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-87.64438,41.934173,-87.64438,41.934173],
+  "bbox": [
+    -87.64438,
+    41.934173,
+    -87.64438,
+    41.934173
+],
   "geometry": {"coordinates":[-87.64438,41.934173],"type":"Point"}
 }

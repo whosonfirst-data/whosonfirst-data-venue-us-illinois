@@ -2,13 +2,14 @@
   "id": 220092123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.222844,37.732416,-89.222844,37.732416",
     "geom:latitude":37.732416,
     "geom:longitude":-89.222844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N Bridge St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220092123,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1466490074,
     "wof:name":"Bridgestreet Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.222844,37.732416,-89.222844,37.732416],
-  "geometry": {"coordinates":[-89.222844,37.732416],"type":"Point"}
+  "bbox": [
+    -89.222844,
+    37.732416,
+    -89.222844,
+    37.732416
+],
+  "geometry": {"coordinates":[-89.22284399999999,37.732416],"type":"Point"}
 }

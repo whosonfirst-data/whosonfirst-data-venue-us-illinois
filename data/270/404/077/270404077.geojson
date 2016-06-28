@@ -2,13 +2,14 @@
   "id": 270404077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.30683,41.854584,-88.30683,41.854584",
     "geom:latitude":41.854584,
     "geom:longitude":-88.30683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 N River St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270404077,
-    "wof:lastmodified":1449010287,
+    "wof:lastmodified":1466495187,
     "wof:name":"D & B Power Assoc Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-88.30683,41.854584,-88.30683,41.854584],
-  "geometry": {"coordinates":[-88.30683,41.854584],"type":"Point"}
+  "bbox": [
+    -88.30683,
+    41.854584,
+    -88.30683,
+    41.854584
+],
+  "geometry": {"coordinates":[-88.30683000000001,41.854584],"type":"Point"}
 }

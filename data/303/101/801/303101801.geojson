@@ -2,13 +2,14 @@
   "id": 303101801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119695,41.515671,-88.119695,41.515671",
     "geom:latitude":41.515671,
     "geom:longitude":-88.119695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Stryker Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303101801,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466491429,
     "wof:name":"Dss Trucking Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.119695,41.515671,-88.119695,41.515671],
-  "geometry": {"coordinates":[-88.119695,41.515671],"type":"Point"}
+  "bbox": [
+    -88.119695,
+    41.515671,
+    -88.119695,
+    41.515671
+],
+  "geometry": {"coordinates":[-88.11969499999999,41.515671],"type":"Point"}
 }

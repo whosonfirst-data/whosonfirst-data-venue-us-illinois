@@ -2,13 +2,14 @@
   "id": 303153729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.692996,41.530449,-87.692996,41.530449",
     "geom:latitude":41.530449,
     "geom:longitude":-87.692996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1743 Heather Hill Cres",
     "sg:city":"Flossmoor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303153729,
-    "wof:lastmodified":1448999803,
+    "wof:lastmodified":1466492288,
     "wof:name":"Sheth Sushil MD",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.692996,41.530449,-87.692996,41.530449],
-  "geometry": {"coordinates":[-87.692996,41.530449],"type":"Point"}
+  "bbox": [
+    -87.692996,
+    41.530449,
+    -87.692996,
+    41.530449
+],
+  "geometry": {"coordinates":[-87.69299599999999,41.530449],"type":"Point"}
 }

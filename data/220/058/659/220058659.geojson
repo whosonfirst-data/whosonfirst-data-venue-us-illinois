@@ -2,13 +2,14 @@
   "id": 220058659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.08607,42.269279,-89.08607,42.269279",
     "geom:latitude":42.269279,
     "geom:longitude":-89.08607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N 2nd St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220058659,
-    "wof:lastmodified":1449074151,
+    "wof:lastmodified":1466489663,
     "wof:name":"Humphrey Cadillac & Olds Co",
     "wof:parent_id":85880425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.08607,42.269279,-89.08607,42.269279],
-  "geometry": {"coordinates":[-89.08607,42.269279],"type":"Point"}
+  "bbox": [
+    -89.08607,
+    42.269279,
+    -89.08607,
+    42.269279
+],
+  "geometry": {"coordinates":[-89.08607000000001,42.269279],"type":"Point"}
 }

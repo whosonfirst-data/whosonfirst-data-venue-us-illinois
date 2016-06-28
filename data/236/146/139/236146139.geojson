@@ -2,13 +2,14 @@
   "id": 236146139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.954496,42.229251,-87.954496,42.229251",
     "geom:latitude":42.229251,
     "geom:longitude":-87.954496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Fairway Dr",
     "sg:city":"Vernon Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236146139,
-    "wof:lastmodified":1449002936,
+    "wof:lastmodified":1466490749,
     "wof:name":"Introcom Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [-87.954496,42.229251,-87.954496,42.229251],
-  "geometry": {"coordinates":[-87.954496,42.229251],"type":"Point"}
+  "bbox": [
+    -87.954496,
+    42.229251,
+    -87.954496,
+    42.229251
+],
+  "geometry": {"coordinates":[-87.95449600000001,42.229251],"type":"Point"}
 }

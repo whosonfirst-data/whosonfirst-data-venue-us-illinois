@@ -2,13 +2,14 @@
   "id": 203055241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.81062,41.77479,-87.81062,41.77479",
     "geom:latitude":41.77479,
     "geom:longitude":-87.81062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6450 S 76th Ave",
     "sg:city":"Summit Argo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203055241,
-    "wof:lastmodified":1449025352,
+    "wof:lastmodified":1466493735,
     "wof:name":"Summit Community Task Force",
     "wof:parent_id":85811257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.81062,41.77479,-87.81062,41.77479],
+  "bbox": [
+    -87.81062,
+    41.77479,
+    -87.81062,
+    41.77479
+],
   "geometry": {"coordinates":[-87.81062,41.77479],"type":"Point"}
 }

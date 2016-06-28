@@ -2,13 +2,14 @@
   "id": 220089065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.429122,41.08676,-88.429122,41.08676",
     "geom:latitude":41.08676,
     "geom:longitude":-88.429122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gooseberry Ln",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220089065,
-    "wof:lastmodified":1449074205,
+    "wof:lastmodified":1466490038,
     "wof:name":"Wilmington Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.429122,41.08676,-88.429122,41.08676],
-  "geometry": {"coordinates":[-88.429122,41.08676],"type":"Point"}
+  "bbox": [
+    -88.429122,
+    41.08676,
+    -88.429122,
+    41.08676
+],
+  "geometry": {"coordinates":[-88.42912200000001,41.08676],"type":"Point"}
 }

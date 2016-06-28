@@ -2,13 +2,14 @@
   "id": 270263721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.282225,40.153559,-89.282225,40.153559",
     "geom:latitude":40.153559,
     "geom:longitude":-89.282225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 1650th Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270263721,
-    "wof:lastmodified":1449011062,
+    "wof:lastmodified":1466493034,
     "wof:name":"Lincoln Farm Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "corn"
     ]
 },
-  "bbox": [-89.282225,40.153559,-89.282225,40.153559],
+  "bbox": [
+    -89.282225,
+    40.153559,
+    -89.282225,
+    40.153559
+],
   "geometry": {"coordinates":[-89.282225,40.153559],"type":"Point"}
 }

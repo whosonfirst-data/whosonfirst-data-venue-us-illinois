@@ -2,13 +2,14 @@
   "id": 270164629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.089746,42.280422,-89.089746,42.280422",
     "geom:latitude":42.280422,
     "geom:longitude":-89.089746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 N Court St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270164629,
-    "wof:lastmodified":1449008938,
+    "wof:lastmodified":1466491459,
     "wof:name":"Downtowner Apartments",
     "wof:parent_id":85880425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.089746,42.280422,-89.089746,42.280422],
-  "geometry": {"coordinates":[-89.089746,42.280422],"type":"Point"}
+  "bbox": [
+    -89.089746,
+    42.280422,
+    -89.089746,
+    42.280422
+],
+  "geometry": {"coordinates":[-89.08974600000001,42.280422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219790621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.092362,42.256129,-89.092362,42.256129",
     "geom:latitude":42.256129,
     "geom:longitude":-89.092362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Seminary St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219790621,
-    "wof:lastmodified":1449073110,
+    "wof:lastmodified":1466496661,
     "wof:name":"Joseph Behr & Sons Inc",
     "wof:parent_id":85880447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "smelting"
     ]
 },
-  "bbox": [-89.092362,42.256129,-89.092362,42.256129],
-  "geometry": {"coordinates":[-89.092362,42.256129],"type":"Point"}
+  "bbox": [
+    -89.092362,
+    42.256129,
+    -89.092362,
+    42.256129
+],
+  "geometry": {"coordinates":[-89.09236199999999,42.256129],"type":"Point"}
 }

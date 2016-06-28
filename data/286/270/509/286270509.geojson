@@ -2,13 +2,14 @@
   "id": 286270509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702128,41.928075,-87.702128,41.928075",
     "geom:latitude":41.928075,
     "geom:longitude":-87.702128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2949 W Logan Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286270509,
-    "wof:lastmodified":1449015679,
+    "wof:lastmodified":1466489971,
     "wof:name":"Castle Marketing",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.702128,41.928075,-87.702128,41.928075],
+  "bbox": [
+    -87.702128,
+    41.928075,
+    -87.702128,
+    41.928075
+],
   "geometry": {"coordinates":[-87.702128,41.928075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236652473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.226278,40.143967,-88.226278,40.143967",
     "geom:latitude":40.143967,
     "geom:longitude":-88.226278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 N Oak St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236652473,
-    "wof:lastmodified":1449003844,
+    "wof:lastmodified":1466496877,
     "wof:name":"Canadian National Railroad",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.226278,40.143967,-88.226278,40.143967],
-  "geometry": {"coordinates":[-88.226278,40.143967],"type":"Point"}
+  "bbox": [
+    -88.226278,
+    40.143967,
+    -88.226278,
+    40.143967
+],
+  "geometry": {"coordinates":[-88.22627799999999,40.143967],"type":"Point"}
 }

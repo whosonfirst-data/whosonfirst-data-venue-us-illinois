@@ -2,13 +2,14 @@
   "id": 185660617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.229286,38.333172,-90.229286,38.333172",
     "geom:latitude":38.333172,
     "geom:longitude":-90.229286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Trout Camp Rd",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185660617,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466493922,
     "wof:name":"City Of Waterloo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-90.229286,38.333172,-90.229286,38.333172],
+  "bbox": [
+    -90.229286,
+    38.333172,
+    -90.229286,
+    38.333172
+],
   "geometry": {"coordinates":[-90.229286,38.333172],"type":"Point"}
 }

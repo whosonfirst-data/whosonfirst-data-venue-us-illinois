@@ -2,13 +2,14 @@
   "id": 203050327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111584,42.494631,-88.111584,42.494631",
     "geom:latitude":42.494631,
     "geom:longitude":-88.111584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43450 N Trevor Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203050327,
-    "wof:lastmodified":1449025987,
+    "wof:lastmodified":1466493632,
     "wof:name":"Hill Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.111584,42.494631,-88.111584,42.494631],
-  "geometry": {"coordinates":[-88.111584,42.494631],"type":"Point"}
+  "bbox": [
+    -88.111584,
+    42.494631,
+    -88.111584,
+    42.494631
+],
+  "geometry": {"coordinates":[-88.11158399999999,42.494631],"type":"Point"}
 }

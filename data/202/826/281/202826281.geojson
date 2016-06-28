@@ -2,13 +2,14 @@
   "id": 202826281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696778,41.527915,-87.696778,41.527915",
     "geom:latitude":41.527915,
     "geom:longitude":-87.696778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3432 Vollmer Rd",
     "sg:city":"Olympia Fields",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202826281,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1466492275,
     "wof:name":"All Natural Vending",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-87.696778,41.527915,-87.696778,41.527915],
-  "geometry": {"coordinates":[-87.696778,41.527915],"type":"Point"}
+  "bbox": [
+    -87.696778,
+    41.527915,
+    -87.696778,
+    41.527915
+],
+  "geometry": {"coordinates":[-87.69677799999999,41.527915],"type":"Point"}
 }

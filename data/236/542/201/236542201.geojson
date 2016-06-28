@@ -2,13 +2,14 @@
   "id": 236542201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.989319,40.609116,-88.989319,40.609116",
     "geom:latitude":40.609116,
     "geom:longitude":-88.989319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Walnut St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236542201,
-    "wof:lastmodified":1449004359,
+    "wof:lastmodified":1466495854,
     "wof:name":"Hudson Baptist Church",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.989319,40.609116,-88.989319,40.609116],
-  "geometry": {"coordinates":[-88.989319,40.609116],"type":"Point"}
+  "bbox": [
+    -88.989319,
+    40.609116,
+    -88.989319,
+    40.609116
+],
+  "geometry": {"coordinates":[-88.98931899999999,40.609116],"type":"Point"}
 }

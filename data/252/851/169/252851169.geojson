@@ -2,13 +2,14 @@
   "id": 252851169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.02903,42.286772,-89.02903,42.286772",
     "geom:latitude":42.286772,
     "geom:longitude":-89.02903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 N Alpine Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252851169,
-    "wof:lastmodified":1449006116,
+    "wof:lastmodified":1466490821,
     "wof:name":"Rudys Cigars",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-89.02903,42.286772,-89.02903,42.286772],
-  "geometry": {"coordinates":[-89.02903,42.286772],"type":"Point"}
+  "bbox": [
+    -89.02903,
+    42.286772,
+    -89.02903,
+    42.286772
+],
+  "geometry": {"coordinates":[-89.02903000000001,42.286772],"type":"Point"}
 }

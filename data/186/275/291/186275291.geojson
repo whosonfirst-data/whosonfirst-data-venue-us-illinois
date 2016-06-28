@@ -2,13 +2,14 @@
   "id": 186275291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.207298,38.606998,-90.207298,38.606998",
     "geom:latitude":38.606998,
     "geom:longitude":-90.207298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Russell Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186275291,
-    "wof:lastmodified":1449051248,
+    "wof:lastmodified":1466495488,
     "wof:name":"Soulard Fine Arts Building",
     "wof:parent_id":85867037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.207298,38.606998,-90.207298,38.606998],
-  "geometry": {"coordinates":[-90.207298,38.606998],"type":"Point"}
+  "bbox": [
+    -90.207298,
+    38.606998,
+    -90.207298,
+    38.606998
+],
+  "geometry": {"coordinates":[-90.20729799999999,38.606998],"type":"Point"}
 }

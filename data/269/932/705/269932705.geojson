@@ -2,13 +2,14 @@
   "id": 269932705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.19943,41.883551,-88.19943,41.883551",
     "geom:latitude":41.883551,
     "geom:longitude":-88.19943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Chicago St",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269932705,
-    "wof:lastmodified":1449037038,
+    "wof:lastmodified":1466495899,
     "wof:name":"Cox's Prairie Landscaping",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.19943,41.883551,-88.19943,41.883551],
-  "geometry": {"coordinates":[-88.19943,41.883551],"type":"Point"}
+  "bbox": [
+    -88.19943,
+    41.883551,
+    -88.19943,
+    41.883551
+],
+  "geometry": {"coordinates":[-88.19943000000001,41.883551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219897233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.53974,39.135699,-88.53974,39.135699",
     "geom:latitude":39.135699,
     "geom:longitude":-88.53974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Greenview Dr",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219897233,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466496946,
     "wof:name":"Illinois Education Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "association"
     ]
 },
-  "bbox": [-88.53974,39.135699,-88.53974,39.135699],
-  "geometry": {"coordinates":[-88.53974,39.135699],"type":"Point"}
+  "bbox": [
+    -88.53974,
+    39.135699,
+    -88.53974,
+    39.135699
+],
+  "geometry": {"coordinates":[-88.53973999999999,39.135699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253700403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.704276,41.720703,-87.704276,41.720703",
     "geom:latitude":41.720703,
     "geom:longitude":-87.704276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3339 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253700403,
-    "wof:lastmodified":1449065529,
+    "wof:lastmodified":1466497751,
     "wof:name":"Southwest Auto Sounds",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-87.704276,41.720703,-87.704276,41.720703],
-  "geometry": {"coordinates":[-87.704276,41.720703],"type":"Point"}
+  "bbox": [
+    -87.704276,
+    41.720703,
+    -87.704276,
+    41.720703
+],
+  "geometry": {"coordinates":[-87.70427599999999,41.720703],"type":"Point"}
 }

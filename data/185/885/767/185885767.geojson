@@ -2,13 +2,14 @@
   "id": 185885767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.739723,39.82357,-89.739723,39.82357",
     "geom:latitude":39.82357,
     "geom:longitude":-89.739723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 N Bradfordton Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185885767,
-    "wof:lastmodified":1449007478,
+    "wof:lastmodified":1466489804,
     "wof:name":"Resident Agent In Charge",
     "wof:parent_id":85868929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-89.739723,39.82357,-89.739723,39.82357],
+  "bbox": [
+    -89.739723,
+    39.82357,
+    -89.739723,
+    39.82357
+],
   "geometry": {"coordinates":[-89.739723,39.82357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236083691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.485534,41.84387,-89.485534,41.84387",
     "geom:latitude":41.84387,
     "geom:longitude":-89.485534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W River St",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236083691,
-    "wof:lastmodified":1449003169,
+    "wof:lastmodified":1466489980,
     "wof:name":"AVP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-89.485534,41.84387,-89.485534,41.84387],
+  "bbox": [
+    -89.485534,
+    41.84387,
+    -89.485534,
+    41.84387
+],
   "geometry": {"coordinates":[-89.485534,41.84387],"type":"Point"}
 }

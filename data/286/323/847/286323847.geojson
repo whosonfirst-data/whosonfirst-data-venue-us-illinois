@@ -2,13 +2,14 @@
   "id": 286323847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.632145,41.93344,-87.632145,41.93344",
     "geom:latitude":41.93344,
     "geom:longitude":-87.632145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 N Lake Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286323847,
-    "wof:lastmodified":1449015437,
+    "wof:lastmodified":1466490777,
     "wof:name":"Standard Parking Corporation",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-87.632145,41.93344,-87.632145,41.93344],
-  "geometry": {"coordinates":[-87.632145,41.93344],"type":"Point"}
+  "bbox": [
+    -87.632145,
+    41.93344,
+    -87.632145,
+    41.93344
+],
+  "geometry": {"coordinates":[-87.63214499999999,41.93344],"type":"Point"}
 }

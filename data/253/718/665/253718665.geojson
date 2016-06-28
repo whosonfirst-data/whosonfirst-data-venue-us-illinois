@@ -2,13 +2,14 @@
   "id": 253718665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.746766,41.93764,-87.746766,41.93764",
     "geom:latitude":41.93764,
     "geom:longitude":-87.746766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253718665,
-    "wof:lastmodified":1449063441,
+    "wof:lastmodified":1466497640,
     "wof:name":"Cars-R-Us Auto Sales",
     "wof:parent_id":85867645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.746766,41.93764,-87.746766,41.93764],
-  "geometry": {"coordinates":[-87.746766,41.93764],"type":"Point"}
+  "bbox": [
+    -87.746766,
+    41.93764,
+    -87.746766,
+    41.93764
+],
+  "geometry": {"coordinates":[-87.74676599999999,41.93764],"type":"Point"}
 }

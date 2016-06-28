@@ -2,13 +2,14 @@
   "id": 337464113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.77993,41.748404,-87.77993,41.748404",
     "geom:latitude":41.748404,
     "geom:longitude":-87.77993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6345 W 79th St",
     "sg:city":"Burbank",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337464113,
-    "wof:lastmodified":1449027152,
+    "wof:lastmodified":1466492380,
     "wof:name":"Burbank Manor",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rooms"
     ]
 },
-  "bbox": [-87.77993,41.748404,-87.77993,41.748404],
-  "geometry": {"coordinates":[-87.77993,41.748404],"type":"Point"}
+  "bbox": [
+    -87.77993,
+    41.748404,
+    -87.77993,
+    41.748404
+],
+  "geometry": {"coordinates":[-87.77992999999999,41.748404],"type":"Point"}
 }

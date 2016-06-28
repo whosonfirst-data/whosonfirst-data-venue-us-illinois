@@ -2,13 +2,14 @@
   "id": 269805133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.953493,41.92424,-87.953493,41.92424",
     "geom:latitude":41.92424,
     "geom:longitude":-87.953493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Church Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269805133,
-    "wof:lastmodified":1449036954,
+    "wof:lastmodified":1466494102,
     "wof:name":"Go Products",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.953493,41.92424,-87.953493,41.92424],
-  "geometry": {"coordinates":[-87.953493,41.92424],"type":"Point"}
+  "bbox": [
+    -87.953493,
+    41.92424,
+    -87.953493,
+    41.92424
+],
+  "geometry": {"coordinates":[-87.95349299999999,41.92424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186070505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.721023,37.145763,-88.721023,37.145763",
     "geom:latitude":37.145763,
     "geom:longitude":-88.721023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 E 5th St",
     "sg:city":"Metropolis",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186070505,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1466494599,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-88.721023,37.145763,-88.721023,37.145763],
+  "bbox": [
+    -88.721023,
+    37.145763,
+    -88.721023,
+    37.145763
+],
   "geometry": {"coordinates":[-88.721023,37.145763],"type":"Point"}
 }

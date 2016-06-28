@@ -2,13 +2,14 @@
   "id": 202672829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.530155,41.563999,-87.530155,41.563999",
     "geom:latitude":41.563999,
     "geom:longitude":-87.530155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3523 Ridge Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202672829,
-    "wof:lastmodified":1449060274,
+    "wof:lastmodified":1466490505,
     "wof:name":"Benchmark Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.530155,41.563999,-87.530155,41.563999],
-  "geometry": {"coordinates":[-87.530155,41.563999],"type":"Point"}
+  "bbox": [
+    -87.530155,
+    41.563999,
+    -87.530155,
+    41.563999
+],
+  "geometry": {"coordinates":[-87.53015499999999,41.563999],"type":"Point"}
 }

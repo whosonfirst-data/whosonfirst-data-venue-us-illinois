@@ -2,13 +2,14 @@
   "id": 286330223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855693,42.370107,-87.855693,42.370107",
     "geom:latitude":42.370107,
     "geom:longitude":-87.855693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 N Lewis Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286330223,
-    "wof:lastmodified":1449016650,
+    "wof:lastmodified":1466490874,
     "wof:name":"Lake County Soccer Assn",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-87.855693,42.370107,-87.855693,42.370107],
+  "bbox": [
+    -87.855693,
+    42.370107,
+    -87.855693,
+    42.370107
+],
   "geometry": {"coordinates":[-87.855693,42.370107],"type":"Point"}
 }

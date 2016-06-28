@@ -2,13 +2,14 @@
   "id": 186256735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.190002,38.625401,-90.190002,38.625401",
     "geom:latitude":38.625401,
     "geom:longitude":-90.190002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 S Broadway Ste 1300",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186256735,
-    "wof:lastmodified":1449052372,
+    "wof:lastmodified":1466495454,
     "wof:name":"Lathrop & Gage Lc",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.190002,38.625401,-90.190002,38.625401],
-  "geometry": {"coordinates":[-90.190002,38.625401],"type":"Point"}
+  "bbox": [
+    -90.190002,
+    38.625401,
+    -90.190002,
+    38.625401
+],
+  "geometry": {"coordinates":[-90.19000200000001,38.625401],"type":"Point"}
 }

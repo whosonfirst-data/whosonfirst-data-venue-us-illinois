@@ -2,13 +2,14 @@
   "id": 270461009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.946159,39.593656,-89.946159,39.593656",
     "geom:latitude":39.593656,
     "geom:longitude":-89.946159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 E Tremont St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270461009,
-    "wof:lastmodified":1449009563,
+    "wof:lastmodified":1466496318,
     "wof:name":"Julius Ladage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.946159,39.593656,-89.946159,39.593656],
-  "geometry": {"coordinates":[-89.946159,39.593656],"type":"Point"}
+  "bbox": [
+    -89.946159,
+    39.593656,
+    -89.946159,
+    39.593656
+],
+  "geometry": {"coordinates":[-89.94615899999999,39.593656],"type":"Point"}
 }

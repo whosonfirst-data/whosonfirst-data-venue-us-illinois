@@ -2,13 +2,14 @@
   "id": 303095665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747813,42.017851,-87.747813,42.017851",
     "geom:latitude":42.017851,
     "geom:longitude":-87.747813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7514 Skokie Blvd",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303095665,
-    "wof:lastmodified":1448999362,
+    "wof:lastmodified":1466491333,
     "wof:name":"Comphomat",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.747813,42.017851,-87.747813,42.017851],
-  "geometry": {"coordinates":[-87.747813,42.017851],"type":"Point"}
+  "bbox": [
+    -87.747813,
+    42.017851,
+    -87.747813,
+    42.017851
+],
+  "geometry": {"coordinates":[-87.74781299999999,42.017851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303084403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.310583,41.754405,-88.310583,41.754405",
     "geom:latitude":41.754405,
     "geom:longitude":-88.310583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 E Downer Pl",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303084403,
-    "wof:lastmodified":1448998386,
+    "wof:lastmodified":1466491158,
     "wof:name":"Ron Stewart Portraiture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-88.310583,41.754405,-88.310583,41.754405],
-  "geometry": {"coordinates":[-88.310583,41.754405],"type":"Point"}
+  "bbox": [
+    -88.310583,
+    41.754405,
+    -88.310583,
+    41.754405
+],
+  "geometry": {"coordinates":[-88.31058299999999,41.754405],"type":"Point"}
 }

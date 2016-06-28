@@ -2,13 +2,14 @@
   "id": 286865457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.664054,41.945579,-87.664054,41.945579",
     "geom:latitude":41.945579,
     "geom:longitude":-87.664054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3530 N Southport Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286865457,
-    "wof:lastmodified":1449017406,
+    "wof:lastmodified":1466497732,
     "wof:name":"Freesia",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-87.664054,41.945579,-87.664054,41.945579],
-  "geometry": {"coordinates":[-87.664054,41.945579],"type":"Point"}
+  "bbox": [
+    -87.664054,
+    41.945579,
+    -87.664054,
+    41.945579
+],
+  "geometry": {"coordinates":[-87.66405399999999,41.945579],"type":"Point"}
 }

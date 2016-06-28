@@ -2,13 +2,14 @@
   "id": 236475905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.148407,39.988459,-91.148407,39.988459",
     "geom:latitude":39.988459,
     "geom:longitude":-91.148407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 State St",
     "sg:city":"Camp Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236475905,
-    "wof:lastmodified":1449002943,
+    "wof:lastmodified":1466495062,
     "wof:name":"Camp Point Community Building",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-91.148407,39.988459,-91.148407,39.988459],
-  "geometry": {"coordinates":[-91.148407,39.988459],"type":"Point"}
+  "bbox": [
+    -91.148407,
+    39.988459,
+    -91.148407,
+    39.988459
+],
+  "geometry": {"coordinates":[-91.14840700000001,39.988459],"type":"Point"}
 }

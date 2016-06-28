@@ -2,13 +2,14 @@
   "id": 220059455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.860651,41.122524,-87.860651,41.122524",
     "geom:latitude":41.122524,
     "geom:longitude":-87.860651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Chestnut St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220059455,
-    "wof:lastmodified":1449074238,
+    "wof:lastmodified":1466489675,
     "wof:name":"Ben's Garage Detail",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.860651,41.122524,-87.860651,41.122524],
+  "bbox": [
+    -87.860651,
+    41.122524,
+    -87.860651,
+    41.122524
+],
   "geometry": {"coordinates":[-87.860651,41.122524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202512437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.925632,41.213619,-89.925632,41.213619",
     "geom:latitude":41.213619,
     "geom:longitude":-89.925632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4328 US Hwy 34",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202512437,
-    "wof:lastmodified":1449061947,
+    "wof:lastmodified":1466495277,
     "wof:name":"Denny's Sales & Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-89.925632,41.213619,-89.925632,41.213619],
-  "geometry": {"coordinates":[-89.925632,41.213619],"type":"Point"}
+  "bbox": [
+    -89.925632,
+    41.213619,
+    -89.925632,
+    41.213619
+],
+  "geometry": {"coordinates":[-89.92563199999999,41.213619],"type":"Point"}
 }

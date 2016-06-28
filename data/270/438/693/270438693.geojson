@@ -2,13 +2,14 @@
   "id": 270438693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.237364,41.757512,-88.237364,41.757512",
     "geom:latitude":41.757512,
     "geom:longitude":-88.237364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 N Oakhurst Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270438693,
-    "wof:lastmodified":1449009459,
+    "wof:lastmodified":1466495669,
     "wof:name":"Hunters Glen Apartments",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.237364,41.757512,-88.237364,41.757512],
+  "bbox": [
+    -88.237364,
+    41.757512,
+    -88.237364,
+    41.757512
+],
   "geometry": {"coordinates":[-88.237364,41.757512],"type":"Point"}
 }

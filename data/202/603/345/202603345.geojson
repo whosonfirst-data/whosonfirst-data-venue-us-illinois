@@ -2,13 +2,14 @@
   "id": 202603345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034715,40.564863,-90.034715,40.564863",
     "geom:latitude":40.564863,
     "geom:longitude":-90.034715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 E Birch St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202603345,
-    "wof:lastmodified":1449062268,
+    "wof:lastmodified":1466489700,
     "wof:name":"Triad Sign Co",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.034715,40.564863,-90.034715,40.564863],
-  "geometry": {"coordinates":[-90.034715,40.564863],"type":"Point"}
+  "bbox": [
+    -90.034715,
+    40.564863,
+    -90.034715,
+    40.564863
+],
+  "geometry": {"coordinates":[-90.03471500000001,40.564863],"type":"Point"}
 }

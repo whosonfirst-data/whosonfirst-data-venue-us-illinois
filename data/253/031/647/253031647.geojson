@@ -2,13 +2,14 @@
   "id": 253031647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673158,41.936977,-87.673158,41.936977",
     "geom:latitude":41.936977,
     "geom:longitude":-87.673158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 W Nelson St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253031647,
-    "wof:lastmodified":1449063930,
+    "wof:lastmodified":1466489394,
     "wof:name":"Z Tax Income Tax Svs",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-87.673158,41.936977,-87.673158,41.936977],
+  "bbox": [
+    -87.673158,
+    41.936977,
+    -87.673158,
+    41.936977
+],
   "geometry": {"coordinates":[-87.673158,41.936977],"type":"Point"}
 }

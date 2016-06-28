@@ -2,13 +2,14 @@
   "id": 253035471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685485,41.449895,-87.685485,41.449895",
     "geom:latitude":41.449895,
     "geom:longitude":-87.685485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Burnham Dr",
     "sg:city":"Park Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253035471,
-    "wof:lastmodified":1449065196,
+    "wof:lastmodified":1466489439,
     "wof:name":"Willow House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.685485,41.449895,-87.685485,41.449895],
+  "bbox": [
+    -87.685485,
+    41.449895,
+    -87.685485,
+    41.449895
+],
   "geometry": {"coordinates":[-87.685485,41.449895],"type":"Point"}
 }

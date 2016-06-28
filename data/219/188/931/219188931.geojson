@@ -2,13 +2,14 @@
   "id": 219188931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.248386,40.11622,-88.248386,40.11622",
     "geom:latitude":40.11622,
     "geom:longitude":-88.248386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W University Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219188931,
-    "wof:lastmodified":1449072131,
+    "wof:lastmodified":1466489352,
     "wof:name":"East View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.248386,40.11622,-88.248386,40.11622],
+  "bbox": [
+    -88.248386,
+    40.11622,
+    -88.248386,
+    40.11622
+],
   "geometry": {"coordinates":[-88.248386,40.11622],"type":"Point"}
 }

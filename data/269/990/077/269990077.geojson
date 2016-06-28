@@ -2,13 +2,14 @@
   "id": 269990077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.884667,40.83871,-89.884667,40.83871",
     "geom:latitude":40.83871,
     "geom:longitude":-89.884667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Galena Ave",
     "sg:city":"Brimfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269990077,
-    "wof:lastmodified":1449037728,
+    "wof:lastmodified":1466496480,
     "wof:name":"Brimfield Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.884667,40.83871,-89.884667,40.83871],
-  "geometry": {"coordinates":[-89.884667,40.83871],"type":"Point"}
+  "bbox": [
+    -89.884667,
+    40.83871,
+    -89.884667,
+    40.83871
+],
+  "geometry": {"coordinates":[-89.88466699999999,40.83871],"type":"Point"}
 }

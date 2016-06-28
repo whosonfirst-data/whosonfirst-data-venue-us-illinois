@@ -2,13 +2,14 @@
   "id": 269514191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.162659,41.536515,-88.162659,41.536515",
     "geom:latitude":41.536515,
     "geom:longitude":-88.162659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3395 Black Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269514191,
-    "wof:lastmodified":1449037348,
+    "wof:lastmodified":1466489473,
     "wof:name":"Joliet Public Library",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.162659,41.536515,-88.162659,41.536515],
+  "bbox": [
+    -88.162659,
+    41.536515,
+    -88.162659,
+    41.536515
+],
   "geometry": {"coordinates":[-88.162659,41.536515],"type":"Point"}
 }

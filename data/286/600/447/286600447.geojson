@@ -2,13 +2,14 @@
   "id": 286600447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.92987,41.931223,-89.92987,41.931223",
     "geom:latitude":41.931223,
     "geom:longitude":-89.92987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16459 Clark Rd",
     "sg:city":"Chadwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286600447,
-    "wof:lastmodified":1449015457,
+    "wof:lastmodified":1466495196,
     "wof:name":"Gary Houzenga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.92987,41.931223,-89.92987,41.931223],
-  "geometry": {"coordinates":[-89.92987,41.931223],"type":"Point"}
+  "bbox": [
+    -89.92987,
+    41.931223,
+    -89.92987,
+    41.931223
+],
+  "geometry": {"coordinates":[-89.92986999999999,41.931223],"type":"Point"}
 }

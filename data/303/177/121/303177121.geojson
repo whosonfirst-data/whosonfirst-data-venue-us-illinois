@@ -2,13 +2,14 @@
   "id": 303177121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.878261,40.748418,-88.878261,40.748418",
     "geom:latitude":40.748418,
     "geom:longitude":-88.878261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Everett Dr",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303177121,
-    "wof:lastmodified":1449000564,
+    "wof:lastmodified":1466492671,
     "wof:name":"Software Engineering",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.878261,40.748418,-88.878261,40.748418],
-  "geometry": {"coordinates":[-88.878261,40.748418],"type":"Point"}
+  "bbox": [
+    -88.878261,
+    40.748418,
+    -88.878261,
+    40.748418
+],
+  "geometry": {"coordinates":[-88.87826099999999,40.748418],"type":"Point"}
 }

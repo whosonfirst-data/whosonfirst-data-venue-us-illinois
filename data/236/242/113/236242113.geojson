@@ -2,13 +2,14 @@
   "id": 236242113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650387,41.939387,-87.650387,41.939387",
     "geom:latitude":41.939387,
     "geom:longitude":-87.650387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3176 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236242113,
-    "wof:lastmodified":1449004777,
+    "wof:lastmodified":1466491994,
     "wof:name":"Consolidated Communication Svc",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.650387,41.939387,-87.650387,41.939387],
-  "geometry": {"coordinates":[-87.650387,41.939387],"type":"Point"}
+  "bbox": [
+    -87.650387,
+    41.939387,
+    -87.650387,
+    41.939387
+],
+  "geometry": {"coordinates":[-87.65038699999999,41.939387],"type":"Point"}
 }

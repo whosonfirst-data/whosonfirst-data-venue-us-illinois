@@ -2,13 +2,14 @@
   "id": 203160091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107132,41.505923,-88.107132,41.505923",
     "geom:latitude":41.505923,
     "geom:longitude":-88.107132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Moen Ave",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203160091,
-    "wof:lastmodified":1449026541,
+    "wof:lastmodified":1466495599,
     "wof:name":"Rockdale Clerk's Office",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.107132,41.505923,-88.107132,41.505923],
-  "geometry": {"coordinates":[-88.107132,41.505923],"type":"Point"}
+  "bbox": [
+    -88.107132,
+    41.505923,
+    -88.107132,
+    41.505923
+],
+  "geometry": {"coordinates":[-88.10713199999999,41.505923],"type":"Point"}
 }

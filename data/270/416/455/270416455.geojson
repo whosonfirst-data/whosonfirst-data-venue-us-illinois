@@ -2,13 +2,14 @@
   "id": 270416455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.24218,41.746526,-88.24218,41.746526",
     "geom:latitude":41.746526,
     "geom:longitude":-88.24218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Mayfield Ln",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270416455,
-    "wof:lastmodified":1449009733,
+    "wof:lastmodified":1466495376,
     "wof:name":"Legacy Training Systems",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.24218,41.746526,-88.24218,41.746526],
+  "bbox": [
+    -88.24218,
+    41.746526,
+    -88.24218,
+    41.746526
+],
   "geometry": {"coordinates":[-88.24218,41.746526],"type":"Point"}
 }

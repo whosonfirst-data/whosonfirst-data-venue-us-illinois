@@ -2,13 +2,14 @@
   "id": 236186645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.969307,42.019692,-87.969307,42.019692",
     "geom:latitude":42.019692,
     "geom:longitude":-87.969307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Lively Blvd",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236186645,
-    "wof:lastmodified":1449004383,
+    "wof:lastmodified":1466491263,
     "wof:name":"Pepperidge Farm Warehouse",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-87.969307,42.019692,-87.969307,42.019692],
+  "bbox": [
+    -87.969307,
+    42.019692,
+    -87.969307,
+    42.019692
+],
   "geometry": {"coordinates":[-87.969307,42.019692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185792169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.573143,39.317896,-89.573143,39.317896",
     "geom:latitude":39.317896,
     "geom:longitude":-89.573143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 E Sparks St",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185792169,
-    "wof:lastmodified":1449006962,
+    "wof:lastmodified":1466488971,
     "wof:name":"Angle Welding Shop",
     "wof:parent_id":85852173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-89.573143,39.317896,-89.573143,39.317896],
+  "bbox": [
+    -89.573143,
+    39.317896,
+    -89.573143,
+    39.317896
+],
   "geometry": {"coordinates":[-89.573143,39.317896],"type":"Point"}
 }

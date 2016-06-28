@@ -2,13 +2,14 @@
   "id": 203162889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.189714,40.242843,-88.189714,40.242843",
     "geom:latitude":40.242843,
     "geom:longitude":-88.189714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W Morris St",
     "sg:city":"Thomasboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203162889,
-    "wof:lastmodified":1449026575,
+    "wof:lastmodified":1466488943,
     "wof:name":"Armstrong Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.189714,40.242843,-88.189714,40.242843],
+  "bbox": [
+    -88.189714,
+    40.242843,
+    -88.189714,
+    40.242843
+],
   "geometry": {"coordinates":[-88.189714,40.242843],"type":"Point"}
 }

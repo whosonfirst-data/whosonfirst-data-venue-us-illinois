@@ -2,13 +2,14 @@
   "id": 202423423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945613,41.881727,-87.945613,41.881727",
     "geom:latitude":41.881727,
     "geom:longitude":-87.945613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Crescent Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202423423,
-    "wof:lastmodified":1449060520,
+    "wof:lastmodified":1466493642,
     "wof:name":"Waterdog Ink",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typesetting"
     ]
 },
-  "bbox": [-87.945613,41.881727,-87.945613,41.881727],
-  "geometry": {"coordinates":[-87.945613,41.881727],"type":"Point"}
+  "bbox": [
+    -87.945613,
+    41.881727,
+    -87.945613,
+    41.881727
+],
+  "geometry": {"coordinates":[-87.94561299999999,41.881727],"type":"Point"}
 }

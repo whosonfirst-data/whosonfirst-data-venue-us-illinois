@@ -2,13 +2,14 @@
   "id": 202630109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.615867,41.82025,-87.615867,41.82025",
     "geom:latitude":41.82025,
     "geom:longitude":-87.615867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 41st St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202630109,
-    "wof:lastmodified":1449061013,
+    "wof:lastmodified":1466490023,
     "wof:name":"Abraham Lincoln Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-87.615867,41.82025,-87.615867,41.82025],
-  "geometry": {"coordinates":[-87.615867,41.82025],"type":"Point"}
+  "bbox": [
+    -87.615867,
+    41.82025,
+    -87.615867,
+    41.82025
+],
+  "geometry": {"coordinates":[-87.61586699999999,41.82025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252881999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.83759,41.816206,-87.83759,41.816206",
     "geom:latitude":41.816206,
     "geom:longitude":-87.83759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8641 Ogden Ave",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252881999,
-    "wof:lastmodified":1449006049,
+    "wof:lastmodified":1466491208,
     "wof:name":"Harlem Plumbing & Supply Co",
     "wof:parent_id":85867579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.83759,41.816206,-87.83759,41.816206],
-  "geometry": {"coordinates":[-87.83759,41.816206],"type":"Point"}
+  "bbox": [
+    -87.83759,
+    41.816206,
+    -87.83759,
+    41.816206
+],
+  "geometry": {"coordinates":[-87.83759000000001,41.816206],"type":"Point"}
 }

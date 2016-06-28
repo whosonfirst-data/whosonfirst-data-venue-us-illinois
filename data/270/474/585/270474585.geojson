@@ -2,13 +2,14 @@
   "id": 270474585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.38608,39.200212,-88.38608,39.200212",
     "geom:latitude":39.200212,
     "geom:longitude":-88.38608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Co Rd 200 N",
     "sg:city":"Sigel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270474585,
-    "wof:lastmodified":1449008785,
+    "wof:lastmodified":1466496044,
     "wof:name":"Larry Heuerman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.38608,39.200212,-88.38608,39.200212],
-  "geometry": {"coordinates":[-88.38608,39.200212],"type":"Point"}
+  "bbox": [
+    -88.38608,
+    39.200212,
+    -88.38608,
+    39.200212
+],
+  "geometry": {"coordinates":[-88.38608000000001,39.200212],"type":"Point"}
 }

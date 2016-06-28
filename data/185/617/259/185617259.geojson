@@ -2,13 +2,14 @@
   "id": 185617259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.797103,38.49028,-89.797103,38.49028",
     "geom:latitude":38.49028,
     "geom:longitude":-89.797103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 E Main St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185617259,
-    "wof:lastmodified":1449006634,
+    "wof:lastmodified":1466492100,
     "wof:name":"Nite Deposit",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-89.797103,38.49028,-89.797103,38.49028],
-  "geometry": {"coordinates":[-89.797103,38.49028],"type":"Point"}
+  "bbox": [
+    -89.797103,
+    38.49028,
+    -89.797103,
+    38.49028
+],
+  "geometry": {"coordinates":[-89.79710300000001,38.49028],"type":"Point"}
 }

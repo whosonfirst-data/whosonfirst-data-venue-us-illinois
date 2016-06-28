@@ -2,13 +2,14 @@
   "id": 270521425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952864,42.438735,-87.952864,42.438735",
     "geom:latitude":42.438735,
     "geom:longitude":-87.952864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39714 N Mill Creek Rd",
     "sg:city":"Old Mill Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270521425,
-    "wof:lastmodified":1449011005,
+    "wof:lastmodified":1466496482,
     "wof:name":"J Gunderson Inc",
     "wof:parent_id":85845947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.952864,42.438735,-87.952864,42.438735],
-  "geometry": {"coordinates":[-87.952864,42.438735],"type":"Point"}
+  "bbox": [
+    -87.952864,
+    42.438735,
+    -87.952864,
+    42.438735
+],
+  "geometry": {"coordinates":[-87.95286400000001,42.438735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269497675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.571296,39.025186,-88.571296,39.025186",
     "geom:latitude":39.025186,
     "geom:longitude":-88.571296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Monroe St",
     "sg:city":"Watson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269497675,
-    "wof:lastmodified":1449038913,
+    "wof:lastmodified":1466489209,
     "wof:name":"Village of Watson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "municipality"
     ]
 },
-  "bbox": [-88.571296,39.025186,-88.571296,39.025186],
+  "bbox": [
+    -88.571296,
+    39.025186,
+    -88.571296,
+    39.025186
+],
   "geometry": {"coordinates":[-88.571296,39.025186],"type":"Point"}
 }

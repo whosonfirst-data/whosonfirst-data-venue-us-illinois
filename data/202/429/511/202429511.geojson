@@ -2,13 +2,14 @@
   "id": 202429511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.008244,41.544301,-88.008244,41.544301",
     "geom:latitude":41.544301,
     "geom:longitude":-88.008244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Prescott Ln",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202429511,
-    "wof:lastmodified":1449062509,
+    "wof:lastmodified":1466493785,
     "wof:name":"C R Home Inspections",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-88.008244,41.544301,-88.008244,41.544301],
+  "bbox": [
+    -88.008244,
+    41.544301,
+    -88.008244,
+    41.544301
+],
   "geometry": {"coordinates":[-88.008244,41.544301],"type":"Point"}
 }

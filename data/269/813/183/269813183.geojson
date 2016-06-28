@@ -2,13 +2,14 @@
   "id": 269813183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.05758,42.286719,-89.05758,42.286719",
     "geom:latitude":42.286719,
     "geom:longitude":-89.05758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Crabapple Ln",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269813183,
-    "wof:lastmodified":1449036767,
+    "wof:lastmodified":1466494223,
     "wof:name":"Epson America Inc",
     "wof:parent_id":85880429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-89.05758,42.286719,-89.05758,42.286719],
+  "bbox": [
+    -89.05758,
+    42.286719,
+    -89.05758,
+    42.286719
+],
   "geometry": {"coordinates":[-89.05758,42.286719],"type":"Point"}
 }

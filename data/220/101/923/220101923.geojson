@@ -2,13 +2,14 @@
   "id": 220101923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.22608,41.748833,-88.22608,41.748833",
     "geom:latitude":41.748833,
     "geom:longitude":-88.22608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Meadow Lakes Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220101923,
-    "wof:lastmodified":1449074467,
+    "wof:lastmodified":1466490190,
     "wof:name":"American Literacy Council",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-88.22608,41.748833,-88.22608,41.748833],
+  "bbox": [
+    -88.22608,
+    41.748833,
+    -88.22608,
+    41.748833
+],
   "geometry": {"coordinates":[-88.22608,41.748833],"type":"Point"}
 }

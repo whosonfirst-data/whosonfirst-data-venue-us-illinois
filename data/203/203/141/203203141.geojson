@@ -2,13 +2,14 @@
   "id": 203203141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.269329,39.737718,-90.269329,39.737718",
     "geom:latitude":39.737718,
     "geom:longitude":-90.269329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 W Lafayette Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203203141,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1466489386,
     "wof:name":"Benton & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-90.269329,39.737718,-90.269329,39.737718],
+  "bbox": [
+    -90.269329,
+    39.737718,
+    -90.269329,
+    39.737718
+],
   "geometry": {"coordinates":[-90.269329,39.737718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253677601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.019378,41.808064,-88.019378,41.808064",
     "geom:latitude":41.808064,
     "geom:longitude":-88.019378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Ogden Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253677601,
-    "wof:lastmodified":1449063887,
+    "wof:lastmodified":1466497284,
     "wof:name":"Wireless Warehouse Inc",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.019378,41.808064,-88.019378,41.808064],
+  "bbox": [
+    -88.019378,
+    41.808064,
+    -88.019378,
+    41.808064
+],
   "geometry": {"coordinates":[-88.019378,41.808064],"type":"Point"}
 }

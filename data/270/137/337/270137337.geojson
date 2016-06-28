@@ -2,13 +2,14 @@
   "id": 270137337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697567,41.927564,-87.697567,41.927564",
     "geom:latitude":41.927564,
     "geom:longitude":-87.697567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 N California Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270137337,
-    "wof:lastmodified":1449010749,
+    "wof:lastmodified":1466491066,
     "wof:name":"Fixture",
     "wof:parent_id":85867675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.697567,41.927564,-87.697567,41.927564],
-  "geometry": {"coordinates":[-87.697567,41.927564],"type":"Point"}
+  "bbox": [
+    -87.697567,
+    41.927564,
+    -87.697567,
+    41.927564
+],
+  "geometry": {"coordinates":[-87.69756700000001,41.927564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287105909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.120068,41.531748,-88.120068,41.531748",
     "geom:latitude":41.531748,
     "geom:longitude":-88.120068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Taylor St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287105909,
-    "wof:lastmodified":1449001005,
+    "wof:lastmodified":1466491655,
     "wof:name":"William S Adams",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.120068,41.531748,-88.120068,41.531748],
+  "bbox": [
+    -88.120068,
+    41.531748,
+    -88.120068,
+    41.531748
+],
   "geometry": {"coordinates":[-88.120068,41.531748],"type":"Point"}
 }

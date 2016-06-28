@@ -2,13 +2,14 @@
   "id": 220014437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.804982,41.52429,-87.804982,41.52429",
     "geom:latitude":41.52429,
     "geom:longitude":-87.804982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 S Kingston Ct",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220014437,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466489122,
     "wof:name":"Inventory Management & Return",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-87.804982,41.52429,-87.804982,41.52429],
+  "bbox": [
+    -87.804982,
+    41.52429,
+    -87.804982,
+    41.52429
+],
   "geometry": {"coordinates":[-87.804982,41.52429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269662701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.756177,41.947916,-87.756177,41.947916",
     "geom:latitude":41.947916,
     "geom:longitude":-87.756177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 W Waveland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269662701,
-    "wof:lastmodified":1449037736,
+    "wof:lastmodified":1466491812,
     "wof:name":"Champion Shirt & Lettering",
     "wof:parent_id":85882317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "uniform"
     ]
 },
-  "bbox": [-87.756177,41.947916,-87.756177,41.947916],
-  "geometry": {"coordinates":[-87.756177,41.947916],"type":"Point"}
+  "bbox": [
+    -87.756177,
+    41.947916,
+    -87.756177,
+    41.947916
+],
+  "geometry": {"coordinates":[-87.75617699999999,41.947916],"type":"Point"}
 }

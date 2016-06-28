@@ -2,13 +2,14 @@
   "id": 186644773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106685,41.518186,-88.106685,41.518186",
     "geom:latitude":41.518186,
     "geom:longitude":-88.106685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S May St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186644773,
-    "wof:lastmodified":1449051915,
+    "wof:lastmodified":1466489947,
     "wof:name":"Priority Nurses",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.106685,41.518186,-88.106685,41.518186],
+  "bbox": [
+    -88.106685,
+    41.518186,
+    -88.106685,
+    41.518186
+],
   "geometry": {"coordinates":[-88.106685,41.518186],"type":"Point"}
 }

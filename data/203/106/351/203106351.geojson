@@ -2,13 +2,14 @@
   "id": 203106351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.371859,39.961678,-91.371859,39.961678",
     "geom:latitude":39.961678,
     "geom:longitude":-91.371859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Lindsey Ct",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203106351,
-    "wof:lastmodified":1449024920,
+    "wof:lastmodified":1466494865,
     "wof:name":"Express One",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.371859,39.961678,-91.371859,39.961678],
+  "bbox": [
+    -91.371859,
+    39.961678,
+    -91.371859,
+    39.961678
+],
   "geometry": {"coordinates":[-91.371859,39.961678],"type":"Point"}
 }

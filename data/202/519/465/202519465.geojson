@@ -2,13 +2,14 @@
   "id": 202519465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.175013,40.633284,-91.175013,40.633284",
     "geom:latitude":40.633284,
     "geom:longitude":-91.175013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 W 3rd St",
     "sg:city":"Dallas City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202519465,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466495348,
     "wof:name":"Rita Schaefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "daycare"
     ]
 },
-  "bbox": [-91.175013,40.633284,-91.175013,40.633284],
-  "geometry": {"coordinates":[-91.175013,40.633284],"type":"Point"}
+  "bbox": [
+    -91.175013,
+    40.633284,
+    -91.175013,
+    40.633284
+],
+  "geometry": {"coordinates":[-91.17501300000001,40.633284],"type":"Point"}
 }

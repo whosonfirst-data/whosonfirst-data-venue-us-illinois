@@ -2,13 +2,14 @@
   "id": 253458849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.037135,41.861951,-88.037135,41.861951",
     "geom:latitude":41.861951,
     "geom:longitude":-88.037135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Londonberry Ln",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253458849,
-    "wof:lastmodified":1449064937,
+    "wof:lastmodified":1466495185,
     "wof:name":"Gaco Western",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.037135,41.861951,-88.037135,41.861951],
-  "geometry": {"coordinates":[-88.037135,41.861951],"type":"Point"}
+  "bbox": [
+    -88.037135,
+    41.861951,
+    -88.037135,
+    41.861951
+],
+  "geometry": {"coordinates":[-88.03713500000001,41.861951],"type":"Point"}
 }

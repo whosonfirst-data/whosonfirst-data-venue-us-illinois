@@ -2,13 +2,14 @@
   "id": 252848687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240825,40.105293,-88.240825,40.105293",
     "geom:latitude":40.105293,
     "geom:longitude":-88.240825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 E Armory Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252848687,
-    "wof:lastmodified":1449005552,
+    "wof:lastmodified":1466490789,
     "wof:name":"Illinois Radio Reading Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.240825,40.105293,-88.240825,40.105293],
+  "bbox": [
+    -88.240825,
+    40.105293,
+    -88.240825,
+    40.105293
+],
   "geometry": {"coordinates":[-88.240825,40.105293],"type":"Point"}
 }

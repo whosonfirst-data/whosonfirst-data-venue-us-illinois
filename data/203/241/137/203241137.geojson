@@ -2,13 +2,14 @@
   "id": 203241137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071191,41.517221,-88.071191,41.517221",
     "geom:latitude":41.517221,
     "geom:longitude":-88.071191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 Mississippi Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203241137,
-    "wof:lastmodified":1449026835,
+    "wof:lastmodified":1466489805,
     "wof:name":"Secure Foundations",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071191,41.517221,-88.071191,41.517221],
+  "bbox": [
+    -88.071191,
+    41.517221,
+    -88.071191,
+    41.517221
+],
   "geometry": {"coordinates":[-88.071191,41.517221],"type":"Point"}
 }

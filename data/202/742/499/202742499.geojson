@@ -2,13 +2,14 @@
   "id": 202742499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.896471,40.828985,-89.896471,40.828985",
     "geom:latitude":40.828985,
     "geom:longitude":-89.896471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19606 W Shissler Rd",
     "sg:city":"Brimfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202742499,
-    "wof:lastmodified":1449060275,
+    "wof:lastmodified":1466491287,
     "wof:name":"Joyce Harmon Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.896471,40.828985,-89.896471,40.828985],
-  "geometry": {"coordinates":[-89.896471,40.828985],"type":"Point"}
+  "bbox": [
+    -89.896471,
+    40.828985,
+    -89.896471,
+    40.828985
+],
+  "geometry": {"coordinates":[-89.89647100000001,40.828985],"type":"Point"}
 }

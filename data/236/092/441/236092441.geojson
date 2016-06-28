@@ -2,13 +2,14 @@
   "id": 236092441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252192,40.129659,-88.252192,40.129659",
     "geom:latitude":40.129659,
     "geom:longitude":-88.252192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Bloomington Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236092441,
-    "wof:lastmodified":1449004502,
+    "wof:lastmodified":1466490088,
     "wof:name":"Crawford Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-88.252192,40.129659,-88.252192,40.129659],
-  "geometry": {"coordinates":[-88.252192,40.129659],"type":"Point"}
+  "bbox": [
+    -88.252192,
+    40.129659,
+    -88.252192,
+    40.129659
+],
+  "geometry": {"coordinates":[-88.25219199999999,40.129659],"type":"Point"}
 }

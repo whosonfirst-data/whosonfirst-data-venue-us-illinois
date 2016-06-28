@@ -2,13 +2,14 @@
   "id": 252789511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.720762,42.040812,-87.720762,42.040812",
     "geom:latitude":42.040812,
     "geom:longitude":-87.720762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Dempster St",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252789511,
-    "wof:lastmodified":1449005902,
+    "wof:lastmodified":1466490041,
     "wof:name":"Golden Spa",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-87.720762,42.040812,-87.720762,42.040812],
-  "geometry": {"coordinates":[-87.720762,42.040812],"type":"Point"}
+  "bbox": [
+    -87.720762,
+    42.040812,
+    -87.720762,
+    42.040812
+],
+  "geometry": {"coordinates":[-87.72076199999999,42.040812],"type":"Point"}
 }

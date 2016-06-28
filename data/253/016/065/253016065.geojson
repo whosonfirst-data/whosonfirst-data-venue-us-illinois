@@ -2,13 +2,14 @@
   "id": 253016065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.148232,39.987207,-91.148232,39.987207",
     "geom:latitude":39.987207,
     "geom:longitude":-91.148232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Jefferson St",
     "sg:city":"Camp Point",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253016065,
-    "wof:lastmodified":1449063331,
+    "wof:lastmodified":1466489193,
     "wof:name":"Camp Point Seed Co",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-91.148232,39.987207,-91.148232,39.987207],
-  "geometry": {"coordinates":[-91.148232,39.987207],"type":"Point"}
+  "bbox": [
+    -91.148232,
+    39.987207,
+    -91.148232,
+    39.987207
+],
+  "geometry": {"coordinates":[-91.14823199999999,39.987207],"type":"Point"}
 }

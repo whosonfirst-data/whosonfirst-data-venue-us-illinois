@@ -2,13 +2,14 @@
   "id": 303101133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.950907,38.315011,-88.950907,38.315011",
     "geom:latitude":38.315011,
     "geom:longitude":-88.950907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 N 44th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303101133,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466491418,
     "wof:name":"Salem Vacuum Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-88.950907,38.315011,-88.950907,38.315011],
+  "bbox": [
+    -88.950907,
+    38.315011,
+    -88.950907,
+    38.315011
+],
   "geometry": {"coordinates":[-88.950907,38.315011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253327247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.915315,40.615423,-87.915315,40.615423",
     "geom:latitude":40.615423,
     "geom:longitude":-87.915315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 E 900 North Rd",
     "sg:city":"Cissna Park",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253327247,
-    "wof:lastmodified":1449063043,
+    "wof:lastmodified":1466493111,
     "wof:name":"Edgar Teske",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.915315,40.615423,-87.915315,40.615423],
-  "geometry": {"coordinates":[-87.915315,40.615423],"type":"Point"}
+  "bbox": [
+    -87.915315,
+    40.615423,
+    -87.915315,
+    40.615423
+],
+  "geometry": {"coordinates":[-87.91531500000001,40.615423],"type":"Point"}
 }

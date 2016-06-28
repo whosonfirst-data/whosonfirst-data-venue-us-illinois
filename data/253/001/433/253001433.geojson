@@ -2,13 +2,14 @@
   "id": 253001433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034374,41.60769,-88.034374,41.60769",
     "geom:latitude":41.60769,
     "geom:longitude":-88.034374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Shoals Dr",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253001433,
-    "wof:lastmodified":1449063477,
+    "wof:lastmodified":1466489011,
     "wof:name":"Ray Peckler Excavating Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "excavation"
     ]
 },
-  "bbox": [-88.034374,41.60769,-88.034374,41.60769],
+  "bbox": [
+    -88.034374,
+    41.60769,
+    -88.034374,
+    41.60769
+],
   "geometry": {"coordinates":[-88.034374,41.60769],"type":"Point"}
 }

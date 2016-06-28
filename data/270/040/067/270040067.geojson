@@ -2,13 +2,14 @@
   "id": 270040067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.120484,41.912507,-88.120484,41.912507",
     "geom:latitude":41.912507,
     "geom:longitude":-88.120484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 N Gary Ave",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270040067,
-    "wof:lastmodified":1449011062,
+    "wof:lastmodified":1466489632,
     "wof:name":"Johns Deli & Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-88.120484,41.912507,-88.120484,41.912507],
+  "bbox": [
+    -88.120484,
+    41.912507,
+    -88.120484,
+    41.912507
+],
   "geometry": {"coordinates":[-88.120484,41.912507],"type":"Point"}
 }

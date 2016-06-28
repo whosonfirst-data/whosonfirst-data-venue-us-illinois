@@ -2,13 +2,14 @@
   "id": 270462013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737034,41.938962,-87.737034,41.938962",
     "geom:latitude":41.938962,
     "geom:longitude":-87.737034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4346 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270462013,
-    "wof:lastmodified":1449011033,
+    "wof:lastmodified":1466496136,
     "wof:name":"Paulen Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "shop"
     ]
 },
-  "bbox": [-87.737034,41.938962,-87.737034,41.938962],
-  "geometry": {"coordinates":[-87.737034,41.938962],"type":"Point"}
+  "bbox": [
+    -87.737034,
+    41.938962,
+    -87.737034,
+    41.938962
+],
+  "geometry": {"coordinates":[-87.73703399999999,41.938962],"type":"Point"}
 }

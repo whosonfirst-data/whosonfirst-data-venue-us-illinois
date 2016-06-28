@@ -2,13 +2,14 @@
   "id": 253588011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242563,40.12093,-88.242563,40.12093",
     "geom:latitude":40.12093,
     "geom:longitude":-88.242563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Hickory St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253588011,
-    "wof:lastmodified":1449065187,
+    "wof:lastmodified":1466496647,
     "wof:name":"Blind Man",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "blind"
     ]
 },
-  "bbox": [-88.242563,40.12093,-88.242563,40.12093],
+  "bbox": [
+    -88.242563,
+    40.12093,
+    -88.242563,
+    40.12093
+],
   "geometry": {"coordinates":[-88.242563,40.12093],"type":"Point"}
 }

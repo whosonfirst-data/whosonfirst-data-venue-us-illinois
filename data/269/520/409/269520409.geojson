@@ -2,13 +2,14 @@
   "id": 269520409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.105753,41.400981,-90.105753,41.400981",
     "geom:latitude":41.400981,
     "geom:longitude":-90.105753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16808 E 1700th St",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269520409,
-    "wof:lastmodified":1449036933,
+    "wof:lastmodified":1466489572,
     "wof:name":"Wilcox Apiaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beekeeper"
     ]
 },
-  "bbox": [-90.105753,41.400981,-90.105753,41.400981],
-  "geometry": {"coordinates":[-90.105753,41.400981],"type":"Point"}
+  "bbox": [
+    -90.105753,
+    41.400981,
+    -90.105753,
+    41.400981
+],
+  "geometry": {"coordinates":[-90.10575300000001,41.400981],"type":"Point"}
 }

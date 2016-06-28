@@ -2,13 +2,14 @@
   "id": 286473759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.720791,42.010682,-87.720791,42.010682",
     "geom:latitude":42.010682,
     "geom:longitude":-87.720791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7060 Lawndale Ave",
     "sg:city":"Lincolnwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286473759,
-    "wof:lastmodified":1449015778,
+    "wof:lastmodified":1466493103,
     "wof:name":"Chicago Container Corp",
     "wof:parent_id":85865777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-87.720791,42.010682,-87.720791,42.010682],
-  "geometry": {"coordinates":[-87.720791,42.010682],"type":"Point"}
+  "bbox": [
+    -87.720791,
+    42.010682,
+    -87.720791,
+    42.010682
+],
+  "geometry": {"coordinates":[-87.72079100000001,42.010682],"type":"Point"}
 }

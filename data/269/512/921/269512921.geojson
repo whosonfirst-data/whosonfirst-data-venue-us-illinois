@@ -2,13 +2,14 @@
   "id": 269512921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.031383,41.788285,-88.031383,41.788285",
     "geom:latitude":41.788285,
     "geom:longitude":-88.031383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5449 Bending Oaks Pl",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269512921,
-    "wof:lastmodified":1449037971,
+    "wof:lastmodified":1466489449,
     "wof:name":"Nancy Fallonhoule PC",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.031383,41.788285,-88.031383,41.788285],
-  "geometry": {"coordinates":[-88.031383,41.788285],"type":"Point"}
+  "bbox": [
+    -88.031383,
+    41.788285,
+    -88.031383,
+    41.788285
+],
+  "geometry": {"coordinates":[-88.03138300000001,41.788285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270211857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.989083,41.989826,-87.989083,41.989826",
     "geom:latitude":41.989826,
     "geom:longitude":-87.989083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 N Mittel Blvd",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270211857,
-    "wof:lastmodified":1449009225,
+    "wof:lastmodified":1466492223,
     "wof:name":"Gant Travel",
     "wof:parent_id":85867755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-87.989083,41.989826,-87.989083,41.989826],
-  "geometry": {"coordinates":[-87.989083,41.989826],"type":"Point"}
+  "bbox": [
+    -87.989083,
+    41.989826,
+    -87.989083,
+    41.989826
+],
+  "geometry": {"coordinates":[-87.98908299999999,41.989826],"type":"Point"}
 }

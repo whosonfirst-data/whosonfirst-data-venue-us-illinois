@@ -2,13 +2,14 @@
   "id": 269661673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.295498,40.911339,-90.295498,40.911339",
     "geom:latitude":40.911339,
     "geom:longitude":-90.295498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Galesburg Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269661673,
-    "wof:lastmodified":1449038717,
+    "wof:lastmodified":1466491793,
     "wof:name":"Knoxvilla Motel & Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.295498,40.911339,-90.295498,40.911339],
-  "geometry": {"coordinates":[-90.295498,40.911339],"type":"Point"}
+  "bbox": [
+    -90.295498,
+    40.911339,
+    -90.295498,
+    40.911339
+],
+  "geometry": {"coordinates":[-90.29549799999999,40.911339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185793513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.526575,39.841638,-89.526575,39.841638",
     "geom:latitude":39.841638,
     "geom:longitude":-89.526575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6685 Old Route 36",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":185793513,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466488989,
     "wof:name":"Girard Woodworks Inc.",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-89.526575,39.841638,-89.526575,39.841638],
-  "geometry": {"coordinates":[-89.526575,39.841638],"type":"Point"}
+  "bbox": [
+    -89.526575,
+    39.841638,
+    -89.526575,
+    39.841638
+],
+  "geometry": {"coordinates":[-89.52657499999999,39.841638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253506763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.096809,42.311219,-89.096809,42.311219",
     "geom:latitude":42.311219,
     "geom:longitude":-89.096809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3539 N Rockton Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253506763,
-    "wof:lastmodified":1449062886,
+    "wof:lastmodified":1466495819,
     "wof:name":"Keith Kuelper Building Svcs",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.096809,42.311219,-89.096809,42.311219],
-  "geometry": {"coordinates":[-89.096809,42.311219],"type":"Point"}
+  "bbox": [
+    -89.096809,
+    42.311219,
+    -89.096809,
+    42.311219
+],
+  "geometry": {"coordinates":[-89.09680899999999,42.311219],"type":"Point"}
 }

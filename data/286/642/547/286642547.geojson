@@ -2,13 +2,14 @@
   "id": 286642547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.882877,40.597806,-87.882877,40.597806",
     "geom:latitude":40.597806,
     "geom:longitude":-87.882877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Co Rd 770 N",
     "sg:city":"Cissna Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286642547,
-    "wof:lastmodified":1449015342,
+    "wof:lastmodified":1466495781,
     "wof:name":"Country Theatre Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.882877,40.597806,-87.882877,40.597806],
-  "geometry": {"coordinates":[-87.882877,40.597806],"type":"Point"}
+  "bbox": [
+    -87.882877,
+    40.597806,
+    -87.882877,
+    40.597806
+],
+  "geometry": {"coordinates":[-87.88287699999999,40.597806],"type":"Point"}
 }

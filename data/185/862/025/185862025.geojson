@@ -2,13 +2,14 @@
   "id": 185862025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.651849,39.818905,-89.651849,39.818905",
     "geom:latitude":39.818905,
     "geom:longitude":-89.651849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 N 3rd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185862025,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1466489467,
     "wof:name":"Stevens Plumbing",
     "wof:parent_id":85868929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-89.651849,39.818905,-89.651849,39.818905],
+  "bbox": [
+    -89.651849,
+    39.818905,
+    -89.651849,
+    39.818905
+],
   "geometry": {"coordinates":[-89.651849,39.818905],"type":"Point"}
 }

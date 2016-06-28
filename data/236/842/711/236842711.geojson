@@ -2,13 +2,14 @@
   "id": 236842711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.443586,41.514936,-90.443586,41.514936",
     "geom:latitude":41.514936,
     "geom:longitude":-90.443586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 16th Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236842711,
-    "wof:lastmodified":1449001858,
+    "wof:lastmodified":1466498122,
     "wof:name":"Rock Island County Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-90.443586,41.514936,-90.443586,41.514936],
+  "bbox": [
+    -90.443586,
+    41.514936,
+    -90.443586,
+    41.514936
+],
   "geometry": {"coordinates":[-90.443586,41.514936],"type":"Point"}
 }

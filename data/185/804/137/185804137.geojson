@@ -2,13 +2,14 @@
   "id": 185804137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.297447,39.552631,-89.297447,39.552631",
     "geom:latitude":39.552631,
     "geom:longitude":-89.297447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Webster St",
     "sg:city":"Taylorville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":185804137,
-    "wof:lastmodified":1449007711,
+    "wof:lastmodified":1466489053,
     "wof:name":"Larry's Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-89.297447,39.552631,-89.297447,39.552631],
-  "geometry": {"coordinates":[-89.297447,39.552631],"type":"Point"}
+  "bbox": [
+    -89.297447,
+    39.552631,
+    -89.297447,
+    39.552631
+],
+  "geometry": {"coordinates":[-89.29744700000001,39.552631],"type":"Point"}
 }

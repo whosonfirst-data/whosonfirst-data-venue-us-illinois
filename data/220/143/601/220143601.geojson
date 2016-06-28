@@ -2,13 +2,14 @@
   "id": 220143601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.93985,41.902663,-87.93985,41.902663",
     "geom:latitude":41.902663,
     "geom:longitude":-87.93985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N York St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220143601,
-    "wof:lastmodified":1449074724,
+    "wof:lastmodified":1466490699,
     "wof:name":"Elmhurst Water Dept",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-87.93985,41.902663,-87.93985,41.902663],
-  "geometry": {"coordinates":[-87.93985,41.902663],"type":"Point"}
+  "bbox": [
+    -87.93985,
+    41.902663,
+    -87.93985,
+    41.902663
+],
+  "geometry": {"coordinates":[-87.93985000000001,41.902663],"type":"Point"}
 }

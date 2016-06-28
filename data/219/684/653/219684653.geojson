@@ -2,13 +2,14 @@
   "id": 219684653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.345751,40.161232,-89.345751,40.161232",
     "geom:latitude":40.161232,
     "geom:longitude":-89.345751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Kickapoo St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219684653,
-    "wof:lastmodified":1449071274,
+    "wof:lastmodified":1466495349,
     "wof:name":"CFA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.345751,40.161232,-89.345751,40.161232],
-  "geometry": {"coordinates":[-89.345751,40.161232],"type":"Point"}
+  "bbox": [
+    -89.345751,
+    40.161232,
+    -89.345751,
+    40.161232
+],
+  "geometry": {"coordinates":[-89.34575100000001,40.161232],"type":"Point"}
 }

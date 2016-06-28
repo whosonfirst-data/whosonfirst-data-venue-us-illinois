@@ -2,13 +2,14 @@
   "id": 270048701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.84673,42.116582,-87.84673,42.116582",
     "geom:latitude":42.116582,
     "geom:longitude":-87.84673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Techny Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270048701,
-    "wof:lastmodified":1449009493,
+    "wof:lastmodified":1466489764,
     "wof:name":"North Suburban YMCA",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cl"
     ]
 },
-  "bbox": [-87.84673,42.116582,-87.84673,42.116582],
-  "geometry": {"coordinates":[-87.84673,42.116582],"type":"Point"}
+  "bbox": [
+    -87.84673,
+    42.116582,
+    -87.84673,
+    42.116582
+],
+  "geometry": {"coordinates":[-87.84672999999999,42.116582],"type":"Point"}
 }

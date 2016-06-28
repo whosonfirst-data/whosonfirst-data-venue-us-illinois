@@ -2,13 +2,14 @@
   "id": 203202249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.265113,39.737507,-90.265113,39.737507",
     "geom:latitude":39.737507,
     "geom:longitude":-90.265113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 W Lafayette Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203202249,
-    "wof:lastmodified":1449026613,
+    "wof:lastmodified":1466489376,
     "wof:name":"Westfair Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.265113,39.737507,-90.265113,39.737507],
+  "bbox": [
+    -90.265113,
+    39.737507,
+    -90.265113,
+    39.737507
+],
   "geometry": {"coordinates":[-90.265113,39.737507],"type":"Point"}
 }

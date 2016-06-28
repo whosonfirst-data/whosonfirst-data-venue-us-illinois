@@ -2,13 +2,14 @@
   "id": 269965997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.603839,41.810456,-87.603839,41.810456",
     "geom:latitude":41.810456,
     "geom:longitude":-87.603839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 S Drexel Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269965997,
-    "wof:lastmodified":1449037797,
+    "wof:lastmodified":1466496250,
     "wof:name":"Hyde Park Seventh Day Advntist",
     "wof:parent_id":85866941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.603839,41.810456,-87.603839,41.810456],
-  "geometry": {"coordinates":[-87.603839,41.810456],"type":"Point"}
+  "bbox": [
+    -87.603839,
+    41.810456,
+    -87.603839,
+    41.810456
+],
+  "geometry": {"coordinates":[-87.60383899999999,41.810456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203282393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.806725,41.885297,-87.806725,41.885297",
     "geom:latitude":41.885297,
     "geom:longitude":-87.806725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7238 Franklin St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203282393,
-    "wof:lastmodified":1449026137,
+    "wof:lastmodified":1466490278,
     "wof:name":"Chicago Mgt & Career Cons",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.806725,41.885297,-87.806725,41.885297],
+  "bbox": [
+    -87.806725,
+    41.885297,
+    -87.806725,
+    41.885297
+],
   "geometry": {"coordinates":[-87.806725,41.885297],"type":"Point"}
 }

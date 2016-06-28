@@ -2,13 +2,14 @@
   "id": 186575343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.642555,41.946024,-87.642555,41.946024",
     "geom:latitude":41.946024,
     "geom:longitude":-87.642555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 W Stratford Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186575343,
-    "wof:lastmodified":1449051153,
+    "wof:lastmodified":1466489116,
     "wof:name":"Paul Tancil MD",
     "wof:parent_id":85882143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.642555,41.946024,-87.642555,41.946024],
+  "bbox": [
+    -87.642555,
+    41.946024,
+    -87.642555,
+    41.946024
+],
   "geometry": {"coordinates":[-87.642555,41.946024],"type":"Point"}
 }

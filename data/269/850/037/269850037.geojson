@@ -2,13 +2,14 @@
   "id": 269850037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.945664,38.62708,-88.945664,38.62708",
     "geom:latitude":38.62708,
     "geom:longitude":-88.945664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269850037,
-    "wof:lastmodified":1449037537,
+    "wof:lastmodified":1466494793,
     "wof:name":"Sweney's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diner"
     ]
 },
-  "bbox": [-88.945664,38.62708,-88.945664,38.62708],
-  "geometry": {"coordinates":[-88.945664,38.62708],"type":"Point"}
+  "bbox": [
+    -88.945664,
+    38.62708,
+    -88.945664,
+    38.62708
+],
+  "geometry": {"coordinates":[-88.94566399999999,38.62708],"type":"Point"}
 }

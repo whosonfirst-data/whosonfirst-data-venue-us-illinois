@@ -2,13 +2,14 @@
   "id": 236931823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.24962,40.396254,-91.24962,40.396254",
     "geom:latitude":40.396254,
     "geom:longitude":-91.24962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Laurel St",
     "sg:city":"Elvaston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236931823,
-    "wof:lastmodified":1449004895,
+    "wof:lastmodified":1466498354,
     "wof:name":"Elvaston Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-91.24962,40.396254,-91.24962,40.396254],
-  "geometry": {"coordinates":[-91.24962,40.396254],"type":"Point"}
+  "bbox": [
+    -91.24962,
+    40.396254,
+    -91.24962,
+    40.396254
+],
+  "geometry": {"coordinates":[-91.24961999999999,40.396254],"type":"Point"}
 }

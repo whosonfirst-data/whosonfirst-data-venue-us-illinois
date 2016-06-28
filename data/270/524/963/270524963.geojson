@@ -2,13 +2,14 @@
   "id": 270524963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.000962,42.253135,-89.000962,42.253135",
     "geom:latitude":42.253135,
     "geom:longitude":-89.000962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5712 Newburg Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270524963,
-    "wof:lastmodified":1449008645,
+    "wof:lastmodified":1466496529,
     "wof:name":"Mark T Peterson",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.000962,42.253135,-89.000962,42.253135],
+  "bbox": [
+    -89.000962,
+    42.253135,
+    -89.000962,
+    42.253135
+],
   "geometry": {"coordinates":[-89.000962,42.253135],"type":"Point"}
 }

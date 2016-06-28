@@ -2,13 +2,14 @@
   "id": 252748421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.959792,42.270637,-87.959792,42.270637",
     "geom:latitude":42.270637,
     "geom:longitude":-87.959792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Golf Rd",
     "sg:city":"Libertyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252748421,
-    "wof:lastmodified":1449006227,
+    "wof:lastmodified":1466489517,
     "wof:name":"Security Scan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.959792,42.270637,-87.959792,42.270637],
-  "geometry": {"coordinates":[-87.959792,42.270637],"type":"Point"}
+  "bbox": [
+    -87.959792,
+    42.270637,
+    -87.959792,
+    42.270637
+],
+  "geometry": {"coordinates":[-87.95979199999999,42.270637],"type":"Point"}
 }

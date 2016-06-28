@@ -2,13 +2,14 @@
   "id": 220050641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.769787,41.902008,-87.769787,41.902008",
     "geom:latitude":41.902008,
     "geom:longitude":-87.769787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5743 W Division St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220050641,
-    "wof:lastmodified":1449074495,
+    "wof:lastmodified":1466489562,
     "wof:name":"McKinneys Home Day Care Center",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.769787,41.902008,-87.769787,41.902008],
-  "geometry": {"coordinates":[-87.769787,41.902008],"type":"Point"}
+  "bbox": [
+    -87.769787,
+    41.902008,
+    -87.769787,
+    41.902008
+],
+  "geometry": {"coordinates":[-87.76978699999999,41.902008],"type":"Point"}
 }

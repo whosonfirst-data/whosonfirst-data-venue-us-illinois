@@ -2,13 +2,14 @@
   "id": 286529685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.097838,41.881928,-88.097838,41.881928",
     "geom:latitude":41.881928,
     "geom:longitude":-88.097838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Ranch Rd",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286529685,
-    "wof:lastmodified":1449016479,
+    "wof:lastmodified":1466494021,
     "wof:name":"Access To Travel",
     "wof:parent_id":85891053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.097838,41.881928,-88.097838,41.881928],
+  "bbox": [
+    -88.097838,
+    41.881928,
+    -88.097838,
+    41.881928
+],
   "geometry": {"coordinates":[-88.097838,41.881928],"type":"Point"}
 }

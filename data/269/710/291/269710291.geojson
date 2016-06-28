@@ -2,13 +2,14 @@
   "id": 269710291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764531,41.985973,-87.764531,41.985973",
     "geom:latitude":41.985973,
     "geom:longitude":-87.764531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5418 W Ardmore Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269710291,
-    "wof:lastmodified":1449036292,
+    "wof:lastmodified":1466492582,
     "wof:name":"Prima Painting & Decorating",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.764531,41.985973,-87.764531,41.985973],
-  "geometry": {"coordinates":[-87.764531,41.985973],"type":"Point"}
+  "bbox": [
+    -87.764531,
+    41.985973,
+    -87.764531,
+    41.985973
+],
+  "geometry": {"coordinates":[-87.76453100000001,41.985973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236136063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.285259,42.347516,-88.285259,42.347516",
     "geom:latitude":42.347516,
     "geom:longitude":-88.285259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 W Elm St",
     "sg:city":"Mc Henry",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236136063,
-    "wof:lastmodified":1449005186,
+    "wof:lastmodified":1466490614,
     "wof:name":"West Elm Laundry",
     "wof:parent_id":85845071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-88.285259,42.347516,-88.285259,42.347516],
+  "bbox": [
+    -88.285259,
+    42.347516,
+    -88.285259,
+    42.347516
+],
   "geometry": {"coordinates":[-88.285259,42.347516],"type":"Point"}
 }

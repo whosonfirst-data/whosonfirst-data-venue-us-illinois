@@ -2,13 +2,14 @@
   "id": 236474337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.220041,38.715115,-89.220041,38.715115",
     "geom:latitude":38.715115,
     "geom:longitude":-89.220041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Boulder Rd",
     "sg:city":"Carlyle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236474337,
-    "wof:lastmodified":1449001782,
+    "wof:lastmodified":1466495043,
     "wof:name":"Robert Buchele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.220041,38.715115,-89.220041,38.715115],
-  "geometry": {"coordinates":[-89.220041,38.715115],"type":"Point"}
+  "bbox": [
+    -89.220041,
+    38.715115,
+    -89.220041,
+    38.715115
+],
+  "geometry": {"coordinates":[-89.22004099999999,38.715115],"type":"Point"}
 }

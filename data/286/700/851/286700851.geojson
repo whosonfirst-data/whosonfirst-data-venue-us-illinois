@@ -2,13 +2,14 @@
   "id": 286700851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.790208,41.909086,-87.790208,41.909086",
     "geom:latitude":41.909086,
     "geom:longitude":-87.790208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6617 North Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286700851,
-    "wof:lastmodified":1449017840,
+    "wof:lastmodified":1466496597,
     "wof:name":"Givens Oak Park Dental Center",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.790208,41.909086,-87.790208,41.909086],
-  "geometry": {"coordinates":[-87.790208,41.909086],"type":"Point"}
+  "bbox": [
+    -87.790208,
+    41.909086,
+    -87.790208,
+    41.909086
+],
+  "geometry": {"coordinates":[-87.79020800000001,41.909086],"type":"Point"}
 }

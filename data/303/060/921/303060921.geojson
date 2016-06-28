@@ -2,13 +2,14 @@
   "id": 303060921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.720914,41.705878,-87.720914,41.705878",
     "geom:latitude":41.705878,
     "geom:longitude":-87.720914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10200 S Pulaski Rd",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303060921,
-    "wof:lastmodified":1449000341,
+    "wof:lastmodified":1466490799,
     "wof:name":"Modern Aire Apartments",
     "wof:parent_id":85866783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.720914,41.705878,-87.720914,41.705878],
-  "geometry": {"coordinates":[-87.720914,41.705878],"type":"Point"}
+  "bbox": [
+    -87.720914,
+    41.705878,
+    -87.720914,
+    41.705878
+],
+  "geometry": {"coordinates":[-87.72091399999999,41.705878],"type":"Point"}
 }

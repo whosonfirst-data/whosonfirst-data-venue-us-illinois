@@ -2,13 +2,14 @@
   "id": 270166685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.927139,41.90118,-87.927139,41.90118",
     "geom:latitude":41.90118,
     "geom:longitude":-87.927139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Schiller St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270166685,
-    "wof:lastmodified":1449010019,
+    "wof:lastmodified":1466491489,
     "wof:name":"Delta Control Design",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-87.927139,41.90118,-87.927139,41.90118],
+  "bbox": [
+    -87.927139,
+    41.90118,
+    -87.927139,
+    41.90118
+],
   "geometry": {"coordinates":[-87.927139,41.90118],"type":"Point"}
 }

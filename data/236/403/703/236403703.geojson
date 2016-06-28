@@ -2,13 +2,14 @@
   "id": 236403703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680304,41.428937,-87.680304,41.428937",
     "geom:latitude":41.428937,
     "geom:longitude":-87.680304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Blackhawk Dr",
     "sg:city":"University Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236403703,
-    "wof:lastmodified":1449004686,
+    "wof:lastmodified":1466494107,
     "wof:name":"GDC Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.680304,41.428937,-87.680304,41.428937],
-  "geometry": {"coordinates":[-87.680304,41.428937],"type":"Point"}
+  "bbox": [
+    -87.680304,
+    41.428937,
+    -87.680304,
+    41.428937
+],
+  "geometry": {"coordinates":[-87.68030400000001,41.428937],"type":"Point"}
 }

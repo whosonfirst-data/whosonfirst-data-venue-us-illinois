@@ -2,13 +2,14 @@
   "id": 186590921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.942248,38.307343,-88.942248,38.307343",
     "geom:latitude":38.307343,
     "geom:longitude":-88.942248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S 42nd St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186590921,
-    "wof:lastmodified":1449051968,
+    "wof:lastmodified":1466489303,
     "wof:name":"First Church of The Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.942248,38.307343,-88.942248,38.307343],
-  "geometry": {"coordinates":[-88.942248,38.307343],"type":"Point"}
+  "bbox": [
+    -88.942248,
+    38.307343,
+    -88.942248,
+    38.307343
+],
+  "geometry": {"coordinates":[-88.94224800000001,38.307343],"type":"Point"}
 }

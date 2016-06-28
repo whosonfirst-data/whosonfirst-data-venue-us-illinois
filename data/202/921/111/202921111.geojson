@@ -2,13 +2,14 @@
   "id": 202921111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.959895,40.199961,-87.959895,40.199961",
     "geom:latitude":40.199961,
     "geom:longitude":-87.959895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Co Rd 2200 N",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202921111,
-    "wof:lastmodified":1449061721,
+    "wof:lastmodified":1466493420,
     "wof:name":"Osterbur Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.959895,40.199961,-87.959895,40.199961],
+  "bbox": [
+    -87.959895,
+    40.199961,
+    -87.959895,
+    40.199961
+],
   "geometry": {"coordinates":[-87.959895,40.199961],"type":"Point"}
 }

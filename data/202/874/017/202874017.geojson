@@ -2,13 +2,14 @@
   "id": 202874017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673424,41.715605,-87.673424,41.715605",
     "geom:latitude":41.715605,
     "geom:longitude":-87.673424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 S Seeley Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202874017,
-    "wof:lastmodified":1449062484,
+    "wof:lastmodified":1466492869,
     "wof:name":"Prime Time Limousine Service",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.673424,41.715605,-87.673424,41.715605],
+  "bbox": [
+    -87.673424,
+    41.715605,
+    -87.673424,
+    41.715605
+],
   "geometry": {"coordinates":[-87.673424,41.715605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252810145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.406678,39.933105,-91.406678,39.933105",
     "geom:latitude":39.933105,
     "geom:longitude":-91.406678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N 6th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252810145,
-    "wof:lastmodified":1449005735,
+    "wof:lastmodified":1466490306,
     "wof:name":"Golden Apple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.406678,39.933105,-91.406678,39.933105],
+  "bbox": [
+    -91.406678,
+    39.933105,
+    -91.406678,
+    39.933105
+],
   "geometry": {"coordinates":[-91.406678,39.933105],"type":"Point"}
 }

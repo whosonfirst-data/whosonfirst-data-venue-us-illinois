@@ -2,13 +2,14 @@
   "id": 203175975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.520204,39.533424,-90.520204,39.533424",
     "geom:latitude":39.533424,
     "geom:longitude":-90.520204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Hillview Rd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203175975,
-    "wof:lastmodified":1449026293,
+    "wof:lastmodified":1466489082,
     "wof:name":"Wilson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.520204,39.533424,-90.520204,39.533424],
-  "geometry": {"coordinates":[-90.520204,39.533424],"type":"Point"}
+  "bbox": [
+    -90.520204,
+    39.533424,
+    -90.520204,
+    39.533424
+],
+  "geometry": {"coordinates":[-90.52020400000001,39.533424],"type":"Point"}
 }

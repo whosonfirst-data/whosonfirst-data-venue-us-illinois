@@ -2,13 +2,14 @@
   "id": 269614163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.647118,42.468571,-89.647118,42.468571",
     "geom:latitude":42.468571,
     "geom:longitude":-89.647118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W High St",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269614163,
-    "wof:lastmodified":1449039062,
+    "wof:lastmodified":1466491051,
     "wof:name":"Richland Creek Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-89.647118,42.468571,-89.647118,42.468571],
-  "geometry": {"coordinates":[-89.647118,42.468571],"type":"Point"}
+  "bbox": [
+    -89.647118,
+    42.468571,
+    -89.647118,
+    42.468571
+],
+  "geometry": {"coordinates":[-89.64711800000001,42.468571],"type":"Point"}
 }

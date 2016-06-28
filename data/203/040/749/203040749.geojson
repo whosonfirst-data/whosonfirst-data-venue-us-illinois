@@ -2,13 +2,14 @@
   "id": 203040749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.640599,41.556378,-87.640599,41.556378",
     "geom:latitude":41.556378,
     "geom:longitude":-87.640599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Illinois Ave",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203040749,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466493397,
     "wof:name":"Fresh Sauce & Things Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.640599,41.556378,-87.640599,41.556378],
-  "geometry": {"coordinates":[-87.640599,41.556378],"type":"Point"}
+  "bbox": [
+    -87.640599,
+    41.556378,
+    -87.640599,
+    41.556378
+],
+  "geometry": {"coordinates":[-87.64059899999999,41.556378],"type":"Point"}
 }

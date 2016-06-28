@@ -2,13 +2,14 @@
   "id": 236705213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308312,39.483974,-88.308312,39.483974",
     "geom:latitude":39.483974,
     "geom:longitude":-88.308312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Lerna Rd",
     "sg:city":"Mattoon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236705213,
-    "wof:lastmodified":1449005272,
+    "wof:lastmodified":1466497095,
     "wof:name":"Charles R Maris MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.308312,39.483974,-88.308312,39.483974],
+  "bbox": [
+    -88.308312,
+    39.483974,
+    -88.308312,
+    39.483974
+],
   "geometry": {"coordinates":[-88.308312,39.483974],"type":"Point"}
 }

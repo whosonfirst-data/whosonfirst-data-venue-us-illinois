@@ -2,13 +2,14 @@
   "id": 270204547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.319201,37.904185,-88.319201,37.904185",
     "geom:latitude":37.904185,
     "geom:longitude":-88.319201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22595 Vineyard Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270204547,
-    "wof:lastmodified":1449011161,
+    "wof:lastmodified":1466492103,
     "wof:name":"Price Backhoe Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.319201,37.904185,-88.319201,37.904185],
-  "geometry": {"coordinates":[-88.319201,37.904185],"type":"Point"}
+  "bbox": [
+    -88.319201,
+    37.904185,
+    -88.319201,
+    37.904185
+],
+  "geometry": {"coordinates":[-88.31920100000001,37.904185],"type":"Point"}
 }

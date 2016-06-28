@@ -2,13 +2,14 @@
   "id": 286538493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157199,41.521905,-88.157199,41.521905",
     "geom:latitude":41.521905,
     "geom:longitude":-88.157199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286538493,
-    "wof:lastmodified":1449015540,
+    "wof:lastmodified":1466494173,
     "wof:name":"Twin Oaks Dry Cleaners",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-88.157199,41.521905,-88.157199,41.521905],
-  "geometry": {"coordinates":[-88.157199,41.521905],"type":"Point"}
+  "bbox": [
+    -88.157199,
+    41.521905,
+    -88.157199,
+    41.521905
+],
+  "geometry": {"coordinates":[-88.15719900000001,41.521905],"type":"Point"}
 }

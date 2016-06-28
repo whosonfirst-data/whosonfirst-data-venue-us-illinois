@@ -2,13 +2,14 @@
   "id": 236019991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250318,41.769188,-88.250318,41.769188",
     "geom:latitude":41.769188,
     "geom:longitude":-88.250318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"968 Parkhill Cir",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236019991,
-    "wof:lastmodified":1449003558,
+    "wof:lastmodified":1466489207,
     "wof:name":"Photography Place",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-88.250318,41.769188,-88.250318,41.769188],
-  "geometry": {"coordinates":[-88.250318,41.769188],"type":"Point"}
+  "bbox": [
+    -88.250318,
+    41.769188,
+    -88.250318,
+    41.769188
+],
+  "geometry": {"coordinates":[-88.25031799999999,41.769188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203031721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.541835,41.566462,-87.541835,41.566462",
     "geom:latitude":41.566462,
     "geom:longitude":-87.541835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18142 Lorenz Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203031721,
-    "wof:lastmodified":1449025624,
+    "wof:lastmodified":1466493178,
     "wof:name":"Huge Builders Inc",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.541835,41.566462,-87.541835,41.566462],
-  "geometry": {"coordinates":[-87.541835,41.566462],"type":"Point"}
+  "bbox": [
+    -87.541835,
+    41.566462,
+    -87.541835,
+    41.566462
+],
+  "geometry": {"coordinates":[-87.54183500000001,41.566462],"type":"Point"}
 }

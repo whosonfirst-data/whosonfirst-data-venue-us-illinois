@@ -2,13 +2,14 @@
   "id": 203080943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.360978,42.316017,-89.360978,42.316017",
     "geom:latitude":42.316017,
     "geom:longitude":-89.360978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Reed St",
     "sg:city":"Pecatonica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203080943,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466494419,
     "wof:name":"Smull Snow Plowing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-89.360978,42.316017,-89.360978,42.316017],
+  "bbox": [
+    -89.360978,
+    42.316017,
+    -89.360978,
+    42.316017
+],
   "geometry": {"coordinates":[-89.360978,42.316017],"type":"Point"}
 }

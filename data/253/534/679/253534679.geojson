@@ -2,13 +2,14 @@
   "id": 253534679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465111,41.368419,-89.465111,41.368419",
     "geom:latitude":41.368419,
     "geom:longitude":-89.465111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253534679,
-    "wof:lastmodified":1449063583,
+    "wof:lastmodified":1466496103,
     "wof:name":"Clerk of Circuit Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.465111,41.368419,-89.465111,41.368419],
-  "geometry": {"coordinates":[-89.465111,41.368419],"type":"Point"}
+  "bbox": [
+    -89.465111,
+    41.368419,
+    -89.465111,
+    41.368419
+],
+  "geometry": {"coordinates":[-89.46511099999999,41.368419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287296295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.646622,42.468549,-89.646622,42.468549",
     "geom:latitude":42.468549,
     "geom:longitude":-89.646622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Main St",
     "sg:city":"Holcomb",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287296295,
-    "wof:lastmodified":1449001392,
+    "wof:lastmodified":1466494678,
     "wof:name":"Holcomb Bancorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-89.646622,42.468549,-89.646622,42.468549],
-  "geometry": {"coordinates":[-89.646622,42.468549],"type":"Point"}
+  "bbox": [
+    -89.646622,
+    42.468549,
+    -89.646622,
+    42.468549
+],
+  "geometry": {"coordinates":[-89.64662199999999,42.468549],"type":"Point"}
 }

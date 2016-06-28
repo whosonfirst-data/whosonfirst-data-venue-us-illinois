@@ -2,13 +2,14 @@
   "id": 236414677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314096,41.756068,-88.314096,41.756068",
     "geom:latitude":41.756068,
     "geom:longitude":-88.314096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Broadway",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236414677,
-    "wof:lastmodified":1449003144,
+    "wof:lastmodified":1466494258,
     "wof:name":"Banco Popular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "national"
     ]
 },
-  "bbox": [-88.314096,41.756068,-88.314096,41.756068],
-  "geometry": {"coordinates":[-88.314096,41.756068],"type":"Point"}
+  "bbox": [
+    -88.314096,
+    41.756068,
+    -88.314096,
+    41.756068
+],
+  "geometry": {"coordinates":[-88.31409600000001,41.756068],"type":"Point"}
 }

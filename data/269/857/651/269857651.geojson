@@ -2,13 +2,14 @@
   "id": 269857651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.263692,40.121406,-88.263692,40.121406",
     "geom:latitude":40.121406,
     "geom:longitude":-88.263692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W Columbia Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269857651,
-    "wof:lastmodified":1449037678,
+    "wof:lastmodified":1466494918,
     "wof:name":"Personal Inv Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-88.263692,40.121406,-88.263692,40.121406],
-  "geometry": {"coordinates":[-88.263692,40.121406],"type":"Point"}
+  "bbox": [
+    -88.263692,
+    40.121406,
+    -88.263692,
+    40.121406
+],
+  "geometry": {"coordinates":[-88.26369200000001,40.121406],"type":"Point"}
 }

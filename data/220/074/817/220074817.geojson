@@ -2,13 +2,14 @@
   "id": 220074817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.005193,38.545583,-90.005193,38.545583",
     "geom:latitude":38.545583,
     "geom:longitude":-90.005193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Bedford Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220074817,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466489865,
     "wof:name":"Vin-Mar Global",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-90.005193,38.545583,-90.005193,38.545583],
-  "geometry": {"coordinates":[-90.005193,38.545583],"type":"Point"}
+  "bbox": [
+    -90.005193,
+    38.545583,
+    -90.005193,
+    38.545583
+],
+  "geometry": {"coordinates":[-90.00519300000001,38.545583],"type":"Point"}
 }

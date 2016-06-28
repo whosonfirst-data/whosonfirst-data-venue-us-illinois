@@ -2,13 +2,14 @@
   "id": 219201541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.51663,41.508439,-90.51663,41.508439",
     "geom:latitude":41.508439,
     "geom:longitude":-90.51663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 River Dr",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219201541,
-    "wof:lastmodified":1449073436,
+    "wof:lastmodified":1466489505,
     "wof:name":"Ducky's Formal Wear",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "formal"
     ]
 },
-  "bbox": [-90.51663,41.508439,-90.51663,41.508439],
-  "geometry": {"coordinates":[-90.51663,41.508439],"type":"Point"}
+  "bbox": [
+    -90.51663,
+    41.508439,
+    -90.51663,
+    41.508439
+],
+  "geometry": {"coordinates":[-90.51663000000001,41.508439],"type":"Point"}
 }

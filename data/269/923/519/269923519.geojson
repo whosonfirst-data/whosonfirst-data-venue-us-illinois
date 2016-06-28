@@ -2,13 +2,14 @@
   "id": 269923519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.853653,42.134653,-87.853653,42.134653",
     "geom:latitude":42.134653,
     "geom:longitude":-87.853653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3066 Antelope Springs Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269923519,
-    "wof:lastmodified":1449038871,
+    "wof:lastmodified":1466495810,
     "wof:name":"Saldinger & Assoc",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.853653,42.134653,-87.853653,42.134653],
-  "geometry": {"coordinates":[-87.853653,42.134653],"type":"Point"}
+  "bbox": [
+    -87.853653,
+    42.134653,
+    -87.853653,
+    42.134653
+],
+  "geometry": {"coordinates":[-87.85365299999999,42.134653],"type":"Point"}
 }

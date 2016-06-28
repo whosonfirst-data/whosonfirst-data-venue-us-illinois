@@ -2,13 +2,14 @@
   "id": 252746151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169842,41.509079,-88.169842,41.509079",
     "geom:latitude":41.509079,
     "geom:longitude":-88.169842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Springwood Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252746151,
-    "wof:lastmodified":1449005392,
+    "wof:lastmodified":1466489491,
     "wof:name":"Moffett's Place",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.169842,41.509079,-88.169842,41.509079],
+  "bbox": [
+    -88.169842,
+    41.509079,
+    -88.169842,
+    41.509079
+],
   "geometry": {"coordinates":[-88.169842,41.509079],"type":"Point"}
 }

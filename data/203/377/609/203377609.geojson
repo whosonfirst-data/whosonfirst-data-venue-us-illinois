@@ -2,13 +2,14 @@
   "id": 203377609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314465,40.118024,-88.314465,40.118024",
     "geom:latitude":40.118024,
     "geom:longitude":-88.314465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Staley Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203377609,
-    "wof:lastmodified":1449025631,
+    "wof:lastmodified":1466491331,
     "wof:name":"GAM Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.314465,40.118024,-88.314465,40.118024],
+  "bbox": [
+    -88.314465,
+    40.118024,
+    -88.314465,
+    40.118024
+],
   "geometry": {"coordinates":[-88.314465,40.118024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202805255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.937896,39.944615,-89.937896,39.944615",
     "geom:latitude":39.944615,
     "geom:longitude":-89.937896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Main St",
     "sg:city":"Tallula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202805255,
-    "wof:lastmodified":1449060958,
+    "wof:lastmodified":1466492009,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.937896,39.944615,-89.937896,39.944615],
-  "geometry": {"coordinates":[-89.937896,39.944615],"type":"Point"}
+  "bbox": [
+    -89.937896,
+    39.944615,
+    -89.937896,
+    39.944615
+],
+  "geometry": {"coordinates":[-89.93789599999999,39.944615],"type":"Point"}
 }

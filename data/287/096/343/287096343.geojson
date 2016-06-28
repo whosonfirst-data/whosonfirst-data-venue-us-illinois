@@ -2,13 +2,14 @@
   "id": 287096343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.328291,40.394142,-91.328291,40.394142",
     "geom:latitude":40.394142,
     "geom:longitude":-91.328291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N 20th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287096343,
-    "wof:lastmodified":1449000943,
+    "wof:lastmodified":1466491506,
     "wof:name":"George Loring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-91.328291,40.394142,-91.328291,40.394142],
-  "geometry": {"coordinates":[-91.328291,40.394142],"type":"Point"}
+  "bbox": [
+    -91.328291,
+    40.394142,
+    -91.328291,
+    40.394142
+],
+  "geometry": {"coordinates":[-91.32829099999999,40.394142],"type":"Point"}
 }

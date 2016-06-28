@@ -2,13 +2,14 @@
   "id": 202727117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835543,41.885444,-87.835543,41.885444",
     "geom:latitude":41.885444,
     "geom:longitude":-87.835543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S 2nd Ave",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202727117,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466491104,
     "wof:name":"AMD Services",
     "wof:parent_id":85890841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-87.835543,41.885444,-87.835543,41.885444],
+  "bbox": [
+    -87.835543,
+    41.885444,
+    -87.835543,
+    41.885444
+],
   "geometry": {"coordinates":[-87.835543,41.885444],"type":"Point"}
 }

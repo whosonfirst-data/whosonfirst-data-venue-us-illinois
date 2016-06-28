@@ -2,13 +2,14 @@
   "id": 220101301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.528494,42.391147,-89.528494,42.391147",
     "geom:latitude":42.391147,
     "geom:longitude":-89.528494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Wyler Dr",
     "sg:city":"Dakota",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220101301,
-    "wof:lastmodified":1449074464,
+    "wof:lastmodified":1466490181,
     "wof:name":"James French",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-89.528494,42.391147,-89.528494,42.391147],
-  "geometry": {"coordinates":[-89.528494,42.391147],"type":"Point"}
+  "bbox": [
+    -89.528494,
+    42.391147,
+    -89.528494,
+    42.391147
+],
+  "geometry": {"coordinates":[-89.52849399999999,42.391147],"type":"Point"}
 }

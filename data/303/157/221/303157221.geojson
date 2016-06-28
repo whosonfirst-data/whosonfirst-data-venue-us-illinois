@@ -2,13 +2,14 @@
   "id": 303157221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.096708,41.332363,-89.096708,41.332363",
     "geom:latitude":41.332363,
     "geom:longitude":-89.096708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 5th St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303157221,
-    "wof:lastmodified":1449000214,
+    "wof:lastmodified":1466492343,
     "wof:name":"Hurst Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-89.096708,41.332363,-89.096708,41.332363],
-  "geometry": {"coordinates":[-89.096708,41.332363],"type":"Point"}
+  "bbox": [
+    -89.096708,
+    41.332363,
+    -89.096708,
+    41.332363
+],
+  "geometry": {"coordinates":[-89.09670800000001,41.332363],"type":"Point"}
 }

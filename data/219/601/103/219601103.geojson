@@ -2,13 +2,14 @@
   "id": 219601103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157029,41.948417,-88.157029,41.948417",
     "geom:latitude":41.948417,
     "geom:longitude":-88.157029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Pennsbury Ln",
     "sg:city":"Hanover Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219601103,
-    "wof:lastmodified":1449071976,
+    "wof:lastmodified":1466494351,
     "wof:name":"Anchor Architectural Products",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped"
     ]
 },
-  "bbox": [-88.157029,41.948417,-88.157029,41.948417],
-  "geometry": {"coordinates":[-88.157029,41.948417],"type":"Point"}
+  "bbox": [
+    -88.157029,
+    41.948417,
+    -88.157029,
+    41.948417
+],
+  "geometry": {"coordinates":[-88.15702899999999,41.948417],"type":"Point"}
 }

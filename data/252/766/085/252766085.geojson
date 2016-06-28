@@ -2,13 +2,14 @@
   "id": 252766085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.419589,41.369023,-88.419589,41.369023",
     "geom:latitude":41.369023,
     "geom:longitude":-88.419589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 E High St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252766085,
-    "wof:lastmodified":1449005387,
+    "wof:lastmodified":1466489739,
     "wof:name":"Imaginations",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.419589,41.369023,-88.419589,41.369023],
+  "bbox": [
+    -88.419589,
+    41.369023,
+    -88.419589,
+    41.369023
+],
   "geometry": {"coordinates":[-88.419589,41.369023],"type":"Point"}
 }

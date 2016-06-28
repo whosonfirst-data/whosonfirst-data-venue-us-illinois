@@ -2,13 +2,14 @@
   "id": 286416975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.555023,39.12223,-88.555023,39.12223",
     "geom:latitude":39.12223,
     "geom:longitude":-88.555023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Jefferson Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286416975,
-    "wof:lastmodified":1449016513,
+    "wof:lastmodified":1466492222,
     "wof:name":"Chiropractic Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.555023,39.12223,-88.555023,39.12223],
-  "geometry": {"coordinates":[-88.555023,39.12223],"type":"Point"}
+  "bbox": [
+    -88.555023,
+    39.12223,
+    -88.555023,
+    39.12223
+],
+  "geometry": {"coordinates":[-88.55502300000001,39.12223],"type":"Point"}
 }

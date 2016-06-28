@@ -2,13 +2,14 @@
   "id": 186082887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.111256,37.893158,-89.111256,37.893158",
     "geom:latitude":37.893158,
     "geom:longitude":-89.111256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 W Fisher Ln",
     "sg:city":"Royalton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186082887,
-    "wof:lastmodified":1449050339,
+    "wof:lastmodified":1466494733,
     "wof:name":"Thomas Fisher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.111256,37.893158,-89.111256,37.893158],
+  "bbox": [
+    -89.111256,
+    37.893158,
+    -89.111256,
+    37.893158
+],
   "geometry": {"coordinates":[-89.111256,37.893158],"type":"Point"}
 }

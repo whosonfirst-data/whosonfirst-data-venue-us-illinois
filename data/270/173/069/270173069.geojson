@@ -2,13 +2,14 @@
   "id": 270173069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.880699,41.565411,-87.880699,41.565411",
     "geom:latitude":41.565411,
     "geom:longitude":-87.880699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17701 108th Ave",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270173069,
-    "wof:lastmodified":1449009104,
+    "wof:lastmodified":1466491583,
     "wof:name":"Stellwagen Harwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-87.880699,41.565411,-87.880699,41.565411],
-  "geometry": {"coordinates":[-87.880699,41.565411],"type":"Point"}
+  "bbox": [
+    -87.880699,
+    41.565411,
+    -87.880699,
+    41.565411
+],
+  "geometry": {"coordinates":[-87.88069900000001,41.565411],"type":"Point"}
 }

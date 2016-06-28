@@ -2,13 +2,14 @@
   "id": 253102885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.768256,39.986765,-90.768256,39.986765",
     "geom:latitude":39.986765,
     "geom:longitude":-90.768256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Main St",
     "sg:city":"Mount Sterling",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253102885,
-    "wof:lastmodified":1449065571,
+    "wof:lastmodified":1466490261,
     "wof:name":"Mount Sterling Savings Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "savings"
     ]
 },
-  "bbox": [-90.768256,39.986765,-90.768256,39.986765],
-  "geometry": {"coordinates":[-90.768256,39.986765],"type":"Point"}
+  "bbox": [
+    -90.768256,
+    39.986765,
+    -90.768256,
+    39.986765
+],
+  "geometry": {"coordinates":[-90.76825599999999,39.986765],"type":"Point"}
 }

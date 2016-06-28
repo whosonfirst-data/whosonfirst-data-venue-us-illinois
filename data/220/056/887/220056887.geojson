@@ -2,13 +2,14 @@
   "id": 220056887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.981343,38.599292,-89.981343,38.599292",
     "geom:latitude":38.599292,
     "geom:longitude":-89.981343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Salem Pl",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220056887,
-    "wof:lastmodified":1449074243,
+    "wof:lastmodified":1466489640,
     "wof:name":"EFK Moen",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-89.981343,38.599292,-89.981343,38.599292],
+  "bbox": [
+    -89.981343,
+    38.599292,
+    -89.981343,
+    38.599292
+],
   "geometry": {"coordinates":[-89.981343,38.599292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236143781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653078,41.971681,-87.653078,41.971681",
     "geom:latitude":41.971681,
     "geom:longitude":-87.653078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Ainslie St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236143781,
-    "wof:lastmodified":1449004576,
+    "wof:lastmodified":1466490719,
     "wof:name":"Contextualanalysis LLC",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vocabulary"
     ]
 },
-  "bbox": [-87.653078,41.971681,-87.653078,41.971681],
-  "geometry": {"coordinates":[-87.653078,41.971681],"type":"Point"}
+  "bbox": [
+    -87.653078,
+    41.971681,
+    -87.653078,
+    41.971681
+],
+  "geometry": {"coordinates":[-87.65307799999999,41.971681],"type":"Point"}
 }

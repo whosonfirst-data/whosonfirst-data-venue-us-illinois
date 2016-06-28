@@ -2,13 +2,14 @@
   "id": 220152921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.642474,41.6605,-87.642474,41.6605",
     "geom:latitude":41.6605,
     "geom:longitude":-87.642474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12819 S Green St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220152921,
-    "wof:lastmodified":1449074654,
+    "wof:lastmodified":1466490813,
     "wof:name":"Pitterpatter Daycare",
     "wof:parent_id":85856203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "daycare"
     ]
 },
-  "bbox": [-87.642474,41.6605,-87.642474,41.6605],
-  "geometry": {"coordinates":[-87.642474,41.6605],"type":"Point"}
+  "bbox": [
+    -87.642474,
+    41.6605,
+    -87.642474,
+    41.6605
+],
+  "geometry": {"coordinates":[-87.64247400000001,41.6605],"type":"Point"}
 }

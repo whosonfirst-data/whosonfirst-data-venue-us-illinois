@@ -2,13 +2,14 @@
   "id": 253683177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.228509,41.739003,-88.228509,41.739003",
     "geom:latitude":41.739003,
     "geom:longitude":-88.228509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Thayer Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253683177,
-    "wof:lastmodified":1449063920,
+    "wof:lastmodified":1466497312,
     "wof:name":"Goulds Pumps",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-88.228509,41.739003,-88.228509,41.739003],
+  "bbox": [
+    -88.228509,
+    41.739003,
+    -88.228509,
+    41.739003
+],
   "geometry": {"coordinates":[-88.228509,41.739003],"type":"Point"}
 }

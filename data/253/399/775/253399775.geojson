@@ -2,13 +2,14 @@
   "id": 253399775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.831632,41.977227,-87.831632,41.977227",
     "geom:latitude":41.977227,
     "geom:longitude":-87.831632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8131 W Catherine Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":253399775,
-    "wof:lastmodified":1449063345,
+    "wof:lastmodified":1466494231,
     "wof:name":"Rheo Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.831632,41.977227,-87.831632,41.977227],
+  "bbox": [
+    -87.831632,
+    41.977227,
+    -87.831632,
+    41.977227
+],
   "geometry": {"coordinates":[-87.831632,41.977227],"type":"Point"}
 }

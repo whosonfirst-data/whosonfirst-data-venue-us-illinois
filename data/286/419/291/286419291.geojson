@@ -2,13 +2,14 @@
   "id": 286419291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.618823,40.211112,-87.618823,40.211112",
     "geom:latitude":40.211112,
     "geom:longitude":-87.618823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23920 Audree Ln",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286419291,
-    "wof:lastmodified":1449018022,
+    "wof:lastmodified":1466492257,
     "wof:name":"Thorough Repair Svc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.618823,40.211112,-87.618823,40.211112],
-  "geometry": {"coordinates":[-87.618823,40.211112],"type":"Point"}
+  "bbox": [
+    -87.618823,
+    40.211112,
+    -87.618823,
+    40.211112
+],
+  "geometry": {"coordinates":[-87.61882300000001,40.211112],"type":"Point"}
 }

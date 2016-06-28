@@ -2,13 +2,14 @@
   "id": 203023713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539284,41.571464,-87.539284,41.571464",
     "geom:latitude":41.571464,
     "geom:longitude":-87.539284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17809 Burnham Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203023713,
-    "wof:lastmodified":1449026688,
+    "wof:lastmodified":1466492830,
     "wof:name":"Village Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.539284,41.571464,-87.539284,41.571464],
-  "geometry": {"coordinates":[-87.539284,41.571464],"type":"Point"}
+  "bbox": [
+    -87.539284,
+    41.571464,
+    -87.539284,
+    41.571464
+],
+  "geometry": {"coordinates":[-87.53928399999999,41.571464],"type":"Point"}
 }

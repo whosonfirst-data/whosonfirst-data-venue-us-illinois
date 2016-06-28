@@ -2,13 +2,14 @@
   "id": 219756487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.660013,41.978661,-87.660013,41.978661",
     "geom:latitude":41.978661,
     "geom:longitude":-87.660013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219756487,
-    "wof:lastmodified":1449072501,
+    "wof:lastmodified":1466496034,
     "wof:name":"Lafonda Restaurant",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.660013,41.978661,-87.660013,41.978661],
-  "geometry": {"coordinates":[-87.660013,41.978661],"type":"Point"}
+  "bbox": [
+    -87.660013,
+    41.978661,
+    -87.660013,
+    41.978661
+],
+  "geometry": {"coordinates":[-87.66001300000001,41.978661],"type":"Point"}
 }

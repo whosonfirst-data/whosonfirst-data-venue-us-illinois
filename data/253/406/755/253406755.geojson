@@ -2,13 +2,14 @@
   "id": 253406755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.045971,38.661975,-90.045971,38.661975",
     "geom:latitude":38.661975,
     "geom:longitude":-90.045971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3334 Vfw Ln",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253406755,
-    "wof:lastmodified":1449064411,
+    "wof:lastmodified":1466494344,
     "wof:name":"A-1 Rent-A-John",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-90.045971,38.661975,-90.045971,38.661975],
-  "geometry": {"coordinates":[-90.045971,38.661975],"type":"Point"}
+  "bbox": [
+    -90.045971,
+    38.661975,
+    -90.045971,
+    38.661975
+],
+  "geometry": {"coordinates":[-90.04597099999999,38.661975],"type":"Point"}
 }

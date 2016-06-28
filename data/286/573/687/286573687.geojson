@@ -2,13 +2,14 @@
   "id": 286573687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.24827,41.751262,-88.24827,41.751262",
     "geom:latitude":41.751262,
     "geom:longitude":-88.24827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2765 Montclare Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286573687,
-    "wof:lastmodified":1449017353,
+    "wof:lastmodified":1466494746,
     "wof:name":"KWIK Kerb Custom Creations",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.24827,41.751262,-88.24827,41.751262],
-  "geometry": {"coordinates":[-88.24827,41.751262],"type":"Point"}
+  "bbox": [
+    -88.24827,
+    41.751262,
+    -88.24827,
+    41.751262
+],
+  "geometry": {"coordinates":[-88.24827000000001,41.751262],"type":"Point"}
 }

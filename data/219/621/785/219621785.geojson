@@ -2,13 +2,14 @@
   "id": 219621785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.554186,37.929803,-89.554186,37.929803",
     "geom:latitude":37.929803,
     "geom:longitude":-89.554186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Park St",
     "sg:city":"Campbell Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219621785,
-    "wof:lastmodified":1449073502,
+    "wof:lastmodified":1466494596,
     "wof:name":"United Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.554186,37.929803,-89.554186,37.929803],
+  "bbox": [
+    -89.554186,
+    37.929803,
+    -89.554186,
+    37.929803
+],
   "geometry": {"coordinates":[-89.554186,37.929803],"type":"Point"}
 }

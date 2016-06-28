@@ -2,13 +2,14 @@
   "id": 203293025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679161,41.506251,-87.679161,41.506251",
     "geom:latitude":41.506251,
     "geom:longitude":-87.679161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Lincoln Hwy",
     "sg:city":"Olympia Fields",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203293025,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466490390,
     "wof:name":"Retina Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.679161,41.506251,-87.679161,41.506251],
-  "geometry": {"coordinates":[-87.679161,41.506251],"type":"Point"}
+  "bbox": [
+    -87.679161,
+    41.506251,
+    -87.679161,
+    41.506251
+],
+  "geometry": {"coordinates":[-87.67916099999999,41.506251],"type":"Point"}
 }

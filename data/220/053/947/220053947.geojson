@@ -2,13 +2,14 @@
   "id": 220053947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.624929,40.06247,-87.624929,40.06247",
     "geom:latitude":40.06247,
     "geom:longitude":-87.624929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13127 Grape Creek Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220053947,
-    "wof:lastmodified":1449074192,
+    "wof:lastmodified":1466489603,
     "wof:name":"Rose's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.624929,40.06247,-87.624929,40.06247],
-  "geometry": {"coordinates":[-87.624929,40.06247],"type":"Point"}
+  "bbox": [
+    -87.624929,
+    40.06247,
+    -87.624929,
+    40.06247
+],
+  "geometry": {"coordinates":[-87.62492899999999,40.06247],"type":"Point"}
 }

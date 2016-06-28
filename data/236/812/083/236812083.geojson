@@ -2,13 +2,14 @@
   "id": 236812083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.546436,41.497405,-90.546436,41.497405",
     "geom:latitude":41.497405,
     "geom:longitude":-90.546436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 14th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236812083,
-    "wof:lastmodified":1449001748,
+    "wof:lastmodified":1466498039,
     "wof:name":"M & M Hardware",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.546436,41.497405,-90.546436,41.497405],
+  "bbox": [
+    -90.546436,
+    41.497405,
+    -90.546436,
+    41.497405
+],
   "geometry": {"coordinates":[-90.546436,41.497405],"type":"Point"}
 }

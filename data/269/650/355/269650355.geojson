@@ -2,13 +2,14 @@
   "id": 269650355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539133,41.546057,-87.539133,41.546057",
     "geom:latitude":41.546057,
     "geom:longitude":-87.539133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19265 Burnham Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269650355,
-    "wof:lastmodified":1449037619,
+    "wof:lastmodified":1466491611,
     "wof:name":"Seattle Sutton Healthy Eating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.539133,41.546057,-87.539133,41.546057],
-  "geometry": {"coordinates":[-87.539133,41.546057],"type":"Point"}
+  "bbox": [
+    -87.539133,
+    41.546057,
+    -87.539133,
+    41.546057
+],
+  "geometry": {"coordinates":[-87.53913300000001,41.546057],"type":"Point"}
 }

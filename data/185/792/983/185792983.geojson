@@ -2,13 +2,14 @@
   "id": 185792983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.53965,39.85836,-89.53965,39.85836",
     "geom:latitude":39.85836,
     "geom:longitude":-89.53965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 N 7th St",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185792983,
-    "wof:lastmodified":1449006963,
+    "wof:lastmodified":1466488982,
     "wof:name":"Christian Riverton Church",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-christian-reformed"
     ]
 },
-  "bbox": [-89.53965,39.85836,-89.53965,39.85836],
-  "geometry": {"coordinates":[-89.53965,39.85836],"type":"Point"}
+  "bbox": [
+    -89.53965,
+    39.85836,
+    -89.53965,
+    39.85836
+],
+  "geometry": {"coordinates":[-89.53964999999999,39.85836],"type":"Point"}
 }

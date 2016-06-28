@@ -2,13 +2,14 @@
   "id": 219418883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.98274,41.688675,-88.98274,41.688675",
     "geom:latitude":41.688675,
     "geom:longitude":-88.98274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Chicago Rd",
     "sg:city":"Paw Paw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219418883,
-    "wof:lastmodified":1449073169,
+    "wof:lastmodified":1466492202,
     "wof:name":"Paw Paw City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-88.98274,41.688675,-88.98274,41.688675],
-  "geometry": {"coordinates":[-88.98274,41.688675],"type":"Point"}
+  "bbox": [
+    -88.98274,
+    41.688675,
+    -88.98274,
+    41.688675
+],
+  "geometry": {"coordinates":[-88.98274000000001,41.688675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203203149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109362,41.503507,-88.109362,41.503507",
     "geom:latitude":41.503507,
     "geom:longitude":-88.109362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Mound Rd",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203203149,
-    "wof:lastmodified":1449025750,
+    "wof:lastmodified":1466489386,
     "wof:name":"Construction & Mining",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.109362,41.503507,-88.109362,41.503507],
+  "bbox": [
+    -88.109362,
+    41.503507,
+    -88.109362,
+    41.503507
+],
   "geometry": {"coordinates":[-88.109362,41.503507],"type":"Point"}
 }

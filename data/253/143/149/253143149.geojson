@@ -2,13 +2,14 @@
   "id": 253143149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63398,41.888096,-87.63398,41.888096",
     "geom:latitude":41.888096,
     "geom:longitude":-87.63398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Merchandise Mart Plz",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253143149,
-    "wof:lastmodified":1449065260,
+    "wof:lastmodified":1466490699,
     "wof:name":"Nutrasweet Company",
     "wof:parent_id":85866931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "aspartame"
     ]
 },
-  "bbox": [-87.63398,41.888096,-87.63398,41.888096],
-  "geometry": {"coordinates":[-87.63398,41.888096],"type":"Point"}
+  "bbox": [
+    -87.63398,
+    41.888096,
+    -87.63398,
+    41.888096
+],
+  "geometry": {"coordinates":[-87.63397999999999,41.888096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202635523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.09896,38.967038,-89.09896,38.967038",
     "geom:latitude":38.967038,
     "geom:longitude":-89.09896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N 7th St",
     "sg:city":"Vandalia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202635523,
-    "wof:lastmodified":1449061219,
+    "wof:lastmodified":1466490078,
     "wof:name":"Christian Puzzles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-89.09896,38.967038,-89.09896,38.967038],
-  "geometry": {"coordinates":[-89.09896,38.967038],"type":"Point"}
+  "bbox": [
+    -89.09896,
+    38.967038,
+    -89.09896,
+    38.967038
+],
+  "geometry": {"coordinates":[-89.09896000000001,38.967038],"type":"Point"}
 }

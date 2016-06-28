@@ -2,13 +2,14 @@
   "id": 219262003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086021,41.532026,-88.086021,41.532026",
     "geom:latitude":41.532026,
     "geom:longitude":-88.086021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Bluff St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219262003,
-    "wof:lastmodified":1449072584,
+    "wof:lastmodified":1466490238,
     "wof:name":"Joliet Housing Authority",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-88.086021,41.532026,-88.086021,41.532026],
+  "bbox": [
+    -88.086021,
+    41.532026,
+    -88.086021,
+    41.532026
+],
   "geometry": {"coordinates":[-88.086021,41.532026],"type":"Point"}
 }

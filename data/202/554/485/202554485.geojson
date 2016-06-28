@@ -2,13 +2,14 @@
   "id": 202554485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.73575,41.938904,-87.73575,41.938904",
     "geom:latitude":41.938904,
     "geom:longitude":-87.73575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202554485,
-    "wof:lastmodified":1449060638,
+    "wof:lastmodified":1466489122,
     "wof:name":"CONTINENTAL Window & Glass",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-87.73575,41.938904,-87.73575,41.938904],
+  "bbox": [
+    -87.73575,
+    41.938904,
+    -87.73575,
+    41.938904
+],
   "geometry": {"coordinates":[-87.73575,41.938904],"type":"Point"}
 }

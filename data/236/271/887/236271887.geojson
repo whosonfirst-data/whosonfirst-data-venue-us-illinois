@@ -2,13 +2,14 @@
   "id": 236271887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.377688,39.932935,-91.377688,39.932935",
     "geom:latitude":39.932935,
     "geom:longitude":-91.377688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 State Rte 96",
     "sg:city":"Kinderhook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236271887,
-    "wof:lastmodified":1449003368,
+    "wof:lastmodified":1466492412,
     "wof:name":"US Post Office",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.377688,39.932935,-91.377688,39.932935],
-  "geometry": {"coordinates":[-91.377688,39.932935],"type":"Point"}
+  "bbox": [
+    -91.377688,
+    39.932935,
+    -91.377688,
+    39.932935
+],
+  "geometry": {"coordinates":[-91.37768800000001,39.932935],"type":"Point"}
 }

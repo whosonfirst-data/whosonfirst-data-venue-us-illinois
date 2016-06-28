@@ -2,13 +2,14 @@
   "id": 236830993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.771751,41.068526,-89.771751,41.068526",
     "geom:latitude":41.068526,
     "geom:longitude":-89.771751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Galena Ave",
     "sg:city":"Wyoming",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236830993,
-    "wof:lastmodified":1449002203,
+    "wof:lastmodified":1466497891,
     "wof:name":"Dragon Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-89.771751,41.068526,-89.771751,41.068526],
-  "geometry": {"coordinates":[-89.771751,41.068526],"type":"Point"}
+  "bbox": [
+    -89.771751,
+    41.068526,
+    -89.771751,
+    41.068526
+],
+  "geometry": {"coordinates":[-89.77175099999999,41.068526],"type":"Point"}
 }

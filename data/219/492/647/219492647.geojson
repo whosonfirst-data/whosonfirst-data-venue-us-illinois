@@ -2,13 +2,14 @@
   "id": 219492647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.856513,42.174681,-87.856513,42.174681",
     "geom:latitude":42.174681,
     "geom:longitude":-87.856513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Greenwood Ave",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219492647,
-    "wof:lastmodified":1449070375,
+    "wof:lastmodified":1466493101,
     "wof:name":"Emelmzan Management Co",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.856513,42.174681,-87.856513,42.174681],
-  "geometry": {"coordinates":[-87.856513,42.174681],"type":"Point"}
+  "bbox": [
+    -87.856513,
+    42.174681,
+    -87.856513,
+    42.174681
+],
+  "geometry": {"coordinates":[-87.85651300000001,42.174681],"type":"Point"}
 }

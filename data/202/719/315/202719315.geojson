@@ -2,13 +2,14 @@
   "id": 202719315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.491457,37.879992,-89.491457,37.879992",
     "geom:latitude":37.879992,
     "geom:longitude":-89.491457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11270 Ava Rd",
     "sg:city":"Ava",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202719315,
-    "wof:lastmodified":1449060433,
+    "wof:lastmodified":1466491019,
     "wof:name":"Ava Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-89.491457,37.879992,-89.491457,37.879992],
+  "bbox": [
+    -89.491457,
+    37.879992,
+    -89.491457,
+    37.879992
+],
   "geometry": {"coordinates":[-89.491457,37.879992],"type":"Point"}
 }

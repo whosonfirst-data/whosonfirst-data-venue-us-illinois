@@ -2,13 +2,14 @@
   "id": 185773871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.954378,39.839979,-88.954378,39.839979",
     "geom:latitude":39.839979,
     "geom:longitude":-88.954378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 S Water St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185773871,
-    "wof:lastmodified":1449006800,
+    "wof:lastmodified":1466495505,
     "wof:name":"McCarthy Rowden & Baker",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "law"
     ]
 },
-  "bbox": [-88.954378,39.839979,-88.954378,39.839979],
-  "geometry": {"coordinates":[-88.954378,39.839979],"type":"Point"}
+  "bbox": [
+    -88.954378,
+    39.839979,
+    -88.954378,
+    39.839979
+],
+  "geometry": {"coordinates":[-88.95437800000001,39.839979],"type":"Point"}
 }

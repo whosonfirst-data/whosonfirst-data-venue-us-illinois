@@ -2,13 +2,14 @@
   "id": 252870541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.843486,41.119,-87.843486,41.119",
     "geom:latitude":41.119,
     "geom:longitude":-87.843486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 E Court St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252870541,
-    "wof:lastmodified":1449005705,
+    "wof:lastmodified":1466491064,
     "wof:name":"Plaza Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.843486,41.119,-87.843486,41.119],
+  "bbox": [
+    -87.843486,
+    41.119,
+    -87.843486,
+    41.119
+],
   "geometry": {"coordinates":[-87.843486,41.119],"type":"Point"}
 }

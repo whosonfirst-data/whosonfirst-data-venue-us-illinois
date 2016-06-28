@@ -2,13 +2,14 @@
   "id": 286586607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307912,41.776407,-88.307912,41.776407",
     "geom:latitude":41.776407,
     "geom:longitude":-88.307912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Aurora Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286586607,
-    "wof:lastmodified":1449017758,
+    "wof:lastmodified":1466494959,
     "wof:name":"First Distributing Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-88.307912,41.776407,-88.307912,41.776407],
+  "bbox": [
+    -88.307912,
+    41.776407,
+    -88.307912,
+    41.776407
+],
   "geometry": {"coordinates":[-88.307912,41.776407],"type":"Point"}
 }

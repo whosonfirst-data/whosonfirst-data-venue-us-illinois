@@ -2,13 +2,14 @@
   "id": 169762387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.956516,38.721401,-89.956516,38.721401",
     "geom:latitude":38.721401,
     "geom:longitude":-89.956516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 S Center St",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":169762387,
-    "wof:lastmodified":1449035008,
+    "wof:lastmodified":1466493778,
     "wof:name":"Sterling Pharmaceutical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-89.956516,38.721401,-89.956516,38.721401],
-  "geometry": {"coordinates":[-89.956516,38.721401],"type":"Point"}
+  "bbox": [
+    -89.956516,
+    38.721401,
+    -89.956516,
+    38.721401
+],
+  "geometry": {"coordinates":[-89.95651599999999,38.721401],"type":"Point"}
 }

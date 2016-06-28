@@ -2,13 +2,14 @@
   "id": 269549139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.953325,39.591474,-89.953325,39.591474",
     "geom:latitude":39.591474,
     "geom:longitude":-89.953325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Pearl St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269549139,
-    "wof:lastmodified":1449036818,
+    "wof:lastmodified":1466490012,
     "wof:name":"Waverly Journal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-89.953325,39.591474,-89.953325,39.591474],
-  "geometry": {"coordinates":[-89.953325,39.591474],"type":"Point"}
+  "bbox": [
+    -89.953325,
+    39.591474,
+    -89.953325,
+    39.591474
+],
+  "geometry": {"coordinates":[-89.95332500000001,39.591474],"type":"Point"}
 }

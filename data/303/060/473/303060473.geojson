@@ -2,13 +2,14 @@
   "id": 303060473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.82945,42.112963,-87.82945,42.112963",
     "geom:latitude":42.112963,
     "geom:longitude":-87.82945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Shermer Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303060473,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466490793,
     "wof:name":"Affordable In Home Caregivers",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-87.82945,42.112963,-87.82945,42.112963],
-  "geometry": {"coordinates":[-87.82945,42.112963],"type":"Point"}
+  "bbox": [
+    -87.82945,
+    42.112963,
+    -87.82945,
+    42.112963
+],
+  "geometry": {"coordinates":[-87.82944999999999,42.112963],"type":"Point"}
 }

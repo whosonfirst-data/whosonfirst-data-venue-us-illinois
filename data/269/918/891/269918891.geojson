@@ -2,13 +2,14 @@
   "id": 269918891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.313386,41.177292,-90.313386,41.177292",
     "geom:latitude":41.177292,
     "geom:longitude":-90.313386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E 3rd St",
     "sg:city":"Woodhull",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269918891,
-    "wof:lastmodified":1449037740,
+    "wof:lastmodified":1466495779,
     "wof:name":"United Church",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.313386,41.177292,-90.313386,41.177292],
-  "geometry": {"coordinates":[-90.313386,41.177292],"type":"Point"}
+  "bbox": [
+    -90.313386,
+    41.177292,
+    -90.313386,
+    41.177292
+],
+  "geometry": {"coordinates":[-90.31338599999999,41.177292],"type":"Point"}
 }

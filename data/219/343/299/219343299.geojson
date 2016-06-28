@@ -2,13 +2,14 @@
   "id": 219343299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.67826,40.894406,-89.67826,40.894406",
     "geom:latitude":40.894406,
     "geom:longitude":-89.67826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16411 N State Rte 91",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219343299,
-    "wof:lastmodified":1449072904,
+    "wof:lastmodified":1466491223,
     "wof:name":"Jack Fry",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.67826,40.894406,-89.67826,40.894406],
-  "geometry": {"coordinates":[-89.67826,40.894406],"type":"Point"}
+  "bbox": [
+    -89.67826,
+    40.894406,
+    -89.67826,
+    40.894406
+],
+  "geometry": {"coordinates":[-89.67825999999999,40.894406],"type":"Point"}
 }

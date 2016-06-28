@@ -2,13 +2,14 @@
   "id": 270410311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.135495,41.515015,-88.135495,41.515015",
     "geom:latitude":41.515015,
     "geom:longitude":-88.135495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 McDonough St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270410311,
-    "wof:lastmodified":1449008699,
+    "wof:lastmodified":1466495285,
     "wof:name":"St Jude Parish",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.135495,41.515015,-88.135495,41.515015],
-  "geometry": {"coordinates":[-88.135495,41.515015],"type":"Point"}
+  "bbox": [
+    -88.135495,
+    41.515015,
+    -88.135495,
+    41.515015
+],
+  "geometry": {"coordinates":[-88.13549500000001,41.515015],"type":"Point"}
 }

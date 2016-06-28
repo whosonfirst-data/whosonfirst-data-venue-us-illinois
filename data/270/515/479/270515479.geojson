@@ -2,13 +2,14 @@
   "id": 270515479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.048021,41.196981,-91.048021,41.196981",
     "geom:latitude":41.196981,
     "geom:longitude":-91.048021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Lock and Dam Rd",
     "sg:city":"New Boston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270515479,
-    "wof:lastmodified":1449009202,
+    "wof:lastmodified":1466496423,
     "wof:name":"US Lock & Dam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.048021,41.196981,-91.048021,41.196981],
-  "geometry": {"coordinates":[-91.048021,41.196981],"type":"Point"}
+  "bbox": [
+    -91.048021,
+    41.196981,
+    -91.048021,
+    41.196981
+],
+  "geometry": {"coordinates":[-91.04802100000001,41.196981],"type":"Point"}
 }

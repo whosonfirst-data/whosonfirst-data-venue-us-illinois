@@ -2,13 +2,14 @@
   "id": 220160449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633228,39.982759,-87.633228,39.982759",
     "geom:latitude":39.982759,
     "geom:longitude":-87.633228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E 9th St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220160449,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466490905,
     "wof:name":"Gt Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.633228,39.982759,-87.633228,39.982759],
+  "bbox": [
+    -87.633228,
+    39.982759,
+    -87.633228,
+    39.982759
+],
   "geometry": {"coordinates":[-87.633228,39.982759],"type":"Point"}
 }

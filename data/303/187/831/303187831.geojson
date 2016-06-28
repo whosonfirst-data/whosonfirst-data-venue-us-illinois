@@ -2,13 +2,14 @@
   "id": 303187831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.320084,41.760566,-88.320084,41.760566",
     "geom:latitude":41.760566,
     "geom:longitude":-88.320084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303187831,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466492845,
     "wof:name":"Staff Force",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-88.320084,41.760566,-88.320084,41.760566],
-  "geometry": {"coordinates":[-88.320084,41.760566],"type":"Point"}
+  "bbox": [
+    -88.320084,
+    41.760566,
+    -88.320084,
+    41.760566
+],
+  "geometry": {"coordinates":[-88.32008399999999,41.760566],"type":"Point"}
 }

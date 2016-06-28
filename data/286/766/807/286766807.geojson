@@ -2,13 +2,14 @@
   "id": 286766807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.571452,41.7706,-87.571452,41.7706",
     "geom:latitude":41.7706,
     "geom:longitude":-87.571452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6841 S Paxton Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286766807,
-    "wof:lastmodified":1449015121,
+    "wof:lastmodified":1466497108,
     "wof:name":"Five K Travel",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-87.571452,41.7706,-87.571452,41.7706],
-  "geometry": {"coordinates":[-87.571452,41.7706],"type":"Point"}
+  "bbox": [
+    -87.571452,
+    41.7706,
+    -87.571452,
+    41.7706
+],
+  "geometry": {"coordinates":[-87.57145199999999,41.7706],"type":"Point"}
 }

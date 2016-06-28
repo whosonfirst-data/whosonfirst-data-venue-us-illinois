@@ -2,13 +2,14 @@
   "id": 219184585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912765,42.083241,-87.912765,42.083241",
     "geom:latitude":42.083241,
     "geom:longitude":-87.912765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 N Sycamore Ln",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219184585,
-    "wof:lastmodified":1449070984,
+    "wof:lastmodified":1466489299,
     "wof:name":"Dr John Paolella",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912765,42.083241,-87.912765,42.083241],
-  "geometry": {"coordinates":[-87.912765,42.083241],"type":"Point"}
+  "bbox": [
+    -87.912765,
+    42.083241,
+    -87.912765,
+    42.083241
+],
+  "geometry": {"coordinates":[-87.91276499999999,42.083241],"type":"Point"}
 }

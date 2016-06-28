@@ -2,13 +2,14 @@
   "id": 185770771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.969496,39.852274,-88.969496,39.852274",
     "geom:latitude":39.852274,
     "geom:longitude":-88.969496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 W Packard St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185770771,
-    "wof:lastmodified":1449008248,
+    "wof:lastmodified":1466495463,
     "wof:name":"Decatur Power Drillers",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "instruction-instrumental"
     ]
 },
-  "bbox": [-88.969496,39.852274,-88.969496,39.852274],
-  "geometry": {"coordinates":[-88.969496,39.852274],"type":"Point"}
+  "bbox": [
+    -88.969496,
+    39.852274,
+    -88.969496,
+    39.852274
+],
+  "geometry": {"coordinates":[-88.96949600000001,39.852274],"type":"Point"}
 }

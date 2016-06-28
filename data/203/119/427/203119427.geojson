@@ -2,13 +2,14 @@
   "id": 203119427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840545,41.112555,-87.840545,41.112555",
     "geom:latitude":41.112555,
     "geom:longitude":-87.840545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E Maple St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203119427,
-    "wof:lastmodified":1449026319,
+    "wof:lastmodified":1466495048,
     "wof:name":"A-1 Carpet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.840545,41.112555,-87.840545,41.112555],
-  "geometry": {"coordinates":[-87.840545,41.112555],"type":"Point"}
+  "bbox": [
+    -87.840545,
+    41.112555,
+    -87.840545,
+    41.112555
+],
+  "geometry": {"coordinates":[-87.84054500000001,41.112555],"type":"Point"}
 }

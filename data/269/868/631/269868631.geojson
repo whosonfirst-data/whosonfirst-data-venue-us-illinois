@@ -2,13 +2,14 @@
   "id": 269868631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.897307,42.009178,-87.897307,42.009178",
     "geom:latitude":42.009178,
     "geom:longitude":-87.897307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 E Touhy Ave",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269868631,
-    "wof:lastmodified":1449036236,
+    "wof:lastmodified":1466495090,
     "wof:name":"Maple Leaf Bakery",
     "wof:parent_id":85867753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bread"
     ]
 },
-  "bbox": [-87.897307,42.009178,-87.897307,42.009178],
+  "bbox": [
+    -87.897307,
+    42.009178,
+    -87.897307,
+    42.009178
+],
   "geometry": {"coordinates":[-87.897307,42.009178],"type":"Point"}
 }

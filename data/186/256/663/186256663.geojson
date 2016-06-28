@@ -2,13 +2,14 @@
   "id": 186256663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.186996,38.629799,-90.186996,38.629799",
     "geom:latitude":38.629799,
     "geom:longitude":-90.186996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 N 2nd St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186256663,
-    "wof:lastmodified":1449052373,
+    "wof:lastmodified":1466495454,
     "wof:name":"Dombek Vincent J Archtct",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.186996,38.629799,-90.186996,38.629799],
-  "geometry": {"coordinates":[-90.186996,38.629799],"type":"Point"}
+  "bbox": [
+    -90.186996,
+    38.629799,
+    -90.186996,
+    38.629799
+],
+  "geometry": {"coordinates":[-90.18699599999999,38.629799],"type":"Point"}
 }

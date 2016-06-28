@@ -2,13 +2,14 @@
   "id": 203174337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132252,41.292674,-88.132252,41.292674",
     "geom:latitude":41.292674,
     "geom:longitude":-88.132252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Janet Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203174337,
-    "wof:lastmodified":1449025198,
+    "wof:lastmodified":1466489064,
     "wof:name":"H & B Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.132252,41.292674,-88.132252,41.292674],
-  "geometry": {"coordinates":[-88.132252,41.292674],"type":"Point"}
+  "bbox": [
+    -88.132252,
+    41.292674,
+    -88.132252,
+    41.292674
+],
+  "geometry": {"coordinates":[-88.13225199999999,41.292674],"type":"Point"}
 }

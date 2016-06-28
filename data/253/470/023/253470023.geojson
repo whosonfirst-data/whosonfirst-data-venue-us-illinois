@@ -2,13 +2,14 @@
   "id": 253470023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.781698,42.011929,-87.781698,42.011929",
     "geom:latitude":42.011929,
     "geom:longitude":-87.781698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6143 W Touhy Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253470023,
-    "wof:lastmodified":1449063531,
+    "wof:lastmodified":1466495372,
     "wof:name":"Metron Group",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.781698,42.011929,-87.781698,42.011929],
-  "geometry": {"coordinates":[-87.781698,42.011929],"type":"Point"}
+  "bbox": [
+    -87.781698,
+    42.011929,
+    -87.781698,
+    42.011929
+],
+  "geometry": {"coordinates":[-87.78169800000001,42.011929],"type":"Point"}
 }

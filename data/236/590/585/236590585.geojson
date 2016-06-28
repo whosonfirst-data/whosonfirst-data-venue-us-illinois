@@ -2,13 +2,14 @@
   "id": 236590585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030965,41.643417,-88.030965,41.643417",
     "geom:latitude":41.643417,
     "geom:longitude":-88.030965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13364 Old Orchard Ln E",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236590585,
-    "wof:lastmodified":1449003646,
+    "wof:lastmodified":1466496290,
     "wof:name":"Willis Asphalt Co",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-88.030965,41.643417,-88.030965,41.643417],
-  "geometry": {"coordinates":[-88.030965,41.643417],"type":"Point"}
+  "bbox": [
+    -88.030965,
+    41.643417,
+    -88.030965,
+    41.643417
+],
+  "geometry": {"coordinates":[-88.03096499999999,41.643417],"type":"Point"}
 }

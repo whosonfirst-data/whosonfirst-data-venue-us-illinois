@@ -2,13 +2,14 @@
   "id": 202918605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.852658,42.341424,-87.852658,42.341424",
     "geom:latitude":42.341424,
     "geom:longitude":-87.852658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 10th St",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202918605,
-    "wof:lastmodified":1449061811,
+    "wof:lastmodified":1466493391,
     "wof:name":"Slycocustom Decorators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decorator"
     ]
 },
-  "bbox": [-87.852658,42.341424,-87.852658,42.341424],
-  "geometry": {"coordinates":[-87.852658,42.341424],"type":"Point"}
+  "bbox": [
+    -87.852658,
+    42.341424,
+    -87.852658,
+    42.341424
+],
+  "geometry": {"coordinates":[-87.85265800000001,42.341424],"type":"Point"}
 }

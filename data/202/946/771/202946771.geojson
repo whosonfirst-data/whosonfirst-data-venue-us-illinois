@@ -2,13 +2,14 @@
   "id": 202946771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.246527,41.707583,-88.246527,41.707583",
     "geom:latitude":41.707583,
     "geom:longitude":-88.246527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2472 Bayhill Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202946771,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466493732,
     "wof:name":"Catbird Networks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-88.246527,41.707583,-88.246527,41.707583],
+  "bbox": [
+    -88.246527,
+    41.707583,
+    -88.246527,
+    41.707583
+],
   "geometry": {"coordinates":[-88.246527,41.707583],"type":"Point"}
 }

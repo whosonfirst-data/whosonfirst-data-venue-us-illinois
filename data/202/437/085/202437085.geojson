@@ -2,13 +2,14 @@
   "id": 202437085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.915523,40.641862,-88.915523,40.641862",
     "geom:latitude":40.641862,
     "geom:longitude":-88.915523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24248 Ron Smith Memorial Hwy",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202437085,
-    "wof:lastmodified":1449061934,
+    "wof:lastmodified":1466495727,
     "wof:name":"East Bay Camp",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-88.915523,40.641862,-88.915523,40.641862],
-  "geometry": {"coordinates":[-88.915523,40.641862],"type":"Point"}
+  "bbox": [
+    -88.915523,
+    40.641862,
+    -88.915523,
+    40.641862
+],
+  "geometry": {"coordinates":[-88.91552299999999,40.641862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253005331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.103428,41.327412,-89.103428,41.327412",
     "geom:latitude":41.327412,
     "geom:longitude":-89.103428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 1st St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253005331,
-    "wof:lastmodified":1449065553,
+    "wof:lastmodified":1466489058,
     "wof:name":"Monari's 101",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.103428,41.327412,-89.103428,41.327412],
-  "geometry": {"coordinates":[-89.103428,41.327412],"type":"Point"}
+  "bbox": [
+    -89.103428,
+    41.327412,
+    -89.103428,
+    41.327412
+],
+  "geometry": {"coordinates":[-89.10342799999999,41.327412],"type":"Point"}
 }

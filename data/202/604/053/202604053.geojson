@@ -2,13 +2,14 @@
   "id": 202604053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904656,42.080677,-87.904656,42.080677",
     "geom:latitude":42.080677,
     "geom:longitude":-87.904656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 E Kensington Rd",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202604053,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466489710,
     "wof:name":"Photos Hot Dogs",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.904656,42.080677,-87.904656,42.080677],
+  "bbox": [
+    -87.904656,
+    42.080677,
+    -87.904656,
+    42.080677
+],
   "geometry": {"coordinates":[-87.904656,42.080677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202611923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.754424,41.893998,-87.754424,41.893998",
     "geom:latitude":41.893998,
     "geom:longitude":-87.754424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 N Leamington Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202611923,
-    "wof:lastmodified":1449062124,
+    "wof:lastmodified":1466489802,
     "wof:name":"Mount Pilgrim Primitive Baptst",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.754424,41.893998,-87.754424,41.893998],
+  "bbox": [
+    -87.754424,
+    41.893998,
+    -87.754424,
+    41.893998
+],
   "geometry": {"coordinates":[-87.754424,41.893998],"type":"Point"}
 }

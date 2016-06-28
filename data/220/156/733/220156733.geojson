@@ -2,13 +2,14 @@
   "id": 220156733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.606026,41.828425,-87.606026,41.828425",
     "geom:latitude":41.828425,
     "geom:longitude":-87.606026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 S Lake Park Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220156733,
-    "wof:lastmodified":1449074199,
+    "wof:lastmodified":1466490861,
     "wof:name":"Christ The King Lutheran",
     "wof:parent_id":85867555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.606026,41.828425,-87.606026,41.828425],
+  "bbox": [
+    -87.606026,
+    41.828425,
+    -87.606026,
+    41.828425
+],
   "geometry": {"coordinates":[-87.606026,41.828425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252903697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.317507,42.242603,-88.317507,42.242603",
     "geom:latitude":42.242603,
     "geom:longitude":-88.317507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 N Williams St",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252903697,
-    "wof:lastmodified":1449005470,
+    "wof:lastmodified":1466491486,
     "wof:name":"Wickham Interiors Inc",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-88.317507,42.242603,-88.317507,42.242603],
-  "geometry": {"coordinates":[-88.317507,42.242603],"type":"Point"}
+  "bbox": [
+    -88.317507,
+    42.242603,
+    -88.317507,
+    42.242603
+],
+  "geometry": {"coordinates":[-88.31750700000001,42.242603],"type":"Point"}
 }

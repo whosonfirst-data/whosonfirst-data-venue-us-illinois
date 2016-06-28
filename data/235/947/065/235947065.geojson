@@ -2,13 +2,14 @@
   "id": 235947065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.140373,41.51491,-88.140373,41.51491",
     "geom:latitude":41.51491,
     "geom:longitude":-88.140373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 McDonough St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235947065,
-    "wof:lastmodified":1449008503,
+    "wof:lastmodified":1466489147,
     "wof:name":"Joliet Terrace",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-88.140373,41.51491,-88.140373,41.51491],
+  "bbox": [
+    -88.140373,
+    41.51491,
+    -88.140373,
+    41.51491
+],
   "geometry": {"coordinates":[-88.140373,41.51491],"type":"Point"}
 }

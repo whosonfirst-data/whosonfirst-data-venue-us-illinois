@@ -2,13 +2,14 @@
   "id": 185838945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.366304,40.099372,-89.366304,40.099372",
     "geom:latitude":40.099372,
     "geom:longitude":-89.366304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 1250th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185838945,
-    "wof:lastmodified":1449006794,
+    "wof:lastmodified":1466489268,
     "wof:name":"Four Generations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-89.366304,40.099372,-89.366304,40.099372],
+  "bbox": [
+    -89.366304,
+    40.099372,
+    -89.366304,
+    40.099372
+],
   "geometry": {"coordinates":[-89.366304,40.099372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203177085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616376,41.814014,-87.616376,41.814014",
     "geom:latitude":41.814014,
     "geom:longitude":-87.616376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 S King Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203177085,
-    "wof:lastmodified":1449026860,
+    "wof:lastmodified":1466489096,
     "wof:name":"Bridge To Work Program",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.616376,41.814014,-87.616376,41.814014],
+  "bbox": [
+    -87.616376,
+    41.814014,
+    -87.616376,
+    41.814014
+],
   "geometry": {"coordinates":[-87.616376,41.814014],"type":"Point"}
 }

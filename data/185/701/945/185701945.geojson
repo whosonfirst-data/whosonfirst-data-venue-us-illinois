@@ -2,13 +2,14 @@
   "id": 185701945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.546028,39.121899,-88.546028,39.121899",
     "geom:latitude":39.121899,
     "geom:longitude":-88.546028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185701945,
-    "wof:lastmodified":1449007886,
+    "wof:lastmodified":1466494755,
     "wof:name":"Bj's Downtown Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grill"
     ]
 },
-  "bbox": [-88.546028,39.121899,-88.546028,39.121899],
-  "geometry": {"coordinates":[-88.546028,39.121899],"type":"Point"}
+  "bbox": [
+    -88.546028,
+    39.121899,
+    -88.546028,
+    39.121899
+],
+  "geometry": {"coordinates":[-88.54602800000001,39.121899],"type":"Point"}
 }

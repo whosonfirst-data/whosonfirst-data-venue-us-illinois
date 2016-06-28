@@ -2,13 +2,14 @@
   "id": 270350305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.963516,38.623553,-88.963516,38.623553",
     "geom:latitude":38.623553,
     "geom:longitude":-88.963516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 W Whittaker St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270350305,
-    "wof:lastmodified":1449009877,
+    "wof:lastmodified":1466494375,
     "wof:name":"Salem Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-88.963516,38.623553,-88.963516,38.623553],
+  "bbox": [
+    -88.963516,
+    38.623553,
+    -88.963516,
+    38.623553
+],
   "geometry": {"coordinates":[-88.963516,38.623553],"type":"Point"}
 }

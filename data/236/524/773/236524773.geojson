@@ -2,13 +2,14 @@
   "id": 236524773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570889,41.762645,-87.570889,41.762645",
     "geom:latitude":41.762645,
     "geom:longitude":-87.570889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 E 73rd St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236524773,
-    "wof:lastmodified":1449001652,
+    "wof:lastmodified":1466495688,
     "wof:name":"Come Alive Ministry Of Faith",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.570889,41.762645,-87.570889,41.762645],
-  "geometry": {"coordinates":[-87.570889,41.762645],"type":"Point"}
+  "bbox": [
+    -87.570889,
+    41.762645,
+    -87.570889,
+    41.762645
+],
+  "geometry": {"coordinates":[-87.57088899999999,41.762645],"type":"Point"}
 }

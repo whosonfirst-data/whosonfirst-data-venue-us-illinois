@@ -2,13 +2,14 @@
   "id": 185765693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.934568,39.804419,-88.934568,39.804419",
     "geom:latitude":39.804419,
     "geom:longitude":-88.934568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 Sandcreek Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":185765693,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466495411,
     "wof:name":"Wiegand Contracting",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-88.934568,39.804419,-88.934568,39.804419],
+  "bbox": [
+    -88.934568,
+    39.804419,
+    -88.934568,
+    39.804419
+],
   "geometry": {"coordinates":[-88.934568,39.804419],"type":"Point"}
 }

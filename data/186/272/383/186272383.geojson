@@ -2,13 +2,14 @@
   "id": 186272383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.200103,38.607788,-90.200103,38.607788",
     "geom:latitude":38.607788,
     "geom:longitude":-90.200103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 S Broadway",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186272383,
-    "wof:lastmodified":1449052848,
+    "wof:lastmodified":1466495483,
     "wof:name":"Urban FItness",
     "wof:parent_id":85873669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.200103,38.607788,-90.200103,38.607788],
+  "bbox": [
+    -90.200103,
+    38.607788,
+    -90.200103,
+    38.607788
+],
   "geometry": {"coordinates":[-90.200103,38.607788],"type":"Point"}
 }

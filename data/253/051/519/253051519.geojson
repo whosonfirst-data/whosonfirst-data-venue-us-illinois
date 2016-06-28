@@ -2,13 +2,14 @@
   "id": 253051519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633761,41.469729,-87.633761,41.469729",
     "geom:latitude":41.469729,
     "geom:longitude":-87.633761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 E 34th St",
     "sg:city":"Steger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253051519,
-    "wof:lastmodified":1449064646,
+    "wof:lastmodified":1466489627,
     "wof:name":"34th Street Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-87.633761,41.469729,-87.633761,41.469729],
-  "geometry": {"coordinates":[-87.633761,41.469729],"type":"Point"}
+  "bbox": [
+    -87.633761,
+    41.469729,
+    -87.633761,
+    41.469729
+],
+  "geometry": {"coordinates":[-87.63376100000001,41.469729],"type":"Point"}
 }

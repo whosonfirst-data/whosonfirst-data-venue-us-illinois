@@ -2,13 +2,14 @@
   "id": 185848115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.60414,39.893498,-89.60414,39.893498",
     "geom:latitude":39.893498,
     "geom:longitude":-89.60414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Crossing Dr",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185848115,
-    "wof:lastmodified":1449006828,
+    "wof:lastmodified":1466489327,
     "wof:name":"Country Financial",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.60414,39.893498,-89.60414,39.893498],
+  "bbox": [
+    -89.60414,
+    39.893498,
+    -89.60414,
+    39.893498
+],
   "geometry": {"coordinates":[-89.60414,39.893498],"type":"Point"}
 }

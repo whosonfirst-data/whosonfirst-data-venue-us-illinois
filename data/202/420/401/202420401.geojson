@@ -2,13 +2,14 @@
   "id": 202420401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.080473,38.197149,-89.080473,38.197149",
     "geom:latitude":38.197149,
     "geom:longitude":-89.080473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 E Bonnie Rd",
     "sg:city":"Waltonville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202420401,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466493568,
     "wof:name":"Joe Norris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.080473,38.197149,-89.080473,38.197149],
+  "bbox": [
+    -89.080473,
+    38.197149,
+    -89.080473,
+    38.197149
+],
   "geometry": {"coordinates":[-89.080473,38.197149],"type":"Point"}
 }

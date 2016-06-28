@@ -2,13 +2,14 @@
   "id": 202544665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.993908,39.298765,-87.993908,39.298765",
     "geom:latitude":39.298765,
     "geom:longitude":-87.993908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 SW 1st St",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202544665,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466489006,
     "wof:name":"Casey's Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-87.993908,39.298765,-87.993908,39.298765],
+  "bbox": [
+    -87.993908,
+    39.298765,
+    -87.993908,
+    39.298765
+],
   "geometry": {"coordinates":[-87.993908,39.298765],"type":"Point"}
 }

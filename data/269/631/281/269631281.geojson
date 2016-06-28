@@ -2,13 +2,14 @@
   "id": 269631281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.965418,41.975183,-87.965418,41.975183",
     "geom:latitude":41.975183,
     "geom:longitude":-87.965418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 N Edgewood Ave",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269631281,
-    "wof:lastmodified":1449036897,
+    "wof:lastmodified":1466491327,
     "wof:name":"Global Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-87.965418,41.975183,-87.965418,41.975183],
+  "bbox": [
+    -87.965418,
+    41.975183,
+    -87.965418,
+    41.975183
+],
   "geometry": {"coordinates":[-87.965418,41.975183],"type":"Point"}
 }

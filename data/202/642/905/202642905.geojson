@@ -2,13 +2,14 @@
   "id": 202642905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.591135,40.140984,-87.591135,40.140984",
     "geom:latitude":40.140984,
     "geom:longitude":-87.591135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Clymen Ln",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202642905,
-    "wof:lastmodified":1449060256,
+    "wof:lastmodified":1466490163,
     "wof:name":"April's",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.591135,40.140984,-87.591135,40.140984],
-  "geometry": {"coordinates":[-87.591135,40.140984],"type":"Point"}
+  "bbox": [
+    -87.591135,
+    40.140984,
+    -87.591135,
+    40.140984
+],
+  "geometry": {"coordinates":[-87.59113499999999,40.140984],"type":"Point"}
 }

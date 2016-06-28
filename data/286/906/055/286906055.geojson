@@ -2,13 +2,14 @@
   "id": 286906055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255553,42.202698,-88.255553,42.202698",
     "geom:latitude":42.202698,
     "geom:longitude":-88.255553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Stonegate Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286906055,
-    "wof:lastmodified":1449016299,
+    "wof:lastmodified":1466498099,
     "wof:name":"Fox River Grove Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.255553,42.202698,-88.255553,42.202698],
-  "geometry": {"coordinates":[-88.255553,42.202698],"type":"Point"}
+  "bbox": [
+    -88.255553,
+    42.202698,
+    -88.255553,
+    42.202698
+],
+  "geometry": {"coordinates":[-88.25555300000001,42.202698],"type":"Point"}
 }

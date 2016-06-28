@@ -2,13 +2,14 @@
   "id": 185722507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.235378,39.405851,-88.235378,39.405851",
     "geom:latitude":39.405851,
     "geom:longitude":-88.235378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12819 E County Road 210N",
     "sg:city":"Lerna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185722507,
-    "wof:lastmodified":1449007155,
+    "wof:lastmodified":1466494971,
     "wof:name":"Ed Lawyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.235378,39.405851,-88.235378,39.405851],
+  "bbox": [
+    -88.235378,
+    39.405851,
+    -88.235378,
+    39.405851
+],
   "geometry": {"coordinates":[-88.235378,39.405851],"type":"Point"}
 }

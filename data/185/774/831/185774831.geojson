@@ -2,13 +2,14 @@
   "id": 185774831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.924754,39.884722,-88.924754,39.884722",
     "geom:latitude":39.884722,
     "geom:longitude":-88.924754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3443 Rupp Pkwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185774831,
-    "wof:lastmodified":1449007244,
+    "wof:lastmodified":1466495518,
     "wof:name":"FedEx Express Ship Center",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "copying"
     ]
 },
-  "bbox": [-88.924754,39.884722,-88.924754,39.884722],
-  "geometry": {"coordinates":[-88.924754,39.884722],"type":"Point"}
+  "bbox": [
+    -88.924754,
+    39.884722,
+    -88.924754,
+    39.884722
+],
+  "geometry": {"coordinates":[-88.92475399999999,39.884722],"type":"Point"}
 }

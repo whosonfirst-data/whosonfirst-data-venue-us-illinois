@@ -2,13 +2,14 @@
   "id": 185678611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.309278,39.958642,-91.309278,39.958642",
     "geom:latitude":39.958642,
     "geom:longitude":-91.309278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6737 Columbus Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185678611,
-    "wof:lastmodified":1449007403,
+    "wof:lastmodified":1466494438,
     "wof:name":"Keck Plumbing Inc",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-91.309278,39.958642,-91.309278,39.958642],
-  "geometry": {"coordinates":[-91.309278,39.958642],"type":"Point"}
+  "bbox": [
+    -91.309278,
+    39.958642,
+    -91.309278,
+    39.958642
+],
+  "geometry": {"coordinates":[-91.30927800000001,39.958642],"type":"Point"}
 }

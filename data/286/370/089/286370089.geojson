@@ -2,13 +2,14 @@
   "id": 286370089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.814068,41.778008,-87.814068,41.778008",
     "geom:latitude":41.778008,
     "geom:longitude":-87.814068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7704 W 62nd Pl",
     "sg:city":"Summit Argo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286370089,
-    "wof:lastmodified":1449016786,
+    "wof:lastmodified":1466491476,
     "wof:name":"Ata Medical Transportation",
     "wof:parent_id":85811257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.814068,41.778008,-87.814068,41.778008],
-  "geometry": {"coordinates":[-87.814068,41.778008],"type":"Point"}
+  "bbox": [
+    -87.814068,
+    41.778008,
+    -87.814068,
+    41.778008
+],
+  "geometry": {"coordinates":[-87.81406800000001,41.778008],"type":"Point"}
 }

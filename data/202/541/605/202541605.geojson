@@ -2,13 +2,14 @@
   "id": 202541605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.746811,41.939574,-87.746811,41.939574",
     "geom:latitude":41.939574,
     "geom:longitude":-87.746811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202541605,
-    "wof:lastmodified":1449060387,
+    "wof:lastmodified":1466488969,
     "wof:name":"Grace Fisher Designs",
     "wof:parent_id":85867621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.746811,41.939574,-87.746811,41.939574],
-  "geometry": {"coordinates":[-87.746811,41.939574],"type":"Point"}
+  "bbox": [
+    -87.746811,
+    41.939574,
+    -87.746811,
+    41.939574
+],
+  "geometry": {"coordinates":[-87.74681099999999,41.939574],"type":"Point"}
 }

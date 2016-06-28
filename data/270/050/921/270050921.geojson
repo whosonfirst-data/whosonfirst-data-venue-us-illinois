@@ -2,13 +2,14 @@
   "id": 270050921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.926364,41.224094,-89.926364,41.224094",
     "geom:latitude":41.224094,
     "geom:longitude":-89.926364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 E College St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270050921,
-    "wof:lastmodified":1449009991,
+    "wof:lastmodified":1466489795,
     "wof:name":"Bridgeway Henry County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-89.926364,41.224094,-89.926364,41.224094],
-  "geometry": {"coordinates":[-89.926364,41.224094],"type":"Point"}
+  "bbox": [
+    -89.926364,
+    41.224094,
+    -89.926364,
+    41.224094
+],
+  "geometry": {"coordinates":[-89.92636400000001,41.224094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203231309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.174495,37.004082,-89.174495,37.004082",
     "geom:latitude":37.004082,
     "geom:longitude":-89.174495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Washington Ave",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203231309,
-    "wof:lastmodified":1449025900,
+    "wof:lastmodified":1466489693,
     "wof:name":"Delta Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.174495,37.004082,-89.174495,37.004082],
-  "geometry": {"coordinates":[-89.174495,37.004082],"type":"Point"}
+  "bbox": [
+    -89.174495,
+    37.004082,
+    -89.174495,
+    37.004082
+],
+  "geometry": {"coordinates":[-89.17449499999999,37.004082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220010991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.183392,38.890851,-90.183392,38.890851",
     "geom:latitude":38.890851,
     "geom:longitude":-90.183392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 3rd St",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220010991,
-    "wof:lastmodified":1449074539,
+    "wof:lastmodified":1466489078,
     "wof:name":"Alton City Traffic Bureau",
     "wof:parent_id":85867919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-90.183392,38.890851,-90.183392,38.890851],
+  "bbox": [
+    -90.183392,
+    38.890851,
+    -90.183392,
+    38.890851
+],
   "geometry": {"coordinates":[-90.183392,38.890851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220200041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.300975,41.887021,-88.300975,41.887021",
     "geom:latitude":41.887021,
     "geom:longitude":-88.300975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E State St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220200041,
-    "wof:lastmodified":1449074358,
+    "wof:lastmodified":1466491372,
     "wof:name":"Nevaeh",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-88.300975,41.887021,-88.300975,41.887021],
-  "geometry": {"coordinates":[-88.300975,41.887021],"type":"Point"}
+  "bbox": [
+    -88.300975,
+    41.887021,
+    -88.300975,
+    41.887021
+],
+  "geometry": {"coordinates":[-88.30097499999999,41.887021],"type":"Point"}
 }

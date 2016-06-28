@@ -2,13 +2,14 @@
   "id": 203200327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094108,41.669396,-88.094108,41.669396",
     "geom:latitude":41.669396,
     "geom:longitude":-88.094108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 Crossroads Pkwy",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203200327,
-    "wof:lastmodified":1449025678,
+    "wof:lastmodified":1466489354,
     "wof:name":"Architectural Wall Solutions",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exterior"
     ]
 },
-  "bbox": [-88.094108,41.669396,-88.094108,41.669396],
-  "geometry": {"coordinates":[-88.094108,41.669396],"type":"Point"}
+  "bbox": [
+    -88.094108,
+    41.669396,
+    -88.094108,
+    41.669396
+],
+  "geometry": {"coordinates":[-88.09410800000001,41.669396],"type":"Point"}
 }

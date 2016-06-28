@@ -2,13 +2,14 @@
   "id": 202499417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.096904,42.313548,-89.096904,42.313548",
     "geom:latitude":42.313548,
     "geom:longitude":-89.096904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 N Rockton Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202499417,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466495093,
     "wof:name":"Meyer & Horning PC",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-89.096904,42.313548,-89.096904,42.313548],
-  "geometry": {"coordinates":[-89.096904,42.313548],"type":"Point"}
+  "bbox": [
+    -89.096904,
+    42.313548,
+    -89.096904,
+    42.313548
+],
+  "geometry": {"coordinates":[-89.09690399999999,42.313548],"type":"Point"}
 }

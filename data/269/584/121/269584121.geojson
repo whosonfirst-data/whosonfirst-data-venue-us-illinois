@@ -2,13 +2,14 @@
   "id": 269584121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.069032,40.288866,-90.069032,40.288866",
     "geom:latitude":40.288866,
     "geom:longitude":-90.069032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 S 10th St",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269584121,
-    "wof:lastmodified":1449036407,
+    "wof:lastmodified":1466490571,
     "wof:name":"Havana Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.069032,40.288866,-90.069032,40.288866],
-  "geometry": {"coordinates":[-90.069032,40.288866],"type":"Point"}
+  "bbox": [
+    -90.069032,
+    40.288866,
+    -90.069032,
+    40.288866
+],
+  "geometry": {"coordinates":[-90.06903200000001,40.288866],"type":"Point"}
 }

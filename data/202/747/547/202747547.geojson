@@ -2,13 +2,14 @@
   "id": 202747547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.634542,39.974471,-87.634542,39.974471",
     "geom:latitude":39.974471,
     "geom:longitude":-87.634542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Walnut St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202747547,
-    "wof:lastmodified":1449060564,
+    "wof:lastmodified":1466491340,
     "wof:name":"Georgetown City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-87.634542,39.974471,-87.634542,39.974471],
+  "bbox": [
+    -87.634542,
+    39.974471,
+    -87.634542,
+    39.974471
+],
   "geometry": {"coordinates":[-87.634542,39.974471],"type":"Point"}
 }

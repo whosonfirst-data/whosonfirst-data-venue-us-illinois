@@ -2,13 +2,14 @@
   "id": 253179521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.786124,41.681706,-87.786124,41.681706",
     "geom:latitude":41.681706,
     "geom:longitude":-87.786124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11512 S Normandy Ave",
     "sg:city":"Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253179521,
-    "wof:lastmodified":1449065477,
+    "wof:lastmodified":1466491081,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85890889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.786124,41.681706,-87.786124,41.681706],
+  "bbox": [
+    -87.786124,
+    41.681706,
+    -87.786124,
+    41.681706
+],
   "geometry": {"coordinates":[-87.786124,41.681706],"type":"Point"}
 }

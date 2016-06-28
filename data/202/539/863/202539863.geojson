@@ -2,13 +2,14 @@
   "id": 202539863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.068784,38.593906,-90.068784,38.593906",
     "geom:latitude":38.593906,
     "geom:longitude":-90.068784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8080 State St",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202539863,
-    "wof:lastmodified":1449062712,
+    "wof:lastmodified":1466488947,
     "wof:name":"Southern Ill Hlth Care Fndtion",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.068784,38.593906,-90.068784,38.593906],
-  "geometry": {"coordinates":[-90.068784,38.593906],"type":"Point"}
+  "bbox": [
+    -90.068784,
+    38.593906,
+    -90.068784,
+    38.593906
+],
+  "geometry": {"coordinates":[-90.06878399999999,38.593906],"type":"Point"}
 }

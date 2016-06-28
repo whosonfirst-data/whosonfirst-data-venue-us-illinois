@@ -2,13 +2,14 @@
   "id": 270282421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.845849,41.297668,-88.845849,41.297668",
     "geom:latitude":41.297668,
     "geom:longitude":-88.845849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1659 N 2501st Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270282421,
-    "wof:lastmodified":1449010177,
+    "wof:lastmodified":1466493316,
     "wof:name":"Ottawa Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-88.845849,41.297668,-88.845849,41.297668],
+  "bbox": [
+    -88.845849,
+    41.297668,
+    -88.845849,
+    41.297668
+],
   "geometry": {"coordinates":[-88.845849,41.297668],"type":"Point"}
 }

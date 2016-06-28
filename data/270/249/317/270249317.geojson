@@ -2,13 +2,14 @@
   "id": 270249317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127864,42.493873,-88.127864,42.493873",
     "geom:latitude":42.493873,
     "geom:longitude":-88.127864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43374 N Mary Ave",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270249317,
-    "wof:lastmodified":1449008802,
+    "wof:lastmodified":1466492805,
     "wof:name":"Hansen Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-88.127864,42.493873,-88.127864,42.493873],
+  "bbox": [
+    -88.127864,
+    42.493873,
+    -88.127864,
+    42.493873
+],
   "geometry": {"coordinates":[-88.127864,42.493873],"type":"Point"}
 }

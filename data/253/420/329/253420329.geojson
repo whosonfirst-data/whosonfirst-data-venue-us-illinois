@@ -2,13 +2,14 @@
   "id": 253420329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681602,41.703622,-87.681602,41.703622",
     "geom:latitude":41.703622,
     "geom:longitude":-87.681602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10448 S Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253420329,
-    "wof:lastmodified":1449064237,
+    "wof:lastmodified":1466494559,
     "wof:name":"Global Van Lines",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-87.681602,41.703622,-87.681602,41.703622],
+  "bbox": [
+    -87.681602,
+    41.703622,
+    -87.681602,
+    41.703622
+],
   "geometry": {"coordinates":[-87.681602,41.703622],"type":"Point"}
 }

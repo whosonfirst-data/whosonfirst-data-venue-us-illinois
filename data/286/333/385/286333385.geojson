@@ -2,13 +2,14 @@
   "id": 286333385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690214,41.748471,-87.690214,41.748471",
     "geom:latitude":41.748471,
     "geom:longitude":-87.690214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7944 S Washtenaw Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286333385,
-    "wof:lastmodified":1449017882,
+    "wof:lastmodified":1466490921,
     "wof:name":"Right Way Building Maintenance",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.690214,41.748471,-87.690214,41.748471],
+  "bbox": [
+    -87.690214,
+    41.748471,
+    -87.690214,
+    41.748471
+],
   "geometry": {"coordinates":[-87.690214,41.748471],"type":"Point"}
 }

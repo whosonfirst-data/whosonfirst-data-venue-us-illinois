@@ -2,13 +2,14 @@
   "id": 252962803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649011,41.705876,-87.649011,41.705876",
     "geom:latitude":41.705876,
     "geom:longitude":-87.649011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 W 103rd Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252962803,
-    "wof:lastmodified":1449006066,
+    "wof:lastmodified":1466492297,
     "wof:name":"Gwendolyn Turner",
     "wof:parent_id":85867797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649011,41.705876,-87.649011,41.705876],
+  "bbox": [
+    -87.649011,
+    41.705876,
+    -87.649011,
+    41.705876
+],
   "geometry": {"coordinates":[-87.649011,41.705876],"type":"Point"}
 }

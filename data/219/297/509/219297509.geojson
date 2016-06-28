@@ -2,13 +2,14 @@
   "id": 219297509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894816,41.115974,-87.894816,41.115974",
     "geom:latitude":41.115974,
     "geom:longitude":-87.894816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 W Bourbonnais St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219297509,
-    "wof:lastmodified":1449072625,
+    "wof:lastmodified":1466490667,
     "wof:name":"Order of White Shrine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.894816,41.115974,-87.894816,41.115974],
-  "geometry": {"coordinates":[-87.894816,41.115974],"type":"Point"}
+  "bbox": [
+    -87.894816,
+    41.115974,
+    -87.894816,
+    41.115974
+],
+  "geometry": {"coordinates":[-87.89481600000001,41.115974],"type":"Point"}
 }

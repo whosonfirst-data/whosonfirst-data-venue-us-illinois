@@ -2,13 +2,14 @@
   "id": 303160405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.143222,41.440694,-90.143222,41.440694",
     "geom:latitude":41.440694,
     "geom:longitude":-90.143222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 E Culver Ct",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303160405,
-    "wof:lastmodified":1449000174,
+    "wof:lastmodified":1466492398,
     "wof:name":"Bob Johnson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.143222,41.440694,-90.143222,41.440694],
-  "geometry": {"coordinates":[-90.143222,41.440694],"type":"Point"}
+  "bbox": [
+    -90.143222,
+    41.440694,
+    -90.143222,
+    41.440694
+],
+  "geometry": {"coordinates":[-90.14322199999999,41.440694],"type":"Point"}
 }

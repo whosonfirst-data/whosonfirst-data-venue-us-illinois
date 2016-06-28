@@ -2,13 +2,14 @@
   "id": 220060893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.038795,42.265976,-89.038795,42.265976",
     "geom:latitude":42.265976,
     "geom:longitude":-89.038795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 E State St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220060893,
-    "wof:lastmodified":1449074803,
+    "wof:lastmodified":1466489693,
     "wof:name":"Leftwich Insurance",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.038795,42.265976,-89.038795,42.265976],
-  "geometry": {"coordinates":[-89.038795,42.265976],"type":"Point"}
+  "bbox": [
+    -89.038795,
+    42.265976,
+    -89.038795,
+    42.265976
+],
+  "geometry": {"coordinates":[-89.03879499999999,42.265976],"type":"Point"}
 }

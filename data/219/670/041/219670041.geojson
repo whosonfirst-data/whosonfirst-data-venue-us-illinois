@@ -2,13 +2,14 @@
   "id": 219670041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.85702,41.119401,-87.85702,41.119401",
     "geom:latitude":41.119401,
     "geom:longitude":-87.85702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 S Greenwood Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219670041,
-    "wof:lastmodified":1449070915,
+    "wof:lastmodified":1466495168,
     "wof:name":"Lax Mortuary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.85702,41.119401,-87.85702,41.119401],
-  "geometry": {"coordinates":[-87.85702,41.119401],"type":"Point"}
+  "bbox": [
+    -87.85702,
+    41.119401,
+    -87.85702,
+    41.119401
+],
+  "geometry": {"coordinates":[-87.85702000000001,41.119401],"type":"Point"}
 }

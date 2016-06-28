@@ -2,13 +2,14 @@
   "id": 287020529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742446,42.019091,-87.742446,42.019091",
     "geom:latitude":42.019091,
     "geom:longitude":-87.742446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Howard St",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287020529,
-    "wof:lastmodified":1449001071,
+    "wof:lastmodified":1466490297,
     "wof:name":"Express Madicar Inc",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-87.742446,42.019091,-87.742446,42.019091],
+  "bbox": [
+    -87.742446,
+    42.019091,
+    -87.742446,
+    42.019091
+],
   "geometry": {"coordinates":[-87.742446,42.019091],"type":"Point"}
 }

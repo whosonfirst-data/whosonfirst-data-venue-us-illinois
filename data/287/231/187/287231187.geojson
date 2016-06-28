@@ -2,13 +2,14 @@
   "id": 287231187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.97141,41.505231,-87.97141,41.505231",
     "geom:latitude":41.505231,
     "geom:longitude":-87.97141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Oxford Ct",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287231187,
-    "wof:lastmodified":1449001113,
+    "wof:lastmodified":1466493693,
     "wof:name":"Cep Enterprises",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.97141,41.505231,-87.97141,41.505231],
-  "geometry": {"coordinates":[-87.97141,41.505231],"type":"Point"}
+  "bbox": [
+    -87.97141,
+    41.505231,
+    -87.97141,
+    41.505231
+],
+  "geometry": {"coordinates":[-87.97141000000001,41.505231],"type":"Point"}
 }

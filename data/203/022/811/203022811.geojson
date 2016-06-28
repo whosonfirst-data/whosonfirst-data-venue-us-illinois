@@ -2,13 +2,14 @@
   "id": 203022811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.980343,42.112527,-87.980343,42.112527",
     "geom:latitude":42.112527,
     "geom:longitude":-87.980343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 E Rand Rd",
     "sg:city":"Arlington Heights",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203022811,
-    "wof:lastmodified":1449025546,
+    "wof:lastmodified":1466492749,
     "wof:name":"Coconuts",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.980343,42.112527,-87.980343,42.112527],
+  "bbox": [
+    -87.980343,
+    42.112527,
+    -87.980343,
+    42.112527
+],
   "geometry": {"coordinates":[-87.980343,42.112527],"type":"Point"}
 }

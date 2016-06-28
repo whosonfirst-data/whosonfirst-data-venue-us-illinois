@@ -2,13 +2,14 @@
   "id": 219615881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059941,41.580961,-88.059941,41.580961",
     "geom:latitude":41.580961,
     "geom:longitude":-88.059941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 S Hamilton St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219615881,
-    "wof:lastmodified":1449071510,
+    "wof:lastmodified":1466494528,
     "wof:name":"MBQ Systems Inc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-88.059941,41.580961,-88.059941,41.580961],
-  "geometry": {"coordinates":[-88.059941,41.580961],"type":"Point"}
+  "bbox": [
+    -88.059941,
+    41.580961,
+    -88.059941,
+    41.580961
+],
+  "geometry": {"coordinates":[-88.05994099999999,41.580961],"type":"Point"}
 }

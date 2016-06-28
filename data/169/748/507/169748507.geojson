@@ -2,13 +2,14 @@
   "id": 169748507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.481461,39.15361,-89.481461,39.15361",
     "geom:latitude":39.15361,
     "geom:longitude":-89.481461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Tremont St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":169748507,
-    "wof:lastmodified":1449035146,
+    "wof:lastmodified":1466493501,
     "wof:name":"Hillsboro Area Hospital",
     "wof:parent_id":85867931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "facility"
     ]
 },
-  "bbox": [-89.481461,39.15361,-89.481461,39.15361],
+  "bbox": [
+    -89.481461,
+    39.15361,
+    -89.481461,
+    39.15361
+],
   "geometry": {"coordinates":[-89.481461,39.15361],"type":"Point"}
 }

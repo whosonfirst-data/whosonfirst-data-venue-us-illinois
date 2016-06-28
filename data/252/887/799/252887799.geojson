@@ -2,13 +2,14 @@
   "id": 252887799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.031427,41.93627,-89.031427,41.93627",
     "geom:latitude":41.93627,
     "geom:longitude":-89.031427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Petro Rd",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252887799,
-    "wof:lastmodified":1449006287,
+    "wof:lastmodified":1466491277,
     "wof:name":"Blue Beacon Of Rochelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-89.031427,41.93627,-89.031427,41.93627],
-  "geometry": {"coordinates":[-89.031427,41.93627],"type":"Point"}
+  "bbox": [
+    -89.031427,
+    41.93627,
+    -89.031427,
+    41.93627
+],
+  "geometry": {"coordinates":[-89.03142699999999,41.93627],"type":"Point"}
 }

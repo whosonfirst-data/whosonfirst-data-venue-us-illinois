@@ -2,13 +2,14 @@
   "id": 253217509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886535,41.533076,-87.886535,41.533076",
     "geom:latitude":41.533076,
     "geom:longitude":-87.886535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 2nd St",
     "sg:city":"Mokena",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253217509,
-    "wof:lastmodified":1449065614,
+    "wof:lastmodified":1466491555,
     "wof:name":"St Johns Cemetary",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "church"
     ]
 },
-  "bbox": [-87.886535,41.533076,-87.886535,41.533076],
-  "geometry": {"coordinates":[-87.886535,41.533076],"type":"Point"}
+  "bbox": [
+    -87.886535,
+    41.533076,
+    -87.886535,
+    41.533076
+],
+  "geometry": {"coordinates":[-87.88653499999999,41.533076],"type":"Point"}
 }

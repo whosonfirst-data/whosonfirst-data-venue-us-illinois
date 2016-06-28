@@ -2,13 +2,14 @@
   "id": 236891353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13398,41.515133,-88.13398,41.515133",
     "geom:latitude":41.515133,
     "geom:longitude":-88.13398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 McDonough St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236891353,
-    "wof:lastmodified":1449003678,
+    "wof:lastmodified":1466498177,
     "wof:name":"US Post Office",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.13398,41.515133,-88.13398,41.515133],
-  "geometry": {"coordinates":[-88.13398,41.515133],"type":"Point"}
+  "bbox": [
+    -88.13398,
+    41.515133,
+    -88.13398,
+    41.515133
+],
+  "geometry": {"coordinates":[-88.13397999999999,41.515133],"type":"Point"}
 }

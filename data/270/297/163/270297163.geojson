@@ -2,13 +2,14 @@
   "id": 270297163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087775,41.928446,-88.087775,41.928446",
     "geom:latitude":41.928446,
     "geom:longitude":-88.087775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Exchange Blvd",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270297163,
-    "wof:lastmodified":1449010222,
+    "wof:lastmodified":1466493538,
     "wof:name":"America Tape and Reel",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rewinding"
     ]
 },
-  "bbox": [-88.087775,41.928446,-88.087775,41.928446],
-  "geometry": {"coordinates":[-88.087775,41.928446],"type":"Point"}
+  "bbox": [
+    -88.087775,
+    41.928446,
+    -88.087775,
+    41.928446
+],
+  "geometry": {"coordinates":[-88.08777499999999,41.928446],"type":"Point"}
 }

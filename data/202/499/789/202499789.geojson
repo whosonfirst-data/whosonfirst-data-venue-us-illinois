@@ -2,13 +2,14 @@
   "id": 202499789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.786346,41.860587,-87.786346,41.860587",
     "geom:latitude":41.860587,
     "geom:longitude":-87.786346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 Gunderson Ave",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202499789,
-    "wof:lastmodified":1449060594,
+    "wof:lastmodified":1466495098,
     "wof:name":"Larry Herzog",
     "wof:parent_id":85890733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.786346,41.860587,-87.786346,41.860587],
-  "geometry": {"coordinates":[-87.786346,41.860587],"type":"Point"}
+  "bbox": [
+    -87.786346,
+    41.860587,
+    -87.786346,
+    41.860587
+],
+  "geometry": {"coordinates":[-87.78634599999999,41.860587],"type":"Point"}
 }

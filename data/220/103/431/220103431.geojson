@@ -2,13 +2,14 @@
   "id": 220103431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.802296,41.16297,-87.802296,41.16297",
     "geom:latitude":41.16297,
     "geom:longitude":-87.802296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 E 3000N Rd",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220103431,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466490213,
     "wof:name":"Vickis Country Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.802296,41.16297,-87.802296,41.16297],
+  "bbox": [
+    -87.802296,
+    41.16297,
+    -87.802296,
+    41.16297
+],
   "geometry": {"coordinates":[-87.802296,41.16297],"type":"Point"}
 }

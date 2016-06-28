@@ -2,13 +2,14 @@
   "id": 303117443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95233,41.85771,-87.95233,41.85771",
     "geom:latitude":41.85771,
     "geom:longitude":-87.95233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Drury Ln",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303117443,
-    "wof:lastmodified":1448999777,
+    "wof:lastmodified":1466491690,
     "wof:name":"Hilton",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-87.95233,41.85771,-87.95233,41.85771],
+  "bbox": [
+    -87.95233,
+    41.85771,
+    -87.95233,
+    41.85771
+],
   "geometry": {"coordinates":[-87.95233,41.85771],"type":"Point"}
 }

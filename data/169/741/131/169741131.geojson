@@ -2,13 +2,14 @@
   "id": 169741131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.15642,38.714377,-90.15642,38.714377",
     "geom:latitude":38.714377,
     "geom:longitude":-90.15642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 W 25th St",
     "sg:city":"Granite City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169741131,
-    "wof:lastmodified":1449032862,
+    "wof:lastmodified":1466493281,
     "wof:name":"Schools Public",
     "wof:parent_id":85838143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.15642,38.714377,-90.15642,38.714377],
+  "bbox": [
+    -90.15642,
+    38.714377,
+    -90.15642,
+    38.714377
+],
   "geometry": {"coordinates":[-90.15642,38.714377],"type":"Point"}
 }

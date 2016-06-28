@@ -2,13 +2,14 @@
   "id": 303080585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.486832,38.390079,-89.486832,38.390079",
     "geom:latitude":38.390079,
     "geom:longitude":-89.486832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 W Gaebe St",
     "sg:city":"Addieville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303080585,
-    "wof:lastmodified":1449000499,
+    "wof:lastmodified":1466491101,
     "wof:name":"Zion United Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-89.486832,38.390079,-89.486832,38.390079],
-  "geometry": {"coordinates":[-89.486832,38.390079],"type":"Point"}
+  "bbox": [
+    -89.486832,
+    38.390079,
+    -89.486832,
+    38.390079
+],
+  "geometry": {"coordinates":[-89.48683200000001,38.390079],"type":"Point"}
 }

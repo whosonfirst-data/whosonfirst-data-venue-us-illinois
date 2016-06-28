@@ -2,13 +2,14 @@
   "id": 269887267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309187,41.8804,-88.309187,41.8804",
     "geom:latitude":41.8804,
     "geom:longitude":-88.309187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 S Batavia Ave",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269887267,
-    "wof:lastmodified":1449038354,
+    "wof:lastmodified":1466495371,
     "wof:name":"KANE County Water Resources",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-88.309187,41.8804,-88.309187,41.8804],
-  "geometry": {"coordinates":[-88.309187,41.8804],"type":"Point"}
+  "bbox": [
+    -88.309187,
+    41.8804,
+    -88.309187,
+    41.8804
+],
+  "geometry": {"coordinates":[-88.30918699999999,41.8804],"type":"Point"}
 }

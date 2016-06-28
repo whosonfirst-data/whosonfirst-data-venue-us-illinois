@@ -2,13 +2,14 @@
   "id": 235980035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.93311,42.004248,-87.93311,42.004248",
     "geom:latitude":42.004248,
     "geom:longitude":-87.93311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Sell Rd",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235980035,
-    "wof:lastmodified":1449008304,
+    "wof:lastmodified":1466489549,
     "wof:name":"DMS",
     "wof:parent_id":85867701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disposal"
     ]
 },
-  "bbox": [-87.93311,42.004248,-87.93311,42.004248],
+  "bbox": [
+    -87.93311,
+    42.004248,
+    -87.93311,
+    42.004248
+],
   "geometry": {"coordinates":[-87.93311,42.004248],"type":"Point"}
 }

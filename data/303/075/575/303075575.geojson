@@ -2,13 +2,14 @@
   "id": 303075575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.425766,41.520622,-90.425766,41.520622",
     "geom:latitude":41.520622,
     "geom:longitude":-90.425766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 13th Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303075575,
-    "wof:lastmodified":1448999445,
+    "wof:lastmodified":1466491028,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.425766,41.520622,-90.425766,41.520622],
+  "bbox": [
+    -90.425766,
+    41.520622,
+    -90.425766,
+    41.520622
+],
   "geometry": {"coordinates":[-90.425766,41.520622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203075135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031742,40.57159,-90.031742,40.57159",
     "geom:latitude":40.57159,
     "geom:longitude":-90.031742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Poplar St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203075135,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1466494345,
     "wof:name":"Shoe Tree",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.031742,40.57159,-90.031742,40.57159],
-  "geometry": {"coordinates":[-90.031742,40.57159],"type":"Point"}
+  "bbox": [
+    -90.031742,
+    40.57159,
+    -90.031742,
+    40.57159
+],
+  "geometry": {"coordinates":[-90.03174199999999,40.57159],"type":"Point"}
 }

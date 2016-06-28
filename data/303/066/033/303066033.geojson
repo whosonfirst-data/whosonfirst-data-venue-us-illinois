@@ -2,13 +2,14 @@
   "id": 303066033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.013257,41.831132,-88.013257,41.831132",
     "geom:latitude":41.831132,
     "geom:longitude":-88.013257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 31st St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303066033,
-    "wof:lastmodified":1448998827,
+    "wof:lastmodified":1466490882,
     "wof:name":"Lee Coleman",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.013257,41.831132,-88.013257,41.831132],
+  "bbox": [
+    -88.013257,
+    41.831132,
+    -88.013257,
+    41.831132
+],
   "geometry": {"coordinates":[-88.013257,41.831132],"type":"Point"}
 }

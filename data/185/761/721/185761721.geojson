@@ -2,13 +2,14 @@
   "id": 185761721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.814156,39.987891,-88.814156,39.987891",
     "geom:latitude":39.987891,
     "geom:longitude":-88.814156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Emerson St",
     "sg:city":"Argenta",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":185761721,
-    "wof:lastmodified":1449007847,
+    "wof:lastmodified":1466495398,
     "wof:name":"Eric Ragle",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.814156,39.987891,-88.814156,39.987891],
+  "bbox": [
+    -88.814156,
+    39.987891,
+    -88.814156,
+    39.987891
+],
   "geometry": {"coordinates":[-88.814156,39.987891],"type":"Point"}
 }

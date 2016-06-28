@@ -2,13 +2,14 @@
   "id": 202510507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.079989,41.656782,-90.079989,41.656782",
     "geom:latitude":41.656782,
     "geom:longitude":-90.079989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 8th Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202510507,
-    "wof:lastmodified":1449061650,
+    "wof:lastmodified":1466495269,
     "wof:name":"Erie Village Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.079989,41.656782,-90.079989,41.656782],
+  "bbox": [
+    -90.079989,
+    41.656782,
+    -90.079989,
+    41.656782
+],
   "geometry": {"coordinates":[-90.079989,41.656782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269606101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099798,41.519826,-88.099798,41.519826",
     "geom:latitude":41.519826,
     "geom:longitude":-88.099798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Willow Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269606101,
-    "wof:lastmodified":1449036514,
+    "wof:lastmodified":1466490922,
     "wof:name":"Pauls Organ Service",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organ"
     ]
 },
-  "bbox": [-88.099798,41.519826,-88.099798,41.519826],
-  "geometry": {"coordinates":[-88.099798,41.519826],"type":"Point"}
+  "bbox": [
+    -88.099798,
+    41.519826,
+    -88.099798,
+    41.519826
+],
+  "geometry": {"coordinates":[-88.09979800000001,41.519826],"type":"Point"}
 }

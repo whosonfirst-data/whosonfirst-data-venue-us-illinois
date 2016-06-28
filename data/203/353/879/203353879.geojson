@@ -2,13 +2,14 @@
   "id": 203353879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.859716,42.346067,-88.859716,42.346067",
     "geom:latitude":42.346067,
     "geom:longitude":-88.859716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Candlewick Dr SE",
     "sg:city":"Poplar Grove",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203353879,
-    "wof:lastmodified":1449025443,
+    "wof:lastmodified":1466491064,
     "wof:name":"B S Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.859716,42.346067,-88.859716,42.346067],
-  "geometry": {"coordinates":[-88.859716,42.346067],"type":"Point"}
+  "bbox": [
+    -88.859716,
+    42.346067,
+    -88.859716,
+    42.346067
+],
+  "geometry": {"coordinates":[-88.85971600000001,42.346067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219721623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.876297,41.126977,-87.876297,41.126977",
     "geom:latitude":41.126977,
     "geom:longitude":-87.876297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Harbor St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219721623,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466495926,
     "wof:name":"Thresholds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.876297,41.126977,-87.876297,41.126977],
-  "geometry": {"coordinates":[-87.876297,41.126977],"type":"Point"}
+  "bbox": [
+    -87.876297,
+    41.126977,
+    -87.876297,
+    41.126977
+],
+  "geometry": {"coordinates":[-87.87629699999999,41.126977],"type":"Point"}
 }

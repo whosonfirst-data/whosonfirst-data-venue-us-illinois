@@ -2,13 +2,14 @@
   "id": 286326283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.769691,41.339648,-87.769691,41.339648",
     "geom:latitude":41.339648,
     "geom:longitude":-87.769691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6650 W Beecher Rd",
     "sg:city":"Peotone",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286326283,
-    "wof:lastmodified":1449016429,
+    "wof:lastmodified":1466490812,
     "wof:name":"Donald Bate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-87.769691,41.339648,-87.769691,41.339648],
-  "geometry": {"coordinates":[-87.769691,41.339648],"type":"Point"}
+  "bbox": [
+    -87.769691,
+    41.339648,
+    -87.769691,
+    41.339648
+],
+  "geometry": {"coordinates":[-87.76969099999999,41.339648],"type":"Point"}
 }

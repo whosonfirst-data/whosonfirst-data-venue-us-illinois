@@ -2,13 +2,14 @@
   "id": 219181891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.714551,41.74954,-87.714551,41.74954",
     "geom:latitude":41.74954,
     "geom:longitude":-87.714551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3639 W 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219181891,
-    "wof:lastmodified":1449072561,
+    "wof:lastmodified":1466489267,
     "wof:name":"US Post Office",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.714551,41.74954,-87.714551,41.74954],
+  "bbox": [
+    -87.714551,
+    41.74954,
+    -87.714551,
+    41.74954
+],
   "geometry": {"coordinates":[-87.714551,41.74954],"type":"Point"}
 }

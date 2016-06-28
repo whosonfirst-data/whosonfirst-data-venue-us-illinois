@@ -2,13 +2,14 @@
   "id": 219700097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.861561,41.666702,-87.861561,41.666702",
     "geom:latitude":41.666702,
     "geom:longitude":-87.861561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 W 123rd St",
     "sg:city":"Palos Park",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219700097,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466495542,
     "wof:name":"Hackney's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.861561,41.666702,-87.861561,41.666702],
-  "geometry": {"coordinates":[-87.861561,41.666702],"type":"Point"}
+  "bbox": [
+    -87.861561,
+    41.666702,
+    -87.861561,
+    41.666702
+],
+  "geometry": {"coordinates":[-87.86156099999999,41.666702],"type":"Point"}
 }

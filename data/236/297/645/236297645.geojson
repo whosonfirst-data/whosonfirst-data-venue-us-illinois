@@ -2,13 +2,14 @@
   "id": 236297645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958526,41.530493,-87.958526,41.530493",
     "geom:latitude":41.530493,
     "geom:longitude":-87.958526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 E Francis Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236297645,
-    "wof:lastmodified":1449003807,
+    "wof:lastmodified":1466492740,
     "wof:name":"TCP Co",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-87.958526,41.530493,-87.958526,41.530493],
-  "geometry": {"coordinates":[-87.958526,41.530493],"type":"Point"}
+  "bbox": [
+    -87.958526,
+    41.530493,
+    -87.958526,
+    41.530493
+],
+  "geometry": {"coordinates":[-87.95852600000001,41.530493],"type":"Point"}
 }

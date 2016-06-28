@@ -2,13 +2,14 @@
   "id": 270320035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.020756,42.226985,-89.020756,42.226985",
     "geom:latitude":42.226985,
     "geom:longitude":-89.020756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4769 Hydraulic Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270320035,
-    "wof:lastmodified":1449009242,
+    "wof:lastmodified":1466493893,
     "wof:name":"Western Motor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-89.020756,42.226985,-89.020756,42.226985],
-  "geometry": {"coordinates":[-89.020756,42.226985],"type":"Point"}
+  "bbox": [
+    -89.020756,
+    42.226985,
+    -89.020756,
+    42.226985
+],
+  "geometry": {"coordinates":[-89.02075600000001,42.226985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219611325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.762964,41.851,-87.762964,41.851",
     "geom:latitude":41.851,
     "geom:longitude":-87.762964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5539 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219611325,
-    "wof:lastmodified":1449073181,
+    "wof:lastmodified":1466494472,
     "wof:name":"Central Dental",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.762964,41.851,-87.762964,41.851],
+  "bbox": [
+    -87.762964,
+    41.851,
+    -87.762964,
+    41.851
+],
   "geometry": {"coordinates":[-87.762964,41.851],"type":"Point"}
 }
