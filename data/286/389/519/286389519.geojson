@@ -2,13 +2,14 @@
   "id": 286389519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.360436,41.110335,-89.360436,41.110335",
     "geom:latitude":41.110335,
     "geom:longitude":-89.360436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Wirt St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286389519,
-    "wof:lastmodified":1449017529,
+    "wof:lastmodified":1466491766,
     "wof:name":"Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.360436,41.110335,-89.360436,41.110335],
-  "geometry": {"coordinates":[-89.360436,41.110335],"type":"Point"}
+  "bbox": [
+    -89.360436,
+    41.110335,
+    -89.360436,
+    41.110335
+],
+  "geometry": {"coordinates":[-89.36043600000001,41.110335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286945743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.867505,41.120514,-87.867505,41.120514",
     "geom:latitude":41.120514,
     "geom:longitude":-87.867505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 S Washington Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286945743,
-    "wof:lastmodified":1449015438,
+    "wof:lastmodified":1466498326,
     "wof:name":"Acme Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ty"
     ]
 },
-  "bbox": [-87.867505,41.120514,-87.867505,41.120514],
-  "geometry": {"coordinates":[-87.867505,41.120514],"type":"Point"}
+  "bbox": [
+    -87.867505,
+    41.120514,
+    -87.867505,
+    41.120514
+],
+  "geometry": {"coordinates":[-87.86750499999999,41.120514],"type":"Point"}
 }

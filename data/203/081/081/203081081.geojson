@@ -2,13 +2,14 @@
   "id": 203081081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.337195,42.239742,-88.337195,42.239742",
     "geom:latitude":42.239742,
     "geom:longitude":-88.337195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Victor Pkwy",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203081081,
-    "wof:lastmodified":1449025494,
+    "wof:lastmodified":1466494431,
     "wof:name":"Diskin Systems Inc",
     "wof:parent_id":85838041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.337195,42.239742,-88.337195,42.239742],
-  "geometry": {"coordinates":[-88.337195,42.239742],"type":"Point"}
+  "bbox": [
+    -88.337195,
+    42.239742,
+    -88.337195,
+    42.239742
+],
+  "geometry": {"coordinates":[-88.33719499999999,42.239742],"type":"Point"}
 }

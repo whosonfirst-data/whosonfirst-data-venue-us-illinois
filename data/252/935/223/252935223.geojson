@@ -2,13 +2,14 @@
   "id": 252935223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.163325,39.494217,-88.163325,39.494217",
     "geom:latitude":39.494217,
     "geom:longitude":-88.163325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 Van Buren Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252935223,
-    "wof:lastmodified":1449006318,
+    "wof:lastmodified":1466491923,
     "wof:name":"Ealy Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.163325,39.494217,-88.163325,39.494217],
+  "bbox": [
+    -88.163325,
+    39.494217,
+    -88.163325,
+    39.494217
+],
   "geometry": {"coordinates":[-88.163325,39.494217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202901587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.305973,41.781013,-88.305973,41.781013",
     "geom:latitude":41.781013,
     "geom:longitude":-88.305973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Mitchell Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202901587,
-    "wof:lastmodified":1449061177,
+    "wof:lastmodified":1466493194,
     "wof:name":"Elemech Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-88.305973,41.781013,-88.305973,41.781013],
-  "geometry": {"coordinates":[-88.305973,41.781013],"type":"Point"}
+  "bbox": [
+    -88.305973,
+    41.781013,
+    -88.305973,
+    41.781013
+],
+  "geometry": {"coordinates":[-88.30597299999999,41.781013],"type":"Point"}
 }

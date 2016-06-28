@@ -2,13 +2,14 @@
   "id": 252813769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.355604,41.888353,-88.355604,41.888353",
     "geom:latitude":41.888353,
     "geom:longitude":-88.355604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Westhaven Cir",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252813769,
-    "wof:lastmodified":1449005701,
+    "wof:lastmodified":1466490351,
     "wof:name":"Gigavelocity",
     "wof:parent_id":85890911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.355604,41.888353,-88.355604,41.888353],
+  "bbox": [
+    -88.355604,
+    41.888353,
+    -88.355604,
+    41.888353
+],
   "geometry": {"coordinates":[-88.355604,41.888353],"type":"Point"}
 }

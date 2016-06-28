@@ -2,13 +2,14 @@
   "id": 269702245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971481,41.507545,-87.971481,41.507545",
     "geom:latitude":41.507545,
     "geom:longitude":-87.971481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Oxford Ct",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269702245,
-    "wof:lastmodified":1449037336,
+    "wof:lastmodified":1466492453,
     "wof:name":"Tahoe Snow Control",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowplowing"
     ]
 },
-  "bbox": [-87.971481,41.507545,-87.971481,41.507545],
+  "bbox": [
+    -87.971481,
+    41.507545,
+    -87.971481,
+    41.507545
+],
   "geometry": {"coordinates":[-87.971481,41.507545],"type":"Point"}
 }

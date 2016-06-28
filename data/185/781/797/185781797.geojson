@@ -2,13 +2,14 @@
   "id": 185781797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.653538,39.457893,-89.653538,39.457893",
     "geom:latitude":39.457893,
     "geom:longitude":-89.653538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2257 Studebaker Ave",
     "sg:city":"Farmersville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185781797,
-    "wof:lastmodified":1449006924,
+    "wof:lastmodified":1466495566,
     "wof:name":"Truck And Car Wash",
     "wof:parent_id":85852173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.653538,39.457893,-89.653538,39.457893],
+  "bbox": [
+    -89.653538,
+    39.457893,
+    -89.653538,
+    39.457893
+],
   "geometry": {"coordinates":[-89.653538,39.457893],"type":"Point"}
 }

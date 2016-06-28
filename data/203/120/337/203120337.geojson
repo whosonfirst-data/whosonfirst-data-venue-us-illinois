@@ -2,13 +2,14 @@
   "id": 203120337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.324135,41.76098,-88.324135,41.76098",
     "geom:latitude":41.76098,
     "geom:longitude":-88.324135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 W Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203120337,
-    "wof:lastmodified":1449026585,
+    "wof:lastmodified":1466495075,
     "wof:name":"Mindwave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.324135,41.76098,-88.324135,41.76098],
+  "bbox": [
+    -88.324135,
+    41.76098,
+    -88.324135,
+    41.76098
+],
   "geometry": {"coordinates":[-88.324135,41.76098],"type":"Point"}
 }

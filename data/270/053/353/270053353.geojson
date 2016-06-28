@@ -2,13 +2,14 @@
   "id": 270053353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.643267,41.877997,-87.643267,41.877997",
     "geom:latitude":41.877997,
     "geom:longitude":-87.643267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Jackson Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270053353,
-    "wof:lastmodified":1449009089,
+    "wof:lastmodified":1466489828,
     "wof:name":"632 S Wabash Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parks"
     ]
 },
-  "bbox": [-87.643267,41.877997,-87.643267,41.877997],
-  "geometry": {"coordinates":[-87.643267,41.877997],"type":"Point"}
+  "bbox": [
+    -87.643267,
+    41.877997,
+    -87.643267,
+    41.877997
+],
+  "geometry": {"coordinates":[-87.64326699999999,41.877997],"type":"Point"}
 }

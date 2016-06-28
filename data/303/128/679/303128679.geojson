@@ -2,13 +2,14 @@
   "id": 303128679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.139673,42.26016,-88.139673,42.26016",
     "geom:latitude":42.26016,
     "geom:longitude":-88.139673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Mill St",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303128679,
-    "wof:lastmodified":1448999077,
+    "wof:lastmodified":1466491874,
     "wof:name":"Mitchell Studios",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-88.139673,42.26016,-88.139673,42.26016],
+  "bbox": [
+    -88.139673,
+    42.26016,
+    -88.139673,
+    42.26016
+],
   "geometry": {"coordinates":[-88.139673,42.26016],"type":"Point"}
 }

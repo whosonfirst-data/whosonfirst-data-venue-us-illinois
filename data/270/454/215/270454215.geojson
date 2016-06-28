@@ -2,13 +2,14 @@
   "id": 270454215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.303037,41.864999,-88.303037,41.864999",
     "geom:latitude":41.864999,
     "geom:longitude":-88.303037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1348 Thoria Rd",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270454215,
-    "wof:lastmodified":1449010868,
+    "wof:lastmodified":1466495811,
     "wof:name":"Coriolis Computer Svc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.303037,41.864999,-88.303037,41.864999],
+  "bbox": [
+    -88.303037,
+    41.864999,
+    -88.303037,
+    41.864999
+],
   "geometry": {"coordinates":[-88.303037,41.864999],"type":"Point"}
 }

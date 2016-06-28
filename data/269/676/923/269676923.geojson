@@ -2,13 +2,14 @@
   "id": 269676923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.196537,39.500956,-88.196537,39.500956",
     "geom:latitude":39.500956,
     "geom:longitude":-88.196537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 W State St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269676923,
-    "wof:lastmodified":1449037661,
+    "wof:lastmodified":1466492037,
     "wof:name":"Coles County Dragway USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.196537,39.500956,-88.196537,39.500956],
-  "geometry": {"coordinates":[-88.196537,39.500956],"type":"Point"}
+  "bbox": [
+    -88.196537,
+    39.500956,
+    -88.196537,
+    39.500956
+],
+  "geometry": {"coordinates":[-88.19653700000001,39.500956],"type":"Point"}
 }

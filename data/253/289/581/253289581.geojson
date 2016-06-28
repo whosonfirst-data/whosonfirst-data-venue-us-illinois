@@ -2,13 +2,14 @@
   "id": 253289581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306621,39.684225,-88.306621,39.684225",
     "geom:latitude":39.684225,
     "geom:longitude":-88.306621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Main St",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253289581,
-    "wof:lastmodified":1449065274,
+    "wof:lastmodified":1466492565,
     "wof:name":"Rankin Publishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-88.306621,39.684225,-88.306621,39.684225],
-  "geometry": {"coordinates":[-88.306621,39.684225],"type":"Point"}
+  "bbox": [
+    -88.306621,
+    39.684225,
+    -88.306621,
+    39.684225
+],
+  "geometry": {"coordinates":[-88.30662100000001,39.684225],"type":"Point"}
 }

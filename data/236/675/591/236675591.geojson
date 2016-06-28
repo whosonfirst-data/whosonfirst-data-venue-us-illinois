@@ -2,13 +2,14 @@
   "id": 236675591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.812872,41.525572,-87.812872,41.525572",
     "geom:latitude":41.525572,
     "geom:longitude":-87.812872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20016 S Thorndale Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236675591,
-    "wof:lastmodified":1449003304,
+    "wof:lastmodified":1466496923,
     "wof:name":"ABC Building Maint",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.812872,41.525572,-87.812872,41.525572],
+  "bbox": [
+    -87.812872,
+    41.525572,
+    -87.812872,
+    41.525572
+],
   "geometry": {"coordinates":[-87.812872,41.525572],"type":"Point"}
 }

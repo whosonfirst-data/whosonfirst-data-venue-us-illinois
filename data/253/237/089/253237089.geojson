@@ -2,13 +2,14 @@
   "id": 253237089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.082247,41.847184,-88.082247,41.847184",
     "geom:latitude":41.847184,
     "geom:longitude":-88.082247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Buena Vista Dr",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253237089,
-    "wof:lastmodified":1449062894,
+    "wof:lastmodified":1466491821,
     "wof:name":"AAA Galvanizing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "galvanizing"
     ]
 },
-  "bbox": [-88.082247,41.847184,-88.082247,41.847184],
+  "bbox": [
+    -88.082247,
+    41.847184,
+    -88.082247,
+    41.847184
+],
   "geometry": {"coordinates":[-88.082247,41.847184],"type":"Point"}
 }

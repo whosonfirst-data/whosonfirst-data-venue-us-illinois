@@ -2,13 +2,14 @@
   "id": 286419037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758981,41.609524,-87.758981,41.609524",
     "geom:latitude":41.609524,
     "geom:longitude":-87.758981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5637 Fairfax Rd",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286419037,
-    "wof:lastmodified":1449018026,
+    "wof:lastmodified":1466492253,
     "wof:name":"Forest Foto",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-87.758981,41.609524,-87.758981,41.609524],
-  "geometry": {"coordinates":[-87.758981,41.609524],"type":"Point"}
+  "bbox": [
+    -87.758981,
+    41.609524,
+    -87.758981,
+    41.609524
+],
+  "geometry": {"coordinates":[-87.75898100000001,41.609524],"type":"Point"}
 }

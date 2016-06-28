@@ -2,13 +2,14 @@
   "id": 202903985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682423,41.689186,-87.682423,41.689186",
     "geom:latitude":41.689186,
     "geom:longitude":-87.682423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11234 S Artesian Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202903985,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466493220,
     "wof:name":"Catholic Bishop of Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.682423,41.689186,-87.682423,41.689186],
+  "bbox": [
+    -87.682423,
+    41.689186,
+    -87.682423,
+    41.689186
+],
   "geometry": {"coordinates":[-87.682423,41.689186],"type":"Point"}
 }

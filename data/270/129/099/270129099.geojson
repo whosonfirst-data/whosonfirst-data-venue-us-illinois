@@ -2,13 +2,14 @@
   "id": 270129099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048505,41.877907,-88.048505,41.877907",
     "geom:latitude":41.877907,
     "geom:longitude":-88.048505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Whittier Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270129099,
-    "wof:lastmodified":1449010589,
+    "wof:lastmodified":1466490935,
     "wof:name":"Aecom",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "architectural"
     ]
 },
-  "bbox": [-88.048505,41.877907,-88.048505,41.877907],
-  "geometry": {"coordinates":[-88.048505,41.877907],"type":"Point"}
+  "bbox": [
+    -88.048505,
+    41.877907,
+    -88.048505,
+    41.877907
+],
+  "geometry": {"coordinates":[-88.04850500000001,41.877907],"type":"Point"}
 }

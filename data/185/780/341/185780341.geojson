@@ -2,13 +2,14 @@
   "id": 185780341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.994324,39.881192,-88.994324,39.881192",
     "geom:latitude":39.881192,
     "geom:longitude":-88.994324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Desert Inn Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185780341,
-    "wof:lastmodified":1449007812,
+    "wof:lastmodified":1466495550,
     "wof:name":"H & H Mowing & Tilling",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-88.994324,39.881192,-88.994324,39.881192],
-  "geometry": {"coordinates":[-88.994324,39.881192],"type":"Point"}
+  "bbox": [
+    -88.994324,
+    39.881192,
+    -88.994324,
+    39.881192
+],
+  "geometry": {"coordinates":[-88.99432400000001,39.881192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186619265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904789,41.848146,-87.904789,41.848146",
     "geom:latitude":41.848146,
     "geom:longitude":-87.904789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11302 Cermak Rd",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186619265,
-    "wof:lastmodified":1449050898,
+    "wof:lastmodified":1466489653,
     "wof:name":"Fresh Meadow Golf Practice Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "golf"
     ]
 },
-  "bbox": [-87.904789,41.848146,-87.904789,41.848146],
-  "geometry": {"coordinates":[-87.904789,41.848146],"type":"Point"}
+  "bbox": [
+    -87.904789,
+    41.848146,
+    -87.904789,
+    41.848146
+],
+  "geometry": {"coordinates":[-87.90478899999999,41.848146],"type":"Point"}
 }

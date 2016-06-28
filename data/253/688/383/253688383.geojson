@@ -2,13 +2,14 @@
   "id": 253688383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307764,41.745622,-88.307764,41.745622",
     "geom:latitude":41.745622,
     "geom:longitude":-88.307764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 5th Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":253688383,
-    "wof:lastmodified":1449063940,
+    "wof:lastmodified":1466497670,
     "wof:name":"Aurora Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-88.307764,41.745622,-88.307764,41.745622],
-  "geometry": {"coordinates":[-88.307764,41.745622],"type":"Point"}
+  "bbox": [
+    -88.307764,
+    41.745622,
+    -88.307764,
+    41.745622
+],
+  "geometry": {"coordinates":[-88.30776400000001,41.745622],"type":"Point"}
 }

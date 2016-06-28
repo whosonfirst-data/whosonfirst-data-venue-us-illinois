@@ -2,13 +2,14 @@
   "id": 286295883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.326096,42.051286,-88.326096,42.051286",
     "geom:latitude":42.051286,
     "geom:longitude":-88.326096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Valley Creek Dr",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286295883,
-    "wof:lastmodified":1449016370,
+    "wof:lastmodified":1466490351,
     "wof:name":"Burnidge Corporation",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.326096,42.051286,-88.326096,42.051286],
-  "geometry": {"coordinates":[-88.326096,42.051286],"type":"Point"}
+  "bbox": [
+    -88.326096,
+    42.051286,
+    -88.326096,
+    42.051286
+],
+  "geometry": {"coordinates":[-88.32609600000001,42.051286],"type":"Point"}
 }

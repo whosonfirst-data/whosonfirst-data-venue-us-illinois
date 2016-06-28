@@ -2,13 +2,14 @@
   "id": 252813191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.035645,42.300314,-89.035645,42.300314",
     "geom:latitude":42.300314,
     "geom:longitude":-89.035645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4019 Dorset Dr",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252813191,
-    "wof:lastmodified":1449005702,
+    "wof:lastmodified":1466490343,
     "wof:name":"Martin Graphics Inc",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-89.035645,42.300314,-89.035645,42.300314],
+  "bbox": [
+    -89.035645,
+    42.300314,
+    -89.035645,
+    42.300314
+],
   "geometry": {"coordinates":[-89.035645,42.300314],"type":"Point"}
 }

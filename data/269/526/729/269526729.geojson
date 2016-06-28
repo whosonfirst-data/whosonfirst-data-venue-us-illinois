@@ -2,13 +2,14 @@
   "id": 269526729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650978,41.938072,-87.650978,41.938072",
     "geom:latitude":41.938072,
     "geom:longitude":-87.650978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 W Barry Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269526729,
-    "wof:lastmodified":1449036890,
+    "wof:lastmodified":1466489670,
     "wof:name":"Inter-American Magnet",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.650978,41.938072,-87.650978,41.938072],
-  "geometry": {"coordinates":[-87.650978,41.938072],"type":"Point"}
+  "bbox": [
+    -87.650978,
+    41.938072,
+    -87.650978,
+    41.938072
+],
+  "geometry": {"coordinates":[-87.65097799999999,41.938072],"type":"Point"}
 }

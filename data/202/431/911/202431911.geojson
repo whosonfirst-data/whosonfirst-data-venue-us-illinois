@@ -2,13 +2,14 @@
   "id": 202431911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.096926,42.365893,-88.096926,42.365893",
     "geom:latitude":42.365893,
     "geom:longitude":-88.096926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Sunset Ave",
     "sg:city":"Round Lake",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202431911,
-    "wof:lastmodified":1449060452,
+    "wof:lastmodified":1466493847,
     "wof:name":"Schools Public",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.096926,42.365893,-88.096926,42.365893],
+  "bbox": [
+    -88.096926,
+    42.365893,
+    -88.096926,
+    42.365893
+],
   "geometry": {"coordinates":[-88.096926,42.365893],"type":"Point"}
 }

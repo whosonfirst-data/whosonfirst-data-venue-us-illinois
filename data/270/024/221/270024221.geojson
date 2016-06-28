@@ -2,13 +2,14 @@
   "id": 270024221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110145,41.538327,-88.110145,41.538327",
     "geom:latitude":41.538327,
     "geom:longitude":-88.110145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Loral Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270024221,
-    "wof:lastmodified":1449009811,
+    "wof:lastmodified":1466489388,
     "wof:name":"Growing Creations",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-88.110145,41.538327,-88.110145,41.538327],
+  "bbox": [
+    -88.110145,
+    41.538327,
+    -88.110145,
+    41.538327
+],
   "geometry": {"coordinates":[-88.110145,41.538327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253028445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.323574,41.872594,-88.323574,41.872594",
     "geom:latitude":41.872594,
     "geom:longitude":-88.323574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1589 Eagle Brook Dr",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253028445,
-    "wof:lastmodified":1449064431,
+    "wof:lastmodified":1466489351,
     "wof:name":"Preferred Building Prducts",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.323574,41.872594,-88.323574,41.872594],
-  "geometry": {"coordinates":[-88.323574,41.872594],"type":"Point"}
+  "bbox": [
+    -88.323574,
+    41.872594,
+    -88.323574,
+    41.872594
+],
+  "geometry": {"coordinates":[-88.32357399999999,41.872594],"type":"Point"}
 }

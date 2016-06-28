@@ -2,13 +2,14 @@
   "id": 219671561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.762701,39.498191,-89.762701,39.498191",
     "geom:latitude":39.498191,
     "geom:longitude":-89.762701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 S Emmet St",
     "sg:city":"Virden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219671561,
-    "wof:lastmodified":1449071207,
+    "wof:lastmodified":1466495187,
     "wof:name":"Virden Apartment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.762701,39.498191,-89.762701,39.498191],
-  "geometry": {"coordinates":[-89.762701,39.498191],"type":"Point"}
+  "bbox": [
+    -89.762701,
+    39.498191,
+    -89.762701,
+    39.498191
+],
+  "geometry": {"coordinates":[-89.76270100000001,39.498191],"type":"Point"}
 }

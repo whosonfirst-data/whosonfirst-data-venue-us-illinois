@@ -2,13 +2,14 @@
   "id": 219202705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.466541,41.359568,-89.466541,41.359568",
     "geom:latitude":41.359568,
     "geom:longitude":-89.466541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219202705,
-    "wof:lastmodified":1449073457,
+    "wof:lastmodified":1466489517,
     "wof:name":"J & R Multi Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-89.466541,41.359568,-89.466541,41.359568],
-  "geometry": {"coordinates":[-89.466541,41.359568],"type":"Point"}
+  "bbox": [
+    -89.466541,
+    41.359568,
+    -89.466541,
+    41.359568
+],
+  "geometry": {"coordinates":[-89.46654100000001,41.359568],"type":"Point"}
 }

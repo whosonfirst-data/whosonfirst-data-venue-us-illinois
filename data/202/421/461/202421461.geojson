@@ -2,13 +2,14 @@
   "id": 202421461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.326783,41.711966,-89.326783,41.711966",
     "geom:latitude":41.711966,
     "geom:longitude":-89.326783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Mason Ave",
     "sg:city":"Amboy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202421461,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466493591,
     "wof:name":"Amboy Field Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-89.326783,41.711966,-89.326783,41.711966],
-  "geometry": {"coordinates":[-89.326783,41.711966],"type":"Point"}
+  "bbox": [
+    -89.326783,
+    41.711966,
+    -89.326783,
+    41.711966
+],
+  "geometry": {"coordinates":[-89.32678300000001,41.711966],"type":"Point"}
 }

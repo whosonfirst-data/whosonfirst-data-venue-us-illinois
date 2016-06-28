@@ -2,13 +2,14 @@
   "id": 203087175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.03602,38.549258,-90.03602,38.549258",
     "geom:latitude":38.549258,
     "geom:longitude":-90.03602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 S 59th St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203087175,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466494559,
     "wof:name":"Splish Splash Express Car Wash",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-90.03602,38.549258,-90.03602,38.549258],
-  "geometry": {"coordinates":[-90.03602,38.549258],"type":"Point"}
+  "bbox": [
+    -90.03602,
+    38.549258,
+    -90.03602,
+    38.549258
+],
+  "geometry": {"coordinates":[-90.03601999999999,38.549258],"type":"Point"}
 }

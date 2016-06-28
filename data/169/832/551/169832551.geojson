@@ -2,13 +2,14 @@
   "id": 169832551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.998129,38.561904,-89.998129,38.561904",
     "geom:latitude":38.561904,
     "geom:longitude":-89.998129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Fox Trotter Drive",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169832551,
-    "wof:lastmodified":1449032702,
+    "wof:lastmodified":1466494958,
     "wof:name":"Vantage Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.998129,38.561904,-89.998129,38.561904],
-  "geometry": {"coordinates":[-89.998129,38.561904],"type":"Point"}
+  "bbox": [
+    -89.998129,
+    38.561904,
+    -89.998129,
+    38.561904
+],
+  "geometry": {"coordinates":[-89.99812900000001,38.561904],"type":"Point"}
 }

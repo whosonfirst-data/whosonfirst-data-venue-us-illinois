@@ -2,13 +2,14 @@
   "id": 286583961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.364709,41.117753,-89.364709,41.117753",
     "geom:latitude":41.117753,
     "geom:longitude":-89.364709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 Warren St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286583961,
-    "wof:lastmodified":1449017509,
+    "wof:lastmodified":1466494914,
     "wof:name":"Drive-Thru Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "video"
     ]
 },
-  "bbox": [-89.364709,41.117753,-89.364709,41.117753],
+  "bbox": [
+    -89.364709,
+    41.117753,
+    -89.364709,
+    41.117753
+],
   "geometry": {"coordinates":[-89.364709,41.117753],"type":"Point"}
 }

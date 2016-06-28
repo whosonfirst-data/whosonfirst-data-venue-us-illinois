@@ -2,13 +2,14 @@
   "id": 253747353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054262,38.539198,-90.054262,38.539198",
     "geom:latitude":38.539198,
     "geom:longitude":-90.054262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 S 74th St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253747353,
-    "wof:lastmodified":1449063358,
+    "wof:lastmodified":1466497876,
     "wof:name":"St Clair County Housing Auth",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "housing"
     ]
 },
-  "bbox": [-90.054262,38.539198,-90.054262,38.539198],
-  "geometry": {"coordinates":[-90.054262,38.539198],"type":"Point"}
+  "bbox": [
+    -90.054262,
+    38.539198,
+    -90.054262,
+    38.539198
+],
+  "geometry": {"coordinates":[-90.05426199999999,38.539198],"type":"Point"}
 }

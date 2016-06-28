@@ -2,13 +2,14 @@
   "id": 219169763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.961398,41.879424,-87.961398,41.879424",
     "geom:latitude":41.879424,
     "geom:longitude":-87.961398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 State Rte 83",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219169763,
-    "wof:lastmodified":1449072578,
+    "wof:lastmodified":1466489130,
     "wof:name":"Berkeley Trucking Inc",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.961398,41.879424,-87.961398,41.879424],
+  "bbox": [
+    -87.961398,
+    41.879424,
+    -87.961398,
+    41.879424
+],
   "geometry": {"coordinates":[-87.961398,41.879424],"type":"Point"}
 }

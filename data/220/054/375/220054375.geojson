@@ -2,13 +2,14 @@
   "id": 220054375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.549332,39.123952,-88.549332,39.123952",
     "geom:latitude":39.123952,
     "geom:longitude":-88.549332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 N Maple St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220054375,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466489609,
     "wof:name":"Carle Cancer Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.549332,39.123952,-88.549332,39.123952],
-  "geometry": {"coordinates":[-88.549332,39.123952],"type":"Point"}
+  "bbox": [
+    -88.549332,
+    39.123952,
+    -88.549332,
+    39.123952
+],
+  "geometry": {"coordinates":[-88.54933200000001,39.123952],"type":"Point"}
 }

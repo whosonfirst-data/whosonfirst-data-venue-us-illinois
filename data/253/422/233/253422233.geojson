@@ -2,13 +2,14 @@
   "id": 253422233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.015588,42.431796,-88.015588,42.431796",
     "geom:latitude":42.431796,
     "geom:longitude":-88.015588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2726 Providence Ln",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253422233,
-    "wof:lastmodified":1449063029,
+    "wof:lastmodified":1466494588,
     "wof:name":"Zellweger Analytics Inc",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.015588,42.431796,-88.015588,42.431796],
-  "geometry": {"coordinates":[-88.015588,42.431796],"type":"Point"}
+  "bbox": [
+    -88.015588,
+    42.431796,
+    -88.015588,
+    42.431796
+],
+  "geometry": {"coordinates":[-88.01558799999999,42.431796],"type":"Point"}
 }

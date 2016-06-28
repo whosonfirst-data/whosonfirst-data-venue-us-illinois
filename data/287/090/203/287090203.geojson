@@ -2,13 +2,14 @@
   "id": 287090203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.819458,41.718597,-87.819458,41.718597",
     "geom:latitude":41.718597,
     "geom:longitude":-87.819458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8080 W 95th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287090203,
-    "wof:lastmodified":1449001369,
+    "wof:lastmodified":1466491408,
     "wof:name":"Wall To Wall Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-87.819458,41.718597,-87.819458,41.718597],
+  "bbox": [
+    -87.819458,
+    41.718597,
+    -87.819458,
+    41.718597
+],
   "geometry": {"coordinates":[-87.819458,41.718597],"type":"Point"}
 }

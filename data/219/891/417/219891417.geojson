@@ -2,13 +2,14 @@
   "id": 219891417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.609117,41.809421,-87.609117,41.809421",
     "geom:latitude":41.809421,
     "geom:longitude":-87.609117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 E 47th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219891417,
-    "wof:lastmodified":1449072516,
+    "wof:lastmodified":1466496923,
     "wof:name":"New Approach",
     "wof:parent_id":85867601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.609117,41.809421,-87.609117,41.809421],
+  "bbox": [
+    -87.609117,
+    41.809421,
+    -87.609117,
+    41.809421
+],
   "geometry": {"coordinates":[-87.609117,41.809421],"type":"Point"}
 }

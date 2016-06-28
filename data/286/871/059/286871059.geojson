@@ -2,13 +2,14 @@
   "id": 286871059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698546,41.735257,-87.698546,41.735257",
     "geom:latitude":41.735257,
     "geom:longitude":-87.698546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 W 87th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286871059,
-    "wof:lastmodified":1449016144,
+    "wof:lastmodified":1466497896,
     "wof:name":"Bestway Heating Company Inc",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-87.698546,41.735257,-87.698546,41.735257],
-  "geometry": {"coordinates":[-87.698546,41.735257],"type":"Point"}
+  "bbox": [
+    -87.698546,
+    41.735257,
+    -87.698546,
+    41.735257
+],
+  "geometry": {"coordinates":[-87.69854599999999,41.735257],"type":"Point"}
 }

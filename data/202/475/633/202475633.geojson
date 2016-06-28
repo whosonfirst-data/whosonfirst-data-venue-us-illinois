@@ -2,13 +2,14 @@
   "id": 202475633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.571987,41.579254,-87.571987,41.579254",
     "geom:latitude":41.579254,
     "geom:longitude":-87.571987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Bernice Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202475633,
-    "wof:lastmodified":1449061169,
+    "wof:lastmodified":1466494710,
     "wof:name":"Cracker Barrel Old Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.571987,41.579254,-87.571987,41.579254],
-  "geometry": {"coordinates":[-87.571987,41.579254],"type":"Point"}
+  "bbox": [
+    -87.571987,
+    41.579254,
+    -87.571987,
+    41.579254
+],
+  "geometry": {"coordinates":[-87.57198699999999,41.579254],"type":"Point"}
 }

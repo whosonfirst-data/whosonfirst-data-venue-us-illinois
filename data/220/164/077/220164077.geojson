@@ -2,13 +2,14 @@
   "id": 220164077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.349582,40.316869,-88.349582,40.316869",
     "geom:latitude":40.316869,
     "geom:longitude":-88.349582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S 3rd St",
     "sg:city":"Fisher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220164077,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466490945,
     "wof:name":"Fisher Reporter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-88.349582,40.316869,-88.349582,40.316869],
+  "bbox": [
+    -88.349582,
+    40.316869,
+    -88.349582,
+    40.316869
+],
   "geometry": {"coordinates":[-88.349582,40.316869],"type":"Point"}
 }

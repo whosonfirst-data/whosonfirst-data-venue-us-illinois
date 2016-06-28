@@ -2,13 +2,14 @@
   "id": 287025607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727874,41.959929,-87.727874,41.959929",
     "geom:latitude":41.959929,
     "geom:longitude":-87.727874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4352 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287025607,
-    "wof:lastmodified":1449001422,
+    "wof:lastmodified":1466490372,
     "wof:name":"Triangle",
     "wof:parent_id":85865761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "direct"
     ]
 },
-  "bbox": [-87.727874,41.959929,-87.727874,41.959929],
+  "bbox": [
+    -87.727874,
+    41.959929,
+    -87.727874,
+    41.959929
+],
   "geometry": {"coordinates":[-87.727874,41.959929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253123959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211974,41.515476,-88.211974,41.515476",
     "geom:latitude":41.515476,
     "geom:longitude":-88.211974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Geneva St",
     "sg:city":"Shorewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253123959,
-    "wof:lastmodified":1449063702,
+    "wof:lastmodified":1466490522,
     "wof:name":"Anchor Mini Storage",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-88.211974,41.515476,-88.211974,41.515476],
+  "bbox": [
+    -88.211974,
+    41.515476,
+    -88.211974,
+    41.515476
+],
   "geometry": {"coordinates":[-88.211974,41.515476],"type":"Point"}
 }

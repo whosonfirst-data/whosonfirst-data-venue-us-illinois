@@ -2,13 +2,14 @@
   "id": 269661559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.712037,41.983104,-87.712037,41.983104",
     "geom:latitude":41.983104,
     "geom:longitude":-87.712037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3314 W Bryn Mawr Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269661559,
-    "wof:lastmodified":1449038717,
+    "wof:lastmodified":1466491791,
     "wof:name":"Comic Etc",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-87.712037,41.983104,-87.712037,41.983104],
+  "bbox": [
+    -87.712037,
+    41.983104,
+    -87.712037,
+    41.983104
+],
   "geometry": {"coordinates":[-87.712037,41.983104],"type":"Point"}
 }

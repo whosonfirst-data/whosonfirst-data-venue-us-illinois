@@ -2,13 +2,14 @@
   "id": 287058467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760365,41.844735,-87.760365,41.844735",
     "geom:latitude":41.844735,
     "geom:longitude":-87.760365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5442 W 25th Pl",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287058467,
-    "wof:lastmodified":1449000790,
+    "wof:lastmodified":1466490902,
     "wof:name":"Cicero Cleaners",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.760365,41.844735,-87.760365,41.844735],
-  "geometry": {"coordinates":[-87.760365,41.844735],"type":"Point"}
+  "bbox": [
+    -87.760365,
+    41.844735,
+    -87.760365,
+    41.844735
+],
+  "geometry": {"coordinates":[-87.76036499999999,41.844735],"type":"Point"}
 }

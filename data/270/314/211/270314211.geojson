@@ -2,13 +2,14 @@
   "id": 270314211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95557,41.92242,-87.95557,41.92242",
     "geom:latitude":41.92242,
     "geom:longitude":-87.95557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 W Fullerton Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270314211,
-    "wof:lastmodified":1449011024,
+    "wof:lastmodified":1466493803,
     "wof:name":"Chapin's Furniture",
     "wof:parent_id":85890711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-87.95557,41.92242,-87.95557,41.92242],
-  "geometry": {"coordinates":[-87.95557,41.92242],"type":"Point"}
+  "bbox": [
+    -87.95557,
+    41.92242,
+    -87.95557,
+    41.92242
+],
+  "geometry": {"coordinates":[-87.95556999999999,41.92242],"type":"Point"}
 }

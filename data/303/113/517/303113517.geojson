@@ -2,13 +2,14 @@
   "id": 303113517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.058414,42.346425,-89.058414,42.346425",
     "geom:latitude":42.346425,
     "geom:longitude":-89.058414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 Victory Ln",
     "sg:city":"Machesney Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303113517,
-    "wof:lastmodified":1449000366,
+    "wof:lastmodified":1466491621,
     "wof:name":"Marquette Elementary School",
     "wof:parent_id":85880435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-89.058414,42.346425,-89.058414,42.346425],
+  "bbox": [
+    -89.058414,
+    42.346425,
+    -89.058414,
+    42.346425
+],
   "geometry": {"coordinates":[-89.058414,42.346425],"type":"Point"}
 }

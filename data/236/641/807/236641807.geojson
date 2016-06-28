@@ -2,13 +2,14 @@
   "id": 236641807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.85631,41.266431,-88.85631,41.266431",
     "geom:latitude":41.266431,
     "geom:longitude":-88.85631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2381 E 16th Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236641807,
-    "wof:lastmodified":1449004292,
+    "wof:lastmodified":1466496803,
     "wof:name":"Albert McDonnell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.85631,41.266431,-88.85631,41.266431],
-  "geometry": {"coordinates":[-88.85631,41.266431],"type":"Point"}
+  "bbox": [
+    -88.85631,
+    41.266431,
+    -88.85631,
+    41.266431
+],
+  "geometry": {"coordinates":[-88.85630999999999,41.266431],"type":"Point"}
 }

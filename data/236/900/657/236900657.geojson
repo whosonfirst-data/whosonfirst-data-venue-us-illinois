@@ -2,13 +2,14 @@
   "id": 236900657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.254135,40.11357,-88.254135,40.11357",
     "geom:latitude":40.11357,
     "geom:longitude":-88.254135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Union St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236900657,
-    "wof:lastmodified":1449003005,
+    "wof:lastmodified":1466498125,
     "wof:name":"Don Hiles Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.254135,40.11357,-88.254135,40.11357],
-  "geometry": {"coordinates":[-88.254135,40.11357],"type":"Point"}
+  "bbox": [
+    -88.254135,
+    40.11357,
+    -88.254135,
+    40.11357
+],
+  "geometry": {"coordinates":[-88.25413500000001,40.11357],"type":"Point"}
 }

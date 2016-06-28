@@ -2,13 +2,14 @@
   "id": 203114581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.357047,39.890047,-91.357047,39.890047",
     "geom:latitude":39.890047,
     "geom:longitude":-91.357047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 Deer Ridge Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203114581,
-    "wof:lastmodified":1449025713,
+    "wof:lastmodified":1466495000,
     "wof:name":"Barrels-N-Bins",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-91.357047,39.890047,-91.357047,39.890047],
-  "geometry": {"coordinates":[-91.357047,39.890047],"type":"Point"}
+  "bbox": [
+    -91.357047,
+    39.890047,
+    -91.357047,
+    39.890047
+],
+  "geometry": {"coordinates":[-91.35704699999999,39.890047],"type":"Point"}
 }

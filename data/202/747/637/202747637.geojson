@@ -2,13 +2,14 @@
   "id": 202747637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569051,40.147311,-87.569051,40.147311",
     "geom:latitude":40.147311,
     "geom:longitude":-87.569051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19295 N 1970 East Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202747637,
-    "wof:lastmodified":1449060564,
+    "wof:lastmodified":1466491340,
     "wof:name":"Country Commodities",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-87.569051,40.147311,-87.569051,40.147311],
+  "bbox": [
+    -87.569051,
+    40.147311,
+    -87.569051,
+    40.147311
+],
   "geometry": {"coordinates":[-87.569051,40.147311],"type":"Point"}
 }

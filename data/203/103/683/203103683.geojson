@@ -2,13 +2,14 @@
   "id": 203103683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100344,42.145611,-88.100344,42.145611",
     "geom:latitude":42.145611,
     "geom:longitude":-88.100344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 S Ela Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203103683,
-    "wof:lastmodified":1449026133,
+    "wof:lastmodified":1466494821,
     "wof:name":"Brokerage & Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.100344,42.145611,-88.100344,42.145611],
-  "geometry": {"coordinates":[-88.100344,42.145611],"type":"Point"}
+  "bbox": [
+    -88.100344,
+    42.145611,
+    -88.100344,
+    42.145611
+],
+  "geometry": {"coordinates":[-88.10034400000001,42.145611],"type":"Point"}
 }

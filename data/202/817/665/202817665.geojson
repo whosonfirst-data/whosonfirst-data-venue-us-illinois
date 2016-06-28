@@ -2,13 +2,14 @@
   "id": 202817665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.194675,40.093804,-88.194675,40.093804",
     "geom:latitude":40.093804,
     "geom:longitude":-88.194675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 E Harding Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202817665,
-    "wof:lastmodified":1449062168,
+    "wof:lastmodified":1466492165,
     "wof:name":"First Glimpse Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resale"
     ]
 },
-  "bbox": [-88.194675,40.093804,-88.194675,40.093804],
+  "bbox": [
+    -88.194675,
+    40.093804,
+    -88.194675,
+    40.093804
+],
   "geometry": {"coordinates":[-88.194675,40.093804],"type":"Point"}
 }

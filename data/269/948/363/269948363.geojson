@@ -2,13 +2,14 @@
   "id": 269948363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.074081,42.274126,-89.074081,42.274126",
     "geom:latitude":42.274126,
     "geom:longitude":-89.074081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Rural St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269948363,
-    "wof:lastmodified":1449038336,
+    "wof:lastmodified":1466496069,
     "wof:name":"Laura Ford",
     "wof:parent_id":85880415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.074081,42.274126,-89.074081,42.274126],
-  "geometry": {"coordinates":[-89.074081,42.274126],"type":"Point"}
+  "bbox": [
+    -89.074081,
+    42.274126,
+    -89.074081,
+    42.274126
+],
+  "geometry": {"coordinates":[-89.07408100000001,42.274126],"type":"Point"}
 }

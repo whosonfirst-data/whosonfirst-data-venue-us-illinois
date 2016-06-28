@@ -2,13 +2,14 @@
   "id": 269845719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.057995,42.315352,-89.057995,42.315352",
     "geom:latitude":42.315352,
     "geom:longitude":-89.057995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5818 N 2nd St",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269845719,
-    "wof:lastmodified":1449036529,
+    "wof:lastmodified":1466494727,
     "wof:name":"Dave Fults Transmission Repair",
     "wof:parent_id":85880435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-89.057995,42.315352,-89.057995,42.315352],
-  "geometry": {"coordinates":[-89.057995,42.315352],"type":"Point"}
+  "bbox": [
+    -89.057995,
+    42.315352,
+    -89.057995,
+    42.315352
+],
+  "geometry": {"coordinates":[-89.05799500000001,42.315352],"type":"Point"}
 }

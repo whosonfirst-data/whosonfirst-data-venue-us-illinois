@@ -2,13 +2,14 @@
   "id": 186009787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.24554,37.462043,-89.24554,37.462043",
     "geom:latitude":37.462043,
     "geom:longitude":-89.24554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186009787,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466488991,
     "wof:name":"Brick House Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-89.24554,37.462043,-89.24554,37.462043],
-  "geometry": {"coordinates":[-89.24554,37.462043],"type":"Point"}
+  "bbox": [
+    -89.24554,
+    37.462043,
+    -89.24554,
+    37.462043
+],
+  "geometry": {"coordinates":[-89.24554000000001,37.462043],"type":"Point"}
 }

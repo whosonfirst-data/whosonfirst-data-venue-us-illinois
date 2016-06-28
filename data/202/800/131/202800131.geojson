@@ -2,13 +2,14 @@
   "id": 202800131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.170913,41.938728,-88.170913,41.938728",
     "geom:latitude":41.938728,
     "geom:longitude":-88.170913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Potomac Ct",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202800131,
-    "wof:lastmodified":1449060313,
+    "wof:lastmodified":1466491952,
     "wof:name":"Bacpage",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-88.170913,41.938728,-88.170913,41.938728],
+  "bbox": [
+    -88.170913,
+    41.938728,
+    -88.170913,
+    41.938728
+],
   "geometry": {"coordinates":[-88.170913,41.938728],"type":"Point"}
 }

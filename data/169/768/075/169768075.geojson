@@ -2,13 +2,14 @@
   "id": 169768075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.790619,39.015091,-89.790619,39.015091",
     "geom:latitude":39.015091,
     "geom:longitude":-89.790619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Edwardsville St",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169768075,
-    "wof:lastmodified":1449033954,
+    "wof:lastmodified":1466493874,
     "wof:name":"Killmar Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.790619,39.015091,-89.790619,39.015091],
-  "geometry": {"coordinates":[-89.790619,39.015091],"type":"Point"}
+  "bbox": [
+    -89.790619,
+    39.015091,
+    -89.790619,
+    39.015091
+],
+  "geometry": {"coordinates":[-89.79061900000001,39.015091],"type":"Point"}
 }

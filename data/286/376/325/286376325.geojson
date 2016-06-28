@@ -2,13 +2,14 @@
   "id": 286376325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.546731,41.49726,-90.546731,41.49726",
     "geom:latitude":41.49726,
     "geom:longitude":-90.546731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 14th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286376325,
-    "wof:lastmodified":1449016192,
+    "wof:lastmodified":1466491571,
     "wof:name":"Magic Wand Salons",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.546731,41.49726,-90.546731,41.49726],
-  "geometry": {"coordinates":[-90.546731,41.49726],"type":"Point"}
+  "bbox": [
+    -90.546731,
+    41.49726,
+    -90.546731,
+    41.49726
+],
+  "geometry": {"coordinates":[-90.54673099999999,41.49726],"type":"Point"}
 }

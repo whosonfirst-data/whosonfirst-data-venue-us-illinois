@@ -2,13 +2,14 @@
   "id": 253500585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.822167,37.91517,-89.822167,37.91517",
     "geom:latitude":37.91517,
     "geom:longitude":-89.822167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W Holmes St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253500585,
-    "wof:lastmodified":1449063555,
+    "wof:lastmodified":1466495773,
     "wof:name":"St John Evangelical School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.822167,37.91517,-89.822167,37.91517],
-  "geometry": {"coordinates":[-89.822167,37.91517],"type":"Point"}
+  "bbox": [
+    -89.822167,
+    37.91517,
+    -89.822167,
+    37.91517
+],
+  "geometry": {"coordinates":[-89.82216699999999,37.91517],"type":"Point"}
 }

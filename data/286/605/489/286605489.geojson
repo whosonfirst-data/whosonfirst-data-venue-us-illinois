@@ -2,13 +2,14 @@
   "id": 286605489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.139784,42.391468,-88.139784,42.391468",
     "geom:latitude":42.391468,
     "geom:longitude":-88.139784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36455 N Wilson Rd",
     "sg:city":"Ingleside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286605489,
-    "wof:lastmodified":1449016632,
+    "wof:lastmodified":1466495278,
     "wof:name":"St Bede's Church",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.139784,42.391468,-88.139784,42.391468],
-  "geometry": {"coordinates":[-88.139784,42.391468],"type":"Point"}
+  "bbox": [
+    -88.139784,
+    42.391468,
+    -88.139784,
+    42.391468
+],
+  "geometry": {"coordinates":[-88.13978400000001,42.391468],"type":"Point"}
 }

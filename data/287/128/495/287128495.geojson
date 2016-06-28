@@ -2,13 +2,14 @@
   "id": 287128495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08231,40.589893,-88.08231,40.589893",
     "geom:latitude":40.589893,
     "geom:longitude":-88.08231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E 700 North Rd",
     "sg:city":"Buckley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287128495,
-    "wof:lastmodified":1449001013,
+    "wof:lastmodified":1466492037,
     "wof:name":"Krumweide Delmar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.08231,40.589893,-88.08231,40.589893],
-  "geometry": {"coordinates":[-88.08231,40.589893],"type":"Point"}
+  "bbox": [
+    -88.08231,
+    40.589893,
+    -88.08231,
+    40.589893
+],
+  "geometry": {"coordinates":[-88.08231000000001,40.589893],"type":"Point"}
 }

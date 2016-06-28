@@ -2,13 +2,14 @@
   "id": 203257853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.123898,37.906468,-88.123898,37.906468",
     "geom:latitude":37.906468,
     "geom:longitude":-88.123898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Vine St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203257853,
-    "wof:lastmodified":1449025465,
+    "wof:lastmodified":1466489998,
     "wof:name":"New Haven City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-88.123898,37.906468,-88.123898,37.906468],
+  "bbox": [
+    -88.123898,
+    37.906468,
+    -88.123898,
+    37.906468
+],
   "geometry": {"coordinates":[-88.123898,37.906468],"type":"Point"}
 }

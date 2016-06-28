@@ -2,13 +2,14 @@
   "id": 220102033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748173,41.706045,-87.748173,41.706045",
     "geom:latitude":41.706045,
     "geom:longitude":-87.748173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 Lamb Dr",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220102033,
-    "wof:lastmodified":1449074826,
+    "wof:lastmodified":1466490192,
     "wof:name":"Jach Tax Service",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-87.748173,41.706045,-87.748173,41.706045],
-  "geometry": {"coordinates":[-87.748173,41.706045],"type":"Point"}
+  "bbox": [
+    -87.748173,
+    41.706045,
+    -87.748173,
+    41.706045
+],
+  "geometry": {"coordinates":[-87.74817299999999,41.706045],"type":"Point"}
 }

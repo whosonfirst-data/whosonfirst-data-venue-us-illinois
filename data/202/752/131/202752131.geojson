@@ -2,13 +2,14 @@
   "id": 202752131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.34834,40.136008,-89.34834,40.136008",
     "geom:latitude":40.136008,
     "geom:longitude":-89.34834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 1500th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202752131,
-    "wof:lastmodified":1449060522,
+    "wof:lastmodified":1466491392,
     "wof:name":"Chester-E Lincoln Cmty Csd 61",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.34834,40.136008,-89.34834,40.136008],
-  "geometry": {"coordinates":[-89.34834,40.136008],"type":"Point"}
+  "bbox": [
+    -89.34834,
+    40.136008,
+    -89.34834,
+    40.136008
+],
+  "geometry": {"coordinates":[-89.34833999999999,40.136008],"type":"Point"}
 }

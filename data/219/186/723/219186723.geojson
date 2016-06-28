@@ -2,13 +2,14 @@
   "id": 219186723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699097,41.985529,-87.699097,41.985529",
     "geom:latitude":41.985529,
     "geom:longitude":-87.699097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5705 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219186723,
-    "wof:lastmodified":1449073164,
+    "wof:lastmodified":1466489325,
     "wof:name":"Comtel Technologies Inc",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.699097,41.985529,-87.699097,41.985529],
-  "geometry": {"coordinates":[-87.699097,41.985529],"type":"Point"}
+  "bbox": [
+    -87.699097,
+    41.985529,
+    -87.699097,
+    41.985529
+],
+  "geometry": {"coordinates":[-87.69909699999999,41.985529],"type":"Point"}
 }

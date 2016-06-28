@@ -2,13 +2,14 @@
   "id": 253262303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.315778,41.84839,-88.315778,41.84839",
     "geom:latitude":41.84839,
     "geom:longitude":-88.315778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 1st St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253262303,
-    "wof:lastmodified":1449064645,
+    "wof:lastmodified":1466492167,
     "wof:name":"Pnk Ventures Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.315778,41.84839,-88.315778,41.84839],
-  "geometry": {"coordinates":[-88.315778,41.84839],"type":"Point"}
+  "bbox": [
+    -88.315778,
+    41.84839,
+    -88.315778,
+    41.84839
+],
+  "geometry": {"coordinates":[-88.31577799999999,41.84839],"type":"Point"}
 }

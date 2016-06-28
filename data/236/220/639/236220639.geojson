@@ -2,13 +2,14 @@
   "id": 236220639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785685,41.894552,-87.785685,41.894552",
     "geom:latitude":41.894552,
     "geom:longitude":-87.785685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Chicago Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236220639,
-    "wof:lastmodified":1449005106,
+    "wof:lastmodified":1466491704,
     "wof:name":"Gil Standard Service",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-87.785685,41.894552,-87.785685,41.894552],
+  "bbox": [
+    -87.785685,
+    41.894552,
+    -87.785685,
+    41.894552
+],
   "geometry": {"coordinates":[-87.785685,41.894552],"type":"Point"}
 }

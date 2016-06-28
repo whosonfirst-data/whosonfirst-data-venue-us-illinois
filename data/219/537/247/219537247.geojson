@@ -2,13 +2,14 @@
   "id": 219537247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.49449,39.225097,-88.49449,39.225097",
     "geom:latitude":39.225097,
     "geom:longitude":-88.49449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Central St",
     "sg:city":"Sigel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219537247,
-    "wof:lastmodified":1449071264,
+    "wof:lastmodified":1466493611,
     "wof:name":"Sigel Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.49449,39.225097,-88.49449,39.225097],
+  "bbox": [
+    -88.49449,
+    39.225097,
+    -88.49449,
+    39.225097
+],
   "geometry": {"coordinates":[-88.49449,39.225097],"type":"Point"}
 }

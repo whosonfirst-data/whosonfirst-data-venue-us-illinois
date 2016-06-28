@@ -2,13 +2,14 @@
   "id": 220142433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034362,40.555772,-90.034362,40.555772",
     "geom:latitude":40.555772,
     "geom:longitude":-90.034362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 E Elm St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220142433,
-    "wof:lastmodified":1449074675,
+    "wof:lastmodified":1466490684,
     "wof:name":"Hot Spot",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-90.034362,40.555772,-90.034362,40.555772],
+  "bbox": [
+    -90.034362,
+    40.555772,
+    -90.034362,
+    40.555772
+],
   "geometry": {"coordinates":[-90.034362,40.555772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236438119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166716,40.132982,-88.166716,40.132982",
     "geom:latitude":40.132982,
     "geom:longitude":-88.166716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Kenneth St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236438119,
-    "wof:lastmodified":1449002626,
+    "wof:lastmodified":1466494578,
     "wof:name":"Record Keepers Inc",
     "wof:parent_id":85803943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.166716,40.132982,-88.166716,40.132982],
-  "geometry": {"coordinates":[-88.166716,40.132982],"type":"Point"}
+  "bbox": [
+    -88.166716,
+    40.132982,
+    -88.166716,
+    40.132982
+],
+  "geometry": {"coordinates":[-88.16671599999999,40.132982],"type":"Point"}
 }

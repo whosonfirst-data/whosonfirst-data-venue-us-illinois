@@ -2,13 +2,14 @@
   "id": 252924811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753572,41.718011,-87.753572,41.718011",
     "geom:latitude":41.718011,
     "geom:longitude":-87.753572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5318 W 96th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252924811,
-    "wof:lastmodified":1449005717,
+    "wof:lastmodified":1466491783,
     "wof:name":"Windy City Alarm Company",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-87.753572,41.718011,-87.753572,41.718011],
-  "geometry": {"coordinates":[-87.753572,41.718011],"type":"Point"}
+  "bbox": [
+    -87.753572,
+    41.718011,
+    -87.753572,
+    41.718011
+],
+  "geometry": {"coordinates":[-87.75357200000001,41.718011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286770541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.039597,38.329395,-89.039597,38.329395",
     "geom:latitude":38.329395,
     "geom:longitude":-89.039597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Woodlawn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286770541,
-    "wof:lastmodified":1449018138,
+    "wof:lastmodified":1466497141,
     "wof:name":"Newell's Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.039597,38.329395,-89.039597,38.329395],
+  "bbox": [
+    -89.039597,
+    38.329395,
+    -89.039597,
+    38.329395
+],
   "geometry": {"coordinates":[-89.039597,38.329395],"type":"Point"}
 }

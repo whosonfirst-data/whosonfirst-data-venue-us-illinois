@@ -2,13 +2,14 @@
   "id": 253627951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684683,42.054534,-87.684683,42.054534",
     "geom:latitude":42.054534,
     "geom:longitude":-87.684683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Maple Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253627951,
-    "wof:lastmodified":1449065865,
+    "wof:lastmodified":1466497068,
     "wof:name":"Howards Books",
     "wof:parent_id":85890799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-87.684683,42.054534,-87.684683,42.054534],
-  "geometry": {"coordinates":[-87.684683,42.054534],"type":"Point"}
+  "bbox": [
+    -87.684683,
+    42.054534,
+    -87.684683,
+    42.054534
+],
+  "geometry": {"coordinates":[-87.68468300000001,42.054534],"type":"Point"}
 }

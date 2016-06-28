@@ -2,13 +2,14 @@
   "id": 219942409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.248905,40.125412,-88.248905,40.125412",
     "geom:latitude":40.125412,
     "geom:longitude":-88.248905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Eureka St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219942409,
-    "wof:lastmodified":1449072005,
+    "wof:lastmodified":1466497182,
     "wof:name":"ABC Sanitary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-88.248905,40.125412,-88.248905,40.125412],
-  "geometry": {"coordinates":[-88.248905,40.125412],"type":"Point"}
+  "bbox": [
+    -88.248905,
+    40.125412,
+    -88.248905,
+    40.125412
+],
+  "geometry": {"coordinates":[-88.24890499999999,40.125412],"type":"Point"}
 }

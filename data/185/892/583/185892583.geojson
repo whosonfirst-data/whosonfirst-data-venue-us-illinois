@@ -2,13 +2,14 @@
   "id": 185892583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706073,39.607847,-87.706073,39.607847",
     "geom:latitude":39.607847,
     "geom:longitude":-87.706073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 W Crawford St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185892583,
-    "wof:lastmodified":1449006844,
+    "wof:lastmodified":1466489861,
     "wof:name":"Carpenter On The Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-87.706073,39.607847,-87.706073,39.607847],
+  "bbox": [
+    -87.706073,
+    39.607847,
+    -87.706073,
+    39.607847
+],
   "geometry": {"coordinates":[-87.706073,39.607847],"type":"Point"}
 }

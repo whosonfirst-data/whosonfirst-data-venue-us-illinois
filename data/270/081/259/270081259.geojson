@@ -2,13 +2,14 @@
   "id": 270081259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.942415,41.889564,-87.942415,41.889564",
     "geom:latitude":41.889564,
     "geom:longitude":-87.942415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Cottage Hill Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270081259,
-    "wof:lastmodified":1449009373,
+    "wof:lastmodified":1466490228,
     "wof:name":"Cottage Hill Inspections Inc",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-87.942415,41.889564,-87.942415,41.889564],
+  "bbox": [
+    -87.942415,
+    41.889564,
+    -87.942415,
+    41.889564
+],
   "geometry": {"coordinates":[-87.942415,41.889564],"type":"Point"}
 }

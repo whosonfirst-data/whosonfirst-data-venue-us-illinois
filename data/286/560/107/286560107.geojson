@@ -2,13 +2,14 @@
   "id": 286560107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684043,41.701975,-87.684043,41.701975",
     "geom:latitude":41.701975,
     "geom:longitude":-87.684043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10558 S Campbell Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286560107,
-    "wof:lastmodified":1449017427,
+    "wof:lastmodified":1466494525,
     "wof:name":"Cothrive",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.684043,41.701975,-87.684043,41.701975],
+  "bbox": [
+    -87.684043,
+    41.701975,
+    -87.684043,
+    41.701975
+],
   "geometry": {"coordinates":[-87.684043,41.701975],"type":"Point"}
 }

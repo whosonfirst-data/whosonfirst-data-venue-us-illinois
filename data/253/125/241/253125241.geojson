@@ -2,13 +2,14 @@
   "id": 253125241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.390245,39.947937,-91.390245,39.947937",
     "geom:latitude":39.947937,
     "geom:longitude":-91.390245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Sycamore St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253125241,
-    "wof:lastmodified":1449065701,
+    "wof:lastmodified":1466490535,
     "wof:name":"Quincy Congregation",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.390245,39.947937,-91.390245,39.947937],
-  "geometry": {"coordinates":[-91.390245,39.947937],"type":"Point"}
+  "bbox": [
+    -91.390245,
+    39.947937,
+    -91.390245,
+    39.947937
+],
+  "geometry": {"coordinates":[-91.39024499999999,39.947937],"type":"Point"}
 }

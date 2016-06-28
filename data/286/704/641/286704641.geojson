@@ -2,13 +2,14 @@
   "id": 286704641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894343,42.345001,-87.894343,42.345001",
     "geom:latitude":42.345001,
     "geom:longitude":-87.894343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Northpoint Blvd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":286704641,
-    "wof:lastmodified":1449015943,
+    "wof:lastmodified":1466496485,
     "wof:name":"Vogue Printers",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-87.894343,42.345001,-87.894343,42.345001],
-  "geometry": {"coordinates":[-87.894343,42.345001],"type":"Point"}
+  "bbox": [
+    -87.894343,
+    42.345001,
+    -87.894343,
+    42.345001
+],
+  "geometry": {"coordinates":[-87.89434300000001,42.345001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303101321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.218985,39.723151,-90.218985,39.723151",
     "geom:latitude":39.723151,
     "geom:longitude":-90.218985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 E Morton Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303101321,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1466491421,
     "wof:name":"Elliott's Canteen Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.218985,39.723151,-90.218985,39.723151],
+  "bbox": [
+    -90.218985,
+    39.723151,
+    -90.218985,
+    39.723151
+],
   "geometry": {"coordinates":[-90.218985,39.723151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270170207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.779336,39.446231,-89.779336,39.446231",
     "geom:latitude":39.446231,
     "geom:longitude":-89.779336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S 2nd St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270170207,
-    "wof:lastmodified":1449008871,
+    "wof:lastmodified":1466491542,
     "wof:name":"James E Gorman DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-89.779336,39.446231,-89.779336,39.446231],
+  "bbox": [
+    -89.779336,
+    39.446231,
+    -89.779336,
+    39.446231
+],
   "geometry": {"coordinates":[-89.779336,39.446231],"type":"Point"}
 }

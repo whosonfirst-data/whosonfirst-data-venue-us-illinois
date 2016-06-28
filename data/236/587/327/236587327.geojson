@@ -2,13 +2,14 @@
   "id": 236587327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.01699,38.53039,-90.01699,38.53039",
     "geom:latitude":38.53039,
     "geom:longitude":-90.01699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 32nd St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236587327,
-    "wof:lastmodified":1449002643,
+    "wof:lastmodified":1466496448,
     "wof:name":"Parents & Friends-Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dev"
     ]
 },
-  "bbox": [-90.01699,38.53039,-90.01699,38.53039],
-  "geometry": {"coordinates":[-90.01699,38.53039],"type":"Point"}
+  "bbox": [
+    -90.01699,
+    38.53039,
+    -90.01699,
+    38.53039
+],
+  "geometry": {"coordinates":[-90.01699000000001,38.53039],"type":"Point"}
 }

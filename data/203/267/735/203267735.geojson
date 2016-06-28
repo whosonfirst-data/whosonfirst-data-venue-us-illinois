@@ -2,13 +2,14 @@
   "id": 203267735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.678451,41.911629,-87.678451,41.911629",
     "geom:latitude":41.911629,
     "geom:longitude":-87.678451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 W Concord Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203267735,
-    "wof:lastmodified":1449026698,
+    "wof:lastmodified":1466490110,
     "wof:name":"Carn-Gafall",
     "wof:parent_id":85866935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.678451,41.911629,-87.678451,41.911629],
+  "bbox": [
+    -87.678451,
+    41.911629,
+    -87.678451,
+    41.911629
+],
   "geometry": {"coordinates":[-87.678451,41.911629],"type":"Point"}
 }

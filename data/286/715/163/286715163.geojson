@@ -2,13 +2,14 @@
   "id": 286715163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080216,41.62535,-88.080216,41.62535",
     "geom:latitude":41.62535,
     "geom:longitude":-88.080216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15701 S Independence Blvd",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286715163,
-    "wof:lastmodified":1449017533,
+    "wof:lastmodified":1466496575,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-88.080216,41.62535,-88.080216,41.62535],
-  "geometry": {"coordinates":[-88.080216,41.62535],"type":"Point"}
+  "bbox": [
+    -88.080216,
+    41.62535,
+    -88.080216,
+    41.62535
+],
+  "geometry": {"coordinates":[-88.08021599999999,41.62535],"type":"Point"}
 }

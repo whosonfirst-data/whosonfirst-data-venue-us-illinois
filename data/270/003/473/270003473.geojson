@@ -2,13 +2,14 @@
   "id": 270003473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.378368,39.29004,-88.378368,39.29004",
     "geom:latitude":39.29004,
     "geom:longitude":-88.378368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Co Rd 500 E",
     "sg:city":"Toledo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270003473,
-    "wof:lastmodified":1449010909,
+    "wof:lastmodified":1466489091,
     "wof:name":"Roberts Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "landscape"
     ]
 },
-  "bbox": [-88.378368,39.29004,-88.378368,39.29004],
-  "geometry": {"coordinates":[-88.378368,39.29004],"type":"Point"}
+  "bbox": [
+    -88.378368,
+    39.29004,
+    -88.378368,
+    39.29004
+],
+  "geometry": {"coordinates":[-88.37836799999999,39.29004],"type":"Point"}
 }

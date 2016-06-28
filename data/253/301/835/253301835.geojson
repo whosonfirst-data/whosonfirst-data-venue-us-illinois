@@ -2,13 +2,14 @@
   "id": 253301835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.954884,40.843863,-89.954884,40.843863",
     "geom:latitude":40.843863,
     "geom:longitude":-89.954884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22806 W Tucker Rd",
     "sg:city":"Elmwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253301835,
-    "wof:lastmodified":1449063571,
+    "wof:lastmodified":1466492756,
     "wof:name":"Larry Coon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-89.954884,40.843863,-89.954884,40.843863],
-  "geometry": {"coordinates":[-89.954884,40.843863],"type":"Point"}
+  "bbox": [
+    -89.954884,
+    40.843863,
+    -89.954884,
+    40.843863
+],
+  "geometry": {"coordinates":[-89.95488400000001,40.843863],"type":"Point"}
 }

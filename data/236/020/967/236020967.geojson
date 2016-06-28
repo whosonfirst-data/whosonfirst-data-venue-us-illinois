@@ -2,13 +2,14 @@
   "id": 236020967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328006,42.032508,-88.328006,42.032508",
     "geom:latitude":42.032508,
     "geom:longitude":-88.328006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Larkin Ave",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236020967,
-    "wof:lastmodified":1449003142,
+    "wof:lastmodified":1466489222,
     "wof:name":"Truck Tracker Software",
     "wof:parent_id":85859429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-88.328006,42.032508,-88.328006,42.032508],
+  "bbox": [
+    -88.328006,
+    42.032508,
+    -88.328006,
+    42.032508
+],
   "geometry": {"coordinates":[-88.328006,42.032508],"type":"Point"}
 }

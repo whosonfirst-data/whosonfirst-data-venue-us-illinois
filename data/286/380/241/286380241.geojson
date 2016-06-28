@@ -2,13 +2,14 @@
   "id": 286380241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.844535,40.580483,-89.844535,40.580483",
     "geom:latitude":40.580483,
     "geom:longitude":-89.844535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15701 Glasford Canton Rd",
     "sg:city":"Glasford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286380241,
-    "wof:lastmodified":1449016553,
+    "wof:lastmodified":1466491624,
     "wof:name":"Lamarsh Baptist School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.844535,40.580483,-89.844535,40.580483],
-  "geometry": {"coordinates":[-89.844535,40.580483],"type":"Point"}
+  "bbox": [
+    -89.844535,
+    40.580483,
+    -89.844535,
+    40.580483
+],
+  "geometry": {"coordinates":[-89.84453499999999,40.580483],"type":"Point"}
 }

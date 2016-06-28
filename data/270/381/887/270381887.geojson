@@ -2,13 +2,14 @@
   "id": 270381887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.127402,41.361572,-89.127402,41.361572",
     "geom:latitude":41.361572,
     "geom:longitude":-89.127402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Venture Dr",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270381887,
-    "wof:lastmodified":1449008854,
+    "wof:lastmodified":1466494846,
     "wof:name":"WEIS Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.127402,41.361572,-89.127402,41.361572],
+  "bbox": [
+    -89.127402,
+    41.361572,
+    -89.127402,
+    41.361572
+],
   "geometry": {"coordinates":[-89.127402,41.361572],"type":"Point"}
 }

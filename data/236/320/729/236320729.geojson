@@ -2,13 +2,14 @@
   "id": 236320729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.988469,38.669377,-89.988469,38.669377",
     "geom:latitude":38.669377,
     "geom:longitude":-89.988469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236320729,
-    "wof:lastmodified":1449002307,
+    "wof:lastmodified":1466493027,
     "wof:name":"E-Auction Svc",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-89.988469,38.669377,-89.988469,38.669377],
-  "geometry": {"coordinates":[-89.988469,38.669377],"type":"Point"}
+  "bbox": [
+    -89.988469,
+    38.669377,
+    -89.988469,
+    38.669377
+],
+  "geometry": {"coordinates":[-89.98846899999999,38.669377],"type":"Point"}
 }

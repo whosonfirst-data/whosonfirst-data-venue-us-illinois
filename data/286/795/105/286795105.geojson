@@ -2,13 +2,14 @@
   "id": 286795105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.345334,41.873535,-88.345334,41.873535",
     "geom:latitude":41.873535,
     "geom:longitude":-88.345334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Lewis Rd",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286795105,
-    "wof:lastmodified":1449016934,
+    "wof:lastmodified":1466497327,
     "wof:name":"Elt",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.345334,41.873535,-88.345334,41.873535],
-  "geometry": {"coordinates":[-88.345334,41.873535],"type":"Point"}
+  "bbox": [
+    -88.345334,
+    41.873535,
+    -88.345334,
+    41.873535
+],
+  "geometry": {"coordinates":[-88.34533399999999,41.873535],"type":"Point"}
 }

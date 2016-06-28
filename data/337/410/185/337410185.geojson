@@ -2,13 +2,14 @@
   "id": 337410185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.125351,41.538227,-88.125351,41.538227",
     "geom:latitude":41.538227,
     "geom:longitude":-88.125351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 N Larkin Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337410185,
-    "wof:lastmodified":1449026941,
+    "wof:lastmodified":1466492106,
     "wof:name":"Pittsburgh Paints",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-88.125351,41.538227,-88.125351,41.538227],
-  "geometry": {"coordinates":[-88.125351,41.538227],"type":"Point"}
+  "bbox": [
+    -88.125351,
+    41.538227,
+    -88.125351,
+    41.538227
+],
+  "geometry": {"coordinates":[-88.12535099999999,41.538227],"type":"Point"}
 }

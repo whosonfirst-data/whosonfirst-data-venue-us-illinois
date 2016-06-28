@@ -2,13 +2,14 @@
   "id": 202992275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006655,41.118063,-88.006655,41.118063",
     "geom:latitude":41.118063,
     "geom:longitude":-88.006655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7226 W State Rte 17",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202992275,
-    "wof:lastmodified":1449061317,
+    "wof:lastmodified":1466494275,
     "wof:name":"Interior Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.006655,41.118063,-88.006655,41.118063],
-  "geometry": {"coordinates":[-88.006655,41.118063],"type":"Point"}
+  "bbox": [
+    -88.006655,
+    41.118063,
+    -88.006655,
+    41.118063
+],
+  "geometry": {"coordinates":[-88.00665499999999,41.118063],"type":"Point"}
 }

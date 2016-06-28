@@ -2,13 +2,14 @@
   "id": 337484831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.852832,39.890302,-88.852832,39.890302",
     "geom:latitude":39.890302,
     "geom:longitude":-88.852832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 Sarver Ln",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337484831,
-    "wof:lastmodified":1449027691,
+    "wof:lastmodified":1466492454,
     "wof:name":"Norman Sarver Excavating",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.852832,39.890302,-88.852832,39.890302],
-  "geometry": {"coordinates":[-88.852832,39.890302],"type":"Point"}
+  "bbox": [
+    -88.852832,
+    39.890302,
+    -88.852832,
+    39.890302
+],
+  "geometry": {"coordinates":[-88.85283200000001,39.890302],"type":"Point"}
 }

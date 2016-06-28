@@ -2,13 +2,14 @@
   "id": 186567853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.966431,41.809089,-89.966431,41.809089",
     "geom:latitude":41.809089,
     "geom:longitude":-89.966431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Main St",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186567853,
-    "wof:lastmodified":1449053043,
+    "wof:lastmodified":1466489018,
     "wof:name":"Mance Gerald L Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-89.966431,41.809089,-89.966431,41.809089],
+  "bbox": [
+    -89.966431,
+    41.809089,
+    -89.966431,
+    41.809089
+],
   "geometry": {"coordinates":[-89.966431,41.809089],"type":"Point"}
 }

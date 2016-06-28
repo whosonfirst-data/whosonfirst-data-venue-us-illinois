@@ -2,13 +2,14 @@
   "id": 236701491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.818486,41.868403,-87.818486,41.868403",
     "geom:latitude":41.868403,
     "geom:longitude":-87.818486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Des Plaines Ave",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236701491,
-    "wof:lastmodified":1449004413,
+    "wof:lastmodified":1466497211,
     "wof:name":"Linden House Apartment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.818486,41.868403,-87.818486,41.868403],
-  "geometry": {"coordinates":[-87.818486,41.868403],"type":"Point"}
+  "bbox": [
+    -87.818486,
+    41.868403,
+    -87.818486,
+    41.868403
+],
+  "geometry": {"coordinates":[-87.81848599999999,41.868403],"type":"Point"}
 }

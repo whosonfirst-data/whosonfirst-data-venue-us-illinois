@@ -2,13 +2,14 @@
   "id": 286614275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76627,41.949612,-87.76627,41.949612",
     "geom:latitude":41.949612,
     "geom:longitude":-87.76627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5526 W Grace St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286614275,
-    "wof:lastmodified":1449018175,
+    "wof:lastmodified":1466495427,
     "wof:name":"Professional Painting & Dctg",
     "wof:parent_id":85882317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.76627,41.949612,-87.76627,41.949612],
-  "geometry": {"coordinates":[-87.76627,41.949612],"type":"Point"}
+  "bbox": [
+    -87.76627,
+    41.949612,
+    -87.76627,
+    41.949612
+],
+  "geometry": {"coordinates":[-87.76627000000001,41.949612],"type":"Point"}
 }

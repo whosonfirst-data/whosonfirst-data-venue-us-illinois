@@ -2,13 +2,14 @@
   "id": 220105811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.743446,41.817834,-87.743446,41.817834",
     "geom:latitude":41.817834,
     "geom:longitude":-87.743446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 S Cicero Ave",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220105811,
-    "wof:lastmodified":1449074337,
+    "wof:lastmodified":1466490243,
     "wof:name":"Flint Hills Resources LP",
     "wof:parent_id":85867657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "station"
     ]
 },
-  "bbox": [-87.743446,41.817834,-87.743446,41.817834],
-  "geometry": {"coordinates":[-87.743446,41.817834],"type":"Point"}
+  "bbox": [
+    -87.743446,
+    41.817834,
+    -87.743446,
+    41.817834
+],
+  "geometry": {"coordinates":[-87.74344600000001,41.817834],"type":"Point"}
 }

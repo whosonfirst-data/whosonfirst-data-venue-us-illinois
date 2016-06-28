@@ -2,13 +2,14 @@
   "id": 219647701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.735869,40.988879,-88.735869,40.988879",
     "geom:latitude":40.988879,
     "geom:longitude":-88.735869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Prairie St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219647701,
-    "wof:lastmodified":1449072065,
+    "wof:lastmodified":1466494899,
     "wof:name":"Mas Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-88.735869,40.988879,-88.735869,40.988879],
-  "geometry": {"coordinates":[-88.735869,40.988879],"type":"Point"}
+  "bbox": [
+    -88.735869,
+    40.988879,
+    -88.735869,
+    40.988879
+],
+  "geometry": {"coordinates":[-88.73586899999999,40.988879],"type":"Point"}
 }

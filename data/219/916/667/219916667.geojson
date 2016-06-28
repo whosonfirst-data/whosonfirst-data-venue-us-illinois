@@ -2,13 +2,14 @@
   "id": 219916667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855674,42.138355,-87.855674,42.138355",
     "geom:latitude":42.138355,
     "geom:longitude":-87.855674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 Dundee Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219916667,
-    "wof:lastmodified":1449072311,
+    "wof:lastmodified":1466497071,
     "wof:name":"Northbrook One Hour Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.855674,42.138355,-87.855674,42.138355],
-  "geometry": {"coordinates":[-87.855674,42.138355],"type":"Point"}
+  "bbox": [
+    -87.855674,
+    42.138355,
+    -87.855674,
+    42.138355
+],
+  "geometry": {"coordinates":[-87.85567399999999,42.138355],"type":"Point"}
 }

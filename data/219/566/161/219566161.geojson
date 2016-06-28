@@ -2,13 +2,14 @@
   "id": 219566161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240636,42.209083,-88.240636,42.209083",
     "geom:latitude":42.209083,
     "geom:longitude":-88.240636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Crystal St",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219566161,
-    "wof:lastmodified":1449070442,
+    "wof:lastmodified":1466493945,
     "wof:name":"Fireplug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.240636,42.209083,-88.240636,42.209083],
-  "geometry": {"coordinates":[-88.240636,42.209083],"type":"Point"}
+  "bbox": [
+    -88.240636,
+    42.209083,
+    -88.240636,
+    42.209083
+],
+  "geometry": {"coordinates":[-88.24063599999999,42.209083],"type":"Point"}
 }

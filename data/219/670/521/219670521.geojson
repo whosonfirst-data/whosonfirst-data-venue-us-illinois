@@ -2,13 +2,14 @@
   "id": 219670521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.975423,41.889764,-87.975423,41.889764",
     "geom:latitude":41.889764,
     "geom:longitude":-87.975423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Saint Charles Rd",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219670521,
-    "wof:lastmodified":1449070918,
+    "wof:lastmodified":1466495174,
     "wof:name":"A Plus Vacuum",
     "wof:parent_id":85890961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-87.975423,41.889764,-87.975423,41.889764],
-  "geometry": {"coordinates":[-87.975423,41.889764],"type":"Point"}
+  "bbox": [
+    -87.975423,
+    41.889764,
+    -87.975423,
+    41.889764
+],
+  "geometry": {"coordinates":[-87.97542300000001,41.889764],"type":"Point"}
 }

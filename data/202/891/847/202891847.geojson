@@ -2,13 +2,14 @@
   "id": 202891847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.328994,41.873491,-88.328994,41.873491",
     "geom:latitude":41.873491,
     "geom:longitude":-88.328994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Keim Cir",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202891847,
-    "wof:lastmodified":1449061654,
+    "wof:lastmodified":1466493075,
     "wof:name":"G Randall Wright DDS",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.328994,41.873491,-88.328994,41.873491],
-  "geometry": {"coordinates":[-88.328994,41.873491],"type":"Point"}
+  "bbox": [
+    -88.328994,
+    41.873491,
+    -88.328994,
+    41.873491
+],
+  "geometry": {"coordinates":[-88.32899399999999,41.873491],"type":"Point"}
 }

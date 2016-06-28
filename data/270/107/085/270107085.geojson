@@ -2,13 +2,14 @@
   "id": 270107085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.186572,39.484928,-88.186572,39.484928",
     "geom:latitude":39.484928,
     "geom:longitude":-88.186572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 E St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270107085,
-    "wof:lastmodified":1449008673,
+    "wof:lastmodified":1466490613,
     "wof:name":"County Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-88.186572,39.484928,-88.186572,39.484928],
+  "bbox": [
+    -88.186572,
+    39.484928,
+    -88.186572,
+    39.484928
+],
   "geometry": {"coordinates":[-88.186572,39.484928],"type":"Point"}
 }

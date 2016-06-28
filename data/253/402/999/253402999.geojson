@@ -2,13 +2,14 @@
   "id": 253402999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.208013,41.425115,-89.208013,41.425115",
     "geom:latitude":41.425115,
     "geom:longitude":-89.208013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E Lincoln Ave",
     "sg:city":"Cherry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253402999,
-    "wof:lastmodified":1449063771,
+    "wof:lastmodified":1466494282,
     "wof:name":"Town N Kountry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.208013,41.425115,-89.208013,41.425115],
-  "geometry": {"coordinates":[-89.208013,41.425115],"type":"Point"}
+  "bbox": [
+    -89.208013,
+    41.425115,
+    -89.208013,
+    41.425115
+],
+  "geometry": {"coordinates":[-89.20801299999999,41.425115],"type":"Point"}
 }

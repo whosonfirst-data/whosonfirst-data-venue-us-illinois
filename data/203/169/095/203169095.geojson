@@ -2,13 +2,14 @@
   "id": 203169095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.083535,41.880585,-88.083535,41.880585",
     "geom:latitude":41.880585,
     "geom:longitude":-88.083535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Maria Ct",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203169095,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466489009,
     "wof:name":"Grotto Development Group",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.083535,41.880585,-88.083535,41.880585],
+  "bbox": [
+    -88.083535,
+    41.880585,
+    -88.083535,
+    41.880585
+],
   "geometry": {"coordinates":[-88.083535,41.880585],"type":"Point"}
 }

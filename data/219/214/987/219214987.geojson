@@ -2,13 +2,14 @@
   "id": 219214987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616888,41.827546,-87.616888,41.827546",
     "geom:latitude":41.827546,
     "geom:longitude":-87.616888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3602 S King Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219214987,
-    "wof:lastmodified":1449073803,
+    "wof:lastmodified":1466489682,
     "wof:name":"Carols Boutique",
     "wof:parent_id":85867575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boutique"
     ]
 },
-  "bbox": [-87.616888,41.827546,-87.616888,41.827546],
+  "bbox": [
+    -87.616888,
+    41.827546,
+    -87.616888,
+    41.827546
+],
   "geometry": {"coordinates":[-87.616888,41.827546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253346111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.787839,39.010222,-89.787839,39.010222",
     "geom:latitude":39.010222,
     "geom:longitude":-89.787839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 S Elm St",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253346111,
-    "wof:lastmodified":1449062814,
+    "wof:lastmodified":1466493388,
     "wof:name":"Zion Evang Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.787839,39.010222,-89.787839,39.010222],
-  "geometry": {"coordinates":[-89.787839,39.010222],"type":"Point"}
+  "bbox": [
+    -89.787839,
+    39.010222,
+    -89.787839,
+    39.010222
+],
+  "geometry": {"coordinates":[-89.78783900000001,39.010222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253139725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.927669,37.897883,-88.927669,37.897883",
     "geom:latitude":37.897883,
     "geom:longitude":-88.927669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 E Main St",
     "sg:city":"West Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253139725,
-    "wof:lastmodified":1449063085,
+    "wof:lastmodified":1466490668,
     "wof:name":"Watson Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-88.927669,37.897883,-88.927669,37.897883],
-  "geometry": {"coordinates":[-88.927669,37.897883],"type":"Point"}
+  "bbox": [
+    -88.927669,
+    37.897883,
+    -88.927669,
+    37.897883
+],
+  "geometry": {"coordinates":[-88.92766899999999,37.897883],"type":"Point"}
 }

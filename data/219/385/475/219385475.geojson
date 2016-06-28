@@ -2,13 +2,14 @@
   "id": 219385475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.687974,41.9103,-87.687974,41.9103",
     "geom:latitude":41.9103,
     "geom:longitude":-87.687974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 W North Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219385475,
-    "wof:lastmodified":1449072483,
+    "wof:lastmodified":1466491752,
     "wof:name":"Flies Communications",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-87.687974,41.9103,-87.687974,41.9103],
+  "bbox": [
+    -87.687974,
+    41.9103,
+    -87.687974,
+    41.9103
+],
   "geometry": {"coordinates":[-87.687974,41.9103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253601515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.246969,42.209584,-88.246969,42.209584",
     "geom:latitude":42.209584,
     "geom:longitude":-88.246969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Krenz Ave",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253601515,
-    "wof:lastmodified":1449064145,
+    "wof:lastmodified":1466496865,
     "wof:name":"Maplewood Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.246969,42.209584,-88.246969,42.209584],
-  "geometry": {"coordinates":[-88.246969,42.209584],"type":"Point"}
+  "bbox": [
+    -88.246969,
+    42.209584,
+    -88.246969,
+    42.209584
+],
+  "geometry": {"coordinates":[-88.24696900000001,42.209584],"type":"Point"}
 }

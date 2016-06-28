@@ -2,13 +2,14 @@
   "id": 202414781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.934184,41.870241,-87.934184,41.870241",
     "geom:latitude":41.870241,
     "geom:longitude":-87.934184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 S York St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202414781,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466493409,
     "wof:name":"David Dyer",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.934184,41.870241,-87.934184,41.870241],
+  "bbox": [
+    -87.934184,
+    41.870241,
+    -87.934184,
+    41.870241
+],
   "geometry": {"coordinates":[-87.934184,41.870241],"type":"Point"}
 }

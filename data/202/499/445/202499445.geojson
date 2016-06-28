@@ -2,13 +2,14 @@
   "id": 202499445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.437225,39.889501,-89.437225,39.889501",
     "geom:latitude":39.889501,
     "geom:longitude":-89.437225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11629 Maurer Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202499445,
-    "wof:lastmodified":1449060592,
+    "wof:lastmodified":1466495095,
     "wof:name":"Mary Lou's Country Abode",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-89.437225,39.889501,-89.437225,39.889501],
+  "bbox": [
+    -89.437225,
+    39.889501,
+    -89.437225,
+    39.889501
+],
   "geometry": {"coordinates":[-89.437225,39.889501],"type":"Point"}
 }

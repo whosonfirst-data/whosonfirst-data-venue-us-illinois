@@ -2,13 +2,14 @@
   "id": 303108387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.359392,39.487008,-88.359392,39.487008",
     "geom:latitude":39.487008,
     "geom:longitude":-88.359392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Shelby Ave",
     "sg:city":"Mattoon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303108387,
-    "wof:lastmodified":1448998162,
+    "wof:lastmodified":1466491540,
     "wof:name":"Wave Graphics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-88.359392,39.487008,-88.359392,39.487008],
+  "bbox": [
+    -88.359392,
+    39.487008,
+    -88.359392,
+    39.487008
+],
   "geometry": {"coordinates":[-88.359392,39.487008],"type":"Point"}
 }

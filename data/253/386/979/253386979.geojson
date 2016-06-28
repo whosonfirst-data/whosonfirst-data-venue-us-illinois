@@ -2,13 +2,14 @@
   "id": 253386979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.854279,42.09992,-87.854279,42.09992",
     "geom:latitude":42.09992,
     "geom:longitude":-87.854279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Briarford Ln",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253386979,
-    "wof:lastmodified":1449064377,
+    "wof:lastmodified":1466494026,
     "wof:name":"Vendor Bender",
     "wof:parent_id":85838279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.854279,42.09992,-87.854279,42.09992],
-  "geometry": {"coordinates":[-87.854279,42.09992],"type":"Point"}
+  "bbox": [
+    -87.854279,
+    42.09992,
+    -87.854279,
+    42.09992
+],
+  "geometry": {"coordinates":[-87.85427900000001,42.09992],"type":"Point"}
 }

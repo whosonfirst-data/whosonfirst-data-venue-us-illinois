@@ -2,13 +2,14 @@
   "id": 270146573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.513408,41.493473,-90.513408,41.493473",
     "geom:latitude":41.493473,
     "geom:longitude":-90.513408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 16th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270146573,
-    "wof:lastmodified":1449009659,
+    "wof:lastmodified":1466491203,
     "wof:name":"Federated Insurance",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-90.513408,41.493473,-90.513408,41.493473],
+  "bbox": [
+    -90.513408,
+    41.493473,
+    -90.513408,
+    41.493473
+],
   "geometry": {"coordinates":[-90.513408,41.493473],"type":"Point"}
 }

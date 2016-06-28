@@ -2,13 +2,14 @@
   "id": 286563101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.796372,41.899327,-87.796372,41.899327",
     "geom:latitude":41.899327,
     "geom:longitude":-87.796372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 N Grove Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286563101,
-    "wof:lastmodified":1449015205,
+    "wof:lastmodified":1466494573,
     "wof:name":"Christopher Masi",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "witness"
     ]
 },
-  "bbox": [-87.796372,41.899327,-87.796372,41.899327],
-  "geometry": {"coordinates":[-87.796372,41.899327],"type":"Point"}
+  "bbox": [
+    -87.796372,
+    41.899327,
+    -87.796372,
+    41.899327
+],
+  "geometry": {"coordinates":[-87.79637200000001,41.899327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203046451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.401503,41.281808,-90.401503,41.281808",
     "geom:latitude":41.281808,
     "geom:longitude":-90.401503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1737 N 900th Ave",
     "sg:city":"Lynn Center",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203046451,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466493527,
     "wof:name":"Heavenly Ham",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.401503,41.281808,-90.401503,41.281808],
-  "geometry": {"coordinates":[-90.401503,41.281808],"type":"Point"}
+  "bbox": [
+    -90.401503,
+    41.281808,
+    -90.401503,
+    41.281808
+],
+  "geometry": {"coordinates":[-90.40150300000001,41.281808],"type":"Point"}
 }

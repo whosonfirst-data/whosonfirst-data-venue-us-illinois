@@ -2,13 +2,14 @@
   "id": 203291533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.86248,41.857247,-87.86248,41.857247",
     "geom:latitude":41.857247,
     "geom:longitude":-87.86248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 S 25th Ave",
     "sg:city":"Broadview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203291533,
-    "wof:lastmodified":1449025491,
+    "wof:lastmodified":1466490375,
     "wof:name":"Midwest Medical Supply Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgical"
     ]
 },
-  "bbox": [-87.86248,41.857247,-87.86248,41.857247],
-  "geometry": {"coordinates":[-87.86248,41.857247],"type":"Point"}
+  "bbox": [
+    -87.86248,
+    41.857247,
+    -87.86248,
+    41.857247
+],
+  "geometry": {"coordinates":[-87.86248000000001,41.857247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269899989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.984992,42.300589,-88.984992,42.300589",
     "geom:latitude":42.300589,
     "geom:longitude":-88.984992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2766 Reid Farm Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269899989,
-    "wof:lastmodified":1449038836,
+    "wof:lastmodified":1466495578,
     "wof:name":"Northern Electric",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.984992,42.300589,-88.984992,42.300589],
-  "geometry": {"coordinates":[-88.984992,42.300589],"type":"Point"}
+  "bbox": [
+    -88.984992,
+    42.300589,
+    -88.984992,
+    42.300589
+],
+  "geometry": {"coordinates":[-88.98499200000001,42.300589],"type":"Point"}
 }

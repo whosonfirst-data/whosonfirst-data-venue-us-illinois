@@ -2,13 +2,14 @@
   "id": 270349397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.949589,41.885648,-87.949589,41.885648",
     "geom:latitude":41.885648,
     "geom:longitude":-87.949589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Spring Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270349397,
-    "wof:lastmodified":1449009569,
+    "wof:lastmodified":1466494363,
     "wof:name":"Elmhurst Orthodontics",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.949589,41.885648,-87.949589,41.885648],
+  "bbox": [
+    -87.949589,
+    41.885648,
+    -87.949589,
+    41.885648
+],
   "geometry": {"coordinates":[-87.949589,41.885648],"type":"Point"}
 }

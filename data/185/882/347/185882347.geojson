@@ -2,13 +2,14 @@
   "id": 185882347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.55422,39.817339,-89.55422,39.817339",
     "geom:latitude":39.817339,
     "geom:longitude":-89.55422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 Dave Stockton Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185882347,
-    "wof:lastmodified":1449006896,
+    "wof:lastmodified":1466489755,
     "wof:name":"The Oaks Golf Course",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-89.55422,39.817339,-89.55422,39.817339],
+  "bbox": [
+    -89.55422,
+    39.817339,
+    -89.55422,
+    39.817339
+],
   "geometry": {"coordinates":[-89.55422,39.817339],"type":"Point"}
 }

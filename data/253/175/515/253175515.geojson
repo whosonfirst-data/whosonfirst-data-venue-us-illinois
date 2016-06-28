@@ -2,13 +2,14 @@
   "id": 253175515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677799,41.910463,-87.677799,41.910463",
     "geom:latitude":41.910463,
     "geom:longitude":-87.677799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1652 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253175515,
-    "wof:lastmodified":1449064890,
+    "wof:lastmodified":1466491027,
     "wof:name":"Carpet Warehouse Ctr",
     "wof:parent_id":85866935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.677799,41.910463,-87.677799,41.910463],
-  "geometry": {"coordinates":[-87.677799,41.910463],"type":"Point"}
+  "bbox": [
+    -87.677799,
+    41.910463,
+    -87.677799,
+    41.910463
+],
+  "geometry": {"coordinates":[-87.67779899999999,41.910463],"type":"Point"}
 }

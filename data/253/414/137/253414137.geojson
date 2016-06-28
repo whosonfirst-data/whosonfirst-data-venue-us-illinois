@@ -2,13 +2,14 @@
   "id": 253414137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.601109,41.82048,-87.601109,41.82048",
     "geom:latitude":41.82048,
     "geom:longitude":-87.601109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 S Lake Park Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253414137,
-    "wof:lastmodified":1449064208,
+    "wof:lastmodified":1466494462,
     "wof:name":"H H Health Education & Welfare",
     "wof:parent_id":85865721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.601109,41.82048,-87.601109,41.82048],
-  "geometry": {"coordinates":[-87.601109,41.82048],"type":"Point"}
+  "bbox": [
+    -87.601109,
+    41.82048,
+    -87.601109,
+    41.82048
+],
+  "geometry": {"coordinates":[-87.60110899999999,41.82048],"type":"Point"}
 }

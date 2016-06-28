@@ -2,13 +2,14 @@
   "id": 186032003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.531861,37.742035,-88.531861,37.742035",
     "geom:latitude":37.742035,
     "geom:longitude":-88.531861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Veterans Dr Ste B",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186032003,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466495713,
     "wof:name":"Saline County Extension Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-88.531861,37.742035,-88.531861,37.742035],
-  "geometry": {"coordinates":[-88.531861,37.742035],"type":"Point"}
+  "bbox": [
+    -88.531861,
+    37.742035,
+    -88.531861,
+    37.742035
+],
+  "geometry": {"coordinates":[-88.53186100000001,37.742035],"type":"Point"}
 }

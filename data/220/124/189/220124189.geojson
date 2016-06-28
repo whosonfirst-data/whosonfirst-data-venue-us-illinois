@@ -2,13 +2,14 @@
   "id": 220124189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849787,40.190797,-87.849787,40.190797",
     "geom:latitude":40.190797,
     "geom:longitude":-87.849787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4764 E 2230 North Rd",
     "sg:city":"Fithian",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220124189,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466490459,
     "wof:name":"Andrew Hutchison Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.849787,40.190797,-87.849787,40.190797],
-  "geometry": {"coordinates":[-87.849787,40.190797],"type":"Point"}
+  "bbox": [
+    -87.849787,
+    40.190797,
+    -87.849787,
+    40.190797
+],
+  "geometry": {"coordinates":[-87.84978700000001,40.190797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186575737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.8619,41.115585,-87.8619,41.115585",
     "geom:latitude":41.115585,
     "geom:longitude":-87.8619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 S Indiana Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186575737,
-    "wof:lastmodified":1449051151,
+    "wof:lastmodified":1466489119,
     "wof:name":"Saint Patricks Convent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.8619,41.115585,-87.8619,41.115585],
-  "geometry": {"coordinates":[-87.8619,41.115585],"type":"Point"}
+  "bbox": [
+    -87.8619,
+    41.115585,
+    -87.8619,
+    41.115585
+],
+  "geometry": {"coordinates":[-87.86190000000001,41.115585],"type":"Point"}
 }

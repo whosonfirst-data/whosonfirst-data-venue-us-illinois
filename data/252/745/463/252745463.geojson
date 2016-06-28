@@ -2,13 +2,14 @@
   "id": 252745463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.751014,41.851162,-87.751014,41.851162",
     "geom:latitude":41.851162,
     "geom:longitude":-87.751014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5027 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252745463,
-    "wof:lastmodified":1449006454,
+    "wof:lastmodified":1466489481,
     "wof:name":"U-Haul",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "utility"
     ]
 },
-  "bbox": [-87.751014,41.851162,-87.751014,41.851162],
+  "bbox": [
+    -87.751014,
+    41.851162,
+    -87.751014,
+    41.851162
+],
   "geometry": {"coordinates":[-87.751014,41.851162],"type":"Point"}
 }

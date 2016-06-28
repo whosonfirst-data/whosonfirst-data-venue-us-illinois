@@ -2,13 +2,14 @@
   "id": 219852103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.452159,37.809827,-88.452159,37.809827",
     "geom:latitude":37.809827,
     "geom:longitude":-88.452159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Scott St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219852103,
-    "wof:lastmodified":1449073320,
+    "wof:lastmodified":1466496735,
     "wof:name":"Scott St Mssnary Baptst Church",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.452159,37.809827,-88.452159,37.809827],
-  "geometry": {"coordinates":[-88.452159,37.809827],"type":"Point"}
+  "bbox": [
+    -88.452159,
+    37.809827,
+    -88.452159,
+    37.809827
+],
+  "geometry": {"coordinates":[-88.45215899999999,37.809827],"type":"Point"}
 }

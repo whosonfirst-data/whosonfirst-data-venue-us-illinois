@@ -2,13 +2,14 @@
   "id": 203163947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107543,41.807092,-88.107543,41.807092",
     "geom:latitude":41.807092,
     "geom:longitude":-88.107543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Commerce Ct",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203163947,
-    "wof:lastmodified":1449026838,
+    "wof:lastmodified":1466488955,
     "wof:name":"American Consulting Corp",
     "wof:parent_id":85879091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-88.107543,41.807092,-88.107543,41.807092],
-  "geometry": {"coordinates":[-88.107543,41.807092],"type":"Point"}
+  "bbox": [
+    -88.107543,
+    41.807092,
+    -88.107543,
+    41.807092
+],
+  "geometry": {"coordinates":[-88.10754300000001,41.807092],"type":"Point"}
 }

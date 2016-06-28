@@ -2,13 +2,14 @@
   "id": 286357701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.806339,38.294136,-89.806339,38.294136",
     "geom:latitude":38.294136,
     "geom:longitude":-89.806339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9913 Lenzburg East Rd",
     "sg:city":"Lenzburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286357701,
-    "wof:lastmodified":1449017743,
+    "wof:lastmodified":1466491290,
     "wof:name":"Berger Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.806339,38.294136,-89.806339,38.294136],
-  "geometry": {"coordinates":[-89.806339,38.294136],"type":"Point"}
+  "bbox": [
+    -89.806339,
+    38.294136,
+    -89.806339,
+    38.294136
+],
+  "geometry": {"coordinates":[-89.80633899999999,38.294136],"type":"Point"}
 }

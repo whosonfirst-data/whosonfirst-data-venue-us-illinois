@@ -2,13 +2,14 @@
   "id": 303145513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.887583,41.607119,-87.887583,41.607119",
     "geom:latitude":41.607119,
     "geom:longitude":-87.887583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11110 Fawn Creek Ln",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303145513,
-    "wof:lastmodified":1448998861,
+    "wof:lastmodified":1466492156,
     "wof:name":"Townsend Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.887583,41.607119,-87.887583,41.607119],
-  "geometry": {"coordinates":[-87.887583,41.607119],"type":"Point"}
+  "bbox": [
+    -87.887583,
+    41.607119,
+    -87.887583,
+    41.607119
+],
+  "geometry": {"coordinates":[-87.88758300000001,41.607119],"type":"Point"}
 }

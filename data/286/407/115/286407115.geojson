@@ -2,13 +2,14 @@
   "id": 286407115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.339193,41.769911,-88.339193,41.769911",
     "geom:latitude":41.769911,
     "geom:longitude":-88.339193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 N Elmwood Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286407115,
-    "wof:lastmodified":1449016808,
+    "wof:lastmodified":1466492057,
     "wof:name":"Garfield Management",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-88.339193,41.769911,-88.339193,41.769911],
-  "geometry": {"coordinates":[-88.339193,41.769911],"type":"Point"}
+  "bbox": [
+    -88.339193,
+    41.769911,
+    -88.339193,
+    41.769911
+],
+  "geometry": {"coordinates":[-88.33919299999999,41.769911],"type":"Point"}
 }

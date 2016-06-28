@@ -2,13 +2,14 @@
   "id": 185879599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.694105,39.747425,-89.694105,39.747425",
     "geom:latitude":39.747425,
     "geom:longitude":-89.694105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 Windshire Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185879599,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466489715,
     "wof:name":"Sd 217 Web Design",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "support"
     ]
 },
-  "bbox": [-89.694105,39.747425,-89.694105,39.747425],
-  "geometry": {"coordinates":[-89.694105,39.747425],"type":"Point"}
+  "bbox": [
+    -89.694105,
+    39.747425,
+    -89.694105,
+    39.747425
+],
+  "geometry": {"coordinates":[-89.69410499999999,39.747425],"type":"Point"}
 }

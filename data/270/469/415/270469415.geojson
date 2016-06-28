@@ -2,13 +2,14 @@
   "id": 270469415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.170246,40.468106,-91.170246,40.468106",
     "geom:latitude":40.468106,
     "geom:longitude":-91.170246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Walnut St",
     "sg:city":"Ferris",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270469415,
-    "wof:lastmodified":1449011157,
+    "wof:lastmodified":1466495976,
     "wof:name":"Dallas Rural Water District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-91.170246,40.468106,-91.170246,40.468106],
-  "geometry": {"coordinates":[-91.170246,40.468106],"type":"Point"}
+  "bbox": [
+    -91.170246,
+    40.468106,
+    -91.170246,
+    40.468106
+],
+  "geometry": {"coordinates":[-91.17024600000001,40.468106],"type":"Point"}
 }

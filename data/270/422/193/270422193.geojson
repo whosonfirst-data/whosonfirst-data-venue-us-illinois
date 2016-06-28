@@ -2,13 +2,14 @@
   "id": 270422193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.846494,41.975055,-87.846494,41.975055",
     "geom:latitude":41.975055,
     "geom:longitude":-87.846494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 N East River Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270422193,
-    "wof:lastmodified":1449008825,
+    "wof:lastmodified":1466495464,
     "wof:name":"Avantur Group Inc",
     "wof:parent_id":85809035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-87.846494,41.975055,-87.846494,41.975055],
-  "geometry": {"coordinates":[-87.846494,41.975055],"type":"Point"}
+  "bbox": [
+    -87.846494,
+    41.975055,
+    -87.846494,
+    41.975055
+],
+  "geometry": {"coordinates":[-87.84649400000001,41.975055],"type":"Point"}
 }

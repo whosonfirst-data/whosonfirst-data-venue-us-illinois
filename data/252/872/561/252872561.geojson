@@ -2,13 +2,14 @@
   "id": 252872561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.956276,39.594628,-89.956276,39.594628",
     "geom:latitude":39.594628,
     "geom:longitude":-89.956276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Brooks St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252872561,
-    "wof:lastmodified":1449005509,
+    "wof:lastmodified":1466491087,
     "wof:name":"Waverly Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.956276,39.594628,-89.956276,39.594628],
+  "bbox": [
+    -89.956276,
+    39.594628,
+    -89.956276,
+    39.594628
+],
   "geometry": {"coordinates":[-89.956276,39.594628],"type":"Point"}
 }

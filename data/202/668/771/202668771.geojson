@@ -2,13 +2,14 @@
   "id": 202668771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.808201,41.704935,-87.808201,41.704935",
     "geom:latitude":41.704935,
     "geom:longitude":-87.808201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10061 S 76th Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668771,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466490455,
     "wof:name":"Chicago Wholesale & Imprt Shoe",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shoes"
     ]
 },
-  "bbox": [-87.808201,41.704935,-87.808201,41.704935],
+  "bbox": [
+    -87.808201,
+    41.704935,
+    -87.808201,
+    41.704935
+],
   "geometry": {"coordinates":[-87.808201,41.704935],"type":"Point"}
 }

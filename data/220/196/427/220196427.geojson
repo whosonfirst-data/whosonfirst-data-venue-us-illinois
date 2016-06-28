@@ -2,13 +2,14 @@
   "id": 220196427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101926,41.899946,-88.101926,41.899946",
     "geom:latitude":41.899946,
     "geom:longitude":-88.101926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Schmale Rd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220196427,
-    "wof:lastmodified":1449074220,
+    "wof:lastmodified":1466491327,
     "wof:name":"Pro Wrench Truck Service Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-88.101926,41.899946,-88.101926,41.899946],
-  "geometry": {"coordinates":[-88.101926,41.899946],"type":"Point"}
+  "bbox": [
+    -88.101926,
+    41.899946,
+    -88.101926,
+    41.899946
+],
+  "geometry": {"coordinates":[-88.10192600000001,41.899946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253002693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971015,42.016203,-87.971015,42.016203",
     "geom:latitude":42.016203,
     "geom:longitude":-87.971015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Bonnie Ln",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253002693,
-    "wof:lastmodified":1449065230,
+    "wof:lastmodified":1466489026,
     "wof:name":"Archives",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.971015,42.016203,-87.971015,42.016203],
-  "geometry": {"coordinates":[-87.971015,42.016203],"type":"Point"}
+  "bbox": [
+    -87.971015,
+    42.016203,
+    -87.971015,
+    42.016203
+],
+  "geometry": {"coordinates":[-87.97101499999999,42.016203],"type":"Point"}
 }

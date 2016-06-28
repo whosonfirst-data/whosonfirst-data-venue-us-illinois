@@ -2,13 +2,14 @@
   "id": 203324097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.091603,41.349844,-89.091603,41.349844",
     "geom:latitude":41.349844,
     "geom:longitude":-89.091603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2253 Crosat St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203324097,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466490726,
     "wof:name":"John Pohar & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.091603,41.349844,-89.091603,41.349844],
-  "geometry": {"coordinates":[-89.091603,41.349844],"type":"Point"}
+  "bbox": [
+    -89.091603,
+    41.349844,
+    -89.091603,
+    41.349844
+],
+  "geometry": {"coordinates":[-89.09160300000001,41.349844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253638547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.327177,38.667711,-89.327177,38.667711",
     "geom:latitude":38.667711,
     "geom:longitude":-89.327177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20100 Hazlet Park Rd",
     "sg:city":"Carlyle",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253638547,
-    "wof:lastmodified":1449062980,
+    "wof:lastmodified":1466497150,
     "wof:name":"Hazlet State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-89.327177,38.667711,-89.327177,38.667711],
-  "geometry": {"coordinates":[-89.327177,38.667711],"type":"Point"}
+  "bbox": [
+    -89.327177,
+    38.667711,
+    -89.327177,
+    38.667711
+],
+  "geometry": {"coordinates":[-89.32717700000001,38.667711],"type":"Point"}
 }

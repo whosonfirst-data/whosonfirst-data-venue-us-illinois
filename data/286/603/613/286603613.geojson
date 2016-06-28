@@ -2,13 +2,14 @@
   "id": 286603613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080571,41.800618,-88.080571,41.800618",
     "geom:latitude":41.800618,
     "geom:longitude":-88.080571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 E Ogden Ave",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286603613,
-    "wof:lastmodified":1449017653,
+    "wof:lastmodified":1466495248,
     "wof:name":"Lisle Automotive & Tire",
     "wof:parent_id":85890827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.080571,41.800618,-88.080571,41.800618],
-  "geometry": {"coordinates":[-88.080571,41.800618],"type":"Point"}
+  "bbox": [
+    -88.080571,
+    41.800618,
+    -88.080571,
+    41.800618
+],
+  "geometry": {"coordinates":[-88.08057100000001,41.800618],"type":"Point"}
 }

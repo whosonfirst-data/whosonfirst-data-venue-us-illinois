@@ -2,13 +2,14 @@
   "id": 203136505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753369,41.602882,-87.753369,41.602882",
     "geom:latitude":41.602882,
     "geom:longitude":-87.753369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5459 159th St",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203136505,
-    "wof:lastmodified":1449026857,
+    "wof:lastmodified":1466495291,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.753369,41.602882,-87.753369,41.602882],
-  "geometry": {"coordinates":[-87.753369,41.602882],"type":"Point"}
+  "bbox": [
+    -87.753369,
+    41.602882,
+    -87.753369,
+    41.602882
+],
+  "geometry": {"coordinates":[-87.75336900000001,41.602882],"type":"Point"}
 }

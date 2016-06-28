@@ -2,13 +2,14 @@
   "id": 236612345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306404,41.742396,-88.306404,41.742396",
     "geom:latitude":41.742396,
     "geom:longitude":-88.306404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Hinman St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236612345,
-    "wof:lastmodified":1449003053,
+    "wof:lastmodified":1466496762,
     "wof:name":"Tutoring By Net",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-88.306404,41.742396,-88.306404,41.742396],
+  "bbox": [
+    -88.306404,
+    41.742396,
+    -88.306404,
+    41.742396
+],
   "geometry": {"coordinates":[-88.306404,41.742396],"type":"Point"}
 }

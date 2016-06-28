@@ -2,13 +2,14 @@
   "id": 270446705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160875,41.542001,-88.160875,41.542001",
     "geom:latitude":41.542001,
     "geom:longitude":-88.160875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 Essington Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270446705,
-    "wof:lastmodified":1449010882,
+    "wof:lastmodified":1466495752,
     "wof:name":"Mattress World",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-88.160875,41.542001,-88.160875,41.542001],
+  "bbox": [
+    -88.160875,
+    41.542001,
+    -88.160875,
+    41.542001
+],
   "geometry": {"coordinates":[-88.160875,41.542001],"type":"Point"}
 }

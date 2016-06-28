@@ -2,13 +2,14 @@
   "id": 303056207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.122489,41.591288,-88.122489,41.591288",
     "geom:latitude":41.591288,
     "geom:longitude":-88.122489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16151 Weber Rd",
     "sg:city":"Crest Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303056207,
-    "wof:lastmodified":1448998816,
+    "wof:lastmodified":1466490725,
     "wof:name":"Center Pediatric Sub Spec",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.122489,41.591288,-88.122489,41.591288],
+  "bbox": [
+    -88.122489,
+    41.591288,
+    -88.122489,
+    41.591288
+],
   "geometry": {"coordinates":[-88.122489,41.591288],"type":"Point"}
 }

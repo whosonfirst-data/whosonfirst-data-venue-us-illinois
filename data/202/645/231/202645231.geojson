@@ -2,13 +2,14 @@
   "id": 202645231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563857,41.751688,-87.563857,41.751688",
     "geom:latitude":41.751688,
     "geom:longitude":-87.563857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2433 E 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202645231,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466490189,
     "wof:name":"Steel City Currency Exchange",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exchange"
     ]
 },
-  "bbox": [-87.563857,41.751688,-87.563857,41.751688],
+  "bbox": [
+    -87.563857,
+    41.751688,
+    -87.563857,
+    41.751688
+],
   "geometry": {"coordinates":[-87.563857,41.751688],"type":"Point"}
 }

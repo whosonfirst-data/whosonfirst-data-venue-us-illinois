@@ -2,13 +2,14 @@
   "id": 236795417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.9505,41.908554,-87.9505,41.908554",
     "geom:latitude":41.908554,
     "geom:longitude":-87.9505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Walnut St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236795417,
-    "wof:lastmodified":1449003630,
+    "wof:lastmodified":1466497845,
     "wof:name":"API.NET",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.9505,41.908554,-87.9505,41.908554],
-  "geometry": {"coordinates":[-87.9505,41.908554],"type":"Point"}
+  "bbox": [
+    -87.9505,
+    41.908554,
+    -87.9505,
+    41.908554
+],
+  "geometry": {"coordinates":[-87.95050000000001,41.908554],"type":"Point"}
 }

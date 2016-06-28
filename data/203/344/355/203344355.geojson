@@ -2,13 +2,14 @@
   "id": 203344355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272596,40.702763,-89.272596,40.702763",
     "geom:latitude":40.702763,
     "geom:longitude":-89.272596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 S Main St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203344355,
-    "wof:lastmodified":1449025045,
+    "wof:lastmodified":1466490962,
     "wof:name":"Eureka License & Title Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "license"
     ]
 },
-  "bbox": [-89.272596,40.702763,-89.272596,40.702763],
-  "geometry": {"coordinates":[-89.272596,40.702763],"type":"Point"}
+  "bbox": [
+    -89.272596,
+    40.702763,
+    -89.272596,
+    40.702763
+],
+  "geometry": {"coordinates":[-89.27259599999999,40.702763],"type":"Point"}
 }

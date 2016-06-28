@@ -2,13 +2,14 @@
   "id": 286522743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.167651,41.573037,-88.167651,41.573037",
     "geom:latitude":41.573037,
     "geom:longitude":-88.167651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3583 Hennepin Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286522743,
-    "wof:lastmodified":1449016593,
+    "wof:lastmodified":1466493899,
     "wof:name":"L A Tan",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-88.167651,41.573037,-88.167651,41.573037],
-  "geometry": {"coordinates":[-88.167651,41.573037],"type":"Point"}
+  "bbox": [
+    -88.167651,
+    41.573037,
+    -88.167651,
+    41.573037
+],
+  "geometry": {"coordinates":[-88.16765100000001,41.573037],"type":"Point"}
 }

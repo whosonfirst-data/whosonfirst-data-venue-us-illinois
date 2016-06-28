@@ -2,13 +2,14 @@
   "id": 303078813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086986,41.549027,-88.086986,41.549027",
     "geom:latitude":41.549027,
     "geom:longitude":-88.086986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Broadway St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303078813,
-    "wof:lastmodified":1449000179,
+    "wof:lastmodified":1466491075,
     "wof:name":"J & G Dental Lab",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-88.086986,41.549027,-88.086986,41.549027],
+  "bbox": [
+    -88.086986,
+    41.549027,
+    -88.086986,
+    41.549027
+],
   "geometry": {"coordinates":[-88.086986,41.549027],"type":"Point"}
 }

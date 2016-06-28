@@ -2,13 +2,14 @@
   "id": 185825081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.780611,39.454492,-89.780611,39.454492",
     "geom:latitude":39.454492,
     "geom:longitude":-89.780611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N 3rd St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185825081,
-    "wof:lastmodified":1449006638,
+    "wof:lastmodified":1466489187,
     "wof:name":"C S C Motor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-89.780611,39.454492,-89.780611,39.454492],
-  "geometry": {"coordinates":[-89.780611,39.454492],"type":"Point"}
+  "bbox": [
+    -89.780611,
+    39.454492,
+    -89.780611,
+    39.454492
+],
+  "geometry": {"coordinates":[-89.78061099999999,39.454492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202475571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.040461,41.794248,-88.040461,41.794248",
     "geom:latitude":41.794248,
     "geom:longitude":-88.040461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Chase Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202475571,
-    "wof:lastmodified":1449061166,
+    "wof:lastmodified":1466494709,
     "wof:name":"Digital Printing Inc",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.040461,41.794248,-88.040461,41.794248],
-  "geometry": {"coordinates":[-88.040461,41.794248],"type":"Point"}
+  "bbox": [
+    -88.040461,
+    41.794248,
+    -88.040461,
+    41.794248
+],
+  "geometry": {"coordinates":[-88.04046099999999,41.794248],"type":"Point"}
 }

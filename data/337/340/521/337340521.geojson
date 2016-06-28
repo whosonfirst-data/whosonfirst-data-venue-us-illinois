@@ -2,13 +2,14 @@
   "id": 337340521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.641313,41.885698,-87.641313,41.885698",
     "geom:latitude":41.885698,
     "geom:longitude":-87.641313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 W Lake St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337340521,
-    "wof:lastmodified":1449027567,
+    "wof:lastmodified":1466491734,
     "wof:name":"Invesco Global Capital LLC",
     "wof:parent_id":85868439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-87.641313,41.885698,-87.641313,41.885698],
+  "bbox": [
+    -87.641313,
+    41.885698,
+    -87.641313,
+    41.885698
+],
   "geometry": {"coordinates":[-87.641313,41.885698],"type":"Point"}
 }

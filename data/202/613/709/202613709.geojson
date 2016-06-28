@@ -2,13 +2,14 @@
   "id": 202613709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.049889,41.532957,-88.049889,41.532957",
     "geom:latitude":41.532957,
     "geom:longitude":-88.049889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Ridgewood Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202613709,
-    "wof:lastmodified":1449061305,
+    "wof:lastmodified":1466489823,
     "wof:name":"St Bernard's Church",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.049889,41.532957,-88.049889,41.532957],
-  "geometry": {"coordinates":[-88.049889,41.532957],"type":"Point"}
+  "bbox": [
+    -88.049889,
+    41.532957,
+    -88.049889,
+    41.532957
+],
+  "geometry": {"coordinates":[-88.04988899999999,41.532957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253465103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.492736,40.928765,-89.492736,40.928765",
     "geom:latitude":40.928765,
     "geom:longitude":-89.492736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 N Logan St",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":253465103,
-    "wof:lastmodified":1449064827,
+    "wof:lastmodified":1466495291,
     "wof:name":"Kimberly Hoskins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "design"
     ]
 },
-  "bbox": [-89.492736,40.928765,-89.492736,40.928765],
-  "geometry": {"coordinates":[-89.492736,40.928765],"type":"Point"}
+  "bbox": [
+    -89.492736,
+    40.928765,
+    -89.492736,
+    40.928765
+],
+  "geometry": {"coordinates":[-89.49273599999999,40.928765],"type":"Point"}
 }

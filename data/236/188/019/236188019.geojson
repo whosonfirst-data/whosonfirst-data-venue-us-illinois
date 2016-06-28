@@ -2,13 +2,14 @@
   "id": 236188019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.209579,38.514581,-90.209579,38.514581",
     "geom:latitude":38.514581,
     "geom:longitude":-90.209579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Main St",
     "sg:city":"Dupo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236188019,
-    "wof:lastmodified":1449003259,
+    "wof:lastmodified":1466491282,
     "wof:name":"Complete Striping & Ceiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-90.209579,38.514581,-90.209579,38.514581],
-  "geometry": {"coordinates":[-90.209579,38.514581],"type":"Point"}
+  "bbox": [
+    -90.209579,
+    38.514581,
+    -90.209579,
+    38.514581
+],
+  "geometry": {"coordinates":[-90.20957900000001,38.514581],"type":"Point"}
 }

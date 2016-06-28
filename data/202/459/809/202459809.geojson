@@ -2,13 +2,14 @@
   "id": 202459809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.296202,40.120924,-88.296202,40.120924",
     "geom:latitude":40.120924,
     "geom:longitude":-88.296202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Creve Coeur Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202459809,
-    "wof:lastmodified":1449061144,
+    "wof:lastmodified":1466494483,
     "wof:name":"Julie Boparai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.296202,40.120924,-88.296202,40.120924],
-  "geometry": {"coordinates":[-88.296202,40.120924],"type":"Point"}
+  "bbox": [
+    -88.296202,
+    40.120924,
+    -88.296202,
+    40.120924
+],
+  "geometry": {"coordinates":[-88.29620199999999,40.120924],"type":"Point"}
 }

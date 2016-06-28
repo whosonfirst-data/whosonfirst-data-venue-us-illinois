@@ -2,13 +2,14 @@
   "id": 220074351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109017,41.415009,-88.109017,41.415009",
     "geom:latitude":41.415009,
     "geom:longitude":-88.109017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Cottonwood Dr",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220074351,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466489860,
     "wof:name":"Custom Signz & Designz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-88.109017,41.415009,-88.109017,41.415009],
-  "geometry": {"coordinates":[-88.109017,41.415009],"type":"Point"}
+  "bbox": [
+    -88.109017,
+    41.415009,
+    -88.109017,
+    41.415009
+],
+  "geometry": {"coordinates":[-88.10901699999999,41.415009],"type":"Point"}
 }

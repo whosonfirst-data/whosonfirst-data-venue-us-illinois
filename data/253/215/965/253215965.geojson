@@ -2,13 +2,14 @@
   "id": 253215965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.493957,41.900645,-88.493957,41.900645",
     "geom:latitude":41.900645,
     "geom:longitude":-88.493957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Saddlewood Dr",
     "sg:city":"Maple Park",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253215965,
-    "wof:lastmodified":1449065252,
+    "wof:lastmodified":1466491535,
     "wof:name":"Ivan R York",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.493957,41.900645,-88.493957,41.900645],
-  "geometry": {"coordinates":[-88.493957,41.900645],"type":"Point"}
+  "bbox": [
+    -88.493957,
+    41.900645,
+    -88.493957,
+    41.900645
+],
+  "geometry": {"coordinates":[-88.49395699999999,41.900645],"type":"Point"}
 }

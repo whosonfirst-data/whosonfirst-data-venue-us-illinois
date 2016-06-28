@@ -2,13 +2,14 @@
   "id": 202619435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.152288,41.522113,-88.152288,41.522113",
     "geom:latitude":41.522113,
     "geom:longitude":-88.152288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2941 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202619435,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1466489889,
     "wof:name":"Cardinal Wine & Spirits",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.152288,41.522113,-88.152288,41.522113],
+  "bbox": [
+    -88.152288,
+    41.522113,
+    -88.152288,
+    41.522113
+],
   "geometry": {"coordinates":[-88.152288,41.522113],"type":"Point"}
 }

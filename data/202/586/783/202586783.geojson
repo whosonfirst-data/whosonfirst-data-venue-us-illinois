@@ -2,13 +2,14 @@
   "id": 202586783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902977,40.973597,-87.902977,40.973597",
     "geom:latitude":40.973597,
     "geom:longitude":-87.902977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 E 3200 North Rd",
     "sg:city":"Chebanse",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202586783,
-    "wof:lastmodified":1449062355,
+    "wof:lastmodified":1466489517,
     "wof:name":"Dennis Sorenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902977,40.973597,-87.902977,40.973597],
-  "geometry": {"coordinates":[-87.902977,40.973597],"type":"Point"}
+  "bbox": [
+    -87.902977,
+    40.973597,
+    -87.902977,
+    40.973597
+],
+  "geometry": {"coordinates":[-87.90297700000001,40.973597],"type":"Point"}
 }

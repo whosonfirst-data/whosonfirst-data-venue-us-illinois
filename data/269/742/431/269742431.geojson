@@ -2,13 +2,14 @@
   "id": 269742431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.818791,41.332106,-88.818791,41.332106",
     "geom:latitude":41.332106,
     "geom:longitude":-88.818791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1782 Gentleman Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269742431,
-    "wof:lastmodified":1449036306,
+    "wof:lastmodified":1466493105,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.818791,41.332106,-88.818791,41.332106],
+  "bbox": [
+    -88.818791,
+    41.332106,
+    -88.818791,
+    41.332106
+],
   "geometry": {"coordinates":[-88.818791,41.332106],"type":"Point"}
 }

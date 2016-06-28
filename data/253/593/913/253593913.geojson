@@ -2,13 +2,14 @@
   "id": 253593913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.795105,41.689958,-87.795105,41.689958",
     "geom:latitude":41.689958,
     "geom:longitude":-87.795105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7013 W 111th St",
     "sg:city":"Worth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253593913,
-    "wof:lastmodified":1449064799,
+    "wof:lastmodified":1466496701,
     "wof:name":"Everest Group LLC",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.795105,41.689958,-87.795105,41.689958],
-  "geometry": {"coordinates":[-87.795105,41.689958],"type":"Point"}
+  "bbox": [
+    -87.795105,
+    41.689958,
+    -87.795105,
+    41.689958
+],
+  "geometry": {"coordinates":[-87.79510500000001,41.689958],"type":"Point"}
 }

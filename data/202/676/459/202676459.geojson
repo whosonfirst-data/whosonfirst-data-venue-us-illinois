@@ -2,13 +2,14 @@
   "id": 202676459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104116,41.833728,-88.104116,41.833728",
     "geom:latitude":41.833728,
     "geom:longitude":-88.104116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Danada Sq W",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202676459,
-    "wof:lastmodified":1449061715,
+    "wof:lastmodified":1466490544,
     "wof:name":"Wheaton South Station",
     "wof:parent_id":85891061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104116,41.833728,-88.104116,41.833728],
+  "bbox": [
+    -88.104116,
+    41.833728,
+    -88.104116,
+    41.833728
+],
   "geometry": {"coordinates":[-88.104116,41.833728],"type":"Point"}
 }

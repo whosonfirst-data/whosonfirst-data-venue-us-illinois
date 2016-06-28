@@ -2,13 +2,14 @@
   "id": 252887943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.341372,41.89139,-89.341372,41.89139",
     "geom:latitude":41.89139,
     "geom:longitude":-89.341372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8772 S Lowden Rd",
     "sg:city":"Franklin Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252887943,
-    "wof:lastmodified":1449006284,
+    "wof:lastmodified":1466491278,
     "wof:name":"Nature Conservancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.341372,41.89139,-89.341372,41.89139],
-  "geometry": {"coordinates":[-89.341372,41.89139],"type":"Point"}
+  "bbox": [
+    -89.341372,
+    41.89139,
+    -89.341372,
+    41.89139
+],
+  "geometry": {"coordinates":[-89.34137200000001,41.89139],"type":"Point"}
 }

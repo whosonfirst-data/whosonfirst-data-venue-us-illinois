@@ -2,13 +2,14 @@
   "id": 203286017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706942,41.905245,-87.706942,41.905245",
     "geom:latitude":41.905245,
     "geom:longitude":-87.706942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 N Kedzie Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203286017,
-    "wof:lastmodified":1449025411,
+    "wof:lastmodified":1466490315,
     "wof:name":"De Leon Consultants Inc",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-87.706942,41.905245,-87.706942,41.905245],
+  "bbox": [
+    -87.706942,
+    41.905245,
+    -87.706942,
+    41.905245
+],
   "geometry": {"coordinates":[-87.706942,41.905245],"type":"Point"}
 }

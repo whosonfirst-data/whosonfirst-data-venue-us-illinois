@@ -2,13 +2,14 @@
   "id": 253495551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.288316,40.112867,-88.288316,40.112867",
     "geom:latitude":40.112867,
     "geom:longitude":-88.288316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 W Springfield Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253495551,
-    "wof:lastmodified":1449064131,
+    "wof:lastmodified":1466495888,
     "wof:name":"New Day Cmnty Church Nazarene",
     "wof:parent_id":85828151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.288316,40.112867,-88.288316,40.112867],
-  "geometry": {"coordinates":[-88.288316,40.112867],"type":"Point"}
+  "bbox": [
+    -88.288316,
+    40.112867,
+    -88.288316,
+    40.112867
+],
+  "geometry": {"coordinates":[-88.28831599999999,40.112867],"type":"Point"}
 }

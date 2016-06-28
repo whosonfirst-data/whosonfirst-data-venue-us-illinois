@@ -2,13 +2,14 @@
   "id": 252762325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.719001,42.0409,-87.719001,42.0409",
     "geom:latitude":42.0409,
     "geom:longitude":-87.719001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 Dempster St",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252762325,
-    "wof:lastmodified":1449006169,
+    "wof:lastmodified":1466489693,
     "wof:name":"Eddie's Car Wash",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-87.719001,42.0409,-87.719001,42.0409],
-  "geometry": {"coordinates":[-87.719001,42.0409],"type":"Point"}
+  "bbox": [
+    -87.719001,
+    42.0409,
+    -87.719001,
+    42.0409
+],
+  "geometry": {"coordinates":[-87.71900100000001,42.0409],"type":"Point"}
 }

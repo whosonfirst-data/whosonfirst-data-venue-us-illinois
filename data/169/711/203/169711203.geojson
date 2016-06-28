@@ -2,13 +2,14 @@
   "id": 169711203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.287834,39.799832,-88.287834,39.799832",
     "geom:latitude":39.799832,
     "geom:longitude":-88.287834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Sale St",
     "sg:city":"Tuscola",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169711203,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466489834,
     "wof:name":"State of Illinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-88.287834,39.799832,-88.287834,39.799832],
+  "bbox": [
+    -88.287834,
+    39.799832,
+    -88.287834,
+    39.799832
+],
   "geometry": {"coordinates":[-88.287834,39.799832],"type":"Point"}
 }

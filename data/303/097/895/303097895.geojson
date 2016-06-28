@@ -2,13 +2,14 @@
   "id": 303097895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.619813,41.004775,-88.619813,41.004775",
     "geom:latitude":41.004775,
     "geom:longitude":-88.619813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10268 Co Hwy 1",
     "sg:city":"Chicago Ridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303097895,
-    "wof:lastmodified":1448999084,
+    "wof:lastmodified":1466491366,
     "wof:name":"Sandra Justad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-88.619813,41.004775,-88.619813,41.004775],
-  "geometry": {"coordinates":[-88.619813,41.004775],"type":"Point"}
+  "bbox": [
+    -88.619813,
+    41.004775,
+    -88.619813,
+    41.004775
+],
+  "geometry": {"coordinates":[-88.61981299999999,41.004775],"type":"Point"}
 }

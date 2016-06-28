@@ -2,13 +2,14 @@
   "id": 270001167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.609038,42.28125,-89.609038,42.28125",
     "geom:latitude":42.28125,
     "geom:longitude":-89.609038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 S Sleezer Home Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270001167,
-    "wof:lastmodified":1449009180,
+    "wof:lastmodified":1466489054,
     "wof:name":"Altman Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.609038,42.28125,-89.609038,42.28125],
+  "bbox": [
+    -89.609038,
+    42.28125,
+    -89.609038,
+    42.28125
+],
   "geometry": {"coordinates":[-89.609038,42.28125],"type":"Point"}
 }

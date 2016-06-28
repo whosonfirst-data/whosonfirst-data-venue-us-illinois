@@ -2,13 +2,14 @@
   "id": 202819951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940981,41.492084,-87.940981,41.492084",
     "geom:latitude":41.492084,
     "geom:longitude":-87.940981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Spencer Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202819951,
-    "wof:lastmodified":1449060711,
+    "wof:lastmodified":1466492193,
     "wof:name":"Davic Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.940981,41.492084,-87.940981,41.492084],
-  "geometry": {"coordinates":[-87.940981,41.492084],"type":"Point"}
+  "bbox": [
+    -87.940981,
+    41.492084,
+    -87.940981,
+    41.492084
+],
+  "geometry": {"coordinates":[-87.94098099999999,41.492084],"type":"Point"}
 }

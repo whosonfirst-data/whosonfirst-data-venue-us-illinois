@@ -2,13 +2,14 @@
   "id": 286852925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76945,41.908716,-87.76945,41.908716",
     "geom:latitude":41.908716,
     "geom:longitude":-87.76945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 N Massasoit Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286852925,
-    "wof:lastmodified":1449017612,
+    "wof:lastmodified":1466497783,
     "wof:name":"Focus Developmental Institute",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tutoring"
     ]
 },
-  "bbox": [-87.76945,41.908716,-87.76945,41.908716],
-  "geometry": {"coordinates":[-87.76945,41.908716],"type":"Point"}
+  "bbox": [
+    -87.76945,
+    41.908716,
+    -87.76945,
+    41.908716
+],
+  "geometry": {"coordinates":[-87.76945000000001,41.908716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337394041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.57174,41.57165,-87.57174,41.57165",
     "geom:latitude":41.57165,
     "geom:longitude":-87.57174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17951 Chappel Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337394041,
-    "wof:lastmodified":1449027076,
+    "wof:lastmodified":1466491985,
     "wof:name":"Air Rite Heating & Cooling",
     "wof:parent_id":85890927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.57174,41.57165,-87.57174,41.57165],
-  "geometry": {"coordinates":[-87.57174,41.57165],"type":"Point"}
+  "bbox": [
+    -87.57174,
+    41.57165,
+    -87.57174,
+    41.57165
+],
+  "geometry": {"coordinates":[-87.57174000000001,41.57165],"type":"Point"}
 }

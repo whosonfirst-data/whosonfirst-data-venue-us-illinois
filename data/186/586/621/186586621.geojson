@@ -2,13 +2,14 @@
   "id": 186586621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.671458,41.943687,-87.671458,41.943687",
     "geom:latitude":41.943687,
     "geom:longitude":-87.671458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186586621,
-    "wof:lastmodified":1449052715,
+    "wof:lastmodified":1466489252,
     "wof:name":"Goodyear",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-87.671458,41.943687,-87.671458,41.943687],
+  "bbox": [
+    -87.671458,
+    41.943687,
+    -87.671458,
+    41.943687
+],
   "geometry": {"coordinates":[-87.671458,41.943687],"type":"Point"}
 }

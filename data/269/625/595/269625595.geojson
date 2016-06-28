@@ -2,13 +2,14 @@
   "id": 269625595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.775648,41.984443,-87.775648,41.984443",
     "geom:latitude":41.984443,
     "geom:longitude":-87.775648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5691 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269625595,
-    "wof:lastmodified":1449039015,
+    "wof:lastmodified":1466491235,
     "wof:name":"Pizzaco Ltd",
     "wof:parent_id":85867615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-87.775648,41.984443,-87.775648,41.984443],
+  "bbox": [
+    -87.775648,
+    41.984443,
+    -87.775648,
+    41.984443
+],
   "geometry": {"coordinates":[-87.775648,41.984443],"type":"Point"}
 }

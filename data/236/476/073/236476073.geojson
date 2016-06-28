@@ -2,13 +2,14 @@
   "id": 236476073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.534889,39.119789,-88.534889,39.119789",
     "geom:latitude":39.119789,
     "geom:longitude":-88.534889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Fayette Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236476073,
-    "wof:lastmodified":1449002898,
+    "wof:lastmodified":1466495065,
     "wof:name":"Kirby Risk Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.534889,39.119789,-88.534889,39.119789],
-  "geometry": {"coordinates":[-88.534889,39.119789],"type":"Point"}
+  "bbox": [
+    -88.534889,
+    39.119789,
+    -88.534889,
+    39.119789
+],
+  "geometry": {"coordinates":[-88.53488900000001,39.119789],"type":"Point"}
 }

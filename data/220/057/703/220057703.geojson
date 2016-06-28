@@ -2,13 +2,14 @@
   "id": 220057703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111748,42.202516,-88.111748,42.202516",
     "geom:latitude":42.202516,
     "geom:longitude":-88.111748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 N Rand Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220057703,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466489652,
     "wof:name":"Premiere Locations",
     "wof:parent_id":85867895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-88.111748,42.202516,-88.111748,42.202516],
-  "geometry": {"coordinates":[-88.111748,42.202516],"type":"Point"}
+  "bbox": [
+    -88.111748,
+    42.202516,
+    -88.111748,
+    42.202516
+],
+  "geometry": {"coordinates":[-88.11174800000001,42.202516],"type":"Point"}
 }

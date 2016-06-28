@@ -2,13 +2,14 @@
   "id": 202545515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764547,41.701482,-87.764547,41.701482",
     "geom:latitude":41.701482,
     "geom:longitude":-87.764547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 Menard Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202545515,
-    "wof:lastmodified":1449060722,
+    "wof:lastmodified":1466489017,
     "wof:name":"Carringtons Quality Carpet",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.764547,41.701482,-87.764547,41.701482],
-  "geometry": {"coordinates":[-87.764547,41.701482],"type":"Point"}
+  "bbox": [
+    -87.764547,
+    41.701482,
+    -87.764547,
+    41.701482
+],
+  "geometry": {"coordinates":[-87.76454699999999,41.701482],"type":"Point"}
 }

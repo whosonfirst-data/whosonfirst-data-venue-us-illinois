@@ -2,13 +2,14 @@
   "id": 269921357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.145282,42.251339,-88.145282,42.251339",
     "geom:latitude":42.251339,
     "geom:longitude":-88.145282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Barrington Rd",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269921357,
-    "wof:lastmodified":1449037665,
+    "wof:lastmodified":1466496237,
     "wof:name":"Waters Edge School",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.145282,42.251339,-88.145282,42.251339],
-  "geometry": {"coordinates":[-88.145282,42.251339],"type":"Point"}
+  "bbox": [
+    -88.145282,
+    42.251339,
+    -88.145282,
+    42.251339
+],
+  "geometry": {"coordinates":[-88.14528199999999,42.251339],"type":"Point"}
 }

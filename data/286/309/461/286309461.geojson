@@ -2,13 +2,14 @@
   "id": 286309461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706527,41.720756,-87.706527,41.720756",
     "geom:latitude":41.720756,
     "geom:longitude":-87.706527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3346 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286309461,
-    "wof:lastmodified":1449015825,
+    "wof:lastmodified":1466490559,
     "wof:name":"Perfect Touch",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-87.706527,41.720756,-87.706527,41.720756],
-  "geometry": {"coordinates":[-87.706527,41.720756],"type":"Point"}
+  "bbox": [
+    -87.706527,
+    41.720756,
+    -87.706527,
+    41.720756
+],
+  "geometry": {"coordinates":[-87.70652699999999,41.720756],"type":"Point"}
 }

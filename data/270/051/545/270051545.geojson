@@ -2,13 +2,14 @@
   "id": 270051545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.379955,40.549675,-91.379955,40.549675",
     "geom:latitude":40.549675,
     "geom:longitude":-91.379955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 State Rte 96",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270051545,
-    "wof:lastmodified":1449010152,
+    "wof:lastmodified":1466489803,
     "wof:name":"Great Lakes Boat Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-91.379955,40.549675,-91.379955,40.549675],
+  "bbox": [
+    -91.379955,
+    40.549675,
+    -91.379955,
+    40.549675
+],
   "geometry": {"coordinates":[-91.379955,40.549675],"type":"Point"}
 }

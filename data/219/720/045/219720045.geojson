@@ -2,13 +2,14 @@
   "id": 219720045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.629632,40.182587,-87.629632,40.182587",
     "geom:latitude":40.182587,
     "geom:longitude":-87.629632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Poland Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219720045,
-    "wof:lastmodified":1449071239,
+    "wof:lastmodified":1466495909,
     "wof:name":"Miller's Tree Svc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-87.629632,40.182587,-87.629632,40.182587],
+  "bbox": [
+    -87.629632,
+    40.182587,
+    -87.629632,
+    40.182587
+],
   "geometry": {"coordinates":[-87.629632,40.182587],"type":"Point"}
 }

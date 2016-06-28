@@ -2,13 +2,14 @@
   "id": 252817247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.931739,38.540734,-89.931739,38.540734",
     "geom:latitude":38.540734,
     "geom:longitude":-89.931739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Hartfield Ln",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252817247,
-    "wof:lastmodified":1449006290,
+    "wof:lastmodified":1466490393,
     "wof:name":"CTD Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-89.931739,38.540734,-89.931739,38.540734],
-  "geometry": {"coordinates":[-89.931739,38.540734],"type":"Point"}
+  "bbox": [
+    -89.931739,
+    38.540734,
+    -89.931739,
+    38.540734
+],
+  "geometry": {"coordinates":[-89.93173899999999,38.540734],"type":"Point"}
 }

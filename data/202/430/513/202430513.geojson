@@ -2,13 +2,14 @@
   "id": 202430513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794629,41.531433,-87.794629,41.531433",
     "geom:latitude":41.531433,
     "geom:longitude":-87.794629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 W Benton Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202430513,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466493815,
     "wof:name":"Canvas Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-87.794629,41.531433,-87.794629,41.531433],
+  "bbox": [
+    -87.794629,
+    41.531433,
+    -87.794629,
+    41.531433
+],
   "geometry": {"coordinates":[-87.794629,41.531433],"type":"Point"}
 }

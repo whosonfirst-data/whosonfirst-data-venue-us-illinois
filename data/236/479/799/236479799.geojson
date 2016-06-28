@@ -2,13 +2,14 @@
   "id": 236479799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.635501,39.975324,-87.635501,39.975324",
     "geom:latitude":39.975324,
     "geom:longitude":-87.635501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E West St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236479799,
-    "wof:lastmodified":1449004000,
+    "wof:lastmodified":1466495113,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-87.635501,39.975324,-87.635501,39.975324],
+  "bbox": [
+    -87.635501,
+    39.975324,
+    -87.635501,
+    39.975324
+],
   "geometry": {"coordinates":[-87.635501,39.975324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220000615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.118153,41.327558,-89.118153,41.327558",
     "geom:latitude":41.327558,
     "geom:longitude":-89.118153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 4th St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220000615,
-    "wof:lastmodified":1449074165,
+    "wof:lastmodified":1466488952,
     "wof:name":"Nightingales Private Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-89.118153,41.327558,-89.118153,41.327558],
-  "geometry": {"coordinates":[-89.118153,41.327558],"type":"Point"}
+  "bbox": [
+    -89.118153,
+    41.327558,
+    -89.118153,
+    41.327558
+],
+  "geometry": {"coordinates":[-89.11815300000001,41.327558],"type":"Point"}
 }

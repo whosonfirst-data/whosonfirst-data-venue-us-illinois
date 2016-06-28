@@ -2,13 +2,14 @@
   "id": 236105489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.711323,41.983495,-87.711323,41.983495",
     "geom:latitude":41.983495,
     "geom:longitude":-87.711323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 N Spaulding Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236105489,
-    "wof:lastmodified":1449002805,
+    "wof:lastmodified":1466490249,
     "wof:name":"Chicago Korean Amer Chamber Cm",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-87.711323,41.983495,-87.711323,41.983495],
-  "geometry": {"coordinates":[-87.711323,41.983495],"type":"Point"}
+  "bbox": [
+    -87.711323,
+    41.983495,
+    -87.711323,
+    41.983495
+],
+  "geometry": {"coordinates":[-87.71132299999999,41.983495],"type":"Point"}
 }

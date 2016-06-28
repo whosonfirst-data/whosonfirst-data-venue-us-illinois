@@ -2,13 +2,14 @@
   "id": 253732451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.245944,41.748281,-88.245944,41.748281",
     "geom:latitude":41.748281,
     "geom:longitude":-88.245944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Cimarron Dr W",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253732451,
-    "wof:lastmodified":1449065889,
+    "wof:lastmodified":1466497765,
     "wof:name":"B A Janitor & Son Inc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.245944,41.748281,-88.245944,41.748281],
-  "geometry": {"coordinates":[-88.245944,41.748281],"type":"Point"}
+  "bbox": [
+    -88.245944,
+    41.748281,
+    -88.245944,
+    41.748281
+],
+  "geometry": {"coordinates":[-88.24594399999999,41.748281],"type":"Point"}
 }

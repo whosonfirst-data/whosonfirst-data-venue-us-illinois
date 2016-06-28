@@ -2,13 +2,14 @@
   "id": 252761315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616556,41.814936,-87.616556,41.814936",
     "geom:latitude":41.814936,
     "geom:longitude":-87.616556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 S King Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252761315,
-    "wof:lastmodified":1449006246,
+    "wof:lastmodified":1466489677,
     "wof:name":"Murphy J Hughes",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-87.616556,41.814936,-87.616556,41.814936],
+  "bbox": [
+    -87.616556,
+    41.814936,
+    -87.616556,
+    41.814936
+],
   "geometry": {"coordinates":[-87.616556,41.814936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220113515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147567,41.949059,-88.147567,41.949059",
     "geom:latitude":41.949059,
     "geom:longitude":-88.147567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4175 Chandler Dr",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220113515,
-    "wof:lastmodified":1449074806,
+    "wof:lastmodified":1466490330,
     "wof:name":"Iron Mountain Information MGT",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "record"
     ]
 },
-  "bbox": [-88.147567,41.949059,-88.147567,41.949059],
+  "bbox": [
+    -88.147567,
+    41.949059,
+    -88.147567,
+    41.949059
+],
   "geometry": {"coordinates":[-88.147567,41.949059],"type":"Point"}
 }

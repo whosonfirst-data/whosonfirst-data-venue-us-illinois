@@ -2,13 +2,14 @@
   "id": 235972843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.642829,40.886467,-89.642829,40.886467",
     "geom:latitude":40.886467,
     "geom:longitude":-89.642829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 W Hicks Hollow Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235972843,
-    "wof:lastmodified":1449008420,
+    "wof:lastmodified":1466489456,
     "wof:name":"McCullough Electric",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.642829,40.886467,-89.642829,40.886467],
-  "geometry": {"coordinates":[-89.642829,40.886467],"type":"Point"}
+  "bbox": [
+    -89.642829,
+    40.886467,
+    -89.642829,
+    40.886467
+],
+  "geometry": {"coordinates":[-89.64282900000001,40.886467],"type":"Point"}
 }

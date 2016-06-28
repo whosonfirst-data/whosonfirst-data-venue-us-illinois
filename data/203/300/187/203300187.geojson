@@ -2,13 +2,14 @@
   "id": 203300187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.888101,42.054445,-87.888101,42.054445",
     "geom:latitude":42.054445,
     "geom:longitude":-87.888101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 N River Rd",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203300187,
-    "wof:lastmodified":1449026020,
+    "wof:lastmodified":1466490473,
     "wof:name":"Edison Press",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "common"
     ]
 },
-  "bbox": [-87.888101,42.054445,-87.888101,42.054445],
-  "geometry": {"coordinates":[-87.888101,42.054445],"type":"Point"}
+  "bbox": [
+    -87.888101,
+    42.054445,
+    -87.888101,
+    42.054445
+],
+  "geometry": {"coordinates":[-87.88810100000001,42.054445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253237269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.557819,41.11164,-89.557819,41.11164",
     "geom:latitude":41.11164,
     "geom:longitude":-89.557819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Western Rd",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253237269,
-    "wof:lastmodified":1449062896,
+    "wof:lastmodified":1466491825,
     "wof:name":"Waldschmidt Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.557819,41.11164,-89.557819,41.11164],
-  "geometry": {"coordinates":[-89.557819,41.11164],"type":"Point"}
+  "bbox": [
+    -89.557819,
+    41.11164,
+    -89.557819,
+    41.11164
+],
+  "geometry": {"coordinates":[-89.55781899999999,41.11164],"type":"Point"}
 }

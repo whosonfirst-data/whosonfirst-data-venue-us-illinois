@@ -2,13 +2,14 @@
   "id": 303098109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.304915,41.850095,-88.304915,41.850095",
     "geom:latitude":41.850095,
     "geom:longitude":-88.304915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Wilson St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303098109,
-    "wof:lastmodified":1449000309,
+    "wof:lastmodified":1466491369,
     "wof:name":"John J Malkowski & Co CPA",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-88.304915,41.850095,-88.304915,41.850095],
-  "geometry": {"coordinates":[-88.304915,41.850095],"type":"Point"}
+  "bbox": [
+    -88.304915,
+    41.850095,
+    -88.304915,
+    41.850095
+],
+  "geometry": {"coordinates":[-88.30491499999999,41.850095],"type":"Point"}
 }

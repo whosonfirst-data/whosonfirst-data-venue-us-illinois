@@ -2,13 +2,14 @@
   "id": 236331957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.264518,39.729274,-90.264518,39.729274",
     "geom:latitude":39.729274,
     "geom:longitude":-90.264518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1848 Mound Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236331957,
-    "wof:lastmodified":1449003701,
+    "wof:lastmodified":1466493163,
     "wof:name":"Uncle Bubba's Outhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-90.264518,39.729274,-90.264518,39.729274],
+  "bbox": [
+    -90.264518,
+    39.729274,
+    -90.264518,
+    39.729274
+],
   "geometry": {"coordinates":[-90.264518,39.729274],"type":"Point"}
 }

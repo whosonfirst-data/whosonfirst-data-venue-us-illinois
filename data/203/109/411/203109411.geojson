@@ -2,13 +2,14 @@
   "id": 203109411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.845892,41.515235,-87.845892,41.515235",
     "geom:latitude":41.515235,
     "geom:longitude":-87.845892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20622 Abbey Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203109411,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466494925,
     "wof:name":"Eagle Distributing",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-87.845892,41.515235,-87.845892,41.515235],
-  "geometry": {"coordinates":[-87.845892,41.515235],"type":"Point"}
+  "bbox": [
+    -87.845892,
+    41.515235,
+    -87.845892,
+    41.515235
+],
+  "geometry": {"coordinates":[-87.84589200000001,41.515235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253394341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979611,41.497309,-87.979611,41.497309",
     "geom:latitude":41.497309,
     "geom:longitude":-87.979611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14001 W Illinois Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253394341,
-    "wof:lastmodified":1449063388,
+    "wof:lastmodified":1466494142,
     "wof:name":"DME To Me",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.979611,41.497309,-87.979611,41.497309],
-  "geometry": {"coordinates":[-87.979611,41.497309],"type":"Point"}
+  "bbox": [
+    -87.979611,
+    41.497309,
+    -87.979611,
+    41.497309
+],
+  "geometry": {"coordinates":[-87.97961100000001,41.497309],"type":"Point"}
 }

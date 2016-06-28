@@ -2,13 +2,14 @@
   "id": 236080439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081871,41.53325,-88.081871,41.53325",
     "geom:latitude":41.53325,
     "geom:longitude":-88.081871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 N Chicago St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236080439,
-    "wof:lastmodified":1449005137,
+    "wof:lastmodified":1466489940,
     "wof:name":"Rialto Cleaners",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-88.081871,41.53325,-88.081871,41.53325],
-  "geometry": {"coordinates":[-88.081871,41.53325],"type":"Point"}
+  "bbox": [
+    -88.081871,
+    41.53325,
+    -88.081871,
+    41.53325
+],
+  "geometry": {"coordinates":[-88.08187100000001,41.53325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203063911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.190126,38.507194,-90.190126,38.507194",
     "geom:latitude":38.507194,
     "geom:longitude":-90.190126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 Valine Ln",
     "sg:city":"East Carondelet",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203063911,
-    "wof:lastmodified":1449025105,
+    "wof:lastmodified":1466493944,
     "wof:name":"Sugar Loaf Highway Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.190126,38.507194,-90.190126,38.507194],
-  "geometry": {"coordinates":[-90.190126,38.507194],"type":"Point"}
+  "bbox": [
+    -90.190126,
+    38.507194,
+    -90.190126,
+    38.507194
+],
+  "geometry": {"coordinates":[-90.19012600000001,38.507194],"type":"Point"}
 }

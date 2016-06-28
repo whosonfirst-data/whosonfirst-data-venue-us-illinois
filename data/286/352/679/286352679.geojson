@@ -2,13 +2,14 @@
   "id": 286352679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085941,42.20869,-88.085941,42.20869",
     "geom:latitude":42.20869,
     "geom:longitude":-88.085941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23845 N High Ridge Rd",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286352679,
-    "wof:lastmodified":1449017010,
+    "wof:lastmodified":1466491211,
     "wof:name":"Schacht Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.085941,42.20869,-88.085941,42.20869],
-  "geometry": {"coordinates":[-88.085941,42.20869],"type":"Point"}
+  "bbox": [
+    -88.085941,
+    42.20869,
+    -88.085941,
+    42.20869
+],
+  "geometry": {"coordinates":[-88.08594100000001,42.20869],"type":"Point"}
 }

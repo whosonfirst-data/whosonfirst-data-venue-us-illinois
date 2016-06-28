@@ -2,13 +2,14 @@
   "id": 202603251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.768554,41.850917,-87.768554,41.850917",
     "geom:latitude":41.850917,
     "geom:longitude":-87.768554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5741 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202603251,
-    "wof:lastmodified":1449062265,
+    "wof:lastmodified":1466489699,
     "wof:name":"Cristo Rey Medical Ctr",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.768554,41.850917,-87.768554,41.850917],
-  "geometry": {"coordinates":[-87.768554,41.850917],"type":"Point"}
+  "bbox": [
+    -87.768554,
+    41.850917,
+    -87.768554,
+    41.850917
+],
+  "geometry": {"coordinates":[-87.76855399999999,41.850917],"type":"Point"}
 }

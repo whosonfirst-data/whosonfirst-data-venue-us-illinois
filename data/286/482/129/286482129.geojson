@@ -2,13 +2,14 @@
   "id": 286482129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.844045,41.346631,-88.844045,41.346631",
     "geom:latitude":41.346631,
     "geom:longitude":-88.844045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Clinton St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286482129,
-    "wof:lastmodified":1449016229,
+    "wof:lastmodified":1466493237,
     "wof:name":"Bianchi's Pizza",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-88.844045,41.346631,-88.844045,41.346631],
-  "geometry": {"coordinates":[-88.844045,41.346631],"type":"Point"}
+  "bbox": [
+    -88.844045,
+    41.346631,
+    -88.844045,
+    41.346631
+],
+  "geometry": {"coordinates":[-88.84404499999999,41.346631],"type":"Point"}
 }

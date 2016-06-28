@@ -2,13 +2,14 @@
   "id": 185767359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.952989,39.79422,-88.952989,39.79422",
     "geom:latitude":39.79422,
     "geom:longitude":-88.952989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 S Franklin Street Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185767359,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466495422,
     "wof:name":"Davis Electric",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-88.952989,39.79422,-88.952989,39.79422],
+  "bbox": [
+    -88.952989,
+    39.79422,
+    -88.952989,
+    39.79422
+],
   "geometry": {"coordinates":[-88.952989,39.79422],"type":"Point"}
 }

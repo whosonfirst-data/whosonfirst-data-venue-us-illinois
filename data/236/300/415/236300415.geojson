@@ -2,13 +2,14 @@
   "id": 236300415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.288256,41.748941,-88.288256,41.748941",
     "geom:latitude":41.748941,
     "geom:longitude":-88.288256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Hill Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236300415,
-    "wof:lastmodified":1449003521,
+    "wof:lastmodified":1466492776,
     "wof:name":"Chris Inc",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.288256,41.748941,-88.288256,41.748941],
+  "bbox": [
+    -88.288256,
+    41.748941,
+    -88.288256,
+    41.748941
+],
   "geometry": {"coordinates":[-88.288256,41.748941],"type":"Point"}
 }

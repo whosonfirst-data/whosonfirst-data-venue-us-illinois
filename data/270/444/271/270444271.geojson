@@ -2,13 +2,14 @@
   "id": 270444271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94952,41.882599,-87.94952,41.882599",
     "geom:latitude":41.882599,
     "geom:longitude":-87.94952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Spring Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270444271,
-    "wof:lastmodified":1449010753,
+    "wof:lastmodified":1466495729,
     "wof:name":"Catholic Bookstore",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-87.94952,41.882599,-87.94952,41.882599],
-  "geometry": {"coordinates":[-87.94952,41.882599],"type":"Point"}
+  "bbox": [
+    -87.94952,
+    41.882599,
+    -87.94952,
+    41.882599
+],
+  "geometry": {"coordinates":[-87.94952000000001,41.882599],"type":"Point"}
 }

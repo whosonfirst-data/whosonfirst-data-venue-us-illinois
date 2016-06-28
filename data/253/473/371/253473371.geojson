@@ -2,13 +2,14 @@
   "id": 253473371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952604,41.640558,-87.952604,41.640558",
     "geom:latitude":41.640558,
     "geom:longitude":-87.952604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13646 Meath Cir",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253473371,
-    "wof:lastmodified":1449063429,
+    "wof:lastmodified":1466495430,
     "wof:name":"Gemini Communications",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-87.952604,41.640558,-87.952604,41.640558],
-  "geometry": {"coordinates":[-87.952604,41.640558],"type":"Point"}
+  "bbox": [
+    -87.952604,
+    41.640558,
+    -87.952604,
+    41.640558
+],
+  "geometry": {"coordinates":[-87.95260399999999,41.640558],"type":"Point"}
 }

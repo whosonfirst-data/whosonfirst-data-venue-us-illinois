@@ -2,13 +2,14 @@
   "id": 236889679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.200545,42.335556,-88.200545,42.335556",
     "geom:latitude":42.335556,
     "geom:longitude":-88.200545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Red Rock Pt",
     "sg:city":"Lakemoor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236889679,
-    "wof:lastmodified":1449001631,
+    "wof:lastmodified":1466498095,
     "wof:name":"Windhauser Landscaping Inc",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.200545,42.335556,-88.200545,42.335556],
-  "geometry": {"coordinates":[-88.200545,42.335556],"type":"Point"}
+  "bbox": [
+    -88.200545,
+    42.335556,
+    -88.200545,
+    42.335556
+],
+  "geometry": {"coordinates":[-88.20054500000001,42.335556],"type":"Point"}
 }

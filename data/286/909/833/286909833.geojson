@@ -2,13 +2,14 @@
   "id": 286909833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649059,41.936196,-87.649059,41.936196",
     "geom:latitude":41.936196,
     "geom:longitude":-87.649059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 N Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286909833,
-    "wof:lastmodified":1449017394,
+    "wof:lastmodified":1466498040,
     "wof:name":"Chimera",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649059,41.936196,-87.649059,41.936196],
-  "geometry": {"coordinates":[-87.649059,41.936196],"type":"Point"}
+  "bbox": [
+    -87.649059,
+    41.936196,
+    -87.649059,
+    41.936196
+],
+  "geometry": {"coordinates":[-87.64905899999999,41.936196],"type":"Point"}
 }

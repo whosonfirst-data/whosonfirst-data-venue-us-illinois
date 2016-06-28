@@ -2,13 +2,14 @@
   "id": 253179319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.96164,41.883292,-87.96164,41.883292",
     "geom:latitude":41.883292,
     "geom:longitude":-87.96164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 State Rte 83",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253179319,
-    "wof:lastmodified":1449065474,
+    "wof:lastmodified":1466491076,
     "wof:name":"City Of Elmhurst Public Works",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "administrator"
     ]
 },
-  "bbox": [-87.96164,41.883292,-87.96164,41.883292],
+  "bbox": [
+    -87.96164,
+    41.883292,
+    -87.96164,
+    41.883292
+],
   "geometry": {"coordinates":[-87.96164,41.883292],"type":"Point"}
 }

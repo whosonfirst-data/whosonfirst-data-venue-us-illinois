@@ -2,13 +2,14 @@
   "id": 202828751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.982971,42.085494,-87.982971,42.085494",
     "geom:latitude":42.085494,
     "geom:longitude":-87.982971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Dunton Ave",
     "sg:city":"Arlington Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202828751,
-    "wof:lastmodified":1449061406,
+    "wof:lastmodified":1466492306,
     "wof:name":"Sailors",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.982971,42.085494,-87.982971,42.085494],
-  "geometry": {"coordinates":[-87.982971,42.085494],"type":"Point"}
+  "bbox": [
+    -87.982971,
+    42.085494,
+    -87.982971,
+    42.085494
+],
+  "geometry": {"coordinates":[-87.98297100000001,42.085494],"type":"Point"}
 }

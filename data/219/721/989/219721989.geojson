@@ -2,13 +2,14 @@
   "id": 219721989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.815025,41.713082,-87.815025,41.713082",
     "geom:latitude":41.713082,
     "geom:longitude":-87.815025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7933 W 98th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219721989,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466495747,
     "wof:name":"Fix It Contractors",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.815025,41.713082,-87.815025,41.713082],
-  "geometry": {"coordinates":[-87.815025,41.713082],"type":"Point"}
+  "bbox": [
+    -87.815025,
+    41.713082,
+    -87.815025,
+    41.713082
+],
+  "geometry": {"coordinates":[-87.81502500000001,41.713082],"type":"Point"}
 }

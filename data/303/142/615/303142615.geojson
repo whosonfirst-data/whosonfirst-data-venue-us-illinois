@@ -2,13 +2,14 @@
   "id": 303142615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.763394,38.413618,-87.763394,38.413618",
     "geom:latitude":38.413618,
     "geom:longitude":-87.763394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 N Market St",
     "sg:city":"Mount Carmel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303142615,
-    "wof:lastmodified":1449000075,
+    "wof:lastmodified":1466492109,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.763394,38.413618,-87.763394,38.413618],
-  "geometry": {"coordinates":[-87.763394,38.413618],"type":"Point"}
+  "bbox": [
+    -87.763394,
+    38.413618,
+    -87.763394,
+    38.413618
+],
+  "geometry": {"coordinates":[-87.76339400000001,38.413618],"type":"Point"}
 }

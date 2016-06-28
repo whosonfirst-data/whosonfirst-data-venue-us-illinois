@@ -2,13 +2,14 @@
   "id": 269653237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054215,41.874601,-88.054215,41.874601",
     "geom:latitude":41.874601,
     "geom:longitude":-88.054215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Carleton Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269653237,
-    "wof:lastmodified":1449036320,
+    "wof:lastmodified":1466491659,
     "wof:name":"Chicago",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-88.054215,41.874601,-88.054215,41.874601],
+  "bbox": [
+    -88.054215,
+    41.874601,
+    -88.054215,
+    41.874601
+],
   "geometry": {"coordinates":[-88.054215,41.874601],"type":"Point"}
 }

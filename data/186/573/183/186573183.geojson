@@ -2,13 +2,14 @@
   "id": 186573183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.654513,40.91307,-90.654513,40.91307",
     "geom:latitude":40.91307,
     "geom:longitude":-90.654513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N E St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186573183,
-    "wof:lastmodified":1449052334,
+    "wof:lastmodified":1466489089,
     "wof:name":"Willits School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.654513,40.91307,-90.654513,40.91307],
-  "geometry": {"coordinates":[-90.654513,40.91307],"type":"Point"}
+  "bbox": [
+    -90.654513,
+    40.91307,
+    -90.654513,
+    40.91307
+],
+  "geometry": {"coordinates":[-90.65451299999999,40.91307],"type":"Point"}
 }

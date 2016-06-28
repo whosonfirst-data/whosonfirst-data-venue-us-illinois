@@ -2,13 +2,14 @@
   "id": 236551589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01983,41.808225,-88.01983,41.808225",
     "geom:latitude":41.808225,
     "geom:longitude":-88.01983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Ogden Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236551589,
-    "wof:lastmodified":1449002174,
+    "wof:lastmodified":1466495942,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.01983,41.808225,-88.01983,41.808225],
+  "bbox": [
+    -88.01983,
+    41.808225,
+    -88.01983,
+    41.808225
+],
   "geometry": {"coordinates":[-88.01983,41.808225],"type":"Point"}
 }

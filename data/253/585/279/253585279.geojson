@@ -2,13 +2,14 @@
   "id": 253585279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.150349,41.26261,-88.150349,41.26261",
     "geom:latitude":41.26261,
     "geom:longitude":-88.150349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34223 W River Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253585279,
-    "wof:lastmodified":1449064808,
+    "wof:lastmodified":1466496747,
     "wof:name":"Kenneth Lain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-88.150349,41.26261,-88.150349,41.26261],
-  "geometry": {"coordinates":[-88.150349,41.26261],"type":"Point"}
+  "bbox": [
+    -88.150349,
+    41.26261,
+    -88.150349,
+    41.26261
+],
+  "geometry": {"coordinates":[-88.15034900000001,41.26261],"type":"Point"}
 }

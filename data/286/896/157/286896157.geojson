@@ -2,13 +2,14 @@
   "id": 286896157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06834,41.885712,-88.06834,41.885712",
     "geom:latitude":41.885712,
     "geom:longitude":-88.06834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Euclid Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286896157,
-    "wof:lastmodified":1449016257,
+    "wof:lastmodified":1466497957,
     "wof:name":"Goranov & Assoc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.06834,41.885712,-88.06834,41.885712],
-  "geometry": {"coordinates":[-88.06834,41.885712],"type":"Point"}
+  "bbox": [
+    -88.06834,
+    41.885712,
+    -88.06834,
+    41.885712
+],
+  "geometry": {"coordinates":[-88.06834000000001,41.885712],"type":"Point"}
 }

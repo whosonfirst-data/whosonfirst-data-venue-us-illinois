@@ -2,13 +2,14 @@
   "id": 203050491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.015361,41.415169,-90.015361,41.415169",
     "geom:latitude":41.415169,
     "geom:longitude":-90.015361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S State St",
     "sg:city":"Atkinson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203050491,
-    "wof:lastmodified":1449025987,
+    "wof:lastmodified":1466493635,
     "wof:name":"G Verhoye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.015361,41.415169,-90.015361,41.415169],
+  "bbox": [
+    -90.015361,
+    41.415169,
+    -90.015361,
+    41.415169
+],
   "geometry": {"coordinates":[-90.015361,41.415169],"type":"Point"}
 }

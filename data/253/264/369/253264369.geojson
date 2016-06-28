@@ -2,13 +2,14 @@
   "id": 253264369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.225085,41.733585,-88.225085,41.733585",
     "geom:latitude":41.733585,
     "geom:longitude":-88.225085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Rosegate Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253264369,
-    "wof:lastmodified":1449064757,
+    "wof:lastmodified":1466492197,
     "wof:name":"Gts Inc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.225085,41.733585,-88.225085,41.733585],
-  "geometry": {"coordinates":[-88.225085,41.733585],"type":"Point"}
+  "bbox": [
+    -88.225085,
+    41.733585,
+    -88.225085,
+    41.733585
+],
+  "geometry": {"coordinates":[-88.22508500000001,41.733585],"type":"Point"}
 }

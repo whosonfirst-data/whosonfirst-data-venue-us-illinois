@@ -2,13 +2,14 @@
   "id": 253556277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.426609,40.364886,-90.426609,40.364886",
     "geom:latitude":40.364886,
     "geom:longitude":-90.426609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Market St",
     "sg:city":"Table Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253556277,
-    "wof:lastmodified":1449063545,
+    "wof:lastmodified":1466496327,
     "wof:name":"Table Grove City Clerk",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-90.426609,40.364886,-90.426609,40.364886],
+  "bbox": [
+    -90.426609,
+    40.364886,
+    -90.426609,
+    40.364886
+],
   "geometry": {"coordinates":[-90.426609,40.364886],"type":"Point"}
 }

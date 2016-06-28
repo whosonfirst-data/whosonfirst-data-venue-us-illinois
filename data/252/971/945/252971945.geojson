@@ -2,13 +2,14 @@
   "id": 252971945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753565,41.827397,-87.753565,41.827397",
     "geom:latitude":41.827397,
     "geom:longitude":-87.753565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 S Laramie Ave",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252971945,
-    "wof:lastmodified":1449005973,
+    "wof:lastmodified":1466492418,
     "wof:name":"S & S Food Service",
     "wof:parent_id":85867657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.753565,41.827397,-87.753565,41.827397],
-  "geometry": {"coordinates":[-87.753565,41.827397],"type":"Point"}
+  "bbox": [
+    -87.753565,
+    41.827397,
+    -87.753565,
+    41.827397
+],
+  "geometry": {"coordinates":[-87.75356499999999,41.827397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202580287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.269062,40.879161,-88.269062,40.879161",
     "geom:latitude":40.879161,
     "geom:longitude":-88.269062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W Hack St",
     "sg:city":"Cullom",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202580287,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466489439,
     "wof:name":"Mary Elise Burnett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.269062,40.879161,-88.269062,40.879161],
-  "geometry": {"coordinates":[-88.269062,40.879161],"type":"Point"}
+  "bbox": [
+    -88.269062,
+    40.879161,
+    -88.269062,
+    40.879161
+],
+  "geometry": {"coordinates":[-88.26906200000001,40.879161],"type":"Point"}
 }

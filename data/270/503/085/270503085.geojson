@@ -2,13 +2,14 @@
   "id": 270503085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.946773,42.047433,-87.946773,42.047433",
     "geom:latitude":42.047433,
     "geom:longitude":-87.946773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Golf Rd",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270503085,
-    "wof:lastmodified":1449011121,
+    "wof:lastmodified":1466496306,
     "wof:name":"Allstate",
     "wof:parent_id":85890855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-87.946773,42.047433,-87.946773,42.047433],
-  "geometry": {"coordinates":[-87.946773,42.047433],"type":"Point"}
+  "bbox": [
+    -87.946773,
+    42.047433,
+    -87.946773,
+    42.047433
+],
+  "geometry": {"coordinates":[-87.94677299999999,42.047433],"type":"Point"}
 }

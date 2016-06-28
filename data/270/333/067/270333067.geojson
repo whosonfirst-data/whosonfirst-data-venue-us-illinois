@@ -2,13 +2,14 @@
   "id": 270333067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.705987,41.997523,-87.705987,41.997523",
     "geom:latitude":41.997523,
     "geom:longitude":-87.705987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3046 W Devon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270333067,
-    "wof:lastmodified":1449010936,
+    "wof:lastmodified":1466494105,
     "wof:name":"Chi Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.705987,41.997523,-87.705987,41.997523],
-  "geometry": {"coordinates":[-87.705987,41.997523],"type":"Point"}
+  "bbox": [
+    -87.705987,
+    41.997523,
+    -87.705987,
+    41.997523
+],
+  "geometry": {"coordinates":[-87.70598699999999,41.997523],"type":"Point"}
 }

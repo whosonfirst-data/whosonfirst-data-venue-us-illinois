@@ -2,13 +2,14 @@
   "id": 236473635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.558382,41.752482,-87.558382,41.752482",
     "geom:latitude":41.752482,
     "geom:longitude":-87.558382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7811 S Marquette Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236473635,
-    "wof:lastmodified":1449002191,
+    "wof:lastmodified":1466495036,
     "wof:name":"Candy's Beauty Salon",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.558382,41.752482,-87.558382,41.752482],
-  "geometry": {"coordinates":[-87.558382,41.752482],"type":"Point"}
+  "bbox": [
+    -87.558382,
+    41.752482,
+    -87.558382,
+    41.752482
+],
+  "geometry": {"coordinates":[-87.55838199999999,41.752482],"type":"Point"}
 }

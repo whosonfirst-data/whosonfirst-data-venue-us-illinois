@@ -2,13 +2,14 @@
   "id": 287183145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.125701,42.28532,-89.125701,42.28532",
     "geom:latitude":42.28532,
     "geom:longitude":-89.125701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Sherman Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287183145,
-    "wof:lastmodified":1449001145,
+    "wof:lastmodified":1466492919,
     "wof:name":"Martha Stokes",
     "wof:parent_id":85880433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.125701,42.28532,-89.125701,42.28532],
-  "geometry": {"coordinates":[-89.125701,42.28532],"type":"Point"}
+  "bbox": [
+    -89.125701,
+    42.28532,
+    -89.125701,
+    42.28532
+],
+  "geometry": {"coordinates":[-89.12570100000001,42.28532],"type":"Point"}
 }

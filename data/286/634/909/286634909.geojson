@@ -2,13 +2,14 @@
   "id": 286634909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272664,40.708343,-89.272664,40.708343",
     "geom:latitude":40.708343,
     "geom:longitude":-89.272664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 State Rte 117",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286634909,
-    "wof:lastmodified":1449016599,
+    "wof:lastmodified":1466495721,
     "wof:name":"Happy Tails Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.272664,40.708343,-89.272664,40.708343],
-  "geometry": {"coordinates":[-89.272664,40.708343],"type":"Point"}
+  "bbox": [
+    -89.272664,
+    40.708343,
+    -89.272664,
+    40.708343
+],
+  "geometry": {"coordinates":[-89.27266400000001,40.708343],"type":"Point"}
 }

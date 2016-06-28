@@ -2,13 +2,14 @@
   "id": 269937259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085392,41.537101,-88.085392,41.537101",
     "geom:latitude":41.537101,
     "geom:longitude":-88.085392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Broadway St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269937259,
-    "wof:lastmodified":1449036598,
+    "wof:lastmodified":1466495950,
     "wof:name":"St Mary's Nativity Catholic",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.085392,41.537101,-88.085392,41.537101],
+  "bbox": [
+    -88.085392,
+    41.537101,
+    -88.085392,
+    41.537101
+],
   "geometry": {"coordinates":[-88.085392,41.537101],"type":"Point"}
 }

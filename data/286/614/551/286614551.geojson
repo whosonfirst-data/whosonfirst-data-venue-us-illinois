@@ -2,13 +2,14 @@
   "id": 286614551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101414,42.475986,-88.101414,42.475986",
     "geom:latitude":42.475986,
     "geom:longitude":-88.101414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Naber Ave",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286614551,
-    "wof:lastmodified":1449018174,
+    "wof:lastmodified":1466495430,
     "wof:name":"SRC Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-88.101414,42.475986,-88.101414,42.475986],
-  "geometry": {"coordinates":[-88.101414,42.475986],"type":"Point"}
+  "bbox": [
+    -88.101414,
+    42.475986,
+    -88.101414,
+    42.475986
+],
+  "geometry": {"coordinates":[-88.10141400000001,42.475986],"type":"Point"}
 }

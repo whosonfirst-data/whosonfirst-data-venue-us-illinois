@@ -2,13 +2,14 @@
   "id": 303041129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97634,38.599014,-89.97634,38.599014",
     "geom:latitude":38.599014,
     "geom:longitude":-89.97634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Salem Pl",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303041129,
-    "wof:lastmodified":1448999005,
+    "wof:lastmodified":1466490494,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-89.97634,38.599014,-89.97634,38.599014],
-  "geometry": {"coordinates":[-89.97634,38.599014],"type":"Point"}
+  "bbox": [
+    -89.97634,
+    38.599014,
+    -89.97634,
+    38.599014
+],
+  "geometry": {"coordinates":[-89.97633999999999,38.599014],"type":"Point"}
 }

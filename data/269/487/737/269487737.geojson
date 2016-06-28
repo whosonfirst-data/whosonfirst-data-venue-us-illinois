@@ -2,13 +2,14 @@
   "id": 269487737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.065053,40.23151,-91.065053,40.23151",
     "geom:latitude":40.23151,
     "geom:longitude":-91.065053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W 5th St",
     "sg:city":"Bowen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269487737,
-    "wof:lastmodified":1449036923,
+    "wof:lastmodified":1466489051,
     "wof:name":"Greater W Central Public Libr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.065053,40.23151,-91.065053,40.23151],
-  "geometry": {"coordinates":[-91.065053,40.23151],"type":"Point"}
+  "bbox": [
+    -91.065053,
+    40.23151,
+    -91.065053,
+    40.23151
+],
+  "geometry": {"coordinates":[-91.06505300000001,40.23151],"type":"Point"}
 }

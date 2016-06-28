@@ -2,13 +2,14 @@
   "id": 202686769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.197189,41.302699,-90.197189,41.302699",
     "geom:latitude":41.302699,
     "geom:longitude":-90.197189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W Center St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202686769,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1466490663,
     "wof:name":"Henry County Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-90.197189,41.302699,-90.197189,41.302699],
-  "geometry": {"coordinates":[-90.197189,41.302699],"type":"Point"}
+  "bbox": [
+    -90.197189,
+    41.302699,
+    -90.197189,
+    41.302699
+],
+  "geometry": {"coordinates":[-90.19718899999999,41.302699],"type":"Point"}
 }

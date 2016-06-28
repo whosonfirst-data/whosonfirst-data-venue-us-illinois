@@ -2,13 +2,14 @@
   "id": 185958213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.225164,37.747231,-89.225164,37.747231",
     "geom:latitude":37.747231,
     "geom:longitude":-89.225164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Industrial Park Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185958213,
-    "wof:lastmodified":1449007878,
+    "wof:lastmodified":1466490338,
     "wof:name":"Home Builders Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.225164,37.747231,-89.225164,37.747231],
-  "geometry": {"coordinates":[-89.225164,37.747231],"type":"Point"}
+  "bbox": [
+    -89.225164,
+    37.747231,
+    -89.225164,
+    37.747231
+],
+  "geometry": {"coordinates":[-89.22516400000001,37.747231],"type":"Point"}
 }

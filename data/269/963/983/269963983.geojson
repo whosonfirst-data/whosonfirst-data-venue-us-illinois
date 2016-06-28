@@ -2,13 +2,14 @@
   "id": 269963983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.922693,41.589304,-88.922693,41.589304",
     "geom:latitude":41.589304,
     "geom:longitude":-88.922693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Winthrop St",
     "sg:city":"Earlville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269963983,
-    "wof:lastmodified":1449036384,
+    "wof:lastmodified":1466496406,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.922693,41.589304,-88.922693,41.589304],
+  "bbox": [
+    -88.922693,
+    41.589304,
+    -88.922693,
+    41.589304
+],
   "geometry": {"coordinates":[-88.922693,41.589304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270180669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.927185,41.225298,-89.927185,41.225298",
     "geom:latitude":41.225298,
     "geom:longitude":-89.927185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Tenney St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270180669,
-    "wof:lastmodified":1449008768,
+    "wof:lastmodified":1466491709,
     "wof:name":"Sturtevant Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.927185,41.225298,-89.927185,41.225298],
-  "geometry": {"coordinates":[-89.927185,41.225298],"type":"Point"}
+  "bbox": [
+    -89.927185,
+    41.225298,
+    -89.927185,
+    41.225298
+],
+  "geometry": {"coordinates":[-89.92718499999999,41.225298],"type":"Point"}
 }

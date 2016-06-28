@@ -2,13 +2,14 @@
   "id": 203242937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.84059,41.606857,-87.84059,41.606857",
     "geom:latitude":41.606857,
     "geom:longitude":-87.84059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9050 Helen Ln",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203242937,
-    "wof:lastmodified":1449026641,
+    "wof:lastmodified":1466489824,
     "wof:name":"ICM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "audio"
     ]
 },
-  "bbox": [-87.84059,41.606857,-87.84059,41.606857],
-  "geometry": {"coordinates":[-87.84059,41.606857],"type":"Point"}
+  "bbox": [
+    -87.84059,
+    41.606857,
+    -87.84059,
+    41.606857
+],
+  "geometry": {"coordinates":[-87.84059000000001,41.606857],"type":"Point"}
 }

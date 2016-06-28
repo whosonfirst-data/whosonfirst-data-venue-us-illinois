@@ -2,13 +2,14 @@
   "id": 185775143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.96241,39.895406,-88.96241,39.895406",
     "geom:latitude":39.895406,
     "geom:longitude":-88.96241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 N Buckingham Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185775143,
-    "wof:lastmodified":1449007788,
+    "wof:lastmodified":1466495510,
     "wof:name":"Pro Serve Pool & Service",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tub"
     ]
 },
-  "bbox": [-88.96241,39.895406,-88.96241,39.895406],
-  "geometry": {"coordinates":[-88.96241,39.895406],"type":"Point"}
+  "bbox": [
+    -88.96241,
+    39.895406,
+    -88.96241,
+    39.895406
+],
+  "geometry": {"coordinates":[-88.96241000000001,39.895406],"type":"Point"}
 }

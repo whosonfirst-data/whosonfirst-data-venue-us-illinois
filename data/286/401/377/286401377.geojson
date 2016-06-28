@@ -2,13 +2,14 @@
   "id": 286401377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.04099,38.554703,-90.04099,38.554703",
     "geom:latitude":38.554703,
     "geom:longitude":-90.04099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6980 W Main St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286401377,
-    "wof:lastmodified":1449017678,
+    "wof:lastmodified":1466491972,
     "wof:name":"Tavern On Main",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.04099,38.554703,-90.04099,38.554703],
-  "geometry": {"coordinates":[-90.04099,38.554703],"type":"Point"}
+  "bbox": [
+    -90.04099,
+    38.554703,
+    -90.04099,
+    38.554703
+],
+  "geometry": {"coordinates":[-90.04098999999999,38.554703],"type":"Point"}
 }

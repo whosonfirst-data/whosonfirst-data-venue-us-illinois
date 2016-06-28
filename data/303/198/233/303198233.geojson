@@ -2,13 +2,14 @@
   "id": 303198233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.243305,37.50314,-89.243305,37.50314",
     "geom:latitude":37.50314,
     "geom:longitude":-89.243305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Casper Church Rd",
     "sg:city":"Cobden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303198233,
-    "wof:lastmodified":1448999007,
+    "wof:lastmodified":1466493009,
     "wof:name":"Advanced Equipment Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.243305,37.50314,-89.243305,37.50314],
-  "geometry": {"coordinates":[-89.243305,37.50314],"type":"Point"}
+  "bbox": [
+    -89.243305,
+    37.50314,
+    -89.243305,
+    37.50314
+],
+  "geometry": {"coordinates":[-89.24330500000001,37.50314],"type":"Point"}
 }

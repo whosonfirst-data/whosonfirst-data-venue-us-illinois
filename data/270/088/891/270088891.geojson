@@ -2,13 +2,14 @@
   "id": 270088891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794495,41.885502,-87.794495,41.885502",
     "geom:latitude":41.885502,
     "geom:longitude":-87.794495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 S Oak Park Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270088891,
-    "wof:lastmodified":1449010513,
+    "wof:lastmodified":1466490344,
     "wof:name":"Chicago Veterans Council",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeless"
     ]
 },
-  "bbox": [-87.794495,41.885502,-87.794495,41.885502],
+  "bbox": [
+    -87.794495,
+    41.885502,
+    -87.794495,
+    41.885502
+],
   "geometry": {"coordinates":[-87.794495,41.885502],"type":"Point"}
 }

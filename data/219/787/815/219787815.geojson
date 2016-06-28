@@ -2,13 +2,14 @@
   "id": 219787815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.931626,37.89523,-88.931626,37.89523",
     "geom:latitude":37.89523,
     "geom:longitude":-88.931626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Logan St",
     "sg:city":"West Frankfort",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219787815,
-    "wof:lastmodified":1449071995,
+    "wof:lastmodified":1466496288,
     "wof:name":"McPhails Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "power"
     ]
 },
-  "bbox": [-88.931626,37.89523,-88.931626,37.89523],
-  "geometry": {"coordinates":[-88.931626,37.89523],"type":"Point"}
+  "bbox": [
+    -88.931626,
+    37.89523,
+    -88.931626,
+    37.89523
+],
+  "geometry": {"coordinates":[-88.93162599999999,37.89523],"type":"Point"}
 }

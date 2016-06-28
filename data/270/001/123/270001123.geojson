@@ -2,13 +2,14 @@
   "id": 270001123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693123,41.571802,-87.693123,41.571802",
     "geom:latitude":41.571802,
     "geom:longitude":-87.693123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3168 175th St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270001123,
-    "wof:lastmodified":1449009180,
+    "wof:lastmodified":1466489053,
     "wof:name":"Wing Wah Chop Suey Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.693123,41.571802,-87.693123,41.571802],
+  "bbox": [
+    -87.693123,
+    41.571802,
+    -87.693123,
+    41.571802
+],
   "geometry": {"coordinates":[-87.693123,41.571802],"type":"Point"}
 }

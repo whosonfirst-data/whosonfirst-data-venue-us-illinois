@@ -2,13 +2,14 @@
   "id": 269940701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.033512,40.550556,-90.033512,40.550556",
     "geom:latitude":40.550556,
     "geom:longitude":-90.033512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S 1st Ave",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269940701,
-    "wof:lastmodified":1449036732,
+    "wof:lastmodified":1466496207,
     "wof:name":"Canton Courtsey Cab",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-90.033512,40.550556,-90.033512,40.550556],
+  "bbox": [
+    -90.033512,
+    40.550556,
+    -90.033512,
+    40.550556
+],
   "geometry": {"coordinates":[-90.033512,40.550556],"type":"Point"}
 }

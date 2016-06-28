@@ -2,13 +2,14 @@
   "id": 203409345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.736106,41.898338,-87.736106,41.898338",
     "geom:latitude":41.898338,
     "geom:longitude":-87.736106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 N Kostner Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203409345,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466491712,
     "wof:name":"Our Lady of The Angels",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.736106,41.898338,-87.736106,41.898338],
-  "geometry": {"coordinates":[-87.736106,41.898338],"type":"Point"}
+  "bbox": [
+    -87.736106,
+    41.898338,
+    -87.736106,
+    41.898338
+],
+  "geometry": {"coordinates":[-87.73610600000001,41.898338],"type":"Point"}
 }

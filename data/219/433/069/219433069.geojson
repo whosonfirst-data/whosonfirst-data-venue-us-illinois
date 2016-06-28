@@ -2,13 +2,14 @@
   "id": 219433069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.780993,40.640623,-88.780993,40.640623",
     "geom:latitude":40.640623,
     "geom:longitude":-88.780993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219433069,
-    "wof:lastmodified":1449070795,
+    "wof:lastmodified":1466492373,
     "wof:name":"Inputs",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.780993,40.640623,-88.780993,40.640623],
+  "bbox": [
+    -88.780993,
+    40.640623,
+    -88.780993,
+    40.640623
+],
   "geometry": {"coordinates":[-88.780993,40.640623],"type":"Point"}
 }

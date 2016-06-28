@@ -2,13 +2,14 @@
   "id": 270466123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.204213,41.883649,-88.204213,41.883649",
     "geom:latitude":41.883649,
     "geom:longitude":-88.204213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Turner Ct",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270466123,
-    "wof:lastmodified":1449009339,
+    "wof:lastmodified":1466495944,
     "wof:name":"Centro Hispano",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.204213,41.883649,-88.204213,41.883649],
+  "bbox": [
+    -88.204213,
+    41.883649,
+    -88.204213,
+    41.883649
+],
   "geometry": {"coordinates":[-88.204213,41.883649],"type":"Point"}
 }

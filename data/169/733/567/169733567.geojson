@@ -2,13 +2,14 @@
   "id": 169733567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.497803,39.108669,-90.497803,39.108669",
     "geom:latitude":39.108669,
     "geom:longitude":-90.497803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Locust St",
     "sg:city":"Fieldon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169733567,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1466493125,
     "wof:name":"Mike Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "take"
     ]
 },
-  "bbox": [-90.497803,39.108669,-90.497803,39.108669],
+  "bbox": [
+    -90.497803,
+    39.108669,
+    -90.497803,
+    39.108669
+],
   "geometry": {"coordinates":[-90.497803,39.108669],"type":"Point"}
 }

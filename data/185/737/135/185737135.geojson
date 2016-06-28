@@ -2,13 +2,14 @@
   "id": 185737135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90995,38.998003,-87.90995,38.998003",
     "geom:latitude":38.998003,
     "geom:longitude":-87.90995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Adams St",
     "sg:city":"Oblong",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185737135,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466495161,
     "wof:name":"Ron's Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-87.90995,38.998003,-87.90995,38.998003],
-  "geometry": {"coordinates":[-87.90995,38.998003],"type":"Point"}
+  "bbox": [
+    -87.90995,
+    38.998003,
+    -87.90995,
+    38.998003
+],
+  "geometry": {"coordinates":[-87.90994999999999,38.998003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253213123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085299,42.177224,-88.085299,42.177224",
     "geom:latitude":42.177224,
     "geom:longitude":-88.085299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1164 Lismore Ct",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253213123,
-    "wof:lastmodified":1449062852,
+    "wof:lastmodified":1466491498,
     "wof:name":"Midwest Mfrs Representatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-88.085299,42.177224,-88.085299,42.177224],
-  "geometry": {"coordinates":[-88.085299,42.177224],"type":"Point"}
+  "bbox": [
+    -88.085299,
+    42.177224,
+    -88.085299,
+    42.177224
+],
+  "geometry": {"coordinates":[-88.08529900000001,42.177224],"type":"Point"}
 }

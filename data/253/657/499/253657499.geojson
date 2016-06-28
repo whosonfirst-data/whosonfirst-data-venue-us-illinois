@@ -2,13 +2,14 @@
   "id": 253657499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745219,41.74474,-87.745219,41.74474",
     "geom:latitude":41.74474,
     "geom:longitude":-87.745219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7949 Lavergne Ave",
     "sg:city":"Bedford Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253657499,
-    "wof:lastmodified":1449063148,
+    "wof:lastmodified":1466497113,
     "wof:name":"Gene Krzyskowski Builders",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.745219,41.74474,-87.745219,41.74474],
-  "geometry": {"coordinates":[-87.745219,41.74474],"type":"Point"}
+  "bbox": [
+    -87.745219,
+    41.74474,
+    -87.745219,
+    41.74474
+],
+  "geometry": {"coordinates":[-87.74521900000001,41.74474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270468553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.150073,41.983312,-88.150073,41.983312",
     "geom:latitude":41.983312,
     "geom:longitude":-88.150073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6211 Church Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270468553,
-    "wof:lastmodified":1449010403,
+    "wof:lastmodified":1466495962,
     "wof:name":"Standard Indus & Auto Equipme",
     "wof:parent_id":85839631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-88.150073,41.983312,-88.150073,41.983312],
-  "geometry": {"coordinates":[-88.150073,41.983312],"type":"Point"}
+  "bbox": [
+    -88.150073,
+    41.983312,
+    -88.150073,
+    41.983312
+],
+  "geometry": {"coordinates":[-88.15007300000001,41.983312],"type":"Point"}
 }

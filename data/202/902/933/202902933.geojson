@@ -2,13 +2,14 @@
   "id": 202902933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.791634,40.640486,-88.791634,40.640486",
     "geom:latitude":40.640486,
     "geom:longitude":-88.791634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Chestnut St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202902933,
-    "wof:lastmodified":1449061984,
+    "wof:lastmodified":1466493209,
     "wof:name":"Bulin Electric Svc",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.791634,40.640486,-88.791634,40.640486],
+  "bbox": [
+    -88.791634,
+    40.640486,
+    -88.791634,
+    40.640486
+],
   "geometry": {"coordinates":[-88.791634,40.640486],"type":"Point"}
 }

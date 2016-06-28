@@ -2,13 +2,14 @@
   "id": 236257201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.985327,39.221947,-88.985327,39.221947",
     "geom:latitude":39.221947,
     "geom:longitude":-88.985327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Broadway",
     "sg:city":"Herrick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236257201,
-    "wof:lastmodified":1449002453,
+    "wof:lastmodified":1466492215,
     "wof:name":"Wallace & Carroll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-88.985327,39.221947,-88.985327,39.221947],
+  "bbox": [
+    -88.985327,
+    39.221947,
+    -88.985327,
+    39.221947
+],
   "geometry": {"coordinates":[-88.985327,39.221947],"type":"Point"}
 }

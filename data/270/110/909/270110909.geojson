@@ -2,13 +2,14 @@
   "id": 270110909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.34999,40.157638,-89.34999,40.157638",
     "geom:latitude":40.157638,
     "geom:longitude":-89.34999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 N Kickapoo St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270110909,
-    "wof:lastmodified":1449009438,
+    "wof:lastmodified":1466490666,
     "wof:name":"Appel Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.34999,40.157638,-89.34999,40.157638],
-  "geometry": {"coordinates":[-89.34999,40.157638],"type":"Point"}
+  "bbox": [
+    -89.34999,
+    40.157638,
+    -89.34999,
+    40.157638
+],
+  "geometry": {"coordinates":[-89.34999000000001,40.157638],"type":"Point"}
 }

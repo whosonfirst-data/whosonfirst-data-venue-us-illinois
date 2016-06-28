@@ -2,13 +2,14 @@
   "id": 252856789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034545,41.780256,-88.034545,41.780256",
     "geom:latitude":41.780256,
     "geom:longitude":-88.034545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5719 Pershing Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252856789,
-    "wof:lastmodified":1449005724,
+    "wof:lastmodified":1466490891,
     "wof:name":"Stimuleye",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-88.034545,41.780256,-88.034545,41.780256],
-  "geometry": {"coordinates":[-88.034545,41.780256],"type":"Point"}
+  "bbox": [
+    -88.034545,
+    41.780256,
+    -88.034545,
+    41.780256
+],
+  "geometry": {"coordinates":[-88.03454499999999,41.780256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286665233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.816403,41.532666,-87.816403,41.532666",
     "geom:latitude":41.532666,
     "geom:longitude":-87.816403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19631 Summerhill Ct",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286665233,
-    "wof:lastmodified":1449016087,
+    "wof:lastmodified":1466496077,
     "wof:name":"EXHIBIT-Bid.Com",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-87.816403,41.532666,-87.816403,41.532666],
-  "geometry": {"coordinates":[-87.816403,41.532666],"type":"Point"}
+  "bbox": [
+    -87.816403,
+    41.532666,
+    -87.816403,
+    41.532666
+],
+  "geometry": {"coordinates":[-87.81640299999999,41.532666],"type":"Point"}
 }

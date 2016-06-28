@@ -2,13 +2,14 @@
   "id": 286272323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.405924,40.178503,-88.405924,40.178503",
     "geom:latitude":40.178503,
     "geom:longitude":-88.405924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E South Mahomet Rd",
     "sg:city":"Mahomet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286272323,
-    "wof:lastmodified":1449017885,
+    "wof:lastmodified":1466489999,
     "wof:name":"William H Cawley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.405924,40.178503,-88.405924,40.178503],
+  "bbox": [
+    -88.405924,
+    40.178503,
+    -88.405924,
+    40.178503
+],
   "geometry": {"coordinates":[-88.405924,40.178503],"type":"Point"}
 }

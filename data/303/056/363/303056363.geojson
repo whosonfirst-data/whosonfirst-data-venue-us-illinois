@@ -2,13 +2,14 @@
   "id": 303056363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794441,41.888568,-87.794441,41.888568",
     "geom:latitude":41.888568,
     "geom:longitude":-87.794441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Oak Park Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303056363,
-    "wof:lastmodified":1448998815,
+    "wof:lastmodified":1466490728,
     "wof:name":"Arthouse Internetworks Corp",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.794441,41.888568,-87.794441,41.888568],
-  "geometry": {"coordinates":[-87.794441,41.888568],"type":"Point"}
+  "bbox": [
+    -87.794441,
+    41.888568,
+    -87.794441,
+    41.888568
+],
+  "geometry": {"coordinates":[-87.79444100000001,41.888568],"type":"Point"}
 }

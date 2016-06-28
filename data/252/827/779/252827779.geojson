@@ -2,13 +2,14 @@
   "id": 252827779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.500565,40.92124,-89.500565,40.92124",
     "geom:latitude":40.92124,
     "geom:longitude":-89.500565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 W Cedar Ct",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252827779,
-    "wof:lastmodified":1449005791,
+    "wof:lastmodified":1466490529,
     "wof:name":"Gray Auto Parts Inc",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.500565,40.92124,-89.500565,40.92124],
-  "geometry": {"coordinates":[-89.500565,40.92124],"type":"Point"}
+  "bbox": [
+    -89.500565,
+    40.92124,
+    -89.500565,
+    40.92124
+],
+  "geometry": {"coordinates":[-89.50056499999999,40.92124],"type":"Point"}
 }

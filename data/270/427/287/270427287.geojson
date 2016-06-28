@@ -2,13 +2,14 @@
   "id": 270427287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.131238,38.532755,-89.131238,38.532755",
     "geom:latitude":38.532755,
     "geom:longitude":-89.131238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 N Poplar St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270427287,
-    "wof:lastmodified":1449009349,
+    "wof:lastmodified":1466495544,
     "wof:name":"Midwest Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-89.131238,38.532755,-89.131238,38.532755],
+  "bbox": [
+    -89.131238,
+    38.532755,
+    -89.131238,
+    38.532755
+],
   "geometry": {"coordinates":[-89.131238,38.532755],"type":"Point"}
 }

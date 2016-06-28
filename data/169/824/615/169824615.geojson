@@ -2,13 +2,14 @@
   "id": 169824615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.997797,38.541542,-89.997797,38.541542",
     "geom:latitude":38.541542,
     "geom:longitude":-89.997797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 N Belt W",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169824615,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1466494829,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-89.997797,38.541542,-89.997797,38.541542],
-  "geometry": {"coordinates":[-89.997797,38.541542],"type":"Point"}
+  "bbox": [
+    -89.997797,
+    38.541542,
+    -89.997797,
+    38.541542
+],
+  "geometry": {"coordinates":[-89.99779700000001,38.541542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202809937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.073105,42.252487,-89.073105,42.252487",
     "geom:latitude":42.252487,
     "geom:longitude":-89.073105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Broadway",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202809937,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466492069,
     "wof:name":"Maid-Rite Sandwich Shop",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.073105,42.252487,-89.073105,42.252487],
+  "bbox": [
+    -89.073105,
+    42.252487,
+    -89.073105,
+    42.252487
+],
   "geometry": {"coordinates":[-89.073105,42.252487],"type":"Point"}
 }

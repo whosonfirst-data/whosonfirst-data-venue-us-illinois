@@ -2,13 +2,14 @@
   "id": 286501459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.217559,40.103781,-88.217559,40.103781",
     "geom:latitude":40.103781,
     "geom:longitude":-88.217559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Ohio St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286501459,
-    "wof:lastmodified":1449018106,
+    "wof:lastmodified":1466493557,
     "wof:name":"Alpha Chi Sigma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-88.217559,40.103781,-88.217559,40.103781],
-  "geometry": {"coordinates":[-88.217559,40.103781],"type":"Point"}
+  "bbox": [
+    -88.217559,
+    40.103781,
+    -88.217559,
+    40.103781
+],
+  "geometry": {"coordinates":[-88.21755899999999,40.103781],"type":"Point"}
 }

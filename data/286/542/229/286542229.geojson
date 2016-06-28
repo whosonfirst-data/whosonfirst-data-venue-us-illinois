@@ -2,13 +2,14 @@
   "id": 286542229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046145,41.717387,-88.046145,41.717387",
     "geom:latitude":41.717387,
     "geom:longitude":-88.046145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Preston Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286542229,
-    "wof:lastmodified":1449017475,
+    "wof:lastmodified":1466494236,
     "wof:name":"Innsbruck Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.046145,41.717387,-88.046145,41.717387],
+  "bbox": [
+    -88.046145,
+    41.717387,
+    -88.046145,
+    41.717387
+],
   "geometry": {"coordinates":[-88.046145,41.717387],"type":"Point"}
 }

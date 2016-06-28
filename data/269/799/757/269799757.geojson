@@ -2,13 +2,14 @@
   "id": 269799757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.955604,41.795977,-87.955604,41.795977",
     "geom:latitude":41.795977,
     "geom:longitude":-87.955604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Walker Ave",
     "sg:city":"Clarendon Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269799757,
-    "wof:lastmodified":1449038980,
+    "wof:lastmodified":1466494017,
     "wof:name":"Claredon Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.955604,41.795977,-87.955604,41.795977],
-  "geometry": {"coordinates":[-87.955604,41.795977],"type":"Point"}
+  "bbox": [
+    -87.955604,
+    41.795977,
+    -87.955604,
+    41.795977
+],
+  "geometry": {"coordinates":[-87.95560399999999,41.795977],"type":"Point"}
 }

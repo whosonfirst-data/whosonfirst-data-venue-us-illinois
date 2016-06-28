@@ -2,13 +2,14 @@
   "id": 169726667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.913818,38.846057,-89.913818,38.846057",
     "geom:latitude":38.846057,
     "geom:longitude":-89.913818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4987 Hazel Rd",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169726667,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466492846,
     "wof:name":"Schneiders Painting Wel",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.913818,38.846057,-89.913818,38.846057],
-  "geometry": {"coordinates":[-89.913818,38.846057],"type":"Point"}
+  "bbox": [
+    -89.913818,
+    38.846057,
+    -89.913818,
+    38.846057
+],
+  "geometry": {"coordinates":[-89.91381800000001,38.846057],"type":"Point"}
 }

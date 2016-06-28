@@ -2,13 +2,14 @@
   "id": 220158471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.352066,41.908119,-89.352066,41.908119",
     "geom:latitude":41.908119,
     "geom:longitude":-89.352066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Woodland Dr",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220158471,
-    "wof:lastmodified":1449074589,
+    "wof:lastmodified":1466490879,
     "wof:name":"Lost Nation Property Owners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-89.352066,41.908119,-89.352066,41.908119],
-  "geometry": {"coordinates":[-89.352066,41.908119],"type":"Point"}
+  "bbox": [
+    -89.352066,
+    41.908119,
+    -89.352066,
+    41.908119
+],
+  "geometry": {"coordinates":[-89.35206599999999,41.908119],"type":"Point"}
 }

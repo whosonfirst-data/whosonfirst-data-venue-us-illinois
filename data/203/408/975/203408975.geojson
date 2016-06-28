@@ -2,13 +2,14 @@
   "id": 203408975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.243203,41.892382,-88.243203,41.892382",
     "geom:latitude":41.892382,
     "geom:longitude":-88.243203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Kress Rd",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203408975,
-    "wof:lastmodified":1449025184,
+    "wof:lastmodified":1466491706,
     "wof:name":"Great Lakes Helicopters Inc",
     "wof:parent_id":85890995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "helicopter"
     ]
 },
-  "bbox": [-88.243203,41.892382,-88.243203,41.892382],
-  "geometry": {"coordinates":[-88.243203,41.892382],"type":"Point"}
+  "bbox": [
+    -88.243203,
+    41.892382,
+    -88.243203,
+    41.892382
+],
+  "geometry": {"coordinates":[-88.24320299999999,41.892382],"type":"Point"}
 }

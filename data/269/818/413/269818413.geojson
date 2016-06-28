@@ -2,13 +2,14 @@
   "id": 269818413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.426245,41.093234,-88.426245,41.093234",
     "geom:latitude":41.093234,
     "geom:longitude":-88.426245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Main St",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269818413,
-    "wof:lastmodified":1449037311,
+    "wof:lastmodified":1466494302,
     "wof:name":"Dwight Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-88.426245,41.093234,-88.426245,41.093234],
-  "geometry": {"coordinates":[-88.426245,41.093234],"type":"Point"}
+  "bbox": [
+    -88.426245,
+    41.093234,
+    -88.426245,
+    41.093234
+],
+  "geometry": {"coordinates":[-88.42624499999999,41.093234],"type":"Point"}
 }

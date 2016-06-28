@@ -2,13 +2,14 @@
   "id": 203296621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.843045,41.256418,-89.843045,41.256418",
     "geom:latitude":41.256418,
     "geom:longitude":-89.843045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Kentville Rd",
     "sg:city":"Neponset",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203296621,
-    "wof:lastmodified":1449026488,
+    "wof:lastmodified":1466490431,
     "wof:name":"Miller's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-89.843045,41.256418,-89.843045,41.256418],
+  "bbox": [
+    -89.843045,
+    41.256418,
+    -89.843045,
+    41.256418
+],
   "geometry": {"coordinates":[-89.843045,41.256418],"type":"Point"}
 }

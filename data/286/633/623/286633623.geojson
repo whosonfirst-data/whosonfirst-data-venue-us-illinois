@@ -2,13 +2,14 @@
   "id": 286633623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.415428,41.357627,-88.415428,41.357627",
     "geom:latitude":41.357627,
     "geom:longitude":-88.415428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 E Washington St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286633623,
-    "wof:lastmodified":1449018059,
+    "wof:lastmodified":1466495702,
     "wof:name":"Ritas Beauty Shop",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.415428,41.357627,-88.415428,41.357627],
-  "geometry": {"coordinates":[-88.415428,41.357627],"type":"Point"}
+  "bbox": [
+    -88.415428,
+    41.357627,
+    -88.415428,
+    41.357627
+],
+  "geometry": {"coordinates":[-88.41542800000001,41.357627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286397017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.766495,41.880221,-87.766495,41.880221",
     "geom:latitude":41.880221,
     "geom:longitude":-87.766495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286397017,
-    "wof:lastmodified":1449016353,
+    "wof:lastmodified":1466491895,
     "wof:name":"Madison Central Currency Exch",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exchange"
     ]
 },
-  "bbox": [-87.766495,41.880221,-87.766495,41.880221],
-  "geometry": {"coordinates":[-87.766495,41.880221],"type":"Point"}
+  "bbox": [
+    -87.766495,
+    41.880221,
+    -87.766495,
+    41.880221
+],
+  "geometry": {"coordinates":[-87.76649500000001,41.880221],"type":"Point"}
 }

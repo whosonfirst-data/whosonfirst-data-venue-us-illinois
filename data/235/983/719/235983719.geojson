@@ -2,13 +2,14 @@
   "id": 235983719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.874221,41.397705,-88.874221,41.397705",
     "geom:latitude":41.397705,
     "geom:longitude":-88.874221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3295 E 15th Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235983719,
-    "wof:lastmodified":1449008589,
+    "wof:lastmodified":1466489593,
     "wof:name":"Tri County Well & Pump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-88.874221,41.397705,-88.874221,41.397705],
-  "geometry": {"coordinates":[-88.874221,41.397705],"type":"Point"}
+  "bbox": [
+    -88.874221,
+    41.397705,
+    -88.874221,
+    41.397705
+],
+  "geometry": {"coordinates":[-88.87422100000001,41.397705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269881805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.025669,41.833482,-88.025669,41.833482",
     "geom:latitude":41.833482,
     "geom:longitude":-88.025669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Finley Rd",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269881805,
-    "wof:lastmodified":1449037541,
+    "wof:lastmodified":1466495286,
     "wof:name":"Communication Clubhouse",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "speech"
     ]
 },
-  "bbox": [-88.025669,41.833482,-88.025669,41.833482],
-  "geometry": {"coordinates":[-88.025669,41.833482],"type":"Point"}
+  "bbox": [
+    -88.025669,
+    41.833482,
+    -88.025669,
+    41.833482
+],
+  "geometry": {"coordinates":[-88.02566899999999,41.833482],"type":"Point"}
 }

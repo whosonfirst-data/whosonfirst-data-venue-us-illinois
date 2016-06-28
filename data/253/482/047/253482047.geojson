@@ -2,13 +2,14 @@
   "id": 253482047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.817738,40.307165,-87.817738,40.307165",
     "geom:latitude":40.307165,
     "geom:longitude":-87.817738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6664 E 3050 N Rd",
     "sg:city":"Potomac",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253482047,
-    "wof:lastmodified":1449063882,
+    "wof:lastmodified":1466495577,
     "wof:name":"Scott Bridgman Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.817738,40.307165,-87.817738,40.307165],
-  "geometry": {"coordinates":[-87.817738,40.307165],"type":"Point"}
+  "bbox": [
+    -87.817738,
+    40.307165,
+    -87.817738,
+    40.307165
+],
+  "geometry": {"coordinates":[-87.81773800000001,40.307165],"type":"Point"}
 }

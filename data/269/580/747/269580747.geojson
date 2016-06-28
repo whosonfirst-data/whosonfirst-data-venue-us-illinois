@@ -2,13 +2,14 @@
   "id": 269580747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089371,41.530083,-88.089371,41.530083",
     "geom:latitude":41.530083,
     "geom:longitude":-88.089371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 N Hickory St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269580747,
-    "wof:lastmodified":1449037731,
+    "wof:lastmodified":1466490517,
     "wof:name":"Jim's Food Mart",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.089371,41.530083,-88.089371,41.530083],
+  "bbox": [
+    -88.089371,
+    41.530083,
+    -88.089371,
+    41.530083
+],
   "geometry": {"coordinates":[-88.089371,41.530083],"type":"Point"}
 }

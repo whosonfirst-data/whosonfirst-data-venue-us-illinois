@@ -2,13 +2,14 @@
   "id": 203110077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.105907,41.345971,-89.105907,41.345971",
     "geom:latitude":41.345971,
     "geom:longitude":-89.105907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Chartres St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203110077,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466494922,
     "wof:name":"La Salle Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.105907,41.345971,-89.105907,41.345971],
+  "bbox": [
+    -89.105907,
+    41.345971,
+    -89.105907,
+    41.345971
+],
   "geometry": {"coordinates":[-89.105907,41.345971],"type":"Point"}
 }

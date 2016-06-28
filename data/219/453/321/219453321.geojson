@@ -2,13 +2,14 @@
   "id": 219453321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698231,41.932092,-87.698231,41.932092",
     "geom:latitude":41.932092,
     "geom:longitude":-87.698231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 W Diversey Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219453321,
-    "wof:lastmodified":1449073051,
+    "wof:lastmodified":1466492626,
     "wof:name":"Kennedy Mobil Service",
     "wof:parent_id":85867675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-87.698231,41.932092,-87.698231,41.932092],
-  "geometry": {"coordinates":[-87.698231,41.932092],"type":"Point"}
+  "bbox": [
+    -87.698231,
+    41.932092,
+    -87.698231,
+    41.932092
+],
+  "geometry": {"coordinates":[-87.69823100000001,41.932092],"type":"Point"}
 }

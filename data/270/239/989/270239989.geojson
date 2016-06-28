@@ -2,13 +2,14 @@
   "id": 270239989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.559238,41.762231,-87.559238,41.762231",
     "geom:latitude":41.762231,
     "geom:longitude":-87.559238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 E 74th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270239989,
-    "wof:lastmodified":1449008883,
+    "wof:lastmodified":1466492667,
     "wof:name":"Mother Plumtrees Playhouse",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.559238,41.762231,-87.559238,41.762231],
-  "geometry": {"coordinates":[-87.559238,41.762231],"type":"Point"}
+  "bbox": [
+    -87.559238,
+    41.762231,
+    -87.559238,
+    41.762231
+],
+  "geometry": {"coordinates":[-87.55923799999999,41.762231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185636505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.951202,38.596401,-89.951202,38.596401",
     "geom:latitude":38.596401,
     "geom:longitude":-89.951202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Frontage Rd",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185636505,
-    "wof:lastmodified":1449007259,
+    "wof:lastmodified":1466493289,
     "wof:name":"Mayflower Transit Agency",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-89.951202,38.596401,-89.951202,38.596401],
-  "geometry": {"coordinates":[-89.951202,38.596401],"type":"Point"}
+  "bbox": [
+    -89.951202,
+    38.596401,
+    -89.951202,
+    38.596401
+],
+  "geometry": {"coordinates":[-89.95120199999999,38.596401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403972597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697708,40.627196,-87.697708,40.627196",
     "geom:latitude":40.627196,
     "geom:longitude":-87.697708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Chicago St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403972597,
-    "wof:lastmodified":1449055313,
+    "wof:lastmodified":1466492360,
     "wof:name":"Hot Stuff Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.697708,40.627196,-87.697708,40.627196],
-  "geometry": {"coordinates":[-87.697708,40.627196],"type":"Point"}
+  "bbox": [
+    -87.697708,
+    40.627196,
+    -87.697708,
+    40.627196
+],
+  "geometry": {"coordinates":[-87.69770800000001,40.627196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286593927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.507226,41.46262,-90.507226,41.46262",
     "geom:latitude":41.46262,
     "geom:longitude":-90.507226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 N Shore Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286593927,
-    "wof:lastmodified":1449017140,
+    "wof:lastmodified":1466495086,
     "wof:name":"Springfield Firefighters Lake",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-90.507226,41.46262,-90.507226,41.46262],
+  "bbox": [
+    -90.507226,
+    41.46262,
+    -90.507226,
+    41.46262
+],
   "geometry": {"coordinates":[-90.507226,41.46262],"type":"Point"}
 }

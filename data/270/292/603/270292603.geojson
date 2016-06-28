@@ -2,13 +2,14 @@
   "id": 270292603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.536909,41.625987,-87.536909,41.625987",
     "geom:latitude":41.625987,
     "geom:longitude":-87.536909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 State St",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270292603,
-    "wof:lastmodified":1449008860,
+    "wof:lastmodified":1466493471,
     "wof:name":"Kay Manufacturing Company",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-87.536909,41.625987,-87.536909,41.625987],
-  "geometry": {"coordinates":[-87.536909,41.625987],"type":"Point"}
+  "bbox": [
+    -87.536909,
+    41.625987,
+    -87.536909,
+    41.625987
+],
+  "geometry": {"coordinates":[-87.53690899999999,41.625987],"type":"Point"}
 }

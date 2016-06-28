@@ -2,13 +2,14 @@
   "id": 219899285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046957,40.239456,-88.046957,40.239456",
     "geom:latitude":40.239456,
     "geom:longitude":-88.046957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 Co Rd 2500 N",
     "sg:city":"Thomasboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219899285,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466496963,
     "wof:name":"Dekalb Genetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "consultant"
     ]
 },
-  "bbox": [-88.046957,40.239456,-88.046957,40.239456],
-  "geometry": {"coordinates":[-88.046957,40.239456],"type":"Point"}
+  "bbox": [
+    -88.046957,
+    40.239456,
+    -88.046957,
+    40.239456
+],
+  "geometry": {"coordinates":[-88.04695700000001,40.239456],"type":"Point"}
 }

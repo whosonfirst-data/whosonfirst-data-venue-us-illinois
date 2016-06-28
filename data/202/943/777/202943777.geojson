@@ -2,13 +2,14 @@
   "id": 202943777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.78548,40.691361,-89.78548,40.691361",
     "geom:latitude":40.691361,
     "geom:longitude":-89.78548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Murphy Rd",
     "sg:city":"Hanna City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202943777,
-    "wof:lastmodified":1449060786,
+    "wof:lastmodified":1466493696,
     "wof:name":"Immaculate Country Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.78548,40.691361,-89.78548,40.691361],
-  "geometry": {"coordinates":[-89.78548,40.691361],"type":"Point"}
+  "bbox": [
+    -89.78548,
+    40.691361,
+    -89.78548,
+    40.691361
+],
+  "geometry": {"coordinates":[-89.78548000000001,40.691361],"type":"Point"}
 }

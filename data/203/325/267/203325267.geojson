@@ -2,13 +2,14 @@
   "id": 203325267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160445,41.5553,-88.160445,41.5553",
     "geom:latitude":41.5553,
     "geom:longitude":-88.160445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3171 T Hickey Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203325267,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466490739,
     "wof:name":"Educare",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.160445,41.5553,-88.160445,41.5553],
+  "bbox": [
+    -88.160445,
+    41.5553,
+    -88.160445,
+    41.5553
+],
   "geometry": {"coordinates":[-88.160445,41.5553],"type":"Point"}
 }

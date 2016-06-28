@@ -2,13 +2,14 @@
   "id": 202738701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.625874,40.182535,-87.625874,40.182535",
     "geom:latitude":40.182535,
     "geom:longitude":-87.625874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Poland Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202738701,
-    "wof:lastmodified":1449061954,
+    "wof:lastmodified":1466491242,
     "wof:name":"Larry Watson Construction",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.625874,40.182535,-87.625874,40.182535],
+  "bbox": [
+    -87.625874,
+    40.182535,
+    -87.625874,
+    40.182535
+],
   "geometry": {"coordinates":[-87.625874,40.182535],"type":"Point"}
 }

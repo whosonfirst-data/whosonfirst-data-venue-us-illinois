@@ -2,13 +2,14 @@
   "id": 236718317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.543298,39.04583,-88.543298,39.04583",
     "geom:latitude":39.04583,
     "geom:longitude":-88.543298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8890 US Hwy 45",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236718317,
-    "wof:lastmodified":1449002210,
+    "wof:lastmodified":1466497174,
     "wof:name":"Emergency Services Disaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "emergency"
     ]
 },
-  "bbox": [-88.543298,39.04583,-88.543298,39.04583],
-  "geometry": {"coordinates":[-88.543298,39.04583],"type":"Point"}
+  "bbox": [
+    -88.543298,
+    39.04583,
+    -88.543298,
+    39.04583
+],
+  "geometry": {"coordinates":[-88.54329799999999,39.04583],"type":"Point"}
 }

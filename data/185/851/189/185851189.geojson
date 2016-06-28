@@ -2,13 +2,14 @@
   "id": 185851189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.935342,39.950053,-89.935342,39.950053",
     "geom:latitude":39.950053,
     "geom:longitude":-89.935342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Elm St",
     "sg:city":"Tallula",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185851189,
-    "wof:lastmodified":1449007659,
+    "wof:lastmodified":1466489349,
     "wof:name":"Steven Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-89.935342,39.950053,-89.935342,39.950053],
-  "geometry": {"coordinates":[-89.935342,39.950053],"type":"Point"}
+  "bbox": [
+    -89.935342,
+    39.950053,
+    -89.935342,
+    39.950053
+],
+  "geometry": {"coordinates":[-89.93534200000001,39.950053],"type":"Point"}
 }

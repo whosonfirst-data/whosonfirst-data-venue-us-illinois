@@ -2,13 +2,14 @@
   "id": 253608033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.865597,40.690604,-88.865597,40.690604",
     "geom:latitude":40.690604,
     "geom:longitude":-88.865597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18166 E 2775 North Rd",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253608033,
-    "wof:lastmodified":1449064086,
+    "wof:lastmodified":1466497061,
     "wof:name":"Bartley Brothers Construction",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.865597,40.690604,-88.865597,40.690604],
-  "geometry": {"coordinates":[-88.865597,40.690604],"type":"Point"}
+  "bbox": [
+    -88.865597,
+    40.690604,
+    -88.865597,
+    40.690604
+],
+  "geometry": {"coordinates":[-88.86559699999999,40.690604],"type":"Point"}
 }

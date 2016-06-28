@@ -2,13 +2,14 @@
   "id": 185898089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.704687,39.78995,-89.704687,39.78995",
     "geom:latitude":39.78995,
     "geom:longitude":-89.704687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"983 Clock Tower Dr Ste A",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185898089,
-    "wof:lastmodified":1449006568,
+    "wof:lastmodified":1466489897,
     "wof:name":"I D M",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-89.704687,39.78995,-89.704687,39.78995],
-  "geometry": {"coordinates":[-89.704687,39.78995],"type":"Point"}
+  "bbox": [
+    -89.704687,
+    39.78995,
+    -89.704687,
+    39.78995
+],
+  "geometry": {"coordinates":[-89.70468700000001,39.78995],"type":"Point"}
 }

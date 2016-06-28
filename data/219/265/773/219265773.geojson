@@ -2,13 +2,14 @@
   "id": 219265773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.207372,41.762268,-88.207372,41.762268",
     "geom:latitude":41.762268,
     "geom:longitude":-88.207372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 E New York St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219265773,
-    "wof:lastmodified":1449071602,
+    "wof:lastmodified":1466490283,
     "wof:name":"Measurement Inc",
     "wof:parent_id":85879073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.207372,41.762268,-88.207372,41.762268],
-  "geometry": {"coordinates":[-88.207372,41.762268],"type":"Point"}
+  "bbox": [
+    -88.207372,
+    41.762268,
+    -88.207372,
+    41.762268
+],
+  "geometry": {"coordinates":[-88.20737200000001,41.762268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219840241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95329,41.53775,-87.95329,41.53775",
     "geom:latitude":41.53775,
     "geom:longitude":-87.95329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Edmonds Ave",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219840241,
-    "wof:lastmodified":1449073139,
+    "wof:lastmodified":1466496779,
     "wof:name":"M C Custom",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.95329,41.53775,-87.95329,41.53775],
+  "bbox": [
+    -87.95329,
+    41.53775,
+    -87.95329,
+    41.53775
+],
   "geometry": {"coordinates":[-87.95329,41.53775],"type":"Point"}
 }

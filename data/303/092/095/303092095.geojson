@@ -2,13 +2,14 @@
   "id": 303092095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683887,42.064099,-87.683887,42.064099",
     "geom:latitude":42.064099,
     "geom:longitude":-87.683887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Central St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303092095,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466491277,
     "wof:name":"Evanston Northwestern Hlthcr",
     "wof:parent_id":85890799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.683887,42.064099,-87.683887,42.064099],
+  "bbox": [
+    -87.683887,
+    42.064099,
+    -87.683887,
+    42.064099
+],
   "geometry": {"coordinates":[-87.683887,42.064099],"type":"Point"}
 }

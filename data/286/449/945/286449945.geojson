@@ -2,13 +2,14 @@
   "id": 286449945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.560421,41.581376,-87.560421,41.581376",
     "geom:latitude":41.581376,
     "geom:longitude":-87.560421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17253 Continental Dr",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286449945,
-    "wof:lastmodified":1449017875,
+    "wof:lastmodified":1466492745,
     "wof:name":"Orc Protel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-87.560421,41.581376,-87.560421,41.581376],
-  "geometry": {"coordinates":[-87.560421,41.581376],"type":"Point"}
+  "bbox": [
+    -87.560421,
+    41.581376,
+    -87.560421,
+    41.581376
+],
+  "geometry": {"coordinates":[-87.56042100000001,41.581376],"type":"Point"}
 }

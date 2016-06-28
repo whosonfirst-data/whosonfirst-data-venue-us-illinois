@@ -2,13 +2,14 @@
   "id": 203066773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.325252,40.196785,-88.325252,40.196785",
     "geom:latitude":40.196785,
     "geom:longitude":-88.325252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Co Rd 2175 N",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203066773,
-    "wof:lastmodified":1449025453,
+    "wof:lastmodified":1466494014,
     "wof:name":"Worldwide Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wind"
     ]
 },
-  "bbox": [-88.325252,40.196785,-88.325252,40.196785],
-  "geometry": {"coordinates":[-88.325252,40.196785],"type":"Point"}
+  "bbox": [
+    -88.325252,
+    40.196785,
+    -88.325252,
+    40.196785
+],
+  "geometry": {"coordinates":[-88.32525200000001,40.196785],"type":"Point"}
 }

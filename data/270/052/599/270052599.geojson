@@ -2,13 +2,14 @@
   "id": 270052599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.515656,41.498613,-90.515656,41.498613",
     "geom:latitude":41.498613,
     "geom:longitude":-90.515656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 15th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270052599,
-    "wof:lastmodified":1449009737,
+    "wof:lastmodified":1466489817,
     "wof:name":"Bettys Mug Factory",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.515656,41.498613,-90.515656,41.498613],
-  "geometry": {"coordinates":[-90.515656,41.498613],"type":"Point"}
+  "bbox": [
+    -90.515656,
+    41.498613,
+    -90.515656,
+    41.498613
+],
+  "geometry": {"coordinates":[-90.51565600000001,41.498613],"type":"Point"}
 }

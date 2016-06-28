@@ -2,13 +2,14 @@
   "id": 203009447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.363875,40.154538,-89.363875,40.154538",
     "geom:latitude":40.154538,
     "geom:longitude":-89.363875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 College Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203009447,
-    "wof:lastmodified":1449026846,
+    "wof:lastmodified":1466489973,
     "wof:name":"Dean Hauter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.363875,40.154538,-89.363875,40.154538],
-  "geometry": {"coordinates":[-89.363875,40.154538],"type":"Point"}
+  "bbox": [
+    -89.363875,
+    40.154538,
+    -89.363875,
+    40.154538
+],
+  "geometry": {"coordinates":[-89.36387499999999,40.154538],"type":"Point"}
 }

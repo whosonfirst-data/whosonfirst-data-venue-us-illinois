@@ -2,13 +2,14 @@
   "id": 185906173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.920831,37.996599,-88.920831,37.996599",
     "geom:latitude":37.996599,
     "geom:longitude":-88.920831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 1/2 Public Sq Ste B",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185906173,
-    "wof:lastmodified":1449007217,
+    "wof:lastmodified":1466489965,
     "wof:name":"Benton Hearing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "hearing"
     ]
 },
-  "bbox": [-88.920831,37.996599,-88.920831,37.996599],
-  "geometry": {"coordinates":[-88.920831,37.996599],"type":"Point"}
+  "bbox": [
+    -88.920831,
+    37.996599,
+    -88.920831,
+    37.996599
+],
+  "geometry": {"coordinates":[-88.92083100000001,37.996599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286756203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.002615,40.057845,-88.002615,40.057845",
     "geom:latitude":40.057845,
     "geom:longitude":-88.002615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 Co Rd 1225 N",
     "sg:city":"Saint Joseph",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286756203,
-    "wof:lastmodified":1449016958,
+    "wof:lastmodified":1466496889,
     "wof:name":"Hidden Acres Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-88.002615,40.057845,-88.002615,40.057845],
-  "geometry": {"coordinates":[-88.002615,40.057845],"type":"Point"}
+  "bbox": [
+    -88.002615,
+    40.057845,
+    -88.002615,
+    40.057845
+],
+  "geometry": {"coordinates":[-88.00261500000001,40.057845],"type":"Point"}
 }

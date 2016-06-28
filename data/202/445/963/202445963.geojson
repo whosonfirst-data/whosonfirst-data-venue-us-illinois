@@ -2,13 +2,14 @@
   "id": 202445963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.719849,41.442213,-90.719849,41.442213",
     "geom:latitude":41.442213,
     "geom:longitude":-90.719849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 1st St",
     "sg:city":"Andalusia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202445963,
-    "wof:lastmodified":1449060445,
+    "wof:lastmodified":1466494145,
     "wof:name":"Village of Andalusia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-90.719849,41.442213,-90.719849,41.442213],
+  "bbox": [
+    -90.719849,
+    41.442213,
+    -90.719849,
+    41.442213
+],
   "geometry": {"coordinates":[-90.719849,41.442213],"type":"Point"}
 }

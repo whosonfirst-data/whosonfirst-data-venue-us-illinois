@@ -2,13 +2,14 @@
   "id": 236413273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.566315,41.759946,-87.566315,41.759946",
     "geom:latitude":41.759946,
     "geom:longitude":-87.566315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7427 S Yates Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236413273,
-    "wof:lastmodified":1449002067,
+    "wof:lastmodified":1466494238,
     "wof:name":"Chicagoland PC Police Cmptr",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-87.566315,41.759946,-87.566315,41.759946],
+  "bbox": [
+    -87.566315,
+    41.759946,
+    -87.566315,
+    41.759946
+],
   "geometry": {"coordinates":[-87.566315,41.759946],"type":"Point"}
 }

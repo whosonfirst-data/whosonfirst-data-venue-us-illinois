@@ -2,13 +2,14 @@
   "id": 252889329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850991,41.140059,-87.850991,41.140059",
     "geom:latitude":41.140059,
     "geom:longitude":-87.850991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 S Kinzie Ave",
     "sg:city":"Bradley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252889329,
-    "wof:lastmodified":1449005385,
+    "wof:lastmodified":1466491297,
     "wof:name":"D L Libby Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-87.850991,41.140059,-87.850991,41.140059],
-  "geometry": {"coordinates":[-87.850991,41.140059],"type":"Point"}
+  "bbox": [
+    -87.850991,
+    41.140059,
+    -87.850991,
+    41.140059
+],
+  "geometry": {"coordinates":[-87.85099099999999,41.140059],"type":"Point"}
 }

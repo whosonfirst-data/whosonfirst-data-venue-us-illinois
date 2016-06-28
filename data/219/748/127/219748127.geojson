@@ -2,13 +2,14 @@
   "id": 219748127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371775,41.757629,-88.371775,41.757629",
     "geom:latitude":41.757629,
     "geom:longitude":-88.371775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Heritage Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219748127,
-    "wof:lastmodified":1449073049,
+    "wof:lastmodified":1466495928,
     "wof:name":"Wago",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-88.371775,41.757629,-88.371775,41.757629],
+  "bbox": [
+    -88.371775,
+    41.757629,
+    -88.371775,
+    41.757629
+],
   "geometry": {"coordinates":[-88.371775,41.757629],"type":"Point"}
 }

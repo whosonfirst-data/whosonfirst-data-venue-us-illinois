@@ -2,13 +2,14 @@
   "id": 253519357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.13563,41.334011,-89.13563,41.334011",
     "geom:latitude":41.334011,
     "geom:longitude":-89.13563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 11th St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253519357,
-    "wof:lastmodified":1449065598,
+    "wof:lastmodified":1466496180,
     "wof:name":"Products Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-89.13563,41.334011,-89.13563,41.334011],
-  "geometry": {"coordinates":[-89.13563,41.334011],"type":"Point"}
+  "bbox": [
+    -89.13563,
+    41.334011,
+    -89.13563,
+    41.334011
+],
+  "geometry": {"coordinates":[-89.13563000000001,41.334011],"type":"Point"}
 }

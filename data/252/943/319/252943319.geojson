@@ -2,13 +2,14 @@
   "id": 252943319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.000076,42.39746,-89.000076,42.39746",
     "geom:latitude":42.39746,
     "geom:longitude":-89.000076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5985 Targee Trl",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252943319,
-    "wof:lastmodified":1449005709,
+    "wof:lastmodified":1466492029,
     "wof:name":"WJM Computer Resources Inc",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.000076,42.39746,-89.000076,42.39746],
-  "geometry": {"coordinates":[-89.000076,42.39746],"type":"Point"}
+  "bbox": [
+    -89.000076,
+    42.39746,
+    -89.000076,
+    42.39746
+],
+  "geometry": {"coordinates":[-89.00007600000001,42.39746],"type":"Point"}
 }

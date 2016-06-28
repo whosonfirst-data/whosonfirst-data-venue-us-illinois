@@ -2,13 +2,14 @@
   "id": 220045703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.906027,40.99229,-88.906027,40.99229",
     "geom:latitude":40.99229,
     "geom:longitude":-88.906027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 E 2540 N Rd",
     "sg:city":"Long Point",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220045703,
-    "wof:lastmodified":1449074780,
+    "wof:lastmodified":1466489500,
     "wof:name":"Trinity Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.906027,40.99229,-88.906027,40.99229],
-  "geometry": {"coordinates":[-88.906027,40.99229],"type":"Point"}
+  "bbox": [
+    -88.906027,
+    40.99229,
+    -88.906027,
+    40.99229
+],
+  "geometry": {"coordinates":[-88.90602699999999,40.99229],"type":"Point"}
 }

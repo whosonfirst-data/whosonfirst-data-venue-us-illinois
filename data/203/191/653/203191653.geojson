@@ -2,13 +2,14 @@
   "id": 203191653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.825155,41.798728,-87.825155,41.798728",
     "geom:latitude":41.798728,
     "geom:longitude":-87.825155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 W Lawndale Ave",
     "sg:city":"Summit Argo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203191653,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466489258,
     "wof:name":"North Shore & Centl Ill Frt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.825155,41.798728,-87.825155,41.798728],
+  "bbox": [
+    -87.825155,
+    41.798728,
+    -87.825155,
+    41.798728
+],
   "geometry": {"coordinates":[-87.825155,41.798728],"type":"Point"}
 }

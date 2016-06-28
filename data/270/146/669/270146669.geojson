@@ -2,13 +2,14 @@
   "id": 270146669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.444359,38.535839,-89.444359,38.535839",
     "geom:latitude":38.535839,
     "geom:longitude":-89.444359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14102 State Rte 161",
     "sg:city":"Bartelso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270146669,
-    "wof:lastmodified":1449009655,
+    "wof:lastmodified":1466491203,
     "wof:name":"Kohrmann Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.444359,38.535839,-89.444359,38.535839],
-  "geometry": {"coordinates":[-89.444359,38.535839],"type":"Point"}
+  "bbox": [
+    -89.444359,
+    38.535839,
+    -89.444359,
+    38.535839
+],
+  "geometry": {"coordinates":[-89.44435900000001,38.535839],"type":"Point"}
 }

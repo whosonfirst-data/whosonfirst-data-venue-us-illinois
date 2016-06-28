@@ -2,13 +2,14 @@
   "id": 253198695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.749255,41.880521,-87.749255,41.880521",
     "geom:latitude":41.880521,
     "geom:longitude":-87.749255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4906 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253198695,
-    "wof:lastmodified":1449063902,
+    "wof:lastmodified":1466491320,
     "wof:name":"Chicago Upholstering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-87.749255,41.880521,-87.749255,41.880521],
-  "geometry": {"coordinates":[-87.749255,41.880521],"type":"Point"}
+  "bbox": [
+    -87.749255,
+    41.880521,
+    -87.749255,
+    41.880521
+],
+  "geometry": {"coordinates":[-87.74925500000001,41.880521],"type":"Point"}
 }

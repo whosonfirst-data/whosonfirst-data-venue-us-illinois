@@ -2,13 +2,14 @@
   "id": 269970297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.705343,40.454889,-90.705343,40.454889",
     "geom:latitude":40.454889,
     "geom:longitude":-90.705343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3022 W Jackson St",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269970297,
-    "wof:lastmodified":1449038902,
+    "wof:lastmodified":1466496287,
     "wof:name":"University of Illinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.705343,40.454889,-90.705343,40.454889],
+  "bbox": [
+    -90.705343,
+    40.454889,
+    -90.705343,
+    40.454889
+],
   "geometry": {"coordinates":[-90.705343,40.454889],"type":"Point"}
 }

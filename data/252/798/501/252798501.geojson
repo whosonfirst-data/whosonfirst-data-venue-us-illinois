@@ -2,13 +2,14 @@
   "id": 252798501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.936163,38.091355,-89.936163,38.091355",
     "geom:latitude":38.091355,
     "geom:longitude":-89.936163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Public St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252798501,
-    "wof:lastmodified":1449005620,
+    "wof:lastmodified":1466490161,
     "wof:name":"Evansville Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.936163,38.091355,-89.936163,38.091355],
-  "geometry": {"coordinates":[-89.936163,38.091355],"type":"Point"}
+  "bbox": [
+    -89.936163,
+    38.091355,
+    -89.936163,
+    38.091355
+],
+  "geometry": {"coordinates":[-89.93616299999999,38.091355],"type":"Point"}
 }

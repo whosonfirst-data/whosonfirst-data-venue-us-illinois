@@ -2,13 +2,14 @@
   "id": 270449701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.820029,41.897031,-87.820029,41.897031",
     "geom:latitude":41.897031,
     "geom:longitude":-87.820029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Park Ave",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270449701,
-    "wof:lastmodified":1449010926,
+    "wof:lastmodified":1466495993,
     "wof:name":"Elm Floor Inc",
     "wof:parent_id":85890849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-87.820029,41.897031,-87.820029,41.897031],
-  "geometry": {"coordinates":[-87.820029,41.897031],"type":"Point"}
+  "bbox": [
+    -87.820029,
+    41.897031,
+    -87.820029,
+    41.897031
+],
+  "geometry": {"coordinates":[-87.82002900000001,41.897031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270502387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087384,41.766093,-88.087384,41.766093",
     "geom:latitude":41.766093,
     "geom:longitude":-88.087384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Carriage Hill Rd",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270502387,
-    "wof:lastmodified":1449009752,
+    "wof:lastmodified":1466496298,
     "wof:name":"Arrow Surveying Svc",
     "wof:parent_id":85879115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-88.087384,41.766093,-88.087384,41.766093],
+  "bbox": [
+    -88.087384,
+    41.766093,
+    -88.087384,
+    41.766093
+],
   "geometry": {"coordinates":[-88.087384,41.766093],"type":"Point"}
 }

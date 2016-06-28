@@ -2,13 +2,14 @@
   "id": 202541125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681754,42.048703,-87.681754,42.048703",
     "geom:latitude":42.048703,
     "geom:longitude":-87.681754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Sherman Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202541125,
-    "wof:lastmodified":1449060388,
+    "wof:lastmodified":1466488962,
     "wof:name":"Evanston Panda Express",
     "wof:parent_id":85890791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.681754,42.048703,-87.681754,42.048703],
+  "bbox": [
+    -87.681754,
+    42.048703,
+    -87.681754,
+    42.048703
+],
   "geometry": {"coordinates":[-87.681754,42.048703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202743887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.363068,41.769941,-88.363068,41.769941",
     "geom:latitude":41.769941,
     "geom:longitude":-88.363068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 W Illinois Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202743887,
-    "wof:lastmodified":1449062628,
+    "wof:lastmodified":1466491303,
     "wof:name":"USA Expediting",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.363068,41.769941,-88.363068,41.769941],
+  "bbox": [
+    -88.363068,
+    41.769941,
+    -88.363068,
+    41.769941
+],
   "geometry": {"coordinates":[-88.363068,41.769941],"type":"Point"}
 }

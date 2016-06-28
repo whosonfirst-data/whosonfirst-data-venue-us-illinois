@@ -2,13 +2,14 @@
   "id": 303064429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.035022,42.265218,-89.035022,42.265218",
     "geom:latitude":42.265218,
     "geom:longitude":-89.035022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4223 E State St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303064429,
-    "wof:lastmodified":1448998980,
+    "wof:lastmodified":1466490852,
     "wof:name":"Vna Case Co-Ordination Unit",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.035022,42.265218,-89.035022,42.265218],
+  "bbox": [
+    -89.035022,
+    42.265218,
+    -89.035022,
+    42.265218
+],
   "geometry": {"coordinates":[-89.035022,42.265218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253311781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850995,41.165389,-87.850995,41.165389",
     "geom:latitude":41.165389,
     "geom:longitude":-87.850995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 N State Rte 50",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253311781,
-    "wof:lastmodified":1449063506,
+    "wof:lastmodified":1466492895,
     "wof:name":"Avenue The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.850995,41.165389,-87.850995,41.165389],
+  "bbox": [
+    -87.850995,
+    41.165389,
+    -87.850995,
+    41.165389
+],
   "geometry": {"coordinates":[-87.850995,41.165389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270297253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272742,40.712053,-89.272742,40.712053",
     "geom:latitude":40.712053,
     "geom:longitude":-89.272742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 S Main St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270297253,
-    "wof:lastmodified":1449010222,
+    "wof:lastmodified":1466493541,
     "wof:name":"All Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-89.272742,40.712053,-89.272742,40.712053],
-  "geometry": {"coordinates":[-89.272742,40.712053],"type":"Point"}
+  "bbox": [
+    -89.272742,
+    40.712053,
+    -89.272742,
+    40.712053
+],
+  "geometry": {"coordinates":[-89.27274199999999,40.712053],"type":"Point"}
 }

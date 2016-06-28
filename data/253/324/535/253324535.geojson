@@ -2,13 +2,14 @@
   "id": 253324535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.700514,41.916529,-87.700514,41.916529",
     "geom:latitude":41.916529,
     "geom:longitude":-87.700514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 N Richmond St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253324535,
-    "wof:lastmodified":1449064540,
+    "wof:lastmodified":1466493072,
     "wof:name":"ABR",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.700514,41.916529,-87.700514,41.916529],
+  "bbox": [
+    -87.700514,
+    41.916529,
+    -87.700514,
+    41.916529
+],
   "geometry": {"coordinates":[-87.700514,41.916529],"type":"Point"}
 }

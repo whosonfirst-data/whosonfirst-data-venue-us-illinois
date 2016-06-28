@@ -2,13 +2,14 @@
   "id": 269725449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.113658,42.238521,-88.113658,42.238521",
     "geom:latitude":42.238521,
     "geom:longitude":-88.113658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24955 N US Hwy 12",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269725449,
-    "wof:lastmodified":1449036731,
+    "wof:lastmodified":1466492835,
     "wof:name":"Mt St Joseph",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-88.113658,42.238521,-88.113658,42.238521],
+  "bbox": [
+    -88.113658,
+    42.238521,
+    -88.113658,
+    42.238521
+],
   "geometry": {"coordinates":[-88.113658,42.238521],"type":"Point"}
 }

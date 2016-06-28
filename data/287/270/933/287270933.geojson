@@ -2,13 +2,14 @@
   "id": 287270933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.302101,41.186101,-88.302101,41.186101",
     "geom:latitude":41.186101,
     "geom:longitude":-88.302101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Main St",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287270933,
-    "wof:lastmodified":1449000822,
+    "wof:lastmodified":1466494297,
     "wof:name":"Gardner South Wilmington High",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.302101,41.186101,-88.302101,41.186101],
-  "geometry": {"coordinates":[-88.302101,41.186101],"type":"Point"}
+  "bbox": [
+    -88.302101,
+    41.186101,
+    -88.302101,
+    41.186101
+],
+  "geometry": {"coordinates":[-88.30210099999999,41.186101],"type":"Point"}
 }

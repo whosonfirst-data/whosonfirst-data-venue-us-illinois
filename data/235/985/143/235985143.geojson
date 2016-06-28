@@ -2,13 +2,14 @@
   "id": 235985143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.780184,41.897907,-87.780184,41.897907",
     "geom:latitude":41.897907,
     "geom:longitude":-87.780184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 N Lombard Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235985143,
-    "wof:lastmodified":1449008415,
+    "wof:lastmodified":1466489611,
     "wof:name":"Bloodworth Consulting",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.780184,41.897907,-87.780184,41.897907],
-  "geometry": {"coordinates":[-87.780184,41.897907],"type":"Point"}
+  "bbox": [
+    -87.780184,
+    41.897907,
+    -87.780184,
+    41.897907
+],
+  "geometry": {"coordinates":[-87.78018400000001,41.897907],"type":"Point"}
 }

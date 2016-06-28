@@ -2,13 +2,14 @@
   "id": 203257901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.993389,41.992806,-87.993389,41.992806",
     "geom:latitude":41.992806,
     "geom:longitude":-87.993389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Devon Ave",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203257901,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466489999,
     "wof:name":"Cygnus Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "internet"
     ]
 },
-  "bbox": [-87.993389,41.992806,-87.993389,41.992806],
-  "geometry": {"coordinates":[-87.993389,41.992806],"type":"Point"}
+  "bbox": [
+    -87.993389,
+    41.992806,
+    -87.993389,
+    41.992806
+],
+  "geometry": {"coordinates":[-87.99338899999999,41.992806],"type":"Point"}
 }

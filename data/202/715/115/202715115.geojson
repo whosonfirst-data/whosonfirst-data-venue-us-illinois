@@ -2,13 +2,14 @@
   "id": 202715115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690358,42.037578,-87.690358,42.037578",
     "geom:latitude":42.037578,
     "geom:longitude":-87.690358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Greenleaf St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202715115,
-    "wof:lastmodified":1449062151,
+    "wof:lastmodified":1466490971,
     "wof:name":"Britton Information Services",
     "wof:parent_id":85890797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "distributor"
     ]
 },
-  "bbox": [-87.690358,42.037578,-87.690358,42.037578],
+  "bbox": [
+    -87.690358,
+    42.037578,
+    -87.690358,
+    42.037578
+],
   "geometry": {"coordinates":[-87.690358,42.037578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286463591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.634588,40.133261,-87.634588,40.133261",
     "geom:latitude":40.133261,
     "geom:longitude":-87.634588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W Williams St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286463591,
-    "wof:lastmodified":1449017228,
+    "wof:lastmodified":1466492939,
     "wof:name":"Custom Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.634588,40.133261,-87.634588,40.133261],
-  "geometry": {"coordinates":[-87.634588,40.133261],"type":"Point"}
+  "bbox": [
+    -87.634588,
+    40.133261,
+    -87.634588,
+    40.133261
+],
+  "geometry": {"coordinates":[-87.63458799999999,40.133261],"type":"Point"}
 }

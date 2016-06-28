@@ -2,13 +2,14 @@
   "id": 220044921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.656729,41.527843,-87.656729,41.527843",
     "geom:latitude":41.527843,
     "geom:longitude":-87.656729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 Dixie Hwy",
     "sg:city":"Flossmoor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220044921,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466489492,
     "wof:name":"James T Daly DDS",
     "wof:parent_id":85868891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.656729,41.527843,-87.656729,41.527843],
+  "bbox": [
+    -87.656729,
+    41.527843,
+    -87.656729,
+    41.527843
+],
   "geometry": {"coordinates":[-87.656729,41.527843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185784701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.003779,39.712672,-89.003779,39.712672",
     "geom:latitude":39.712672,
     "geom:longitude":-89.003779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Towson",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185784701,
-    "wof:lastmodified":1449007668,
+    "wof:lastmodified":1466495584,
     "wof:name":"Schram Rental Properties",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-89.003779,39.712672,-89.003779,39.712672],
-  "geometry": {"coordinates":[-89.003779,39.712672],"type":"Point"}
+  "bbox": [
+    -89.003779,
+    39.712672,
+    -89.003779,
+    39.712672
+],
+  "geometry": {"coordinates":[-89.00377899999999,39.712672],"type":"Point"}
 }

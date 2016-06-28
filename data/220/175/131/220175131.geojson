@@ -2,13 +2,14 @@
   "id": 220175131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.226436,39.734331,-90.226436,39.734331",
     "geom:latitude":39.734331,
     "geom:longitude":-90.226436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E State St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220175131,
-    "wof:lastmodified":1449074611,
+    "wof:lastmodified":1466491071,
     "wof:name":"Knights of Columbus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.226436,39.734331,-90.226436,39.734331],
-  "geometry": {"coordinates":[-90.226436,39.734331],"type":"Point"}
+  "bbox": [
+    -90.226436,
+    39.734331,
+    -90.226436,
+    39.734331
+],
+  "geometry": {"coordinates":[-90.22643600000001,39.734331],"type":"Point"}
 }

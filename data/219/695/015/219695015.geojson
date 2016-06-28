@@ -2,13 +2,14 @@
   "id": 219695015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.95606,37.896828,-88.95606,37.896828",
     "geom:latitude":37.896828,
     "geom:longitude":-88.95606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17895 State Rte 37",
     "sg:city":"West Frankfort",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219695015,
-    "wof:lastmodified":1449071725,
+    "wof:lastmodified":1466495479,
     "wof:name":"PI Group of Southern Illinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.95606,37.896828,-88.95606,37.896828],
-  "geometry": {"coordinates":[-88.95606,37.896828],"type":"Point"}
+  "bbox": [
+    -88.95606,
+    37.896828,
+    -88.95606,
+    37.896828
+],
+  "geometry": {"coordinates":[-88.95605999999999,37.896828],"type":"Point"}
 }

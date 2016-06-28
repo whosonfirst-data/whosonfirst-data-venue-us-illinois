@@ -2,13 +2,14 @@
   "id": 269850801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.315964,41.875733,-88.315964,41.875733",
     "geom:latitude":41.875733,
     "geom:longitude":-88.315964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Meadows Rd",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269850801,
-    "wof:lastmodified":1449037536,
+    "wof:lastmodified":1466494806,
     "wof:name":"Weinert Frank Architect",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-88.315964,41.875733,-88.315964,41.875733],
-  "geometry": {"coordinates":[-88.315964,41.875733],"type":"Point"}
+  "bbox": [
+    -88.315964,
+    41.875733,
+    -88.315964,
+    41.875733
+],
+  "geometry": {"coordinates":[-88.31596399999999,41.875733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286346141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.020668,41.799751,-88.020668,41.799751",
     "geom:latitude":41.799751,
     "geom:longitude":-88.020668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 Prairie Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286346141,
-    "wof:lastmodified":1449015148,
+    "wof:lastmodified":1466491118,
     "wof:name":"Longfellow Center",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.020668,41.799751,-88.020668,41.799751],
+  "bbox": [
+    -88.020668,
+    41.799751,
+    -88.020668,
+    41.799751
+],
   "geometry": {"coordinates":[-88.020668,41.799751],"type":"Point"}
 }

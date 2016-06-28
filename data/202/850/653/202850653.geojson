@@ -2,13 +2,14 @@
   "id": 202850653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.953136,41.87991,-87.953136,41.87991",
     "geom:latitude":41.87991,
     "geom:longitude":-87.953136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 S Hawthorne Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202850653,
-    "wof:lastmodified":1449061578,
+    "wof:lastmodified":1466492579,
     "wof:name":"Development Systems",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-87.953136,41.87991,-87.953136,41.87991],
+  "bbox": [
+    -87.953136,
+    41.87991,
+    -87.953136,
+    41.87991
+],
   "geometry": {"coordinates":[-87.953136,41.87991],"type":"Point"}
 }

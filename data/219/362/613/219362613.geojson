@@ -2,13 +2,14 @@
   "id": 219362613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.547561,39.062268,-88.547561,39.062268",
     "geom:latitude":39.062268,
     "geom:longitude":-88.547561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10517 US Hwy 45",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219362613,
-    "wof:lastmodified":1449072664,
+    "wof:lastmodified":1466491446,
     "wof:name":"Waymos Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-88.547561,39.062268,-88.547561,39.062268],
+  "bbox": [
+    -88.547561,
+    39.062268,
+    -88.547561,
+    39.062268
+],
   "geometry": {"coordinates":[-88.547561,39.062268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252765425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.786881,39.445477,-89.786881,39.445477",
     "geom:latitude":39.445477,
     "geom:longitude":-89.786881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 W Madison St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252765425,
-    "wof:lastmodified":1449006041,
+    "wof:lastmodified":1466489732,
     "wof:name":"St Patrick's Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-89.786881,39.445477,-89.786881,39.445477],
-  "geometry": {"coordinates":[-89.786881,39.445477],"type":"Point"}
+  "bbox": [
+    -89.786881,
+    39.445477,
+    -89.786881,
+    39.445477
+],
+  "geometry": {"coordinates":[-89.78688099999999,39.445477],"type":"Point"}
 }

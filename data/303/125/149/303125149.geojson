@@ -2,13 +2,14 @@
   "id": 303125149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798125,41.517991,-87.798125,41.517991",
     "geom:latitude":41.517991,
     "geom:longitude":-87.798125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20437 S Cobble Stone Ct",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303125149,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1466491818,
     "wof:name":"RC Mechanical Services",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.798125,41.517991,-87.798125,41.517991],
+  "bbox": [
+    -87.798125,
+    41.517991,
+    -87.798125,
+    41.517991
+],
   "geometry": {"coordinates":[-87.798125,41.517991],"type":"Point"}
 }

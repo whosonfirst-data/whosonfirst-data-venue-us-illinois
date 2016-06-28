@@ -2,13 +2,14 @@
   "id": 203143327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.670943,40.73235,-90.670943,40.73235",
     "geom:latitude":40.73235,
     "geom:longitude":-90.670943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 State Rte 116",
     "sg:city":"Roseville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203143327,
-    "wof:lastmodified":1449026521,
+    "wof:lastmodified":1466495418,
     "wof:name":"Liqui-Grow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-90.670943,40.73235,-90.670943,40.73235],
-  "geometry": {"coordinates":[-90.670943,40.73235],"type":"Point"}
+  "bbox": [
+    -90.670943,
+    40.73235,
+    -90.670943,
+    40.73235
+],
+  "geometry": {"coordinates":[-90.67094299999999,40.73235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185875907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.694251,39.766689,-89.694251,39.766689",
     "geom:latitude":39.766689,
     "geom:longitude":-89.694251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 Montvale Dr Ste D",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185875907,
-    "wof:lastmodified":1449007798,
+    "wof:lastmodified":1466489665,
     "wof:name":"Ck Salon",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.694251,39.766689,-89.694251,39.766689],
-  "geometry": {"coordinates":[-89.694251,39.766689],"type":"Point"}
+  "bbox": [
+    -89.694251,
+    39.766689,
+    -89.694251,
+    39.766689
+],
+  "geometry": {"coordinates":[-89.69425099999999,39.766689],"type":"Point"}
 }

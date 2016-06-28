@@ -2,13 +2,14 @@
   "id": 270463925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99263,41.957394,-87.99263,41.957394",
     "geom:latitude":41.957394,
     "geom:longitude":-87.99263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Paramount Dr",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270463925,
-    "wof:lastmodified":1449010360,
+    "wof:lastmodified":1466496156,
     "wof:name":"MDT Trucking Inc",
     "wof:parent_id":85890713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.99263,41.957394,-87.99263,41.957394],
-  "geometry": {"coordinates":[-87.99263,41.957394],"type":"Point"}
+  "bbox": [
+    -87.99263,
+    41.957394,
+    -87.99263,
+    41.957394
+],
+  "geometry": {"coordinates":[-87.99263000000001,41.957394],"type":"Point"}
 }

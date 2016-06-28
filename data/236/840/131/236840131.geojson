@@ -2,13 +2,14 @@
   "id": 236840131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.20548,39.44103,-88.20548,39.44103",
     "geom:latitude":39.44103,
     "geom:longitude":-88.20548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4253 Lincoln Hwy Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236840131,
-    "wof:lastmodified":1449004349,
+    "wof:lastmodified":1466497947,
     "wof:name":"Charleston Driving Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [-88.20548,39.44103,-88.20548,39.44103],
-  "geometry": {"coordinates":[-88.20548,39.44103],"type":"Point"}
+  "bbox": [
+    -88.20548,
+    39.44103,
+    -88.20548,
+    39.44103
+],
+  "geometry": {"coordinates":[-88.20547999999999,39.44103],"type":"Point"}
 }

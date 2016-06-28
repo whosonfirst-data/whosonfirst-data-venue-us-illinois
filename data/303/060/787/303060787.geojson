@@ -2,13 +2,14 @@
   "id": 303060787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173127,39.481976,-88.173127,39.481976",
     "geom:latitude":39.481976,
     "geom:longitude":-88.173127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Grant Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303060787,
-    "wof:lastmodified":1449000341,
+    "wof:lastmodified":1466490797,
     "wof:name":"Park Place Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.173127,39.481976,-88.173127,39.481976],
-  "geometry": {"coordinates":[-88.173127,39.481976],"type":"Point"}
+  "bbox": [
+    -88.173127,
+    39.481976,
+    -88.173127,
+    39.481976
+],
+  "geometry": {"coordinates":[-88.17312699999999,39.481976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202597331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.862778,41.980551,-87.862778,41.980551",
     "geom:latitude":41.980551,
     "geom:longitude":-87.862778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Bryn Mawr Ave",
     "sg:city":"Rosemont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202597331,
-    "wof:lastmodified":1449062604,
+    "wof:lastmodified":1466489636,
     "wof:name":"Deli-Time",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-87.862778,41.980551,-87.862778,41.980551],
-  "geometry": {"coordinates":[-87.862778,41.980551],"type":"Point"}
+  "bbox": [
+    -87.862778,
+    41.980551,
+    -87.862778,
+    41.980551
+],
+  "geometry": {"coordinates":[-87.86277800000001,41.980551],"type":"Point"}
 }

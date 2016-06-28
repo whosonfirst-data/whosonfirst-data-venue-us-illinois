@@ -2,13 +2,14 @@
   "id": 219723837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654851,41.964339,-87.654851,41.964339",
     "geom:latitude":41.964339,
     "geom:longitude":-87.654851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219723837,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466495988,
     "wof:name":"Indian Child Welfare",
     "wof:parent_id":85867541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.654851,41.964339,-87.654851,41.964339],
-  "geometry": {"coordinates":[-87.654851,41.964339],"type":"Point"}
+  "bbox": [
+    -87.654851,
+    41.964339,
+    -87.654851,
+    41.964339
+],
+  "geometry": {"coordinates":[-87.65485099999999,41.964339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269635343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.979138,41.889734,-87.979138,41.889734",
     "geom:latitude":41.889734,
     "geom:longitude":-87.979138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Ardmore Ave",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269635343,
-    "wof:lastmodified":1449037178,
+    "wof:lastmodified":1466491385,
     "wof:name":"Village of Villa Park",
     "wof:parent_id":85890961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-87.979138,41.889734,-87.979138,41.889734],
-  "geometry": {"coordinates":[-87.979138,41.889734],"type":"Point"}
+  "bbox": [
+    -87.979138,
+    41.889734,
+    -87.979138,
+    41.889734
+],
+  "geometry": {"coordinates":[-87.97913800000001,41.889734],"type":"Point"}
 }

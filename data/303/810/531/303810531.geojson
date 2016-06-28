@@ -2,13 +2,14 @@
   "id": 303810531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.631106,41.442793,-87.631106,41.442793",
     "geom:latitude":41.442793,
     "geom:longitude":-87.631106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1397 Main St",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303810531,
-    "wof:lastmodified":1448998823,
+    "wof:lastmodified":1466493089,
     "wof:name":"Old Town Dental Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.631106,41.442793,-87.631106,41.442793],
+  "bbox": [
+    -87.631106,
+    41.442793,
+    -87.631106,
+    41.442793
+],
   "geometry": {"coordinates":[-87.631106,41.442793],"type":"Point"}
 }

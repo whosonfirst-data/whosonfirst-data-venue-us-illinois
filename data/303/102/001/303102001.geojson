@@ -2,13 +2,14 @@
   "id": 303102001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.091151,41.808085,-88.091151,41.808085",
     "geom:latitude":41.808085,
     "geom:longitude":-88.091151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Warrenville Rd",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303102001,
-    "wof:lastmodified":1449000380,
+    "wof:lastmodified":1466491433,
     "wof:name":"Royal Express",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.091151,41.808085,-88.091151,41.808085],
+  "bbox": [
+    -88.091151,
+    41.808085,
+    -88.091151,
+    41.808085
+],
   "geometry": {"coordinates":[-88.091151,41.808085],"type":"Point"}
 }

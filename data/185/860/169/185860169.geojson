@@ -2,13 +2,14 @@
   "id": 185860169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.628616,39.84697,-89.628616,39.84697",
     "geom:latitude":39.84697,
     "geom:longitude":-89.628616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kalmia Way",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185860169,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1466489441,
     "wof:name":"Mid Central Illinois Regional Council of Carpenters & Joiners",
     "wof:parent_id":85868929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-89.628616,39.84697,-89.628616,39.84697],
-  "geometry": {"coordinates":[-89.628616,39.84697],"type":"Point"}
+  "bbox": [
+    -89.628616,
+    39.84697,
+    -89.628616,
+    39.84697
+],
+  "geometry": {"coordinates":[-89.62861599999999,39.84697],"type":"Point"}
 }

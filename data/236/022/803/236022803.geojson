@@ -2,13 +2,14 @@
   "id": 236022803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.233623,39.73423,-90.233623,39.73423",
     "geom:latitude":39.73423,
     "geom:longitude":-90.233623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 W State St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236022803,
-    "wof:lastmodified":1449002598,
+    "wof:lastmodified":1466489245,
     "wof:name":"Women Infant Children Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "administrative"
     ]
 },
-  "bbox": [-90.233623,39.73423,-90.233623,39.73423],
-  "geometry": {"coordinates":[-90.233623,39.73423],"type":"Point"}
+  "bbox": [
+    -90.233623,
+    39.73423,
+    -90.233623,
+    39.73423
+],
+  "geometry": {"coordinates":[-90.23362299999999,39.73423],"type":"Point"}
 }

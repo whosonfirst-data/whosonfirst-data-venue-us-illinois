@@ -2,13 +2,14 @@
   "id": 203052377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.833469,41.505044,-87.833469,41.505044",
     "geom:latitude":41.505044,
     "geom:longitude":-87.833469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 Raintree Ln",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203052377,
-    "wof:lastmodified":1449025765,
+    "wof:lastmodified":1466493679,
     "wof:name":"Silver Transport Co",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.833469,41.505044,-87.833469,41.505044],
-  "geometry": {"coordinates":[-87.833469,41.505044],"type":"Point"}
+  "bbox": [
+    -87.833469,
+    41.505044,
+    -87.833469,
+    41.505044
+],
+  "geometry": {"coordinates":[-87.83346899999999,41.505044],"type":"Point"}
 }

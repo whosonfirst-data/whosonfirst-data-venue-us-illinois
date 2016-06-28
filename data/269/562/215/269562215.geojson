@@ -2,13 +2,14 @@
   "id": 269562215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.823917,41.9794,-87.823917,41.9794",
     "geom:latitude":41.9794,
     "geom:longitude":-87.823917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5457 N Canfield Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":269562215,
-    "wof:lastmodified":1449037405,
+    "wof:lastmodified":1466490220,
     "wof:name":"Project Dimensions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.823917,41.9794,-87.823917,41.9794],
-  "geometry": {"coordinates":[-87.823917,41.9794],"type":"Point"}
+  "bbox": [
+    -87.823917,
+    41.9794,
+    -87.823917,
+    41.9794
+],
+  "geometry": {"coordinates":[-87.82391699999999,41.9794],"type":"Point"}
 }

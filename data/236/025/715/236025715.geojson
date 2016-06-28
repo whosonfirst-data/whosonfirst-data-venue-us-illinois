@@ -2,13 +2,14 @@
   "id": 236025715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.353313,39.957092,-91.353313,39.957092",
     "geom:latitude":39.957092,
     "geom:longitude":-91.353313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 Wisman Ln",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236025715,
-    "wof:lastmodified":1449004594,
+    "wof:lastmodified":1466489279,
     "wof:name":"Western Illinois Veterinary",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-91.353313,39.957092,-91.353313,39.957092],
+  "bbox": [
+    -91.353313,
+    39.957092,
+    -91.353313,
+    39.957092
+],
   "geometry": {"coordinates":[-91.353313,39.957092],"type":"Point"}
 }

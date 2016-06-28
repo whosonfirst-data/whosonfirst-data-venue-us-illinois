@@ -2,13 +2,14 @@
   "id": 186623755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.687232,38.746415,-89.687232,38.746415",
     "geom:latitude":38.746415,
     "geom:longitude":-89.687232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Executive Dr",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186623755,
-    "wof:lastmodified":1449052239,
+    "wof:lastmodified":1466489704,
     "wof:name":"Compusolve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-89.687232,38.746415,-89.687232,38.746415],
-  "geometry": {"coordinates":[-89.687232,38.746415],"type":"Point"}
+  "bbox": [
+    -89.687232,
+    38.746415,
+    -89.687232,
+    38.746415
+],
+  "geometry": {"coordinates":[-89.68723199999999,38.746415],"type":"Point"}
 }

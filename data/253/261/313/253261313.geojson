@@ -2,13 +2,14 @@
   "id": 253261313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.492415,37.887954,-89.492415,37.887954",
     "geom:latitude":37.887954,
     "geom:longitude":-89.492415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Main St",
     "sg:city":"Golconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253261313,
-    "wof:lastmodified":1449062867,
+    "wof:lastmodified":1466492154,
     "wof:name":"Pope County Probation Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-89.492415,37.887954,-89.492415,37.887954],
-  "geometry": {"coordinates":[-89.492415,37.887954],"type":"Point"}
+  "bbox": [
+    -89.492415,
+    37.887954,
+    -89.492415,
+    37.887954
+],
+  "geometry": {"coordinates":[-89.49241499999999,37.887954],"type":"Point"}
 }

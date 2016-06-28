@@ -2,13 +2,14 @@
   "id": 202474937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.992797,39.299295,-87.992797,39.299295",
     "geom:latitude":39.299295,
     "geom:longitude":-87.992797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Central Ave",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202474937,
-    "wof:lastmodified":1449060202,
+    "wof:lastmodified":1466494693,
     "wof:name":"Baird Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.992797,39.299295,-87.992797,39.299295],
+  "bbox": [
+    -87.992797,
+    39.299295,
+    -87.992797,
+    39.299295
+],
   "geometry": {"coordinates":[-87.992797,39.299295],"type":"Point"}
 }

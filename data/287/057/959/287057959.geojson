@@ -2,13 +2,14 @@
   "id": 287057959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785891,41.995255,-87.785891,41.995255",
     "geom:latitude":41.995255,
     "geom:longitude":-87.785891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287057959,
-    "wof:lastmodified":1449001100,
+    "wof:lastmodified":1466490895,
     "wof:name":"Marys Place",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.785891,41.995255,-87.785891,41.995255],
-  "geometry": {"coordinates":[-87.785891,41.995255],"type":"Point"}
+  "bbox": [
+    -87.785891,
+    41.995255,
+    -87.785891,
+    41.995255
+],
+  "geometry": {"coordinates":[-87.78589100000001,41.995255],"type":"Point"}
 }

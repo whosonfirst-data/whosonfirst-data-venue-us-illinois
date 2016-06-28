@@ -2,13 +2,14 @@
   "id": 236147011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.910002,40.517039,-89.910002,40.517039",
     "geom:latitude":40.517039,
     "geom:longitude":-89.910002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Valley View Dr",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236147011,
-    "wof:lastmodified":1449004810,
+    "wof:lastmodified":1466490759,
     "wof:name":"M Cafe",
     "wof:parent_id":85867847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.910002,40.517039,-89.910002,40.517039],
-  "geometry": {"coordinates":[-89.910002,40.517039],"type":"Point"}
+  "bbox": [
+    -89.910002,
+    40.517039,
+    -89.910002,
+    40.517039
+],
+  "geometry": {"coordinates":[-89.91000200000001,40.517039],"type":"Point"}
 }

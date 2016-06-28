@@ -2,13 +2,14 @@
   "id": 202456321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.744977,41.710029,-87.744977,41.710029",
     "geom:latitude":41.710029,
     "geom:longitude":-87.744977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4940 Paxton Rd",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202456321,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466494448,
     "wof:name":"Bylak Limousine",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.744977,41.710029,-87.744977,41.710029],
-  "geometry": {"coordinates":[-87.744977,41.710029],"type":"Point"}
+  "bbox": [
+    -87.744977,
+    41.710029,
+    -87.744977,
+    41.710029
+],
+  "geometry": {"coordinates":[-87.74497700000001,41.710029],"type":"Point"}
 }

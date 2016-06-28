@@ -2,13 +2,14 @@
   "id": 269621645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690627,41.984567,-87.690627,41.984567",
     "geom:latitude":41.984567,
     "geom:longitude":-87.690627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5649 N Artesian Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269621645,
-    "wof:lastmodified":1449038645,
+    "wof:lastmodified":1466491169,
     "wof:name":"Pgh Research Svc",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.690627,41.984567,-87.690627,41.984567],
-  "geometry": {"coordinates":[-87.690627,41.984567],"type":"Point"}
+  "bbox": [
+    -87.690627,
+    41.984567,
+    -87.690627,
+    41.984567
+],
+  "geometry": {"coordinates":[-87.69062700000001,41.984567],"type":"Point"}
 }

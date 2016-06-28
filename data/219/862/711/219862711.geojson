@@ -2,13 +2,14 @@
   "id": 219862711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.801372,41.727256,-87.801372,41.727256",
     "geom:latitude":41.727256,
     "geom:longitude":-87.801372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9006 S Octavia Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219862711,
-    "wof:lastmodified":1449074021,
+    "wof:lastmodified":1466496905,
     "wof:name":"GFW Maintenance",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.801372,41.727256,-87.801372,41.727256],
+  "bbox": [
+    -87.801372,
+    41.727256,
+    -87.801372,
+    41.727256
+],
   "geometry": {"coordinates":[-87.801372,41.727256],"type":"Point"}
 }

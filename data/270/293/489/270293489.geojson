@@ -2,13 +2,14 @@
   "id": 270293489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.272898,40.719569,-89.272898,40.719569",
     "geom:latitude":40.719569,
     "geom:longitude":-89.272898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Main St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270293489,
-    "wof:lastmodified":1449009113,
+    "wof:lastmodified":1466493485,
     "wof:name":"Eureka Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.272898,40.719569,-89.272898,40.719569],
+  "bbox": [
+    -89.272898,
+    40.719569,
+    -89.272898,
+    40.719569
+],
   "geometry": {"coordinates":[-89.272898,40.719569],"type":"Point"}
 }

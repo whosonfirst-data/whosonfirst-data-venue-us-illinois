@@ -2,13 +2,14 @@
   "id": 303153139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.510764,38.640593,-89.510764,38.640593",
     "geom:latitude":38.640593,
     "geom:longitude":-89.510764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14927 Rod and Gun Rd",
     "sg:city":"Breese",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303153139,
-    "wof:lastmodified":1448999800,
+    "wof:lastmodified":1466492279,
     "wof:name":"Bartlett Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.510764,38.640593,-89.510764,38.640593],
-  "geometry": {"coordinates":[-89.510764,38.640593],"type":"Point"}
+  "bbox": [
+    -89.510764,
+    38.640593,
+    -89.510764,
+    38.640593
+],
+  "geometry": {"coordinates":[-89.51076399999999,38.640593],"type":"Point"}
 }

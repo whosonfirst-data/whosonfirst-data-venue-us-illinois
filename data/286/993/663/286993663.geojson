@@ -2,13 +2,14 @@
   "id": 286993663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.628087,41.537151,-87.628087,41.537151",
     "geom:latitude":41.537151,
     "geom:longitude":-87.628087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 W 194th St",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286993663,
-    "wof:lastmodified":1449016491,
+    "wof:lastmodified":1466498505,
     "wof:name":"Continental Freight Data Syst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.628087,41.537151,-87.628087,41.537151],
-  "geometry": {"coordinates":[-87.628087,41.537151],"type":"Point"}
+  "bbox": [
+    -87.628087,
+    41.537151,
+    -87.628087,
+    41.537151
+],
+  "geometry": {"coordinates":[-87.62808699999999,41.537151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287152649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.793551,41.901034,-87.793551,41.901034",
     "geom:latitude":41.901034,
     "geom:longitude":-87.793551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 N Euclid Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287152649,
-    "wof:lastmodified":1449001351,
+    "wof:lastmodified":1466492430,
     "wof:name":"Terrence C Demos Dr",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consulting"
     ]
 },
-  "bbox": [-87.793551,41.901034,-87.793551,41.901034],
-  "geometry": {"coordinates":[-87.793551,41.901034],"type":"Point"}
+  "bbox": [
+    -87.793551,
+    41.901034,
+    -87.793551,
+    41.901034
+],
+  "geometry": {"coordinates":[-87.79355099999999,41.901034],"type":"Point"}
 }

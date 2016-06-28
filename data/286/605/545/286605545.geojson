@@ -2,13 +2,14 @@
   "id": 286605545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.830818,37.870472,-88.830818,37.870472",
     "geom:latitude":37.870472,
     "geom:longitude":-88.830818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Davis Rd",
     "sg:city":"Thompsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286605545,
-    "wof:lastmodified":1449016631,
+    "wof:lastmodified":1466495279,
     "wof:name":"Gunn Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.830818,37.870472,-88.830818,37.870472],
-  "geometry": {"coordinates":[-88.830818,37.870472],"type":"Point"}
+  "bbox": [
+    -88.830818,
+    37.870472,
+    -88.830818,
+    37.870472
+],
+  "geometry": {"coordinates":[-88.83081799999999,37.870472],"type":"Point"}
 }

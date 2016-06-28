@@ -2,13 +2,14 @@
   "id": 236064525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.847001,41.346741,-88.847001,41.346741",
     "geom:latitude":41.346741,
     "geom:longitude":-88.847001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 W Madison St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236064525,
-    "wof:lastmodified":1449002679,
+    "wof:lastmodified":1466489741,
     "wof:name":"Ronnie's Tap",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.847001,41.346741,-88.847001,41.346741],
-  "geometry": {"coordinates":[-88.847001,41.346741],"type":"Point"}
+  "bbox": [
+    -88.847001,
+    41.346741,
+    -88.847001,
+    41.346741
+],
+  "geometry": {"coordinates":[-88.84700100000001,41.346741],"type":"Point"}
 }

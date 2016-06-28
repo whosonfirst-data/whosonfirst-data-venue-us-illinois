@@ -2,13 +2,14 @@
   "id": 202979171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682275,41.992856,-87.682275,41.992856",
     "geom:latitude":41.992856,
     "geom:longitude":-87.682275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6107 N Hoyne Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202979171,
-    "wof:lastmodified":1449061892,
+    "wof:lastmodified":1466494124,
     "wof:name":"GCC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "improvement"
     ]
 },
-  "bbox": [-87.682275,41.992856,-87.682275,41.992856],
+  "bbox": [
+    -87.682275,
+    41.992856,
+    -87.682275,
+    41.992856
+],
   "geometry": {"coordinates":[-87.682275,41.992856],"type":"Point"}
 }

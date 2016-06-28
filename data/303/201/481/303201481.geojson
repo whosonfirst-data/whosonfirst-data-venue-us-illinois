@@ -2,13 +2,14 @@
   "id": 303201481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453792,37.806714,-88.453792,37.806714",
     "geom:latitude":37.806714,
     "geom:longitude":-88.453792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 Public Rd",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303201481,
-    "wof:lastmodified":1449000238,
+    "wof:lastmodified":1466493063,
     "wof:name":"Tri-County Chemical Inc",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.453792,37.806714,-88.453792,37.806714],
-  "geometry": {"coordinates":[-88.453792,37.806714],"type":"Point"}
+  "bbox": [
+    -88.453792,
+    37.806714,
+    -88.453792,
+    37.806714
+],
+  "geometry": {"coordinates":[-88.45379200000001,37.806714],"type":"Point"}
 }

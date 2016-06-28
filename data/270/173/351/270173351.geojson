@@ -2,13 +2,14 @@
   "id": 270173351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.010798,40.033255,-91.010798,40.033255",
     "geom:latitude":40.033255,
     "geom:longitude":-91.010798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 US Hwy 24",
     "sg:city":"Camp Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270173351,
-    "wof:lastmodified":1449009106,
+    "wof:lastmodified":1466491588,
     "wof:name":"Baucom Truck Svc Inc",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.010798,40.033255,-91.010798,40.033255],
-  "geometry": {"coordinates":[-91.010798,40.033255],"type":"Point"}
+  "bbox": [
+    -91.010798,
+    40.033255,
+    -91.010798,
+    40.033255
+],
+  "geometry": {"coordinates":[-91.01079799999999,40.033255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236803235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.633738,42.486909,-90.633738,42.486909",
     "geom:latitude":42.486909,
     "geom:longitude":-90.633738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 Timmerman Dr",
     "sg:city":"East Dubuque",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236803235,
-    "wof:lastmodified":1449005293,
+    "wof:lastmodified":1466497909,
     "wof:name":"Timmerman's Supper Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.633738,42.486909,-90.633738,42.486909],
-  "geometry": {"coordinates":[-90.633738,42.486909],"type":"Point"}
+  "bbox": [
+    -90.633738,
+    42.486909,
+    -90.633738,
+    42.486909
+],
+  "geometry": {"coordinates":[-90.63373799999999,42.486909],"type":"Point"}
 }

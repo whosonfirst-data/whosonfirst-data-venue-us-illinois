@@ -2,13 +2,14 @@
   "id": 270465137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.08656,41.333303,-89.08656,41.333303",
     "geom:latitude":41.333303,
     "geom:longitude":-89.08656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 5th St",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270465137,
-    "wof:lastmodified":1449010312,
+    "wof:lastmodified":1466495931,
     "wof:name":"Starved Rock Camera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-89.08656,41.333303,-89.08656,41.333303],
-  "geometry": {"coordinates":[-89.08656,41.333303],"type":"Point"}
+  "bbox": [
+    -89.08656,
+    41.333303,
+    -89.08656,
+    41.333303
+],
+  "geometry": {"coordinates":[-89.08656000000001,41.333303],"type":"Point"}
 }

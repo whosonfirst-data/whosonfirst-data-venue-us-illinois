@@ -2,13 +2,14 @@
   "id": 169705759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696373,39.610138,-87.696373,39.610138",
     "geom:latitude":39.610138,
     "geom:longitude":-87.696373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Washington St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169705759,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466488958,
     "wof:name":"Paris Comm Fire Prtection Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-87.696373,39.610138,-87.696373,39.610138],
-  "geometry": {"coordinates":[-87.696373,39.610138],"type":"Point"}
+  "bbox": [
+    -87.696373,
+    39.610138,
+    -87.696373,
+    39.610138
+],
+  "geometry": {"coordinates":[-87.69637299999999,39.610138],"type":"Point"}
 }

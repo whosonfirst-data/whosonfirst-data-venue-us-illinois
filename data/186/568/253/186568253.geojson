@@ -2,13 +2,14 @@
   "id": 186568253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.09498,42.490437,-88.09498,42.490437",
     "geom:latitude":42.490437,
     "geom:longitude":-88.09498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Main St",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186568253,
-    "wof:lastmodified":1449050177,
+    "wof:lastmodified":1466489024,
     "wof:name":"C & S Billing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-88.09498,42.490437,-88.09498,42.490437],
-  "geometry": {"coordinates":[-88.09498,42.490437],"type":"Point"}
+  "bbox": [
+    -88.09498,
+    42.490437,
+    -88.09498,
+    42.490437
+],
+  "geometry": {"coordinates":[-88.09498000000001,42.490437],"type":"Point"}
 }

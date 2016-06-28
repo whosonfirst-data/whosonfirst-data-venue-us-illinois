@@ -2,13 +2,14 @@
   "id": 270093409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.831465,42.357341,-87.831465,42.357341",
     "geom:latitude":42.357341,
     "geom:longitude":-87.831465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 S Genesee St",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270093409,
-    "wof:lastmodified":1449008664,
+    "wof:lastmodified":1466490411,
     "wof:name":"Local Cristiano",
     "wof:parent_id":85890989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.831465,42.357341,-87.831465,42.357341],
-  "geometry": {"coordinates":[-87.831465,42.357341],"type":"Point"}
+  "bbox": [
+    -87.831465,
+    42.357341,
+    -87.831465,
+    42.357341
+],
+  "geometry": {"coordinates":[-87.83146499999999,42.357341],"type":"Point"}
 }

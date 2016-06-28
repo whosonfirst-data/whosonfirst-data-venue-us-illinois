@@ -2,13 +2,14 @@
   "id": 202880369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.050298,41.868307,-88.050298,41.868307",
     "geom:latitude":41.868307,
     "geom:longitude":-88.050298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Valley Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202880369,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466492942,
     "wof:name":"Complete Heating & Cooling",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.050298,41.868307,-88.050298,41.868307],
+  "bbox": [
+    -88.050298,
+    41.868307,
+    -88.050298,
+    41.868307
+],
   "geometry": {"coordinates":[-88.050298,41.868307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269858117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807972,41.870517,-87.807972,41.870517",
     "geom:latitude":41.870517,
     "geom:longitude":-87.807972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Circle Ave",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269858117,
-    "wof:lastmodified":1449036389,
+    "wof:lastmodified":1466494924,
     "wof:name":"Hammer Contruction",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.807972,41.870517,-87.807972,41.870517],
-  "geometry": {"coordinates":[-87.807972,41.870517],"type":"Point"}
+  "bbox": [
+    -87.807972,
+    41.870517,
+    -87.807972,
+    41.870517
+],
+  "geometry": {"coordinates":[-87.80797200000001,41.870517],"type":"Point"}
 }

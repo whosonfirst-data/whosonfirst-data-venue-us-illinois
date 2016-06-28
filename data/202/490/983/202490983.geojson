@@ -2,13 +2,14 @@
   "id": 202490983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.973205,42.080036,-87.973205,42.080036",
     "geom:latitude":42.080036,
     "geom:longitude":-87.973205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E Northwest Hwy",
     "sg:city":"Arlington Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202490983,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466494954,
     "wof:name":"Law Office of Frank Zangara",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.973205,42.080036,-87.973205,42.080036],
-  "geometry": {"coordinates":[-87.973205,42.080036],"type":"Point"}
+  "bbox": [
+    -87.973205,
+    42.080036,
+    -87.973205,
+    42.080036
+],
+  "geometry": {"coordinates":[-87.97320499999999,42.080036],"type":"Point"}
 }

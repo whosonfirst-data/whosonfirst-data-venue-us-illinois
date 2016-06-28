@@ -2,13 +2,14 @@
   "id": 202498549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.66146,41.944799,-87.66146,41.944799",
     "geom:latitude":41.944799,
     "geom:longitude":-87.66146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 N Lakewood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202498549,
-    "wof:lastmodified":1449062043,
+    "wof:lastmodified":1466495061,
     "wof:name":"Holycross Brokerage Inc",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.66146,41.944799,-87.66146,41.944799],
-  "geometry": {"coordinates":[-87.66146,41.944799],"type":"Point"}
+  "bbox": [
+    -87.66146,
+    41.944799,
+    -87.66146,
+    41.944799
+],
+  "geometry": {"coordinates":[-87.66146000000001,41.944799],"type":"Point"}
 }

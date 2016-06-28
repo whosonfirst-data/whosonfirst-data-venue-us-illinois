@@ -2,13 +2,14 @@
   "id": 253712513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747295,42.033516,-87.747295,42.033516",
     "geom:latitude":42.033516,
     "geom:longitude":-87.747295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8424 Skokie Blvd",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253712513,
-    "wof:lastmodified":1449064091,
+    "wof:lastmodified":1466497587,
     "wof:name":"Physician Blling Solutions LLC",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.747295,42.033516,-87.747295,42.033516],
-  "geometry": {"coordinates":[-87.747295,42.033516],"type":"Point"}
+  "bbox": [
+    -87.747295,
+    42.033516,
+    -87.747295,
+    42.033516
+],
+  "geometry": {"coordinates":[-87.74729499999999,42.033516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220016707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.535086,41.469952,-90.535086,41.469952",
     "geom:latitude":41.469952,
     "geom:longitude":-90.535086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4826 State Rte 5",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220016707,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466489149,
     "wof:name":"Fahlenkamp June",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "floor"
     ]
 },
-  "bbox": [-90.535086,41.469952,-90.535086,41.469952],
-  "geometry": {"coordinates":[-90.535086,41.469952],"type":"Point"}
+  "bbox": [
+    -90.535086,
+    41.469952,
+    -90.535086,
+    41.469952
+],
+  "geometry": {"coordinates":[-90.53508600000001,41.469952],"type":"Point"}
 }

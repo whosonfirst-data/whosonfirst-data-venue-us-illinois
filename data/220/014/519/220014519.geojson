@@ -2,13 +2,14 @@
   "id": 220014519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.643032,41.93547,-87.643032,41.93547",
     "geom:latitude":41.93547,
     "geom:longitude":-87.643032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 W Oakdale Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220014519,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466489123,
     "wof:name":"Pasenko Rbrt Cnsltng Srve LLC",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.643032,41.93547,-87.643032,41.93547],
-  "geometry": {"coordinates":[-87.643032,41.93547],"type":"Point"}
+  "bbox": [
+    -87.643032,
+    41.93547,
+    -87.643032,
+    41.93547
+],
+  "geometry": {"coordinates":[-87.64303200000001,41.93547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219671589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.035057,40.555796,-90.035057,40.555796",
     "geom:latitude":40.555796,
     "geom:longitude":-90.035057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 E Elm St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219671589,
-    "wof:lastmodified":1449071207,
+    "wof:lastmodified":1466495189,
     "wof:name":"Legacy Christian Books & Gifts",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-90.035057,40.555796,-90.035057,40.555796],
-  "geometry": {"coordinates":[-90.035057,40.555796],"type":"Point"}
+  "bbox": [
+    -90.035057,
+    40.555796,
+    -90.035057,
+    40.555796
+],
+  "geometry": {"coordinates":[-90.03505699999999,40.555796],"type":"Point"}
 }

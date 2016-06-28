@@ -2,13 +2,14 @@
   "id": 269515451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.763942,41.892859,-87.763942,41.892859",
     "geom:latitude":41.892859,
     "geom:longitude":-87.763942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5527 W Huron St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269515451,
-    "wof:lastmodified":1449036695,
+    "wof:lastmodified":1466489495,
     "wof:name":"Auston Residential",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-87.763942,41.892859,-87.763942,41.892859],
+  "bbox": [
+    -87.763942,
+    41.892859,
+    -87.763942,
+    41.892859
+],
   "geometry": {"coordinates":[-87.763942,41.892859],"type":"Point"}
 }

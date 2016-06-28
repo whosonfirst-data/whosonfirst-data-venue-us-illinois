@@ -2,13 +2,14 @@
   "id": 269745437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76497,41.885387,-87.76497,41.885387",
     "geom:latitude":41.885387,
     "geom:longitude":-87.76497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N Central Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":269745437,
-    "wof:lastmodified":1449038852,
+    "wof:lastmodified":1466493150,
     "wof:name":"Attinehs",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "by"
     ]
 },
-  "bbox": [-87.76497,41.885387,-87.76497,41.885387],
-  "geometry": {"coordinates":[-87.76497,41.885387],"type":"Point"}
+  "bbox": [
+    -87.76497,
+    41.885387,
+    -87.76497,
+    41.885387
+],
+  "geometry": {"coordinates":[-87.76497000000001,41.885387],"type":"Point"}
 }

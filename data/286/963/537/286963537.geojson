@@ -2,13 +2,14 @@
   "id": 286963537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.786527,41.892836,-87.786527,41.892836",
     "geom:latitude":41.892836,
     "geom:longitude":-87.786527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Elmwood Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286963537,
-    "wof:lastmodified":1449015465,
+    "wof:lastmodified":1466498301,
     "wof:name":"Nancy Kiefer Deota MD",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "self"
     ]
 },
-  "bbox": [-87.786527,41.892836,-87.786527,41.892836],
-  "geometry": {"coordinates":[-87.786527,41.892836],"type":"Point"}
+  "bbox": [
+    -87.786527,
+    41.892836,
+    -87.786527,
+    41.892836
+],
+  "geometry": {"coordinates":[-87.78652700000001,41.892836],"type":"Point"}
 }

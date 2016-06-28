@@ -2,13 +2,14 @@
   "id": 303138255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.119717,40.618609,-88.119717,40.618609",
     "geom:latitude":40.618609,
     "geom:longitude":-88.119717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 N 1800 East Rd",
     "sg:city":"Buckley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303138255,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1466492039,
     "wof:name":"Paul Benz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-88.119717,40.618609,-88.119717,40.618609],
-  "geometry": {"coordinates":[-88.119717,40.618609],"type":"Point"}
+  "bbox": [
+    -88.119717,
+    40.618609,
+    -88.119717,
+    40.618609
+],
+  "geometry": {"coordinates":[-88.11971699999999,40.618609],"type":"Point"}
 }

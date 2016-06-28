@@ -2,13 +2,14 @@
   "id": 270467869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030436,40.578182,-90.030436,40.578182",
     "geom:latitude":40.578182,
     "geom:longitude":-90.030436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Gettysburg Dr",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270467869,
-    "wof:lastmodified":1449010537,
+    "wof:lastmodified":1466496192,
     "wof:name":"Osborne Trucking",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-90.030436,40.578182,-90.030436,40.578182],
-  "geometry": {"coordinates":[-90.030436,40.578182],"type":"Point"}
+  "bbox": [
+    -90.030436,
+    40.578182,
+    -90.030436,
+    40.578182
+],
+  "geometry": {"coordinates":[-90.03043599999999,40.578182],"type":"Point"}
 }

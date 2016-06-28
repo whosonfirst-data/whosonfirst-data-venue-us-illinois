@@ -2,13 +2,14 @@
   "id": 219947217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.243569,37.730245,-89.243569,37.730245",
     "geom:latitude":37.730245,
     "geom:longitude":-89.243569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 W Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219947217,
-    "wof:lastmodified":1449072959,
+    "wof:lastmodified":1466497399,
     "wof:name":"Murdale Shopping Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-89.243569,37.730245,-89.243569,37.730245],
-  "geometry": {"coordinates":[-89.243569,37.730245],"type":"Point"}
+  "bbox": [
+    -89.243569,
+    37.730245,
+    -89.243569,
+    37.730245
+],
+  "geometry": {"coordinates":[-89.24356899999999,37.730245],"type":"Point"}
 }

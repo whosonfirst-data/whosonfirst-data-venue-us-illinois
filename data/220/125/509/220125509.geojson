@@ -2,13 +2,14 @@
   "id": 220125509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465308,41.362815,-89.465308,41.362815",
     "geom:latitude":41.362815,
     "geom:longitude":-89.465308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220125509,
-    "wof:lastmodified":1449074844,
+    "wof:lastmodified":1466490479,
     "wof:name":"Timber Field Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-89.465308,41.362815,-89.465308,41.362815],
-  "geometry": {"coordinates":[-89.465308,41.362815],"type":"Point"}
+  "bbox": [
+    -89.465308,
+    41.362815,
+    -89.465308,
+    41.362815
+],
+  "geometry": {"coordinates":[-89.46530799999999,41.362815],"type":"Point"}
 }

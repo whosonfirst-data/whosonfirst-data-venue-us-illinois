@@ -2,13 +2,14 @@
   "id": 236435113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309201,41.881965,-88.309201,41.881965",
     "geom:latitude":41.881965,
     "geom:longitude":-88.309201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236435113,
-    "wof:lastmodified":1449004882,
+    "wof:lastmodified":1466494539,
     "wof:name":"Gourmet Popcorn Shoppe",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.309201,41.881965,-88.309201,41.881965],
+  "bbox": [
+    -88.309201,
+    41.881965,
+    -88.309201,
+    41.881965
+],
   "geometry": {"coordinates":[-88.309201,41.881965],"type":"Point"}
 }

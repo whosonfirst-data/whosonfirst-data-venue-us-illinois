@@ -2,13 +2,14 @@
   "id": 270330613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.842145,41.118858,-87.842145,41.118858",
     "geom:latitude":41.118858,
     "geom:longitude":-87.842145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1777 E Court St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270330613,
-    "wof:lastmodified":1449009864,
+    "wof:lastmodified":1466494067,
     "wof:name":"Kankakee Community Health Ctr",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.842145,41.118858,-87.842145,41.118858],
+  "bbox": [
+    -87.842145,
+    41.118858,
+    -87.842145,
+    41.118858
+],
   "geometry": {"coordinates":[-87.842145,41.118858],"type":"Point"}
 }

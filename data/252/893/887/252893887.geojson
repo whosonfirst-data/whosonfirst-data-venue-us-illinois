@@ -2,13 +2,14 @@
   "id": 252893887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.427097,39.889189,-89.427097,39.889189",
     "geom:latitude":39.889189,
     "geom:longitude":-89.427097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11120 Maurer Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252893887,
-    "wof:lastmodified":1449006302,
+    "wof:lastmodified":1466491357,
     "wof:name":"James Cravens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.427097,39.889189,-89.427097,39.889189],
+  "bbox": [
+    -89.427097,
+    39.889189,
+    -89.427097,
+    39.889189
+],
   "geometry": {"coordinates":[-89.427097,39.889189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236358227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.248613,37.459363,-89.248613,37.459363",
     "geom:latitude":37.459363,
     "geom:longitude":-89.248613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Main St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236358227,
-    "wof:lastmodified":1449002966,
+    "wof:lastmodified":1466493505,
     "wof:name":"Union County Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.248613,37.459363,-89.248613,37.459363],
-  "geometry": {"coordinates":[-89.248613,37.459363],"type":"Point"}
+  "bbox": [
+    -89.248613,
+    37.459363,
+    -89.248613,
+    37.459363
+],
+  "geometry": {"coordinates":[-89.24861300000001,37.459363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219446007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009221,41.796011,-88.009221,41.796011",
     "geom:latitude":41.796011,
     "geom:longitude":-88.009221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5019 Highland Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219446007,
-    "wof:lastmodified":1449073622,
+    "wof:lastmodified":1466492533,
     "wof:name":"Grove Travel",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.009221,41.796011,-88.009221,41.796011],
+  "bbox": [
+    -88.009221,
+    41.796011,
+    -88.009221,
+    41.796011
+],
   "geometry": {"coordinates":[-88.009221,41.796011],"type":"Point"}
 }

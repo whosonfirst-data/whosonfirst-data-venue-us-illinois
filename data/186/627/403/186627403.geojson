@@ -2,13 +2,14 @@
   "id": 186627403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.473544,39.715729,-88.473544,39.715729",
     "geom:latitude":39.715729,
     "geom:longitude":-88.473544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Walnut St",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186627403,
-    "wof:lastmodified":1449053081,
+    "wof:lastmodified":1466489751,
     "wof:name":"Arthur Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.473544,39.715729,-88.473544,39.715729],
+  "bbox": [
+    -88.473544,
+    39.715729,
+    -88.473544,
+    39.715729
+],
   "geometry": {"coordinates":[-88.473544,39.715729],"type":"Point"}
 }

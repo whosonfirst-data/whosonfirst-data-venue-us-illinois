@@ -2,13 +2,14 @@
   "id": 303117179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.929111,41.226328,-89.929111,41.226328",
     "geom:latitude":41.226328,
     "geom:longitude":-89.929111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 W Garfield St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303117179,
-    "wof:lastmodified":1448999777,
+    "wof:lastmodified":1466491685,
     "wof:name":"Worldly Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.929111,41.226328,-89.929111,41.226328],
-  "geometry": {"coordinates":[-89.929111,41.226328],"type":"Point"}
+  "bbox": [
+    -89.929111,
+    41.226328,
+    -89.929111,
+    41.226328
+],
+  "geometry": {"coordinates":[-89.92911100000001,41.226328],"type":"Point"}
 }

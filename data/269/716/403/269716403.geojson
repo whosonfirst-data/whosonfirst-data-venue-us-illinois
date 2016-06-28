@@ -2,13 +2,14 @@
   "id": 269716403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.027702,40.544106,-90.027702,40.544106",
     "geom:latitude":40.544106,
     "geom:longitude":-90.027702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 S 5th Ave",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269716403,
-    "wof:lastmodified":1449036478,
+    "wof:lastmodified":1466492680,
     "wof:name":"John's Custom Shop",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-90.027702,40.544106,-90.027702,40.544106],
-  "geometry": {"coordinates":[-90.027702,40.544106],"type":"Point"}
+  "bbox": [
+    -90.027702,
+    40.544106,
+    -90.027702,
+    40.544106
+],
+  "geometry": {"coordinates":[-90.02770200000001,40.544106],"type":"Point"}
 }

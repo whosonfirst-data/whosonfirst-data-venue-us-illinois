@@ -2,13 +2,14 @@
   "id": 236909137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.049245,39.521381,-89.049245,39.521381",
     "geom:latitude":39.521381,
     "geom:longitude":-89.049245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Chestnut St",
     "sg:city":"Assumption",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236909137,
-    "wof:lastmodified":1449004263,
+    "wof:lastmodified":1466498249,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.049245,39.521381,-89.049245,39.521381],
+  "bbox": [
+    -89.049245,
+    39.521381,
+    -89.049245,
+    39.521381
+],
   "geometry": {"coordinates":[-89.049245,39.521381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202450259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.456015,41.489049,-90.456015,41.489049",
     "geom:latitude":41.489049,
     "geom:longitude":-90.456015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 Kennedy Dr",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202450259,
-    "wof:lastmodified":1449062270,
+    "wof:lastmodified":1466494359,
     "wof:name":"Genesis Health Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.456015,41.489049,-90.456015,41.489049],
-  "geometry": {"coordinates":[-90.456015,41.489049],"type":"Point"}
+  "bbox": [
+    -90.456015,
+    41.489049,
+    -90.456015,
+    41.489049
+],
+  "geometry": {"coordinates":[-90.45601499999999,41.489049],"type":"Point"}
 }

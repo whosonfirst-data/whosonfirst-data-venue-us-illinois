@@ -2,13 +2,14 @@
   "id": 270321919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.352712,40.155284,-89.352712,40.155284",
     "geom:latitude":40.155284,
     "geom:longitude":-89.352712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 N Kickapoo St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270321919,
-    "wof:lastmodified":1449008727,
+    "wof:lastmodified":1466493922,
     "wof:name":"Hughes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-89.352712,40.155284,-89.352712,40.155284],
+  "bbox": [
+    -89.352712,
+    40.155284,
+    -89.352712,
+    40.155284
+],
   "geometry": {"coordinates":[-89.352712,40.155284],"type":"Point"}
 }

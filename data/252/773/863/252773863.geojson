@@ -2,13 +2,14 @@
   "id": 252773863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.280054,40.724,-89.280054,40.724",
     "geom:latitude":40.724,
     "geom:longitude":-89.280054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Sunset Dr",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252773863,
-    "wof:lastmodified":1449005537,
+    "wof:lastmodified":1466489838,
     "wof:name":"J & M Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-89.280054,40.724,-89.280054,40.724],
-  "geometry": {"coordinates":[-89.280054,40.724],"type":"Point"}
+  "bbox": [
+    -89.280054,
+    40.724,
+    -89.280054,
+    40.724
+],
+  "geometry": {"coordinates":[-89.28005400000001,40.724],"type":"Point"}
 }

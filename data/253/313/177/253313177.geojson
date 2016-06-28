@@ -2,13 +2,14 @@
   "id": 253313177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.164709,39.474206,-88.164709,39.474206",
     "geom:latitude":39.474206,
     "geom:longitude":-88.164709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 Edgar Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253313177,
-    "wof:lastmodified":1449062912,
+    "wof:lastmodified":1466492913,
     "wof:name":"Highland Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.164709,39.474206,-88.164709,39.474206],
+  "bbox": [
+    -88.164709,
+    39.474206,
+    -88.164709,
+    39.474206
+],
   "geometry": {"coordinates":[-88.164709,39.474206],"type":"Point"}
 }

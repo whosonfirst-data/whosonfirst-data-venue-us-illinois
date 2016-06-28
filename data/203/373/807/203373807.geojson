@@ -2,13 +2,14 @@
   "id": 203373807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.10546,38.85968,-90.10546,38.85968",
     "geom:latitude":38.85968,
     "geom:longitude":-90.10546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Ferguson Ave",
     "sg:city":"Wood River",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203373807,
-    "wof:lastmodified":1449025906,
+    "wof:lastmodified":1466491284,
     "wof:name":"Wood River Public Works Dept",
     "wof:parent_id":85846097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.10546,38.85968,-90.10546,38.85968],
-  "geometry": {"coordinates":[-90.10546,38.85968],"type":"Point"}
+  "bbox": [
+    -90.10546,
+    38.85968,
+    -90.10546,
+    38.85968
+],
+  "geometry": {"coordinates":[-90.10545999999999,38.85968],"type":"Point"}
 }

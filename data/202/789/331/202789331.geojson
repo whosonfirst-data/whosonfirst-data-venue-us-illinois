@@ -2,13 +2,14 @@
   "id": 202789331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.482509,41.853224,-89.482509,41.853224",
     "geom:latitude":41.853224,
     "geom:longitude":-89.482509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Dixon Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202789331,
-    "wof:lastmodified":1449061272,
+    "wof:lastmodified":1466491819,
     "wof:name":"Players Hand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.482509,41.853224,-89.482509,41.853224],
-  "geometry": {"coordinates":[-89.482509,41.853224],"type":"Point"}
+  "bbox": [
+    -89.482509,
+    41.853224,
+    -89.482509,
+    41.853224
+],
+  "geometry": {"coordinates":[-89.48250899999999,41.853224],"type":"Point"}
 }

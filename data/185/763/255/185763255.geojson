@@ -2,13 +2,14 @@
   "id": 185763255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.239032,40.094899,-89.239032,40.094899",
     "geom:latitude":40.094899,
     "geom:longitude":-89.239032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1236 1900th Ave",
     "sg:city":"Beason",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185763255,
-    "wof:lastmodified":1449008199,
+    "wof:lastmodified":1466495398,
     "wof:name":"Veterans Of Foreign Wars Of The United States",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veteran"
     ]
 },
-  "bbox": [-89.239032,40.094899,-89.239032,40.094899],
-  "geometry": {"coordinates":[-89.239032,40.094899],"type":"Point"}
+  "bbox": [
+    -89.239032,
+    40.094899,
+    -89.239032,
+    40.094899
+],
+  "geometry": {"coordinates":[-89.23903199999999,40.094899],"type":"Point"}
 }

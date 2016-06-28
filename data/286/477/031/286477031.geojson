@@ -2,13 +2,14 @@
   "id": 286477031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.787591,41.830619,-87.787591,41.830619",
     "geom:latitude":41.830619,
     "geom:longitude":-87.787591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 34th St",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286477031,
-    "wof:lastmodified":1449015664,
+    "wof:lastmodified":1466493154,
     "wof:name":"Dbdf",
     "wof:parent_id":85890737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.787591,41.830619,-87.787591,41.830619],
-  "geometry": {"coordinates":[-87.787591,41.830619],"type":"Point"}
+  "bbox": [
+    -87.787591,
+    41.830619,
+    -87.787591,
+    41.830619
+],
+  "geometry": {"coordinates":[-87.78759100000001,41.830619],"type":"Point"}
 }

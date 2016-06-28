@@ -2,13 +2,14 @@
   "id": 253565985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.531737,41.596523,-87.531737,41.596523",
     "geom:latitude":41.596523,
     "geom:longitude":-87.531737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 River Oaks Center Dr",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253565985,
-    "wof:lastmodified":1449065524,
+    "wof:lastmodified":1466496603,
     "wof:name":"Johnson Controls",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-87.531737,41.596523,-87.531737,41.596523],
-  "geometry": {"coordinates":[-87.531737,41.596523],"type":"Point"}
+  "bbox": [
+    -87.531737,
+    41.596523,
+    -87.531737,
+    41.596523
+],
+  "geometry": {"coordinates":[-87.53173700000001,41.596523],"type":"Point"}
 }

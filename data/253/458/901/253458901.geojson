@@ -2,13 +2,14 @@
   "id": 253458901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040707,38.530823,-90.040707,38.530823",
     "geom:latitude":38.530823,
     "geom:longitude":-90.040707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Danbury Ct",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253458901,
-    "wof:lastmodified":1449064938,
+    "wof:lastmodified":1466495187,
     "wof:name":"Brew Tech",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-90.040707,38.530823,-90.040707,38.530823],
+  "bbox": [
+    -90.040707,
+    38.530823,
+    -90.040707,
+    38.530823
+],
   "geometry": {"coordinates":[-90.040707,38.530823],"type":"Point"}
 }

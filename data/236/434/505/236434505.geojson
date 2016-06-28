@@ -2,13 +2,14 @@
   "id": 236434505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.65497,41.978824,-87.65497,41.978824",
     "geom:latitude":41.978824,
     "geom:longitude":-87.65497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5333 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236434505,
-    "wof:lastmodified":1449002214,
+    "wof:lastmodified":1466494531,
     "wof:name":"Breakers At Edgewater Beach",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.65497,41.978824,-87.65497,41.978824],
-  "geometry": {"coordinates":[-87.65497,41.978824],"type":"Point"}
+  "bbox": [
+    -87.65497,
+    41.978824,
+    -87.65497,
+    41.978824
+],
+  "geometry": {"coordinates":[-87.65497000000001,41.978824],"type":"Point"}
 }

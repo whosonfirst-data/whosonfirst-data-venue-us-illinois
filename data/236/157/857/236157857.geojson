@@ -2,13 +2,14 @@
   "id": 236157857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.284753,41.806531,-88.284753,41.806531",
     "geom:latitude":41.806531,
     "geom:longitude":-88.284753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Church Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236157857,
-    "wof:lastmodified":1449004684,
+    "wof:lastmodified":1466490903,
     "wof:name":"Alamo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-88.284753,41.806531,-88.284753,41.806531],
-  "geometry": {"coordinates":[-88.284753,41.806531],"type":"Point"}
+  "bbox": [
+    -88.284753,
+    41.806531,
+    -88.284753,
+    41.806531
+],
+  "geometry": {"coordinates":[-88.28475299999999,41.806531],"type":"Point"}
 }

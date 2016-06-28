@@ -2,13 +2,14 @@
   "id": 202916837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.611986,40.884762,-87.611986,40.884762",
     "geom:latitude":40.884762,
     "geom:longitude":-87.611986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 2nd St",
     "sg:city":"Donovan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202916837,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466493372,
     "wof:name":"LA Fond Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.611986,40.884762,-87.611986,40.884762],
+  "bbox": [
+    -87.611986,
+    40.884762,
+    -87.611986,
+    40.884762
+],
   "geometry": {"coordinates":[-87.611986,40.884762],"type":"Point"}
 }

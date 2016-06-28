@@ -2,13 +2,14 @@
   "id": 202901005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.346706,41.752216,-88.346706,41.752216",
     "geom:latitude":41.752216,
     "geom:longitude":-88.346706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Prairie St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202901005,
-    "wof:lastmodified":1449061181,
+    "wof:lastmodified":1466493187,
     "wof:name":"Danny Ledger Trucking",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.346706,41.752216,-88.346706,41.752216],
+  "bbox": [
+    -88.346706,
+    41.752216,
+    -88.346706,
+    41.752216
+],
   "geometry": {"coordinates":[-88.346706,41.752216],"type":"Point"}
 }

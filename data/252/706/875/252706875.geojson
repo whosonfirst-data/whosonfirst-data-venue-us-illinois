@@ -2,13 +2,14 @@
   "id": 252706875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87095,41.97582,-87.87095,41.97582",
     "geom:latitude":41.97582,
     "geom:longitude":-87.87095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Pearl St",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252706875,
-    "wof:lastmodified":1449005488,
+    "wof:lastmodified":1466495626,
     "wof:name":"Water and Public Works",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "works"
     ]
 },
-  "bbox": [-87.87095,41.97582,-87.87095,41.97582],
-  "geometry": {"coordinates":[-87.87095,41.97582],"type":"Point"}
+  "bbox": [
+    -87.87095,
+    41.97582,
+    -87.87095,
+    41.97582
+],
+  "geometry": {"coordinates":[-87.87094999999999,41.97582],"type":"Point"}
 }

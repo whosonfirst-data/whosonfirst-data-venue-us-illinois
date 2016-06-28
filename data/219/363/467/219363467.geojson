@@ -2,13 +2,14 @@
   "id": 219363467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.327204,41.857347,-88.327204,41.857347",
     "geom:latitude":41.857347,
     "geom:longitude":-88.327204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 W Maple Ln",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219363467,
-    "wof:lastmodified":1449073494,
+    "wof:lastmodified":1466491454,
     "wof:name":"Johnstown Wire Technologies",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wire"
     ]
 },
-  "bbox": [-88.327204,41.857347,-88.327204,41.857347],
-  "geometry": {"coordinates":[-88.327204,41.857347],"type":"Point"}
+  "bbox": [
+    -88.327204,
+    41.857347,
+    -88.327204,
+    41.857347
+],
+  "geometry": {"coordinates":[-88.32720399999999,41.857347],"type":"Point"}
 }

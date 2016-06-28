@@ -2,13 +2,14 @@
   "id": 270133575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683433,41.544522,-87.683433,41.544522",
     "geom:latitude":41.544522,
     "geom:longitude":-87.683433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Douglas Ave",
     "sg:city":"Flossmoor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270133575,
-    "wof:lastmodified":1449010644,
+    "wof:lastmodified":1466491006,
     "wof:name":"Bear Towing Inc",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-87.683433,41.544522,-87.683433,41.544522],
-  "geometry": {"coordinates":[-87.683433,41.544522],"type":"Point"}
+  "bbox": [
+    -87.683433,
+    41.544522,
+    -87.683433,
+    41.544522
+],
+  "geometry": {"coordinates":[-87.68343299999999,41.544522],"type":"Point"}
 }

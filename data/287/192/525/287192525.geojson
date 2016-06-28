@@ -2,13 +2,14 @@
   "id": 287192525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.439749,39.554766,-90.439749,39.554766",
     "geom:latitude":39.554766,
     "geom:longitude":-90.439749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Alsey Glasgow Rd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287192525,
-    "wof:lastmodified":1449001309,
+    "wof:lastmodified":1466493064,
     "wof:name":"K E Brown Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-90.439749,39.554766,-90.439749,39.554766],
-  "geometry": {"coordinates":[-90.439749,39.554766],"type":"Point"}
+  "bbox": [
+    -90.439749,
+    39.554766,
+    -90.439749,
+    39.554766
+],
+  "geometry": {"coordinates":[-90.43974900000001,39.554766],"type":"Point"}
 }

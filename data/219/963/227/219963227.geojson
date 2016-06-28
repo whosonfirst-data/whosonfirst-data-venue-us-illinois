@@ -2,13 +2,14 @@
   "id": 219963227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.075181,42.452579,-89.075181,42.452579",
     "geom:latitude":42.452579,
     "geom:longitude":-89.075181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Main St",
     "sg:city":"Rockton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219963227,
-    "wof:lastmodified":1449070724,
+    "wof:lastmodified":1466497511,
     "wof:name":"American Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-89.075181,42.452579,-89.075181,42.452579],
+  "bbox": [
+    -89.075181,
+    42.452579,
+    -89.075181,
+    42.452579
+],
   "geometry": {"coordinates":[-89.075181,42.452579],"type":"Point"}
 }

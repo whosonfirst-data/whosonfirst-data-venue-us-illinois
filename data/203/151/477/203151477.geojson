@@ -2,13 +2,14 @@
   "id": 203151477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.376853,39.935483,-91.376853,39.935483",
     "geom:latitude":39.935483,
     "geom:longitude":-91.376853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Broadway St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203151477,
-    "wof:lastmodified":1449024956,
+    "wof:lastmodified":1466495499,
     "wof:name":"International Eyecare Center",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-91.376853,39.935483,-91.376853,39.935483],
+  "bbox": [
+    -91.376853,
+    39.935483,
+    -91.376853,
+    39.935483
+],
   "geometry": {"coordinates":[-91.376853,39.935483],"type":"Point"}
 }

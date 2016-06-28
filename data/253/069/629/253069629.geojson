@@ -2,13 +2,14 @@
   "id": 253069629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.004966,42.417593,-89.004966,42.417593",
     "geom:latitude":42.417593,
     "geom:longitude":-89.004966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10780 3rd St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253069629,
-    "wof:lastmodified":1449064693,
+    "wof:lastmodified":1466489849,
     "wof:name":"First Congregational Community",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.004966,42.417593,-89.004966,42.417593],
+  "bbox": [
+    -89.004966,
+    42.417593,
+    -89.004966,
+    42.417593
+],
   "geometry": {"coordinates":[-89.004966,42.417593],"type":"Point"}
 }

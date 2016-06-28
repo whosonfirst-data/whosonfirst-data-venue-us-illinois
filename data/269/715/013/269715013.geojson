@@ -2,13 +2,14 @@
   "id": 269715013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.938645,42.208313,-87.938645,42.208313",
     "geom:latitude":42.208313,
     "geom:longitude":-87.938645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Woodlands Pkwy",
     "sg:city":"Vernon Hills",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269715013,
-    "wof:lastmodified":1449038350,
+    "wof:lastmodified":1466492659,
     "wof:name":"Caremark Prescription Service",
     "wof:parent_id":85890959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.938645,42.208313,-87.938645,42.208313],
-  "geometry": {"coordinates":[-87.938645,42.208313],"type":"Point"}
+  "bbox": [
+    -87.938645,
+    42.208313,
+    -87.938645,
+    42.208313
+],
+  "geometry": {"coordinates":[-87.93864499999999,42.208313],"type":"Point"}
 }

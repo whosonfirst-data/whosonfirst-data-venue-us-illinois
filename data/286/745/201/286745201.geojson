@@ -2,13 +2,14 @@
   "id": 286745201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.795707,40.694141,-89.795707,40.694141",
     "geom:latitude":40.694141,
     "geom:longitude":-89.795707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Peoria St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286745201,
-    "wof:lastmodified":1449017962,
+    "wof:lastmodified":1466496965,
     "wof:name":"Wielands Lawn Mower Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-89.795707,40.694141,-89.795707,40.694141],
-  "geometry": {"coordinates":[-89.795707,40.694141],"type":"Point"}
+  "bbox": [
+    -89.795707,
+    40.694141,
+    -89.795707,
+    40.694141
+],
+  "geometry": {"coordinates":[-89.79570699999999,40.694141],"type":"Point"}
 }

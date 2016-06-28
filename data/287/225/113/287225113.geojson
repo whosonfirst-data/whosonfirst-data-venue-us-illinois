@@ -2,13 +2,14 @@
   "id": 287225113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063367,41.877152,-88.063367,41.877152",
     "geom:latitude":41.877152,
     "geom:longitude":-88.063367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Crescent Blvd",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287225113,
-    "wof:lastmodified":1449000929,
+    "wof:lastmodified":1466493590,
     "wof:name":"Fly-N-Field",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fishing"
     ]
 },
-  "bbox": [-88.063367,41.877152,-88.063367,41.877152],
+  "bbox": [
+    -88.063367,
+    41.877152,
+    -88.063367,
+    41.877152
+],
   "geometry": {"coordinates":[-88.063367,41.877152],"type":"Point"}
 }

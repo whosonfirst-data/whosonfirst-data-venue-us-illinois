@@ -2,13 +2,14 @@
   "id": 202484149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945404,41.578805,-87.945404,41.578805",
     "geom:latitude":41.578805,
     "geom:longitude":-87.945404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13452 W Doede Ln",
     "sg:city":"Homer Glen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202484149,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466494845,
     "wof:name":"Medical Reimbursement Special",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgical"
     ]
 },
-  "bbox": [-87.945404,41.578805,-87.945404,41.578805],
+  "bbox": [
+    -87.945404,
+    41.578805,
+    -87.945404,
+    41.578805
+],
   "geometry": {"coordinates":[-87.945404,41.578805],"type":"Point"}
 }

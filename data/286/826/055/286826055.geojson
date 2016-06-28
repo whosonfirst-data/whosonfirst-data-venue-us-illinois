@@ -2,13 +2,14 @@
   "id": 286826055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.254943,40.128308,-88.254943,40.128308",
     "geom:latitude":40.128308,
     "geom:longitude":-88.254943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Hagan St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286826055,
-    "wof:lastmodified":1449017317,
+    "wof:lastmodified":1466497464,
     "wof:name":"Acme M & K Towing",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-88.254943,40.128308,-88.254943,40.128308],
+  "bbox": [
+    -88.254943,
+    40.128308,
+    -88.254943,
+    40.128308
+],
   "geometry": {"coordinates":[-88.254943,40.128308],"type":"Point"}
 }

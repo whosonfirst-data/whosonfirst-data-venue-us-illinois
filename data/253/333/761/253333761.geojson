@@ -2,13 +2,14 @@
   "id": 253333761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192446,39.487928,-88.192446,39.487928",
     "geom:latitude":39.487928,
     "geom:longitude":-88.192446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Reynolds Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253333761,
-    "wof:lastmodified":1449065586,
+    "wof:lastmodified":1466493203,
     "wof:name":"Shaffer Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.192446,39.487928,-88.192446,39.487928],
+  "bbox": [
+    -88.192446,
+    39.487928,
+    -88.192446,
+    39.487928
+],
   "geometry": {"coordinates":[-88.192446,39.487928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253106045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.919441,38.349263,-88.919441,38.349263",
     "geom:latitude":38.349263,
     "geom:longitude":-88.919441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15018 N State Rte 37",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253106045,
-    "wof:lastmodified":1449062787,
+    "wof:lastmodified":1466490298,
     "wof:name":"Phillip M Caserotti Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "geological"
     ]
 },
-  "bbox": [-88.919441,38.349263,-88.919441,38.349263],
-  "geometry": {"coordinates":[-88.919441,38.349263],"type":"Point"}
+  "bbox": [
+    -88.919441,
+    38.349263,
+    -88.919441,
+    38.349263
+],
+  "geometry": {"coordinates":[-88.91944100000001,38.349263],"type":"Point"}
 }

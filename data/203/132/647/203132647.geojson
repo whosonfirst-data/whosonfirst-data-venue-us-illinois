@@ -2,13 +2,14 @@
   "id": 203132647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.210727,42.385558,-88.210727,42.385558",
     "geom:latitude":42.385558,
     "geom:longitude":-88.210727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 Pitzen Rd",
     "sg:city":"Johnsburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203132647,
-    "wof:lastmodified":1449025840,
+    "wof:lastmodified":1466495251,
     "wof:name":"S T Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "establishment"
     ]
 },
-  "bbox": [-88.210727,42.385558,-88.210727,42.385558],
-  "geometry": {"coordinates":[-88.210727,42.385558],"type":"Point"}
+  "bbox": [
+    -88.210727,
+    42.385558,
+    -88.210727,
+    42.385558
+],
+  "geometry": {"coordinates":[-88.21072700000001,42.385558],"type":"Point"}
 }

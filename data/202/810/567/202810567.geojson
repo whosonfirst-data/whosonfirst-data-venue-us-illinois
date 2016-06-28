@@ -2,13 +2,14 @@
   "id": 202810567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.775059,40.643498,-88.775059,40.643498",
     "geom:latitude":40.643498,
     "geom:longitude":-88.775059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E North St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202810567,
-    "wof:lastmodified":1449060864,
+    "wof:lastmodified":1466492077,
     "wof:name":"Jacobs Bulldozing",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.775059,40.643498,-88.775059,40.643498],
+  "bbox": [
+    -88.775059,
+    40.643498,
+    -88.775059,
+    40.643498
+],
   "geometry": {"coordinates":[-88.775059,40.643498],"type":"Point"}
 }

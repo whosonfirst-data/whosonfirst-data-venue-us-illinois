@@ -2,13 +2,14 @@
   "id": 219341417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.092948,42.275705,-89.092948,42.275705",
     "geom:latitude":42.275705,
     "geom:longitude":-89.092948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N Church St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219341417,
-    "wof:lastmodified":1449073760,
+    "wof:lastmodified":1466491203,
     "wof:name":"Shelter Care Ministries",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.092948,42.275705,-89.092948,42.275705],
-  "geometry": {"coordinates":[-89.092948,42.275705],"type":"Point"}
+  "bbox": [
+    -89.092948,
+    42.275705,
+    -89.092948,
+    42.275705
+],
+  "geometry": {"coordinates":[-89.09294800000001,42.275705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236402041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.745219,41.88085,-87.745219,41.88085",
     "geom:latitude":41.88085,
     "geom:longitude":-87.745219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236402041,
-    "wof:lastmodified":1449002550,
+    "wof:lastmodified":1466494086,
     "wof:name":"Dr Chetwin Rodgers Drive Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.745219,41.88085,-87.745219,41.88085],
-  "geometry": {"coordinates":[-87.745219,41.88085],"type":"Point"}
+  "bbox": [
+    -87.745219,
+    41.88085,
+    -87.745219,
+    41.88085
+],
+  "geometry": {"coordinates":[-87.74521900000001,41.88085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253695675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.426201,41.524358,-90.426201,41.524358",
     "geom:latitude":41.524358,
     "geom:longitude":-90.426201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1583 Morton Dr",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253695675,
-    "wof:lastmodified":1449063960,
+    "wof:lastmodified":1466497434,
     "wof:name":"East Moline Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-90.426201,41.524358,-90.426201,41.524358],
-  "geometry": {"coordinates":[-90.426201,41.524358],"type":"Point"}
+  "bbox": [
+    -90.426201,
+    41.524358,
+    -90.426201,
+    41.524358
+],
+  "geometry": {"coordinates":[-90.42620100000001,41.524358],"type":"Point"}
 }

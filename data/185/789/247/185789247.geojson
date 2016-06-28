@@ -2,13 +2,14 @@
   "id": 185789247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.353493,39.447787,-89.353493,39.447787",
     "geom:latitude":39.447787,
     "geom:longitude":-89.353493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 N 965 East Rd",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185789247,
-    "wof:lastmodified":1449007342,
+    "wof:lastmodified":1466488952,
     "wof:name":"Larry Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.353493,39.447787,-89.353493,39.447787],
+  "bbox": [
+    -89.353493,
+    39.447787,
+    -89.353493,
+    39.447787
+],
   "geometry": {"coordinates":[-89.353493,39.447787],"type":"Point"}
 }

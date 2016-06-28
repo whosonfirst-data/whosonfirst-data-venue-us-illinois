@@ -2,13 +2,14 @@
   "id": 202815535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.918903,38.380298,-89.918903,38.380298",
     "geom:latitude":38.380298,
     "geom:longitude":-89.918903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7258 Blacksmith Shop Rd",
     "sg:city":"Freeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202815535,
-    "wof:lastmodified":1449061358,
+    "wof:lastmodified":1466492139,
     "wof:name":"David E Wiskamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.918903,38.380298,-89.918903,38.380298],
+  "bbox": [
+    -89.918903,
+    38.380298,
+    -89.918903,
+    38.380298
+],
   "geometry": {"coordinates":[-89.918903,38.380298],"type":"Point"}
 }

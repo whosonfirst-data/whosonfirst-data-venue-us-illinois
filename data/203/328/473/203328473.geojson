@@ -2,13 +2,14 @@
   "id": 203328473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.244396,37.459695,-89.244396,37.459695",
     "geom:latitude":37.459695,
     "geom:longitude":-89.244396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Vienna St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203328473,
-    "wof:lastmodified":1449026059,
+    "wof:lastmodified":1466490775,
     "wof:name":"Anna Plaza Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-89.244396,37.459695,-89.244396,37.459695],
-  "geometry": {"coordinates":[-89.244396,37.459695],"type":"Point"}
+  "bbox": [
+    -89.244396,
+    37.459695,
+    -89.244396,
+    37.459695
+],
+  "geometry": {"coordinates":[-89.24439599999999,37.459695],"type":"Point"}
 }

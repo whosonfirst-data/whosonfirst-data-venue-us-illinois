@@ -2,13 +2,14 @@
   "id": 270237815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.546071,39.122769,-88.546071,39.122769",
     "geom:latitude":39.122769,
     "geom:longitude":-88.546071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270237815,
-    "wof:lastmodified":1449008729,
+    "wof:lastmodified":1466492633,
     "wof:name":"Care Van",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-88.546071,39.122769,-88.546071,39.122769],
+  "bbox": [
+    -88.546071,
+    39.122769,
+    -88.546071,
+    39.122769
+],
   "geometry": {"coordinates":[-88.546071,39.122769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219836559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.988306,40.649635,-88.988306,40.649635",
     "geom:latitude":40.649635,
     "geom:longitude":-88.988306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15736 E 2500 North Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219836559,
-    "wof:lastmodified":1449072720,
+    "wof:lastmodified":1466496866,
     "wof:name":"Charles Engel",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.988306,40.649635,-88.988306,40.649635],
-  "geometry": {"coordinates":[-88.988306,40.649635],"type":"Point"}
+  "bbox": [
+    -88.988306,
+    40.649635,
+    -88.988306,
+    40.649635
+],
+  "geometry": {"coordinates":[-88.98830599999999,40.649635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269704817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750768,41.897704,-87.750768,41.897704",
     "geom:latitude":41.897704,
     "geom:longitude":-87.750768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 W Walton St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269704817,
-    "wof:lastmodified":1449036780,
+    "wof:lastmodified":1466492493,
     "wof:name":"Rays Food Mart",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.750768,41.897704,-87.750768,41.897704],
-  "geometry": {"coordinates":[-87.750768,41.897704],"type":"Point"}
+  "bbox": [
+    -87.750768,
+    41.897704,
+    -87.750768,
+    41.897704
+],
+  "geometry": {"coordinates":[-87.75076799999999,41.897704],"type":"Point"}
 }

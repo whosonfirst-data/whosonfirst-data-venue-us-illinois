@@ -2,13 +2,14 @@
   "id": 185822641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.704462,39.670025,-89.704462,39.670025",
     "geom:latitude":39.670025,
     "geom:longitude":-89.704462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 N Main Plz",
     "sg:city":"Chatham",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185822641,
-    "wof:lastmodified":1449008141,
+    "wof:lastmodified":1466489174,
     "wof:name":"Sullivan Financial Services",
     "wof:parent_id":85858985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-89.704462,39.670025,-89.704462,39.670025],
-  "geometry": {"coordinates":[-89.704462,39.670025],"type":"Point"}
+  "bbox": [
+    -89.704462,
+    39.670025,
+    -89.704462,
+    39.670025
+],
+  "geometry": {"coordinates":[-89.70446200000001,39.670025],"type":"Point"}
 }

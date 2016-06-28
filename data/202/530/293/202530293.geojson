@@ -2,13 +2,14 @@
   "id": 202530293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081709,41.526481,-88.081709,41.526481",
     "geom:latitude":41.526481,
     "geom:longitude":-88.081709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Chicago St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202530293,
-    "wof:lastmodified":1449061462,
+    "wof:lastmodified":1466495531,
     "wof:name":"Will County Attorney Civil Div",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-88.081709,41.526481,-88.081709,41.526481],
+  "bbox": [
+    -88.081709,
+    41.526481,
+    -88.081709,
+    41.526481
+],
   "geometry": {"coordinates":[-88.081709,41.526481],"type":"Point"}
 }

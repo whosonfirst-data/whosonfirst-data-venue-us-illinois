@@ -2,13 +2,14 @@
   "id": 202845863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.161955,42.101193,-88.161955,42.101193",
     "geom:latitude":42.101193,
     "geom:longitude":-88.161955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Beechnut Dr",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202845863,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466492525,
     "wof:name":"Clarity Communication Sys",
     "wof:parent_id":85804615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-88.161955,42.101193,-88.161955,42.101193],
-  "geometry": {"coordinates":[-88.161955,42.101193],"type":"Point"}
+  "bbox": [
+    -88.161955,
+    42.101193,
+    -88.161955,
+    42.101193
+],
+  "geometry": {"coordinates":[-88.16195500000001,42.101193],"type":"Point"}
 }

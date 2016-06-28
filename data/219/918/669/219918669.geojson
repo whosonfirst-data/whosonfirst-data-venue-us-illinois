@@ -2,13 +2,14 @@
   "id": 219918669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.039302,41.797786,-88.039302,41.797786",
     "geom:latitude":41.797786,
     "geom:longitude":-88.039302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Haddow Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219918669,
-    "wof:lastmodified":1449072783,
+    "wof:lastmodified":1466497212,
     "wof:name":"Downers Grove Golf Club",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-88.039302,41.797786,-88.039302,41.797786],
-  "geometry": {"coordinates":[-88.039302,41.797786],"type":"Point"}
+  "bbox": [
+    -88.039302,
+    41.797786,
+    -88.039302,
+    41.797786
+],
+  "geometry": {"coordinates":[-88.03930200000001,41.797786],"type":"Point"}
 }

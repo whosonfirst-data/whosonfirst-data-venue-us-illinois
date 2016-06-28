@@ -2,13 +2,14 @@
   "id": 252906231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.459296,41.429718,-90.459296,41.429718",
     "geom:latitude":41.429718,
     "geom:longitude":-90.459296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 E 2nd St",
     "sg:city":"Coal Valley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252906231,
-    "wof:lastmodified":1449005812,
+    "wof:lastmodified":1466491520,
     "wof:name":"Iowa Fluid Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-90.459296,41.429718,-90.459296,41.429718],
-  "geometry": {"coordinates":[-90.459296,41.429718],"type":"Point"}
+  "bbox": [
+    -90.459296,
+    41.429718,
+    -90.459296,
+    41.429718
+],
+  "geometry": {"coordinates":[-90.45929599999999,41.429718],"type":"Point"}
 }

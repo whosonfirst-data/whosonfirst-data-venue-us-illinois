@@ -2,13 +2,14 @@
   "id": 219807377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.019359,42.335361,-89.019359,42.335361",
     "geom:latitude":42.335361,
     "geom:longitude":-89.019359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7758 Forest Hills Rd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219807377,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466496590,
     "wof:name":"Don Carter Corporate Office",
     "wof:parent_id":85880449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.019359,42.335361,-89.019359,42.335361],
-  "geometry": {"coordinates":[-89.019359,42.335361],"type":"Point"}
+  "bbox": [
+    -89.019359,
+    42.335361,
+    -89.019359,
+    42.335361
+],
+  "geometry": {"coordinates":[-89.01935899999999,42.335361],"type":"Point"}
 }

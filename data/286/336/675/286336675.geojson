@@ -2,13 +2,14 @@
   "id": 286336675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.842629,41.346763,-88.842629,41.346763",
     "geom:latitude":41.346763,
     "geom:longitude":-88.842629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Madison St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286336675,
-    "wof:lastmodified":1449015102,
+    "wof:lastmodified":1466490976,
     "wof:name":"Veteran's Assistance",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.842629,41.346763,-88.842629,41.346763],
+  "bbox": [
+    -88.842629,
+    41.346763,
+    -88.842629,
+    41.346763
+],
   "geometry": {"coordinates":[-88.842629,41.346763],"type":"Point"}
 }

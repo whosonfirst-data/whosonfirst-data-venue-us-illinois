@@ -2,13 +2,14 @@
   "id": 252850949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250747,40.138077,-88.250747,40.138077",
     "geom:latitude":40.138077,
     "geom:longitude":-88.250747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Moreland Blvd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252850949,
-    "wof:lastmodified":1449006047,
+    "wof:lastmodified":1466490818,
     "wof:name":"Auto Mall Of Champaign",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-88.250747,40.138077,-88.250747,40.138077],
+  "bbox": [
+    -88.250747,
+    40.138077,
+    -88.250747,
+    40.138077
+],
   "geometry": {"coordinates":[-88.250747,40.138077],"type":"Point"}
 }

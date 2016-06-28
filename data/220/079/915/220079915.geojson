@@ -2,13 +2,14 @@
   "id": 220079915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.004849,38.521153,-88.004849,38.521153",
     "geom:latitude":38.521153,
     "geom:longitude":-88.004849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E North St",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220079915,
-    "wof:lastmodified":1449074730,
+    "wof:lastmodified":1466489930,
     "wof:name":"Southern Illinois Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-88.004849,38.521153,-88.004849,38.521153],
-  "geometry": {"coordinates":[-88.004849,38.521153],"type":"Point"}
+  "bbox": [
+    -88.004849,
+    38.521153,
+    -88.004849,
+    38.521153
+],
+  "geometry": {"coordinates":[-88.00484899999999,38.521153],"type":"Point"}
 }

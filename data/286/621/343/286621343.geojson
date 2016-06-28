@@ -2,13 +2,14 @@
   "id": 286621343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654981,41.97908,-87.654981,41.97908",
     "geom:latitude":41.97908,
     "geom:longitude":-87.654981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286621343,
-    "wof:lastmodified":1449017754,
+    "wof:lastmodified":1466495535,
     "wof:name":"Wess-Schwab Out Patient Clinic",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.654981,41.97908,-87.654981,41.97908],
-  "geometry": {"coordinates":[-87.654981,41.97908],"type":"Point"}
+  "bbox": [
+    -87.654981,
+    41.97908,
+    -87.654981,
+    41.97908
+],
+  "geometry": {"coordinates":[-87.65498100000001,41.97908],"type":"Point"}
 }

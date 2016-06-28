@@ -2,13 +2,14 @@
   "id": 185883649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.594565,39.842492,-89.594565,39.842492",
     "geom:latitude":39.842492,
     "geom:longitude":-89.594565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 N Farmers Market Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -89,10 +90,11 @@
         }
     ],
     "wof:id":185883649,
-    "wof:lastmodified":1449007852,
+    "wof:lastmodified":1466489773,
     "wof:name":"Evans Disaster Restoration",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -116,6 +118,11 @@
         "carpet"
     ]
 },
-  "bbox": [-89.594565,39.842492,-89.594565,39.842492],
+  "bbox": [
+    -89.594565,
+    39.842492,
+    -89.594565,
+    39.842492
+],
   "geometry": {"coordinates":[-89.594565,39.842492],"type":"Point"}
 }

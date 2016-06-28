@@ -2,13 +2,14 @@
   "id": 287177831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.756701,41.949727,-87.756701,41.949727",
     "geom:latitude":41.949727,
     "geom:longitude":-87.756701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5118 W Grace St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287177831,
-    "wof:lastmodified":1449001590,
+    "wof:lastmodified":1466492834,
     "wof:name":"Native American",
     "wof:parent_id":85882317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-87.756701,41.949727,-87.756701,41.949727],
-  "geometry": {"coordinates":[-87.756701,41.949727],"type":"Point"}
+  "bbox": [
+    -87.756701,
+    41.949727,
+    -87.756701,
+    41.949727
+],
+  "geometry": {"coordinates":[-87.75670100000001,41.949727],"type":"Point"}
 }

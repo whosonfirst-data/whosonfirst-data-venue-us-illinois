@@ -2,13 +2,14 @@
   "id": 287069123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.71841,41.482091,-87.71841,41.482091",
     "geom:latitude":41.482091,
     "geom:longitude":-87.71841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22501 Butterfield Rd",
     "sg:city":"Richton Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287069123,
-    "wof:lastmodified":1449001238,
+    "wof:lastmodified":1466491068,
     "wof:name":"Carriage Creek Apartments",
     "wof:parent_id":85890835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.71841,41.482091,-87.71841,41.482091],
-  "geometry": {"coordinates":[-87.71841,41.482091],"type":"Point"}
+  "bbox": [
+    -87.71841,
+    41.482091,
+    -87.71841,
+    41.482091
+],
+  "geometry": {"coordinates":[-87.71841000000001,41.482091],"type":"Point"}
 }

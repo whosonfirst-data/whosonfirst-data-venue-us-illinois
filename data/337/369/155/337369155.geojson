@@ -2,13 +2,14 @@
   "id": 337369155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.734687,41.717078,-87.734687,41.717078",
     "geom:latitude":41.717078,
     "geom:longitude":-87.734687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9628 S Kolmar Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":337369155,
-    "wof:lastmodified":1449027700,
+    "wof:lastmodified":1466491899,
     "wof:name":"Breast Pumps Plus",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.734687,41.717078,-87.734687,41.717078],
-  "geometry": {"coordinates":[-87.734687,41.717078],"type":"Point"}
+  "bbox": [
+    -87.734687,
+    41.717078,
+    -87.734687,
+    41.717078
+],
+  "geometry": {"coordinates":[-87.73468699999999,41.717078],"type":"Point"}
 }

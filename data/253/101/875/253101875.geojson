@@ -2,13 +2,14 @@
   "id": 253101875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.877129,41.857612,-87.877129,41.857612",
     "geom:latitude":41.857612,
     "geom:longitude":-87.877129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Westchester Blvd",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253101875,
-    "wof:lastmodified":1449064377,
+    "wof:lastmodified":1466490250,
     "wof:name":"Dover Engineered Systems Inc",
     "wof:parent_id":85890851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "engineer"
     ]
 },
-  "bbox": [-87.877129,41.857612,-87.877129,41.857612],
+  "bbox": [
+    -87.877129,
+    41.857612,
+    -87.877129,
+    41.857612
+],
   "geometry": {"coordinates":[-87.877129,41.857612],"type":"Point"}
 }

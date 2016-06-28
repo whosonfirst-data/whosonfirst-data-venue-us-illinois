@@ -2,13 +2,14 @@
   "id": 219182587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.678322,41.484586,-87.678322,41.484586",
     "geom:latitude":41.484586,
     "geom:longitude":-87.678322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Forest Blvd",
     "sg:city":"Park Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219182587,
-    "wof:lastmodified":1449072614,
+    "wof:lastmodified":1466489274,
     "wof:name":"Park Forest Municpl Hlth Dept",
     "wof:parent_id":85890899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-87.678322,41.484586,-87.678322,41.484586],
-  "geometry": {"coordinates":[-87.678322,41.484586],"type":"Point"}
+  "bbox": [
+    -87.678322,
+    41.484586,
+    -87.678322,
+    41.484586
+],
+  "geometry": {"coordinates":[-87.67832199999999,41.484586],"type":"Point"}
 }

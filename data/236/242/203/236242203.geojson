@@ -2,13 +2,14 @@
   "id": 236242203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.662683,41.721212,-87.662683,41.721212",
     "geom:latitude":41.721212,
     "geom:longitude":-87.662683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 W 95th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236242203,
-    "wof:lastmodified":1449004775,
+    "wof:lastmodified":1466491997,
     "wof:name":"Third Baptist Church Chicago",
     "wof:parent_id":85867523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.662683,41.721212,-87.662683,41.721212],
+  "bbox": [
+    -87.662683,
+    41.721212,
+    -87.662683,
+    41.721212
+],
   "geometry": {"coordinates":[-87.662683,41.721212],"type":"Point"}
 }

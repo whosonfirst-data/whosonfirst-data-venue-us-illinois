@@ -2,13 +2,14 @@
   "id": 219789545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.9271,42.429519,-87.9271,42.429519",
     "geom:latitude":42.429519,
     "geom:longitude":-87.9271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39067 Caroline Ave",
     "sg:city":"Wadsworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219789545,
-    "wof:lastmodified":1449071989,
+    "wof:lastmodified":1466496305,
     "wof:name":"US Post Office",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.9271,42.429519,-87.9271,42.429519],
+  "bbox": [
+    -87.9271,
+    42.429519,
+    -87.9271,
+    42.429519
+],
   "geometry": {"coordinates":[-87.9271,42.429519],"type":"Point"}
 }

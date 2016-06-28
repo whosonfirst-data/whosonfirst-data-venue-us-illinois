@@ -2,13 +2,14 @@
   "id": 269700755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.911511,41.118437,-87.911511,41.118437",
     "geom:latitude":41.118437,
     "geom:longitude":-87.911511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2864 W State Rte 17",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269700755,
-    "wof:lastmodified":1449038777,
+    "wof:lastmodified":1466492430,
     "wof:name":"Davidson's West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.911511,41.118437,-87.911511,41.118437],
+  "bbox": [
+    -87.911511,
+    41.118437,
+    -87.911511,
+    41.118437
+],
   "geometry": {"coordinates":[-87.911511,41.118437],"type":"Point"}
 }

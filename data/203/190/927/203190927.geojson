@@ -2,13 +2,14 @@
   "id": 203190927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702806,41.742483,-87.702806,41.742483",
     "geom:latitude":41.742483,
     "geom:longitude":-87.702806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 W 83rd St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203190927,
-    "wof:lastmodified":1449026755,
+    "wof:lastmodified":1466489250,
     "wof:name":"Ashburn Local Development Nfp",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "civic"
     ]
 },
-  "bbox": [-87.702806,41.742483,-87.702806,41.742483],
+  "bbox": [
+    -87.702806,
+    41.742483,
+    -87.702806,
+    41.742483
+],
   "geometry": {"coordinates":[-87.702806,41.742483],"type":"Point"}
 }

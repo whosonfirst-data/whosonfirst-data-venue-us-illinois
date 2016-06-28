@@ -2,13 +2,14 @@
   "id": 303074171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.031016,41.750752,-88.031016,41.750752",
     "geom:latitude":41.750752,
     "geom:longitude":-88.031016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 W 75th St",
     "sg:city":"Woodridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303074171,
-    "wof:lastmodified":1448999441,
+    "wof:lastmodified":1466491007,
     "wof:name":"24 7 Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-88.031016,41.750752,-88.031016,41.750752],
-  "geometry": {"coordinates":[-88.031016,41.750752],"type":"Point"}
+  "bbox": [
+    -88.031016,
+    41.750752,
+    -88.031016,
+    41.750752
+],
+  "geometry": {"coordinates":[-88.03101599999999,41.750752],"type":"Point"}
 }

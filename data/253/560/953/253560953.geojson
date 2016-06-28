@@ -2,13 +2,14 @@
   "id": 253560953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07658,41.897093,-88.07658,41.897093",
     "geom:latitude":41.897093,
     "geom:longitude":-88.07658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Spruce St",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253560953,
-    "wof:lastmodified":1449065065,
+    "wof:lastmodified":1466496394,
     "wof:name":"All State Power Washing",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.07658,41.897093,-88.07658,41.897093],
-  "geometry": {"coordinates":[-88.07658,41.897093],"type":"Point"}
+  "bbox": [
+    -88.07658,
+    41.897093,
+    -88.07658,
+    41.897093
+],
+  "geometry": {"coordinates":[-88.07658000000001,41.897093],"type":"Point"}
 }

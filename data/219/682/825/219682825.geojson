@@ -2,13 +2,14 @@
   "id": 219682825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090769,42.19757,-88.090769,42.19757",
     "geom:latitude":42.19757,
     "geom:longitude":-88.090769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Main St",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219682825,
-    "wof:lastmodified":1449071004,
+    "wof:lastmodified":1466495327,
     "wof:name":"Online Relocation Inc",
     "wof:parent_id":85867897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relocation"
     ]
 },
-  "bbox": [-88.090769,42.19757,-88.090769,42.19757],
-  "geometry": {"coordinates":[-88.090769,42.19757],"type":"Point"}
+  "bbox": [
+    -88.090769,
+    42.19757,
+    -88.090769,
+    42.19757
+],
+  "geometry": {"coordinates":[-88.09076899999999,42.19757],"type":"Point"}
 }

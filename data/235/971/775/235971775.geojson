@@ -2,13 +2,14 @@
   "id": 235971775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.990921,40.610245,-88.990921,40.610245",
     "geom:latitude":40.610245,
     "geom:longitude":-88.990921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Locust St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235971775,
-    "wof:lastmodified":1449008428,
+    "wof:lastmodified":1466489442,
     "wof:name":"Red Top Cab",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-88.990921,40.610245,-88.990921,40.610245],
+  "bbox": [
+    -88.990921,
+    40.610245,
+    -88.990921,
+    40.610245
+],
   "geometry": {"coordinates":[-88.990921,40.610245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253187051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.838335,41.327483,-88.838335,41.327483",
     "geom:latitude":41.327483,
     "geom:longitude":-88.838335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Catherine St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253187051,
-    "wof:lastmodified":1449063256,
+    "wof:lastmodified":1466491173,
     "wof:name":"South Side Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.838335,41.327483,-88.838335,41.327483],
+  "bbox": [
+    -88.838335,
+    41.327483,
+    -88.838335,
+    41.327483
+],
   "geometry": {"coordinates":[-88.838335,41.327483],"type":"Point"}
 }

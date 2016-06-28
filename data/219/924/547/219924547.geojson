@@ -2,13 +2,14 @@
   "id": 219924547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.011496,38.520503,-90.011496,38.520503",
     "geom:latitude":38.520503,
     "geom:longitude":-90.011496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 S Belt W",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219924547,
-    "wof:lastmodified":1449071381,
+    "wof:lastmodified":1466497099,
     "wof:name":"Poelker's Garage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-90.011496,38.520503,-90.011496,38.520503],
-  "geometry": {"coordinates":[-90.011496,38.520503],"type":"Point"}
+  "bbox": [
+    -90.011496,
+    38.520503,
+    -90.011496,
+    38.520503
+],
+  "geometry": {"coordinates":[-90.01149599999999,38.520503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236456435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.029011,42.252961,-89.029011,42.252961",
     "geom:latitude":42.252961,
     "geom:longitude":-89.029011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 S Alpine Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236456435,
-    "wof:lastmodified":1449002464,
+    "wof:lastmodified":1466494815,
     "wof:name":"Karnes Music",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piano"
     ]
 },
-  "bbox": [-89.029011,42.252961,-89.029011,42.252961],
+  "bbox": [
+    -89.029011,
+    42.252961,
+    -89.029011,
+    42.252961
+],
   "geometry": {"coordinates":[-89.029011,42.252961],"type":"Point"}
 }

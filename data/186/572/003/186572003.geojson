@@ -2,13 +2,14 @@
   "id": 186572003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.401489,39.940535,-91.401489,39.940535",
     "geom:latitude":39.940535,
     "geom:longitude":-91.401489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Elm St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186572003,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466489073,
     "wof:name":"M & M Cleaners",
     "wof:parent_id":85867475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-91.401489,39.940535,-91.401489,39.940535],
+  "bbox": [
+    -91.401489,
+    39.940535,
+    -91.401489,
+    39.940535
+],
   "geometry": {"coordinates":[-91.401489,39.940535],"type":"Point"}
 }

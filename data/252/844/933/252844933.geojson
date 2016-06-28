@@ -2,13 +2,14 @@
   "id": 252844933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.259419,41.737109,-88.259419,41.737109",
     "geom:latitude":41.737109,
     "geom:longitude":-88.259419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Fox Valley Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252844933,
-    "wof:lastmodified":1449005874,
+    "wof:lastmodified":1466490742,
     "wof:name":"Lee Nails",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nail"
     ]
 },
-  "bbox": [-88.259419,41.737109,-88.259419,41.737109],
-  "geometry": {"coordinates":[-88.259419,41.737109],"type":"Point"}
+  "bbox": [
+    -88.259419,
+    41.737109,
+    -88.259419,
+    41.737109
+],
+  "geometry": {"coordinates":[-88.25941899999999,41.737109],"type":"Point"}
 }

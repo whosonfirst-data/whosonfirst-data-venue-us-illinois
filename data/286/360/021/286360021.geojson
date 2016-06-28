@@ -2,13 +2,14 @@
   "id": 286360021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.58248,41.769816,-87.58248,41.769816",
     "geom:latitude":41.769816,
     "geom:longitude":-87.58248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 S Ridgeland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286360021,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466491324,
     "wof:name":"Bills Friendly Transport",
     "wof:parent_id":85867637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.58248,41.769816,-87.58248,41.769816],
+  "bbox": [
+    -87.58248,
+    41.769816,
+    -87.58248,
+    41.769816
+],
   "geometry": {"coordinates":[-87.58248,41.769816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303170027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.828589,42.253444,-88.828589,42.253444",
     "geom:latitude":42.253444,
     "geom:longitude":-88.828589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Logan Ave",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303170027,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466492556,
     "wof:name":"Circle K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.828589,42.253444,-88.828589,42.253444],
-  "geometry": {"coordinates":[-88.828589,42.253444],"type":"Point"}
+  "bbox": [
+    -88.828589,
+    42.253444,
+    -88.828589,
+    42.253444
+],
+  "geometry": {"coordinates":[-88.82858899999999,42.253444],"type":"Point"}
 }

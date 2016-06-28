@@ -2,13 +2,14 @@
   "id": 219892611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.59323,41.809754,-87.59323,41.809754",
     "geom:latitude":41.809754,
     "geom:longitude":-87.59323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E 47th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219892611,
-    "wof:lastmodified":1449070907,
+    "wof:lastmodified":1466496934,
     "wof:name":"Noir Media Group",
     "wof:parent_id":85867647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-87.59323,41.809754,-87.59323,41.809754],
-  "geometry": {"coordinates":[-87.59323,41.809754],"type":"Point"}
+  "bbox": [
+    -87.59323,
+    41.809754,
+    -87.59323,
+    41.809754
+],
+  "geometry": {"coordinates":[-87.59323000000001,41.809754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219368087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.597527,39.116383,-88.597527,39.116383",
     "geom:latitude":39.116383,
     "geom:longitude":-88.597527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10731 E Fayette Rd",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219368087,
-    "wof:lastmodified":1449071204,
+    "wof:lastmodified":1466491510,
     "wof:name":"Dave Unkraut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-88.597527,39.116383,-88.597527,39.116383],
+  "bbox": [
+    -88.597527,
+    39.116383,
+    -88.597527,
+    39.116383
+],
   "geometry": {"coordinates":[-88.597527,39.116383],"type":"Point"}
 }

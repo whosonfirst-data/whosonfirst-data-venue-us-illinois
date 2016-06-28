@@ -2,13 +2,14 @@
   "id": 202731469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.776583,41.899708,-87.776583,41.899708",
     "geom:latitude":41.899708,
     "geom:longitude":-87.776583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 N Humphrey Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202731469,
-    "wof:lastmodified":1449062364,
+    "wof:lastmodified":1466491155,
     "wof:name":"Cobb Heating & Cooling Svc",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.776583,41.899708,-87.776583,41.899708],
+  "bbox": [
+    -87.776583,
+    41.899708,
+    -87.776583,
+    41.899708
+],
   "geometry": {"coordinates":[-87.776583,41.899708],"type":"Point"}
 }

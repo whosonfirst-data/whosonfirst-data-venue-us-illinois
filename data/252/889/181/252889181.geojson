@@ -2,13 +2,14 @@
   "id": 252889181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995675,38.516288,-89.995675,38.516288",
     "geom:latitude":38.516288,
     "geom:longitude":-89.995675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N 10th St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252889181,
-    "wof:lastmodified":1449005385,
+    "wof:lastmodified":1466491295,
     "wof:name":"Poppy's Tackle & Bait",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-89.995675,38.516288,-89.995675,38.516288],
-  "geometry": {"coordinates":[-89.995675,38.516288],"type":"Point"}
+  "bbox": [
+    -89.995675,
+    38.516288,
+    -89.995675,
+    38.516288
+],
+  "geometry": {"coordinates":[-89.99567500000001,38.516288],"type":"Point"}
 }

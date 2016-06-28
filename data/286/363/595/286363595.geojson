@@ -2,13 +2,14 @@
   "id": 286363595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.527668,41.498869,-90.527668,41.498869",
     "geom:latitude":41.498869,
     "geom:longitude":-90.527668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 7th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286363595,
-    "wof:lastmodified":1449017748,
+    "wof:lastmodified":1466491380,
     "wof:name":"Wayne Eileen Marie MD",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.527668,41.498869,-90.527668,41.498869],
-  "geometry": {"coordinates":[-90.527668,41.498869],"type":"Point"}
+  "bbox": [
+    -90.527668,
+    41.498869,
+    -90.527668,
+    41.498869
+],
+  "geometry": {"coordinates":[-90.52766800000001,41.498869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169729279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97345,38.846909,-89.97345,38.846909",
     "geom:latitude":38.846909,
     "geom:longitude":-89.97345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Springfield Dr",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169729279,
-    "wof:lastmodified":1449034346,
+    "wof:lastmodified":1466492995,
     "wof:name":"Fred Schafer",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "product"
     ]
 },
-  "bbox": [-89.97345,38.846909,-89.97345,38.846909],
+  "bbox": [
+    -89.97345,
+    38.846909,
+    -89.97345,
+    38.846909
+],
   "geometry": {"coordinates":[-89.97345,38.846909],"type":"Point"}
 }

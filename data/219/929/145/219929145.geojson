@@ -2,13 +2,14 @@
   "id": 219929145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.059756,42.254425,-89.059756,42.254425",
     "geom:latitude":42.254425,
     "geom:longitude":-89.059756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 12th Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219929145,
-    "wof:lastmodified":1449071738,
+    "wof:lastmodified":1466497123,
     "wof:name":"Karen Paap",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.059756,42.254425,-89.059756,42.254425],
-  "geometry": {"coordinates":[-89.059756,42.254425],"type":"Point"}
+  "bbox": [
+    -89.059756,
+    42.254425,
+    -89.059756,
+    42.254425
+],
+  "geometry": {"coordinates":[-89.05975599999999,42.254425],"type":"Point"}
 }

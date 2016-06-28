@@ -2,13 +2,14 @@
   "id": 203187461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.568778,41.761557,-87.568778,41.761557",
     "geom:latitude":41.761557,
     "geom:longitude":-87.568778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7343 S Crandon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203187461,
-    "wof:lastmodified":1449025218,
+    "wof:lastmodified":1466489207,
     "wof:name":"Sullivan Hse Child Wlfare Agcy",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.568778,41.761557,-87.568778,41.761557],
-  "geometry": {"coordinates":[-87.568778,41.761557],"type":"Point"}
+  "bbox": [
+    -87.568778,
+    41.761557,
+    -87.568778,
+    41.761557
+],
+  "geometry": {"coordinates":[-87.56877799999999,41.761557],"type":"Point"}
 }

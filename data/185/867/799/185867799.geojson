@@ -2,13 +2,14 @@
   "id": 185867799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.649549,39.792636,-89.649549,39.792636",
     "geom:latitude":39.792636,
     "geom:longitude":-89.649549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 S 5th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185867799,
-    "wof:lastmodified":1449007308,
+    "wof:lastmodified":1466489550,
     "wof:name":"Panichi William",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "custody"
     ]
 },
-  "bbox": [-89.649549,39.792636,-89.649549,39.792636],
-  "geometry": {"coordinates":[-89.649549,39.792636],"type":"Point"}
+  "bbox": [
+    -89.649549,
+    39.792636,
+    -89.649549,
+    39.792636
+],
+  "geometry": {"coordinates":[-89.64954899999999,39.792636],"type":"Point"}
 }

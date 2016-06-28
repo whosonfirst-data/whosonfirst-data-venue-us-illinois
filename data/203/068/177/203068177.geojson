@@ -2,13 +2,14 @@
   "id": 203068177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.419323,41.364714,-88.419323,41.364714",
     "geom:latitude":41.364714,
     "geom:longitude":-88.419323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Pine St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203068177,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466494057,
     "wof:name":"Morris Senior Citizens Center",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.419323,41.364714,-88.419323,41.364714],
-  "geometry": {"coordinates":[-88.419323,41.364714],"type":"Point"}
+  "bbox": [
+    -88.419323,
+    41.364714,
+    -88.419323,
+    41.364714
+],
+  "geometry": {"coordinates":[-88.41932300000001,41.364714],"type":"Point"}
 }

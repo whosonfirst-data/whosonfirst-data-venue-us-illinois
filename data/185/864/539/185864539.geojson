@@ -2,13 +2,14 @@
   "id": 185864539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.649656,39.789195,-89.649656,39.789195",
     "geom:latitude":39.789195,
     "geom:longitude":-89.649656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 S 5th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185864539,
-    "wof:lastmodified":1449008233,
+    "wof:lastmodified":1466489505,
     "wof:name":"American Assn For Marriage",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-89.649656,39.789195,-89.649656,39.789195],
-  "geometry": {"coordinates":[-89.649656,39.789195],"type":"Point"}
+  "bbox": [
+    -89.649656,
+    39.789195,
+    -89.649656,
+    39.789195
+],
+  "geometry": {"coordinates":[-89.64965599999999,39.789195],"type":"Point"}
 }

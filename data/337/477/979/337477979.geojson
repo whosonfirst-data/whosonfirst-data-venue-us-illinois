@@ -2,13 +2,14 @@
   "id": 337477979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.804228,41.906527,-87.804228,41.906527",
     "geom:latitude":41.906527,
     "geom:longitude":-87.804228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 N Marion St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337477979,
-    "wof:lastmodified":1449027063,
+    "wof:lastmodified":1466492431,
     "wof:name":"Appraisal Alliance",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-87.804228,41.906527,-87.804228,41.906527],
-  "geometry": {"coordinates":[-87.804228,41.906527],"type":"Point"}
+  "bbox": [
+    -87.804228,
+    41.906527,
+    -87.804228,
+    41.906527
+],
+  "geometry": {"coordinates":[-87.80422799999999,41.906527],"type":"Point"}
 }

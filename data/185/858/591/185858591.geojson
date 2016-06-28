@@ -2,13 +2,14 @@
   "id": 185858591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.627321,39.818774,-89.627321,39.818774",
     "geom:latitude":39.818774,
     "geom:longitude":-89.627321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1972 E Converse St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185858591,
-    "wof:lastmodified":1449006770,
+    "wof:lastmodified":1466489418,
     "wof:name":"Mc Cune Appliances",
     "wof:parent_id":85803559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "antenna"
     ]
 },
-  "bbox": [-89.627321,39.818774,-89.627321,39.818774],
-  "geometry": {"coordinates":[-89.627321,39.818774],"type":"Point"}
+  "bbox": [
+    -89.627321,
+    39.818774,
+    -89.627321,
+    39.818774
+],
+  "geometry": {"coordinates":[-89.62732099999999,39.818774],"type":"Point"}
 }

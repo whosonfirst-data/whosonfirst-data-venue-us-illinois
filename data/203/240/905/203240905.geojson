@@ -2,13 +2,14 @@
   "id": 203240905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727002,41.935276,-87.727002,41.935276",
     "geom:latitude":41.935276,
     "geom:longitude":-87.727002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203240905,
-    "wof:lastmodified":1449025134,
+    "wof:lastmodified":1466489801,
     "wof:name":"Nicks Place",
     "wof:parent_id":85867733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-87.727002,41.935276,-87.727002,41.935276],
+  "bbox": [
+    -87.727002,
+    41.935276,
+    -87.727002,
+    41.935276
+],
   "geometry": {"coordinates":[-87.727002,41.935276],"type":"Point"}
 }

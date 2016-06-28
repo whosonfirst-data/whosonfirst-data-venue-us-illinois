@@ -2,13 +2,14 @@
   "id": 286807391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.802195,41.745123,-87.802195,41.745123",
     "geom:latitude":41.745123,
     "geom:longitude":-87.802195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8052 S Octavia Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286807391,
-    "wof:lastmodified":1449015926,
+    "wof:lastmodified":1466497291,
     "wof:name":"Chicago Accordion Club",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.802195,41.745123,-87.802195,41.745123],
+  "bbox": [
+    -87.802195,
+    41.745123,
+    -87.802195,
+    41.745123
+],
   "geometry": {"coordinates":[-87.802195,41.745123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287181247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698996,41.706213,-87.698996,41.706213",
     "geom:latitude":41.706213,
     "geom:longitude":-87.698996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3128 W 103rd St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287181247,
-    "wof:lastmodified":1449001202,
+    "wof:lastmodified":1466492887,
     "wof:name":"Jewel-Osco 3114",
     "wof:parent_id":85866783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.698996,41.706213,-87.698996,41.706213],
-  "geometry": {"coordinates":[-87.698996,41.706213],"type":"Point"}
+  "bbox": [
+    -87.698996,
+    41.706213,
+    -87.698996,
+    41.706213
+],
+  "geometry": {"coordinates":[-87.69899599999999,41.706213],"type":"Point"}
 }

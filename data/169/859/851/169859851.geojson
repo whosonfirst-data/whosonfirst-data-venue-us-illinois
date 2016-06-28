@@ -2,13 +2,14 @@
   "id": 169859851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.003998,38.659599,-90.003998,38.659599",
     "geom:latitude":38.659599,
     "geom:longitude":-90.003998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Saint Louis Rd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169859851,
-    "wof:lastmodified":1449035044,
+    "wof:lastmodified":1466495169,
     "wof:name":"Heartland Healthcare",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.003998,38.659599,-90.003998,38.659599],
+  "bbox": [
+    -90.003998,
+    38.659599,
+    -90.003998,
+    38.659599
+],
   "geometry": {"coordinates":[-90.003998,38.659599],"type":"Point"}
 }

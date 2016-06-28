@@ -2,13 +2,14 @@
   "id": 186069763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.72898,37.144407,-88.72898,37.144407",
     "geom:latitude":37.144407,
     "geom:longitude":-88.72898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Front St",
     "sg:city":"Metropolis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186069763,
-    "wof:lastmodified":1449052069,
+    "wof:lastmodified":1466494599,
     "wof:name":"Baymont Inn Metropolis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lodging"
     ]
 },
-  "bbox": [-88.72898,37.144407,-88.72898,37.144407],
-  "geometry": {"coordinates":[-88.72898,37.144407],"type":"Point"}
+  "bbox": [
+    -88.72898,
+    37.144407,
+    -88.72898,
+    37.144407
+],
+  "geometry": {"coordinates":[-88.72898000000001,37.144407],"type":"Point"}
 }

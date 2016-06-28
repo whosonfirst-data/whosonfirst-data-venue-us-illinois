@@ -2,13 +2,14 @@
   "id": 287211589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.038264,38.90085,-90.038264,38.90085",
     "geom:latitude":38.90085,
     "geom:longitude":-90.038264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Bethalto Dr",
     "sg:city":"Bethalto",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287211589,
-    "wof:lastmodified":1449000874,
+    "wof:lastmodified":1466493378,
     "wof:name":"Wash-N-Go",
     "wof:parent_id":85846097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-90.038264,38.90085,-90.038264,38.90085],
+  "bbox": [
+    -90.038264,
+    38.90085,
+    -90.038264,
+    38.90085
+],
   "geometry": {"coordinates":[-90.038264,38.90085],"type":"Point"}
 }

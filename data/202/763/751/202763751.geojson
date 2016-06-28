@@ -2,13 +2,14 @@
   "id": 202763751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.96143,41.5316,-87.96143,41.5316",
     "geom:latitude":41.5316,
     "geom:longitude":-87.96143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 N Cooper Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202763751,
-    "wof:lastmodified":1449062634,
+    "wof:lastmodified":1466491525,
     "wof:name":"Lindas Country Lane Inc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-87.96143,41.5316,-87.96143,41.5316],
-  "geometry": {"coordinates":[-87.96143,41.5316],"type":"Point"}
+  "bbox": [
+    -87.96143,
+    41.5316,
+    -87.96143,
+    41.5316
+],
+  "geometry": {"coordinates":[-87.96142999999999,41.5316],"type":"Point"}
 }

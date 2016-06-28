@@ -2,13 +2,14 @@
   "id": 269488297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.290945,41.85587,-88.290945,41.85587",
     "geom:latitude":41.85587,
     "geom:longitude":-88.290945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Swanson Dr",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269488297,
-    "wof:lastmodified":1449038880,
+    "wof:lastmodified":1466489061,
     "wof:name":"J C Schultz",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "banner"
     ]
 },
-  "bbox": [-88.290945,41.85587,-88.290945,41.85587],
-  "geometry": {"coordinates":[-88.290945,41.85587],"type":"Point"}
+  "bbox": [
+    -88.290945,
+    41.85587,
+    -88.290945,
+    41.85587
+],
+  "geometry": {"coordinates":[-88.29094499999999,41.85587],"type":"Point"}
 }

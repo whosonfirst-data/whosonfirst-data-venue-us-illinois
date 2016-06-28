@@ -2,13 +2,14 @@
   "id": 235999945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.638336,42.287226,-89.638336,42.287226",
     "geom:latitude":42.287226,
     "geom:longitude":-89.638336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 S Harlem Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235999945,
-    "wof:lastmodified":1449008565,
+    "wof:lastmodified":1466489798,
     "wof:name":"ABM Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-89.638336,42.287226,-89.638336,42.287226],
+  "bbox": [
+    -89.638336,
+    42.287226,
+    -89.638336,
+    42.287226
+],
   "geometry": {"coordinates":[-89.638336,42.287226],"type":"Point"}
 }

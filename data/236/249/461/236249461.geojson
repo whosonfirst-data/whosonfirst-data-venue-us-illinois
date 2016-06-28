@@ -2,13 +2,14 @@
   "id": 236249461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.86848,41.505934,-87.86848,41.505934",
     "geom:latitude":41.505934,
     "geom:longitude":-87.86848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10285 W Lincoln Hwy",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236249461,
-    "wof:lastmodified":1449001805,
+    "wof:lastmodified":1466492102,
     "wof:name":"Whiteford Tax & Financial Svc",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.86848,41.505934,-87.86848,41.505934],
-  "geometry": {"coordinates":[-87.86848,41.505934],"type":"Point"}
+  "bbox": [
+    -87.86848,
+    41.505934,
+    -87.86848,
+    41.505934
+],
+  "geometry": {"coordinates":[-87.86848000000001,41.505934],"type":"Point"}
 }

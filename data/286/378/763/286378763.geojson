@@ -2,13 +2,14 @@
   "id": 286378763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13433,41.52246,-88.13433,41.52246",
     "geom:latitude":41.52246,
     "geom:longitude":-88.13433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286378763,
-    "wof:lastmodified":1449017175,
+    "wof:lastmodified":1466491606,
     "wof:name":"Joliet Lock & Alarm Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-88.13433,41.52246,-88.13433,41.52246],
-  "geometry": {"coordinates":[-88.13433,41.52246],"type":"Point"}
+  "bbox": [
+    -88.13433,
+    41.52246,
+    -88.13433,
+    41.52246
+],
+  "geometry": {"coordinates":[-88.13433000000001,41.52246],"type":"Point"}
 }

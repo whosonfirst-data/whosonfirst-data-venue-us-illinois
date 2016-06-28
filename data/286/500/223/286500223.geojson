@@ -2,13 +2,14 @@
   "id": 286500223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.770097,41.068904,-89.770097,41.068904",
     "geom:latitude":41.068904,
     "geom:longitude":-89.770097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Main Ave",
     "sg:city":"Wyoming",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286500223,
-    "wof:lastmodified":1449015904,
+    "wof:lastmodified":1466493538,
     "wof:name":"Wyoming First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.770097,41.068904,-89.770097,41.068904],
-  "geometry": {"coordinates":[-89.770097,41.068904],"type":"Point"}
+  "bbox": [
+    -89.770097,
+    41.068904,
+    -89.770097,
+    41.068904
+],
+  "geometry": {"coordinates":[-89.77009700000001,41.068904],"type":"Point"}
 }

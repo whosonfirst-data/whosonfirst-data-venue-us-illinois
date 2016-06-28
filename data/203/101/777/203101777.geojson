@@ -2,13 +2,14 @@
   "id": 203101777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809756,41.51874,-87.809756,41.51874",
     "geom:latitude":41.51874,
     "geom:longitude":-87.809756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20249 Countryside Ct",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203101777,
-    "wof:lastmodified":1449025942,
+    "wof:lastmodified":1466494792,
     "wof:name":"Affiliated Media",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.809756,41.51874,-87.809756,41.51874],
-  "geometry": {"coordinates":[-87.809756,41.51874],"type":"Point"}
+  "bbox": [
+    -87.809756,
+    41.51874,
+    -87.809756,
+    41.51874
+],
+  "geometry": {"coordinates":[-87.80975599999999,41.51874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235967595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314989,41.759424,-88.314989,41.759424",
     "geom:latitude":41.759424,
     "geom:longitude":-88.314989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 W New York St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":235967595,
-    "wof:lastmodified":1449008596,
+    "wof:lastmodified":1466489393,
     "wof:name":"Vitacast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.314989,41.759424,-88.314989,41.759424],
+  "bbox": [
+    -88.314989,
+    41.759424,
+    -88.314989,
+    41.759424
+],
   "geometry": {"coordinates":[-88.314989,41.759424],"type":"Point"}
 }

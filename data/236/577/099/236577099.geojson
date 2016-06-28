@@ -2,13 +2,14 @@
   "id": 236577099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.249344,42.250498,-88.249344,42.250498",
     "geom:latitude":42.250498,
     "geom:longitude":-88.249344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5513 Burwood Rd",
     "sg:city":"Oakwood Hills",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236577099,
-    "wof:lastmodified":1449005370,
+    "wof:lastmodified":1466496165,
     "wof:name":"Cary Indoor Golf & Billiards",
     "wof:parent_id":85804611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.249344,42.250498,-88.249344,42.250498],
-  "geometry": {"coordinates":[-88.249344,42.250498],"type":"Point"}
+  "bbox": [
+    -88.249344,
+    42.250498,
+    -88.249344,
+    42.250498
+],
+  "geometry": {"coordinates":[-88.24934399999999,42.250498],"type":"Point"}
 }

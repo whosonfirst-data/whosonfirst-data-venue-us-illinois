@@ -2,13 +2,14 @@
   "id": 202658795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670494,41.714762,-87.670494,41.714762",
     "geom:latitude":41.714762,
     "geom:longitude":-87.670494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9851 S Winchester Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202658795,
-    "wof:lastmodified":1449060054,
+    "wof:lastmodified":1466490336,
     "wof:name":"Tents R US",
     "wof:parent_id":85867513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-87.670494,41.714762,-87.670494,41.714762],
-  "geometry": {"coordinates":[-87.670494,41.714762],"type":"Point"}
+  "bbox": [
+    -87.670494,
+    41.714762,
+    -87.670494,
+    41.714762
+],
+  "geometry": {"coordinates":[-87.67049400000001,41.714762],"type":"Point"}
 }

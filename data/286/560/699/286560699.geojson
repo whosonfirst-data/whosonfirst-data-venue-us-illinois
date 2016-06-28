@@ -2,13 +2,14 @@
   "id": 286560699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.072172,42.234286,-89.072172,42.234286",
     "geom:latitude":42.234286,
     "geom:longitude":-89.072172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 11th St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286560699,
-    "wof:lastmodified":1449017428,
+    "wof:lastmodified":1466494538,
     "wof:name":"Friendly Auto Sales",
     "wof:parent_id":85867945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-89.072172,42.234286,-89.072172,42.234286],
-  "geometry": {"coordinates":[-89.072172,42.234286],"type":"Point"}
+  "bbox": [
+    -89.072172,
+    42.234286,
+    -89.072172,
+    42.234286
+],
+  "geometry": {"coordinates":[-89.07217199999999,42.234286],"type":"Point"}
 }

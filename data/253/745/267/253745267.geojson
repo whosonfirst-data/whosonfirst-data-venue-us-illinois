@@ -2,13 +2,14 @@
   "id": 253745267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.206471,40.089159,-88.206471,40.089159",
     "geom:latitude":40.089159,
     "geom:longitude":-88.206471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Boudreau Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253745267,
-    "wof:lastmodified":1449065668,
+    "wof:lastmodified":1466497846,
     "wof:name":"Stoughton Purchasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.206471,40.089159,-88.206471,40.089159],
-  "geometry": {"coordinates":[-88.206471,40.089159],"type":"Point"}
+  "bbox": [
+    -88.206471,
+    40.089159,
+    -88.206471,
+    40.089159
+],
+  "geometry": {"coordinates":[-88.20647099999999,40.089159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202733311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.808539,40.572942,-89.808539,40.572942",
     "geom:latitude":40.572942,
     "geom:longitude":-89.808539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Main St",
     "sg:city":"Glasford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202733311,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466491176,
     "wof:name":"Glasford Mini-Storage",
     "wof:parent_id":85827007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-89.808539,40.572942,-89.808539,40.572942],
+  "bbox": [
+    -89.808539,
+    40.572942,
+    -89.808539,
+    40.572942
+],
   "geometry": {"coordinates":[-89.808539,40.572942],"type":"Point"}
 }

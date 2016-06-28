@@ -2,13 +2,14 @@
   "id": 219554575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.869785,41.121023,-87.869785,41.121023",
     "geom:latitude":41.121023,
     "geom:longitude":-87.869785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 W Court St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219554575,
-    "wof:lastmodified":1449071124,
+    "wof:lastmodified":1466493814,
     "wof:name":"Downtown Pawn Shop",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-87.869785,41.121023,-87.869785,41.121023],
-  "geometry": {"coordinates":[-87.869785,41.121023],"type":"Point"}
+  "bbox": [
+    -87.869785,
+    41.121023,
+    -87.869785,
+    41.121023
+],
+  "geometry": {"coordinates":[-87.86978499999999,41.121023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303162265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.15578,41.453801,-90.15578,41.453801",
     "geom:latitude":41.453801,
     "geom:longitude":-90.15578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N State St",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303162265,
-    "wof:lastmodified":1449000205,
+    "wof:lastmodified":1466492424,
     "wof:name":"Commnity Park District Owned",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-90.15578,41.453801,-90.15578,41.453801],
-  "geometry": {"coordinates":[-90.15578,41.453801],"type":"Point"}
+  "bbox": [
+    -90.15578,
+    41.453801,
+    -90.15578,
+    41.453801
+],
+  "geometry": {"coordinates":[-90.15577999999999,41.453801],"type":"Point"}
 }

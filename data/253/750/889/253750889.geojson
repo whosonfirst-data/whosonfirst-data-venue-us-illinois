@@ -2,13 +2,14 @@
   "id": 253750889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.767503,40.345301,-88.767503,40.345301",
     "geom:latitude":40.345301,
     "geom:longitude":-88.767503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 W Cedar St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253750889,
-    "wof:lastmodified":1449064585,
+    "wof:lastmodified":1466497904,
     "wof:name":"W Bruce Badger",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.767503,40.345301,-88.767503,40.345301],
+  "bbox": [
+    -88.767503,
+    40.345301,
+    -88.767503,
+    40.345301
+],
   "geometry": {"coordinates":[-88.767503,40.345301],"type":"Point"}
 }

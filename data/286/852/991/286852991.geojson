@@ -2,13 +2,14 @@
   "id": 286852991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895289,41.157151,-87.895289,41.157151",
     "geom:latitude":41.157151,
     "geom:longitude":-87.895289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Briarcliff Ln",
     "sg:city":"Bourbonnais",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286852991,
-    "wof:lastmodified":1449017615,
+    "wof:lastmodified":1466497783,
     "wof:name":"Global Vision Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-87.895289,41.157151,-87.895289,41.157151],
-  "geometry": {"coordinates":[-87.895289,41.157151],"type":"Point"}
+  "bbox": [
+    -87.895289,
+    41.157151,
+    -87.895289,
+    41.157151
+],
+  "geometry": {"coordinates":[-87.89528900000001,41.157151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236353171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670515,41.941419,-87.670515,41.941419",
     "geom:latitude":41.941419,
     "geom:longitude":-87.670515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 W School St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236353171,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466493438,
     "wof:name":"60657 Condominium Assn",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.670515,41.941419,-87.670515,41.941419],
-  "geometry": {"coordinates":[-87.670515,41.941419],"type":"Point"}
+  "bbox": [
+    -87.670515,
+    41.941419,
+    -87.670515,
+    41.941419
+],
+  "geometry": {"coordinates":[-87.67051499999999,41.941419],"type":"Point"}
 }

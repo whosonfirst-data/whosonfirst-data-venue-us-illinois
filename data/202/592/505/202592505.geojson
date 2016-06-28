@@ -2,13 +2,14 @@
   "id": 202592505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.942867,41.911763,-87.942867,41.911763",
     "geom:latitude":41.911763,
     "geom:longitude":-87.942867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 N Larch Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202592505,
-    "wof:lastmodified":1449061557,
+    "wof:lastmodified":1466489584,
     "wof:name":"Architext",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-87.942867,41.911763,-87.942867,41.911763],
-  "geometry": {"coordinates":[-87.942867,41.911763],"type":"Point"}
+  "bbox": [
+    -87.942867,
+    41.911763,
+    -87.942867,
+    41.911763
+],
+  "geometry": {"coordinates":[-87.94286700000001,41.911763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252871683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.448608,38.932691,-89.448608,38.932691",
     "geom:latitude":38.932691,
     "geom:longitude":-89.448608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 S State Rte 127",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252871683,
-    "wof:lastmodified":1449005754,
+    "wof:lastmodified":1466491078,
     "wof:name":"Citizens For Frank Watson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.448608,38.932691,-89.448608,38.932691],
-  "geometry": {"coordinates":[-89.448608,38.932691],"type":"Point"}
+  "bbox": [
+    -89.448608,
+    38.932691,
+    -89.448608,
+    38.932691
+],
+  "geometry": {"coordinates":[-89.44860799999999,38.932691],"type":"Point"}
 }

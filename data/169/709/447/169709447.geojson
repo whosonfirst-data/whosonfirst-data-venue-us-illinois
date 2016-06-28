@@ -2,13 +2,14 @@
   "id": 169709447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.284378,39.791645,-88.284378,39.791645",
     "geom:latitude":39.791645,
     "geom:longitude":-88.284378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Southline Rd",
     "sg:city":"Tuscola",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169709447,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1466489009,
     "wof:name":"Carle Clinic",
     "wof:parent_id":85867831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.284378,39.791645,-88.284378,39.791645],
+  "bbox": [
+    -88.284378,
+    39.791645,
+    -88.284378,
+    39.791645
+],
   "geometry": {"coordinates":[-88.284378,39.791645],"type":"Point"}
 }

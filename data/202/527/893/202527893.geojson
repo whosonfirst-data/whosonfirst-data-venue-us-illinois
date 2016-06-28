@@ -2,13 +2,14 @@
   "id": 202527893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.439722,41.092598,-88.439722,41.092598",
     "geom:latitude":41.092598,
     "geom:longitude":-88.439722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Old Route 66",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202527893,
-    "wof:lastmodified":1449062147,
+    "wof:lastmodified":1466495513,
     "wof:name":"Route 66 Tire Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-88.439722,41.092598,-88.439722,41.092598],
+  "bbox": [
+    -88.439722,
+    41.092598,
+    -88.439722,
+    41.092598
+],
   "geometry": {"coordinates":[-88.439722,41.092598],"type":"Point"}
 }

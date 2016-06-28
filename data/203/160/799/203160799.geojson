@@ -2,13 +2,14 @@
   "id": 203160799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.315988,39.937033,-91.315988,39.937033",
     "geom:latitude":39.937033,
     "geom:longitude":-91.315988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 Hickory Grove N",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203160799,
-    "wof:lastmodified":1449026545,
+    "wof:lastmodified":1466495609,
     "wof:name":"Mill Creek Water District",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-91.315988,39.937033,-91.315988,39.937033],
+  "bbox": [
+    -91.315988,
+    39.937033,
+    -91.315988,
+    39.937033
+],
   "geometry": {"coordinates":[-91.315988,39.937033],"type":"Point"}
 }

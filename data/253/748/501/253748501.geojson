@@ -2,13 +2,14 @@
   "id": 253748501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.449127,39.193232,-88.449127,39.193232",
     "geom:latitude":39.193232,
     "geom:longitude":-88.449127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Co Rd 150 N",
     "sg:city":"Teutopolis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253748501,
-    "wof:lastmodified":1449065039,
+    "wof:lastmodified":1466497999,
     "wof:name":"Chris Apke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-88.449127,39.193232,-88.449127,39.193232],
+  "bbox": [
+    -88.449127,
+    39.193232,
+    -88.449127,
+    39.193232
+],
   "geometry": {"coordinates":[-88.449127,39.193232],"type":"Point"}
 }

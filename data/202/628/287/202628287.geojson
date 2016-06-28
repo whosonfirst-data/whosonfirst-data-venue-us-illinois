@@ -2,13 +2,14 @@
   "id": 202628287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.244814,41.753433,-88.244814,41.753433",
     "geom:latitude":41.753433,
     "geom:longitude":-88.244814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2833 Breckenridge Cir",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202628287,
-    "wof:lastmodified":1449062182,
+    "wof:lastmodified":1466490000,
     "wof:name":"Maszczyk Consulting Inc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-88.244814,41.753433,-88.244814,41.753433],
-  "geometry": {"coordinates":[-88.244814,41.753433],"type":"Point"}
+  "bbox": [
+    -88.244814,
+    41.753433,
+    -88.244814,
+    41.753433
+],
+  "geometry": {"coordinates":[-88.24481400000001,41.753433],"type":"Point"}
 }

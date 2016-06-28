@@ -2,13 +2,14 @@
   "id": 203210773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.629866,40.125789,-87.629866,40.125789",
     "geom:latitude":40.125789,
     "geom:longitude":-87.629866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 N Vermilion St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203210773,
-    "wof:lastmodified":1449025555,
+    "wof:lastmodified":1466489471,
     "wof:name":"Cts Computer Ctr",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.629866,40.125789,-87.629866,40.125789],
-  "geometry": {"coordinates":[-87.629866,40.125789],"type":"Point"}
+  "bbox": [
+    -87.629866,
+    40.125789,
+    -87.629866,
+    40.125789
+],
+  "geometry": {"coordinates":[-87.62986600000001,40.125789],"type":"Point"}
 }

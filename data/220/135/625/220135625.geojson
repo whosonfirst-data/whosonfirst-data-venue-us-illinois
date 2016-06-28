@@ -2,13 +2,14 @@
   "id": 220135625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539657,41.617925,-87.539657,41.617925",
     "geom:latitude":41.617925,
     "geom:longitude":-87.539657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"592 Burnham Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220135625,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466490605,
     "wof:name":"Calumet City Currency Exchange",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exchange"
     ]
 },
-  "bbox": [-87.539657,41.617925,-87.539657,41.617925],
-  "geometry": {"coordinates":[-87.539657,41.617925],"type":"Point"}
+  "bbox": [
+    -87.539657,
+    41.617925,
+    -87.539657,
+    41.617925
+],
+  "geometry": {"coordinates":[-87.53965700000001,41.617925],"type":"Point"}
 }

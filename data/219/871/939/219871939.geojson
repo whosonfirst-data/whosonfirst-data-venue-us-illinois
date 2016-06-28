@@ -2,13 +2,14 @@
   "id": 219871939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.358106,41.475282,-90.358106,41.475282",
     "geom:latitude":41.475282,
     "geom:longitude":-90.358106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 1st St",
     "sg:city":"Colona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219871939,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466496815,
     "wof:name":"Transmissions Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-90.358106,41.475282,-90.358106,41.475282],
-  "geometry": {"coordinates":[-90.358106,41.475282],"type":"Point"}
+  "bbox": [
+    -90.358106,
+    41.475282,
+    -90.358106,
+    41.475282
+],
+  "geometry": {"coordinates":[-90.35810600000001,41.475282],"type":"Point"}
 }

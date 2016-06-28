@@ -2,13 +2,14 @@
   "id": 185777641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.898266,39.90893,-88.898266,39.90893",
     "geom:latitude":39.90893,
     "geom:longitude":-88.898266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N Brush College Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185777641,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1466495539,
     "wof:name":"Maislin Transport",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.898266,39.90893,-88.898266,39.90893],
-  "geometry": {"coordinates":[-88.898266,39.90893],"type":"Point"}
+  "bbox": [
+    -88.898266,
+    39.90893,
+    -88.898266,
+    39.90893
+],
+  "geometry": {"coordinates":[-88.89826600000001,39.90893],"type":"Point"}
 }

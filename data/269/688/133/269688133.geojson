@@ -2,13 +2,14 @@
   "id": 269688133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.519117,39.87459,-89.519117,39.87459",
     "geom:latitude":39.87459,
     "geom:longitude":-89.519117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6623 Barclay Rd",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269688133,
-    "wof:lastmodified":1449037045,
+    "wof:lastmodified":1466492224,
     "wof:name":"Fowler DC Farms Inc",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-89.519117,39.87459,-89.519117,39.87459],
-  "geometry": {"coordinates":[-89.519117,39.87459],"type":"Point"}
+  "bbox": [
+    -89.519117,
+    39.87459,
+    -89.519117,
+    39.87459
+],
+  "geometry": {"coordinates":[-89.51911699999999,39.87459],"type":"Point"}
 }

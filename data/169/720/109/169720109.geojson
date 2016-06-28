@@ -2,13 +2,14 @@
   "id": 169720109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.193142,39.022354,-90.193142,39.022354",
     "geom:latitude":39.022354,
     "geom:longitude":-90.193142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16433 Linden Ct",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169720109,
-    "wof:lastmodified":1449033482,
+    "wof:lastmodified":1466492239,
     "wof:name":"Destiny Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.193142,39.022354,-90.193142,39.022354],
-  "geometry": {"coordinates":[-90.193142,39.022354],"type":"Point"}
+  "bbox": [
+    -90.193142,
+    39.022354,
+    -90.193142,
+    39.022354
+],
+  "geometry": {"coordinates":[-90.19314199999999,39.022354],"type":"Point"}
 }

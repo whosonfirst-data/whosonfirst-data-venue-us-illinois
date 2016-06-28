@@ -2,13 +2,14 @@
   "id": 202773819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.621521,41.354764,-87.621521,41.354764",
     "geom:latitude":41.354764,
     "geom:longitude":-87.621521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Dixie Hwy",
     "sg:city":"Beecher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202773819,
-    "wof:lastmodified":1449060423,
+    "wof:lastmodified":1466491634,
     "wof:name":"Dixie Dental Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.621521,41.354764,-87.621521,41.354764],
+  "bbox": [
+    -87.621521,
+    41.354764,
+    -87.621521,
+    41.354764
+],
   "geometry": {"coordinates":[-87.621521,41.354764],"type":"Point"}
 }

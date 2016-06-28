@@ -2,13 +2,14 @@
   "id": 236908523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.152923,41.56952,-88.152923,41.56952",
     "geom:latitude":41.56952,
     "geom:longitude":-88.152923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Farmington Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236908523,
-    "wof:lastmodified":1449003533,
+    "wof:lastmodified":1466498167,
     "wof:name":"Solar Communications",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-88.152923,41.56952,-88.152923,41.56952],
+  "bbox": [
+    -88.152923,
+    41.56952,
+    -88.152923,
+    41.56952
+],
   "geometry": {"coordinates":[-88.152923,41.56952],"type":"Point"}
 }

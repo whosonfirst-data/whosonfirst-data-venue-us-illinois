@@ -2,13 +2,14 @@
   "id": 287228977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.046822,42.314285,-89.046822,42.314285",
     "geom:latitude":42.314285,
     "geom:longitude":-89.046822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Heart Blvd",
     "sg:city":"Loves Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287228977,
-    "wof:lastmodified":1449000933,
+    "wof:lastmodified":1466493653,
     "wof:name":"The Parks Chamber of Commerce",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-89.046822,42.314285,-89.046822,42.314285],
-  "geometry": {"coordinates":[-89.046822,42.314285],"type":"Point"}
+  "bbox": [
+    -89.046822,
+    42.314285,
+    -89.046822,
+    42.314285
+],
+  "geometry": {"coordinates":[-89.04682200000001,42.314285],"type":"Point"}
 }

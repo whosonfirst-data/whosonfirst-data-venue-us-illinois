@@ -2,13 +2,14 @@
   "id": 169829945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984615,38.568593,-89.984615,38.568593",
     "geom:latitude":38.568593,
     "geom:longitude":-89.984615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 N Illinois St Ste 8",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169829945,
-    "wof:lastmodified":1449035743,
+    "wof:lastmodified":1466494900,
     "wof:name":"Bankers Home Lending",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.984615,38.568593,-89.984615,38.568593],
-  "geometry": {"coordinates":[-89.984615,38.568593],"type":"Point"}
+  "bbox": [
+    -89.984615,
+    38.568593,
+    -89.984615,
+    38.568593
+],
+  "geometry": {"coordinates":[-89.98461500000001,38.568593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270152831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677867,41.972753,-87.677867,41.972753",
     "geom:latitude":41.972753,
     "geom:longitude":-87.677867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 N Winchester Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270152831,
-    "wof:lastmodified":1449010493,
+    "wof:lastmodified":1466491290,
     "wof:name":"Evangelina Ramirez",
     "wof:parent_id":85867823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-87.677867,41.972753,-87.677867,41.972753],
-  "geometry": {"coordinates":[-87.677867,41.972753],"type":"Point"}
+  "bbox": [
+    -87.677867,
+    41.972753,
+    -87.677867,
+    41.972753
+],
+  "geometry": {"coordinates":[-87.67786700000001,41.972753],"type":"Point"}
 }

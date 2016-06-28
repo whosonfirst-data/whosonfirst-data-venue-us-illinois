@@ -2,13 +2,14 @@
   "id": 219962873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.733539,41.587044,-88.733539,41.587044",
     "geom:latitude":41.587044,
     "geom:longitude":-88.733539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2284 N 45th Rd",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219962873,
-    "wof:lastmodified":1449072460,
+    "wof:lastmodified":1466497512,
     "wof:name":"Dugan Sawmill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-88.733539,41.587044,-88.733539,41.587044],
-  "geometry": {"coordinates":[-88.733539,41.587044],"type":"Point"}
+  "bbox": [
+    -88.733539,
+    41.587044,
+    -88.733539,
+    41.587044
+],
+  "geometry": {"coordinates":[-88.73353899999999,41.587044],"type":"Point"}
 }

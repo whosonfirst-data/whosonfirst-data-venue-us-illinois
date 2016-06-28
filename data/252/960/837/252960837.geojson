@@ -2,13 +2,14 @@
   "id": 252960837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.023265,42.081261,-88.023265,42.081261",
     "geom:latitude":42.081261,
     "geom:longitude":-88.023265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Owl Ln",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252960837,
-    "wof:lastmodified":1449006175,
+    "wof:lastmodified":1466492270,
     "wof:name":"Armstrong Electric",
     "wof:parent_id":85867567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.023265,42.081261,-88.023265,42.081261],
-  "geometry": {"coordinates":[-88.023265,42.081261],"type":"Point"}
+  "bbox": [
+    -88.023265,
+    42.081261,
+    -88.023265,
+    42.081261
+],
+  "geometry": {"coordinates":[-88.02326499999999,42.081261],"type":"Point"}
 }

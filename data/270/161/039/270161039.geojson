@@ -2,13 +2,14 @@
   "id": 270161039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.540472,39.130549,-88.540472,39.130549",
     "geom:latitude":39.130549,
     "geom:longitude":-88.540472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N 3rd St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270161039,
-    "wof:lastmodified":1449009595,
+    "wof:lastmodified":1466491409,
     "wof:name":"Orchard Inn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.540472,39.130549,-88.540472,39.130549],
-  "geometry": {"coordinates":[-88.540472,39.130549],"type":"Point"}
+  "bbox": [
+    -88.540472,
+    39.130549,
+    -88.540472,
+    39.130549
+],
+  "geometry": {"coordinates":[-88.54047199999999,39.130549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219305769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.113569,41.548384,-88.113569,41.548384",
     "geom:latitude":41.548384,
     "geom:longitude":-88.113569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Tiger Lily Ln",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219305769,
-    "wof:lastmodified":1449070925,
+    "wof:lastmodified":1466490776,
     "wof:name":"Williams Graphics",
     "wof:parent_id":85845453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-88.113569,41.548384,-88.113569,41.548384],
+  "bbox": [
+    -88.113569,
+    41.548384,
+    -88.113569,
+    41.548384
+],
   "geometry": {"coordinates":[-88.113569,41.548384],"type":"Point"}
 }

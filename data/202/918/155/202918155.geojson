@@ -2,13 +2,14 @@
   "id": 202918155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.611344,41.568328,-87.611344,41.568328",
     "geom:latitude":41.568328,
     "geom:longitude":-87.611344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Margaret St",
     "sg:city":"Thornton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202918155,
-    "wof:lastmodified":1449061811,
+    "wof:lastmodified":1466493386,
     "wof:name":"Thornton Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-87.611344,41.568328,-87.611344,41.568328],
+  "bbox": [
+    -87.611344,
+    41.568328,
+    -87.611344,
+    41.568328
+],
   "geometry": {"coordinates":[-87.611344,41.568328],"type":"Point"}
 }

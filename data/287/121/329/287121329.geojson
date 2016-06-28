@@ -2,13 +2,14 @@
   "id": 287121329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794361,41.883445,-87.794361,41.883445",
     "geom:latitude":41.883445,
     "geom:longitude":-87.794361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Oak Park Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287121329,
-    "wof:lastmodified":1449001356,
+    "wof:lastmodified":1466491921,
     "wof:name":"St Edmund School",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catholic"
     ]
 },
-  "bbox": [-87.794361,41.883445,-87.794361,41.883445],
-  "geometry": {"coordinates":[-87.794361,41.883445],"type":"Point"}
+  "bbox": [
+    -87.794361,
+    41.883445,
+    -87.794361,
+    41.883445
+],
+  "geometry": {"coordinates":[-87.79436099999999,41.883445],"type":"Point"}
 }

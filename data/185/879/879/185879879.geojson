@@ -2,13 +2,14 @@
   "id": 185879879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.664988,39.797572,-89.664988,39.797572",
     "geom:latitude":39.797572,
     "geom:longitude":-89.664988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 S Glenwood Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185879879,
-    "wof:lastmodified":1449006612,
+    "wof:lastmodified":1466489719,
     "wof:name":"Allan Keup & Assoc",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "plan"
     ]
 },
-  "bbox": [-89.664988,39.797572,-89.664988,39.797572],
-  "geometry": {"coordinates":[-89.664988,39.797572],"type":"Point"}
+  "bbox": [
+    -89.664988,
+    39.797572,
+    -89.664988,
+    39.797572
+],
+  "geometry": {"coordinates":[-89.66498799999999,39.797572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286913199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.088147,38.553485,-90.088147,38.553485",
     "geom:latitude":38.553485,
     "geom:longitude":-90.088147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Old Saint Louis Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286913199,
-    "wof:lastmodified":1449016315,
+    "wof:lastmodified":1466498131,
     "wof:name":"Arch View Stables",
     "wof:parent_id":85839243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-90.088147,38.553485,-90.088147,38.553485],
-  "geometry": {"coordinates":[-90.088147,38.553485],"type":"Point"}
+  "bbox": [
+    -90.088147,
+    38.553485,
+    -90.088147,
+    38.553485
+],
+  "geometry": {"coordinates":[-90.08814700000001,38.553485],"type":"Point"}
 }

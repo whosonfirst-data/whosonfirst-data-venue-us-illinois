@@ -2,13 +2,14 @@
   "id": 202565075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.209313,38.519893,-90.209313,38.519893",
     "geom:latitude":38.519893,
     "geom:longitude":-90.209313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 N 2nd St",
     "sg:city":"Dupo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202565075,
-    "wof:lastmodified":1449062427,
+    "wof:lastmodified":1466489258,
     "wof:name":"Valleroy Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.209313,38.519893,-90.209313,38.519893],
-  "geometry": {"coordinates":[-90.209313,38.519893],"type":"Point"}
+  "bbox": [
+    -90.209313,
+    38.519893,
+    -90.209313,
+    38.519893
+],
+  "geometry": {"coordinates":[-90.20931299999999,38.519893],"type":"Point"}
 }

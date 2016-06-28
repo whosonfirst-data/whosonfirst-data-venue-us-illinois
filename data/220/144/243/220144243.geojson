@@ -2,13 +2,14 @@
   "id": 220144243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.287293,40.091599,-88.287293,40.091599",
     "geom:latitude":40.091599,
     "geom:longitude":-88.287293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Rugby Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220144243,
-    "wof:lastmodified":1449074636,
+    "wof:lastmodified":1466490705,
     "wof:name":"About Face",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.287293,40.091599,-88.287293,40.091599],
-  "geometry": {"coordinates":[-88.287293,40.091599],"type":"Point"}
+  "bbox": [
+    -88.287293,
+    40.091599,
+    -88.287293,
+    40.091599
+],
+  "geometry": {"coordinates":[-88.28729300000001,40.091599],"type":"Point"}
 }

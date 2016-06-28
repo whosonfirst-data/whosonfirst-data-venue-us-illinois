@@ -2,13 +2,14 @@
   "id": 202875265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.061965,42.261511,-89.061965,42.261511",
     "geom:latitude":42.261511,
     "geom:longitude":-89.061965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2134 Charles St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202875265,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466492885,
     "wof:name":"Sam's Pizza",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-89.061965,42.261511,-89.061965,42.261511],
+  "bbox": [
+    -89.061965,
+    42.261511,
+    -89.061965,
+    42.261511
+],
   "geometry": {"coordinates":[-89.061965,42.261511],"type":"Point"}
 }

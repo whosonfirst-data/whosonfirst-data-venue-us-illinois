@@ -2,13 +2,14 @@
   "id": 269678369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.41445,38.884448,-89.41445,38.884448",
     "geom:latitude":38.884448,
     "geom:longitude":-89.41445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Franklin Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269678369,
-    "wof:lastmodified":1449037308,
+    "wof:lastmodified":1466492058,
     "wof:name":"Simple Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-89.41445,38.884448,-89.41445,38.884448],
+  "bbox": [
+    -89.41445,
+    38.884448,
+    -89.41445,
+    38.884448
+],
   "geometry": {"coordinates":[-89.41445,38.884448],"type":"Point"}
 }

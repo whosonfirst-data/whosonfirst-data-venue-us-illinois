@@ -2,13 +2,14 @@
   "id": 220171107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.66961,41.998012,-87.66961,41.998012",
     "geom:latitude":41.998012,
     "geom:longitude":-87.66961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 W Devon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220171107,
-    "wof:lastmodified":1449074884,
+    "wof:lastmodified":1466491028,
     "wof:name":"Morse Laboratory Inc",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-87.66961,41.998012,-87.66961,41.998012],
-  "geometry": {"coordinates":[-87.66961,41.998012],"type":"Point"}
+  "bbox": [
+    -87.66961,
+    41.998012,
+    -87.66961,
+    41.998012
+],
+  "geometry": {"coordinates":[-87.66961000000001,41.998012],"type":"Point"}
 }

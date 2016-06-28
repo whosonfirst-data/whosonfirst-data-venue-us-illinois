@@ -2,13 +2,14 @@
   "id": 203233139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.036977,41.862725,-88.036977,41.862725",
     "geom:latitude":41.862725,
     "geom:longitude":-88.036977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Heather Ln",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203233139,
-    "wof:lastmodified":1449026884,
+    "wof:lastmodified":1466489711,
     "wof:name":"Saeed Remodeling",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.036977,41.862725,-88.036977,41.862725],
-  "geometry": {"coordinates":[-88.036977,41.862725],"type":"Point"}
+  "bbox": [
+    -88.036977,
+    41.862725,
+    -88.036977,
+    41.862725
+],
+  "geometry": {"coordinates":[-88.03697699999999,41.862725],"type":"Point"}
 }

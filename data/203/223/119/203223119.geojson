@@ -2,13 +2,14 @@
   "id": 203223119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.919975,42.242353,-88.919975,42.242353",
     "geom:latitude":42.242353,
     "geom:longitude":-88.919975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Ipsen Rd",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203223119,
-    "wof:lastmodified":1449025071,
+    "wof:lastmodified":1466489604,
     "wof:name":"Anderson Underground Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.919975,42.242353,-88.919975,42.242353],
-  "geometry": {"coordinates":[-88.919975,42.242353],"type":"Point"}
+  "bbox": [
+    -88.919975,
+    42.242353,
+    -88.919975,
+    42.242353
+],
+  "geometry": {"coordinates":[-88.91997499999999,42.242353],"type":"Point"}
 }

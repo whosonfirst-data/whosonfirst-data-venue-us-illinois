@@ -2,13 +2,14 @@
   "id": 169784011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.127296,38.616299,-90.127296,38.616299",
     "geom:latitude":38.616299,
     "geom:longitude":-90.127296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 State St",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169784011,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466495731,
     "wof:name":"Schnucks Supermarkets",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.127296,38.616299,-90.127296,38.616299],
+  "bbox": [
+    -90.127296,
+    38.616299,
+    -90.127296,
+    38.616299
+],
   "geometry": {"coordinates":[-90.127296,38.616299],"type":"Point"}
 }

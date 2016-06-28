@@ -2,13 +2,14 @@
   "id": 202982761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.395231,39.703199,-88.395231,39.703199",
     "geom:latitude":39.703199,
     "geom:longitude":-88.395231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 E State Rte 133",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202982761,
-    "wof:lastmodified":1449060533,
+    "wof:lastmodified":1466494163,
     "wof:name":"Okaw Truss Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-88.395231,39.703199,-88.395231,39.703199],
+  "bbox": [
+    -88.395231,
+    39.703199,
+    -88.395231,
+    39.703199
+],
   "geometry": {"coordinates":[-88.395231,39.703199],"type":"Point"}
 }

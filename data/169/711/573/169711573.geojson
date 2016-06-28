@@ -2,13 +2,14 @@
   "id": 169711573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.78212,38.900884,-89.78212,38.900884",
     "geom:latitude":38.900884,
     "geom:longitude":-89.78212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6703 Frandsen Rd",
     "sg:city":"Alhambra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169711573,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466489836,
     "wof:name":"R T Properties",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-89.78212,38.900884,-89.78212,38.900884],
-  "geometry": {"coordinates":[-89.78212,38.900884],"type":"Point"}
+  "bbox": [
+    -89.78212,
+    38.900884,
+    -89.78212,
+    38.900884
+],
+  "geometry": {"coordinates":[-89.78212000000001,38.900884],"type":"Point"}
 }

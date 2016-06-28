@@ -2,13 +2,14 @@
   "id": 270414991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.782019,40.645946,-88.782019,40.645946",
     "geom:latitude":40.645946,
     "geom:longitude":-88.782019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Pine St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270414991,
-    "wof:lastmodified":1449009782,
+    "wof:lastmodified":1466495353,
     "wof:name":"Sharon's Barber Shop",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.782019,40.645946,-88.782019,40.645946],
-  "geometry": {"coordinates":[-88.782019,40.645946],"type":"Point"}
+  "bbox": [
+    -88.782019,
+    40.645946,
+    -88.782019,
+    40.645946
+],
+  "geometry": {"coordinates":[-88.78201900000001,40.645946],"type":"Point"}
 }

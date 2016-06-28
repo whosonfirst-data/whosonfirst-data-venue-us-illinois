@@ -2,13 +2,14 @@
   "id": 269774875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.846974,41.325675,-88.846974,41.325675",
     "geom:latitude":41.325675,
     "geom:longitude":-88.846974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Germana Dr",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269774875,
-    "wof:lastmodified":1449037086,
+    "wof:lastmodified":1466493623,
     "wof:name":"Century Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.846974,41.325675,-88.846974,41.325675],
+  "bbox": [
+    -88.846974,
+    41.325675,
+    -88.846974,
+    41.325675
+],
   "geometry": {"coordinates":[-88.846974,41.325675],"type":"Point"}
 }

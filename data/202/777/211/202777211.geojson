@@ -2,13 +2,14 @@
   "id": 202777211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.659878,41.998197,-87.659878,41.998197",
     "geom:latitude":41.998197,
     "geom:longitude":-87.659878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 W Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202777211,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466491679,
     "wof:name":"Arusi-Garlyn",
     "wof:parent_id":85867703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.659878,41.998197,-87.659878,41.998197],
-  "geometry": {"coordinates":[-87.659878,41.998197],"type":"Point"}
+  "bbox": [
+    -87.659878,
+    41.998197,
+    -87.659878,
+    41.998197
+],
+  "geometry": {"coordinates":[-87.65987800000001,41.998197],"type":"Point"}
 }

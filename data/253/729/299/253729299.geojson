@@ -2,13 +2,14 @@
   "id": 253729299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.136401,40.328896,-88.136401,40.328896",
     "geom:latitude":40.328896,
     "geom:longitude":-88.136401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Co Rd 1700 E",
     "sg:city":"Rantoul",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253729299,
-    "wof:lastmodified":1449064311,
+    "wof:lastmodified":1466497855,
     "wof:name":"Brookhill Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-88.136401,40.328896,-88.136401,40.328896],
-  "geometry": {"coordinates":[-88.136401,40.328896],"type":"Point"}
+  "bbox": [
+    -88.136401,
+    40.328896,
+    -88.136401,
+    40.328896
+],
+  "geometry": {"coordinates":[-88.13640100000001,40.328896],"type":"Point"}
 }

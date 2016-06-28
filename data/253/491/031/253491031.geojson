@@ -2,13 +2,14 @@
   "id": 253491031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.768712,39.496874,-89.768712,39.496874",
     "geom:latitude":39.496874,
     "geom:longitude":-89.768712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Loud St",
     "sg:city":"Virden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253491031,
-    "wof:lastmodified":1449062777,
+    "wof:lastmodified":1466495679,
     "wof:name":"Area Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.768712,39.496874,-89.768712,39.496874],
-  "geometry": {"coordinates":[-89.768712,39.496874],"type":"Point"}
+  "bbox": [
+    -89.768712,
+    39.496874,
+    -89.768712,
+    39.496874
+],
+  "geometry": {"coordinates":[-89.76871199999999,39.496874],"type":"Point"}
 }

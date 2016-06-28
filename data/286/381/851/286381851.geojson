@@ -2,13 +2,14 @@
   "id": 286381851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.21937,40.115462,-88.21937,40.115462",
     "geom:latitude":40.115462,
     "geom:longitude":-88.21937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Lincoln Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286381851,
-    "wof:lastmodified":1449015422,
+    "wof:lastmodified":1466491645,
     "wof:name":"Advantage Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.21937,40.115462,-88.21937,40.115462],
+  "bbox": [
+    -88.21937,
+    40.115462,
+    -88.21937,
+    40.115462
+],
   "geometry": {"coordinates":[-88.21937,40.115462],"type":"Point"}
 }

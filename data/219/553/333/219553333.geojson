@@ -2,13 +2,14 @@
   "id": 219553333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.019347,41.800599,-88.019347,41.800599",
     "geom:latitude":41.800599,
     "geom:longitude":-88.019347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4741 Montgomery Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219553333,
-    "wof:lastmodified":1449070393,
+    "wof:lastmodified":1466493800,
     "wof:name":"Today Enterprises Corp",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-88.019347,41.800599,-88.019347,41.800599],
+  "bbox": [
+    -88.019347,
+    41.800599,
+    -88.019347,
+    41.800599
+],
   "geometry": {"coordinates":[-88.019347,41.800599],"type":"Point"}
 }

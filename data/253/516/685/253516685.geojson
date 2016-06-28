@@ -2,13 +2,14 @@
   "id": 253516685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.248122,39.745258,-90.248122,39.745258",
     "geom:latitude":39.745258,
     "geom:longitude":-90.248122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Walnut St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253516685,
-    "wof:lastmodified":1449063377,
+    "wof:lastmodified":1466495915,
     "wof:name":"Central Illinois Harvestore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silo"
     ]
 },
-  "bbox": [-90.248122,39.745258,-90.248122,39.745258],
+  "bbox": [
+    -90.248122,
+    39.745258,
+    -90.248122,
+    39.745258
+],
   "geometry": {"coordinates":[-90.248122,39.745258],"type":"Point"}
 }

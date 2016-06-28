@@ -2,13 +2,14 @@
   "id": 270073685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.076649,42.315679,-89.076649,42.315679",
     "geom:latitude":42.315679,
     "geom:longitude":-89.076649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1052 W Riverside Blvd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270073685,
-    "wof:lastmodified":1449008984,
+    "wof:lastmodified":1466490121,
     "wof:name":"Winnebago Bingo Ctr",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-89.076649,42.315679,-89.076649,42.315679],
+  "bbox": [
+    -89.076649,
+    42.315679,
+    -89.076649,
+    42.315679
+],
   "geometry": {"coordinates":[-89.076649,42.315679],"type":"Point"}
 }

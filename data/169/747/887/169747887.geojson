@@ -2,13 +2,14 @@
   "id": 169747887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.491463,39.15889,-89.491463,39.15889",
     "geom:latitude":39.15889,
     "geom:longitude":-89.491463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Rountree St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":169747887,
-    "wof:lastmodified":1449033291,
+    "wof:lastmodified":1466493481,
     "wof:name":"Medical Clinic",
     "wof:parent_id":85867927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "medicine"
     ]
 },
-  "bbox": [-89.491463,39.15889,-89.491463,39.15889],
+  "bbox": [
+    -89.491463,
+    39.15889,
+    -89.491463,
+    39.15889
+],
   "geometry": {"coordinates":[-89.491463,39.15889],"type":"Point"}
 }

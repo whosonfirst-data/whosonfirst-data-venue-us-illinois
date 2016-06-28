@@ -2,13 +2,14 @@
   "id": 235965409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.324909,41.755284,-88.324909,41.755284",
     "geom:latitude":41.755284,
     "geom:longitude":-88.324909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 S Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":235965409,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466489367,
     "wof:name":"One Stop Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.324909,41.755284,-88.324909,41.755284],
-  "geometry": {"coordinates":[-88.324909,41.755284],"type":"Point"}
+  "bbox": [
+    -88.324909,
+    41.755284,
+    -88.324909,
+    41.755284
+],
+  "geometry": {"coordinates":[-88.32490900000001,41.755284],"type":"Point"}
 }

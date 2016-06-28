@@ -2,13 +2,14 @@
   "id": 203280883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049152,40.28594,-90.049152,40.28594",
     "geom:latitude":40.28594,
     "geom:longitude":-90.049152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15849 State Rte 97",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203280883,
-    "wof:lastmodified":1449025859,
+    "wof:lastmodified":1466490261,
     "wof:name":"Rt 97 Country Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dealer"
     ]
 },
-  "bbox": [-90.049152,40.28594,-90.049152,40.28594],
-  "geometry": {"coordinates":[-90.049152,40.28594],"type":"Point"}
+  "bbox": [
+    -90.049152,
+    40.28594,
+    -90.049152,
+    40.28594
+],
+  "geometry": {"coordinates":[-90.04915200000001,40.28594],"type":"Point"}
 }

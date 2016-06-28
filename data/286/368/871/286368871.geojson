@@ -2,13 +2,14 @@
   "id": 286368871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63623,39.980119,-87.63623,39.980119",
     "geom:latitude":39.980119,
     "geom:longitude":-87.63623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Huffman St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286368871,
-    "wof:lastmodified":1449015834,
+    "wof:lastmodified":1466491458,
     "wof:name":"Main Stream Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.63623,39.980119,-87.63623,39.980119],
+  "bbox": [
+    -87.63623,
+    39.980119,
+    -87.63623,
+    39.980119
+],
   "geometry": {"coordinates":[-87.63623,39.980119],"type":"Point"}
 }

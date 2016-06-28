@@ -2,13 +2,14 @@
   "id": 253240635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.656337,41.985437,-87.656337,41.985437",
     "geom:latitude":41.985437,
     "geom:longitude":-87.656337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 W Hollywood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253240635,
-    "wof:lastmodified":1449063118,
+    "wof:lastmodified":1466491875,
     "wof:name":"Bekry Cab Co",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-87.656337,41.985437,-87.656337,41.985437],
-  "geometry": {"coordinates":[-87.656337,41.985437],"type":"Point"}
+  "bbox": [
+    -87.656337,
+    41.985437,
+    -87.656337,
+    41.985437
+],
+  "geometry": {"coordinates":[-87.65633699999999,41.985437],"type":"Point"}
 }

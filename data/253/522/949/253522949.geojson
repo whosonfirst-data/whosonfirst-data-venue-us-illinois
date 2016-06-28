@@ -2,13 +2,14 @@
   "id": 253522949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306441,41.768032,-88.306441,41.768032",
     "geom:latitude":41.768032,
     "geom:longitude":-88.306441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 N Broadway",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253522949,
-    "wof:lastmodified":1449064231,
+    "wof:lastmodified":1466495980,
     "wof:name":"Chicagoland Petrolum",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.306441,41.768032,-88.306441,41.768032],
-  "geometry": {"coordinates":[-88.306441,41.768032],"type":"Point"}
+  "bbox": [
+    -88.306441,
+    41.768032,
+    -88.306441,
+    41.768032
+],
+  "geometry": {"coordinates":[-88.30644100000001,41.768032],"type":"Point"}
 }

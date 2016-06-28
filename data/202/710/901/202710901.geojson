@@ -2,13 +2,14 @@
   "id": 202710901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.806615,41.892228,-87.806615,41.892228",
     "geom:latitude":41.892228,
     "geom:longitude":-87.806615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7212 Oak Ave",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202710901,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466490929,
     "wof:name":"Packaging Management LLC",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "handling"
     ]
 },
-  "bbox": [-87.806615,41.892228,-87.806615,41.892228],
-  "geometry": {"coordinates":[-87.806615,41.892228],"type":"Point"}
+  "bbox": [
+    -87.806615,
+    41.892228,
+    -87.806615,
+    41.892228
+],
+  "geometry": {"coordinates":[-87.80661499999999,41.892228],"type":"Point"}
 }

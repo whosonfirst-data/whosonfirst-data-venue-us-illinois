@@ -2,13 +2,14 @@
   "id": 202427063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.315256,41.777885,-88.315256,41.777885",
     "geom:latitude":41.777885,
     "geom:longitude":-88.315256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 N Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202427063,
-    "wof:lastmodified":1449060875,
+    "wof:lastmodified":1466493745,
     "wof:name":"Hathorne Accnting Bkkeping Svc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-88.315256,41.777885,-88.315256,41.777885],
-  "geometry": {"coordinates":[-88.315256,41.777885],"type":"Point"}
+  "bbox": [
+    -88.315256,
+    41.777885,
+    -88.315256,
+    41.777885
+],
+  "geometry": {"coordinates":[-88.31525600000001,41.777885],"type":"Point"}
 }

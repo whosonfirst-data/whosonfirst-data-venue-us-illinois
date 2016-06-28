@@ -2,13 +2,14 @@
   "id": 202737669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.759329,40.346241,-88.759329,40.346241",
     "geom:latitude":40.346241,
     "geom:longitude":-88.759329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S East St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202737669,
-    "wof:lastmodified":1449060684,
+    "wof:lastmodified":1466491230,
     "wof:name":"Le Roy Community Building",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.759329,40.346241,-88.759329,40.346241],
-  "geometry": {"coordinates":[-88.759329,40.346241],"type":"Point"}
+  "bbox": [
+    -88.759329,
+    40.346241,
+    -88.759329,
+    40.346241
+],
+  "geometry": {"coordinates":[-88.75932899999999,40.346241],"type":"Point"}
 }

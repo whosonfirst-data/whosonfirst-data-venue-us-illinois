@@ -2,13 +2,14 @@
   "id": 236409227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.311765,41.850026,-88.311765,41.850026",
     "geom:latitude":41.850026,
     "geom:longitude":-88.311765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Wilson St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236409227,
-    "wof:lastmodified":1449002920,
+    "wof:lastmodified":1466494183,
     "wof:name":"Olmstead's TV & Appliances",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "electric"
     ]
 },
-  "bbox": [-88.311765,41.850026,-88.311765,41.850026],
-  "geometry": {"coordinates":[-88.311765,41.850026],"type":"Point"}
+  "bbox": [
+    -88.311765,
+    41.850026,
+    -88.311765,
+    41.850026
+],
+  "geometry": {"coordinates":[-88.31176499999999,41.850026],"type":"Point"}
 }

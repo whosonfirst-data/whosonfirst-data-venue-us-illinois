@@ -2,13 +2,14 @@
   "id": 303076723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.549652,40.372354,-89.549652,40.372354",
     "geom:latitude":40.372354,
     "geom:longitude":-89.549652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W 4th St",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303076723,
-    "wof:lastmodified":1449000039,
+    "wof:lastmodified":1466491044,
     "wof:name":"Minner Painting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-89.549652,40.372354,-89.549652,40.372354],
-  "geometry": {"coordinates":[-89.549652,40.372354],"type":"Point"}
+  "bbox": [
+    -89.549652,
+    40.372354,
+    -89.549652,
+    40.372354
+],
+  "geometry": {"coordinates":[-89.54965199999999,40.372354],"type":"Point"}
 }

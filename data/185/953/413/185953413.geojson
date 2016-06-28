@@ -2,13 +2,14 @@
   "id": 185953413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.220863,37.718725,-89.220863,37.718725",
     "geom:latitude":37.718725,
     "geom:longitude":-89.220863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Pulliam 307",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185953413,
-    "wof:lastmodified":1449007698,
+    "wof:lastmodified":1466490301,
     "wof:name":"Southern Illinois University Carbondale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-89.220863,37.718725,-89.220863,37.718725],
-  "geometry": {"coordinates":[-89.220863,37.718725],"type":"Point"}
+  "bbox": [
+    -89.220863,
+    37.718725,
+    -89.220863,
+    37.718725
+],
+  "geometry": {"coordinates":[-89.22086299999999,37.718725],"type":"Point"}
 }

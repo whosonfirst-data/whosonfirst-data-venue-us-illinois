@@ -2,13 +2,14 @@
   "id": 219886091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.980449,41.688652,-88.980449,41.688652",
     "geom:latitude":41.688652,
     "geom:longitude":-88.980449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Chicago Rd",
     "sg:city":"Paw Paw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219886091,
-    "wof:lastmodified":1449072325,
+    "wof:lastmodified":1466496874,
     "wof:name":"Gathering Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.980449,41.688652,-88.980449,41.688652],
-  "geometry": {"coordinates":[-88.980449,41.688652],"type":"Point"}
+  "bbox": [
+    -88.980449,
+    41.688652,
+    -88.980449,
+    41.688652
+],
+  "geometry": {"coordinates":[-88.98044899999999,41.688652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202546597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655504,41.996351,-87.655504,41.996351",
     "geom:latitude":41.996351,
     "geom:longitude":-87.655504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202546597,
-    "wof:lastmodified":1449060108,
+    "wof:lastmodified":1466489029,
     "wof:name":"Chicago Studio of Pro Singing",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-87.655504,41.996351,-87.655504,41.996351],
-  "geometry": {"coordinates":[-87.655504,41.996351],"type":"Point"}
+  "bbox": [
+    -87.655504,
+    41.996351,
+    -87.655504,
+    41.996351
+],
+  "geometry": {"coordinates":[-87.65550399999999,41.996351],"type":"Point"}
 }

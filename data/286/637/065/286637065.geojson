@@ -2,13 +2,14 @@
   "id": 286637065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.547013,39.104999,-88.547013,39.104999",
     "geom:latitude":39.104999,
     "geom:longitude":-88.547013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 S Banker St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286637065,
-    "wof:lastmodified":1449015173,
+    "wof:lastmodified":1466495745,
     "wof:name":"Doug's Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-88.547013,39.104999,-88.547013,39.104999],
-  "geometry": {"coordinates":[-88.547013,39.104999],"type":"Point"}
+  "bbox": [
+    -88.547013,
+    39.104999,
+    -88.547013,
+    39.104999
+],
+  "geometry": {"coordinates":[-88.54701300000001,39.104999],"type":"Point"}
 }

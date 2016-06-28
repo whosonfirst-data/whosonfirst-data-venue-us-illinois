@@ -2,13 +2,14 @@
   "id": 286414687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042637,39.117563,-90.042637,39.117563",
     "geom:latitude":39.117563,
     "geom:longitude":-90.042637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Keating St",
     "sg:city":"Shipman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286414687,
-    "wof:lastmodified":1449016563,
+    "wof:lastmodified":1466492187,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.042637,39.117563,-90.042637,39.117563],
+  "bbox": [
+    -90.042637,
+    39.117563,
+    -90.042637,
+    39.117563
+],
   "geometry": {"coordinates":[-90.042637,39.117563],"type":"Point"}
 }

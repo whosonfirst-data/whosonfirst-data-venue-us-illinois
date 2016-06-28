@@ -2,13 +2,14 @@
   "id": 270193685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.9403,38.605378,-88.9403,38.605378",
     "geom:latitude":38.605378,
     "geom:longitude":-88.9403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2638 State Rte 37",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270193685,
-    "wof:lastmodified":1449009034,
+    "wof:lastmodified":1466491932,
     "wof:name":"Salem Paradise Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-88.9403,38.605378,-88.9403,38.605378],
-  "geometry": {"coordinates":[-88.9403,38.605378],"type":"Point"}
+  "bbox": [
+    -88.9403,
+    38.605378,
+    -88.9403,
+    38.605378
+],
+  "geometry": {"coordinates":[-88.94029999999999,38.605378],"type":"Point"}
 }

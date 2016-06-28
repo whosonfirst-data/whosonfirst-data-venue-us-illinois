@@ -2,13 +2,14 @@
   "id": 286927241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.171917,39.473203,-88.171917,39.473203",
     "geom:latitude":39.473203,
     "geom:longitude":-88.171917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Woodlawn Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286927241,
-    "wof:lastmodified":1449017785,
+    "wof:lastmodified":1466498207,
     "wof:name":"Youngstown Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.171917,39.473203,-88.171917,39.473203],
-  "geometry": {"coordinates":[-88.171917,39.473203],"type":"Point"}
+  "bbox": [
+    -88.171917,
+    39.473203,
+    -88.171917,
+    39.473203
+],
+  "geometry": {"coordinates":[-88.17191699999999,39.473203],"type":"Point"}
 }

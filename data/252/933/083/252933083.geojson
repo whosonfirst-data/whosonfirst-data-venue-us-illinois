@@ -2,13 +2,14 @@
   "id": 252933083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.80508,41.890613,-87.80508,41.890613",
     "geom:latitude":41.890613,
     "geom:longitude":-87.80508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Ontario St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252933083,
-    "wof:lastmodified":1449005639,
+    "wof:lastmodified":1466491895,
     "wof:name":"Balloons Extraordinaire",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-87.80508,41.890613,-87.80508,41.890613],
+  "bbox": [
+    -87.80508,
+    41.890613,
+    -87.80508,
+    41.890613
+],
   "geometry": {"coordinates":[-87.80508,41.890613],"type":"Point"}
 }

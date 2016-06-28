@@ -2,13 +2,14 @@
   "id": 253327279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.126263,42.150794,-88.126263,42.150794",
     "geom:latitude":42.150794,
     "geom:longitude":-88.126263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 George St",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253327279,
-    "wof:lastmodified":1449063043,
+    "wof:lastmodified":1466493112,
     "wof:name":"House Of Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-88.126263,42.150794,-88.126263,42.150794],
-  "geometry": {"coordinates":[-88.126263,42.150794],"type":"Point"}
+  "bbox": [
+    -88.126263,
+    42.150794,
+    -88.126263,
+    42.150794
+],
+  "geometry": {"coordinates":[-88.12626299999999,42.150794],"type":"Point"}
 }

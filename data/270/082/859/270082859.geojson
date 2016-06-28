@@ -2,13 +2,14 @@
   "id": 270082859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.816772,41.820123,-87.816772,41.820123",
     "geom:latitude":41.820123,
     "geom:longitude":-87.816772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7890 Ogden Ave",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270082859,
-    "wof:lastmodified":1449008732,
+    "wof:lastmodified":1466490256,
     "wof:name":"Duck's Trucking Inc",
     "wof:parent_id":85867579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-87.816772,41.820123,-87.816772,41.820123],
+  "bbox": [
+    -87.816772,
+    41.820123,
+    -87.816772,
+    41.820123
+],
   "geometry": {"coordinates":[-87.816772,41.820123],"type":"Point"}
 }

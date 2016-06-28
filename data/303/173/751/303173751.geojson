@@ -2,13 +2,14 @@
   "id": 303173751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945861,41.990315,-87.945861,41.990315",
     "geom:latitude":41.990315,
     "geom:longitude":-87.945861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 United Ln",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303173751,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466492612,
     "wof:name":"Trac Mold Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.945861,41.990315,-87.945861,41.990315],
-  "geometry": {"coordinates":[-87.945861,41.990315],"type":"Point"}
+  "bbox": [
+    -87.945861,
+    41.990315,
+    -87.945861,
+    41.990315
+],
+  "geometry": {"coordinates":[-87.94586099999999,41.990315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286719573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.411587,40.158079,-89.411587,40.158079",
     "geom:latitude":40.158079,
     "geom:longitude":-89.411587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2903 Woodlawn Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286719573,
-    "wof:lastmodified":1449015555,
+    "wof:lastmodified":1466496737,
     "wof:name":"Burwell Fuel Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-89.411587,40.158079,-89.411587,40.158079],
+  "bbox": [
+    -89.411587,
+    40.158079,
+    -89.411587,
+    40.158079
+],
   "geometry": {"coordinates":[-89.411587,40.158079],"type":"Point"}
 }

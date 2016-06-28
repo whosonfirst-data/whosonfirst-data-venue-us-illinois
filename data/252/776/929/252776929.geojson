@@ -2,13 +2,14 @@
   "id": 252776929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.304903,41.737478,-88.304903,41.737478",
     "geom:latitude":41.737478,
     "geom:longitude":-88.304903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Ashland Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252776929,
-    "wof:lastmodified":1449005663,
+    "wof:lastmodified":1466489876,
     "wof:name":"Elena Travel",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.304903,41.737478,-88.304903,41.737478],
+  "bbox": [
+    -88.304903,
+    41.737478,
+    -88.304903,
+    41.737478
+],
   "geometry": {"coordinates":[-88.304903,41.737478],"type":"Point"}
 }

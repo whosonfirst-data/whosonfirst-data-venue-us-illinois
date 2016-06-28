@@ -2,13 +2,14 @@
   "id": 219788571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.422553,39.835195,-88.422553,39.835195",
     "geom:latitude":39.835195,
     "geom:longitude":-88.422553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 E Co Rd 1250 N",
     "sg:city":"Atwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219788571,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466496296,
     "wof:name":"K A Rebar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.422553,39.835195,-88.422553,39.835195],
-  "geometry": {"coordinates":[-88.422553,39.835195],"type":"Point"}
+  "bbox": [
+    -88.422553,
+    39.835195,
+    -88.422553,
+    39.835195
+],
+  "geometry": {"coordinates":[-88.42255299999999,39.835195],"type":"Point"}
 }

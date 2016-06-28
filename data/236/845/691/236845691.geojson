@@ -2,13 +2,14 @@
   "id": 236845691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.848743,41.352872,-88.848743,41.352872",
     "geom:latitude":41.352872,
     "geom:longitude":-88.848743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Chestnut St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236845691,
-    "wof:lastmodified":1449002080,
+    "wof:lastmodified":1466498045,
     "wof:name":"Lil Whits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.848743,41.352872,-88.848743,41.352872],
+  "bbox": [
+    -88.848743,
+    41.352872,
+    -88.848743,
+    41.352872
+],
   "geometry": {"coordinates":[-88.848743,41.352872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169703089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572884,39.513844,-87.572884,39.513844",
     "geom:latitude":39.513844,
     "geom:longitude":-87.572884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2874 Midwestern Gas St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169703089,
-    "wof:lastmodified":1449033686,
+    "wof:lastmodified":1466488942,
     "wof:name":"Midewestern Gas Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-87.572884,39.513844,-87.572884,39.513844],
+  "bbox": [
+    -87.572884,
+    39.513844,
+    -87.572884,
+    39.513844
+],
   "geometry": {"coordinates":[-87.572884,39.513844],"type":"Point"}
 }

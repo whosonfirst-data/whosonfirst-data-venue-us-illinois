@@ -2,13 +2,14 @@
   "id": 270469033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87511,41.124047,-87.87511,41.124047",
     "geom:latitude":41.124047,
     "geom:longitude":-87.87511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N 8th Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270469033,
-    "wof:lastmodified":1449011153,
+    "wof:lastmodified":1466495969,
     "wof:name":"Home Away From Home Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.87511,41.124047,-87.87511,41.124047],
-  "geometry": {"coordinates":[-87.87511,41.124047],"type":"Point"}
+  "bbox": [
+    -87.87511,
+    41.124047,
+    -87.87511,
+    41.124047
+],
+  "geometry": {"coordinates":[-87.87511000000001,41.124047],"type":"Point"}
 }

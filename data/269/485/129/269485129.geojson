@@ -2,13 +2,14 @@
   "id": 269485129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.468642,41.37327,-89.468642,41.37327",
     "geom:latitude":41.37327,
     "geom:longitude":-89.468642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 S Randolph St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269485129,
-    "wof:lastmodified":1449037615,
+    "wof:lastmodified":1466489010,
     "wof:name":"A-1 Nelson Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-89.468642,41.37327,-89.468642,41.37327],
+  "bbox": [
+    -89.468642,
+    41.37327,
+    -89.468642,
+    41.37327
+],
   "geometry": {"coordinates":[-89.468642,41.37327],"type":"Point"}
 }

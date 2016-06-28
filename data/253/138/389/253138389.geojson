@@ -2,13 +2,14 @@
   "id": 253138389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.731051,41.96091,-87.731051,41.96091",
     "geom:latitude":41.96091,
     "geom:longitude":-87.731051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 N Kedvale Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253138389,
-    "wof:lastmodified":1449063667,
+    "wof:lastmodified":1466490656,
     "wof:name":"Irving Park Christian Church",
     "wof:parent_id":85865761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.731051,41.96091,-87.731051,41.96091],
-  "geometry": {"coordinates":[-87.731051,41.96091],"type":"Point"}
+  "bbox": [
+    -87.731051,
+    41.96091,
+    -87.731051,
+    41.96091
+],
+  "geometry": {"coordinates":[-87.73105099999999,41.96091],"type":"Point"}
 }

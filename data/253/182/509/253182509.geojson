@@ -2,13 +2,14 @@
   "id": 253182509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.108047,41.847486,-88.108047,41.847486",
     "geom:latitude":41.847486,
     "geom:longitude":-88.108047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1548 Wadsworth Rd",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253182509,
-    "wof:lastmodified":1449064693,
+    "wof:lastmodified":1466491120,
     "wof:name":"David Biscardi PHD",
     "wof:parent_id":85891065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-88.108047,41.847486,-88.108047,41.847486],
+  "bbox": [
+    -88.108047,
+    41.847486,
+    -88.108047,
+    41.847486
+],
   "geometry": {"coordinates":[-88.108047,41.847486],"type":"Point"}
 }

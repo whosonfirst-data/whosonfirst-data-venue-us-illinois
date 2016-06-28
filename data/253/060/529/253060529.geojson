@@ -2,13 +2,14 @@
   "id": 253060529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848425,41.478506,-87.848425,41.478506",
     "geom:latitude":41.478506,
     "geom:longitude":-87.848425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22530 S Center Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253060529,
-    "wof:lastmodified":1449065514,
+    "wof:lastmodified":1466489736,
     "wof:name":"AMBI Clutches & Joints",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clutches"
     ]
 },
-  "bbox": [-87.848425,41.478506,-87.848425,41.478506],
-  "geometry": {"coordinates":[-87.848425,41.478506],"type":"Point"}
+  "bbox": [
+    -87.848425,
+    41.478506,
+    -87.848425,
+    41.478506
+],
+  "geometry": {"coordinates":[-87.84842500000001,41.478506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269940945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.133696,38.524703,-89.133696,38.524703",
     "geom:latitude":38.524703,
     "geom:longitude":-89.133696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 S Poplar St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269940945,
-    "wof:lastmodified":1449036730,
+    "wof:lastmodified":1466496209,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.133696,38.524703,-89.133696,38.524703],
+  "bbox": [
+    -89.133696,
+    38.524703,
+    -89.133696,
+    38.524703
+],
   "geometry": {"coordinates":[-89.133696,38.524703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270420559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.408115,39.934579,-91.408115,39.934579",
     "geom:latitude":39.934579,
     "geom:longitude":-91.408115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Vermont St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270420559,
-    "wof:lastmodified":1449009806,
+    "wof:lastmodified":1466495437,
     "wof:name":"Adams County Traffic Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.408115,39.934579,-91.408115,39.934579],
+  "bbox": [
+    -91.408115,
+    39.934579,
+    -91.408115,
+    39.934579
+],
   "geometry": {"coordinates":[-91.408115,39.934579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236184423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681011,41.689692,-87.681011,41.689692",
     "geom:latitude":41.689692,
     "geom:longitude":-87.681011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11235 S Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236184423,
-    "wof:lastmodified":1449002091,
+    "wof:lastmodified":1466491233,
     "wof:name":"Birthright Of Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.681011,41.689692,-87.681011,41.689692],
+  "bbox": [
+    -87.681011,
+    41.689692,
+    -87.681011,
+    41.689692
+],
   "geometry": {"coordinates":[-87.681011,41.689692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270230083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952205,41.998301,-87.952205,41.998301",
     "geom:latitude":41.998301,
     "geom:longitude":-87.952205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 Pratt Blvd",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270230083,
-    "wof:lastmodified":1449010460,
+    "wof:lastmodified":1466492515,
     "wof:name":"Mardi Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-87.952205,41.998301,-87.952205,41.998301],
-  "geometry": {"coordinates":[-87.952205,41.998301],"type":"Point"}
+  "bbox": [
+    -87.952205,
+    41.998301,
+    -87.952205,
+    41.998301
+],
+  "geometry": {"coordinates":[-87.95220500000001,41.998301],"type":"Point"}
 }

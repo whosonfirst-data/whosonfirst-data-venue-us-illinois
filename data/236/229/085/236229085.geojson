@@ -2,13 +2,14 @@
   "id": 236229085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.589092,40.604417,-89.589092,40.604417",
     "geom:latitude":40.604417,
     "geom:longitude":-89.589092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Edgewater Dr",
     "sg:city":"Groveland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236229085,
-    "wof:lastmodified":1449004445,
+    "wof:lastmodified":1466491815,
     "wof:name":"Groveland Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-89.589092,40.604417,-89.589092,40.604417],
-  "geometry": {"coordinates":[-89.589092,40.604417],"type":"Point"}
+  "bbox": [
+    -89.589092,
+    40.604417,
+    -89.589092,
+    40.604417
+],
+  "geometry": {"coordinates":[-89.58909199999999,40.604417],"type":"Point"}
 }

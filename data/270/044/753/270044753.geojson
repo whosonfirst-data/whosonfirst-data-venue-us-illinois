@@ -2,13 +2,14 @@
   "id": 270044753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653798,41.933018,-87.653798,41.933018",
     "geom:latitude":41.933018,
     "geom:longitude":-87.653798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 N Sheffield Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270044753,
-    "wof:lastmodified":1449009912,
+    "wof:lastmodified":1466489706,
     "wof:name":"Fox Hair Inc",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.653798,41.933018,-87.653798,41.933018],
-  "geometry": {"coordinates":[-87.653798,41.933018],"type":"Point"}
+  "bbox": [
+    -87.653798,
+    41.933018,
+    -87.653798,
+    41.933018
+],
+  "geometry": {"coordinates":[-87.65379799999999,41.933018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185736883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.944729,39.00029,-87.944729,39.00029",
     "geom:latitude":39.00029,
     "geom:longitude":-87.944729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 E 1050th Ave",
     "sg:city":"Oblong",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":185736883,
-    "wof:lastmodified":1449008172,
+    "wof:lastmodified":1466495162,
     "wof:name":"Dave's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-87.944729,39.00029,-87.944729,39.00029],
+  "bbox": [
+    -87.944729,
+    39.00029,
+    -87.944729,
+    39.00029
+],
   "geometry": {"coordinates":[-87.944729,39.00029],"type":"Point"}
 }

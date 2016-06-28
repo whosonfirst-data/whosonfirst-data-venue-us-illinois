@@ -2,13 +2,14 @@
   "id": 202613223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.867027,39.144486,-87.867027,39.144486",
     "geom:latitude":39.144486,
     "geom:longitude":-87.867027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4344 E 2000th Ave",
     "sg:city":"Annapolis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202613223,
-    "wof:lastmodified":1449061304,
+    "wof:lastmodified":1466489817,
     "wof:name":"Passementeries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.867027,39.144486,-87.867027,39.144486],
-  "geometry": {"coordinates":[-87.867027,39.144486],"type":"Point"}
+  "bbox": [
+    -87.867027,
+    39.144486,
+    -87.867027,
+    39.144486
+],
+  "geometry": {"coordinates":[-87.86702699999999,39.144486],"type":"Point"}
 }

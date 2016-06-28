@@ -2,13 +2,14 @@
   "id": 219458513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.534028,38.495791,-89.534028,38.495791",
     "geom:latitude":38.495791,
     "geom:longitude":-89.534028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 Charlene Rd",
     "sg:city":"Bartelso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219458513,
-    "wof:lastmodified":1449072911,
+    "wof:lastmodified":1466492685,
     "wof:name":"Regis Voss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.534028,38.495791,-89.534028,38.495791],
-  "geometry": {"coordinates":[-89.534028,38.495791],"type":"Point"}
+  "bbox": [
+    -89.534028,
+    38.495791,
+    -89.534028,
+    38.495791
+],
+  "geometry": {"coordinates":[-89.53402800000001,38.495791],"type":"Point"}
 }

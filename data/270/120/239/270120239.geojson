@@ -2,13 +2,14 @@
   "id": 270120239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181436,40.101104,-88.181436,40.101104",
     "geom:latitude":40.101104,
     "geom:longitude":-88.181436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Kinch St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270120239,
-    "wof:lastmodified":1449010732,
+    "wof:lastmodified":1466490806,
     "wof:name":"Ergonomic Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.181436,40.101104,-88.181436,40.101104],
-  "geometry": {"coordinates":[-88.181436,40.101104],"type":"Point"}
+  "bbox": [
+    -88.181436,
+    40.101104,
+    -88.181436,
+    40.101104
+],
+  "geometry": {"coordinates":[-88.18143600000001,40.101104],"type":"Point"}
 }

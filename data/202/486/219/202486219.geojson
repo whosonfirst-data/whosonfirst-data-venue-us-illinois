@@ -2,13 +2,14 @@
   "id": 202486219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.939948,41.230848,-89.939948,41.230848",
     "geom:latitude":41.230848,
     "geom:longitude":-89.939948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Valley Rd",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202486219,
-    "wof:lastmodified":1449061519,
+    "wof:lastmodified":1466494899,
     "wof:name":"M & M Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-89.939948,41.230848,-89.939948,41.230848],
+  "bbox": [
+    -89.939948,
+    41.230848,
+    -89.939948,
+    41.230848
+],
   "geometry": {"coordinates":[-89.939948,41.230848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219490931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024668,41.573768,-88.024668,41.573768",
     "geom:latitude":41.573768,
     "geom:longitude":-88.024668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17205 Pueblo Ct",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219490931,
-    "wof:lastmodified":1449073565,
+    "wof:lastmodified":1466493079,
     "wof:name":"Aerocare International",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-88.024668,41.573768,-88.024668,41.573768],
-  "geometry": {"coordinates":[-88.024668,41.573768],"type":"Point"}
+  "bbox": [
+    -88.024668,
+    41.573768,
+    -88.024668,
+    41.573768
+],
+  "geometry": {"coordinates":[-88.02466800000001,41.573768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286638245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685195,41.924551,-87.685195,41.924551",
     "geom:latitude":41.924551,
     "geom:longitude":-87.685195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 N Oakley Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286638245,
-    "wof:lastmodified":1449015335,
+    "wof:lastmodified":1466495960,
     "wof:name":"Cadbury Heating",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.685195,41.924551,-87.685195,41.924551],
-  "geometry": {"coordinates":[-87.685195,41.924551],"type":"Point"}
+  "bbox": [
+    -87.685195,
+    41.924551,
+    -87.685195,
+    41.924551
+],
+  "geometry": {"coordinates":[-87.68519499999999,41.924551],"type":"Point"}
 }

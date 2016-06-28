@@ -2,13 +2,14 @@
   "id": 203203831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.36356,40.147473,-89.36356,40.147473",
     "geom:latitude":40.147473,
     "geom:longitude":-89.36356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Broadway St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203203831,
-    "wof:lastmodified":1449025753,
+    "wof:lastmodified":1466489393,
     "wof:name":"Awards Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-89.36356,40.147473,-89.36356,40.147473],
-  "geometry": {"coordinates":[-89.36356,40.147473],"type":"Point"}
+  "bbox": [
+    -89.36356,
+    40.147473,
+    -89.36356,
+    40.147473
+],
+  "geometry": {"coordinates":[-89.36356000000001,40.147473],"type":"Point"}
 }

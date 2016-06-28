@@ -2,13 +2,14 @@
   "id": 287047423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.732003,41.944128,-87.732003,41.944128",
     "geom:latitude":41.944128,
     "geom:longitude":-87.732003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3443 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287047423,
-    "wof:lastmodified":1449001255,
+    "wof:lastmodified":1466490725,
     "wof:name":"Coronet Travel Svc",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-87.732003,41.944128,-87.732003,41.944128],
-  "geometry": {"coordinates":[-87.732003,41.944128],"type":"Point"}
+  "bbox": [
+    -87.732003,
+    41.944128,
+    -87.732003,
+    41.944128
+],
+  "geometry": {"coordinates":[-87.73200300000001,41.944128],"type":"Point"}
 }

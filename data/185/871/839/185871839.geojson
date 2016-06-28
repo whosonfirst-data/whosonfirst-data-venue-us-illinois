@@ -2,13 +2,14 @@
   "id": 185871839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.706421,39.801235,-89.706421,39.801235",
     "geom:latitude":39.801235,
     "geom:longitude":-89.706421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Veterans Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185871839,
-    "wof:lastmodified":1449007121,
+    "wof:lastmodified":1466489607,
     "wof:name":"Hurt David DMD MS",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-endodontists"
     ]
 },
-  "bbox": [-89.706421,39.801235,-89.706421,39.801235],
-  "geometry": {"coordinates":[-89.706421,39.801235],"type":"Point"}
+  "bbox": [
+    -89.706421,
+    39.801235,
+    -89.706421,
+    39.801235
+],
+  "geometry": {"coordinates":[-89.70642100000001,39.801235],"type":"Point"}
 }

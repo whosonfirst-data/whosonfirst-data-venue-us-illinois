@@ -2,13 +2,14 @@
   "id": 287263785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750363,41.95345,-87.750363,41.95345",
     "geom:latitude":41.95345,
     "geom:longitude":-87.750363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4906 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287263785,
-    "wof:lastmodified":1449001564,
+    "wof:lastmodified":1466494189,
     "wof:name":"Axis Health Care Svc Inc",
     "wof:parent_id":85867763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-87.750363,41.95345,-87.750363,41.95345],
-  "geometry": {"coordinates":[-87.750363,41.95345],"type":"Point"}
+  "bbox": [
+    -87.750363,
+    41.95345,
+    -87.750363,
+    41.95345
+],
+  "geometry": {"coordinates":[-87.75036299999999,41.95345],"type":"Point"}
 }

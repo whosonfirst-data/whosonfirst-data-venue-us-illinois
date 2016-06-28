@@ -2,13 +2,14 @@
   "id": 202855579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.094976,42.101498,-89.094976,42.101498",
     "geom:latitude":42.101498,
     "geom:longitude":-89.094976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Maple Ct",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202855579,
-    "wof:lastmodified":1449061967,
+    "wof:lastmodified":1466492638,
     "wof:name":"Survey Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-89.094976,42.101498,-89.094976,42.101498],
+  "bbox": [
+    -89.094976,
+    42.101498,
+    -89.094976,
+    42.101498
+],
   "geometry": {"coordinates":[-89.094976,42.101498],"type":"Point"}
 }

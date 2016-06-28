@@ -2,13 +2,14 @@
   "id": 287009279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.761727,42.010126,-87.761727,42.010126",
     "geom:latitude":42.010126,
     "geom:longitude":-87.761727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7104 Carpenter Rd",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287009279,
-    "wof:lastmodified":1449001580,
+    "wof:lastmodified":1466490121,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85869249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-87.761727,42.010126,-87.761727,42.010126],
-  "geometry": {"coordinates":[-87.761727,42.010126],"type":"Point"}
+  "bbox": [
+    -87.761727,
+    42.010126,
+    -87.761727,
+    42.010126
+],
+  "geometry": {"coordinates":[-87.76172699999999,42.010126],"type":"Point"}
 }

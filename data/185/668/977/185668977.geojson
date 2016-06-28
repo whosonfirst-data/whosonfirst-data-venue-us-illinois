@@ -2,13 +2,14 @@
   "id": 185668977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.409499,39.933296,-91.409499,39.933296",
     "geom:latitude":39.933296,
     "geom:longitude":-91.409499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Hampshire St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185668977,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1466494101,
     "wof:name":"Stone, Jason P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-91.409499,39.933296,-91.409499,39.933296],
+  "bbox": [
+    -91.409499,
+    39.933296,
+    -91.409499,
+    39.933296
+],
   "geometry": {"coordinates":[-91.409499,39.933296],"type":"Point"}
 }

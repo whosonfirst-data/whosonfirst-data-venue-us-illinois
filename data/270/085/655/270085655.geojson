@@ -2,13 +2,14 @@
   "id": 270085655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.277837,41.895874,-88.277837,41.895874",
     "geom:latitude":41.895874,
     "geom:longitude":-88.277837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Green Meadow Ln",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270085655,
-    "wof:lastmodified":1449009235,
+    "wof:lastmodified":1466490293,
     "wof:name":"Thelen Consulting",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.277837,41.895874,-88.277837,41.895874],
-  "geometry": {"coordinates":[-88.277837,41.895874],"type":"Point"}
+  "bbox": [
+    -88.277837,
+    41.895874,
+    -88.277837,
+    41.895874
+],
+  "geometry": {"coordinates":[-88.27783700000001,41.895874],"type":"Point"}
 }

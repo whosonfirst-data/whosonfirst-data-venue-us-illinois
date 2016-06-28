@@ -2,13 +2,14 @@
   "id": 202387251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106809,41.523127,-88.106809,41.523127",
     "geom:latitude":41.523127,
     "geom:longitude":-88.106809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202387251,
-    "wof:lastmodified":1449062314,
+    "wof:lastmodified":1466491569,
     "wof:name":"Cardinal Valve Svc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-88.106809,41.523127,-88.106809,41.523127],
+  "bbox": [
+    -88.106809,
+    41.523127,
+    -88.106809,
+    41.523127
+],
   "geometry": {"coordinates":[-88.106809,41.523127],"type":"Point"}
 }

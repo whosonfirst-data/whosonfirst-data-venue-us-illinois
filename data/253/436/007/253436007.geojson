@@ -2,13 +2,14 @@
   "id": 253436007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087823,41.524351,-88.087823,41.524351",
     "geom:latitude":41.524351,
     "geom:longitude":-88.087823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Bluff St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253436007,
-    "wof:lastmodified":1449065502,
+    "wof:lastmodified":1466494805,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-88.087823,41.524351,-88.087823,41.524351],
+  "bbox": [
+    -88.087823,
+    41.524351,
+    -88.087823,
+    41.524351
+],
   "geometry": {"coordinates":[-88.087823,41.524351],"type":"Point"}
 }

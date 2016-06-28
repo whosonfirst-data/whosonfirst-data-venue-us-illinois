@@ -2,13 +2,14 @@
   "id": 203009073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654986,41.97928,-87.654986,41.97928",
     "geom:latitude":41.97928,
     "geom:longitude":-87.654986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203009073,
-    "wof:lastmodified":1449026841,
+    "wof:lastmodified":1466489969,
     "wof:name":"5301 Parking Services",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-87.654986,41.97928,-87.654986,41.97928],
-  "geometry": {"coordinates":[-87.654986,41.97928],"type":"Point"}
+  "bbox": [
+    -87.654986,
+    41.97928,
+    -87.654986,
+    41.97928
+],
+  "geometry": {"coordinates":[-87.65498599999999,41.97928],"type":"Point"}
 }

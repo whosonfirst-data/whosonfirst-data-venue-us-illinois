@@ -2,13 +2,14 @@
   "id": 203072111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.741515,41.77275,-89.741515,41.77275",
     "geom:latitude":41.77275,
     "geom:longitude":-89.741515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Regan Rd",
     "sg:city":"Rock Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203072111,
-    "wof:lastmodified":1449025948,
+    "wof:lastmodified":1466494199,
     "wof:name":"Riverside Mobile Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-89.741515,41.77275,-89.741515,41.77275],
-  "geometry": {"coordinates":[-89.741515,41.77275],"type":"Point"}
+  "bbox": [
+    -89.741515,
+    41.77275,
+    -89.741515,
+    41.77275
+],
+  "geometry": {"coordinates":[-89.74151500000001,41.77275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202568971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.766692,41.997302,-87.766692,41.997302",
     "geom:latitude":41.997302,
     "geom:longitude":-87.766692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 N Caldwell Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202568971,
-    "wof:lastmodified":1449060047,
+    "wof:lastmodified":1466489308,
     "wof:name":"L W Reiss & Associates",
     "wof:parent_id":85867581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.766692,41.997302,-87.766692,41.997302],
-  "geometry": {"coordinates":[-87.766692,41.997302],"type":"Point"}
+  "bbox": [
+    -87.766692,
+    41.997302,
+    -87.766692,
+    41.997302
+],
+  "geometry": {"coordinates":[-87.76669200000001,41.997302],"type":"Point"}
 }

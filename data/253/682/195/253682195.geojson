@@ -2,13 +2,14 @@
   "id": 253682195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748458,41.900566,-87.748458,41.900566",
     "geom:latitude":41.900566,
     "geom:longitude":-87.748458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 N Lamon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253682195,
-    "wof:lastmodified":1449063334,
+    "wof:lastmodified":1466497505,
     "wof:name":"Chicago Westside Naacp",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-87.748458,41.900566,-87.748458,41.900566],
+  "bbox": [
+    -87.748458,
+    41.900566,
+    -87.748458,
+    41.900566
+],
   "geometry": {"coordinates":[-87.748458,41.900566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303164225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.74254,40.457172,-88.74254,40.457172",
     "geom:latitude":40.457172,
     "geom:longitude":-88.74254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27871 E 1200 North Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303164225,
-    "wof:lastmodified":1448998411,
+    "wof:lastmodified":1466492457,
     "wof:name":"Kurt Williams",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-88.74254,40.457172,-88.74254,40.457172],
-  "geometry": {"coordinates":[-88.74254,40.457172],"type":"Point"}
+  "bbox": [
+    -88.74254,
+    40.457172,
+    -88.74254,
+    40.457172
+],
+  "geometry": {"coordinates":[-88.74254000000001,40.457172],"type":"Point"}
 }

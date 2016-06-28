@@ -2,13 +2,14 @@
   "id": 235956337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.821864,41.899186,-87.821864,41.899186",
     "geom:latitude":41.899186,
     "geom:longitude":-87.821864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Forest Ave",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235956337,
-    "wof:lastmodified":1449008316,
+    "wof:lastmodified":1466489260,
     "wof:name":"George C Curl",
     "wof:parent_id":85890849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.821864,41.899186,-87.821864,41.899186],
-  "geometry": {"coordinates":[-87.821864,41.899186],"type":"Point"}
+  "bbox": [
+    -87.821864,
+    41.899186,
+    -87.821864,
+    41.899186
+],
+  "geometry": {"coordinates":[-87.82186400000001,41.899186],"type":"Point"}
 }

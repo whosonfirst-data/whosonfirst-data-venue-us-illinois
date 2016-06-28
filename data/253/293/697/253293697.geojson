@@ -2,13 +2,14 @@
   "id": 253293697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727246,41.943714,-87.727246,41.943714",
     "geom:latitude":41.943714,
     "geom:longitude":-87.727246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3443 N Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253293697,
-    "wof:lastmodified":1449063394,
+    "wof:lastmodified":1466492633,
     "wof:name":"Classic Vending Inc",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-87.727246,41.943714,-87.727246,41.943714],
-  "geometry": {"coordinates":[-87.727246,41.943714],"type":"Point"}
+  "bbox": [
+    -87.727246,
+    41.943714,
+    -87.727246,
+    41.943714
+],
+  "geometry": {"coordinates":[-87.72724599999999,41.943714],"type":"Point"}
 }

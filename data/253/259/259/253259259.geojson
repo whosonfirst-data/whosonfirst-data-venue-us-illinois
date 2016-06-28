@@ -2,13 +2,14 @@
   "id": 253259259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.938398,38.090308,-89.938398,38.090308",
     "geom:latitude":38.090308,
     "geom:longitude":-89.938398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Liberty St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253259259,
-    "wof:lastmodified":1449063488,
+    "wof:lastmodified":1466492121,
     "wof:name":"Evansville Feed & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-89.938398,38.090308,-89.938398,38.090308],
-  "geometry": {"coordinates":[-89.938398,38.090308],"type":"Point"}
+  "bbox": [
+    -89.938398,
+    38.090308,
+    -89.938398,
+    38.090308
+],
+  "geometry": {"coordinates":[-89.93839800000001,38.090308],"type":"Point"}
 }

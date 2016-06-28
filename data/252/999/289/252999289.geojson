@@ -2,13 +2,14 @@
   "id": 252999289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.808729,41.859513,-87.808729,41.859513",
     "geom:latitude":41.859513,
     "geom:longitude":-87.808729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7343 15th St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252999289,
-    "wof:lastmodified":1449006385,
+    "wof:lastmodified":1466492768,
     "wof:name":"Forest Park Public Works",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "parking"
     ]
 },
-  "bbox": [-87.808729,41.859513,-87.808729,41.859513],
+  "bbox": [
+    -87.808729,
+    41.859513,
+    -87.808729,
+    41.859513
+],
   "geometry": {"coordinates":[-87.808729,41.859513],"type":"Point"}
 }

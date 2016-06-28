@@ -2,13 +2,14 @@
   "id": 252873931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.707544,41.720734,-87.707544,41.720734",
     "geom:latitude":41.720734,
     "geom:longitude":-87.707544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252873931,
-    "wof:lastmodified":1449005646,
+    "wof:lastmodified":1466491104,
     "wof:name":"Hollowell Inc",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-87.707544,41.720734,-87.707544,41.720734],
+  "bbox": [
+    -87.707544,
+    41.720734,
+    -87.707544,
+    41.720734
+],
   "geometry": {"coordinates":[-87.707544,41.720734],"type":"Point"}
 }

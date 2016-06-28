@@ -2,13 +2,14 @@
   "id": 303124277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941207,42.156543,-87.941207,42.156543",
     "geom:latitude":42.156543,
     "geom:longitude":-87.941207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Dartmouth Ln",
     "sg:city":"Buffalo Grove",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303124277,
-    "wof:lastmodified":1449000374,
+    "wof:lastmodified":1466491805,
     "wof:name":"Bertsche Engineering Corp",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automation"
     ]
 },
-  "bbox": [-87.941207,42.156543,-87.941207,42.156543],
-  "geometry": {"coordinates":[-87.941207,42.156543],"type":"Point"}
+  "bbox": [
+    -87.941207,
+    42.156543,
+    -87.941207,
+    42.156543
+],
+  "geometry": {"coordinates":[-87.94120700000001,42.156543],"type":"Point"}
 }

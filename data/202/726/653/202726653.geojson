@@ -2,13 +2,14 @@
   "id": 202726653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.915339,38.436865,-89.915339,38.436865",
     "geom:latitude":38.436865,
     "geom:longitude":-89.915339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N State St",
     "sg:city":"Freeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202726653,
-    "wof:lastmodified":1449061825,
+    "wof:lastmodified":1466491099,
     "wof:name":"Anrus Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-89.915339,38.436865,-89.915339,38.436865],
+  "bbox": [
+    -89.915339,
+    38.436865,
+    -89.915339,
+    38.436865
+],
   "geometry": {"coordinates":[-89.915339,38.436865],"type":"Point"}
 }

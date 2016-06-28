@@ -2,13 +2,14 @@
   "id": 219436087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308507,41.884866,-88.308507,41.884866",
     "geom:latitude":41.884866,
     "geom:longitude":-88.308507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219436087,
-    "wof:lastmodified":1449073577,
+    "wof:lastmodified":1466492409,
     "wof:name":"Daisies",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.308507,41.884866,-88.308507,41.884866],
-  "geometry": {"coordinates":[-88.308507,41.884866],"type":"Point"}
+  "bbox": [
+    -88.308507,
+    41.884866,
+    -88.308507,
+    41.884866
+],
+  "geometry": {"coordinates":[-88.30850700000001,41.884866],"type":"Point"}
 }

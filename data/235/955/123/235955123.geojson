@@ -2,13 +2,14 @@
   "id": 235955123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.789003,41.879925,-87.789003,41.879925",
     "geom:latitude":41.879925,
     "geom:longitude":-87.789003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235955123,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1466489246,
     "wof:name":"East Madison Creative",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-87.789003,41.879925,-87.789003,41.879925],
-  "geometry": {"coordinates":[-87.789003,41.879925],"type":"Point"}
+  "bbox": [
+    -87.789003,
+    41.879925,
+    -87.789003,
+    41.879925
+],
+  "geometry": {"coordinates":[-87.78900299999999,41.879925],"type":"Point"}
 }

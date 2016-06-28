@@ -2,13 +2,14 @@
   "id": 202601663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76416,41.748819,-87.76416,41.748819",
     "geom:latitude":41.748819,
     "geom:longitude":-87.76416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5706 W 79th St",
     "sg:city":"Burbank",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202601663,
-    "wof:lastmodified":1449061258,
+    "wof:lastmodified":1466489681,
     "wof:name":"A & P Gas & Food",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.76416,41.748819,-87.76416,41.748819],
+  "bbox": [
+    -87.76416,
+    41.748819,
+    -87.76416,
+    41.748819
+],
   "geometry": {"coordinates":[-87.76416,41.748819],"type":"Point"}
 }

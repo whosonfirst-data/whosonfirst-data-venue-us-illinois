@@ -2,13 +2,14 @@
   "id": 270323605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089935,41.869066,-88.089935,41.869066",
     "geom:latitude":41.869066,
     "geom:longitude":-88.089935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 College Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270323605,
-    "wof:lastmodified":1449008861,
+    "wof:lastmodified":1466493948,
     "wof:name":"A C Svc",
     "wof:parent_id":85891051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-88.089935,41.869066,-88.089935,41.869066],
+  "bbox": [
+    -88.089935,
+    41.869066,
+    -88.089935,
+    41.869066
+],
   "geometry": {"coordinates":[-88.089935,41.869066],"type":"Point"}
 }

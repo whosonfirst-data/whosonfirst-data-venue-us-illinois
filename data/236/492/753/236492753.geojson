@@ -2,13 +2,14 @@
   "id": 236492753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081488,41.527895,-88.081488,41.527895",
     "geom:latitude":41.527895,
     "geom:longitude":-88.081488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 E Cass St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236492753,
-    "wof:lastmodified":1449001674,
+    "wof:lastmodified":1466495269,
     "wof:name":"First Impressions Barber Shop",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.081488,41.527895,-88.081488,41.527895],
-  "geometry": {"coordinates":[-88.081488,41.527895],"type":"Point"}
+  "bbox": [
+    -88.081488,
+    41.527895,
+    -88.081488,
+    41.527895
+],
+  "geometry": {"coordinates":[-88.08148799999999,41.527895],"type":"Point"}
 }

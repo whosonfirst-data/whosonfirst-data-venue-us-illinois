@@ -2,13 +2,14 @@
   "id": 203098609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.808595,41.716079,-87.808595,41.716079",
     "geom:latitude":41.716079,
     "geom:longitude":-87.808595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9645 S 76th Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203098609,
-    "wof:lastmodified":1449026669,
+    "wof:lastmodified":1466494766,
     "wof:name":"Chicago Hawks",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hockey"
     ]
 },
-  "bbox": [-87.808595,41.716079,-87.808595,41.716079],
+  "bbox": [
+    -87.808595,
+    41.716079,
+    -87.808595,
+    41.716079
+],
   "geometry": {"coordinates":[-87.808595,41.716079],"type":"Point"}
 }

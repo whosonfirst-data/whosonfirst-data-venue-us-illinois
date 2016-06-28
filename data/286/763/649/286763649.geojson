@@ -2,13 +2,14 @@
   "id": 286763649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.281652,41.895787,-88.281652,41.895787",
     "geom:latitude":41.895787,
     "geom:longitude":-88.281652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Westfield Course",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286763649,
-    "wof:lastmodified":1449018074,
+    "wof:lastmodified":1466496949,
     "wof:name":"Placet Solutions Inc",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-88.281652,41.895787,-88.281652,41.895787],
-  "geometry": {"coordinates":[-88.281652,41.895787],"type":"Point"}
+  "bbox": [
+    -88.281652,
+    41.895787,
+    -88.281652,
+    41.895787
+],
+  "geometry": {"coordinates":[-88.28165199999999,41.895787],"type":"Point"}
 }

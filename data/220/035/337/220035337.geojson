@@ -2,13 +2,14 @@
   "id": 220035337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.131461,38.890654,-90.131461,38.890654",
     "geom:latitude":38.890654,
     "geom:longitude":-90.131461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Milton Rd",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220035337,
-    "wof:lastmodified":1449074691,
+    "wof:lastmodified":1466489369,
     "wof:name":"Hawkware Technologies",
     "wof:parent_id":85868935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-90.131461,38.890654,-90.131461,38.890654],
+  "bbox": [
+    -90.131461,
+    38.890654,
+    -90.131461,
+    38.890654
+],
   "geometry": {"coordinates":[-90.131461,38.890654],"type":"Point"}
 }

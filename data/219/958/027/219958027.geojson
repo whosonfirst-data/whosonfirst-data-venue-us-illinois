@@ -2,13 +2,14 @@
   "id": 219958027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105567,41.919527,-88.105567,41.919527",
     "geom:latitude":41.919527,
     "geom:longitude":-88.105567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Tower Blvd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219958027,
-    "wof:lastmodified":1449073156,
+    "wof:lastmodified":1466497284,
     "wof:name":"Chicago Electric Co",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.105567,41.919527,-88.105567,41.919527],
-  "geometry": {"coordinates":[-88.105567,41.919527],"type":"Point"}
+  "bbox": [
+    -88.105567,
+    41.919527,
+    -88.105567,
+    41.919527
+],
+  "geometry": {"coordinates":[-88.10556699999999,41.919527],"type":"Point"}
 }

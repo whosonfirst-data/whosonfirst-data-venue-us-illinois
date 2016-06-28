@@ -2,13 +2,14 @@
   "id": 220160519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08162,41.528177,-88.08162,41.528177",
     "geom:latitude":41.528177,
     "geom:longitude":-88.08162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N Chicago St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220160519,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466490905,
     "wof:name":"First Midwest Bank",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-88.08162,41.528177,-88.08162,41.528177],
+  "bbox": [
+    -88.08162,
+    41.528177,
+    -88.08162,
+    41.528177
+],
   "geometry": {"coordinates":[-88.08162,41.528177],"type":"Point"}
 }

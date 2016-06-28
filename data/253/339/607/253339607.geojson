@@ -2,13 +2,14 @@
   "id": 253339607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053429,41.444905,-88.053429,41.444905",
     "geom:latitude":41.444905,
     "geom:longitude":-88.053429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18140 W Breen Rd",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253339607,
-    "wof:lastmodified":1449064142,
+    "wof:lastmodified":1466493296,
     "wof:name":"Whattapair Inc",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-88.053429,41.444905,-88.053429,41.444905],
-  "geometry": {"coordinates":[-88.053429,41.444905],"type":"Point"}
+  "bbox": [
+    -88.053429,
+    41.444905,
+    -88.053429,
+    41.444905
+],
+  "geometry": {"coordinates":[-88.05342899999999,41.444905],"type":"Point"}
 }

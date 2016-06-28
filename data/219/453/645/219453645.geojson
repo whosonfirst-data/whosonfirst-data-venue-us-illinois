@@ -2,13 +2,14 @@
   "id": 219453645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.855122,41.353906,-88.855122,41.353906",
     "geom:latitude":41.353906,
     "geom:longitude":-88.855122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Marquette St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219453645,
-    "wof:lastmodified":1449073051,
+    "wof:lastmodified":1466492629,
     "wof:name":"Marquette Stl Sup Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "structural"
     ]
 },
-  "bbox": [-88.855122,41.353906,-88.855122,41.353906],
-  "geometry": {"coordinates":[-88.855122,41.353906],"type":"Point"}
+  "bbox": [
+    -88.855122,
+    41.353906,
+    -88.855122,
+    41.353906
+],
+  "geometry": {"coordinates":[-88.85512199999999,41.353906],"type":"Point"}
 }

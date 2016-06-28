@@ -2,13 +2,14 @@
   "id": 269697777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109801,41.799211,-88.109801,41.799211",
     "geom:latitude":41.799211,
     "geom:longitude":-88.109801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4743 Keel Ct",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269697777,
-    "wof:lastmodified":1449037649,
+    "wof:lastmodified":1466492377,
     "wof:name":"Ebridge",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foreign"
     ]
 },
-  "bbox": [-88.109801,41.799211,-88.109801,41.799211],
+  "bbox": [
+    -88.109801,
+    41.799211,
+    -88.109801,
+    41.799211
+],
   "geometry": {"coordinates":[-88.109801,41.799211],"type":"Point"}
 }

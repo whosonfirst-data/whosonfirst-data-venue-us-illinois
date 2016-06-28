@@ -2,13 +2,14 @@
   "id": 253363771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.434716,37.808949,-88.434716,37.808949",
     "geom:latitude":37.808949,
     "geom:longitude":-88.434716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 4th St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253363771,
-    "wof:lastmodified":1449065417,
+    "wof:lastmodified":1466493654,
     "wof:name":"Rehab Unlimited",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-88.434716,37.808949,-88.434716,37.808949],
-  "geometry": {"coordinates":[-88.434716,37.808949],"type":"Point"}
+  "bbox": [
+    -88.434716,
+    37.808949,
+    -88.434716,
+    37.808949
+],
+  "geometry": {"coordinates":[-88.43471599999999,37.808949],"type":"Point"}
 }

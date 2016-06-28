@@ -2,13 +2,14 @@
   "id": 236281435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.718225,41.922385,-87.718225,41.922385",
     "geom:latitude":41.922385,
     "geom:longitude":-87.718225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2242 N Monticello Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236281435,
-    "wof:lastmodified":1449004643,
+    "wof:lastmodified":1466492534,
     "wof:name":"2242 North Monticello Bldg",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.718225,41.922385,-87.718225,41.922385],
+  "bbox": [
+    -87.718225,
+    41.922385,
+    -87.718225,
+    41.922385
+],
   "geometry": {"coordinates":[-87.718225,41.922385],"type":"Point"}
 }

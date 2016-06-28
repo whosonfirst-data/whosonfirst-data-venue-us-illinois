@@ -2,13 +2,14 @@
   "id": 253654355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.544178,41.564223,-87.544178,41.564223",
     "geom:latitude":41.564223,
     "geom:longitude":-87.544178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18200 Chicago Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253654355,
-    "wof:lastmodified":1449063808,
+    "wof:lastmodified":1466497236,
     "wof:name":"Village of Lansing",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-87.544178,41.564223,-87.544178,41.564223],
+  "bbox": [
+    -87.544178,
+    41.564223,
+    -87.544178,
+    41.564223
+],
   "geometry": {"coordinates":[-87.544178,41.564223],"type":"Point"}
 }

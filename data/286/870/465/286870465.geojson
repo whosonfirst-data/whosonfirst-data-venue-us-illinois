@@ -2,13 +2,14 @@
   "id": 286870465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.784899,41.315572,-87.784899,41.315572",
     "geom:latitude":41.315572,
     "geom:longitude":-87.784899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31615 S Drecksler Rd",
     "sg:city":"Peotone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286870465,
-    "wof:lastmodified":1449015952,
+    "wof:lastmodified":1466497902,
     "wof:name":"Wheel Werks Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transporter"
     ]
 },
-  "bbox": [-87.784899,41.315572,-87.784899,41.315572],
+  "bbox": [
+    -87.784899,
+    41.315572,
+    -87.784899,
+    41.315572
+],
   "geometry": {"coordinates":[-87.784899,41.315572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269517553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633201,41.935744,-87.633201,41.935744",
     "geom:latitude":41.935744,
     "geom:longitude":-87.633201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2970 N Lake Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269517553,
-    "wof:lastmodified":1449037498,
+    "wof:lastmodified":1466489531,
     "wof:name":"Consider It Done",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.633201,41.935744,-87.633201,41.935744],
+  "bbox": [
+    -87.633201,
+    41.935744,
+    -87.633201,
+    41.935744
+],
   "geometry": {"coordinates":[-87.633201,41.935744],"type":"Point"}
 }

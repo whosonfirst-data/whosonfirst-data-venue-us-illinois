@@ -2,13 +2,14 @@
   "id": 270183983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157296,40.310105,-88.157296,40.310105",
     "geom:latitude":40.310105,
     "geom:longitude":-88.157296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Garrard St",
     "sg:city":"Rantoul",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270183983,
-    "wof:lastmodified":1449009959,
+    "wof:lastmodified":1466491767,
     "wof:name":"Edward Jones 02207",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.157296,40.310105,-88.157296,40.310105],
+  "bbox": [
+    -88.157296,
+    40.310105,
+    -88.157296,
+    40.310105
+],
   "geometry": {"coordinates":[-88.157296,40.310105],"type":"Point"}
 }

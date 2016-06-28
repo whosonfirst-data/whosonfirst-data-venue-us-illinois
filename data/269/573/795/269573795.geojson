@@ -2,13 +2,14 @@
   "id": 269573795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.793399,41.581115,-87.793399,41.581115",
     "geom:latitude":41.581115,
     "geom:longitude":-87.793399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17055 Harlem Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269573795,
-    "wof:lastmodified":1449038060,
+    "wof:lastmodified":1466490405,
     "wof:name":"Right At Home",
     "wof:parent_id":85890945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-87.793399,41.581115,-87.793399,41.581115],
-  "geometry": {"coordinates":[-87.793399,41.581115],"type":"Point"}
+  "bbox": [
+    -87.793399,
+    41.581115,
+    -87.793399,
+    41.581115
+],
+  "geometry": {"coordinates":[-87.79339899999999,41.581115],"type":"Point"}
 }

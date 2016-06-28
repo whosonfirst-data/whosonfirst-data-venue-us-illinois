@@ -2,13 +2,14 @@
   "id": 236700687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105771,41.859031,-88.105771,41.859031",
     "geom:latitude":41.859031,
     "geom:longitude":-88.105771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Main St",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236700687,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1466497070,
     "wof:name":"Malloys Save Way",
     "wof:parent_id":85891043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-88.105771,41.859031,-88.105771,41.859031],
+  "bbox": [
+    -88.105771,
+    41.859031,
+    -88.105771,
+    41.859031
+],
   "geometry": {"coordinates":[-88.105771,41.859031],"type":"Point"}
 }

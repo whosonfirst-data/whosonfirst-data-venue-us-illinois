@@ -2,13 +2,14 @@
   "id": 253361161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.714277,41.901368,-87.714277,41.901368",
     "geom:latitude":41.901368,
     "geom:longitude":-87.714277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 W Grand Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253361161,
-    "wof:lastmodified":1449064982,
+    "wof:lastmodified":1466493612,
     "wof:name":"West Grand Parole Office",
     "wof:parent_id":85867721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.714277,41.901368,-87.714277,41.901368],
+  "bbox": [
+    -87.714277,
+    41.901368,
+    -87.714277,
+    41.901368
+],
   "geometry": {"coordinates":[-87.714277,41.901368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219941331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.148318,41.97753,-88.148318,41.97753",
     "geom:latitude":41.97753,
     "geom:longitude":-88.148318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Arlington Dr",
     "sg:city":"Hanover Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219941331,
-    "wof:lastmodified":1449072495,
+    "wof:lastmodified":1466497172,
     "wof:name":"ACS Automation Component's",
     "wof:parent_id":85839631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-88.148318,41.97753,-88.148318,41.97753],
+  "bbox": [
+    -88.148318,
+    41.97753,
+    -88.148318,
+    41.97753
+],
   "geometry": {"coordinates":[-88.148318,41.97753],"type":"Point"}
 }

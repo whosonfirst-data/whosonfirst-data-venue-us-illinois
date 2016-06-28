@@ -2,13 +2,14 @@
   "id": 303194689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64848,41.939918,-87.64848,41.939918",
     "geom:latitude":41.939918,
     "geom:longitude":-87.64848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303194689,
-    "wof:lastmodified":1449000208,
+    "wof:lastmodified":1466492957,
     "wof:name":"Aglo-Archdiocesan Out Reach",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.64848,41.939918,-87.64848,41.939918],
-  "geometry": {"coordinates":[-87.64848,41.939918],"type":"Point"}
+  "bbox": [
+    -87.64848,
+    41.939918,
+    -87.64848,
+    41.939918
+],
+  "geometry": {"coordinates":[-87.64848000000001,41.939918],"type":"Point"}
 }

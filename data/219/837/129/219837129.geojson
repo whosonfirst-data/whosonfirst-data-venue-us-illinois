@@ -2,13 +2,14 @@
   "id": 219837129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.165774,41.867886,-90.165774,41.867886",
     "geom:latitude":41.867886,
     "geom:longitude":-90.165774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 4th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219837129,
-    "wof:lastmodified":1449070943,
+    "wof:lastmodified":1466496644,
     "wof:name":"Fulton Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-90.165774,41.867886,-90.165774,41.867886],
+  "bbox": [
+    -90.165774,
+    41.867886,
+    -90.165774,
+    41.867886
+],
   "geometry": {"coordinates":[-90.165774,41.867886],"type":"Point"}
 }

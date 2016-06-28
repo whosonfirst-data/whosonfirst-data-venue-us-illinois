@@ -2,13 +2,14 @@
   "id": 236626215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.868625,41.064063,-87.868625,41.064063",
     "geom:latitude":41.064063,
     "geom:longitude":-87.868625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3886 S US Hwy 45 52",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236626215,
-    "wof:lastmodified":1449005252,
+    "wof:lastmodified":1466496722,
     "wof:name":"Kankakee Fair & Exposition Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rooms"
     ]
 },
-  "bbox": [-87.868625,41.064063,-87.868625,41.064063],
-  "geometry": {"coordinates":[-87.868625,41.064063],"type":"Point"}
+  "bbox": [
+    -87.868625,
+    41.064063,
+    -87.868625,
+    41.064063
+],
+  "geometry": {"coordinates":[-87.86862499999999,41.064063],"type":"Point"}
 }

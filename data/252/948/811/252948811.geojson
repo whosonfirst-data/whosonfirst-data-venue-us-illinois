@@ -2,13 +2,14 @@
   "id": 252948811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.790321,41.874459,-87.790321,41.874459",
     "geom:latitude":41.874459,
     "geom:longitude":-87.790321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Clarence Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252948811,
-    "wof:lastmodified":1449006279,
+    "wof:lastmodified":1466492107,
     "wof:name":"Duran McKnight Marketing",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.790321,41.874459,-87.790321,41.874459],
-  "geometry": {"coordinates":[-87.790321,41.874459],"type":"Point"}
+  "bbox": [
+    -87.790321,
+    41.874459,
+    -87.790321,
+    41.874459
+],
+  "geometry": {"coordinates":[-87.79032100000001,41.874459],"type":"Point"}
 }

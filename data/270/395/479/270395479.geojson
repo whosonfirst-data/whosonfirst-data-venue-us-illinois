@@ -2,13 +2,14 @@
   "id": 270395479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223773,40.106045,-88.223773,40.106045",
     "geom:latitude":40.106045,
     "geom:longitude":-88.223773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 S Goodwin Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270395479,
-    "wof:lastmodified":1449010720,
+    "wof:lastmodified":1466495053,
     "wof:name":"Creative Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-88.223773,40.106045,-88.223773,40.106045],
-  "geometry": {"coordinates":[-88.223773,40.106045],"type":"Point"}
+  "bbox": [
+    -88.223773,
+    40.106045,
+    -88.223773,
+    40.106045
+],
+  "geometry": {"coordinates":[-88.22377299999999,40.106045],"type":"Point"}
 }

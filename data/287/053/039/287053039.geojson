@@ -2,13 +2,14 @@
   "id": 287053039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.155503,42.266988,-88.155503,42.266988",
     "geom:latitude":42.266988,
     "geom:longitude":-88.155503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Larkdale Row",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287053039,
-    "wof:lastmodified":1449000832,
+    "wof:lastmodified":1466490814,
     "wof:name":"Becker's Painting",
     "wof:parent_id":85843889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-88.155503,42.266988,-88.155503,42.266988],
+  "bbox": [
+    -88.155503,
+    42.266988,
+    -88.155503,
+    42.266988
+],
   "geometry": {"coordinates":[-88.155503,42.266988],"type":"Point"}
 }

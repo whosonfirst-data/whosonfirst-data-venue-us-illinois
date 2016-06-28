@@ -2,13 +2,14 @@
   "id": 287265751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100819,41.834873,-88.100819,41.834873",
     "geom:latitude":41.834873,
     "geom:longitude":-88.100819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Town Sq",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287265751,
-    "wof:lastmodified":1449000960,
+    "wof:lastmodified":1466494217,
     "wof:name":"Casual Corner",
     "wof:parent_id":85891047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.100819,41.834873,-88.100819,41.834873],
+  "bbox": [
+    -88.100819,
+    41.834873,
+    -88.100819,
+    41.834873
+],
   "geometry": {"coordinates":[-88.100819,41.834873],"type":"Point"}
 }

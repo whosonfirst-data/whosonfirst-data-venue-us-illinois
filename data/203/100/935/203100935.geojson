@@ -2,13 +2,14 @@
   "id": 203100935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.101169,42.258383,-89.101169,42.258383",
     "geom:latitude":42.258383,
     "geom:longitude":-89.101169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 S Main St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203100935,
-    "wof:lastmodified":1449026366,
+    "wof:lastmodified":1466494790,
     "wof:name":"Holiness Church Of God",
     "wof:parent_id":85880419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.101169,42.258383,-89.101169,42.258383],
+  "bbox": [
+    -89.101169,
+    42.258383,
+    -89.101169,
+    42.258383
+],
   "geometry": {"coordinates":[-89.101169,42.258383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287216701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.030279,41.52294,-88.030279,41.52294",
     "geom:latitude":41.52294,
     "geom:longitude":-88.030279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 E Washington St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287216701,
-    "wof:lastmodified":1449001479,
+    "wof:lastmodified":1466493457,
     "wof:name":"H & R Pump Co Inc",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-88.030279,41.52294,-88.030279,41.52294],
-  "geometry": {"coordinates":[-88.030279,41.52294],"type":"Point"}
+  "bbox": [
+    -88.030279,
+    41.52294,
+    -88.030279,
+    41.52294
+],
+  "geometry": {"coordinates":[-88.03027899999999,41.52294],"type":"Point"}
 }

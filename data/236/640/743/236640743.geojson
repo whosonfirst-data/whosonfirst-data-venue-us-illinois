@@ -2,13 +2,14 @@
   "id": 236640743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.606681,41.811427,-87.606681,41.811427",
     "geom:latitude":41.811427,
     "geom:longitude":-87.606681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4504 S Cottage Grove Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236640743,
-    "wof:lastmodified":1449003023,
+    "wof:lastmodified":1466496802,
     "wof:name":"Smittys Barber Shop",
     "wof:parent_id":85867601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.606681,41.811427,-87.606681,41.811427],
-  "geometry": {"coordinates":[-87.606681,41.811427],"type":"Point"}
+  "bbox": [
+    -87.606681,
+    41.811427,
+    -87.606681,
+    41.811427
+],
+  "geometry": {"coordinates":[-87.60668099999999,41.811427],"type":"Point"}
 }

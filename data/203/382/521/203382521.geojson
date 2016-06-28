@@ -2,13 +2,14 @@
   "id": 203382521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.19948,41.883702,-88.19948,41.883702",
     "geom:latitude":41.883702,
     "geom:longitude":-88.19948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Chicago St",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203382521,
-    "wof:lastmodified":1449025422,
+    "wof:lastmodified":1466491383,
     "wof:name":"American Paper & Film Inc",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-88.19948,41.883702,-88.19948,41.883702],
-  "geometry": {"coordinates":[-88.19948,41.883702],"type":"Point"}
+  "bbox": [
+    -88.19948,
+    41.883702,
+    -88.19948,
+    41.883702
+],
+  "geometry": {"coordinates":[-88.19947999999999,41.883702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236065219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.141618,42.280303,-88.141618,42.280303",
     "geom:latitude":42.280303,
     "geom:longitude":-88.141618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Karl Ct",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236065219,
-    "wof:lastmodified":1449005203,
+    "wof:lastmodified":1466489753,
     "wof:name":"Us Flavors & Fragrances Inc",
     "wof:parent_id":85867869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "flavoring"
     ]
 },
-  "bbox": [-88.141618,42.280303,-88.141618,42.280303],
-  "geometry": {"coordinates":[-88.141618,42.280303],"type":"Point"}
+  "bbox": [
+    -88.141618,
+    42.280303,
+    -88.141618,
+    42.280303
+],
+  "geometry": {"coordinates":[-88.14161799999999,42.280303],"type":"Point"}
 }

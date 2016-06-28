@@ -2,13 +2,14 @@
   "id": 202991459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.101763,41.342072,-89.101763,41.342072",
     "geom:latitude":41.342072,
     "geom:longitude":-89.101763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Balbo Rd",
     "sg:city":"La Salle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202991459,
-    "wof:lastmodified":1449060905,
+    "wof:lastmodified":1466494266,
     "wof:name":"Inter Urban Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.101763,41.342072,-89.101763,41.342072],
-  "geometry": {"coordinates":[-89.101763,41.342072],"type":"Point"}
+  "bbox": [
+    -89.101763,
+    41.342072,
+    -89.101763,
+    41.342072
+],
+  "geometry": {"coordinates":[-89.10176300000001,41.342072],"type":"Point"}
 }

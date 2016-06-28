@@ -2,13 +2,14 @@
   "id": 286887733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.654396,41.93816,-87.654396,41.93816",
     "geom:latitude":41.93816,
     "geom:longitude":-87.654396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W Barry Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286887733,
-    "wof:lastmodified":1449017538,
+    "wof:lastmodified":1466497909,
     "wof:name":"T Tauri Enterprises LLC",
     "wof:parent_id":85866807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.654396,41.93816,-87.654396,41.93816],
-  "geometry": {"coordinates":[-87.654396,41.93816],"type":"Point"}
+  "bbox": [
+    -87.654396,
+    41.93816,
+    -87.654396,
+    41.93816
+],
+  "geometry": {"coordinates":[-87.65439600000001,41.93816],"type":"Point"}
 }

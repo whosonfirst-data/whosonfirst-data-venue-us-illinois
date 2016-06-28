@@ -2,13 +2,14 @@
   "id": 202603727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309977,41.18849,-88.309977,41.18849",
     "geom:latitude":41.18849,
     "geom:longitude":-88.309977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Monroe St",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202603727,
-    "wof:lastmodified":1449062265,
+    "wof:lastmodified":1466489705,
     "wof:name":"Church Of Hope",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.309977,41.18849,-88.309977,41.18849],
+  "bbox": [
+    -88.309977,
+    41.18849,
+    -88.309977,
+    41.18849
+],
   "geometry": {"coordinates":[-88.309977,41.18849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252804713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64049,41.940177,-87.64049,41.940177",
     "geom:latitude":41.940177,
     "geom:longitude":-87.64049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252804713,
-    "wof:lastmodified":1449006153,
+    "wof:lastmodified":1466490244,
     "wof:name":"Mud Pie Productions",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-87.64049,41.940177,-87.64049,41.940177],
+  "bbox": [
+    -87.64049,
+    41.940177,
+    -87.64049,
+    41.940177
+],
   "geometry": {"coordinates":[-87.64049,41.940177],"type":"Point"}
 }

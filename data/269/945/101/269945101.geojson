@@ -2,13 +2,14 @@
   "id": 269945101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.958619,40.111398,-87.958619,40.111398",
     "geom:latitude":40.111398,
     "geom:longitude":-87.958619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Lincoln Ave",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269945101,
-    "wof:lastmodified":1449036351,
+    "wof:lastmodified":1466496044,
     "wof:name":"Ogden Township",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-87.958619,40.111398,-87.958619,40.111398],
+  "bbox": [
+    -87.958619,
+    40.111398,
+    -87.958619,
+    40.111398
+],
   "geometry": {"coordinates":[-87.958619,40.111398],"type":"Point"}
 }

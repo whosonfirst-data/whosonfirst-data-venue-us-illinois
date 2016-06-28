@@ -2,13 +2,14 @@
   "id": 287147485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.254944,40.128358,-88.254944,40.128358",
     "geom:latitude":40.128358,
     "geom:longitude":-88.254944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Hagan St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287147485,
-    "wof:lastmodified":1449001483,
+    "wof:lastmodified":1466492338,
     "wof:name":"IBM",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.254944,40.128358,-88.254944,40.128358],
-  "geometry": {"coordinates":[-88.254944,40.128358],"type":"Point"}
+  "bbox": [
+    -88.254944,
+    40.128358,
+    -88.254944,
+    40.128358
+],
+  "geometry": {"coordinates":[-88.25494399999999,40.128358],"type":"Point"}
 }

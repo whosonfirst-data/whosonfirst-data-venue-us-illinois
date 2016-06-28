@@ -2,13 +2,14 @@
   "id": 202483805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.606496,38.583059,-89.606496,38.583059",
     "geom:latitude":38.583059,
     "geom:longitude":-89.606496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Highline Rd",
     "sg:city":"Aviston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202483805,
-    "wof:lastmodified":1449062116,
+    "wof:lastmodified":1466494854,
     "wof:name":"Dall Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.606496,38.583059,-89.606496,38.583059],
-  "geometry": {"coordinates":[-89.606496,38.583059],"type":"Point"}
+  "bbox": [
+    -89.606496,
+    38.583059,
+    -89.606496,
+    38.583059
+],
+  "geometry": {"coordinates":[-89.60649600000001,38.583059],"type":"Point"}
 }

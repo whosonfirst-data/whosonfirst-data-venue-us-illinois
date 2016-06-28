@@ -2,13 +2,14 @@
   "id": 185836277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007849,40.152279,-90.007849,40.152279",
     "geom:latitude":40.152279,
     "geom:longitude":-90.007849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Walnut St",
     "sg:city":"Kilbourne",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185836277,
-    "wof:lastmodified":1449007661,
+    "wof:lastmodified":1466489251,
     "wof:name":"Kilbourne Fire Protection District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-90.007849,40.152279,-90.007849,40.152279],
-  "geometry": {"coordinates":[-90.007849,40.152279],"type":"Point"}
+  "bbox": [
+    -90.007849,
+    40.152279,
+    -90.007849,
+    40.152279
+],
+  "geometry": {"coordinates":[-90.00784899999999,40.152279],"type":"Point"}
 }

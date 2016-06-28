@@ -2,13 +2,14 @@
   "id": 236665365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.255406,42.047636,-88.255406,42.047636",
     "geom:latitude":42.047636,
     "geom:longitude":-88.255406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Waverly Dr",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236665365,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466496988,
     "wof:name":"Pediatric Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.255406,42.047636,-88.255406,42.047636],
-  "geometry": {"coordinates":[-88.255406,42.047636],"type":"Point"}
+  "bbox": [
+    -88.255406,
+    42.047636,
+    -88.255406,
+    42.047636
+],
+  "geometry": {"coordinates":[-88.25540599999999,42.047636],"type":"Point"}
 }

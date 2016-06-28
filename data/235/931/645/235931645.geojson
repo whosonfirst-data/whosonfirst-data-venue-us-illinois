@@ -2,13 +2,14 @@
   "id": 235931645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.256669,40.007865,-91.256669,40.007865",
     "geom:latitude":40.007865,
     "geom:longitude":-91.256669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 E 1332nd St",
     "sg:city":"Fowler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235931645,
-    "wof:lastmodified":1449008580,
+    "wof:lastmodified":1466488970,
     "wof:name":"William F Klodt",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reader"
     ]
 },
-  "bbox": [-91.256669,40.007865,-91.256669,40.007865],
+  "bbox": [
+    -91.256669,
+    40.007865,
+    -91.256669,
+    40.007865
+],
   "geometry": {"coordinates":[-91.256669,40.007865],"type":"Point"}
 }

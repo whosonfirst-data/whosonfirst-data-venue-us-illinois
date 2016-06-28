@@ -2,13 +2,14 @@
   "id": 236000123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.176253,37.690264,-89.176253,37.690264",
     "geom:latitude":37.690264,
     "geom:longitude":-89.176253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Phillips Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236000123,
-    "wof:lastmodified":1449002071,
+    "wof:lastmodified":1466495624,
     "wof:name":"Sarver & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-89.176253,37.690264,-89.176253,37.690264],
+  "bbox": [
+    -89.176253,
+    37.690264,
+    -89.176253,
+    37.690264
+],
   "geometry": {"coordinates":[-89.176253,37.690264],"type":"Point"}
 }

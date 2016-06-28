@@ -2,13 +2,14 @@
   "id": 270188225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.41254,40.084215,-88.41254,40.084215",
     "geom:latitude":40.084215,
     "geom:longitude":-88.41254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Co Rd 1400 N",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270188225,
-    "wof:lastmodified":1449009852,
+    "wof:lastmodified":1466491837,
     "wof:name":"Myerscough Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.41254,40.084215,-88.41254,40.084215],
-  "geometry": {"coordinates":[-88.41254,40.084215],"type":"Point"}
+  "bbox": [
+    -88.41254,
+    40.084215,
+    -88.41254,
+    40.084215
+],
+  "geometry": {"coordinates":[-88.41254000000001,40.084215],"type":"Point"}
 }

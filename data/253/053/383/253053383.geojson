@@ -2,13 +2,14 @@
   "id": 253053383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.658713,41.983647,-87.658713,41.983647",
     "geom:latitude":41.983647,
     "geom:longitude":-87.658713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 W Bryn Mawr Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253053383,
-    "wof:lastmodified":1449063368,
+    "wof:lastmodified":1466489651,
     "wof:name":"Jean Sunflower Store",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "suit"
     ]
 },
-  "bbox": [-87.658713,41.983647,-87.658713,41.983647],
-  "geometry": {"coordinates":[-87.658713,41.983647],"type":"Point"}
+  "bbox": [
+    -87.658713,
+    41.983647,
+    -87.658713,
+    41.983647
+],
+  "geometry": {"coordinates":[-87.65871300000001,41.983647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286329059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.243113,42.437205,-88.243113,42.437205",
     "geom:latitude":42.437205,
     "geom:longitude":-88.243113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 N US Hwy 12",
     "sg:city":"Spring Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286329059,
-    "wof:lastmodified":1449016003,
+    "wof:lastmodified":1466490857,
     "wof:name":"New Echoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-88.243113,42.437205,-88.243113,42.437205],
-  "geometry": {"coordinates":[-88.243113,42.437205],"type":"Point"}
+  "bbox": [
+    -88.243113,
+    42.437205,
+    -88.243113,
+    42.437205
+],
+  "geometry": {"coordinates":[-88.24311299999999,42.437205],"type":"Point"}
 }

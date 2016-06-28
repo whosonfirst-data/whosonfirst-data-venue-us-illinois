@@ -2,13 +2,14 @@
   "id": 202849015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.635615,40.135625,-87.635615,40.135625",
     "geom:latitude":40.135625,
     "geom:longitude":-87.635615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 N Gilbert St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202849015,
-    "wof:lastmodified":1449060573,
+    "wof:lastmodified":1466492561,
     "wof:name":"Carle Medical Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.635615,40.135625,-87.635615,40.135625],
+  "bbox": [
+    -87.635615,
+    40.135625,
+    -87.635615,
+    40.135625
+],
   "geometry": {"coordinates":[-87.635615,40.135625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252790005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951203,42.092846,-87.951203,42.092846",
     "geom:latitude":42.092846,
     "geom:longitude":-87.951203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 E Rand Rd",
     "sg:city":"Arlington Hts",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252790005,
-    "wof:lastmodified":1449006255,
+    "wof:lastmodified":1466490045,
     "wof:name":"Flower Garden Day Care Ctr",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.951203,42.092846,-87.951203,42.092846],
-  "geometry": {"coordinates":[-87.951203,42.092846],"type":"Point"}
+  "bbox": [
+    -87.951203,
+    42.092846,
+    -87.951203,
+    42.092846
+],
+  "geometry": {"coordinates":[-87.95120300000001,42.092846],"type":"Point"}
 }

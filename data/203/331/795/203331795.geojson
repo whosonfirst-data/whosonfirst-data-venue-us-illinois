@@ -2,13 +2,14 @@
   "id": 203331795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655535,41.997131,-87.655535,41.997131",
     "geom:latitude":41.997131,
     "geom:longitude":-87.655535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6363 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203331795,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466490813,
     "wof:name":"Company Magazine",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-87.655535,41.997131,-87.655535,41.997131],
+  "bbox": [
+    -87.655535,
+    41.997131,
+    -87.655535,
+    41.997131
+],
   "geometry": {"coordinates":[-87.655535,41.997131],"type":"Point"}
 }

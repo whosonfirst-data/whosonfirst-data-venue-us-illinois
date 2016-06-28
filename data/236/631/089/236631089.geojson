@@ -2,13 +2,14 @@
   "id": 236631089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.95704,40.620487,-88.95704,40.620487",
     "geom:latitude":40.620487,
     "geom:longitude":-88.95704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16312 E 2300 North Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236631089,
-    "wof:lastmodified":1449002505,
+    "wof:lastmodified":1466496749,
     "wof:name":"Outlaw Trucking Inc",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.95704,40.620487,-88.95704,40.620487],
-  "geometry": {"coordinates":[-88.95704,40.620487],"type":"Point"}
+  "bbox": [
+    -88.95704,
+    40.620487,
+    -88.95704,
+    40.620487
+],
+  "geometry": {"coordinates":[-88.95704000000001,40.620487],"type":"Point"}
 }

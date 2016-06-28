@@ -2,13 +2,14 @@
   "id": 202759289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.761372,41.74887,-87.761372,41.74887",
     "geom:latitude":41.74887,
     "geom:longitude":-87.761372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5618 W 79th St",
     "sg:city":"Burbank",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202759289,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466491470,
     "wof:name":"Dungeon Games",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-87.761372,41.74887,-87.761372,41.74887],
-  "geometry": {"coordinates":[-87.761372,41.74887],"type":"Point"}
+  "bbox": [
+    -87.761372,
+    41.74887,
+    -87.761372,
+    41.74887
+],
+  "geometry": {"coordinates":[-87.76137199999999,41.74887],"type":"Point"}
 }

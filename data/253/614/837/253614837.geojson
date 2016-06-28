@@ -2,13 +2,14 @@
   "id": 253614837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.460298,39.627052,-90.460298,39.627052",
     "geom:latitude":39.627052,
     "geom:longitude":-90.460298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 S Elm St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253614837,
-    "wof:lastmodified":1449065876,
+    "wof:lastmodified":1466496973,
     "wof:name":"Winchester Cmnty Schl Dst 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "administrative"
     ]
 },
-  "bbox": [-90.460298,39.627052,-90.460298,39.627052],
-  "geometry": {"coordinates":[-90.460298,39.627052],"type":"Point"}
+  "bbox": [
+    -90.460298,
+    39.627052,
+    -90.460298,
+    39.627052
+],
+  "geometry": {"coordinates":[-90.46029799999999,39.627052],"type":"Point"}
 }

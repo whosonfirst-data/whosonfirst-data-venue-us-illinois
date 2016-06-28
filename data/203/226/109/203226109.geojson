@@ -2,13 +2,14 @@
   "id": 203226109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.784751,41.714505,-87.784751,41.714505",
     "geom:latitude":41.714505,
     "geom:longitude":-87.784751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9726 Nashville Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203226109,
-    "wof:lastmodified":1449026339,
+    "wof:lastmodified":1466489640,
     "wof:name":"Anderson's Painting Co",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-87.784751,41.714505,-87.784751,41.714505],
+  "bbox": [
+    -87.784751,
+    41.714505,
+    -87.784751,
+    41.714505
+],
   "geometry": {"coordinates":[-87.784751,41.714505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269525645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.877507,37.895505,-88.877507,37.895505",
     "geom:latitude":37.895505,
     "geom:longitude":-88.877507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Dunston Rd",
     "sg:city":"West Frankfort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269525645,
-    "wof:lastmodified":1449038328,
+    "wof:lastmodified":1466489652,
     "wof:name":"Budmark Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-88.877507,37.895505,-88.877507,37.895505],
-  "geometry": {"coordinates":[-88.877507,37.895505],"type":"Point"}
+  "bbox": [
+    -88.877507,
+    37.895505,
+    -88.877507,
+    37.895505
+],
+  "geometry": {"coordinates":[-88.87750699999999,37.895505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203258777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616516,41.81353,-87.616516,41.81353",
     "geom:latitude":41.81353,
     "geom:longitude":-87.616516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 S King Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203258777,
-    "wof:lastmodified":1449026434,
+    "wof:lastmodified":1466490010,
     "wof:name":"Gavin Bros Plumbing",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.616516,41.81353,-87.616516,41.81353],
+  "bbox": [
+    -87.616516,
+    41.81353,
+    -87.616516,
+    41.81353
+],
   "geometry": {"coordinates":[-87.616516,41.81353],"type":"Point"}
 }

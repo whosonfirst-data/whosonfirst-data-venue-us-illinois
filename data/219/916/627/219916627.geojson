@@ -2,13 +2,14 @@
   "id": 219916627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.231451,39.73133,-90.231451,39.73133",
     "geom:latitude":39.73133,
     "geom:longitude":-90.231451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Beecher Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219916627,
-    "wof:lastmodified":1449072312,
+    "wof:lastmodified":1466497202,
     "wof:name":"Leonard Pinney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-90.231451,39.73133,-90.231451,39.73133],
-  "geometry": {"coordinates":[-90.231451,39.73133],"type":"Point"}
+  "bbox": [
+    -90.231451,
+    39.73133,
+    -90.231451,
+    39.73133
+],
+  "geometry": {"coordinates":[-90.23145100000001,39.73133],"type":"Point"}
 }

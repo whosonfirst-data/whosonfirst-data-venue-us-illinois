@@ -2,13 +2,14 @@
   "id": 219666675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.95754,38.522277,-89.95754,38.522277",
     "geom:latitude":38.522277,
     "geom:longitude":-89.95754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 E Main St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219666675,
-    "wof:lastmodified":1449071683,
+    "wof:lastmodified":1466495125,
     "wof:name":"Haege's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-89.95754,38.522277,-89.95754,38.522277],
-  "geometry": {"coordinates":[-89.95754,38.522277],"type":"Point"}
+  "bbox": [
+    -89.95754,
+    38.522277,
+    -89.95754,
+    38.522277
+],
+  "geometry": {"coordinates":[-89.95753999999999,38.522277],"type":"Point"}
 }

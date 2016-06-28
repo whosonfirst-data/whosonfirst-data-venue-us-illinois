@@ -2,13 +2,14 @@
   "id": 253380643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.582034,41.752596,-87.582034,41.752596",
     "geom:latitude":41.752596,
     "geom:longitude":-87.582034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7837 S Ridgeland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253380643,
-    "wof:lastmodified":1449064191,
+    "wof:lastmodified":1466493917,
     "wof:name":"Holton Cartage Inc",
     "wof:parent_id":85867561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.582034,41.752596,-87.582034,41.752596],
-  "geometry": {"coordinates":[-87.582034,41.752596],"type":"Point"}
+  "bbox": [
+    -87.582034,
+    41.752596,
+    -87.582034,
+    41.752596
+],
+  "geometry": {"coordinates":[-87.58203399999999,41.752596],"type":"Point"}
 }

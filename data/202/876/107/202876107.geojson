@@ -2,13 +2,14 @@
   "id": 202876107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.364252,40.146424,-89.364252,40.146424",
     "geom:latitude":40.146424,
     "geom:longitude":-89.364252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Pulaski St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202876107,
-    "wof:lastmodified":1449060620,
+    "wof:lastmodified":1466492895,
     "wof:name":"Treasure Chest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.364252,40.146424,-89.364252,40.146424],
-  "geometry": {"coordinates":[-89.364252,40.146424],"type":"Point"}
+  "bbox": [
+    -89.364252,
+    40.146424,
+    -89.364252,
+    40.146424
+],
+  "geometry": {"coordinates":[-89.36425199999999,40.146424],"type":"Point"}
 }

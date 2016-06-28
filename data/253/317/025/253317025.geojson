@@ -2,13 +2,14 @@
   "id": 253317025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.228657,40.110387,-88.228657,40.110387",
     "geom:latitude":40.110387,
     "geom:longitude":-88.228657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 W Green St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253317025,
-    "wof:lastmodified":1449064168,
+    "wof:lastmodified":1466492966,
     "wof:name":"University of Illinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.228657,40.110387,-88.228657,40.110387],
+  "bbox": [
+    -88.228657,
+    40.110387,
+    -88.228657,
+    40.110387
+],
   "geometry": {"coordinates":[-88.228657,40.110387],"type":"Point"}
 }

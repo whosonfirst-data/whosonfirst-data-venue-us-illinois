@@ -2,13 +2,14 @@
   "id": 219199717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.494008,41.48531,-90.494008,41.48531",
     "geom:latitude":41.48531,
     "geom:longitude":-90.494008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 30th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219199717,
-    "wof:lastmodified":1449070751,
+    "wof:lastmodified":1466489479,
     "wof:name":"Midwest Management Quad CIT",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.494008,41.48531,-90.494008,41.48531],
-  "geometry": {"coordinates":[-90.494008,41.48531],"type":"Point"}
+  "bbox": [
+    -90.494008,
+    41.48531,
+    -90.494008,
+    41.48531
+],
+  "geometry": {"coordinates":[-90.49400799999999,41.48531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270312267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.355292,40.158602,-89.355292,40.158602",
     "geom:latitude":40.158602,
     "geom:longitude":-89.355292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 N Kankakee St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270312267,
-    "wof:lastmodified":1449009873,
+    "wof:lastmodified":1466493776,
     "wof:name":"Wunder Bicycle Shop & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.355292,40.158602,-89.355292,40.158602],
-  "geometry": {"coordinates":[-89.355292,40.158602],"type":"Point"}
+  "bbox": [
+    -89.355292,
+    40.158602,
+    -89.355292,
+    40.158602
+],
+  "geometry": {"coordinates":[-89.35529200000001,40.158602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269883085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.70006,41.575577,-87.70006,41.575577",
     "geom:latitude":41.575577,
     "geom:longitude":-87.70006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Hazel Ln",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269883085,
-    "wof:lastmodified":1449038246,
+    "wof:lastmodified":1466495308,
     "wof:name":"Deans Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.70006,41.575577,-87.70006,41.575577],
-  "geometry": {"coordinates":[-87.70006,41.575577],"type":"Point"}
+  "bbox": [
+    -87.70006,
+    41.575577,
+    -87.70006,
+    41.575577
+],
+  "geometry": {"coordinates":[-87.70005999999999,41.575577],"type":"Point"}
 }

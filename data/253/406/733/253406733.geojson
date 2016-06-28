@@ -2,13 +2,14 @@
   "id": 253406733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.349947,40.157687,-89.349947,40.157687",
     "geom:latitude":40.157687,
     "geom:longitude":-89.349947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Kickapoo St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253406733,
-    "wof:lastmodified":1449064411,
+    "wof:lastmodified":1466494344,
     "wof:name":"Lighthouse Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-89.349947,40.157687,-89.349947,40.157687],
+  "bbox": [
+    -89.349947,
+    40.157687,
+    -89.349947,
+    40.157687
+],
   "geometry": {"coordinates":[-89.349947,40.157687],"type":"Point"}
 }

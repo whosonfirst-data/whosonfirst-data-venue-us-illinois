@@ -2,13 +2,14 @@
   "id": 286362921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.403303,39.927989,-91.403303,39.927989",
     "geom:latitude":39.927989,
     "geom:longitude":-91.403303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 8th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286362921,
-    "wof:lastmodified":1449017092,
+    "wof:lastmodified":1466491368,
     "wof:name":"Quincy Early Childhood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.403303,39.927989,-91.403303,39.927989],
-  "geometry": {"coordinates":[-91.403303,39.927989],"type":"Point"}
+  "bbox": [
+    -91.403303,
+    39.927989,
+    -91.403303,
+    39.927989
+],
+  "geometry": {"coordinates":[-91.40330299999999,39.927989],"type":"Point"}
 }

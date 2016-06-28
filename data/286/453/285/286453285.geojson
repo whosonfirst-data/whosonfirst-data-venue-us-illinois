@@ -2,13 +2,14 @@
   "id": 286453285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.801223,41.686094,-87.801223,41.686094",
     "geom:latitude":41.686094,
     "geom:longitude":-87.801223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7345 W 113th St",
     "sg:city":"Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286453285,
-    "wof:lastmodified":1449017389,
+    "wof:lastmodified":1466492795,
     "wof:name":"Cleaning Exchange Inc",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.801223,41.686094,-87.801223,41.686094],
-  "geometry": {"coordinates":[-87.801223,41.686094],"type":"Point"}
+  "bbox": [
+    -87.801223,
+    41.686094,
+    -87.801223,
+    41.686094
+],
+  "geometry": {"coordinates":[-87.80122299999999,41.686094],"type":"Point"}
 }

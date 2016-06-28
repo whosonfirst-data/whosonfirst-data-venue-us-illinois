@@ -2,13 +2,14 @@
   "id": 203030859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.639566,41.938417,-87.639566,41.938417",
     "geom:latitude":41.938417,
     "geom:longitude":-87.639566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203030859,
-    "wof:lastmodified":1449025613,
+    "wof:lastmodified":1466493164,
     "wof:name":"Astor Cleaners",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.639566,41.938417,-87.639566,41.938417],
+  "bbox": [
+    -87.639566,
+    41.938417,
+    -87.639566,
+    41.938417
+],
   "geometry": {"coordinates":[-87.639566,41.938417],"type":"Point"}
 }

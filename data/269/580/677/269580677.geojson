@@ -2,13 +2,14 @@
   "id": 269580677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.318087,41.763056,-88.318087,41.763056",
     "geom:latitude":41.763056,
     "geom:longitude":-88.318087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Oak Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":269580677,
-    "wof:lastmodified":1449037731,
+    "wof:lastmodified":1466490516,
     "wof:name":"San Fransisco De Asis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.318087,41.763056,-88.318087,41.763056],
-  "geometry": {"coordinates":[-88.318087,41.763056],"type":"Point"}
+  "bbox": [
+    -88.318087,
+    41.763056,
+    -88.318087,
+    41.763056
+],
+  "geometry": {"coordinates":[-88.31808700000001,41.763056],"type":"Point"}
 }

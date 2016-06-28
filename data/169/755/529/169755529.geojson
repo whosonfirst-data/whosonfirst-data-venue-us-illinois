@@ -2,13 +2,14 @@
   "id": 169755529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.653995,39.186672,-89.653995,39.186672",
     "geom:latitude":39.186672,
     "geom:longitude":-89.653995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 N Monroe St",
     "sg:city":"Litchfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169755529,
-    "wof:lastmodified":1449033614,
+    "wof:lastmodified":1466493621,
     "wof:name":"Zeo-Rain Water Treatment",
     "wof:parent_id":85867927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supplies-commercial"
     ]
 },
-  "bbox": [-89.653995,39.186672,-89.653995,39.186672],
-  "geometry": {"coordinates":[-89.653995,39.186672],"type":"Point"}
+  "bbox": [
+    -89.653995,
+    39.186672,
+    -89.653995,
+    39.186672
+],
+  "geometry": {"coordinates":[-89.65399499999999,39.186672],"type":"Point"}
 }

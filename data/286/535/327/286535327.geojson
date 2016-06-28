@@ -2,13 +2,14 @@
   "id": 286535327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.839069,42.125212,-87.839069,42.125212",
     "geom:latitude":42.125212,
     "geom:longitude":-87.839069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Oak Ave",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286535327,
-    "wof:lastmodified":1449015691,
+    "wof:lastmodified":1466494120,
     "wof:name":"Farcon Inc",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.839069,42.125212,-87.839069,42.125212],
-  "geometry": {"coordinates":[-87.839069,42.125212],"type":"Point"}
+  "bbox": [
+    -87.839069,
+    42.125212,
+    -87.839069,
+    42.125212
+],
+  "geometry": {"coordinates":[-87.83906899999999,42.125212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286863937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.164728,39.247103,-88.164728,39.247103",
     "geom:latitude":39.247103,
     "geom:longitude":-88.164728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Cumberland St",
     "sg:city":"Greenup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286863937,
-    "wof:lastmodified":1449017215,
+    "wof:lastmodified":1466497714,
     "wof:name":"Candy Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-88.164728,39.247103,-88.164728,39.247103],
+  "bbox": [
+    -88.164728,
+    39.247103,
+    -88.164728,
+    39.247103
+],
   "geometry": {"coordinates":[-88.164728,39.247103],"type":"Point"}
 }

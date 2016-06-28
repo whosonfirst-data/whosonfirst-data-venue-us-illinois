@@ -2,13 +2,14 @@
   "id": 270516485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25061,40.104233,-88.25061,40.104233",
     "geom:latitude":40.104233,
     "geom:longitude":-88.25061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Elm Blvd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270516485,
-    "wof:lastmodified":1449009101,
+    "wof:lastmodified":1466496595,
     "wof:name":"Phyllis Ann Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.25061,40.104233,-88.25061,40.104233],
-  "geometry": {"coordinates":[-88.25061,40.104233],"type":"Point"}
+  "bbox": [
+    -88.25061,
+    40.104233,
+    -88.25061,
+    40.104233
+],
+  "geometry": {"coordinates":[-88.25060999999999,40.104233],"type":"Point"}
 }

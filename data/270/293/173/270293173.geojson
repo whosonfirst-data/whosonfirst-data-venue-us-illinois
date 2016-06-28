@@ -2,13 +2,14 @@
   "id": 270293173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.054781,38.62139,-89.054781,38.62139",
     "geom:latitude":38.62139,
     "geom:longitude":-89.054781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Depew St",
     "sg:city":"Odin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270293173,
-    "wof:lastmodified":1449009114,
+    "wof:lastmodified":1466493479,
     "wof:name":"Advantage Garage Door Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-89.054781,38.62139,-89.054781,38.62139],
-  "geometry": {"coordinates":[-89.054781,38.62139],"type":"Point"}
+  "bbox": [
+    -89.054781,
+    38.62139,
+    -89.054781,
+    38.62139
+],
+  "geometry": {"coordinates":[-89.05478100000001,38.62139],"type":"Point"}
 }

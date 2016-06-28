@@ -2,13 +2,14 @@
   "id": 236200219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.160575,40.133402,-88.160575,40.133402",
     "geom:latitude":40.133402,
     "geom:longitude":-88.160575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Nordland Dr",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236200219,
-    "wof:lastmodified":1449002884,
+    "wof:lastmodified":1466491424,
     "wof:name":"Country Crafters",
     "wof:parent_id":85803943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.160575,40.133402,-88.160575,40.133402],
-  "geometry": {"coordinates":[-88.160575,40.133402],"type":"Point"}
+  "bbox": [
+    -88.160575,
+    40.133402,
+    -88.160575,
+    40.133402
+],
+  "geometry": {"coordinates":[-88.16057499999999,40.133402],"type":"Point"}
 }

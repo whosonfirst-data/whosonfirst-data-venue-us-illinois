@@ -2,13 +2,14 @@
   "id": 253481479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.581316,40.854026,-89.581316,40.854026",
     "geom:latitude":40.854026,
     "geom:longitude":-89.581316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13929 N Ivy Lake Rd",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253481479,
-    "wof:lastmodified":1449065393,
+    "wof:lastmodified":1466495568,
     "wof:name":"Valley Lake Ctr",
     "wof:parent_id":85879847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-89.581316,40.854026,-89.581316,40.854026],
+  "bbox": [
+    -89.581316,
+    40.854026,
+    -89.581316,
+    40.854026
+],
   "geometry": {"coordinates":[-89.581316,40.854026],"type":"Point"}
 }

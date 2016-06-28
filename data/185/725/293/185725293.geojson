@@ -2,13 +2,14 @@
   "id": 185725293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.590621,39.419894,-87.590621,39.419894",
     "geom:latitude":39.419894,
     "geom:longitude":-87.590621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18500 N Armstrong Rd",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185725293,
-    "wof:lastmodified":1449007002,
+    "wof:lastmodified":1466495016,
     "wof:name":"Armstrong United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-87.590621,39.419894,-87.590621,39.419894],
+  "bbox": [
+    -87.590621,
+    39.419894,
+    -87.590621,
+    39.419894
+],
   "geometry": {"coordinates":[-87.590621,39.419894],"type":"Point"}
 }

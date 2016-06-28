@@ -2,13 +2,14 @@
   "id": 236230141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.804628,39.60834,-90.804628,39.60834",
     "geom:latitude":39.60834,
     "geom:longitude":-90.804628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Monroe St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236230141,
-    "wof:lastmodified":1449004221,
+    "wof:lastmodified":1466491825,
     "wof:name":"Pittsfield City Hall",
     "wof:parent_id":85851445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-90.804628,39.60834,-90.804628,39.60834],
-  "geometry": {"coordinates":[-90.804628,39.60834],"type":"Point"}
+  "bbox": [
+    -90.804628,
+    39.60834,
+    -90.804628,
+    39.60834
+],
+  "geometry": {"coordinates":[-90.80462799999999,39.60834],"type":"Point"}
 }

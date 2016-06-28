@@ -2,13 +2,14 @@
   "id": 252746807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.749141,38.901024,-89.749141,38.901024",
     "geom:latitude":38.901024,
     "geom:longitude":-89.749141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6643 Alhambra Rd",
     "sg:city":"Alhambra",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252746807,
-    "wof:lastmodified":1449005392,
+    "wof:lastmodified":1466489497,
     "wof:name":"Pete's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.749141,38.901024,-89.749141,38.901024],
-  "geometry": {"coordinates":[-89.749141,38.901024],"type":"Point"}
+  "bbox": [
+    -89.749141,
+    38.901024,
+    -89.749141,
+    38.901024
+],
+  "geometry": {"coordinates":[-89.74914099999999,38.901024],"type":"Point"}
 }

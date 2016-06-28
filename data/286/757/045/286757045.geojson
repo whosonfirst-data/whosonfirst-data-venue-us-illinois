@@ -2,13 +2,14 @@
   "id": 286757045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.602753,40.165428,-87.602753,40.165428",
     "geom:latitude":40.165428,
     "geom:longitude":-87.602753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 N Bowman Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286757045,
-    "wof:lastmodified":1449016842,
+    "wof:lastmodified":1466496899,
     "wof:name":"Danville Alliance Church",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.602753,40.165428,-87.602753,40.165428],
-  "geometry": {"coordinates":[-87.602753,40.165428],"type":"Point"}
+  "bbox": [
+    -87.602753,
+    40.165428,
+    -87.602753,
+    40.165428
+],
+  "geometry": {"coordinates":[-87.60275300000001,40.165428],"type":"Point"}
 }

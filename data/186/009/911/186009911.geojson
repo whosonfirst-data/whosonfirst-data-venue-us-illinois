@@ -2,13 +2,14 @@
   "id": 186009911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.230241,37.670499,-89.230241,37.670499",
     "geom:latitude":37.670499,
     "geom:longitude":-89.230241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Albany Rd Ste A",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186009911,
-    "wof:lastmodified":1449052983,
+    "wof:lastmodified":1466488994,
     "wof:name":"Si Billing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "billing"
     ]
 },
-  "bbox": [-89.230241,37.670499,-89.230241,37.670499],
-  "geometry": {"coordinates":[-89.230241,37.670499],"type":"Point"}
+  "bbox": [
+    -89.230241,
+    37.670499,
+    -89.230241,
+    37.670499
+],
+  "geometry": {"coordinates":[-89.23024100000001,37.670499],"type":"Point"}
 }

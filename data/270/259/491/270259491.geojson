@@ -2,13 +2,14 @@
   "id": 270259491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693041,41.720756,-87.693041,41.720756",
     "geom:latitude":41.720756,
     "geom:longitude":-87.693041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270259491,
-    "wof:lastmodified":1449009188,
+    "wof:lastmodified":1466492967,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.693041,41.720756,-87.693041,41.720756],
-  "geometry": {"coordinates":[-87.693041,41.720756],"type":"Point"}
+  "bbox": [
+    -87.693041,
+    41.720756,
+    -87.693041,
+    41.720756
+],
+  "geometry": {"coordinates":[-87.69304099999999,41.720756],"type":"Point"}
 }

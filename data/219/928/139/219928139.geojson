@@ -2,13 +2,14 @@
   "id": 219928139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.89306,40.568778,-87.89306,40.568778",
     "geom:latitude":40.568778,
     "geom:longitude":-87.89306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 State Rte 49",
     "sg:city":"Cissna Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219928139,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466497448,
     "wof:name":"Heritage FS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-87.89306,40.568778,-87.89306,40.568778],
-  "geometry": {"coordinates":[-87.89306,40.568778],"type":"Point"}
+  "bbox": [
+    -87.89306,
+    40.568778,
+    -87.89306,
+    40.568778
+],
+  "geometry": {"coordinates":[-87.89306000000001,40.568778],"type":"Point"}
 }

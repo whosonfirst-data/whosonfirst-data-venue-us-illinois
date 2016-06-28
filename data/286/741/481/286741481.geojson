@@ -2,13 +2,14 @@
   "id": 286741481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.111281,38.629563,-90.111281,38.629563",
     "geom:latitude":38.629563,
     "geom:longitude":-90.111281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 N 37th St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286741481,
-    "wof:lastmodified":1449015330,
+    "wof:lastmodified":1466496777,
     "wof:name":"Holy Angels Shelter",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-90.111281,38.629563,-90.111281,38.629563],
-  "geometry": {"coordinates":[-90.111281,38.629563],"type":"Point"}
+  "bbox": [
+    -90.111281,
+    38.629563,
+    -90.111281,
+    38.629563
+],
+  "geometry": {"coordinates":[-90.11128100000001,38.629563],"type":"Point"}
 }

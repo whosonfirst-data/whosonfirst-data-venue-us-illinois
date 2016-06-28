@@ -2,13 +2,14 @@
   "id": 219373613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.861321,41.13417,-87.861321,41.13417",
     "geom:latitude":41.13417,
     "geom:longitude":-87.861321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 N Schuyler Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219373613,
-    "wof:lastmodified":1449072210,
+    "wof:lastmodified":1466491582,
     "wof:name":"Lambert Monument Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-87.861321,41.13417,-87.861321,41.13417],
+  "bbox": [
+    -87.861321,
+    41.13417,
+    -87.861321,
+    41.13417
+],
   "geometry": {"coordinates":[-87.861321,41.13417],"type":"Point"}
 }

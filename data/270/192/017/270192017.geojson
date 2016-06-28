@@ -2,13 +2,14 @@
   "id": 270192017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.816516,41.806009,-87.816516,41.806009",
     "geom:latitude":41.806009,
     "geom:longitude":-87.816516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7847 47th St",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270192017,
-    "wof:lastmodified":1449010383,
+    "wof:lastmodified":1466491904,
     "wof:name":"Elle Corp",
     "wof:parent_id":85867579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.816516,41.806009,-87.816516,41.806009],
-  "geometry": {"coordinates":[-87.816516,41.806009],"type":"Point"}
+  "bbox": [
+    -87.816516,
+    41.806009,
+    -87.816516,
+    41.806009
+],
+  "geometry": {"coordinates":[-87.81651599999999,41.806009],"type":"Point"}
 }

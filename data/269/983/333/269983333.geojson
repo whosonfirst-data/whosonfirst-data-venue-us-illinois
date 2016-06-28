@@ -2,13 +2,14 @@
   "id": 269983333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.667589,41.968824,-87.667589,41.968824",
     "geom:latitude":41.968824,
     "geom:longitude":-87.667589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 W Lawrence Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269983333,
-    "wof:lastmodified":1449038790,
+    "wof:lastmodified":1466496411,
     "wof:name":"Lakeview Development Center",
     "wof:parent_id":85867823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.667589,41.968824,-87.667589,41.968824],
-  "geometry": {"coordinates":[-87.667589,41.968824],"type":"Point"}
+  "bbox": [
+    -87.667589,
+    41.968824,
+    -87.667589,
+    41.968824
+],
+  "geometry": {"coordinates":[-87.66758900000001,41.968824],"type":"Point"}
 }

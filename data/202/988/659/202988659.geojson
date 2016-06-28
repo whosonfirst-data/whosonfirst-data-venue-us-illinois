@@ -2,13 +2,14 @@
   "id": 202988659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.575336,41.502404,-90.575336,41.502404",
     "geom:latitude":41.502404,
     "geom:longitude":-90.575336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 9th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202988659,
-    "wof:lastmodified":1449060981,
+    "wof:lastmodified":1466494235,
     "wof:name":"Michael Coffman",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.575336,41.502404,-90.575336,41.502404],
-  "geometry": {"coordinates":[-90.575336,41.502404],"type":"Point"}
+  "bbox": [
+    -90.575336,
+    41.502404,
+    -90.575336,
+    41.502404
+],
+  "geometry": {"coordinates":[-90.57533599999999,41.502404],"type":"Point"}
 }

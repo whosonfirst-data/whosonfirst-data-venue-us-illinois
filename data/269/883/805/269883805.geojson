@@ -2,13 +2,14 @@
   "id": 269883805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.938611,40.9365,-87.938611,40.9365",
     "geom:latitude":40.9365,
     "geom:longitude":-87.938611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 S Maple St",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269883805,
-    "wof:lastmodified":1449038247,
+    "wof:lastmodified":1466495319,
     "wof:name":"Zion Lutheran Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.938611,40.9365,-87.938611,40.9365],
-  "geometry": {"coordinates":[-87.938611,40.9365],"type":"Point"}
+  "bbox": [
+    -87.938611,
+    40.9365,
+    -87.938611,
+    40.9365
+],
+  "geometry": {"coordinates":[-87.93861099999999,40.9365],"type":"Point"}
 }

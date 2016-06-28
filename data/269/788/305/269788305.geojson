@@ -2,13 +2,14 @@
   "id": 269788305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.839757,41.349986,-88.839757,41.349986",
     "geom:latitude":41.349986,
     "geom:longitude":-88.839757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Paul St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269788305,
-    "wof:lastmodified":1449037379,
+    "wof:lastmodified":1466493837,
     "wof:name":"LA Salle County Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-88.839757,41.349986,-88.839757,41.349986],
-  "geometry": {"coordinates":[-88.839757,41.349986],"type":"Point"}
+  "bbox": [
+    -88.839757,
+    41.349986,
+    -88.839757,
+    41.349986
+],
+  "geometry": {"coordinates":[-88.83975700000001,41.349986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269812375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940845,42.087969,-87.940845,42.087969",
     "geom:latitude":42.087969,
     "geom:longitude":-87.940845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N Meadow Ln",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269812375,
-    "wof:lastmodified":1449036206,
+    "wof:lastmodified":1466494211,
     "wof:name":"Richland Mortgage",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.940845,42.087969,-87.940845,42.087969],
+  "bbox": [
+    -87.940845,
+    42.087969,
+    -87.940845,
+    42.087969
+],
   "geometry": {"coordinates":[-87.940845,42.087969],"type":"Point"}
 }

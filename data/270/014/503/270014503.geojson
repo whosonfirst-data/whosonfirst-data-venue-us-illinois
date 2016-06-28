@@ -2,13 +2,14 @@
   "id": 270014503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.902858,38.325353,-88.902858,38.325353",
     "geom:latitude":38.325353,
     "geom:longitude":-88.902858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Oakland Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270014503,
-    "wof:lastmodified":1449009836,
+    "wof:lastmodified":1466489247,
     "wof:name":"C-W-M Car Wash Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-88.902858,38.325353,-88.902858,38.325353],
-  "geometry": {"coordinates":[-88.902858,38.325353],"type":"Point"}
+  "bbox": [
+    -88.902858,
+    38.325353,
+    -88.902858,
+    38.325353
+],
+  "geometry": {"coordinates":[-88.90285799999999,38.325353],"type":"Point"}
 }

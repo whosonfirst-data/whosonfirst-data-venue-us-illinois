@@ -2,13 +2,14 @@
   "id": 270326719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.296439,41.886339,-88.296439,41.886339",
     "geom:latitude":41.886339,
     "geom:longitude":-88.296439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 State Rte 38",
     "sg:city":"Creston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270326719,
-    "wof:lastmodified":1449009685,
+    "wof:lastmodified":1466493998,
     "wof:name":"Holcomb State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.296439,41.886339,-88.296439,41.886339],
-  "geometry": {"coordinates":[-88.296439,41.886339],"type":"Point"}
+  "bbox": [
+    -88.296439,
+    41.886339,
+    -88.296439,
+    41.886339
+],
+  "geometry": {"coordinates":[-88.29643900000001,41.886339],"type":"Point"}
 }

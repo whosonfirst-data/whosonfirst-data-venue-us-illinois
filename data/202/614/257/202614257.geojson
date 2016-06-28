@@ -2,13 +2,14 @@
   "id": 202614257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697256,38.727844,-87.697256,38.727844",
     "geom:latitude":38.727844,
     "geom:longitude":-87.697256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2246 Lexington St",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202614257,
-    "wof:lastmodified":1449062741,
+    "wof:lastmodified":1466489829,
     "wof:name":"Browns Sewer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewer"
     ]
 },
-  "bbox": [-87.697256,38.727844,-87.697256,38.727844],
+  "bbox": [
+    -87.697256,
+    38.727844,
+    -87.697256,
+    38.727844
+],
   "geometry": {"coordinates":[-87.697256,38.727844],"type":"Point"}
 }

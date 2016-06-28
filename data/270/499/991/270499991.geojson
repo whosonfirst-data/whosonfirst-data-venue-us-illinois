@@ -2,13 +2,14 @@
   "id": 270499991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673048,41.945677,-87.673048,41.945677",
     "geom:latitude":41.945677,
     "geom:longitude":-87.673048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3536 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270499991,
-    "wof:lastmodified":1449009093,
+    "wof:lastmodified":1466496481,
     "wof:name":"Mike Panek Chiropractor",
     "wof:parent_id":85867571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.673048,41.945677,-87.673048,41.945677],
-  "geometry": {"coordinates":[-87.673048,41.945677],"type":"Point"}
+  "bbox": [
+    -87.673048,
+    41.945677,
+    -87.673048,
+    41.945677
+],
+  "geometry": {"coordinates":[-87.67304799999999,41.945677],"type":"Point"}
 }

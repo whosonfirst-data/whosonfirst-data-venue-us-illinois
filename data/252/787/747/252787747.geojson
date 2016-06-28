@@ -2,13 +2,14 @@
   "id": 252787747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.873114,41.941671,-87.873114,41.941671",
     "geom:latitude":41.941671,
     "geom:longitude":-87.873114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 Elder Ln",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252787747,
-    "wof:lastmodified":1449005906,
+    "wof:lastmodified":1466490019,
     "wof:name":"Chicago Metropolitan Limousine",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.873114,41.941671,-87.873114,41.941671],
+  "bbox": [
+    -87.873114,
+    41.941671,
+    -87.873114,
+    41.941671
+],
   "geometry": {"coordinates":[-87.873114,41.941671],"type":"Point"}
 }

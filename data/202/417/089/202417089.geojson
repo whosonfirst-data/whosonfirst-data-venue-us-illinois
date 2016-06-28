@@ -2,13 +2,14 @@
   "id": 202417089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.678256,40.855171,-89.678256,40.855171",
     "geom:latitude":40.855171,
     "geom:longitude":-89.678256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13821 N State Rte 91",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202417089,
-    "wof:lastmodified":1449061146,
+    "wof:lastmodified":1466493484,
     "wof:name":"Tucker's Express Inc",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.678256,40.855171,-89.678256,40.855171],
+  "bbox": [
+    -89.678256,
+    40.855171,
+    -89.678256,
+    40.855171
+],
   "geometry": {"coordinates":[-89.678256,40.855171],"type":"Point"}
 }

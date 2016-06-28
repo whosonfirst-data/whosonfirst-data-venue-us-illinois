@@ -2,13 +2,14 @@
   "id": 219861901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.626621,41.63357,-87.626621,41.63357",
     "geom:latitude":41.63357,
     "geom:longitude":-87.626621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 W 144th St",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219861901,
-    "wof:lastmodified":1449073886,
+    "wof:lastmodified":1466496779,
     "wof:name":"Village of Riverdale",
     "wof:parent_id":85867709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "municipality"
     ]
 },
-  "bbox": [-87.626621,41.63357,-87.626621,41.63357],
+  "bbox": [
+    -87.626621,
+    41.63357,
+    -87.626621,
+    41.63357
+],
   "geometry": {"coordinates":[-87.626621,41.63357],"type":"Point"}
 }

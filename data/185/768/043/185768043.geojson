@@ -2,13 +2,14 @@
   "id": 185768043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.898058,39.812462,-88.898058,39.812462",
     "geom:latitude":39.812462,
     "geom:longitude":-88.898058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3580 E Fitzgerald Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185768043,
-    "wof:lastmodified":1449007231,
+    "wof:lastmodified":1466495428,
     "wof:name":"Early Risers",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.898058,39.812462,-88.898058,39.812462],
-  "geometry": {"coordinates":[-88.898058,39.812462],"type":"Point"}
+  "bbox": [
+    -88.898058,
+    39.812462,
+    -88.898058,
+    39.812462
+],
+  "geometry": {"coordinates":[-88.89805800000001,39.812462],"type":"Point"}
 }

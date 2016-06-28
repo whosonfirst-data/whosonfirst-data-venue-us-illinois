@@ -2,13 +2,14 @@
   "id": 202705403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.851256,41.625806,-87.851256,41.625806",
     "geom:latitude":41.625806,
     "geom:longitude":-87.851256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14630 John Humphrey Dr",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202705403,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466490864,
     "wof:name":"Prospect Equities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.851256,41.625806,-87.851256,41.625806],
-  "geometry": {"coordinates":[-87.851256,41.625806],"type":"Point"}
+  "bbox": [
+    -87.851256,
+    41.625806,
+    -87.851256,
+    41.625806
+],
+  "geometry": {"coordinates":[-87.85125600000001,41.625806],"type":"Point"}
 }

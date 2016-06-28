@@ -2,13 +2,14 @@
   "id": 236510911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138369,41.513053,-88.138369,41.513053",
     "geom:latitude":41.513053,
     "geom:longitude":-88.138369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 Oak Leaf St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236510911,
-    "wof:lastmodified":1449003675,
+    "wof:lastmodified":1466495521,
     "wof:name":"BSH Chicago",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-88.138369,41.513053,-88.138369,41.513053],
+  "bbox": [
+    -88.138369,
+    41.513053,
+    -88.138369,
+    41.513053
+],
   "geometry": {"coordinates":[-88.138369,41.513053],"type":"Point"}
 }

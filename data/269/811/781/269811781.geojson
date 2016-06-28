@@ -2,13 +2,14 @@
   "id": 269811781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.347653,41.115983,-89.347653,41.115983",
     "geom:latitude":41.115983,
     "geom:longitude":-89.347653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Locust St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269811781,
-    "wof:lastmodified":1449037296,
+    "wof:lastmodified":1466494200,
     "wof:name":"Crooked Knee Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-89.347653,41.115983,-89.347653,41.115983],
-  "geometry": {"coordinates":[-89.347653,41.115983],"type":"Point"}
+  "bbox": [
+    -89.347653,
+    41.115983,
+    -89.347653,
+    41.115983
+],
+  "geometry": {"coordinates":[-89.34765299999999,41.115983],"type":"Point"}
 }

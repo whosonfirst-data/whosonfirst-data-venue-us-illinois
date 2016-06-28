@@ -2,13 +2,14 @@
   "id": 303952933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.635303,41.439105,-87.635303,41.439105",
     "geom:latitude":41.439105,
     "geom:longitude":-87.635303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Vincennes St",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303952933,
-    "wof:lastmodified":1448999877,
+    "wof:lastmodified":1466493094,
     "wof:name":"Crete Custom Cut Lawn Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-87.635303,41.439105,-87.635303,41.439105],
-  "geometry": {"coordinates":[-87.635303,41.439105],"type":"Point"}
+  "bbox": [
+    -87.635303,
+    41.439105,
+    -87.635303,
+    41.439105
+],
+  "geometry": {"coordinates":[-87.63530299999999,41.439105],"type":"Point"}
 }

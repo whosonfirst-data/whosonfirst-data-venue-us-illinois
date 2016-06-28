@@ -2,13 +2,14 @@
   "id": 203034049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.016257,40.108886,-91.016257,40.108886",
     "geom:latitude":40.108886,
     "geom:longitude":-91.016257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Quincy St",
     "sg:city":"Golden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203034049,
-    "wof:lastmodified":1449025155,
+    "wof:lastmodified":1466493244,
     "wof:name":"Friends Of Ocean Farm",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-91.016257,40.108886,-91.016257,40.108886],
+  "bbox": [
+    -91.016257,
+    40.108886,
+    -91.016257,
+    40.108886
+],
   "geometry": {"coordinates":[-91.016257,40.108886],"type":"Point"}
 }

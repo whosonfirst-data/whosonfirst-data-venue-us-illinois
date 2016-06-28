@@ -2,13 +2,14 @@
   "id": 270004731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.805169,41.894296,-87.805169,41.894296",
     "geom:latitude":41.894296,
     "geom:longitude":-87.805169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Chicago Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270004731,
-    "wof:lastmodified":1449009533,
+    "wof:lastmodified":1466489112,
     "wof:name":"Custom Candy",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-87.805169,41.894296,-87.805169,41.894296],
-  "geometry": {"coordinates":[-87.805169,41.894296],"type":"Point"}
+  "bbox": [
+    -87.805169,
+    41.894296,
+    -87.805169,
+    41.894296
+],
+  "geometry": {"coordinates":[-87.80516900000001,41.894296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269600991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.432083,41.095595,-88.432083,41.095595",
     "geom:latitude":41.095595,
     "geom:longitude":-88.432083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Washington St",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269600991,
-    "wof:lastmodified":1449036368,
+    "wof:lastmodified":1466490842,
     "wof:name":"Riccolos Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.432083,41.095595,-88.432083,41.095595],
-  "geometry": {"coordinates":[-88.432083,41.095595],"type":"Point"}
+  "bbox": [
+    -88.432083,
+    41.095595,
+    -88.432083,
+    41.095595
+],
+  "geometry": {"coordinates":[-88.43208300000001,41.095595],"type":"Point"}
 }

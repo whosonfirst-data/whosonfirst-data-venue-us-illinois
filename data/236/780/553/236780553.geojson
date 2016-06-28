@@ -2,13 +2,14 @@
   "id": 236780553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809502,40.545079,-87.809502,40.545079",
     "geom:latitude":40.545079,
     "geom:longitude":-87.809502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1683 E 400 North Rd",
     "sg:city":"Cissna Park",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236780553,
-    "wof:lastmodified":1449004248,
+    "wof:lastmodified":1466497764,
     "wof:name":"Maple Lane Livestock or Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.809502,40.545079,-87.809502,40.545079],
-  "geometry": {"coordinates":[-87.809502,40.545079],"type":"Point"}
+  "bbox": [
+    -87.809502,
+    40.545079,
+    -87.809502,
+    40.545079
+],
+  "geometry": {"coordinates":[-87.80950199999999,40.545079],"type":"Point"}
 }

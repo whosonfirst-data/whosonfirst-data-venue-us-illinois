@@ -2,13 +2,14 @@
   "id": 252913523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840095,42.25135,-87.840095,42.25135",
     "geom:latitude":42.25135,
     "geom:longitude":-87.840095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 E Deerpath Rd",
     "sg:city":"Lake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252913523,
-    "wof:lastmodified":1449005830,
+    "wof:lastmodified":1466491620,
     "wof:name":"SAM Inc",
     "wof:parent_id":85890819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financing"
     ]
 },
-  "bbox": [-87.840095,42.25135,-87.840095,42.25135],
-  "geometry": {"coordinates":[-87.840095,42.25135],"type":"Point"}
+  "bbox": [
+    -87.840095,
+    42.25135,
+    -87.840095,
+    42.25135
+],
+  "geometry": {"coordinates":[-87.84009500000001,42.25135],"type":"Point"}
 }

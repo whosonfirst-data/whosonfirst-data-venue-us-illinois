@@ -2,13 +2,14 @@
   "id": 202558145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.403157,39.934534,-91.403157,39.934534",
     "geom:latitude":39.934534,
     "geom:longitude":-91.403157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Vermont St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202558145,
-    "wof:lastmodified":1449060810,
+    "wof:lastmodified":1466489174,
     "wof:name":"Vermont Street Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-91.403157,39.934534,-91.403157,39.934534],
-  "geometry": {"coordinates":[-91.403157,39.934534],"type":"Point"}
+  "bbox": [
+    -91.403157,
+    39.934534,
+    -91.403157,
+    39.934534
+],
+  "geometry": {"coordinates":[-91.40315699999999,39.934534],"type":"Point"}
 }

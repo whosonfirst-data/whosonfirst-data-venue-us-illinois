@@ -2,13 +2,14 @@
   "id": 202509241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07135,42.408488,-88.07135,42.408488",
     "geom:latitude":42.408488,
     "geom:longitude":-88.07135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Park Ave",
     "sg:city":"Lake Villa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202509241,
-    "wof:lastmodified":1449060202,
+    "wof:lastmodified":1466495261,
     "wof:name":"Orlando Enterprises Inc",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.07135,42.408488,-88.07135,42.408488],
+  "bbox": [
+    -88.07135,
+    42.408488,
+    -88.07135,
+    42.408488
+],
   "geometry": {"coordinates":[-88.07135,42.408488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303041789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.571132,40.024608,-88.571132,40.024608",
     "geom:latitude":40.024608,
     "geom:longitude":-88.571132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Independence St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303041789,
-    "wof:lastmodified":1448999004,
+    "wof:lastmodified":1466490503,
     "wof:name":"Monticello Untd Methdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.571132,40.024608,-88.571132,40.024608],
-  "geometry": {"coordinates":[-88.571132,40.024608],"type":"Point"}
+  "bbox": [
+    -88.571132,
+    40.024608,
+    -88.571132,
+    40.024608
+],
+  "geometry": {"coordinates":[-88.57113200000001,40.024608],"type":"Point"}
 }

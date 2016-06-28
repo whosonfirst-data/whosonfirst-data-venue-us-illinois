@@ -2,13 +2,14 @@
   "id": 219451179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.738318,41.983229,-87.738318,41.983229",
     "geom:latitude":41.983229,
     "geom:longitude":-87.738318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 N Kostner Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219451179,
-    "wof:lastmodified":1449071933,
+    "wof:lastmodified":1466492596,
     "wof:name":"Wil-Jon Services Inc",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.738318,41.983229,-87.738318,41.983229],
-  "geometry": {"coordinates":[-87.738318,41.983229],"type":"Point"}
+  "bbox": [
+    -87.738318,
+    41.983229,
+    -87.738318,
+    41.983229
+],
+  "geometry": {"coordinates":[-87.73831800000001,41.983229],"type":"Point"}
 }

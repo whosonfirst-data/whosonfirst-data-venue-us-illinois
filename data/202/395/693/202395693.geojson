@@ -2,13 +2,14 @@
   "id": 202395693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.469799,41.380684,-89.469799,41.380684",
     "geom:latitude":41.380684,
     "geom:longitude":-89.469799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 N Knox St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202395693,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466492727,
     "wof:name":"De Vore Building & Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.469799,41.380684,-89.469799,41.380684],
-  "geometry": {"coordinates":[-89.469799,41.380684],"type":"Point"}
+  "bbox": [
+    -89.469799,
+    41.380684,
+    -89.469799,
+    41.380684
+],
+  "geometry": {"coordinates":[-89.46979899999999,41.380684],"type":"Point"}
 }

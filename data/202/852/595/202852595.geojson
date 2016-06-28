@@ -2,13 +2,14 @@
   "id": 202852595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.043102,41.521549,-88.043102,41.521549",
     "geom:latitude":41.521549,
     "geom:longitude":-88.043102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 2nd Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202852595,
-    "wof:lastmodified":1449062231,
+    "wof:lastmodified":1466492605,
     "wof:name":"RHS Motor Sports",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-88.043102,41.521549,-88.043102,41.521549],
+  "bbox": [
+    -88.043102,
+    41.521549,
+    -88.043102,
+    41.521549
+],
   "geometry": {"coordinates":[-88.043102,41.521549],"type":"Point"}
 }

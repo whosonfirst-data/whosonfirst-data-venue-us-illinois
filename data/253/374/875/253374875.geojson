@@ -2,13 +2,14 @@
   "id": 253374875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.94101,41.88343,-87.94101,41.88343",
     "geom:latitude":41.88343,
     "geom:longitude":-87.94101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 W Vallette St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253374875,
-    "wof:lastmodified":1449064110,
+    "wof:lastmodified":1466493822,
     "wof:name":"Apollo Hearing Ctr",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-87.94101,41.88343,-87.94101,41.88343],
-  "geometry": {"coordinates":[-87.94101,41.88343],"type":"Point"}
+  "bbox": [
+    -87.94101,
+    41.88343,
+    -87.94101,
+    41.88343
+],
+  "geometry": {"coordinates":[-87.94101000000001,41.88343],"type":"Point"}
 }

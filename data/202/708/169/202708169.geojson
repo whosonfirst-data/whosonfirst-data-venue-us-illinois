@@ -2,13 +2,14 @@
   "id": 202708169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.340116,40.388157,-91.340116,40.388157",
     "geom:latitude":40.388157,
     "geom:longitude":-91.340116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S 14th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202708169,
-    "wof:lastmodified":1449060506,
+    "wof:lastmodified":1466490897,
     "wof:name":"Central Iron & Metals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-91.340116,40.388157,-91.340116,40.388157],
-  "geometry": {"coordinates":[-91.340116,40.388157],"type":"Point"}
+  "bbox": [
+    -91.340116,
+    40.388157,
+    -91.340116,
+    40.388157
+],
+  "geometry": {"coordinates":[-91.34011599999999,40.388157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236912705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.850707,41.545941,-87.850707,41.545941",
     "geom:latitude":41.545941,
     "geom:longitude":-87.850707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19001 Old Lagrange Rd",
     "sg:city":"Mokena",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236912705,
-    "wof:lastmodified":1449003247,
+    "wof:lastmodified":1466498257,
     "wof:name":"Heartcare Centers of Illinois",
     "wof:parent_id":85890947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialist"
     ]
 },
-  "bbox": [-87.850707,41.545941,-87.850707,41.545941],
+  "bbox": [
+    -87.850707,
+    41.545941,
+    -87.850707,
+    41.545941
+],
   "geometry": {"coordinates":[-87.850707,41.545941],"type":"Point"}
 }

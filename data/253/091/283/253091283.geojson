@@ -2,13 +2,14 @@
   "id": 253091283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.069101,42.25636,-89.069101,42.25636",
     "geom:latitude":42.25636,
     "geom:longitude":-89.069101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 10th Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253091283,
-    "wof:lastmodified":1449063098,
+    "wof:lastmodified":1466490119,
     "wof:name":"Burd Trucking",
     "wof:parent_id":85880431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.069101,42.25636,-89.069101,42.25636],
+  "bbox": [
+    -89.069101,
+    42.25636,
+    -89.069101,
+    42.25636
+],
   "geometry": {"coordinates":[-89.069101,42.25636],"type":"Point"}
 }

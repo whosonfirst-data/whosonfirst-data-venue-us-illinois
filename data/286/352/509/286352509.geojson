@@ -2,13 +2,14 @@
   "id": 286352509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.790917,41.334264,-87.790917,41.334264",
     "geom:latitude":41.334264,
     "geom:longitude":-87.790917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 2nd St",
     "sg:city":"Peotone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286352509,
-    "wof:lastmodified":1449017008,
+    "wof:lastmodified":1466491208,
     "wof:name":"Inland Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-87.790917,41.334264,-87.790917,41.334264],
-  "geometry": {"coordinates":[-87.790917,41.334264],"type":"Point"}
+  "bbox": [
+    -87.790917,
+    41.334264,
+    -87.790917,
+    41.334264
+],
+  "geometry": {"coordinates":[-87.79091699999999,41.334264],"type":"Point"}
 }

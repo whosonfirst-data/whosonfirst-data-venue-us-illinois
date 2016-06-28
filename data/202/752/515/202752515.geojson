@@ -2,13 +2,14 @@
   "id": 202752515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.792715,41.883303,-87.792715,41.883303",
     "geom:latitude":41.883303,
     "geom:longitude":-87.792715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Euclid Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202752515,
-    "wof:lastmodified":1449060523,
+    "wof:lastmodified":1466491397,
     "wof:name":"Glorious Garden",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-87.792715,41.883303,-87.792715,41.883303],
+  "bbox": [
+    -87.792715,
+    41.883303,
+    -87.792715,
+    41.883303
+],
   "geometry": {"coordinates":[-87.792715,41.883303],"type":"Point"}
 }

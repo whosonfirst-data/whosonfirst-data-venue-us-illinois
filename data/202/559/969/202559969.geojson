@@ -2,13 +2,14 @@
   "id": 202559969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.706134,41.776981,-89.706134,41.776981",
     "geom:latitude":41.776981,
     "geom:longitude":-89.706134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 12th Ave",
     "sg:city":"Rock Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202559969,
-    "wof:lastmodified":1449062102,
+    "wof:lastmodified":1466489198,
     "wof:name":"Stewarts Upholstery & Awnings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.706134,41.776981,-89.706134,41.776981],
-  "geometry": {"coordinates":[-89.706134,41.776981],"type":"Point"}
+  "bbox": [
+    -89.706134,
+    41.776981,
+    -89.706134,
+    41.776981
+],
+  "geometry": {"coordinates":[-89.70613400000001,41.776981],"type":"Point"}
 }

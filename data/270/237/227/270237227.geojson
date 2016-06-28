@@ -2,13 +2,14 @@
   "id": 270237227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.944879,38.609797,-88.944879,38.609797",
     "geom:latitude":38.609797,
     "geom:longitude":-88.944879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 State Rte 37",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270237227,
-    "wof:lastmodified":1449008727,
+    "wof:lastmodified":1466492623,
     "wof:name":"Alma Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.944879,38.609797,-88.944879,38.609797],
+  "bbox": [
+    -88.944879,
+    38.609797,
+    -88.944879,
+    38.609797
+],
   "geometry": {"coordinates":[-88.944879,38.609797],"type":"Point"}
 }

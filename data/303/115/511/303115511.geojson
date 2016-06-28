@@ -2,13 +2,14 @@
   "id": 303115511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.45722,41.909387,-89.45722,41.909387",
     "geom:latitude":41.909387,
     "geom:longitude":-89.45722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2238 Pine Bluff Dr",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303115511,
-    "wof:lastmodified":1448998097,
+    "wof:lastmodified":1466491658,
     "wof:name":"Montelione Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.45722,41.909387,-89.45722,41.909387],
-  "geometry": {"coordinates":[-89.45722,41.909387],"type":"Point"}
+  "bbox": [
+    -89.45722,
+    41.909387,
+    -89.45722,
+    41.909387
+],
+  "geometry": {"coordinates":[-89.45722000000001,41.909387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186072513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.73193,37.151175,-88.73193,37.151175",
     "geom:latitude":37.151175,
     "geom:longitude":-88.73193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W 5th St",
     "sg:city":"Metropolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186072513,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1466494609,
     "wof:name":"Massac Metropolis Port Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-88.73193,37.151175,-88.73193,37.151175],
-  "geometry": {"coordinates":[-88.73193,37.151175],"type":"Point"}
+  "bbox": [
+    -88.73193,
+    37.151175,
+    -88.73193,
+    37.151175
+],
+  "geometry": {"coordinates":[-88.73193000000001,37.151175],"type":"Point"}
 }

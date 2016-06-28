@@ -2,13 +2,14 @@
   "id": 270003935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.777468,41.909155,-87.777468,41.909155",
     "geom:latitude":41.909155,
     "geom:longitude":-87.777468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6041 North Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270003935,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466489098,
     "wof:name":"Ron Barber Shop",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "barber"
     ]
 },
-  "bbox": [-87.777468,41.909155,-87.777468,41.909155],
+  "bbox": [
+    -87.777468,
+    41.909155,
+    -87.777468,
+    41.909155
+],
   "geometry": {"coordinates":[-87.777468,41.909155],"type":"Point"}
 }

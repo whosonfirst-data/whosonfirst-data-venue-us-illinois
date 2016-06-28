@@ -2,13 +2,14 @@
   "id": 236000185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.23355,40.109125,-88.23355,40.109125",
     "geom:latitude":40.109125,
     "geom:longitude":-88.23355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E John St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236000185,
-    "wof:lastmodified":1449002070,
+    "wof:lastmodified":1466495801,
     "wof:name":"US Air Force Health Profession",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-88.23355,40.109125,-88.23355,40.109125],
-  "geometry": {"coordinates":[-88.23355,40.109125],"type":"Point"}
+  "bbox": [
+    -88.23355,
+    40.109125,
+    -88.23355,
+    40.109125
+],
+  "geometry": {"coordinates":[-88.23354999999999,40.109125],"type":"Point"}
 }

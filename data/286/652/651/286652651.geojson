@@ -2,13 +2,14 @@
   "id": 286652651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.846703,42.354167,-87.846703,42.354167",
     "geom:latitude":42.354167,
     "geom:longitude":-87.846703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Gladstone Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286652651,
-    "wof:lastmodified":1449017088,
+    "wof:lastmodified":1466496137,
     "wof:name":"Tippet Inc",
     "wof:parent_id":85890989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.846703,42.354167,-87.846703,42.354167],
-  "geometry": {"coordinates":[-87.846703,42.354167],"type":"Point"}
+  "bbox": [
+    -87.846703,
+    42.354167,
+    -87.846703,
+    42.354167
+],
+  "geometry": {"coordinates":[-87.84670300000001,42.354167],"type":"Point"}
 }

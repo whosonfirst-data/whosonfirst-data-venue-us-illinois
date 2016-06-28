@@ -2,13 +2,14 @@
   "id": 219185099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.636181,41.559851,-87.636181,41.559851",
     "geom:latitude":41.559851,
     "geom:longitude":-87.636181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18130 Halsted St",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219185099,
-    "wof:lastmodified":1449070967,
+    "wof:lastmodified":1466489307,
     "wof:name":"Endodontic & Periodontic Assoc",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "periodontics"
     ]
 },
-  "bbox": [-87.636181,41.559851,-87.636181,41.559851],
-  "geometry": {"coordinates":[-87.636181,41.559851],"type":"Point"}
+  "bbox": [
+    -87.636181,
+    41.559851,
+    -87.636181,
+    41.559851
+],
+  "geometry": {"coordinates":[-87.63618099999999,41.559851],"type":"Point"}
 }

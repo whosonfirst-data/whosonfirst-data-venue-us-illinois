@@ -2,13 +2,14 @@
   "id": 236264669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.217407,41.757164,-88.217407,41.757164",
     "geom:latitude":41.757164,
     "geom:longitude":-88.217407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Executive Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236264669,
-    "wof:lastmodified":1449003864,
+    "wof:lastmodified":1466492311,
     "wof:name":"Goodyear",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.217407,41.757164,-88.217407,41.757164],
-  "geometry": {"coordinates":[-88.217407,41.757164],"type":"Point"}
+  "bbox": [
+    -88.217407,
+    41.757164,
+    -88.217407,
+    41.757164
+],
+  "geometry": {"coordinates":[-88.21740699999999,41.757164],"type":"Point"}
 }

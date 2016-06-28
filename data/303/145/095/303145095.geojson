@@ -2,13 +2,14 @@
   "id": 303145095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.249834,40.080573,-88.249834,40.080573",
     "geom:latitude":40.080573,
     "geom:longitude":-88.249834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Park Lane Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303145095,
-    "wof:lastmodified":1448998860,
+    "wof:lastmodified":1466492148,
     "wof:name":"Marathon & Beyond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-88.249834,40.080573,-88.249834,40.080573],
-  "geometry": {"coordinates":[-88.249834,40.080573],"type":"Point"}
+  "bbox": [
+    -88.249834,
+    40.080573,
+    -88.249834,
+    40.080573
+],
+  "geometry": {"coordinates":[-88.24983400000001,40.080573],"type":"Point"}
 }

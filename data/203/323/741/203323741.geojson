@@ -2,13 +2,14 @@
   "id": 203323741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.636159,40.114149,-87.636159,40.114149",
     "geom:latitude":40.114149,
     "geom:longitude":-87.636159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 S Gilbert St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203323741,
-    "wof:lastmodified":1449025095,
+    "wof:lastmodified":1466490721,
     "wof:name":"Stroud Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.636159,40.114149,-87.636159,40.114149],
-  "geometry": {"coordinates":[-87.636159,40.114149],"type":"Point"}
+  "bbox": [
+    -87.636159,
+    40.114149,
+    -87.636159,
+    40.114149
+],
+  "geometry": {"coordinates":[-87.63615900000001,40.114149],"type":"Point"}
 }

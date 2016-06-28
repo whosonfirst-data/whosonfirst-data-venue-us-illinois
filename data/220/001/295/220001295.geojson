@@ -2,13 +2,14 @@
   "id": 220001295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.549501,37.928565,-89.549501,37.928565",
     "geom:latitude":37.928565,
     "geom:longitude":-89.549501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Main St",
     "sg:city":"Campbell Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220001295,
-    "wof:lastmodified":1449074226,
+    "wof:lastmodified":1466488959,
     "wof:name":"Misselhorn Welding & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welding"
     ]
 },
-  "bbox": [-89.549501,37.928565,-89.549501,37.928565],
-  "geometry": {"coordinates":[-89.549501,37.928565],"type":"Point"}
+  "bbox": [
+    -89.549501,
+    37.928565,
+    -89.549501,
+    37.928565
+],
+  "geometry": {"coordinates":[-89.54950100000001,37.928565],"type":"Point"}
 }

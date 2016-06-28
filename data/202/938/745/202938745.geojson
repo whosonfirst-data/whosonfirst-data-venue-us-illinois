@@ -2,13 +2,14 @@
   "id": 202938745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13899,41.524071,-88.13899,41.524071",
     "geom:latitude":41.524071,
     "geom:longitude":-88.13899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Republic Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202938745,
-    "wof:lastmodified":1449061996,
+    "wof:lastmodified":1466493636,
     "wof:name":"Gordon Flesch Company Inc",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stationery"
     ]
 },
-  "bbox": [-88.13899,41.524071,-88.13899,41.524071],
-  "geometry": {"coordinates":[-88.13899,41.524071],"type":"Point"}
+  "bbox": [
+    -88.13899,
+    41.524071,
+    -88.13899,
+    41.524071
+],
+  "geometry": {"coordinates":[-88.13899000000001,41.524071],"type":"Point"}
 }

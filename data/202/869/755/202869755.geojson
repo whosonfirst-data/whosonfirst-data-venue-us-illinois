@@ -2,13 +2,14 @@
   "id": 202869755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.843726,42.179498,-87.843726,42.179498",
     "geom:latitude":42.179498,
     "geom:longitude":-87.843726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Dimmydale Dr",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202869755,
-    "wof:lastmodified":1449062449,
+    "wof:lastmodified":1466492817,
     "wof:name":"An Organized Place",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organizing"
     ]
 },
-  "bbox": [-87.843726,42.179498,-87.843726,42.179498],
+  "bbox": [
+    -87.843726,
+    42.179498,
+    -87.843726,
+    42.179498
+],
   "geometry": {"coordinates":[-87.843726,42.179498],"type":"Point"}
 }

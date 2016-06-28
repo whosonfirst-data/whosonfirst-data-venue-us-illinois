@@ -2,13 +2,14 @@
   "id": 202783489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539528,41.58693,-87.539528,41.58693",
     "geom:latitude":41.58693,
     "geom:longitude":-87.539528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 Burnham Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202783489,
-    "wof:lastmodified":1449060173,
+    "wof:lastmodified":1466491751,
     "wof:name":"Chef's Table",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.539528,41.58693,-87.539528,41.58693],
+  "bbox": [
+    -87.539528,
+    41.58693,
+    -87.539528,
+    41.58693
+],
   "geometry": {"coordinates":[-87.539528,41.58693],"type":"Point"}
 }

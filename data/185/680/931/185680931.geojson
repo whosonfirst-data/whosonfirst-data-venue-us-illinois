@@ -2,13 +2,14 @@
   "id": 185680931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.375892,39.994245,-91.375892,39.994245",
     "geom:latitude":39.994245,
     "geom:longitude":-91.375892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Spring Lake Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185680931,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1466494495,
     "wof:name":"Quincy Tractor",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-91.375892,39.994245,-91.375892,39.994245],
-  "geometry": {"coordinates":[-91.375892,39.994245],"type":"Point"}
+  "bbox": [
+    -91.375892,
+    39.994245,
+    -91.375892,
+    39.994245
+],
+  "geometry": {"coordinates":[-91.37589199999999,39.994245],"type":"Point"}
 }

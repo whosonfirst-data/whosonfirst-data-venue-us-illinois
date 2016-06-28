@@ -2,13 +2,14 @@
   "id": 253085671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.833329,40.078192,-87.833329,40.078192",
     "geom:latitude":40.078192,
     "geom:longitude":-87.833329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5707 E 1450 North Rd",
     "sg:city":"Fairmount",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253085671,
-    "wof:lastmodified":1449063557,
+    "wof:lastmodified":1466490048,
     "wof:name":"Mike's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.833329,40.078192,-87.833329,40.078192],
-  "geometry": {"coordinates":[-87.833329,40.078192],"type":"Point"}
+  "bbox": [
+    -87.833329,
+    40.078192,
+    -87.833329,
+    40.078192
+],
+  "geometry": {"coordinates":[-87.83332900000001,40.078192],"type":"Point"}
 }

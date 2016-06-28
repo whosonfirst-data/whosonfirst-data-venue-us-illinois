@@ -2,13 +2,14 @@
   "id": 269866243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.641726,41.670121,-87.641726,41.670121",
     "geom:latitude":41.670121,
     "geom:longitude":-87.641726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12326 S Halsted St",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269866243,
-    "wof:lastmodified":1449037279,
+    "wof:lastmodified":1466495052,
     "wof:name":"J&C Auto Inc",
     "wof:parent_id":85856203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-87.641726,41.670121,-87.641726,41.670121],
-  "geometry": {"coordinates":[-87.641726,41.670121],"type":"Point"}
+  "bbox": [
+    -87.641726,
+    41.670121,
+    -87.641726,
+    41.670121
+],
+  "geometry": {"coordinates":[-87.64172600000001,41.670121],"type":"Point"}
 }

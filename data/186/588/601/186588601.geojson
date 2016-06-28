@@ -2,13 +2,14 @@
   "id": 186588601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849116,41.498646,-87.849116,41.498646",
     "geom:latitude":41.498646,
     "geom:longitude":-87.849116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 S White St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186588601,
-    "wof:lastmodified":1449052482,
+    "wof:lastmodified":1466489275,
     "wof:name":"Baxter Accounting",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.849116,41.498646,-87.849116,41.498646],
+  "bbox": [
+    -87.849116,
+    41.498646,
+    -87.849116,
+    41.498646
+],
   "geometry": {"coordinates":[-87.849116,41.498646],"type":"Point"}
 }

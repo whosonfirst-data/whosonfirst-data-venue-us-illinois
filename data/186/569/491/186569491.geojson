@@ -2,13 +2,14 @@
   "id": 186569491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.311608,41.758494,-88.311608,41.758494",
     "geom:latitude":41.758494,
     "geom:longitude":-88.311608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 N Broadway St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186569491,
-    "wof:lastmodified":1449052931,
+    "wof:lastmodified":1466489040,
     "wof:name":"Aurora Twp Supervisor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.311608,41.758494,-88.311608,41.758494],
-  "geometry": {"coordinates":[-88.311608,41.758494],"type":"Point"}
+  "bbox": [
+    -88.311608,
+    41.758494,
+    -88.311608,
+    41.758494
+],
+  "geometry": {"coordinates":[-88.31160800000001,41.758494],"type":"Point"}
 }

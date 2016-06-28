@@ -2,13 +2,14 @@
   "id": 202879295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706933,41.698848,-87.706933,41.698848",
     "geom:latitude":41.698848,
     "geom:longitude":-87.706933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10539 S Trumbull Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202879295,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466492929,
     "wof:name":"Richmond Cabinets Inc",
     "wof:parent_id":85866783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-87.706933,41.698848,-87.706933,41.698848],
-  "geometry": {"coordinates":[-87.706933,41.698848],"type":"Point"}
+  "bbox": [
+    -87.706933,
+    41.698848,
+    -87.706933,
+    41.698848
+],
+  "geometry": {"coordinates":[-87.70693300000001,41.698848],"type":"Point"}
 }

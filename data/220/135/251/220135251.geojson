@@ -2,13 +2,14 @@
   "id": 220135251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.077536,41.401763,-88.077536,41.401763",
     "geom:latitude":41.401763,
     "geom:longitude":-88.077536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26601 S Chicago Rd",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220135251,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466490600,
     "wof:name":"Joan Gasse",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.077536,41.401763,-88.077536,41.401763],
-  "geometry": {"coordinates":[-88.077536,41.401763],"type":"Point"}
+  "bbox": [
+    -88.077536,
+    41.401763,
+    -88.077536,
+    41.401763
+],
+  "geometry": {"coordinates":[-88.07753599999999,41.401763],"type":"Point"}
 }

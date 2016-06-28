@@ -2,13 +2,14 @@
   "id": 270027103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.776845,41.907399,-87.776845,41.907399",
     "geom:latitude":41.907399,
     "geom:longitude":-87.776845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Le Moyne Pkwy",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270027103,
-    "wof:lastmodified":1449009084,
+    "wof:lastmodified":1466489429,
     "wof:name":"Coram Consulting",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-87.776845,41.907399,-87.776845,41.907399],
-  "geometry": {"coordinates":[-87.776845,41.907399],"type":"Point"}
+  "bbox": [
+    -87.776845,
+    41.907399,
+    -87.776845,
+    41.907399
+],
+  "geometry": {"coordinates":[-87.77684499999999,41.907399],"type":"Point"}
 }

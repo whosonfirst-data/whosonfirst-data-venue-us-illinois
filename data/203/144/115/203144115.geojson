@@ -2,13 +2,14 @@
   "id": 203144115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.880254,40.747746,-88.880254,40.747746",
     "geom:latitude":40.747746,
     "geom:longitude":-88.880254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Kent",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203144115,
-    "wof:lastmodified":1449026360,
+    "wof:lastmodified":1466495432,
     "wof:name":"Porzelius Farms",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "soybean"
     ]
 },
-  "bbox": [-88.880254,40.747746,-88.880254,40.747746],
-  "geometry": {"coordinates":[-88.880254,40.747746],"type":"Point"}
+  "bbox": [
+    -88.880254,
+    40.747746,
+    -88.880254,
+    40.747746
+],
+  "geometry": {"coordinates":[-88.88025399999999,40.747746],"type":"Point"}
 }

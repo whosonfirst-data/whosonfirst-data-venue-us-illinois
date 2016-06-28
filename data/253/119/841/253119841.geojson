@@ -2,13 +2,14 @@
   "id": 253119841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064816,40.113481,-88.064816,40.113481",
     "geom:latitude":40.113481,
     "geom:longitude":-88.064816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Co Rd 1600 N",
     "sg:city":"Saint Joseph",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253119841,
-    "wof:lastmodified":1449064946,
+    "wof:lastmodified":1466490468,
     "wof:name":"Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "crop"
     ]
 },
-  "bbox": [-88.064816,40.113481,-88.064816,40.113481],
-  "geometry": {"coordinates":[-88.064816,40.113481],"type":"Point"}
+  "bbox": [
+    -88.064816,
+    40.113481,
+    -88.064816,
+    40.113481
+],
+  "geometry": {"coordinates":[-88.06481599999999,40.113481],"type":"Point"}
 }

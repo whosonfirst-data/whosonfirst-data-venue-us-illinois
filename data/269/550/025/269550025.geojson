@@ -2,13 +2,14 @@
   "id": 269550025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.521065,37.959296,-89.521065,37.959296",
     "geom:latitude":37.959296,
     "geom:longitude":-89.521065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1868 Brushy Creek Rd",
     "sg:city":"Campbell Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269550025,
-    "wof:lastmodified":1449037434,
+    "wof:lastmodified":1466490029,
     "wof:name":"William Kuhlman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.521065,37.959296,-89.521065,37.959296],
-  "geometry": {"coordinates":[-89.521065,37.959296],"type":"Point"}
+  "bbox": [
+    -89.521065,
+    37.959296,
+    -89.521065,
+    37.959296
+],
+  "geometry": {"coordinates":[-89.52106499999999,37.959296],"type":"Point"}
 }

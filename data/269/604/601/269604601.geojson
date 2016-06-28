@@ -2,13 +2,14 @@
   "id": 269604601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680687,41.659088,-87.680687,41.659088",
     "geom:latitude":41.659088,
     "geom:longitude":-87.680687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Union St",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269604601,
-    "wof:lastmodified":1449038649,
+    "wof:lastmodified":1466490896,
     "wof:name":"215 West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-87.680687,41.659088,-87.680687,41.659088],
-  "geometry": {"coordinates":[-87.680687,41.659088],"type":"Point"}
+  "bbox": [
+    -87.680687,
+    41.659088,
+    -87.680687,
+    41.659088
+],
+  "geometry": {"coordinates":[-87.68068700000001,41.659088],"type":"Point"}
 }

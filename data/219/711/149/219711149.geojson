@@ -2,13 +2,14 @@
   "id": 219711149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.112567,41.911871,-88.112567,41.911871",
     "geom:latitude":41.911871,
     "geom:longitude":-88.112567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Saint Paul Blvd",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219711149,
-    "wof:lastmodified":1449073277,
+    "wof:lastmodified":1466495662,
     "wof:name":"Import Shop",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-88.112567,41.911871,-88.112567,41.911871],
+  "bbox": [
+    -88.112567,
+    41.911871,
+    -88.112567,
+    41.911871
+],
   "geometry": {"coordinates":[-88.112567,41.911871],"type":"Point"}
 }

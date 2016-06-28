@@ -2,13 +2,14 @@
   "id": 269757415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.559216,41.620794,-87.559216,41.620794",
     "geom:latitude":41.620794,
     "geom:longitude":-87.559216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 Torrence Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269757415,
-    "wof:lastmodified":1449037481,
+    "wof:lastmodified":1466493333,
     "wof:name":"Illinois Television",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "video"
     ]
 },
-  "bbox": [-87.559216,41.620794,-87.559216,41.620794],
-  "geometry": {"coordinates":[-87.559216,41.620794],"type":"Point"}
+  "bbox": [
+    -87.559216,
+    41.620794,
+    -87.559216,
+    41.620794
+],
+  "geometry": {"coordinates":[-87.55921600000001,41.620794],"type":"Point"}
 }

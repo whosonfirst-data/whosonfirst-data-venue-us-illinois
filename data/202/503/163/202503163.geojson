@@ -2,13 +2,14 @@
   "id": 202503163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.959848,41.915136,-87.959848,41.915136",
     "geom:latitude":41.915136,
     "geom:longitude":-87.959848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 W Gladys Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202503163,
-    "wof:lastmodified":1449062656,
+    "wof:lastmodified":1466495146,
     "wof:name":"Piton Productions",
     "wof:parent_id":85890711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-87.959848,41.915136,-87.959848,41.915136],
-  "geometry": {"coordinates":[-87.959848,41.915136],"type":"Point"}
+  "bbox": [
+    -87.959848,
+    41.915136,
+    -87.959848,
+    41.915136
+],
+  "geometry": {"coordinates":[-87.95984799999999,41.915136],"type":"Point"}
 }

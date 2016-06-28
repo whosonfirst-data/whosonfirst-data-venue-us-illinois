@@ -2,13 +2,14 @@
   "id": 253064287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.14365,41.473331,-90.14365,41.473331",
     "geom:latitude":41.473331,
     "geom:longitude":-90.14365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22393 Grange Rd",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253064287,
-    "wof:lastmodified":1449063870,
+    "wof:lastmodified":1466489782,
     "wof:name":"Geneseo Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.14365,41.473331,-90.14365,41.473331],
-  "geometry": {"coordinates":[-90.14365,41.473331],"type":"Point"}
+  "bbox": [
+    -90.14365,
+    41.473331,
+    -90.14365,
+    41.473331
+],
+  "geometry": {"coordinates":[-90.14364999999999,41.473331],"type":"Point"}
 }

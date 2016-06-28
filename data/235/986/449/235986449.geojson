@@ -2,13 +2,14 @@
   "id": 235986449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.039332,39.688985,-91.039332,39.688985",
     "geom:latitude":39.688985,
     "geom:longitude":-91.039332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Grand Ave",
     "sg:city":"Barry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235986449,
-    "wof:lastmodified":1449008534,
+    "wof:lastmodified":1466489628,
     "wof:name":"Barry Boarding Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-91.039332,39.688985,-91.039332,39.688985],
+  "bbox": [
+    -91.039332,
+    39.688985,
+    -91.039332,
+    39.688985
+],
   "geometry": {"coordinates":[-91.039332,39.688985],"type":"Point"}
 }

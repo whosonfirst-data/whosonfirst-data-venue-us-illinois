@@ -2,13 +2,14 @@
   "id": 185798517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.804466,39.399239,-88.804466,39.399239",
     "geom:latitude":39.399239,
     "geom:longitude":-88.804466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W South 10th St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185798517,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1466489019,
     "wof:name":"Valeries Janitorial Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-88.804466,39.399239,-88.804466,39.399239],
-  "geometry": {"coordinates":[-88.804466,39.399239],"type":"Point"}
+  "bbox": [
+    -88.804466,
+    39.399239,
+    -88.804466,
+    39.399239
+],
+  "geometry": {"coordinates":[-88.80446600000001,39.399239],"type":"Point"}
 }

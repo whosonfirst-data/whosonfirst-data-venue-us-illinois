@@ -2,13 +2,14 @@
   "id": 202503341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696149,41.917426,-87.696149,41.917426",
     "geom:latitude":41.917426,
     "geom:longitude":-87.696149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2759 W Armitage Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202503341,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466495149,
     "wof:name":"Cal Armitage Currency Exch",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-87.696149,41.917426,-87.696149,41.917426],
-  "geometry": {"coordinates":[-87.696149,41.917426],"type":"Point"}
+  "bbox": [
+    -87.696149,
+    41.917426,
+    -87.696149,
+    41.917426
+],
+  "geometry": {"coordinates":[-87.69614900000001,41.917426],"type":"Point"}
 }

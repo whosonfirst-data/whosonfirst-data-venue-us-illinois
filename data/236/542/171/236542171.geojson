@@ -2,13 +2,14 @@
   "id": 236542171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.999261,42.270562,-88.999261,42.270562",
     "geom:latitude":42.270562,
     "geom:longitude":-88.999261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Executive Pkwy",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236542171,
-    "wof:lastmodified":1449004361,
+    "wof:lastmodified":1466495852,
     "wof:name":"Terry L Strawser MD",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.999261,42.270562,-88.999261,42.270562],
+  "bbox": [
+    -88.999261,
+    42.270562,
+    -88.999261,
+    42.270562
+],
   "geometry": {"coordinates":[-88.999261,42.270562],"type":"Point"}
 }

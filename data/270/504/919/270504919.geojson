@@ -2,13 +2,14 @@
   "id": 270504919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.177287,40.5294,-89.177287,40.5294",
     "geom:latitude":40.5294,
     "geom:longitude":-89.177287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N West St",
     "sg:city":"Danvers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270504919,
-    "wof:lastmodified":1449009072,
+    "wof:lastmodified":1466496327,
     "wof:name":"Tad Telecom",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-89.177287,40.5294,-89.177287,40.5294],
-  "geometry": {"coordinates":[-89.177287,40.5294],"type":"Point"}
+  "bbox": [
+    -89.177287,
+    40.5294,
+    -89.177287,
+    40.5294
+],
+  "geometry": {"coordinates":[-89.17728700000001,40.5294],"type":"Point"}
 }

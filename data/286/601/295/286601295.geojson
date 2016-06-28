@@ -2,13 +2,14 @@
   "id": 286601295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.11621,42.30643,-89.11621,42.30643",
     "geom:latitude":42.30643,
     "geom:longitude":-89.11621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 N Central Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286601295,
-    "wof:lastmodified":1449016504,
+    "wof:lastmodified":1466495210,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.11621,42.30643,-89.11621,42.30643],
+  "bbox": [
+    -89.11621,
+    42.30643,
+    -89.11621,
+    42.30643
+],
   "geometry": {"coordinates":[-89.11621,42.30643],"type":"Point"}
 }

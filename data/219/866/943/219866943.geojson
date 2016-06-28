@@ -2,13 +2,14 @@
   "id": 219866943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.888919,42.280099,-87.888919,42.280099",
     "geom:latitude":42.280099,
     "geom:longitude":-87.888919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Rockland Rd",
     "sg:city":"Lake Bluff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219866943,
-    "wof:lastmodified":1449072069,
+    "wof:lastmodified":1466496791,
     "wof:name":"Acme Refining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-87.888919,42.280099,-87.888919,42.280099],
+  "bbox": [
+    -87.888919,
+    42.280099,
+    -87.888919,
+    42.280099
+],
   "geometry": {"coordinates":[-87.888919,42.280099],"type":"Point"}
 }

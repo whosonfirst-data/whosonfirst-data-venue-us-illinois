@@ -2,13 +2,14 @@
   "id": 203068445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.220622,37.408079,-89.220622,37.408079",
     "geom:latitude":37.408079,
     "geom:longitude":-89.220622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Bartruff Rd",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203068445,
-    "wof:lastmodified":1449025901,
+    "wof:lastmodified":1466494061,
     "wof:name":"Beanland & Son Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-89.220622,37.408079,-89.220622,37.408079],
-  "geometry": {"coordinates":[-89.220622,37.408079],"type":"Point"}
+  "bbox": [
+    -89.220622,
+    37.408079,
+    -89.220622,
+    37.408079
+],
+  "geometry": {"coordinates":[-89.22062200000001,37.408079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269491679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.287303,41.764101,-88.287303,41.764101",
     "geom:latitude":41.764101,
     "geom:longitude":-88.287303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1146 Front St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269491679,
-    "wof:lastmodified":1449036106,
+    "wof:lastmodified":1466489116,
     "wof:name":"La Flor De Durango Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.287303,41.764101,-88.287303,41.764101],
-  "geometry": {"coordinates":[-88.287303,41.764101],"type":"Point"}
+  "bbox": [
+    -88.287303,
+    41.764101,
+    -88.287303,
+    41.764101
+],
+  "geometry": {"coordinates":[-88.28730299999999,41.764101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287222911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.60666,41.810634,-87.60666,41.810634",
     "geom:latitude":41.810634,
     "geom:longitude":-87.60666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4630 S Cottage Grove Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287222911,
-    "wof:lastmodified":1449001276,
+    "wof:lastmodified":1466493553,
     "wof:name":"Hyde Park Building Mtl Sups",
     "wof:parent_id":85867601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.60666,41.810634,-87.60666,41.810634],
-  "geometry": {"coordinates":[-87.60666,41.810634],"type":"Point"}
+  "bbox": [
+    -87.60666,
+    41.810634,
+    -87.60666,
+    41.810634
+],
+  "geometry": {"coordinates":[-87.60666000000001,41.810634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269601117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.835655,41.97579,-87.835655,41.97579",
     "geom:latitude":41.97579,
     "geom:longitude":-87.835655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8336 W Berwyn Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":269601117,
-    "wof:lastmodified":1449037215,
+    "wof:lastmodified":1466490843,
     "wof:name":"American Limousine In Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.835655,41.97579,-87.835655,41.97579],
+  "bbox": [
+    -87.835655,
+    41.97579,
+    -87.835655,
+    41.97579
+],
   "geometry": {"coordinates":[-87.835655,41.97579],"type":"Point"}
 }

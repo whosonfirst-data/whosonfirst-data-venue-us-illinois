@@ -2,13 +2,14 @@
   "id": 287091975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.065498,41.520903,-88.065498,41.520903",
     "geom:latitude":41.520903,
     "geom:longitude":-88.065498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 2nd Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287091975,
-    "wof:lastmodified":1449000742,
+    "wof:lastmodified":1466491438,
     "wof:name":"Church Of God",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.065498,41.520903,-88.065498,41.520903],
-  "geometry": {"coordinates":[-88.065498,41.520903],"type":"Point"}
+  "bbox": [
+    -88.065498,
+    41.520903,
+    -88.065498,
+    41.520903
+],
+  "geometry": {"coordinates":[-88.06549800000001,41.520903],"type":"Point"}
 }

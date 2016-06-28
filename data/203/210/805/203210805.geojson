@@ -2,13 +2,14 @@
   "id": 203210805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.02277,40.546133,-90.02277,40.546133",
     "geom:latitude":40.546133,
     "geom:longitude":-90.02277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Linn St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203210805,
-    "wof:lastmodified":1449025555,
+    "wof:lastmodified":1466489471,
     "wof:name":"Buell's Marine & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sales"
     ]
 },
-  "bbox": [-90.02277,40.546133,-90.02277,40.546133],
-  "geometry": {"coordinates":[-90.02277,40.546133],"type":"Point"}
+  "bbox": [
+    -90.02277,
+    40.546133,
+    -90.02277,
+    40.546133
+],
+  "geometry": {"coordinates":[-90.02276999999999,40.546133],"type":"Point"}
 }

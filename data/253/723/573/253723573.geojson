@@ -2,13 +2,14 @@
   "id": 253723573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.077977,42.331557,-89.077977,42.331557",
     "geom:latitude":42.331557,
     "geom:longitude":-89.077977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4684 N Main St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253723573,
-    "wof:lastmodified":1449064545,
+    "wof:lastmodified":1466497697,
     "wof:name":"Rick Griesbach",
     "wof:parent_id":85880435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-89.077977,42.331557,-89.077977,42.331557],
+  "bbox": [
+    -89.077977,
+    42.331557,
+    -89.077977,
+    42.331557
+],
   "geometry": {"coordinates":[-89.077977,42.331557],"type":"Point"}
 }

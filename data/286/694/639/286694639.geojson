@@ -2,13 +2,14 @@
   "id": 286694639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.165775,41.867851,-90.165775,41.867851",
     "geom:latitude":41.867851,
     "geom:longitude":-90.165775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 4th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286694639,
-    "wof:lastmodified":1449016020,
+    "wof:lastmodified":1466496360,
     "wof:name":"Ambulance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.165775,41.867851,-90.165775,41.867851],
+  "bbox": [
+    -90.165775,
+    41.867851,
+    -90.165775,
+    41.867851
+],
   "geometry": {"coordinates":[-90.165775,41.867851],"type":"Point"}
 }

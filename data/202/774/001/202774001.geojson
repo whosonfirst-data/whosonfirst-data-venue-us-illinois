@@ -2,13 +2,14 @@
   "id": 202774001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.834162,41.33177,-88.834162,41.33177",
     "geom:latitude":41.33177,
     "geom:longitude":-88.834162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Gentleman Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202774001,
-    "wof:lastmodified":1449061102,
+    "wof:lastmodified":1466491636,
     "wof:name":"Ottawa AM PM Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.834162,41.33177,-88.834162,41.33177],
-  "geometry": {"coordinates":[-88.834162,41.33177],"type":"Point"}
+  "bbox": [
+    -88.834162,
+    41.33177,
+    -88.834162,
+    41.33177
+],
+  "geometry": {"coordinates":[-88.83416200000001,41.33177],"type":"Point"}
 }

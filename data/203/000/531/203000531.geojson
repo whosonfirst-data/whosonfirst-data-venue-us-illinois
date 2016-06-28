@@ -2,13 +2,14 @@
   "id": 203000531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.244977,42.24784,-88.244977,42.24784",
     "geom:latitude":42.24784,
     "geom:longitude":-88.244977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Private Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203000531,
-    "wof:lastmodified":1449025236,
+    "wof:lastmodified":1466492126,
     "wof:name":"Tuohys Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.244977,42.24784,-88.244977,42.24784],
-  "geometry": {"coordinates":[-88.244977,42.24784],"type":"Point"}
+  "bbox": [
+    -88.244977,
+    42.24784,
+    -88.244977,
+    42.24784
+],
+  "geometry": {"coordinates":[-88.24497700000001,42.24784],"type":"Point"}
 }

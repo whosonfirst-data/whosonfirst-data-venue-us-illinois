@@ -2,13 +2,14 @@
   "id": 203052583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.396819,39.488433,-88.396819,39.488433",
     "geom:latitude":39.488433,
     "geom:longitude":-88.396819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Moultrie Ave",
     "sg:city":"Mattoon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203052583,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466493680,
     "wof:name":"Stuckey Nic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.396819,39.488433,-88.396819,39.488433],
-  "geometry": {"coordinates":[-88.396819,39.488433],"type":"Point"}
+  "bbox": [
+    -88.396819,
+    39.488433,
+    -88.396819,
+    39.488433
+],
+  "geometry": {"coordinates":[-88.39681899999999,39.488433],"type":"Point"}
 }

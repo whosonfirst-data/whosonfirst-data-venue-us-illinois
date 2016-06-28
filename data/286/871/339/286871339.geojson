@@ -2,13 +2,14 @@
   "id": 286871339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.531675,41.596233,-87.531675,41.596233",
     "geom:latitude":41.596233,
     "geom:longitude":-87.531675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 River Oaks Center Dr",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286871339,
-    "wof:lastmodified":1449016145,
+    "wof:lastmodified":1466497899,
     "wof:name":"Airshow Airbrushing",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.531675,41.596233,-87.531675,41.596233],
-  "geometry": {"coordinates":[-87.531675,41.596233],"type":"Point"}
+  "bbox": [
+    -87.531675,
+    41.596233,
+    -87.531675,
+    41.596233
+],
+  "geometry": {"coordinates":[-87.53167500000001,41.596233],"type":"Point"}
 }

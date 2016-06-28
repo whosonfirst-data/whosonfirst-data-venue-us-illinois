@@ -2,13 +2,14 @@
   "id": 202908653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.121648,38.529009,-89.121648,38.529009",
     "geom:latitude":38.529009,
     "geom:longitude":-89.121648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 M L King Dr",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202908653,
-    "wof:lastmodified":1449061540,
+    "wof:lastmodified":1466493279,
     "wof:name":"US Army Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-89.121648,38.529009,-89.121648,38.529009],
-  "geometry": {"coordinates":[-89.121648,38.529009],"type":"Point"}
+  "bbox": [
+    -89.121648,
+    38.529009,
+    -89.121648,
+    38.529009
+],
+  "geometry": {"coordinates":[-89.12164799999999,38.529009],"type":"Point"}
 }

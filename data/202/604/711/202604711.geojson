@@ -2,13 +2,14 @@
   "id": 202604711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10184,41.996077,-88.10184,41.996077",
     "geom:latitude":41.996077,
     "geom:longitude":-88.10184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1672 Wright Blvd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202604711,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466489718,
     "wof:name":"City Filter Svc Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-88.10184,41.996077,-88.10184,41.996077],
+  "bbox": [
+    -88.10184,
+    41.996077,
+    -88.10184,
+    41.996077
+],
   "geometry": {"coordinates":[-88.10184,41.996077],"type":"Point"}
 }

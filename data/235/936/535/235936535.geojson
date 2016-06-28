@@ -2,13 +2,14 @@
   "id": 235936535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.762794,41.874682,-87.762794,41.874682",
     "geom:latitude":41.874682,
     "geom:longitude":-87.762794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5575 W Van Buren St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235936535,
-    "wof:lastmodified":1449008375,
+    "wof:lastmodified":1466489027,
     "wof:name":"Van Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-87.762794,41.874682,-87.762794,41.874682],
+  "bbox": [
+    -87.762794,
+    41.874682,
+    -87.762794,
+    41.874682
+],
   "geometry": {"coordinates":[-87.762794,41.874682],"type":"Point"}
 }

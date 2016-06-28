@@ -2,13 +2,14 @@
   "id": 286589615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.143707,42.448773,-88.143707,42.448773",
     "geom:latitude":42.448773,
     "geom:longitude":-88.143707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26250 W Heart O Lakes Blvd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":286589615,
-    "wof:lastmodified":1449016758,
+    "wof:lastmodified":1466495011,
     "wof:name":"Grass Lake Marina",
     "wof:parent_id":85831403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.143707,42.448773,-88.143707,42.448773],
-  "geometry": {"coordinates":[-88.143707,42.448773],"type":"Point"}
+  "bbox": [
+    -88.143707,
+    42.448773,
+    -88.143707,
+    42.448773
+],
+  "geometry": {"coordinates":[-88.14370700000001,42.448773],"type":"Point"}
 }

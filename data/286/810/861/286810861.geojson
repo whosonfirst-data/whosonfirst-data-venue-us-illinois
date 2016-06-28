@@ -2,13 +2,14 @@
   "id": 286810861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.253363,41.798142,-88.253363,41.798142",
     "geom:latitude":41.798142,
     "geom:longitude":-88.253363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 White Oak Cir",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286810861,
-    "wof:lastmodified":1449016047,
+    "wof:lastmodified":1466497334,
     "wof:name":"3M",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sensitive"
     ]
 },
-  "bbox": [-88.253363,41.798142,-88.253363,41.798142],
-  "geometry": {"coordinates":[-88.253363,41.798142],"type":"Point"}
+  "bbox": [
+    -88.253363,
+    41.798142,
+    -88.253363,
+    41.798142
+],
+  "geometry": {"coordinates":[-88.25336299999999,41.798142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219377163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.728592,41.420046,-87.728592,41.420046",
     "geom:latitude":41.420046,
     "geom:longitude":-87.728592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 W Court St",
     "sg:city":"Monee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219377163,
-    "wof:lastmodified":1449071715,
+    "wof:lastmodified":1466491632,
     "wof:name":"First Midwest Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.728592,41.420046,-87.728592,41.420046],
-  "geometry": {"coordinates":[-87.728592,41.420046],"type":"Point"}
+  "bbox": [
+    -87.728592,
+    41.420046,
+    -87.728592,
+    41.420046
+],
+  "geometry": {"coordinates":[-87.72859200000001,41.420046],"type":"Point"}
 }

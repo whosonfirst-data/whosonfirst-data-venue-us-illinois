@@ -2,13 +2,14 @@
   "id": 269522375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006858,41.795338,-88.006858,41.795338",
     "geom:latitude":41.795338,
     "geom:longitude":-88.006858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Burlington Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269522375,
-    "wof:lastmodified":1449037281,
+    "wof:lastmodified":1466489601,
     "wof:name":"Water Department",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-88.006858,41.795338,-88.006858,41.795338],
-  "geometry": {"coordinates":[-88.006858,41.795338],"type":"Point"}
+  "bbox": [
+    -88.006858,
+    41.795338,
+    -88.006858,
+    41.795338
+],
+  "geometry": {"coordinates":[-88.00685799999999,41.795338],"type":"Point"}
 }

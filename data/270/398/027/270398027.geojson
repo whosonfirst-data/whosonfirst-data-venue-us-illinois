@@ -2,13 +2,14 @@
   "id": 270398027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.03288,40.555696,-90.03288,40.555696",
     "geom:latitude":40.555696,
     "geom:longitude":-90.03288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 E Elm St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270398027,
-    "wof:lastmodified":1449008843,
+    "wof:lastmodified":1466495092,
     "wof:name":"Watering Hole",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-90.03288,40.555696,-90.03288,40.555696],
-  "geometry": {"coordinates":[-90.03288,40.555696],"type":"Point"}
+  "bbox": [
+    -90.03288,
+    40.555696,
+    -90.03288,
+    40.555696
+],
+  "geometry": {"coordinates":[-90.03288000000001,40.555696],"type":"Point"}
 }

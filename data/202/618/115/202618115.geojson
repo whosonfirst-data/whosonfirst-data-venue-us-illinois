@@ -2,13 +2,14 @@
   "id": 202618115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085783,41.899495,-88.085783,41.899495",
     "geom:latitude":41.899495,
     "geom:longitude":-88.085783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Camden Ct",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202618115,
-    "wof:lastmodified":1449061682,
+    "wof:lastmodified":1466489873,
     "wof:name":"Hugo Estarita Realty Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085783,41.899495,-88.085783,41.899495],
-  "geometry": {"coordinates":[-88.085783,41.899495],"type":"Point"}
+  "bbox": [
+    -88.085783,
+    41.899495,
+    -88.085783,
+    41.899495
+],
+  "geometry": {"coordinates":[-88.08578300000001,41.899495],"type":"Point"}
 }

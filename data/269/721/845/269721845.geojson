@@ -2,13 +2,14 @@
   "id": 269721845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.602426,40.147237,-87.602426,40.147237",
     "geom:latitude":40.147237,
     "geom:longitude":-87.602426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 N Griffin St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269721845,
-    "wof:lastmodified":1449038960,
+    "wof:lastmodified":1466492778,
     "wof:name":"Tech Industrial Sales",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-87.602426,40.147237,-87.602426,40.147237],
-  "geometry": {"coordinates":[-87.602426,40.147237],"type":"Point"}
+  "bbox": [
+    -87.602426,
+    40.147237,
+    -87.602426,
+    40.147237
+],
+  "geometry": {"coordinates":[-87.60242599999999,40.147237],"type":"Point"}
 }

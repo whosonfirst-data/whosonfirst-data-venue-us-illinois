@@ -2,13 +2,14 @@
   "id": 303162919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960991,41.867486,-87.960991,41.867486",
     "geom:latitude":41.867486,
     "geom:longitude":-87.960991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 State Rte 83",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303162919,
-    "wof:lastmodified":1449000205,
+    "wof:lastmodified":1466492436,
     "wof:name":"Robinette Demolition Inc",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.960991,41.867486,-87.960991,41.867486],
-  "geometry": {"coordinates":[-87.960991,41.867486],"type":"Point"}
+  "bbox": [
+    -87.960991,
+    41.867486,
+    -87.960991,
+    41.867486
+],
+  "geometry": {"coordinates":[-87.96099100000001,41.867486],"type":"Point"}
 }

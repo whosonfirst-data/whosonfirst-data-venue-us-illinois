@@ -2,13 +2,14 @@
   "id": 303132309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223751,40.105139,-88.223751,40.105139",
     "geom:latitude":40.105139,
     "geom:longitude":-88.223751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 S Goodwin Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303132309,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466491937,
     "wof:name":"Kinesiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.223751,40.105139,-88.223751,40.105139],
-  "geometry": {"coordinates":[-88.223751,40.105139],"type":"Point"}
+  "bbox": [
+    -88.223751,
+    40.105139,
+    -88.223751,
+    40.105139
+],
+  "geometry": {"coordinates":[-88.22375099999999,40.105139],"type":"Point"}
 }

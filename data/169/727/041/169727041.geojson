@@ -2,13 +2,14 @@
   "id": 169727041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.964081,38.814499,-89.964081,38.814499",
     "geom:latitude":38.814499,
     "geom:longitude":-89.964081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 W 4th St",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169727041,
-    "wof:lastmodified":1449033189,
+    "wof:lastmodified":1466492909,
     "wof:name":"Woodprism",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-89.964081,38.814499,-89.964081,38.814499],
-  "geometry": {"coordinates":[-89.964081,38.814499],"type":"Point"}
+  "bbox": [
+    -89.964081,
+    38.814499,
+    -89.964081,
+    38.814499
+],
+  "geometry": {"coordinates":[-89.96408099999999,38.814499],"type":"Point"}
 }

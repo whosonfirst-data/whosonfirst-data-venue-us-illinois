@@ -2,13 +2,14 @@
   "id": 202830511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.156209,42.250097,-88.156209,42.250097",
     "geom:latitude":42.250097,
     "geom:longitude":-88.156209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26556 Pheasant Trl",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202830511,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466492330,
     "wof:name":"Jonda Enterprise Inc",
     "wof:parent_id":85843889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-88.156209,42.250097,-88.156209,42.250097],
+  "bbox": [
+    -88.156209,
+    42.250097,
+    -88.156209,
+    42.250097
+],
   "geometry": {"coordinates":[-88.156209,42.250097],"type":"Point"}
 }

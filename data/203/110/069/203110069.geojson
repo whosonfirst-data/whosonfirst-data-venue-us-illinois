@@ -2,13 +2,14 @@
   "id": 203110069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064203,38.830306,-90.064203,38.830306",
     "geom:latitude":38.830306,
     "geom:longitude":-90.064203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Roxana Ave",
     "sg:city":"South Roxana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203110069,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466494921,
     "wof:name":"Cam LLC",
     "wof:parent_id":85868931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-90.064203,38.830306,-90.064203,38.830306],
-  "geometry": {"coordinates":[-90.064203,38.830306],"type":"Point"}
+  "bbox": [
+    -90.064203,
+    38.830306,
+    -90.064203,
+    38.830306
+],
+  "geometry": {"coordinates":[-90.06420300000001,38.830306],"type":"Point"}
 }

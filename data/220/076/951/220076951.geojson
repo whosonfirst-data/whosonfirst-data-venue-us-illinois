@@ -2,13 +2,14 @@
   "id": 220076951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.324075,37.980883,-88.324075,37.980883",
     "geom:latitude":37.980883,
     "geom:longitude":-88.324075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Main St",
     "sg:city":"Norris City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220076951,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466489891,
     "wof:name":"Gholson Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.324075,37.980883,-88.324075,37.980883],
-  "geometry": {"coordinates":[-88.324075,37.980883],"type":"Point"}
+  "bbox": [
+    -88.324075,
+    37.980883,
+    -88.324075,
+    37.980883
+],
+  "geometry": {"coordinates":[-88.32407499999999,37.980883],"type":"Point"}
 }

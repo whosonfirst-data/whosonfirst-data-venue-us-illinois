@@ -2,13 +2,14 @@
   "id": 185625875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.931169,38.573586,-89.931169,38.573586",
     "geom:latitude":38.573586,
     "geom:longitude":-89.931169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Central Park Dr",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185625875,
-    "wof:lastmodified":1449008240,
+    "wof:lastmodified":1466492823,
     "wof:name":"Tek Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.931169,38.573586,-89.931169,38.573586],
+  "bbox": [
+    -89.931169,
+    38.573586,
+    -89.931169,
+    38.573586
+],
   "geometry": {"coordinates":[-89.931169,38.573586],"type":"Point"}
 }

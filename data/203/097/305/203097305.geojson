@@ -2,13 +2,14 @@
   "id": 203097305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.811968,41.879578,-87.811968,41.879578",
     "geom:latitude":41.879578,
     "geom:longitude":-87.811968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7439 Madison St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203097305,
-    "wof:lastmodified":1449025659,
+    "wof:lastmodified":1466494716,
     "wof:name":"Aqua Fiori",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-87.811968,41.879578,-87.811968,41.879578],
-  "geometry": {"coordinates":[-87.811968,41.879578],"type":"Point"}
+  "bbox": [
+    -87.811968,
+    41.879578,
+    -87.811968,
+    41.879578
+],
+  "geometry": {"coordinates":[-87.81196799999999,41.879578],"type":"Point"}
 }

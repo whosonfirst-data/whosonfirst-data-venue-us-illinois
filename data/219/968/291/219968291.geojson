@@ -2,13 +2,14 @@
   "id": 219968291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.985691,38.559576,-89.985691,38.559576",
     "geom:latitude":38.559576,
     "geom:longitude":-89.985691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Tanbark Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219968291,
-    "wof:lastmodified":1449070604,
+    "wof:lastmodified":1466497528,
     "wof:name":"Enterprise Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-89.985691,38.559576,-89.985691,38.559576],
+  "bbox": [
+    -89.985691,
+    38.559576,
+    -89.985691,
+    38.559576
+],
   "geometry": {"coordinates":[-89.985691,38.559576],"type":"Point"}
 }

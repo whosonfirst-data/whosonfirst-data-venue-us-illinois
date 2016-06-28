@@ -2,13 +2,14 @@
   "id": 236791855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.290005,41.861729,-88.290005,41.861729",
     "geom:latitude":41.861729,
     "geom:longitude":-88.290005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Douglas Rd",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236791855,
-    "wof:lastmodified":1449004326,
+    "wof:lastmodified":1466497835,
     "wof:name":"C F C Wire Forms Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "furnace"
     ]
 },
-  "bbox": [-88.290005,41.861729,-88.290005,41.861729],
-  "geometry": {"coordinates":[-88.290005,41.861729],"type":"Point"}
+  "bbox": [
+    -88.290005,
+    41.861729,
+    -88.290005,
+    41.861729
+],
+  "geometry": {"coordinates":[-88.29000499999999,41.861729],"type":"Point"}
 }

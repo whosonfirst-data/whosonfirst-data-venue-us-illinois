@@ -2,13 +2,14 @@
   "id": 253279149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.232177,40.110354,-88.232177,40.110354",
     "geom:latitude":40.110354,
     "geom:longitude":-88.232177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Green St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253279149,
-    "wof:lastmodified":1449064173,
+    "wof:lastmodified":1466492409,
     "wof:name":"Art Coop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.232177,40.110354,-88.232177,40.110354],
-  "geometry": {"coordinates":[-88.232177,40.110354],"type":"Point"}
+  "bbox": [
+    -88.232177,
+    40.110354,
+    -88.232177,
+    40.110354
+],
+  "geometry": {"coordinates":[-88.23217699999999,40.110354],"type":"Point"}
 }

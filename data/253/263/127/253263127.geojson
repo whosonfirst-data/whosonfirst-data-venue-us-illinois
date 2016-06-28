@@ -2,13 +2,14 @@
   "id": 253263127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.072459,42.454494,-89.072459,42.454494",
     "geom:latitude":42.454494,
     "geom:longitude":-89.072459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Blackhawk Blvd",
     "sg:city":"Rockton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253263127,
-    "wof:lastmodified":1449065710,
+    "wof:lastmodified":1466492180,
     "wof:name":"Rockton Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-89.072459,42.454494,-89.072459,42.454494],
-  "geometry": {"coordinates":[-89.072459,42.454494],"type":"Point"}
+  "bbox": [
+    -89.072459,
+    42.454494,
+    -89.072459,
+    42.454494
+],
+  "geometry": {"coordinates":[-89.07245899999999,42.454494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270309119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.666418,41.561625,-87.666418,41.561625",
     "geom:latitude":41.561625,
     "geom:longitude":-87.666418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Ridge Rd",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270309119,
-    "wof:lastmodified":1449009161,
+    "wof:lastmodified":1466493726,
     "wof:name":"Brown Stone Perry LLC",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.666418,41.561625,-87.666418,41.561625],
-  "geometry": {"coordinates":[-87.666418,41.561625],"type":"Point"}
+  "bbox": [
+    -87.666418,
+    41.561625,
+    -87.666418,
+    41.561625
+],
+  "geometry": {"coordinates":[-87.66641799999999,41.561625],"type":"Point"}
 }

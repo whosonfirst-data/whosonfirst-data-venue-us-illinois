@@ -2,13 +2,14 @@
   "id": 253449133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034017,42.410477,-88.034017,42.410477",
     "geom:latitude":42.410477,
     "geom:longitude":-88.034017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Granada Blvd",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253449133,
-    "wof:lastmodified":1449065575,
+    "wof:lastmodified":1466495021,
     "wof:name":"A-Abbott Driving School",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-88.034017,42.410477,-88.034017,42.410477],
-  "geometry": {"coordinates":[-88.034017,42.410477],"type":"Point"}
+  "bbox": [
+    -88.034017,
+    42.410477,
+    -88.034017,
+    42.410477
+],
+  "geometry": {"coordinates":[-88.03401700000001,42.410477],"type":"Point"}
 }

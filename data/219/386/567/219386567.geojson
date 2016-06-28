@@ -2,13 +2,14 @@
   "id": 219386567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314395,41.839547,-88.314395,41.839547",
     "geom:latitude":41.839547,
     "geom:longitude":-88.314395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 S Batavia Ave",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219386567,
-    "wof:lastmodified":1449072239,
+    "wof:lastmodified":1466491766,
     "wof:name":"Storcom Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-88.314395,41.839547,-88.314395,41.839547],
+  "bbox": [
+    -88.314395,
+    41.839547,
+    -88.314395,
+    41.839547
+],
   "geometry": {"coordinates":[-88.314395,41.839547],"type":"Point"}
 }

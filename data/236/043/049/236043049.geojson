@@ -2,13 +2,14 @@
   "id": 236043049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.841771,38.938607,-89.841771,38.938607",
     "geom:latitude":38.938607,
     "geom:longitude":-89.841771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Cemetery Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236043049,
-    "wof:lastmodified":1449004240,
+    "wof:lastmodified":1466489489,
     "wof:name":"Worden Sewer Plant",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.841771,38.938607,-89.841771,38.938607],
-  "geometry": {"coordinates":[-89.841771,38.938607],"type":"Point"}
+  "bbox": [
+    -89.841771,
+    38.938607,
+    -89.841771,
+    38.938607
+],
+  "geometry": {"coordinates":[-89.84177099999999,38.938607],"type":"Point"}
 }

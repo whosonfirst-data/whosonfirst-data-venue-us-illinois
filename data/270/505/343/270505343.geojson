@@ -2,13 +2,14 @@
   "id": 270505343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.926555,39.292463,-87.926555,39.292463",
     "geom:latitude":39.292463,
     "geom:longitude":-87.926555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3836 E 1000th Rd",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270505343,
-    "wof:lastmodified":1449010675,
+    "wof:lastmodified":1466496334,
     "wof:name":"Eric Patrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.926555,39.292463,-87.926555,39.292463],
-  "geometry": {"coordinates":[-87.926555,39.292463],"type":"Point"}
+  "bbox": [
+    -87.926555,
+    39.292463,
+    -87.926555,
+    39.292463
+],
+  "geometry": {"coordinates":[-87.92655499999999,39.292463],"type":"Point"}
 }

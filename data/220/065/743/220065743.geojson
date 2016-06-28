@@ -2,13 +2,14 @@
   "id": 220065743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.793005,41.888661,-87.793005,41.888661",
     "geom:latitude":41.888661,
     "geom:longitude":-87.793005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Lake St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065743,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466489753,
     "wof:name":"Cabernet & Co",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-87.793005,41.888661,-87.793005,41.888661],
-  "geometry": {"coordinates":[-87.793005,41.888661],"type":"Point"}
+  "bbox": [
+    -87.793005,
+    41.888661,
+    -87.793005,
+    41.888661
+],
+  "geometry": {"coordinates":[-87.79300499999999,41.888661],"type":"Point"}
 }

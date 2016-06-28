@@ -2,13 +2,14 @@
   "id": 270145639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034394,41.619378,-88.034394,41.619378",
     "geom:latitude":41.619378,
     "geom:longitude":-88.034394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17104 W 147th St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270145639,
-    "wof:lastmodified":1449009362,
+    "wof:lastmodified":1466491188,
     "wof:name":"Ruppert Enterprises Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.034394,41.619378,-88.034394,41.619378],
-  "geometry": {"coordinates":[-88.034394,41.619378],"type":"Point"}
+  "bbox": [
+    -88.034394,
+    41.619378,
+    -88.034394,
+    41.619378
+],
+  "geometry": {"coordinates":[-88.03439400000001,41.619378],"type":"Point"}
 }

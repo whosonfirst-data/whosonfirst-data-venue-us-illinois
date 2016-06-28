@@ -2,13 +2,14 @@
   "id": 252757331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.098087,41.930518,-88.098087,41.930518",
     "geom:latitude":41.930518,
     "geom:longitude":-88.098087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Mill Pond Dr",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252757331,
-    "wof:lastmodified":1449006026,
+    "wof:lastmodified":1466489625,
     "wof:name":"Bruce R Salus Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.098087,41.930518,-88.098087,41.930518],
-  "geometry": {"coordinates":[-88.098087,41.930518],"type":"Point"}
+  "bbox": [
+    -88.098087,
+    41.930518,
+    -88.098087,
+    41.930518
+],
+  "geometry": {"coordinates":[-88.09808700000001,41.930518],"type":"Point"}
 }

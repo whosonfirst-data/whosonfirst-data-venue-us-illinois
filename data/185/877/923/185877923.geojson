@@ -2,13 +2,14 @@
   "id": 185877923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.666998,39.786626,-89.666998,39.786626",
     "geom:latitude":39.786626,
     "geom:longitude":-89.666998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 S State St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185877923,
-    "wof:lastmodified":1449007732,
+    "wof:lastmodified":1466489691,
     "wof:name":"Ergadoo Inc",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "autographic"
     ]
 },
-  "bbox": [-89.666998,39.786626,-89.666998,39.786626],
-  "geometry": {"coordinates":[-89.666998,39.786626],"type":"Point"}
+  "bbox": [
+    -89.666998,
+    39.786626,
+    -89.666998,
+    39.786626
+],
+  "geometry": {"coordinates":[-89.66699800000001,39.786626],"type":"Point"}
 }

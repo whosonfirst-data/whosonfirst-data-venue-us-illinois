@@ -2,13 +2,14 @@
   "id": 270000543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099218,41.876759,-88.099218,41.876759",
     "geom:latitude":41.876759,
     "geom:longitude":-88.099218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Irving Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270000543,
-    "wof:lastmodified":1449009018,
+    "wof:lastmodified":1466495643,
     "wof:name":"Critical Skills Foundation",
     "wof:parent_id":85891051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-88.099218,41.876759,-88.099218,41.876759],
-  "geometry": {"coordinates":[-88.099218,41.876759],"type":"Point"}
+  "bbox": [
+    -88.099218,
+    41.876759,
+    -88.099218,
+    41.876759
+],
+  "geometry": {"coordinates":[-88.09921799999999,41.876759],"type":"Point"}
 }

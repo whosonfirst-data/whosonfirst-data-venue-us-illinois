@@ -2,13 +2,14 @@
   "id": 185828749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.229271,39.705059,-90.229271,39.705059",
     "geom:latitude":39.705059,
     "geom:longitude":-90.229271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 S Main St Ste A",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185828749,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1466489208,
     "wof:name":"Quigg Engineering Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "engineer"
     ]
 },
-  "bbox": [-90.229271,39.705059,-90.229271,39.705059],
+  "bbox": [
+    -90.229271,
+    39.705059,
+    -90.229271,
+    39.705059
+],
   "geometry": {"coordinates":[-90.229271,39.705059],"type":"Point"}
 }

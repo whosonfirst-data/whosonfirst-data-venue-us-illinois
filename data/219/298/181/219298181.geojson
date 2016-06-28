@@ -2,13 +2,14 @@
   "id": 219298181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758915,41.938746,-87.758915,41.938746",
     "geom:latitude":41.938746,
     "geom:longitude":-87.758915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5212 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219298181,
-    "wof:lastmodified":1449071360,
+    "wof:lastmodified":1466490675,
     "wof:name":"True Value",
     "wof:parent_id":85867507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-87.758915,41.938746,-87.758915,41.938746],
+  "bbox": [
+    -87.758915,
+    41.938746,
+    -87.758915,
+    41.938746
+],
   "geometry": {"coordinates":[-87.758915,41.938746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219225275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.876099,41.143614,-87.876099,41.143614",
     "geom:latitude":41.143614,
     "geom:longitude":-87.876099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Broadway St",
     "sg:city":"Bradley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219225275,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466489807,
     "wof:name":"Smokeys Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.876099,41.143614,-87.876099,41.143614],
+  "bbox": [
+    -87.876099,
+    41.143614,
+    -87.876099,
+    41.143614
+],
   "geometry": {"coordinates":[-87.876099,41.143614],"type":"Point"}
 }

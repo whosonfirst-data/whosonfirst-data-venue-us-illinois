@@ -2,13 +2,14 @@
   "id": 169730265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.935355,38.799907,-89.935355,38.799907",
     "geom:latitude":38.799907,
     "geom:longitude":-89.935355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Barnett Dr",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":169730265,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466493039,
     "wof:name":"Gis Properties Inc",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-89.935355,38.799907,-89.935355,38.799907],
+  "bbox": [
+    -89.935355,
+    38.799907,
+    -89.935355,
+    38.799907
+],
   "geometry": {"coordinates":[-89.935355,38.799907],"type":"Point"}
 }

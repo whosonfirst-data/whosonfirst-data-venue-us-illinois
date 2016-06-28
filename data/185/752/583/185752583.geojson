@@ -2,13 +2,14 @@
   "id": 185752583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.723745,39.005959,-87.723745,39.005959",
     "geom:latitude":39.005959,
     "geom:longitude":-87.723745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 E Main St",
     "sg:city":"Robinson",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":185752583,
-    "wof:lastmodified":1449006880,
+    "wof:lastmodified":1466495322,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-87.723745,39.005959,-87.723745,39.005959],
-  "geometry": {"coordinates":[-87.723745,39.005959],"type":"Point"}
+  "bbox": [
+    -87.723745,
+    39.005959,
+    -87.723745,
+    39.005959
+],
+  "geometry": {"coordinates":[-87.72374499999999,39.005959],"type":"Point"}
 }

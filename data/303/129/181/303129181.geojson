@@ -2,13 +2,14 @@
   "id": 303129181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.16227,39.492085,-88.16227,39.492085",
     "geom:latitude":39.492085,
     "geom:longitude":-88.16227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 19th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303129181,
-    "wof:lastmodified":1449000094,
+    "wof:lastmodified":1466491884,
     "wof:name":"Wranglers Roast Beef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.16227,39.492085,-88.16227,39.492085],
-  "geometry": {"coordinates":[-88.16227,39.492085],"type":"Point"}
+  "bbox": [
+    -88.16227,
+    39.492085,
+    -88.16227,
+    39.492085
+],
+  "geometry": {"coordinates":[-88.16227000000001,39.492085],"type":"Point"}
 }

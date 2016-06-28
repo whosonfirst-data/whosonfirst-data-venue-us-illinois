@@ -2,13 +2,14 @@
   "id": 286350967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.778596,41.852244,-87.778596,41.852244",
     "geom:latitude":41.852244,
     "geom:longitude":-87.778596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2137 S Lombard Ave",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286350967,
-    "wof:lastmodified":1449016699,
+    "wof:lastmodified":1466491188,
     "wof:name":"Chicago Deportivo",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-87.778596,41.852244,-87.778596,41.852244],
-  "geometry": {"coordinates":[-87.778596,41.852244],"type":"Point"}
+  "bbox": [
+    -87.778596,
+    41.852244,
+    -87.778596,
+    41.852244
+],
+  "geometry": {"coordinates":[-87.77859599999999,41.852244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219369853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.303367,41.851155,-88.303367,41.851155",
     "geom:latitude":41.851155,
     "geom:longitude":-88.303367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E State St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219369853,
-    "wof:lastmodified":1449073727,
+    "wof:lastmodified":1466491535,
     "wof:name":"T Sn Travel",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-88.303367,41.851155,-88.303367,41.851155],
-  "geometry": {"coordinates":[-88.303367,41.851155],"type":"Point"}
+  "bbox": [
+    -88.303367,
+    41.851155,
+    -88.303367,
+    41.851155
+],
+  "geometry": {"coordinates":[-88.30336699999999,41.851155],"type":"Point"}
 }

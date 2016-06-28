@@ -2,13 +2,14 @@
   "id": 202911413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.65574,41.575503,-87.65574,41.575503",
     "geom:latitude":41.575503,
     "geom:longitude":-87.65574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 173rd St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202911413,
-    "wof:lastmodified":1449062243,
+    "wof:lastmodified":1466493311,
     "wof:name":"J M Transportation Company",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-87.65574,41.575503,-87.65574,41.575503],
-  "geometry": {"coordinates":[-87.65574,41.575503],"type":"Point"}
+  "bbox": [
+    -87.65574,
+    41.575503,
+    -87.65574,
+    41.575503
+],
+  "geometry": {"coordinates":[-87.65573999999999,41.575503],"type":"Point"}
 }

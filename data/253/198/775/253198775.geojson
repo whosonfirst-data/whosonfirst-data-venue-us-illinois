@@ -2,13 +2,14 @@
   "id": 253198775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.083002,41.708251,-88.083002,41.708251",
     "geom:latitude":41.708251,
     "geom:longitude":-88.083002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 W Boughton Rd",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253198775,
-    "wof:lastmodified":1449063902,
+    "wof:lastmodified":1466491321,
     "wof:name":"Frank L Konopasek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dentist"
     ]
 },
-  "bbox": [-88.083002,41.708251,-88.083002,41.708251],
-  "geometry": {"coordinates":[-88.083002,41.708251],"type":"Point"}
+  "bbox": [
+    -88.083002,
+    41.708251,
+    -88.083002,
+    41.708251
+],
+  "geometry": {"coordinates":[-88.08300199999999,41.708251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286329727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895834,41.861346,-87.895834,41.861346",
     "geom:latitude":41.861346,
     "geom:longitude":-87.895834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 Evers Ave",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286329727,
-    "wof:lastmodified":1449016002,
+    "wof:lastmodified":1466490866,
     "wof:name":"Michael Mistal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-87.895834,41.861346,-87.895834,41.861346],
-  "geometry": {"coordinates":[-87.895834,41.861346],"type":"Point"}
+  "bbox": [
+    -87.895834,
+    41.861346,
+    -87.895834,
+    41.861346
+],
+  "geometry": {"coordinates":[-87.89583399999999,41.861346],"type":"Point"}
 }

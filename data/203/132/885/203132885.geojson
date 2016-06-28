@@ -2,13 +2,14 @@
   "id": 203132885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.550395,39.127417,-88.550395,39.127417",
     "geom:latitude":39.127417,
     "geom:longitude":-88.550395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Temple Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203132885,
-    "wof:lastmodified":1449025839,
+    "wof:lastmodified":1466495254,
     "wof:name":"Effingham Cooperative Preschl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-88.550395,39.127417,-88.550395,39.127417],
-  "geometry": {"coordinates":[-88.550395,39.127417],"type":"Point"}
+  "bbox": [
+    -88.550395,
+    39.127417,
+    -88.550395,
+    39.127417
+],
+  "geometry": {"coordinates":[-88.55039499999999,39.127417],"type":"Point"}
 }

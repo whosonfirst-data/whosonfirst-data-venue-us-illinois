@@ -2,13 +2,14 @@
   "id": 270229015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655238,41.987625,-87.655238,41.987625",
     "geom:latitude":41.987625,
     "geom:longitude":-87.655238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5815 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270229015,
-    "wof:lastmodified":1449010569,
+    "wof:lastmodified":1466492497,
     "wof:name":"Braillemenucom",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "braille"
     ]
 },
-  "bbox": [-87.655238,41.987625,-87.655238,41.987625],
+  "bbox": [
+    -87.655238,
+    41.987625,
+    -87.655238,
+    41.987625
+],
   "geometry": {"coordinates":[-87.655238,41.987625],"type":"Point"}
 }

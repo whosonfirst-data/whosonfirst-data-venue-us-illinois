@@ -2,13 +2,14 @@
   "id": 270398013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.783426,41.850686,-87.783426,41.850686",
     "geom:latitude":41.850686,
     "geom:longitude":-87.783426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6335 Cermak Rd",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270398013,
-    "wof:lastmodified":1449008850,
+    "wof:lastmodified":1466495092,
     "wof:name":"Baar & Baar Realty",
     "wof:parent_id":85890741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.783426,41.850686,-87.783426,41.850686],
-  "geometry": {"coordinates":[-87.783426,41.850686],"type":"Point"}
+  "bbox": [
+    -87.783426,
+    41.850686,
+    -87.783426,
+    41.850686
+],
+  "geometry": {"coordinates":[-87.78342600000001,41.850686],"type":"Point"}
 }

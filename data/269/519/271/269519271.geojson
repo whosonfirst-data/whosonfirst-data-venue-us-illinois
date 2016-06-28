@@ -2,13 +2,14 @@
   "id": 269519271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109031,41.557097,-88.109031,41.557097",
     "geom:latitude":41.557097,
     "geom:longitude":-88.109031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Burry Circle Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269519271,
-    "wof:lastmodified":1449038812,
+    "wof:lastmodified":1466489556,
     "wof:name":"Med Tech Services",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.109031,41.557097,-88.109031,41.557097],
+  "bbox": [
+    -88.109031,
+    41.557097,
+    -88.109031,
+    41.557097
+],
   "geometry": {"coordinates":[-88.109031,41.557097],"type":"Point"}
 }

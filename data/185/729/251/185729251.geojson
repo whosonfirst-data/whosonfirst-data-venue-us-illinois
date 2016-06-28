@@ -2,13 +2,14 @@
   "id": 185729251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.379339,39.167181,-88.379339,39.167181",
     "geom:latitude":39.167181,
     "geom:longitude":-88.379339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Mead Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185729251,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466495059,
     "wof:name":"Fairview Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-88.379339,39.167181,-88.379339,39.167181],
+  "bbox": [
+    -88.379339,
+    39.167181,
+    -88.379339,
+    39.167181
+],
   "geometry": {"coordinates":[-88.379339,39.167181],"type":"Point"}
 }

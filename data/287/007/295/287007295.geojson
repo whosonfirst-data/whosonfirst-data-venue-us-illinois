@@ -2,13 +2,14 @@
   "id": 287007295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.735115,39.015854,-88.735115,39.015854",
     "geom:latitude":39.015854,
     "geom:longitude":-88.735115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3771 E 700th Ave",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287007295,
-    "wof:lastmodified":1449001412,
+    "wof:lastmodified":1466490091,
     "wof:name":"Steve Alwerdt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-88.735115,39.015854,-88.735115,39.015854],
-  "geometry": {"coordinates":[-88.735115,39.015854],"type":"Point"}
+  "bbox": [
+    -88.735115,
+    39.015854,
+    -88.735115,
+    39.015854
+],
+  "geometry": {"coordinates":[-88.73511499999999,39.015854],"type":"Point"}
 }

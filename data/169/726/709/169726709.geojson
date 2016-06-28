@@ -2,13 +2,14 @@
   "id": 169726709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.970609,38.820626,-89.970609,38.820626",
     "geom:latitude":38.820626,
     "geom:longitude":-89.970609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 M St",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169726709,
-    "wof:lastmodified":1449034953,
+    "wof:lastmodified":1466492848,
     "wof:name":"City Of Edwardsville-Street Department",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-89.970609,38.820626,-89.970609,38.820626],
+  "bbox": [
+    -89.970609,
+    38.820626,
+    -89.970609,
+    38.820626
+],
   "geometry": {"coordinates":[-89.970609,38.820626],"type":"Point"}
 }

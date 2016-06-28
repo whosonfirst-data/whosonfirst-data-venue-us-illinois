@@ -2,13 +2,14 @@
   "id": 202528133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.026378,37.772898,-89.026378,37.772898",
     "geom:latitude":37.772898,
     "geom:longitude":-89.026378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Pershing St",
     "sg:city":"Energy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202528133,
-    "wof:lastmodified":1449060805,
+    "wof:lastmodified":1466495522,
     "wof:name":"Herrin Behavioral Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-89.026378,37.772898,-89.026378,37.772898],
-  "geometry": {"coordinates":[-89.026378,37.772898],"type":"Point"}
+  "bbox": [
+    -89.026378,
+    37.772898,
+    -89.026378,
+    37.772898
+],
+  "geometry": {"coordinates":[-89.02637799999999,37.772898],"type":"Point"}
 }

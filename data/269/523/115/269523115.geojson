@@ -2,13 +2,14 @@
   "id": 269523115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.97321,41.515508,-87.97321,41.515508",
     "geom:latitude":41.515508,
     "geom:longitude":-87.97321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Maple St",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269523115,
-    "wof:lastmodified":1449037517,
+    "wof:lastmodified":1466489614,
     "wof:name":"Edward Jones 02402",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-87.97321,41.515508,-87.97321,41.515508],
-  "geometry": {"coordinates":[-87.97321,41.515508],"type":"Point"}
+  "bbox": [
+    -87.97321,
+    41.515508,
+    -87.97321,
+    41.515508
+],
+  "geometry": {"coordinates":[-87.97320999999999,41.515508],"type":"Point"}
 }

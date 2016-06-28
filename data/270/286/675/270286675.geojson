@@ -2,13 +2,14 @@
   "id": 270286675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.662453,41.977288,-87.662453,41.977288",
     "geom:latitude":41.977288,
     "geom:longitude":-87.662453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5244 N Lakewood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270286675,
-    "wof:lastmodified":1449009259,
+    "wof:lastmodified":1466493380,
     "wof:name":"YWCA of Chicago Metropolitan",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-87.662453,41.977288,-87.662453,41.977288],
+  "bbox": [
+    -87.662453,
+    41.977288,
+    -87.662453,
+    41.977288
+],
   "geometry": {"coordinates":[-87.662453,41.977288],"type":"Point"}
 }

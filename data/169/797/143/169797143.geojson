@@ -2,13 +2,14 @@
   "id": 169797143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030296,38.614899,-90.030296,38.614899",
     "geom:latitude":38.614899,
     "geom:longitude":-90.030296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9204 Bunkum Rd",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169797143,
-    "wof:lastmodified":1449035628,
+    "wof:lastmodified":1466494394,
     "wof:name":"Sterling Baptist Church",
     "wof:parent_id":85851017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.030296,38.614899,-90.030296,38.614899],
-  "geometry": {"coordinates":[-90.030296,38.614899],"type":"Point"}
+  "bbox": [
+    -90.030296,
+    38.614899,
+    -90.030296,
+    38.614899
+],
+  "geometry": {"coordinates":[-90.03029600000001,38.614899],"type":"Point"}
 }

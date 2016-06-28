@@ -2,13 +2,14 @@
   "id": 270339115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.39879,41.551425,-90.39879,41.551425",
     "geom:latitude":41.551425,
     "geom:longitude":-90.39879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 12th Ave",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270339115,
-    "wof:lastmodified":1449009723,
+    "wof:lastmodified":1466494205,
     "wof:name":"Rob Brixey Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-90.39879,41.551425,-90.39879,41.551425],
-  "geometry": {"coordinates":[-90.39879,41.551425],"type":"Point"}
+  "bbox": [
+    -90.39879,
+    41.551425,
+    -90.39879,
+    41.551425
+],
+  "geometry": {"coordinates":[-90.39879000000001,41.551425],"type":"Point"}
 }

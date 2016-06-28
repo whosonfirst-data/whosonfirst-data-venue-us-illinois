@@ -2,13 +2,14 @@
   "id": 303061101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.816954,41.607242,-87.816954,41.607242",
     "geom:latitude":41.607242,
     "geom:longitude":-87.816954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8130 Bayhill Ct",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303061101,
-    "wof:lastmodified":1448999884,
+    "wof:lastmodified":1466490802,
     "wof:name":"John A Weimar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.816954,41.607242,-87.816954,41.607242],
+  "bbox": [
+    -87.816954,
+    41.607242,
+    -87.816954,
+    41.607242
+],
   "geometry": {"coordinates":[-87.816954,41.607242],"type":"Point"}
 }

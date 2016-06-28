@@ -2,13 +2,14 @@
   "id": 202405129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081628,41.524879,-88.081628,41.524879",
     "geom:latitude":41.524879,
     "geom:longitude":-88.081628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 N Chicago St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202405129,
-    "wof:lastmodified":1449062447,
+    "wof:lastmodified":1466493168,
     "wof:name":"Bart P Markese Law Offices",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.081628,41.524879,-88.081628,41.524879],
-  "geometry": {"coordinates":[-88.081628,41.524879],"type":"Point"}
+  "bbox": [
+    -88.081628,
+    41.524879,
+    -88.081628,
+    41.524879
+],
+  "geometry": {"coordinates":[-88.08162799999999,41.524879],"type":"Point"}
 }

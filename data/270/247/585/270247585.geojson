@@ -2,13 +2,14 @@
   "id": 270247585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.640279,41.561948,-87.640279,41.561948",
     "geom:latitude":41.561948,
     "geom:longitude":-87.640279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Ridge Rd",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270247585,
-    "wof:lastmodified":1449010084,
+    "wof:lastmodified":1466492779,
     "wof:name":"American Bond Svc",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-87.640279,41.561948,-87.640279,41.561948],
-  "geometry": {"coordinates":[-87.640279,41.561948],"type":"Point"}
+  "bbox": [
+    -87.640279,
+    41.561948,
+    -87.640279,
+    41.561948
+],
+  "geometry": {"coordinates":[-87.64027900000001,41.561948],"type":"Point"}
 }

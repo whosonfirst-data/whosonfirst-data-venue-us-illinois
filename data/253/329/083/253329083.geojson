@@ -2,13 +2,14 @@
   "id": 253329083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.851067,41.155802,-87.851067,41.155802",
     "geom:latitude":41.155802,
     "geom:longitude":-87.851067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 N Kinzie Ave",
     "sg:city":"Bradley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253329083,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1466493135,
     "wof:name":"United States Dept of Army",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-87.851067,41.155802,-87.851067,41.155802],
+  "bbox": [
+    -87.851067,
+    41.155802,
+    -87.851067,
+    41.155802
+],
   "geometry": {"coordinates":[-87.851067,41.155802],"type":"Point"}
 }

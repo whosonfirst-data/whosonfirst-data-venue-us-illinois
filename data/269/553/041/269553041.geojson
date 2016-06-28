@@ -2,13 +2,14 @@
   "id": 269553041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.012159,41.793941,-88.012159,41.793941",
     "geom:latitude":41.793941,
     "geom:longitude":-88.012159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Forest Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269553041,
-    "wof:lastmodified":1449036164,
+    "wof:lastmodified":1466490075,
     "wof:name":"Jim Swiglo",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.012159,41.793941,-88.012159,41.793941],
+  "bbox": [
+    -88.012159,
+    41.793941,
+    -88.012159,
+    41.793941
+],
   "geometry": {"coordinates":[-88.012159,41.793941],"type":"Point"}
 }

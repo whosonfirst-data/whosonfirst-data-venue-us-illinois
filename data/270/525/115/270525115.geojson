@@ -2,13 +2,14 @@
   "id": 270525115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192061,39.473036,-88.192061,39.473036",
     "geom:latitude":39.473036,
     "geom:longitude":-88.192061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Reynolds Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270525115,
-    "wof:lastmodified":1449010545,
+    "wof:lastmodified":1466496674,
     "wof:name":"Walgreens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "owns"
     ]
 },
-  "bbox": [-88.192061,39.473036,-88.192061,39.473036],
+  "bbox": [
+    -88.192061,
+    39.473036,
+    -88.192061,
+    39.473036
+],
   "geometry": {"coordinates":[-88.192061,39.473036],"type":"Point"}
 }

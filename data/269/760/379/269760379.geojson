@@ -2,13 +2,14 @@
   "id": 269760379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.85326,41.941159,-87.85326,41.941159",
     "geom:latitude":41.941159,
     "geom:longitude":-87.85326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 River Rd",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269760379,
-    "wof:lastmodified":1449038859,
+    "wof:lastmodified":1466493384,
     "wof:name":"Alpha Tool Co",
     "wof:parent_id":85867815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "casting"
     ]
 },
-  "bbox": [-87.85326,41.941159,-87.85326,41.941159],
-  "geometry": {"coordinates":[-87.85326,41.941159],"type":"Point"}
+  "bbox": [
+    -87.85326,
+    41.941159,
+    -87.85326,
+    41.941159
+],
+  "geometry": {"coordinates":[-87.85326000000001,41.941159],"type":"Point"}
 }

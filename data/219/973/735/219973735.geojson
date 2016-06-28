@@ -2,13 +2,14 @@
   "id": 219973735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.079584,41.654656,-88.079584,41.654656",
     "geom:latitude":41.654656,
     "geom:longitude":-88.079584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Devonwood Ave",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219973735,
-    "wof:lastmodified":1449072507,
+    "wof:lastmodified":1466497570,
     "wof:name":"Custom Compaction",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compactors"
     ]
 },
-  "bbox": [-88.079584,41.654656,-88.079584,41.654656],
+  "bbox": [
+    -88.079584,
+    41.654656,
+    -88.079584,
+    41.654656
+],
   "geometry": {"coordinates":[-88.079584,41.654656],"type":"Point"}
 }

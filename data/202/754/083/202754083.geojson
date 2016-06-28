@@ -2,13 +2,14 @@
   "id": 202754083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.194105,39.481176,-88.194105,39.481176",
     "geom:latitude":39.481176,
     "geom:longitude":-88.194105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Olean Pl",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202754083,
-    "wof:lastmodified":1449061746,
+    "wof:lastmodified":1466491412,
     "wof:name":"E L Krackers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.194105,39.481176,-88.194105,39.481176],
-  "geometry": {"coordinates":[-88.194105,39.481176],"type":"Point"}
+  "bbox": [
+    -88.194105,
+    39.481176,
+    -88.194105,
+    39.481176
+],
+  "geometry": {"coordinates":[-88.19410499999999,39.481176],"type":"Point"}
 }

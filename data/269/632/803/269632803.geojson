@@ -2,13 +2,14 @@
   "id": 269632803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.738441,41.724368,-87.738441,41.724368",
     "geom:latitude":41.724368,
     "geom:longitude":-87.738441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 Southwest Hwy",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269632803,
-    "wof:lastmodified":1449037661,
+    "wof:lastmodified":1466491349,
     "wof:name":"Autowerks of Oaklawn Inc",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.738441,41.724368,-87.738441,41.724368],
-  "geometry": {"coordinates":[-87.738441,41.724368],"type":"Point"}
+  "bbox": [
+    -87.738441,
+    41.724368,
+    -87.738441,
+    41.724368
+],
+  "geometry": {"coordinates":[-87.73844099999999,41.724368],"type":"Point"}
 }

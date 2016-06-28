@@ -2,13 +2,14 @@
   "id": 236491865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.686624,42.05151,-87.686624,42.05151",
     "geom:latitude":42.05151,
     "geom:longitude":-87.686624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 Oak Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236491865,
-    "wof:lastmodified":1449001637,
+    "wof:lastmodified":1466495258,
     "wof:name":"Dynacept",
     "wof:parent_id":85890791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.686624,42.05151,-87.686624,42.05151],
-  "geometry": {"coordinates":[-87.686624,42.05151],"type":"Point"}
+  "bbox": [
+    -87.686624,
+    42.05151,
+    -87.686624,
+    42.05151
+],
+  "geometry": {"coordinates":[-87.68662399999999,42.05151],"type":"Point"}
 }

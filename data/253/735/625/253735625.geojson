@@ -2,13 +2,14 @@
   "id": 253735625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.468643,42.413166,-89.468643,42.413166",
     "geom:latitude":42.413166,
     "geom:longitude":-89.468643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Main St",
     "sg:city":"Rock City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253735625,
-    "wof:lastmodified":1449065740,
+    "wof:lastmodified":1466497908,
     "wof:name":"Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.468643,42.413166,-89.468643,42.413166],
+  "bbox": [
+    -89.468643,
+    42.413166,
+    -89.468643,
+    42.413166
+],
   "geometry": {"coordinates":[-89.468643,42.413166],"type":"Point"}
 }

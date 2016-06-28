@@ -2,13 +2,14 @@
   "id": 185857057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.649338,39.800373,-89.649338,39.800373",
     "geom:latitude":39.800373,
     "geom:longitude":-89.649338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S 5th St",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185857057,
-    "wof:lastmodified":1449007643,
+    "wof:lastmodified":1466489398,
     "wof:name":"Stella Blue",
     "wof:parent_id":85803559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.649338,39.800373,-89.649338,39.800373],
+  "bbox": [
+    -89.649338,
+    39.800373,
+    -89.649338,
+    39.800373
+],
   "geometry": {"coordinates":[-89.649338,39.800373],"type":"Point"}
 }

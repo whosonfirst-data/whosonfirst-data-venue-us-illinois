@@ -2,13 +2,14 @@
   "id": 220007629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.07461,37.773907,-89.07461,37.773907",
     "geom:latitude":37.773907,
     "geom:longitude":-89.07461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 Sycamore Rd",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220007629,
-    "wof:lastmodified":1449074721,
+    "wof:lastmodified":1466489038,
     "wof:name":"Paul Wood Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.07461,37.773907,-89.07461,37.773907],
-  "geometry": {"coordinates":[-89.07461,37.773907],"type":"Point"}
+  "bbox": [
+    -89.07461,
+    37.773907,
+    -89.07461,
+    37.773907
+],
+  "geometry": {"coordinates":[-89.07461000000001,37.773907],"type":"Point"}
 }

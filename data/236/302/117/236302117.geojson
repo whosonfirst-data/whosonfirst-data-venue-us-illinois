@@ -2,13 +2,14 @@
   "id": 236302117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.141208,42.208805,-88.141208,42.208805",
     "geom:latitude":42.208805,
     "geom:longitude":-88.141208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 Brookside Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236302117,
-    "wof:lastmodified":1449002623,
+    "wof:lastmodified":1466492799,
     "wof:name":"John E Nyman Interiors Ltd",
     "wof:parent_id":85813157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-88.141208,42.208805,-88.141208,42.208805],
-  "geometry": {"coordinates":[-88.141208,42.208805],"type":"Point"}
+  "bbox": [
+    -88.141208,
+    42.208805,
+    -88.141208,
+    42.208805
+],
+  "geometry": {"coordinates":[-88.14120800000001,42.208805],"type":"Point"}
 }

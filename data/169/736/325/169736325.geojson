@@ -2,13 +2,14 @@
   "id": 169736325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.190815,38.950089,-90.190815,38.950089",
     "geom:latitude":38.950089,
     "geom:longitude":-90.190815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 Godfrey Rd",
     "sg:city":"Godfrey",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169736325,
-    "wof:lastmodified":1449035929,
+    "wof:lastmodified":1466493184,
     "wof:name":"Fringe",
     "wof:parent_id":85868933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.190815,38.950089,-90.190815,38.950089],
+  "bbox": [
+    -90.190815,
+    38.950089,
+    -90.190815,
+    38.950089
+],
   "geometry": {"coordinates":[-90.190815,38.950089],"type":"Point"}
 }

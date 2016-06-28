@@ -2,13 +2,14 @@
   "id": 169854943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.027841,38.659887,-90.027841,38.659887",
     "geom:latitude":38.659887,
     "geom:longitude":-90.027841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Collinsville Rd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":169854943,
-    "wof:lastmodified":1449035841,
+    "wof:lastmodified":1466495119,
     "wof:name":"Home Improvement Whse.",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-90.027841,38.659887,-90.027841,38.659887],
+  "bbox": [
+    -90.027841,
+    38.659887,
+    -90.027841,
+    38.659887
+],
   "geometry": {"coordinates":[-90.027841,38.659887],"type":"Point"}
 }

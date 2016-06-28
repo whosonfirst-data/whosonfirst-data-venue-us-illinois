@@ -2,13 +2,14 @@
   "id": 202728991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709477,41.983066,-87.709477,41.983066",
     "geom:latitude":41.983066,
     "geom:longitude":-87.709477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3248 W Bryn Mawr Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202728991,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466491124,
     "wof:name":"Admiral Electric Co Inc",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.709477,41.983066,-87.709477,41.983066],
-  "geometry": {"coordinates":[-87.709477,41.983066],"type":"Point"}
+  "bbox": [
+    -87.709477,
+    41.983066,
+    -87.709477,
+    41.983066
+],
+  "geometry": {"coordinates":[-87.70947700000001,41.983066],"type":"Point"}
 }

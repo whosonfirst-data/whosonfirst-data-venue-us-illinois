@@ -2,13 +2,14 @@
   "id": 202415869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.466265,41.377019,-89.466265,41.377019",
     "geom:latitude":41.377019,
     "geom:longitude":-89.466265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Pleasant St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202415869,
-    "wof:lastmodified":1449061932,
+    "wof:lastmodified":1466493442,
     "wof:name":"Bl Kassabaum Gallaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-89.466265,41.377019,-89.466265,41.377019],
-  "geometry": {"coordinates":[-89.466265,41.377019],"type":"Point"}
+  "bbox": [
+    -89.466265,
+    41.377019,
+    -89.466265,
+    41.377019
+],
+  "geometry": {"coordinates":[-89.46626500000001,41.377019],"type":"Point"}
 }

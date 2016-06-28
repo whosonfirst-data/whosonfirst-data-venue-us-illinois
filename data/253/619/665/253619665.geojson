@@ -2,13 +2,14 @@
   "id": 253619665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.136018,41.930554,-88.136018,41.930554",
     "geom:latitude":41.930554,
     "geom:longitude":-88.136018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Lies Rd W",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253619665,
-    "wof:lastmodified":1449063353,
+    "wof:lastmodified":1466496844,
     "wof:name":"FIC America Corp",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.136018,41.930554,-88.136018,41.930554],
-  "geometry": {"coordinates":[-88.136018,41.930554],"type":"Point"}
+  "bbox": [
+    -88.136018,
+    41.930554,
+    -88.136018,
+    41.930554
+],
+  "geometry": {"coordinates":[-88.13601800000001,41.930554],"type":"Point"}
 }

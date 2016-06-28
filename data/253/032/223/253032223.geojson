@@ -2,13 +2,14 @@
   "id": 253032223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.035116,42.065509,-88.035116,42.065509",
     "geom:latitude":42.065509,
     "geom:longitude":-88.035116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 N Elmwood Ln",
     "sg:city":"Palatine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253032223,
-    "wof:lastmodified":1449064266,
+    "wof:lastmodified":1466489400,
     "wof:name":"Wickum & Sons Inc",
     "wof:parent_id":85867567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.035116,42.065509,-88.035116,42.065509],
+  "bbox": [
+    -88.035116,
+    42.065509,
+    -88.035116,
+    42.065509
+],
   "geometry": {"coordinates":[-88.035116,42.065509],"type":"Point"}
 }

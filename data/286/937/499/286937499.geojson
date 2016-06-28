@@ -2,13 +2,14 @@
   "id": 286937499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.814437,41.351123,-88.814437,41.351123",
     "geom:latitude":41.351123,
     "geom:longitude":-88.814437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 E Norris Dr",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286937499,
-    "wof:lastmodified":1449015718,
+    "wof:lastmodified":1466498181,
     "wof:name":"Area Wide Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-88.814437,41.351123,-88.814437,41.351123],
+  "bbox": [
+    -88.814437,
+    41.351123,
+    -88.814437,
+    41.351123
+],
   "geometry": {"coordinates":[-88.814437,41.351123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286843051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.482251,41.861891,-89.482251,41.861891",
     "geom:latitude":41.861891,
     "geom:longitude":-89.482251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Marclare St",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286843051,
-    "wof:lastmodified":1449015442,
+    "wof:lastmodified":1466497602,
     "wof:name":"Dixon River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-89.482251,41.861891,-89.482251,41.861891],
-  "geometry": {"coordinates":[-89.482251,41.861891],"type":"Point"}
+  "bbox": [
+    -89.482251,
+    41.861891,
+    -89.482251,
+    41.861891
+],
+  "geometry": {"coordinates":[-89.48225100000001,41.861891],"type":"Point"}
 }

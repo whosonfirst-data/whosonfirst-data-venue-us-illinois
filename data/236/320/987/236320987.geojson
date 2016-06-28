@@ -2,13 +2,14 @@
   "id": 236320987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109223,41.524843,-88.109223,41.524843",
     "geom:latitude":41.524843,
     "geom:longitude":-88.109223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Reed St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236320987,
-    "wof:lastmodified":1449002307,
+    "wof:lastmodified":1466493030,
     "wof:name":"Willy World Honda",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-88.109223,41.524843,-88.109223,41.524843],
+  "bbox": [
+    -88.109223,
+    41.524843,
+    -88.109223,
+    41.524843
+],
   "geometry": {"coordinates":[-88.109223,41.524843],"type":"Point"}
 }

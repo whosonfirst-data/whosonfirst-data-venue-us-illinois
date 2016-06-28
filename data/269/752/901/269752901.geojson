@@ -2,13 +2,14 @@
   "id": 269752901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.846786,37.930977,-89.846786,37.930977",
     "geom:latitude":37.930977,
     "geom:longitude":-89.846786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Lehmen Dr",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269752901,
-    "wof:lastmodified":1449036532,
+    "wof:lastmodified":1466493262,
     "wof:name":"Chester Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-89.846786,37.930977,-89.846786,37.930977],
-  "geometry": {"coordinates":[-89.846786,37.930977],"type":"Point"}
+  "bbox": [
+    -89.846786,
+    37.930977,
+    -89.846786,
+    37.930977
+],
+  "geometry": {"coordinates":[-89.84678599999999,37.930977],"type":"Point"}
 }

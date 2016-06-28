@@ -2,13 +2,14 @@
   "id": 235944419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.425378,41.430155,-88.425378,41.430155",
     "geom:latitude":41.430155,
     "geom:longitude":-88.425378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Airport Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235944419,
-    "wof:lastmodified":1449008422,
+    "wof:lastmodified":1466489115,
     "wof:name":"Austin Electric Inc",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.425378,41.430155,-88.425378,41.430155],
-  "geometry": {"coordinates":[-88.425378,41.430155],"type":"Point"}
+  "bbox": [
+    -88.425378,
+    41.430155,
+    -88.425378,
+    41.430155
+],
+  "geometry": {"coordinates":[-88.42537799999999,41.430155],"type":"Point"}
 }

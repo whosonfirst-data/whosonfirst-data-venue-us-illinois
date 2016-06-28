@@ -2,13 +2,14 @@
   "id": 186573293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.139106,41.523657,-88.139106,41.523657",
     "geom:latitude":41.523657,
     "geom:longitude":-88.139106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Republic Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186573293,
-    "wof:lastmodified":1449052333,
+    "wof:lastmodified":1466489092,
     "wof:name":"World Nails",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.139106,41.523657,-88.139106,41.523657],
+  "bbox": [
+    -88.139106,
+    41.523657,
+    -88.139106,
+    41.523657
+],
   "geometry": {"coordinates":[-88.139106,41.523657],"type":"Point"}
 }

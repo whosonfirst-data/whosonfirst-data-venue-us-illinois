@@ -2,13 +2,14 @@
   "id": 270526193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.662253,41.972709,-87.662253,41.972709",
     "geom:latitude":41.972709,
     "geom:longitude":-87.662253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 W Argyle St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270526193,
-    "wof:lastmodified":1449009363,
+    "wof:lastmodified":1466496674,
     "wof:name":"El Mireiche Restaurant",
     "wof:parent_id":85867773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.662253,41.972709,-87.662253,41.972709],
-  "geometry": {"coordinates":[-87.662253,41.972709],"type":"Point"}
+  "bbox": [
+    -87.662253,
+    41.972709,
+    -87.662253,
+    41.972709
+],
+  "geometry": {"coordinates":[-87.66225300000001,41.972709],"type":"Point"}
 }

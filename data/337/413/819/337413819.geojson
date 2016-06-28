@@ -2,13 +2,14 @@
   "id": 337413819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.797431,38.494573,-89.797431,38.494573",
     "geom:latitude":38.494573,
     "geom:longitude":-89.797431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 N Railway St",
     "sg:city":"Mascoutah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337413819,
-    "wof:lastmodified":1449027052,
+    "wof:lastmodified":1466492150,
     "wof:name":"American Operating Properties",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-89.797431,38.494573,-89.797431,38.494573],
+  "bbox": [
+    -89.797431,
+    38.494573,
+    -89.797431,
+    38.494573
+],
   "geometry": {"coordinates":[-89.797431,38.494573],"type":"Point"}
 }

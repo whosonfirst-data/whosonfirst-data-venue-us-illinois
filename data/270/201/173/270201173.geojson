@@ -2,13 +2,14 @@
   "id": 270201173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.809302,41.879476,-87.809302,41.879476",
     "geom:latitude":41.879476,
     "geom:longitude":-87.809302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7344 Madison St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270201173,
-    "wof:lastmodified":1449010764,
+    "wof:lastmodified":1466492053,
     "wof:name":"Mainstreet Redevelopment Inc",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.809302,41.879476,-87.809302,41.879476],
+  "bbox": [
+    -87.809302,
+    41.879476,
+    -87.809302,
+    41.879476
+],
   "geometry": {"coordinates":[-87.809302,41.879476],"type":"Point"}
 }

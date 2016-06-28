@@ -2,13 +2,14 @@
   "id": 220023715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.074554,41.524119,-88.074554,41.524119",
     "geom:latitude":41.524119,
     "geom:longitude":-88.074554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Washington St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220023715,
-    "wof:lastmodified":1449074799,
+    "wof:lastmodified":1466489234,
     "wof:name":"Urban Wear Inc",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.074554,41.524119,-88.074554,41.524119],
-  "geometry": {"coordinates":[-88.074554,41.524119],"type":"Point"}
+  "bbox": [
+    -88.074554,
+    41.524119,
+    -88.074554,
+    41.524119
+],
+  "geometry": {"coordinates":[-88.07455400000001,41.524119],"type":"Point"}
 }

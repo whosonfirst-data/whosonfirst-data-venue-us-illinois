@@ -2,13 +2,14 @@
   "id": 253525943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.678274,39.804512,-87.678274,39.804512",
     "geom:latitude":39.804512,
     "geom:longitude":-87.678274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Madison Ave",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253525943,
-    "wof:lastmodified":1449065147,
+    "wof:lastmodified":1466496027,
     "wof:name":"Chrisman Family Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-87.678274,39.804512,-87.678274,39.804512],
+  "bbox": [
+    -87.678274,
+    39.804512,
+    -87.678274,
+    39.804512
+],
   "geometry": {"coordinates":[-87.678274,39.804512],"type":"Point"}
 }

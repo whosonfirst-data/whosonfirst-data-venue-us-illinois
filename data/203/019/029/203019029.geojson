@@ -2,13 +2,14 @@
   "id": 203019029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.344032,41.850231,-88.344032,41.850231",
     "geom:latitude":41.850231,
     "geom:longitude":-88.344032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 N Barton Trl",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203019029,
-    "wof:lastmodified":1449026040,
+    "wof:lastmodified":1466495661,
     "wof:name":"Modesto Technologies",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-88.344032,41.850231,-88.344032,41.850231],
+  "bbox": [
+    -88.344032,
+    41.850231,
+    -88.344032,
+    41.850231
+],
   "geometry": {"coordinates":[-88.344032,41.850231],"type":"Point"}
 }

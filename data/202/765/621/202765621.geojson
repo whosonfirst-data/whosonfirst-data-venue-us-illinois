@@ -2,13 +2,14 @@
   "id": 202765621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.196035,41.301556,-90.196035,41.301556",
     "geom:latitude":41.301556,
     "geom:longitude":-90.196035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 W Court St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202765621,
-    "wof:lastmodified":1449061576,
+    "wof:lastmodified":1466491543,
     "wof:name":"Evanglcal Lthran Chrch In Amer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.196035,41.301556,-90.196035,41.301556],
-  "geometry": {"coordinates":[-90.196035,41.301556],"type":"Point"}
+  "bbox": [
+    -90.196035,
+    41.301556,
+    -90.196035,
+    41.301556
+],
+  "geometry": {"coordinates":[-90.19603499999999,41.301556],"type":"Point"}
 }

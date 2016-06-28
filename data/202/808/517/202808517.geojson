@@ -2,13 +2,14 @@
   "id": 202808517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.134061,41.969412,-88.134061,41.969412",
     "geom:latitude":41.969412,
     "geom:longitude":-88.134061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Nashua Ln",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202808517,
-    "wof:lastmodified":1449060222,
+    "wof:lastmodified":1466492048,
     "wof:name":"Information Resources Inc",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-88.134061,41.969412,-88.134061,41.969412],
+  "bbox": [
+    -88.134061,
+    41.969412,
+    -88.134061,
+    41.969412
+],
   "geometry": {"coordinates":[-88.134061,41.969412],"type":"Point"}
 }

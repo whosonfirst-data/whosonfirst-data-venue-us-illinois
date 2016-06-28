@@ -2,13 +2,14 @@
   "id": 202967179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.280418,41.891459,-88.280418,41.891459",
     "geom:latitude":41.891459,
     "geom:longitude":-88.280418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 Kirkwood Dr",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202967179,
-    "wof:lastmodified":1449062459,
+    "wof:lastmodified":1466493979,
     "wof:name":"Feather Dusters Inc",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.280418,41.891459,-88.280418,41.891459],
+  "bbox": [
+    -88.280418,
+    41.891459,
+    -88.280418,
+    41.891459
+],
   "geometry": {"coordinates":[-88.280418,41.891459],"type":"Point"}
 }

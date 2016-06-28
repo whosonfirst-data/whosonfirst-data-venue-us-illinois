@@ -2,13 +2,14 @@
   "id": 253263835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748835,41.862247,-87.748835,41.862247",
     "geom:latitude":41.862247,
     "geom:longitude":-87.748835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4928 W 14th St",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253263835,
-    "wof:lastmodified":1449065708,
+    "wof:lastmodified":1466492190,
     "wof:name":"Barbara's Bakery",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-87.748835,41.862247,-87.748835,41.862247],
+  "bbox": [
+    -87.748835,
+    41.862247,
+    -87.748835,
+    41.862247
+],
   "geometry": {"coordinates":[-87.748835,41.862247],"type":"Point"}
 }

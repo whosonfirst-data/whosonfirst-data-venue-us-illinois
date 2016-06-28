@@ -2,13 +2,14 @@
   "id": 286944565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.046933,39.693572,-91.046933,39.693572",
     "geom:latitude":39.693572,
     "geom:longitude":-91.046933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Main St",
     "sg:city":"New Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286944565,
-    "wof:lastmodified":1449016663,
+    "wof:lastmodified":1466498322,
     "wof:name":"New Canton Fire Protection Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dept"
     ]
 },
-  "bbox": [-91.046933,39.693572,-91.046933,39.693572],
+  "bbox": [
+    -91.046933,
+    39.693572,
+    -91.046933,
+    39.693572
+],
   "geometry": {"coordinates":[-91.046933,39.693572],"type":"Point"}
 }

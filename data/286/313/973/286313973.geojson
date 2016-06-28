@@ -2,13 +2,14 @@
   "id": 286313973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.377713,39.935035,-91.377713,39.935035",
     "geom:latitude":39.935035,
     "geom:longitude":-91.377713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 N 24th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286313973,
-    "wof:lastmodified":1449015245,
+    "wof:lastmodified":1466490625,
     "wof:name":"Bank of America",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-91.377713,39.935035,-91.377713,39.935035],
+  "bbox": [
+    -91.377713,
+    39.935035,
+    -91.377713,
+    39.935035
+],
   "geometry": {"coordinates":[-91.377713,39.935035],"type":"Point"}
 }

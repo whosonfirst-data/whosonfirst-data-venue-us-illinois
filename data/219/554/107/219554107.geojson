@@ -2,13 +2,14 @@
   "id": 219554107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.025343,42.097688,-88.025343,42.097688",
     "geom:latitude":42.097688,
     "geom:longitude":-88.025343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Rohlwing Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219554107,
-    "wof:lastmodified":1449071119,
+    "wof:lastmodified":1466493809,
     "wof:name":"Community Consolidated Dst",
     "wof:parent_id":85890885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-88.025343,42.097688,-88.025343,42.097688],
-  "geometry": {"coordinates":[-88.025343,42.097688],"type":"Point"}
+  "bbox": [
+    -88.025343,
+    42.097688,
+    -88.025343,
+    42.097688
+],
+  "geometry": {"coordinates":[-88.02534300000001,42.097688],"type":"Point"}
 }

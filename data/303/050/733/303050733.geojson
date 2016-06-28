@@ -2,13 +2,14 @@
   "id": 303050733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.066811,37.75152,-89.066811,37.75152",
     "geom:latitude":37.75152,
     "geom:longitude":-89.066811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 California St",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303050733,
-    "wof:lastmodified":1448999467,
+    "wof:lastmodified":1466490642,
     "wof:name":"Tads Heating and Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heating"
     ]
 },
-  "bbox": [-89.066811,37.75152,-89.066811,37.75152],
+  "bbox": [
+    -89.066811,
+    37.75152,
+    -89.066811,
+    37.75152
+],
   "geometry": {"coordinates":[-89.066811,37.75152],"type":"Point"}
 }

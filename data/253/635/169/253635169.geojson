@@ -2,13 +2,14 @@
   "id": 253635169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.004283,38.521214,-88.004283,38.521214",
     "geom:latitude":38.521214,
     "geom:longitude":-88.004283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E North St",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253635169,
-    "wof:lastmodified":1449064102,
+    "wof:lastmodified":1466496980,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.004283,38.521214,-88.004283,38.521214],
+  "bbox": [
+    -88.004283,
+    38.521214,
+    -88.004283,
+    38.521214
+],
   "geometry": {"coordinates":[-88.004283,38.521214],"type":"Point"}
 }

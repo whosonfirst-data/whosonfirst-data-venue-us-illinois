@@ -2,13 +2,14 @@
   "id": 202573609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.857921,42.37023,-87.857921,42.37023",
     "geom:latitude":42.37023,
     "geom:longitude":-87.857921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Grand Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202573609,
-    "wof:lastmodified":1449061974,
+    "wof:lastmodified":1466489363,
     "wof:name":"Supermercado Gonzales",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.857921,42.37023,-87.857921,42.37023],
+  "bbox": [
+    -87.857921,
+    42.37023,
+    -87.857921,
+    42.37023
+],
   "geometry": {"coordinates":[-87.857921,42.37023],"type":"Point"}
 }

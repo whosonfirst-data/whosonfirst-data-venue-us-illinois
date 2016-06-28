@@ -2,13 +2,14 @@
   "id": 219590103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.843955,41.476405,-87.843955,41.476405",
     "geom:latitude":41.476405,
     "geom:longitude":-87.843955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9404 Corsair Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219590103,
-    "wof:lastmodified":1449072486,
+    "wof:lastmodified":1466494224,
     "wof:name":"Chemical Pump Sales",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-87.843955,41.476405,-87.843955,41.476405],
-  "geometry": {"coordinates":[-87.843955,41.476405],"type":"Point"}
+  "bbox": [
+    -87.843955,
+    41.476405,
+    -87.843955,
+    41.476405
+],
+  "geometry": {"coordinates":[-87.84395499999999,41.476405],"type":"Point"}
 }

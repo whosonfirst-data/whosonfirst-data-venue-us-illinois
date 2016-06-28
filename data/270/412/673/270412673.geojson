@@ -2,13 +2,14 @@
   "id": 270412673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.016753,38.520698,-88.016753,38.520698",
     "geom:latitude":38.520698,
     "geom:longitude":-88.016753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 W Church St",
     "sg:city":"West Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270412673,
-    "wof:lastmodified":1449009128,
+    "wof:lastmodified":1466495319,
     "wof:name":"Super Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.016753,38.520698,-88.016753,38.520698],
-  "geometry": {"coordinates":[-88.016753,38.520698],"type":"Point"}
+  "bbox": [
+    -88.016753,
+    38.520698,
+    -88.016753,
+    38.520698
+],
+  "geometry": {"coordinates":[-88.01675299999999,38.520698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202750063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670865,41.442175,-87.670865,41.442175",
     "geom:latitude":41.442175,
     "geom:longitude":-87.670865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25057 Western Ave",
     "sg:city":"Park Forest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202750063,
-    "wof:lastmodified":1449061659,
+    "wof:lastmodified":1466491366,
     "wof:name":"Deercreek Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-87.670865,41.442175,-87.670865,41.442175],
-  "geometry": {"coordinates":[-87.670865,41.442175],"type":"Point"}
+  "bbox": [
+    -87.670865,
+    41.442175,
+    -87.670865,
+    41.442175
+],
+  "geometry": {"coordinates":[-87.67086500000001,41.442175],"type":"Point"}
 }

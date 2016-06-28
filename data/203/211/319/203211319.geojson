@@ -2,13 +2,14 @@
   "id": 203211319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.763134,41.899504,-87.763134,41.899504",
     "geom:latitude":41.899504,
     "geom:longitude":-87.763134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 W Cortez St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203211319,
-    "wof:lastmodified":1449025383,
+    "wof:lastmodified":1466489479,
     "wof:name":"Cross Cultural Clothing",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-87.763134,41.899504,-87.763134,41.899504],
-  "geometry": {"coordinates":[-87.763134,41.899504],"type":"Point"}
+  "bbox": [
+    -87.763134,
+    41.899504,
+    -87.763134,
+    41.899504
+],
+  "geometry": {"coordinates":[-87.76313399999999,41.899504],"type":"Point"}
 }

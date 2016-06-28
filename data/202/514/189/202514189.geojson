@@ -2,13 +2,14 @@
   "id": 202514189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132569,41.515097,-88.132569,41.515097",
     "geom:latitude":41.515097,
     "geom:longitude":-88.132569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 McDonough St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202514189,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466495309,
     "wof:name":"M Cooper Supply Co",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.132569,41.515097,-88.132569,41.515097],
+  "bbox": [
+    -88.132569,
+    41.515097,
+    -88.132569,
+    41.515097
+],
   "geometry": {"coordinates":[-88.132569,41.515097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270007217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.15618,41.588016,-88.15618,41.588016",
     "geom:latitude":41.588016,
     "geom:longitude":-88.15618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3618 Indian Head Ln",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270007217,
-    "wof:lastmodified":1449010652,
+    "wof:lastmodified":1466489147,
     "wof:name":"Floorline",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-88.15618,41.588016,-88.15618,41.588016],
-  "geometry": {"coordinates":[-88.15618,41.588016],"type":"Point"}
+  "bbox": [
+    -88.15618,
+    41.588016,
+    -88.15618,
+    41.588016
+],
+  "geometry": {"coordinates":[-88.15618000000001,41.588016],"type":"Point"}
 }

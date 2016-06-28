@@ -2,13 +2,14 @@
   "id": 236892385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798667,41.879764,-87.798667,41.879764",
     "geom:latitude":41.879764,
     "geom:longitude":-87.798667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"934 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236892385,
-    "wof:lastmodified":1449002042,
+    "wof:lastmodified":1466498112,
     "wof:name":"Medical Clinic",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.798667,41.879764,-87.798667,41.879764],
-  "geometry": {"coordinates":[-87.798667,41.879764],"type":"Point"}
+  "bbox": [
+    -87.798667,
+    41.879764,
+    -87.798667,
+    41.879764
+],
+  "geometry": {"coordinates":[-87.79866699999999,41.879764],"type":"Point"}
 }

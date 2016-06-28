@@ -2,13 +2,14 @@
   "id": 270343853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.130597,41.340284,-89.130597,41.340284",
     "geom:latitude":41.340284,
     "geom:longitude":-89.130597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Plank Rd",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270343853,
-    "wof:lastmodified":1449010385,
+    "wof:lastmodified":1466494280,
     "wof:name":"Horizon House Of Illinois Vly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.130597,41.340284,-89.130597,41.340284],
-  "geometry": {"coordinates":[-89.130597,41.340284],"type":"Point"}
+  "bbox": [
+    -89.130597,
+    41.340284,
+    -89.130597,
+    41.340284
+],
+  "geometry": {"coordinates":[-89.13059699999999,41.340284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202468859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.009859,41.696365,-88.009859,41.696365",
     "geom:latitude":41.696365,
     "geom:longitude":-88.009859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Internationale Pkwy",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202468859,
-    "wof:lastmodified":1449061916,
+    "wof:lastmodified":1466494563,
     "wof:name":"Catellus Development Corp",
     "wof:parent_id":85855003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-88.009859,41.696365,-88.009859,41.696365],
-  "geometry": {"coordinates":[-88.009859,41.696365],"type":"Point"}
+  "bbox": [
+    -88.009859,
+    41.696365,
+    -88.009859,
+    41.696365
+],
+  "geometry": {"coordinates":[-88.00985900000001,41.696365],"type":"Point"}
 }

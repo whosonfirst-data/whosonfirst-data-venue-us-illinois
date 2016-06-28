@@ -2,13 +2,14 @@
   "id": 286731569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.708904,41.919099,-87.708904,41.919099",
     "geom:latitude":41.919099,
     "geom:longitude":-87.708904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 N Sawyer Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286731569,
-    "wof:lastmodified":1449017771,
+    "wof:lastmodified":1466496821,
     "wof:name":"Sugar Blue",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-87.708904,41.919099,-87.708904,41.919099],
+  "bbox": [
+    -87.708904,
+    41.919099,
+    -87.708904,
+    41.919099
+],
   "geometry": {"coordinates":[-87.708904,41.919099],"type":"Point"}
 }

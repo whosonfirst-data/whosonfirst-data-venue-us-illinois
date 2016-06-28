@@ -2,13 +2,14 @@
   "id": 219480533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104002,41.797227,-88.104002,41.797227",
     "geom:latitude":41.797227,
     "geom:longitude":-88.104002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2895 E Ogden Ave",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219480533,
-    "wof:lastmodified":1449071544,
+    "wof:lastmodified":1466492964,
     "wof:name":"Classic Insurance Svc",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104002,41.797227,-88.104002,41.797227],
-  "geometry": {"coordinates":[-88.104002,41.797227],"type":"Point"}
+  "bbox": [
+    -88.104002,
+    41.797227,
+    -88.104002,
+    41.797227
+],
+  "geometry": {"coordinates":[-88.10400199999999,41.797227],"type":"Point"}
 }

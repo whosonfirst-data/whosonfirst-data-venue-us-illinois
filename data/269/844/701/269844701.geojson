@@ -2,13 +2,14 @@
   "id": 269844701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25326,40.131545,-88.25326,40.131545",
     "geom:latitude":40.131545,
     "geom:longitude":-88.25326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Edgebrook Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269844701,
-    "wof:lastmodified":1449037154,
+    "wof:lastmodified":1466494711,
     "wof:name":"Public Works Department",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "works"
     ]
 },
-  "bbox": [-88.25326,40.131545,-88.25326,40.131545],
+  "bbox": [
+    -88.25326,
+    40.131545,
+    -88.25326,
+    40.131545
+],
   "geometry": {"coordinates":[-88.25326,40.131545],"type":"Point"}
 }

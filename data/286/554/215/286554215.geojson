@@ -2,13 +2,14 @@
   "id": 286554215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.96456,38.625018,-88.96456,38.625018",
     "geom:latitude":38.625018,
     "geom:longitude":-88.96456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 W Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286554215,
-    "wof:lastmodified":1449015774,
+    "wof:lastmodified":1466494434,
     "wof:name":"Rapid Roy Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-88.96456,38.625018,-88.96456,38.625018],
-  "geometry": {"coordinates":[-88.96456,38.625018],"type":"Point"}
+  "bbox": [
+    -88.96456,
+    38.625018,
+    -88.96456,
+    38.625018
+],
+  "geometry": {"coordinates":[-88.96456000000001,38.625018],"type":"Point"}
 }

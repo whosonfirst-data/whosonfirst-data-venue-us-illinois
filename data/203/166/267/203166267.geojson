@@ -2,13 +2,14 @@
   "id": 203166267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.783346,41.895254,-87.783346,41.895254",
     "geom:latitude":41.895254,
     "geom:longitude":-87.783346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 N Cuyler Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203166267,
-    "wof:lastmodified":1449026016,
+    "wof:lastmodified":1466488978,
     "wof:name":"Catharsis Productions LLC",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "company"
     ]
 },
-  "bbox": [-87.783346,41.895254,-87.783346,41.895254],
-  "geometry": {"coordinates":[-87.783346,41.895254],"type":"Point"}
+  "bbox": [
+    -87.783346,
+    41.895254,
+    -87.783346,
+    41.895254
+],
+  "geometry": {"coordinates":[-87.78334599999999,41.895254],"type":"Point"}
 }

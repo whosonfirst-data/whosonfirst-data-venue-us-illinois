@@ -2,13 +2,14 @@
   "id": 236823671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.282024,40.628153,-89.282024,40.628153",
     "geom:latitude":40.628153,
     "geom:longitude":-89.282024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Peoria St",
     "sg:city":"Goodfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236823671,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1466498072,
     "wof:name":"Directional Drilling & Excavtg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.282024,40.628153,-89.282024,40.628153],
-  "geometry": {"coordinates":[-89.282024,40.628153],"type":"Point"}
+  "bbox": [
+    -89.282024,
+    40.628153,
+    -89.282024,
+    40.628153
+],
+  "geometry": {"coordinates":[-89.28202400000001,40.628153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270237233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.648283,40.913996,-90.648283,40.913996",
     "geom:latitude":40.913996,
     "geom:longitude":-90.648283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270237233,
-    "wof:lastmodified":1449008730,
+    "wof:lastmodified":1466492623,
     "wof:name":"Bottlery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-90.648283,40.913996,-90.648283,40.913996],
-  "geometry": {"coordinates":[-90.648283,40.913996],"type":"Point"}
+  "bbox": [
+    -90.648283,
+    40.913996,
+    -90.648283,
+    40.913996
+],
+  "geometry": {"coordinates":[-90.64828300000001,40.913996],"type":"Point"}
 }

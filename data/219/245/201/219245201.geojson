@@ -2,13 +2,14 @@
   "id": 219245201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.312592,41.85547,-88.312592,41.85547",
     "geom:latitude":41.85547,
     "geom:longitude":-88.312592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 N Batavia Ave",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219245201,
-    "wof:lastmodified":1449073800,
+    "wof:lastmodified":1466490038,
     "wof:name":"Gen Enterprises",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.312592,41.85547,-88.312592,41.85547],
+  "bbox": [
+    -88.312592,
+    41.85547,
+    -88.312592,
+    41.85547
+],
   "geometry": {"coordinates":[-88.312592,41.85547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269554769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.218547,38.451753,-90.218547,38.451753",
     "geom:latitude":38.451753,
     "geom:longitude":-90.218547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 N Evergreen Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269554769,
-    "wof:lastmodified":1449036642,
+    "wof:lastmodified":1466490102,
     "wof:name":"Columbia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-90.218547,38.451753,-90.218547,38.451753],
+  "bbox": [
+    -90.218547,
+    38.451753,
+    -90.218547,
+    38.451753
+],
   "geometry": {"coordinates":[-90.218547,38.451753],"type":"Point"}
 }

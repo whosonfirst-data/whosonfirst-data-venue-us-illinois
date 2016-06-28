@@ -2,13 +2,14 @@
   "id": 219233053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.971044,42.172317,-87.971044,42.172317",
     "geom:latitude":42.172317,
     "geom:longitude":-87.971044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Gail Dr",
     "sg:city":"Buffalo Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219233053,
-    "wof:lastmodified":1449073984,
+    "wof:lastmodified":1466489899,
     "wof:name":"Tutoring Center of Mathem",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.971044,42.172317,-87.971044,42.172317],
-  "geometry": {"coordinates":[-87.971044,42.172317],"type":"Point"}
+  "bbox": [
+    -87.971044,
+    42.172317,
+    -87.971044,
+    42.172317
+],
+  "geometry": {"coordinates":[-87.97104400000001,42.172317],"type":"Point"}
 }

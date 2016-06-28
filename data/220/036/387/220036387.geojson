@@ -2,13 +2,14 @@
   "id": 220036387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.072097,42.234323,-89.072097,42.234323",
     "geom:latitude":42.234323,
     "geom:longitude":-89.072097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 11th St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220036387,
-    "wof:lastmodified":1449074215,
+    "wof:lastmodified":1466489384,
     "wof:name":"Hairitage Salon",
     "wof:parent_id":85867945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.072097,42.234323,-89.072097,42.234323],
+  "bbox": [
+    -89.072097,
+    42.234323,
+    -89.072097,
+    42.234323
+],
   "geometry": {"coordinates":[-89.072097,42.234323],"type":"Point"}
 }

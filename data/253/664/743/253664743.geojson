@@ -2,13 +2,14 @@
   "id": 253664743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.155547,41.45324,-90.155547,41.45324",
     "geom:latitude":41.45324,
     "geom:longitude":-90.155547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E 1st St",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253664743,
-    "wof:lastmodified":1449063927,
+    "wof:lastmodified":1466497351,
     "wof:name":"Cambridge Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-90.155547,41.45324,-90.155547,41.45324],
+  "bbox": [
+    -90.155547,
+    41.45324,
+    -90.155547,
+    41.45324
+],
   "geometry": {"coordinates":[-90.155547,41.45324],"type":"Point"}
 }

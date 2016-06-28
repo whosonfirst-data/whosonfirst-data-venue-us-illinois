@@ -2,13 +2,14 @@
   "id": 303105367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307502,41.776052,-88.307502,41.776052",
     "geom:latitude":41.776052,
     "geom:longitude":-88.307502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Aurora Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303105367,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466491485,
     "wof:name":"Grant Towing Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-88.307502,41.776052,-88.307502,41.776052],
+  "bbox": [
+    -88.307502,
+    41.776052,
+    -88.307502,
+    41.776052
+],
   "geometry": {"coordinates":[-88.307502,41.776052],"type":"Point"}
 }

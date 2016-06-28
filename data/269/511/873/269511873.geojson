@@ -2,13 +2,14 @@
   "id": 269511873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.059762,42.431063,-88.059762,42.431063",
     "geom:latitude":42.431063,
     "geom:longitude":-88.059762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39079 N Spruce St",
     "sg:city":"Lake Villa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269511873,
-    "wof:lastmodified":1449037245,
+    "wof:lastmodified":1466489433,
     "wof:name":"Wcrs",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.059762,42.431063,-88.059762,42.431063],
-  "geometry": {"coordinates":[-88.059762,42.431063],"type":"Point"}
+  "bbox": [
+    -88.059762,
+    42.431063,
+    -88.059762,
+    42.431063
+],
+  "geometry": {"coordinates":[-88.05976200000001,42.431063],"type":"Point"}
 }

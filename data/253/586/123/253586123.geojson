@@ -2,13 +2,14 @@
   "id": 253586123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.814242,41.575592,-87.814242,41.575592",
     "geom:latitude":41.575592,
     "geom:longitude":-87.814242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8031 Valley View Dr",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253586123,
-    "wof:lastmodified":1449065436,
+    "wof:lastmodified":1466496623,
     "wof:name":"First Choice Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-87.814242,41.575592,-87.814242,41.575592],
-  "geometry": {"coordinates":[-87.814242,41.575592],"type":"Point"}
+  "bbox": [
+    -87.814242,
+    41.575592,
+    -87.814242,
+    41.575592
+],
+  "geometry": {"coordinates":[-87.81424199999999,41.575592],"type":"Point"}
 }

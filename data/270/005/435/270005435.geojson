@@ -2,13 +2,14 @@
   "id": 270005435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.463874,39.710299,-88.463874,39.710299",
     "geom:latitude":39.710299,
     "geom:longitude":-88.463874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 E Columbia St",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270005435,
-    "wof:lastmodified":1449010902,
+    "wof:lastmodified":1466489120,
     "wof:name":"Arthur's 66",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.463874,39.710299,-88.463874,39.710299],
+  "bbox": [
+    -88.463874,
+    39.710299,
+    -88.463874,
+    39.710299
+],
   "geometry": {"coordinates":[-88.463874,39.710299],"type":"Point"}
 }

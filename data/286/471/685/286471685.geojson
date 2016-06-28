@@ -2,13 +2,14 @@
   "id": 286471685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.981749,42.054325,-87.981749,42.054325",
     "geom:latitude":42.054325,
     "geom:longitude":-87.981749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 S Arlington Heights Rd",
     "sg:city":"Arlington Hts",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286471685,
-    "wof:lastmodified":1449016360,
+    "wof:lastmodified":1466493072,
     "wof:name":"Emmaus Covenant Church",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.981749,42.054325,-87.981749,42.054325],
-  "geometry": {"coordinates":[-87.981749,42.054325],"type":"Point"}
+  "bbox": [
+    -87.981749,
+    42.054325,
+    -87.981749,
+    42.054325
+],
+  "geometry": {"coordinates":[-87.98174899999999,42.054325],"type":"Point"}
 }

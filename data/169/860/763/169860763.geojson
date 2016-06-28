@@ -2,13 +2,14 @@
   "id": 169860763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.00795,38.692638,-90.00795,38.692638",
     "geom:latitude":38.692638,
     "geom:longitude":-90.00795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 N Bluff Rd Ste 2",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169860763,
-    "wof:lastmodified":1449034141,
+    "wof:lastmodified":1466495201,
     "wof:name":"Michael Miller",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.00795,38.692638,-90.00795,38.692638],
-  "geometry": {"coordinates":[-90.00795,38.692638],"type":"Point"}
+  "bbox": [
+    -90.00795,
+    38.692638,
+    -90.00795,
+    38.692638
+],
+  "geometry": {"coordinates":[-90.00794999999999,38.692638],"type":"Point"}
 }

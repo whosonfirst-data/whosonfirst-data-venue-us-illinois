@@ -2,13 +2,14 @@
   "id": 202636181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.441522,37.806864,-88.441522,37.806864",
     "geom:latitude":37.806864,
     "geom:longitude":-88.441522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 US Hwy 45 N",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202636181,
-    "wof:lastmodified":1449061125,
+    "wof:lastmodified":1466490083,
     "wof:name":"Eldorado Primary Care",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.441522,37.806864,-88.441522,37.806864],
-  "geometry": {"coordinates":[-88.441522,37.806864],"type":"Point"}
+  "bbox": [
+    -88.441522,
+    37.806864,
+    -88.441522,
+    37.806864
+],
+  "geometry": {"coordinates":[-88.44152200000001,37.806864],"type":"Point"}
 }

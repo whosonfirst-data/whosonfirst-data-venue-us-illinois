@@ -2,13 +2,14 @@
   "id": 286375107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.908411,40.516891,-89.908411,40.516891",
     "geom:latitude":40.516891,
     "geom:longitude":-89.908411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Valley View Dr",
     "sg:city":"Banner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286375107,
-    "wof:lastmodified":1449015264,
+    "wof:lastmodified":1466491552,
     "wof:name":"Holloway Cafe",
     "wof:parent_id":85867847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.908411,40.516891,-89.908411,40.516891],
+  "bbox": [
+    -89.908411,
+    40.516891,
+    -89.908411,
+    40.516891
+],
   "geometry": {"coordinates":[-89.908411,40.516891],"type":"Point"}
 }

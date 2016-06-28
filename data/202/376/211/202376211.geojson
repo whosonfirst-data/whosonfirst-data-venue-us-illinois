@@ -2,13 +2,14 @@
   "id": 202376211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306143,42.480763,-88.306143,42.480763",
     "geom:latitude":42.480763,
     "geom:longitude":-88.306143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10611 N Main St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202376211,
-    "wof:lastmodified":1449060976,
+    "wof:lastmodified":1466495613,
     "wof:name":"Bobs Video & Audio",
     "wof:parent_id":85845071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.306143,42.480763,-88.306143,42.480763],
-  "geometry": {"coordinates":[-88.306143,42.480763],"type":"Point"}
+  "bbox": [
+    -88.306143,
+    42.480763,
+    -88.306143,
+    42.480763
+],
+  "geometry": {"coordinates":[-88.30614300000001,42.480763],"type":"Point"}
 }

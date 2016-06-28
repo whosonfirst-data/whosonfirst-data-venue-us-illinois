@@ -2,13 +2,14 @@
   "id": 286349303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089895,42.476333,-88.089895,42.476333",
     "geom:latitude":42.476333,
     "geom:longitude":-88.089895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Anita Ave",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286349303,
-    "wof:lastmodified":1449016290,
+    "wof:lastmodified":1466491161,
     "wof:name":"DOMS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-88.089895,42.476333,-88.089895,42.476333],
+  "bbox": [
+    -88.089895,
+    42.476333,
+    -88.089895,
+    42.476333
+],
   "geometry": {"coordinates":[-88.089895,42.476333],"type":"Point"}
 }

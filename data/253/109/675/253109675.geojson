@@ -2,13 +2,14 @@
   "id": 253109675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.981997,41.967453,-87.981997,41.967453",
     "geom:latitude":41.967453,
     "geom:longitude":-87.981997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Center St",
     "sg:city":"Wood Dale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253109675,
-    "wof:lastmodified":1449063854,
+    "wof:lastmodified":1466490342,
     "wof:name":"Msz Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.981997,41.967453,-87.981997,41.967453],
-  "geometry": {"coordinates":[-87.981997,41.967453],"type":"Point"}
+  "bbox": [
+    -87.981997,
+    41.967453,
+    -87.981997,
+    41.967453
+],
+  "geometry": {"coordinates":[-87.98199700000001,41.967453],"type":"Point"}
 }

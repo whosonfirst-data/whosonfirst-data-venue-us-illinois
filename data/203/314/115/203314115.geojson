@@ -2,13 +2,14 @@
   "id": 203314115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.618107,40.819068,-89.618107,40.819068",
     "geom:latitude":40.819068,
     "geom:longitude":-89.618107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 W Wilhelm Rd",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203314115,
-    "wof:lastmodified":1449026789,
+    "wof:lastmodified":1466490622,
     "wof:name":"Prayerview Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.618107,40.819068,-89.618107,40.819068],
-  "geometry": {"coordinates":[-89.618107,40.819068],"type":"Point"}
+  "bbox": [
+    -89.618107,
+    40.819068,
+    -89.618107,
+    40.819068
+],
+  "geometry": {"coordinates":[-89.61810699999999,40.819068],"type":"Point"}
 }

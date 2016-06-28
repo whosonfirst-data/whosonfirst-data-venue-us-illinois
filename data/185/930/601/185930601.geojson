@@ -2,13 +2,14 @@
   "id": 185930601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.958769,38.637214,-88.958769,38.637214",
     "geom:latitude":38.637214,
     "geom:longitude":-88.958769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Hawthorn Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185930601,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466490137,
     "wof:name":"Salem Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "medicine"
     ]
 },
-  "bbox": [-88.958769,38.637214,-88.958769,38.637214],
+  "bbox": [
+    -88.958769,
+    38.637214,
+    -88.958769,
+    38.637214
+],
   "geometry": {"coordinates":[-88.958769,38.637214],"type":"Point"}
 }

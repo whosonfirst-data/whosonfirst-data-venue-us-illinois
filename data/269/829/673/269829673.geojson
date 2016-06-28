@@ -2,13 +2,14 @@
   "id": 269829673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.99156,41.784819,-87.99156,41.784819",
     "geom:latitude":41.784819,
     "geom:longitude":-87.99156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Whitefawn Trl",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269829673,
-    "wof:lastmodified":1449038814,
+    "wof:lastmodified":1466494474,
     "wof:name":"GA Paper International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.99156,41.784819,-87.99156,41.784819],
-  "geometry": {"coordinates":[-87.99156,41.784819],"type":"Point"}
+  "bbox": [
+    -87.99156,
+    41.784819,
+    -87.99156,
+    41.784819
+],
+  "geometry": {"coordinates":[-87.99156000000001,41.784819],"type":"Point"}
 }

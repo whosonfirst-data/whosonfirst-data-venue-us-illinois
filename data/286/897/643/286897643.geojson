@@ -2,13 +2,14 @@
   "id": 286897643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.787152,41.879851,-87.787152,41.879851",
     "geom:latitude":41.879851,
     "geom:longitude":-87.787152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286897643,
-    "wof:lastmodified":1449017636,
+    "wof:lastmodified":1466498042,
     "wof:name":"Ruby Cleaners",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agent"
     ]
 },
-  "bbox": [-87.787152,41.879851,-87.787152,41.879851],
-  "geometry": {"coordinates":[-87.787152,41.879851],"type":"Point"}
+  "bbox": [
+    -87.787152,
+    41.879851,
+    -87.787152,
+    41.879851
+],
+  "geometry": {"coordinates":[-87.78715200000001,41.879851],"type":"Point"}
 }

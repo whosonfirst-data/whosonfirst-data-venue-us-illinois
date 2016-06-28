@@ -2,13 +2,14 @@
   "id": 253418579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.973756,38.692189,-89.973756,38.692189",
     "geom:latitude":38.692189,
     "geom:longitude":-89.973756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Frederick Dr",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253418579,
-    "wof:lastmodified":1449065116,
+    "wof:lastmodified":1466494530,
     "wof:name":"A-1 Vacuum World",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-89.973756,38.692189,-89.973756,38.692189],
-  "geometry": {"coordinates":[-89.973756,38.692189],"type":"Point"}
+  "bbox": [
+    -89.973756,
+    38.692189,
+    -89.973756,
+    38.692189
+],
+  "geometry": {"coordinates":[-89.97375599999999,38.692189],"type":"Point"}
 }

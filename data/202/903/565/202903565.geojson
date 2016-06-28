@@ -2,13 +2,14 @@
   "id": 202903565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.748747,39.061161,-88.748747,39.061161",
     "geom:latitude":39.061161,
     "geom:longitude":-88.748747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N 2nd St",
     "sg:city":"Altamont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202903565,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466493216,
     "wof:name":"Corner Tavern",
     "wof:parent_id":85867841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.748747,39.061161,-88.748747,39.061161],
-  "geometry": {"coordinates":[-88.748747,39.061161],"type":"Point"}
+  "bbox": [
+    -88.748747,
+    39.061161,
+    -88.748747,
+    39.061161
+],
+  "geometry": {"coordinates":[-88.74874699999999,39.061161],"type":"Point"}
 }

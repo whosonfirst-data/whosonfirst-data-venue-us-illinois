@@ -2,13 +2,14 @@
   "id": 270082391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.034968,42.132822,-88.034968,42.132822",
     "geom:latitude":42.132822,
     "geom:longitude":-88.034968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 E Old Bridge Rd",
     "sg:city":"Palatine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270082391,
-    "wof:lastmodified":1449008732,
+    "wof:lastmodified":1466490249,
     "wof:name":"Electrical Design Svc",
     "wof:parent_id":85867627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.034968,42.132822,-88.034968,42.132822],
-  "geometry": {"coordinates":[-88.034968,42.132822],"type":"Point"}
+  "bbox": [
+    -88.034968,
+    42.132822,
+    -88.034968,
+    42.132822
+],
+  "geometry": {"coordinates":[-88.03496800000001,42.132822],"type":"Point"}
 }

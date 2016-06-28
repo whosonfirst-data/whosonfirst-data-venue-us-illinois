@@ -2,13 +2,14 @@
   "id": 287074111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.75342,41.851134,-87.75342,41.851134",
     "geom:latitude":41.851134,
     "geom:longitude":-87.75342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5107 W Cermak Rd",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287074111,
-    "wof:lastmodified":1449001150,
+    "wof:lastmodified":1466491148,
     "wof:name":"Family Pride Laundry",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coin"
     ]
 },
-  "bbox": [-87.75342,41.851134,-87.75342,41.851134],
-  "geometry": {"coordinates":[-87.75342,41.851134],"type":"Point"}
+  "bbox": [
+    -87.75342,
+    41.851134,
+    -87.75342,
+    41.851134
+],
+  "geometry": {"coordinates":[-87.75342000000001,41.851134],"type":"Point"}
 }

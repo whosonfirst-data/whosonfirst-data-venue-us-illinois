@@ -2,13 +2,14 @@
   "id": 287206427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.305059,41.189524,-88.305059,41.189524",
     "geom:latitude":41.189524,
     "geom:longitude":-88.305059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Center St",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287206427,
-    "wof:lastmodified":1449001289,
+    "wof:lastmodified":1466493295,
     "wof:name":"Gardner Village Hall",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.305059,41.189524,-88.305059,41.189524],
+  "bbox": [
+    -88.305059,
+    41.189524,
+    -88.305059,
+    41.189524
+],
   "geometry": {"coordinates":[-88.305059,41.189524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287292463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694307,41.562466,-87.694307,41.562466",
     "geom:latitude":41.562466,
     "geom:longitude":-87.694307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18130 Kedzie Ave",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287292463,
-    "wof:lastmodified":1449000722,
+    "wof:lastmodified":1466494621,
     "wof:name":"Versailles Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.694307,41.562466,-87.694307,41.562466],
-  "geometry": {"coordinates":[-87.694307,41.562466],"type":"Point"}
+  "bbox": [
+    -87.694307,
+    41.562466,
+    -87.694307,
+    41.562466
+],
+  "geometry": {"coordinates":[-87.69430699999999,41.562466],"type":"Point"}
 }

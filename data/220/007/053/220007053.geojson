@@ -2,13 +2,14 @@
   "id": 220007053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.338473,41.791121,-88.338473,41.791121",
     "geom:latitude":41.791121,
     "geom:longitude":-88.338473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Industrial Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220007053,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466489029,
     "wof:name":"Goeken Group Inc",
     "wof:parent_id":85818385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgical"
     ]
 },
-  "bbox": [-88.338473,41.791121,-88.338473,41.791121],
-  "geometry": {"coordinates":[-88.338473,41.791121],"type":"Point"}
+  "bbox": [
+    -88.338473,
+    41.791121,
+    -88.338473,
+    41.791121
+],
+  "geometry": {"coordinates":[-88.33847299999999,41.791121],"type":"Point"}
 }

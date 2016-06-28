@@ -2,13 +2,14 @@
   "id": 253691243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.569151,41.507786,-90.569151,41.507786",
     "geom:latitude":41.507786,
     "geom:longitude":-90.569151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 5th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253691243,
-    "wof:lastmodified":1449063062,
+    "wof:lastmodified":1466497573,
     "wof:name":"Marshall Thurgood High School",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.569151,41.507786,-90.569151,41.507786],
-  "geometry": {"coordinates":[-90.569151,41.507786],"type":"Point"}
+  "bbox": [
+    -90.569151,
+    41.507786,
+    -90.569151,
+    41.507786
+],
+  "geometry": {"coordinates":[-90.56915100000001,41.507786],"type":"Point"}
 }

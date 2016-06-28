@@ -2,13 +2,14 @@
   "id": 269491499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105531,41.504277,-88.105531,41.504277",
     "geom:latitude":41.504277,
     "geom:longitude":-88.105531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Brandon Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269491499,
-    "wof:lastmodified":1449036104,
+    "wof:lastmodified":1466489113,
     "wof:name":"US Army Corps Of Engineers",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineering"
     ]
 },
-  "bbox": [-88.105531,41.504277,-88.105531,41.504277],
+  "bbox": [
+    -88.105531,
+    41.504277,
+    -88.105531,
+    41.504277
+],
   "geometry": {"coordinates":[-88.105531,41.504277],"type":"Point"}
 }

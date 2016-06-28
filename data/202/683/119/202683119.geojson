@@ -2,13 +2,14 @@
   "id": 202683119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.754095,41.714269,-87.754095,41.714269",
     "geom:latitude":41.714269,
     "geom:longitude":-87.754095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9701 Minnick Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202683119,
-    "wof:lastmodified":1449061044,
+    "wof:lastmodified":1466490624,
     "wof:name":"FRP Financial Inc",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.754095,41.714269,-87.754095,41.714269],
-  "geometry": {"coordinates":[-87.754095,41.714269],"type":"Point"}
+  "bbox": [
+    -87.754095,
+    41.714269,
+    -87.754095,
+    41.714269
+],
+  "geometry": {"coordinates":[-87.75409500000001,41.714269],"type":"Point"}
 }

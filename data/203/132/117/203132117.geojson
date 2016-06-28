@@ -2,13 +2,14 @@
   "id": 203132117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.848955,42.391649,-87.848955,42.391649",
     "geom:latitude":42.391649,
     "geom:longitude":-87.848955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Golf Rd",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203132117,
-    "wof:lastmodified":1449025840,
+    "wof:lastmodified":1466495242,
     "wof:name":"Invitations & More",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.848955,42.391649,-87.848955,42.391649],
+  "bbox": [
+    -87.848955,
+    42.391649,
+    -87.848955,
+    42.391649
+],
   "geometry": {"coordinates":[-87.848955,42.391649],"type":"Point"}
 }

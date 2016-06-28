@@ -2,13 +2,14 @@
   "id": 203256563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95109,40.361072,-87.95109,40.361072",
     "geom:latitude":40.361072,
     "geom:longitude":-87.95109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3342 Co Rd 2700 E",
     "sg:city":"Penfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203256563,
-    "wof:lastmodified":1449026384,
+    "wof:lastmodified":1466489983,
     "wof:name":"Gerald D Roberts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "local"
     ]
 },
-  "bbox": [-87.95109,40.361072,-87.95109,40.361072],
-  "geometry": {"coordinates":[-87.95109,40.361072],"type":"Point"}
+  "bbox": [
+    -87.95109,
+    40.361072,
+    -87.95109,
+    40.361072
+],
+  "geometry": {"coordinates":[-87.95108999999999,40.361072],"type":"Point"}
 }

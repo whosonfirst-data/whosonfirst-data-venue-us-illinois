@@ -2,13 +2,14 @@
   "id": 236359797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.453002,37.803276,-88.453002,37.803276",
     "geom:latitude":37.803276,
     "geom:longitude":-88.453002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 US Hwy 45 N",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236359797,
-    "wof:lastmodified":1449001639,
+    "wof:lastmodified":1466493525,
     "wof:name":"Egyptian Mental Health Dept",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "health"
     ]
 },
-  "bbox": [-88.453002,37.803276,-88.453002,37.803276],
+  "bbox": [
+    -88.453002,
+    37.803276,
+    -88.453002,
+    37.803276
+],
   "geometry": {"coordinates":[-88.453002,37.803276],"type":"Point"}
 }

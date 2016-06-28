@@ -2,13 +2,14 @@
   "id": 219624359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.285097,41.279274,-88.285097,41.279274",
     "geom:latitude":41.279274,
     "geom:longitude":-88.285097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Broadway St",
     "sg:city":"Coal City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219624359,
-    "wof:lastmodified":1449072809,
+    "wof:lastmodified":1466494630,
     "wof:name":"Geo's Pizza",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-88.285097,41.279274,-88.285097,41.279274],
-  "geometry": {"coordinates":[-88.285097,41.279274],"type":"Point"}
+  "bbox": [
+    -88.285097,
+    41.279274,
+    -88.285097,
+    41.279274
+],
+  "geometry": {"coordinates":[-88.28509699999999,41.279274],"type":"Point"}
 }

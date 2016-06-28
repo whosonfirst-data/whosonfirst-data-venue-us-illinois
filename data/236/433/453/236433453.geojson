@@ -2,13 +2,14 @@
   "id": 236433453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.583109,40.276761,-89.583109,40.276761",
     "geom:latitude":40.276761,
     "geom:longitude":-89.583109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 100th Ave",
     "sg:city":"San Jose",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236433453,
-    "wof:lastmodified":1449001964,
+    "wof:lastmodified":1466494518,
     "wof:name":"Blair Hoerbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.583109,40.276761,-89.583109,40.276761],
-  "geometry": {"coordinates":[-89.583109,40.276761],"type":"Point"}
+  "bbox": [
+    -89.583109,
+    40.276761,
+    -89.583109,
+    40.276761
+],
+  "geometry": {"coordinates":[-89.58310899999999,40.276761],"type":"Point"}
 }

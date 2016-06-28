@@ -2,13 +2,14 @@
   "id": 270135031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996534,39.455977,-87.996534,39.455977",
     "geom:latitude":39.455977,
     "geom:longitude":-87.996534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Washington St",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270135031,
-    "wof:lastmodified":1449009577,
+    "wof:lastmodified":1466491027,
     "wof:name":"L & M Grocery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.996534,39.455977,-87.996534,39.455977],
+  "bbox": [
+    -87.996534,
+    39.455977,
+    -87.996534,
+    39.455977
+],
   "geometry": {"coordinates":[-87.996534,39.455977],"type":"Point"}
 }

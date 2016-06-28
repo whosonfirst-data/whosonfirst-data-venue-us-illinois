@@ -2,13 +2,14 @@
   "id": 202686331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.985645,41.903811,-87.985645,41.903811",
     "geom:latitude":41.903811,
     "geom:longitude":-87.985645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 W Stone Rd",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686331,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1466490660,
     "wof:name":"Cleaning Co",
     "wof:parent_id":85849367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.985645,41.903811,-87.985645,41.903811],
-  "geometry": {"coordinates":[-87.985645,41.903811],"type":"Point"}
+  "bbox": [
+    -87.985645,
+    41.903811,
+    -87.985645,
+    41.903811
+],
+  "geometry": {"coordinates":[-87.98564500000001,41.903811],"type":"Point"}
 }

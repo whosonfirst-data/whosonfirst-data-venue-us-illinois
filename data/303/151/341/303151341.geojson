@@ -2,13 +2,14 @@
   "id": 303151341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25625,41.806887,-88.25625,41.806887",
     "geom:latitude":41.806887,
     "geom:longitude":-88.25625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2178 Bilter Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303151341,
-    "wof:lastmodified":1448998145,
+    "wof:lastmodified":1466492249,
     "wof:name":"Teds Body & Paint",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-88.25625,41.806887,-88.25625,41.806887],
-  "geometry": {"coordinates":[-88.25625,41.806887],"type":"Point"}
+  "bbox": [
+    -88.25625,
+    41.806887,
+    -88.25625,
+    41.806887
+],
+  "geometry": {"coordinates":[-88.25624999999999,41.806887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219219835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.005605,40.705613,-90.005605,40.705613",
     "geom:latitude":40.705613,
     "geom:longitude":-90.005605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 N Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219219835,
-    "wof:lastmodified":1449073765,
+    "wof:lastmodified":1466489744,
     "wof:name":"Farmington City Garage",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.005605,40.705613,-90.005605,40.705613],
+  "bbox": [
+    -90.005605,
+    40.705613,
+    -90.005605,
+    40.705613
+],
   "geometry": {"coordinates":[-90.005605,40.705613],"type":"Point"}
 }

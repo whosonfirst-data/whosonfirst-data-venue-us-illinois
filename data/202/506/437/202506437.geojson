@@ -2,13 +2,14 @@
   "id": 202506437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.408295,39.934431,-91.408295,39.934431",
     "geom:latitude":39.934431,
     "geom:longitude":-91.408295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Vermont St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202506437,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466495225,
     "wof:name":"Goehl Schuering & Cassens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.408295,39.934431,-91.408295,39.934431],
+  "bbox": [
+    -91.408295,
+    39.934431,
+    -91.408295,
+    39.934431
+],
   "geometry": {"coordinates":[-91.408295,39.934431],"type":"Point"}
 }

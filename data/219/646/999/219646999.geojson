@@ -2,13 +2,14 @@
   "id": 219646999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.663294,41.694441,-87.663294,41.694441",
     "geom:latitude":41.694441,
     "geom:longitude":-87.663294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10977 S Church St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219646999,
-    "wof:lastmodified":1449070296,
+    "wof:lastmodified":1466494890,
     "wof:name":"Beverly Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "local"
     ]
 },
-  "bbox": [-87.663294,41.694441,-87.663294,41.694441],
-  "geometry": {"coordinates":[-87.663294,41.694441],"type":"Point"}
+  "bbox": [
+    -87.663294,
+    41.694441,
+    -87.663294,
+    41.694441
+],
+  "geometry": {"coordinates":[-87.66329399999999,41.694441],"type":"Point"}
 }

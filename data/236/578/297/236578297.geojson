@@ -2,13 +2,14 @@
   "id": 236578297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.241792,41.907399,-88.241792,41.907399",
     "geom:latitude":41.907399,
     "geom:longitude":-88.241792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Howard Dr",
     "sg:city":"West Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236578297,
-    "wof:lastmodified":1449002304,
+    "wof:lastmodified":1466496179,
     "wof:name":"Roadway Express",
     "wof:parent_id":85891001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.241792,41.907399,-88.241792,41.907399],
+  "bbox": [
+    -88.241792,
+    41.907399,
+    -88.241792,
+    41.907399
+],
   "geometry": {"coordinates":[-88.241792,41.907399],"type":"Point"}
 }

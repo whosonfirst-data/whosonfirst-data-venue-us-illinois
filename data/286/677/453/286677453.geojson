@@ -2,13 +2,14 @@
   "id": 286677453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.138236,41.320475,-89.138236,41.320475",
     "geom:latitude":41.320475,
     "geom:longitude":-89.138236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Church St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286677453,
-    "wof:lastmodified":1449016245,
+    "wof:lastmodified":1466496385,
     "wof:name":"Maze Lumber Time & Weather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-89.138236,41.320475,-89.138236,41.320475],
-  "geometry": {"coordinates":[-89.138236,41.320475],"type":"Point"}
+  "bbox": [
+    -89.138236,
+    41.320475,
+    -89.138236,
+    41.320475
+],
+  "geometry": {"coordinates":[-89.13823600000001,41.320475],"type":"Point"}
 }

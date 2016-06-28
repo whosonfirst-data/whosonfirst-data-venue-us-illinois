@@ -2,13 +2,14 @@
   "id": 219251279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.646689,41.933478,-87.646689,41.933478",
     "geom:latitude":41.933478,
     "geom:longitude":-87.646689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 N Orchard St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219251279,
-    "wof:lastmodified":1449070433,
+    "wof:lastmodified":1466490109,
     "wof:name":"Heil Heil Smart & Golee Inc",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.646689,41.933478,-87.646689,41.933478],
-  "geometry": {"coordinates":[-87.646689,41.933478],"type":"Point"}
+  "bbox": [
+    -87.646689,
+    41.933478,
+    -87.646689,
+    41.933478
+],
+  "geometry": {"coordinates":[-87.64668899999999,41.933478],"type":"Point"}
 }

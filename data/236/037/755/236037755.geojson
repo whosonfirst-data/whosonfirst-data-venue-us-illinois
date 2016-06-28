@@ -2,13 +2,14 @@
   "id": 236037755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.660305,41.993661,-87.660305,41.993661",
     "geom:latitude":41.993661,
     "geom:longitude":-87.660305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6165 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236037755,
-    "wof:lastmodified":1449005318,
+    "wof:lastmodified":1466489428,
     "wof:name":"Granvlle Bradway Currency Exch",
     "wof:parent_id":85867703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exchange"
     ]
 },
-  "bbox": [-87.660305,41.993661,-87.660305,41.993661],
-  "geometry": {"coordinates":[-87.660305,41.993661],"type":"Point"}
+  "bbox": [
+    -87.660305,
+    41.993661,
+    -87.660305,
+    41.993661
+],
+  "geometry": {"coordinates":[-87.66030499999999,41.993661],"type":"Point"}
 }

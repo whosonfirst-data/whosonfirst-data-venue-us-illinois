@@ -2,13 +2,14 @@
   "id": 253484707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.966451,38.636311,-89.966451,38.636311",
     "geom:latitude":38.636311,
     "geom:longitude":-89.966451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Old Collinsville Rd",
     "sg:city":"Caseyville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253484707,
-    "wof:lastmodified":1449065625,
+    "wof:lastmodified":1466495617,
     "wof:name":"Dulaney Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-89.966451,38.636311,-89.966451,38.636311],
-  "geometry": {"coordinates":[-89.966451,38.636311],"type":"Point"}
+  "bbox": [
+    -89.966451,
+    38.636311,
+    -89.966451,
+    38.636311
+],
+  "geometry": {"coordinates":[-89.96645100000001,38.636311],"type":"Point"}
 }

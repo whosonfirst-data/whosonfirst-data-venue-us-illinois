@@ -2,13 +2,14 @@
   "id": 202566291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.035199,40.557308,-90.035199,40.557308",
     "geom:latitude":40.557308,
     "geom:longitude":-90.035199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 N Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202566291,
-    "wof:lastmodified":1449060156,
+    "wof:lastmodified":1466489274,
     "wof:name":"Goodwill Industries Centl Ill",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.035199,40.557308,-90.035199,40.557308],
-  "geometry": {"coordinates":[-90.035199,40.557308],"type":"Point"}
+  "bbox": [
+    -90.035199,
+    40.557308,
+    -90.035199,
+    40.557308
+],
+  "geometry": {"coordinates":[-90.03519900000001,40.557308],"type":"Point"}
 }

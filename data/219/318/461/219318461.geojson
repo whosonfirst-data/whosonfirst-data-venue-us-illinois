@@ -2,13 +2,14 @@
   "id": 219318461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.081098,41.685355,-90.081098,41.685355",
     "geom:latitude":41.685355,
     "geom:longitude":-90.081098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8689 Star Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219318461,
-    "wof:lastmodified":1449071179,
+    "wof:lastmodified":1466490941,
     "wof:name":"Erie Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.081098,41.685355,-90.081098,41.685355],
+  "bbox": [
+    -90.081098,
+    41.685355,
+    -90.081098,
+    41.685355
+],
   "geometry": {"coordinates":[-90.081098,41.685355],"type":"Point"}
 }

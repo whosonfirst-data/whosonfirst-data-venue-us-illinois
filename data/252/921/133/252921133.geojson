@@ -2,13 +2,14 @@
   "id": 252921133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.468488,39.716915,-88.468488,39.716915",
     "geom:latitude":39.716915,
     "geom:longitude":-88.468488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 E Progress St",
     "sg:city":"Arthur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252921133,
-    "wof:lastmodified":1449006107,
+    "wof:lastmodified":1466491731,
     "wof:name":"New Progress Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "component"
     ]
 },
-  "bbox": [-88.468488,39.716915,-88.468488,39.716915],
-  "geometry": {"coordinates":[-88.468488,39.716915],"type":"Point"}
+  "bbox": [
+    -88.468488,
+    39.716915,
+    -88.468488,
+    39.716915
+],
+  "geometry": {"coordinates":[-88.46848799999999,39.716915],"type":"Point"}
 }

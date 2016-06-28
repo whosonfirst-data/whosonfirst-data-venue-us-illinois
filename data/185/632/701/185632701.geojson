@@ -2,13 +2,14 @@
   "id": 185632701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.938499,38.5914,-89.938499,38.5914",
     "geom:latitude":38.5914,
     "geom:longitude":-89.938499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Regency Park",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185632701,
-    "wof:lastmodified":1449007622,
+    "wof:lastmodified":1466493182,
     "wof:name":"Schantz Ford",
     "wof:parent_id":85809441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-89.938499,38.5914,-89.938499,38.5914],
-  "geometry": {"coordinates":[-89.938499,38.5914],"type":"Point"}
+  "bbox": [
+    -89.938499,
+    38.5914,
+    -89.938499,
+    38.5914
+],
+  "geometry": {"coordinates":[-89.93849899999999,38.5914],"type":"Point"}
 }

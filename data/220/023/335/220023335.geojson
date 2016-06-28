@@ -2,13 +2,14 @@
   "id": 220023335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.312071,41.756668,-88.312071,41.756668",
     "geom:latitude":41.756668,
     "geom:longitude":-88.312071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220023335,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466489226,
     "wof:name":"Happy Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-88.312071,41.756668,-88.312071,41.756668],
+  "bbox": [
+    -88.312071,
+    41.756668,
+    -88.312071,
+    41.756668
+],
   "geometry": {"coordinates":[-88.312071,41.756668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236762439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.067839,42.379074,-88.067839,42.379074",
     "geom:latitude":42.379074,
     "geom:longitude":-88.067839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 E Rollins Rd",
     "sg:city":"Round Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236762439,
-    "wof:lastmodified":1449004079,
+    "wof:lastmodified":1466497524,
     "wof:name":"Applebees",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.067839,42.379074,-88.067839,42.379074],
-  "geometry": {"coordinates":[-88.067839,42.379074],"type":"Point"}
+  "bbox": [
+    -88.067839,
+    42.379074,
+    -88.067839,
+    42.379074
+],
+  "geometry": {"coordinates":[-88.06783900000001,42.379074],"type":"Point"}
 }

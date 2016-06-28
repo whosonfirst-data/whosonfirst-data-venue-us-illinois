@@ -2,13 +2,14 @@
   "id": 252810941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.846459,41.972145,-87.846459,41.972145",
     "geom:latitude":41.972145,
     "geom:longitude":-87.846459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5117 N East River Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252810941,
-    "wof:lastmodified":1449005737,
+    "wof:lastmodified":1466490316,
     "wof:name":"BEC Express Inc",
     "wof:parent_id":85809035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.846459,41.972145,-87.846459,41.972145],
+  "bbox": [
+    -87.846459,
+    41.972145,
+    -87.846459,
+    41.972145
+],
   "geometry": {"coordinates":[-87.846459,41.972145],"type":"Point"}
 }

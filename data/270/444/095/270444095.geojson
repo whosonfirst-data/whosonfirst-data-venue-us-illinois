@@ -2,13 +2,14 @@
   "id": 270444095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.889558,41.479874,-87.889558,41.479874",
     "geom:latitude":41.479874,
     "geom:longitude":-87.889558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11255 Patrick Ct",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270444095,
-    "wof:lastmodified":1449010753,
+    "wof:lastmodified":1466495728,
     "wof:name":"Boulevard Mortgage Corp",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-87.889558,41.479874,-87.889558,41.479874],
-  "geometry": {"coordinates":[-87.889558,41.479874],"type":"Point"}
+  "bbox": [
+    -87.889558,
+    41.479874,
+    -87.889558,
+    41.479874
+],
+  "geometry": {"coordinates":[-87.88955799999999,41.479874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219326483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.041104,42.172991,-89.041104,42.172991",
     "geom:latitude":42.172991,
     "geom:longitude":-89.041104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3706 Rotary Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219326483,
-    "wof:lastmodified":1449071889,
+    "wof:lastmodified":1466491036,
     "wof:name":"Williams Excavating",
     "wof:parent_id":85867937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.041104,42.172991,-89.041104,42.172991],
+  "bbox": [
+    -89.041104,
+    42.172991,
+    -89.041104,
+    42.172991
+],
   "geometry": {"coordinates":[-89.041104,42.172991],"type":"Point"}
 }

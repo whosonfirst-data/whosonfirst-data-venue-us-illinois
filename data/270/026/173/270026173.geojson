@@ -2,13 +2,14 @@
   "id": 270026173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.174855,39.496051,-88.174855,39.496051",
     "geom:latitude":39.496051,
     "geom:longitude":-88.174855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 7th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270026173,
-    "wof:lastmodified":1449010091,
+    "wof:lastmodified":1466489415,
     "wof:name":"Jamaican Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-88.174855,39.496051,-88.174855,39.496051],
-  "geometry": {"coordinates":[-88.174855,39.496051],"type":"Point"}
+  "bbox": [
+    -88.174855,
+    39.496051,
+    -88.174855,
+    39.496051
+],
+  "geometry": {"coordinates":[-88.17485499999999,39.496051],"type":"Point"}
 }

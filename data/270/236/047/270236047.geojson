@@ -2,13 +2,14 @@
   "id": 270236047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.727212,40.988928,-88.727212,40.988928",
     "geom:latitude":40.988928,
     "geom:longitude":-88.727212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Prairie St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270236047,
-    "wof:lastmodified":1449008909,
+    "wof:lastmodified":1466492602,
     "wof:name":"Amity Township Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.727212,40.988928,-88.727212,40.988928],
-  "geometry": {"coordinates":[-88.727212,40.988928],"type":"Point"}
+  "bbox": [
+    -88.727212,
+    40.988928,
+    -88.727212,
+    40.988928
+],
+  "geometry": {"coordinates":[-88.72721199999999,40.988928],"type":"Point"}
 }

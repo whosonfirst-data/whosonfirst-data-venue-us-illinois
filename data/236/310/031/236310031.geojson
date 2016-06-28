@@ -2,13 +2,14 @@
   "id": 236310031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.337489,41.868629,-88.337489,41.868629",
     "geom:latitude":41.868629,
     "geom:longitude":-88.337489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 Arrowhead Ct",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236310031,
-    "wof:lastmodified":1449003724,
+    "wof:lastmodified":1466492889,
     "wof:name":"Jean Whiteside Photography",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-88.337489,41.868629,-88.337489,41.868629],
-  "geometry": {"coordinates":[-88.337489,41.868629],"type":"Point"}
+  "bbox": [
+    -88.337489,
+    41.868629,
+    -88.337489,
+    41.868629
+],
+  "geometry": {"coordinates":[-88.33748900000001,41.868629],"type":"Point"}
 }

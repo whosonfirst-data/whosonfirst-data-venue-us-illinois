@@ -2,13 +2,14 @@
   "id": 269873805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.731123,38.888248,-89.731123,38.888248",
     "geom:latitude":38.888248,
     "geom:longitude":-89.731123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Main St",
     "sg:city":"Alhambra",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269873805,
-    "wof:lastmodified":1449036646,
+    "wof:lastmodified":1466495167,
     "wof:name":"J W Performance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-89.731123,38.888248,-89.731123,38.888248],
+  "bbox": [
+    -89.731123,
+    38.888248,
+    -89.731123,
+    38.888248
+],
   "geometry": {"coordinates":[-89.731123,38.888248],"type":"Point"}
 }

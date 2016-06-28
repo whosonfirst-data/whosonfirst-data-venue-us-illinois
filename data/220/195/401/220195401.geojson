@@ -2,13 +2,14 @@
   "id": 220195401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169623,41.548808,-88.169623,41.548808",
     "geom:latitude":41.548808,
     "geom:longitude":-88.169623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3418 Cleary Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220195401,
-    "wof:lastmodified":1449074589,
+    "wof:lastmodified":1466491315,
     "wof:name":"Net Dream",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-88.169623,41.548808,-88.169623,41.548808],
+  "bbox": [
+    -88.169623,
+    41.548808,
+    -88.169623,
+    41.548808
+],
   "geometry": {"coordinates":[-88.169623,41.548808],"type":"Point"}
 }

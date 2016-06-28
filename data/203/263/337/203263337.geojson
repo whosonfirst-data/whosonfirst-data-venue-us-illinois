@@ -2,13 +2,14 @@
   "id": 203263337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.940277,38.474965,-89.940277,38.474965",
     "geom:latitude":38.474965,
     "geom:longitude":-89.940277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 S Green Mount Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203263337,
-    "wof:lastmodified":1449026820,
+    "wof:lastmodified":1466490061,
     "wof:name":"Eckert Orchards Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-89.940277,38.474965,-89.940277,38.474965],
-  "geometry": {"coordinates":[-89.940277,38.474965],"type":"Point"}
+  "bbox": [
+    -89.940277,
+    38.474965,
+    -89.940277,
+    38.474965
+],
+  "geometry": {"coordinates":[-89.94027699999999,38.474965],"type":"Point"}
 }

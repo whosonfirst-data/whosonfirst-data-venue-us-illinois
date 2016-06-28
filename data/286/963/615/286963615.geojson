@@ -2,13 +2,14 @@
   "id": 286963615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.464982,41.383173,-89.464982,41.383173",
     "geom:latitude":41.383173,
     "geom:longitude":-89.464982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 N Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286963615,
-    "wof:lastmodified":1449015465,
+    "wof:lastmodified":1466498302,
     "wof:name":"Garden Room Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.464982,41.383173,-89.464982,41.383173],
-  "geometry": {"coordinates":[-89.464982,41.383173],"type":"Point"}
+  "bbox": [
+    -89.464982,
+    41.383173,
+    -89.464982,
+    41.383173
+],
+  "geometry": {"coordinates":[-89.46498200000001,41.383173],"type":"Point"}
 }

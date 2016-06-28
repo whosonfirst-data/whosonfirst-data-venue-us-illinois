@@ -2,13 +2,14 @@
   "id": 252715097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.016108,41.525964,-88.016108,41.525964",
     "geom:latitude":41.525964,
     "geom:longitude":-88.016108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2539 Dougal Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252715097,
-    "wof:lastmodified":1449006281,
+    "wof:lastmodified":1466489081,
     "wof:name":"Will County Janitorial Svc",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-88.016108,41.525964,-88.016108,41.525964],
+  "bbox": [
+    -88.016108,
+    41.525964,
+    -88.016108,
+    41.525964
+],
   "geometry": {"coordinates":[-88.016108,41.525964],"type":"Point"}
 }

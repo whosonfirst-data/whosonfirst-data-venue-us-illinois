@@ -2,13 +2,14 @@
   "id": 269820043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.847512,41.346886,-88.847512,41.346886",
     "geom:latitude":41.346886,
     "geom:longitude":-88.847512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Madison St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269820043,
-    "wof:lastmodified":1449037389,
+    "wof:lastmodified":1466494325,
     "wof:name":"X Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-88.847512,41.346886,-88.847512,41.346886],
-  "geometry": {"coordinates":[-88.847512,41.346886],"type":"Point"}
+  "bbox": [
+    -88.847512,
+    41.346886,
+    -88.847512,
+    41.346886
+],
+  "geometry": {"coordinates":[-88.84751199999999,41.346886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203175427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.61391,41.811245,-87.61391,41.811245",
     "geom:latitude":41.811245,
     "geom:longitude":-87.61391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4532 S Vincennes Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203175427,
-    "wof:lastmodified":1449026289,
+    "wof:lastmodified":1466489077,
     "wof:name":"G & W Contractors",
     "wof:parent_id":85867619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.61391,41.811245,-87.61391,41.811245],
+  "bbox": [
+    -87.61391,
+    41.811245,
+    -87.61391,
+    41.811245
+],
   "geometry": {"coordinates":[-87.61391,41.811245],"type":"Point"}
 }

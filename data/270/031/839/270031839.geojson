@@ -2,13 +2,14 @@
   "id": 270031839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.139656,38.620614,-90.139656,38.620614",
     "geom:latitude":38.620614,
     "geom:longitude":-90.139656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 State St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270031839,
-    "wof:lastmodified":1449009549,
+    "wof:lastmodified":1466489497,
     "wof:name":"Metro East Enterprises",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-90.139656,38.620614,-90.139656,38.620614],
+  "bbox": [
+    -90.139656,
+    38.620614,
+    -90.139656,
+    38.620614
+],
   "geometry": {"coordinates":[-90.139656,38.620614],"type":"Point"}
 }

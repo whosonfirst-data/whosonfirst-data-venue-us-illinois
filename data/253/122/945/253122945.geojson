@@ -2,13 +2,14 @@
   "id": 253122945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.201073,38.443732,-90.201073,38.443732",
     "geom:latitude":38.443732,
     "geom:longitude":-90.201073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 N Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253122945,
-    "wof:lastmodified":1449064501,
+    "wof:lastmodified":1466490507,
     "wof:name":"Champion Dry Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-90.201073,38.443732,-90.201073,38.443732],
-  "geometry": {"coordinates":[-90.201073,38.443732],"type":"Point"}
+  "bbox": [
+    -90.201073,
+    38.443732,
+    -90.201073,
+    38.443732
+],
+  "geometry": {"coordinates":[-90.20107299999999,38.443732],"type":"Point"}
 }

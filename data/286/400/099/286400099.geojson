@@ -2,13 +2,14 @@
   "id": 286400099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.520969,40.878468,-89.520969,40.878468",
     "geom:latitude":40.878468,
     "geom:longitude":-89.520969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 E Rome Rd",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286400099,
-    "wof:lastmodified":1449015468,
+    "wof:lastmodified":1466491952,
     "wof:name":"Chillicothe Metal Co",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "structural"
     ]
 },
-  "bbox": [-89.520969,40.878468,-89.520969,40.878468],
-  "geometry": {"coordinates":[-89.520969,40.878468],"type":"Point"}
+  "bbox": [
+    -89.520969,
+    40.878468,
+    -89.520969,
+    40.878468
+],
+  "geometry": {"coordinates":[-89.52096899999999,40.878468],"type":"Point"}
 }

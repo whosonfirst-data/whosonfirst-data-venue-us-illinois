@@ -2,13 +2,14 @@
   "id": 286695705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570096,41.574368,-87.570096,41.574368",
     "geom:latitude":41.574368,
     "geom:longitude":-87.570096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 177th St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286695705,
-    "wof:lastmodified":1449016297,
+    "wof:lastmodified":1466496375,
     "wof:name":"Delta Demoolition Inc",
     "wof:parent_id":85890927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-87.570096,41.574368,-87.570096,41.574368],
-  "geometry": {"coordinates":[-87.570096,41.574368],"type":"Point"}
+  "bbox": [
+    -87.570096,
+    41.574368,
+    -87.570096,
+    41.574368
+],
+  "geometry": {"coordinates":[-87.57009600000001,41.574368],"type":"Point"}
 }

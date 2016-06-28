@@ -2,13 +2,14 @@
   "id": 269960221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.863043,41.628861,-87.863043,41.628861",
     "geom:latitude":41.628861,
     "geom:longitude":-87.863043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9964 W 144th St",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269960221,
-    "wof:lastmodified":1449037914,
+    "wof:lastmodified":1466496553,
     "wof:name":"CIS Onsite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.863043,41.628861,-87.863043,41.628861],
+  "bbox": [
+    -87.863043,
+    41.628861,
+    -87.863043,
+    41.628861
+],
   "geometry": {"coordinates":[-87.863043,41.628861],"type":"Point"}
 }

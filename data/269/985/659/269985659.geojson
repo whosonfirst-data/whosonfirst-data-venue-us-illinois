@@ -2,13 +2,14 @@
   "id": 269985659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.846111,42.168586,-87.846111,42.168586",
     "geom:latitude":42.168586,
     "geom:longitude":-87.846111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Waukegan Rd",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269985659,
-    "wof:lastmodified":1449037327,
+    "wof:lastmodified":1466496439,
     "wof:name":"Koenig and Strey Realtors",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.846111,42.168586,-87.846111,42.168586],
-  "geometry": {"coordinates":[-87.846111,42.168586],"type":"Point"}
+  "bbox": [
+    -87.846111,
+    42.168586,
+    -87.846111,
+    42.168586
+],
+  "geometry": {"coordinates":[-87.84611099999999,42.168586],"type":"Point"}
 }

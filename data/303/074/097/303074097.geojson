@@ -2,13 +2,14 @@
   "id": 303074097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.763467,41.886194,-87.763467,41.886194",
     "geom:latitude":41.886194,
     "geom:longitude":-87.763467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 N Pine Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303074097,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466491005,
     "wof:name":"Aubeta Networks Corp",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-87.763467,41.886194,-87.763467,41.886194],
-  "geometry": {"coordinates":[-87.763467,41.886194],"type":"Point"}
+  "bbox": [
+    -87.763467,
+    41.886194,
+    -87.763467,
+    41.886194
+],
+  "geometry": {"coordinates":[-87.76346700000001,41.886194],"type":"Point"}
 }

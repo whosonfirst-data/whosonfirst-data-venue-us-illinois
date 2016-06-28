@@ -2,13 +2,14 @@
   "id": 236845337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.176365,39.49979,-88.176365,39.49979",
     "geom:latitude":39.49979,
     "geom:longitude":-88.176365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N 6th St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236845337,
-    "wof:lastmodified":1449002080,
+    "wof:lastmodified":1466498044,
     "wof:name":"Warehouse Phase 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.176365,39.49979,-88.176365,39.49979],
+  "bbox": [
+    -88.176365,
+    39.49979,
+    -88.176365,
+    39.49979
+],
   "geometry": {"coordinates":[-88.176365,39.49979],"type":"Point"}
 }

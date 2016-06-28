@@ -2,13 +2,14 @@
   "id": 220178207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.077199,38.841843,-90.077199,38.841843",
     "geom:latitude":38.841843,
     "geom:longitude":-90.077199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 E 8th St",
     "sg:city":"Roxana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220178207,
-    "wof:lastmodified":1449074629,
+    "wof:lastmodified":1466491105,
     "wof:name":"Roxana Street Dept",
     "wof:parent_id":85868931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-90.077199,38.841843,-90.077199,38.841843],
-  "geometry": {"coordinates":[-90.077199,38.841843],"type":"Point"}
+  "bbox": [
+    -90.077199,
+    38.841843,
+    -90.077199,
+    38.841843
+],
+  "geometry": {"coordinates":[-90.07719899999999,38.841843],"type":"Point"}
 }

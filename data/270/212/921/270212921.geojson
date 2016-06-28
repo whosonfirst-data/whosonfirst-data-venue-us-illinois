@@ -2,13 +2,14 @@
   "id": 270212921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650438,41.579179,-87.650438,41.579179",
     "geom:latitude":41.579179,
     "geom:longitude":-87.650438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 171st St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270212921,
-    "wof:lastmodified":1449010251,
+    "wof:lastmodified":1466492236,
     "wof:name":"Best Homes Inc",
     "wof:parent_id":85867709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-87.650438,41.579179,-87.650438,41.579179],
-  "geometry": {"coordinates":[-87.650438,41.579179],"type":"Point"}
+  "bbox": [
+    -87.650438,
+    41.579179,
+    -87.650438,
+    41.579179
+],
+  "geometry": {"coordinates":[-87.65043799999999,41.579179],"type":"Point"}
 }

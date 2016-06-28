@@ -2,13 +2,14 @@
   "id": 253558203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.439061,41.708684,-89.439061,41.708684",
     "geom:latitude":41.708684,
     "geom:longitude":-89.439061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Walton Rd",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253558203,
-    "wof:lastmodified":1449063616,
+    "wof:lastmodified":1466496355,
     "wof:name":"Walton Elevator Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "elevator"
     ]
 },
-  "bbox": [-89.439061,41.708684,-89.439061,41.708684],
+  "bbox": [
+    -89.439061,
+    41.708684,
+    -89.439061,
+    41.708684
+],
   "geometry": {"coordinates":[-89.439061,41.708684],"type":"Point"}
 }

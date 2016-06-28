@@ -2,13 +2,14 @@
   "id": 286551777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.936362,41.669949,-89.936362,41.669949",
     "geom:latitude":41.669949,
     "geom:longitude":-89.936362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Washington St",
     "sg:city":"Prophetstown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286551777,
-    "wof:lastmodified":1449015754,
+    "wof:lastmodified":1466494396,
     "wof:name":"City Mayor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-89.936362,41.669949,-89.936362,41.669949],
+  "bbox": [
+    -89.936362,
+    41.669949,
+    -89.936362,
+    41.669949
+],
   "geometry": {"coordinates":[-89.936362,41.669949],"type":"Point"}
 }

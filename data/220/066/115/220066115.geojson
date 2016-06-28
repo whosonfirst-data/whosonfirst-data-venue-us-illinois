@@ -2,13 +2,14 @@
   "id": 220066115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849339,42.370344,-87.849339,42.370344",
     "geom:latitude":42.370344,
     "geom:longitude":-87.849339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Grand Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220066115,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466489759,
     "wof:name":"Lemperas Grocery",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.849339,42.370344,-87.849339,42.370344],
+  "bbox": [
+    -87.849339,
+    42.370344,
+    -87.849339,
+    42.370344
+],
   "geometry": {"coordinates":[-87.849339,42.370344],"type":"Point"}
 }

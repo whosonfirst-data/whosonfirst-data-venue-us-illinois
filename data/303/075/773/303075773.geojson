@@ -2,13 +2,14 @@
   "id": 303075773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653654,41.666857,-87.653654,41.666857",
     "geom:latitude":41.666857,
     "geom:longitude":-87.653654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12409 S Throop St",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303075773,
-    "wof:lastmodified":1448999443,
+    "wof:lastmodified":1466491030,
     "wof:name":"Water Depart",
     "wof:parent_id":85856203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "municipality"
     ]
 },
-  "bbox": [-87.653654,41.666857,-87.653654,41.666857],
+  "bbox": [
+    -87.653654,
+    41.666857,
+    -87.653654,
+    41.666857
+],
   "geometry": {"coordinates":[-87.653654,41.666857],"type":"Point"}
 }

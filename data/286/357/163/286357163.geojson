@@ -2,13 +2,14 @@
   "id": 286357163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.464981,41.371568,-89.464981,41.371568",
     "geom:latitude":41.371568,
     "geom:longitude":-89.464981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286357163,
-    "wof:lastmodified":1449017744,
+    "wof:lastmodified":1466491281,
     "wof:name":"Tribune Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-89.464981,41.371568,-89.464981,41.371568],
-  "geometry": {"coordinates":[-89.464981,41.371568],"type":"Point"}
+  "bbox": [
+    -89.464981,
+    41.371568,
+    -89.464981,
+    41.371568
+],
+  "geometry": {"coordinates":[-89.46498099999999,41.371568],"type":"Point"}
 }

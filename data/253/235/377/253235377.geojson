@@ -2,13 +2,14 @@
   "id": 253235377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.992238,40.606492,-88.992238,40.606492",
     "geom:latitude":40.606492,
     "geom:longitude":-88.992238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E Franklin St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253235377,
-    "wof:lastmodified":1449063325,
+    "wof:lastmodified":1466491796,
     "wof:name":"Illini Bank",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-88.992238,40.606492,-88.992238,40.606492],
+  "bbox": [
+    -88.992238,
+    40.606492,
+    -88.992238,
+    40.606492
+],
   "geometry": {"coordinates":[-88.992238,40.606492],"type":"Point"}
 }

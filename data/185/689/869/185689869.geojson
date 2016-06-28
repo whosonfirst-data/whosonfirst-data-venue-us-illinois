@@ -2,13 +2,14 @@
   "id": 185689869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.284045,40.086127,-91.284045,40.086127",
     "geom:latitude":40.086127,
     "geom:longitude":-91.284045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 West Washington Street",
     "sg:city":"Mendon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185689869,
-    "wof:lastmodified":1449007968,
+    "wof:lastmodified":1466494652,
     "wof:name":"Mendon Elementary School",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-91.284045,40.086127,-91.284045,40.086127],
-  "geometry": {"coordinates":[-91.284045,40.086127],"type":"Point"}
+  "bbox": [
+    -91.284045,
+    40.086127,
+    -91.284045,
+    40.086127
+],
+  "geometry": {"coordinates":[-91.28404500000001,40.086127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286535329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.658404,41.700764,-87.658404,41.700764",
     "geom:latitude":41.700764,
     "geom:longitude":-87.658404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10610 S Vincennes Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286535329,
-    "wof:lastmodified":1449015694,
+    "wof:lastmodified":1466494120,
     "wof:name":"Chicago Auto Express",
     "wof:parent_id":85867523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.658404,41.700764,-87.658404,41.700764],
+  "bbox": [
+    -87.658404,
+    41.700764,
+    -87.658404,
+    41.700764
+],
   "geometry": {"coordinates":[-87.658404,41.700764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236745923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465127,41.374282,-89.465127,41.374282",
     "geom:latitude":41.374282,
     "geom:longitude":-89.465127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236745923,
-    "wof:lastmodified":1449005073,
+    "wof:lastmodified":1466497540,
     "wof:name":"Ivy Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.465127,41.374282,-89.465127,41.374282],
+  "bbox": [
+    -89.465127,
+    41.374282,
+    -89.465127,
+    41.374282
+],
   "geometry": {"coordinates":[-89.465127,41.374282],"type":"Point"}
 }

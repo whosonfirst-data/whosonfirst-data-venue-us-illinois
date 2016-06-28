@@ -2,13 +2,14 @@
   "id": 220014259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.241603,37.72952,-89.241603,37.72952",
     "geom:latitude":37.72952,
     "geom:longitude":-89.241603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 W Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220014259,
-    "wof:lastmodified":1449074421,
+    "wof:lastmodified":1466489120,
     "wof:name":"Carbondale Hearing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-89.241603,37.72952,-89.241603,37.72952],
+  "bbox": [
+    -89.241603,
+    37.72952,
+    -89.241603,
+    37.72952
+],
   "geometry": {"coordinates":[-89.241603,37.72952],"type":"Point"}
 }

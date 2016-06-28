@@ -2,13 +2,14 @@
   "id": 303187609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.018267,42.051158,-88.018267,42.051158",
     "geom:latitude":42.051158,
     "geom:longitude":-88.018267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 Golf Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303187609,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466492841,
     "wof:name":"Meadow Club Realty",
     "wof:parent_id":85867819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-88.018267,42.051158,-88.018267,42.051158],
-  "geometry": {"coordinates":[-88.018267,42.051158],"type":"Point"}
+  "bbox": [
+    -88.018267,
+    42.051158,
+    -88.018267,
+    42.051158
+],
+  "geometry": {"coordinates":[-88.01826699999999,42.051158],"type":"Point"}
 }

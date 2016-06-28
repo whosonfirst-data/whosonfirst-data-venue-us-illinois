@@ -2,13 +2,14 @@
   "id": 203409245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650658,41.971711,-87.650658,41.971711",
     "geom:latitude":41.971711,
     "geom:longitude":-87.650658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 W Ainslie St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203409245,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466491709,
     "wof:name":"Fashions By Maryanne",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.650658,41.971711,-87.650658,41.971711],
-  "geometry": {"coordinates":[-87.650658,41.971711],"type":"Point"}
+  "bbox": [
+    -87.650658,
+    41.971711,
+    -87.650658,
+    41.971711
+],
+  "geometry": {"coordinates":[-87.65065800000001,41.971711],"type":"Point"}
 }

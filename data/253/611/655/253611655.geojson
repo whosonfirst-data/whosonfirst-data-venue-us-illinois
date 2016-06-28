@@ -2,13 +2,14 @@
   "id": 253611655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.044907,37.744166,-89.044907,37.744166",
     "geom:latitude":37.744166,
     "geom:longitude":-89.044907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 Clark St",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253611655,
-    "wof:lastmodified":1449065135,
+    "wof:lastmodified":1466496787,
     "wof:name":"Carterville Winair Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-89.044907,37.744166,-89.044907,37.744166],
-  "geometry": {"coordinates":[-89.044907,37.744166],"type":"Point"}
+  "bbox": [
+    -89.044907,
+    37.744166,
+    -89.044907,
+    37.744166
+],
+  "geometry": {"coordinates":[-89.04490699999999,37.744166],"type":"Point"}
 }

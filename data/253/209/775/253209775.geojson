@@ -2,13 +2,14 @@
   "id": 253209775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.66993,41.941503,-87.66993,41.941503",
     "geom:latitude":41.941503,
     "geom:longitude":-87.66993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3359 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253209775,
-    "wof:lastmodified":1449065465,
+    "wof:lastmodified":1466491458,
     "wof:name":"Lake View Art Supply Inc",
     "wof:parent_id":85882313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-87.66993,41.941503,-87.66993,41.941503],
-  "geometry": {"coordinates":[-87.66993,41.941503],"type":"Point"}
+  "bbox": [
+    -87.66993,
+    41.941503,
+    -87.66993,
+    41.941503
+],
+  "geometry": {"coordinates":[-87.66992999999999,41.941503],"type":"Point"}
 }

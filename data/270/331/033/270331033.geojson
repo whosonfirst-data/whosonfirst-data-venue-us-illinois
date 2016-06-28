@@ -2,13 +2,14 @@
   "id": 270331033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.134447,38.527281,-89.134447,38.527281",
     "geom:latitude":38.527281,
     "geom:longitude":-89.134447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Locust St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270331033,
-    "wof:lastmodified":1449010122,
+    "wof:lastmodified":1466494074,
     "wof:name":"Downtown Centralia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-89.134447,38.527281,-89.134447,38.527281],
-  "geometry": {"coordinates":[-89.134447,38.527281],"type":"Point"}
+  "bbox": [
+    -89.134447,
+    38.527281,
+    -89.134447,
+    38.527281
+],
+  "geometry": {"coordinates":[-89.13444699999999,38.527281],"type":"Point"}
 }

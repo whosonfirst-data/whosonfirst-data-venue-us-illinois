@@ -2,13 +2,14 @@
   "id": 202849537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.714235,41.773893,-89.714235,41.773893",
     "geom:latitude":41.773893,
     "geom:longitude":-89.714235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Prophet Rd",
     "sg:city":"Rock Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202849537,
-    "wof:lastmodified":1449060574,
+    "wof:lastmodified":1466492567,
     "wof:name":"Rock River Christian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.714235,41.773893,-89.714235,41.773893],
+  "bbox": [
+    -89.714235,
+    41.773893,
+    -89.714235,
+    41.773893
+],
   "geometry": {"coordinates":[-89.714235,41.773893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219685511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.366345,41.106384,-89.366345,41.106384",
     "geom:latitude":41.106384,
     "geom:longitude":-89.366345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Barney St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219685511,
-    "wof:lastmodified":1449073824,
+    "wof:lastmodified":1466495359,
     "wof:name":"Dairy Queens Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.366345,41.106384,-89.366345,41.106384],
+  "bbox": [
+    -89.366345,
+    41.106384,
+    -89.366345,
+    41.106384
+],
   "geometry": {"coordinates":[-89.366345,41.106384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253345913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104265,41.927239,-88.104265,41.927239",
     "geom:latitude":41.927239,
     "geom:longitude":-88.104265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Carol Ct",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253345913,
-    "wof:lastmodified":1449065557,
+    "wof:lastmodified":1466493386,
     "wof:name":"FIC Warehouse",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-88.104265,41.927239,-88.104265,41.927239],
+  "bbox": [
+    -88.104265,
+    41.927239,
+    -88.104265,
+    41.927239
+],
   "geometry": {"coordinates":[-88.104265,41.927239],"type":"Point"}
 }

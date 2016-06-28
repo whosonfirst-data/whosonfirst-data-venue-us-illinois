@@ -2,13 +2,14 @@
   "id": 253371957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.93671,40.648059,-88.93671,40.648059",
     "geom:latitude":40.648059,
     "geom:longitude":-88.93671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24809 N 1750 East Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253371957,
-    "wof:lastmodified":1449065098,
+    "wof:lastmodified":1466493775,
     "wof:name":"Keeran Assocs",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-88.93671,40.648059,-88.93671,40.648059],
-  "geometry": {"coordinates":[-88.93671,40.648059],"type":"Point"}
+  "bbox": [
+    -88.93671,
+    40.648059,
+    -88.93671,
+    40.648059
+],
+  "geometry": {"coordinates":[-88.93671000000001,40.648059],"type":"Point"}
 }

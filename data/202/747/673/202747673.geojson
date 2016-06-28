@@ -2,13 +2,14 @@
   "id": 202747673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.041843,42.381579,-89.041843,42.381579",
     "geom:latitude":42.381579,
     "geom:longitude":-89.041843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Gershwin Ln",
     "sg:city":"Machesney Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202747673,
-    "wof:lastmodified":1449060567,
+    "wof:lastmodified":1466491341,
     "wof:name":"Hines & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.041843,42.381579,-89.041843,42.381579],
+  "bbox": [
+    -89.041843,
+    42.381579,
+    -89.041843,
+    42.381579
+],
   "geometry": {"coordinates":[-89.041843,42.381579],"type":"Point"}
 }

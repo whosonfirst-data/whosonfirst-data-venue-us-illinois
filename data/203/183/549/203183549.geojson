@@ -2,13 +2,14 @@
   "id": 203183549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.323935,41.756006,-88.323935,41.756006",
     "geom:latitude":41.756006,
     "geom:longitude":-88.323935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 S Lake St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203183549,
-    "wof:lastmodified":1449025959,
+    "wof:lastmodified":1466489163,
     "wof:name":"Martin Clinton & Son Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.323935,41.756006,-88.323935,41.756006],
-  "geometry": {"coordinates":[-88.323935,41.756006],"type":"Point"}
+  "bbox": [
+    -88.323935,
+    41.756006,
+    -88.323935,
+    41.756006
+],
+  "geometry": {"coordinates":[-88.32393500000001,41.756006],"type":"Point"}
 }

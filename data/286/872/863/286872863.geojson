@@ -2,13 +2,14 @@
   "id": 286872863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.890741,41.278245,-89.890741,41.278245",
     "geom:latitude":41.278245,
     "geom:longitude":-89.890741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28433 N 900th Ave",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286872863,
-    "wof:lastmodified":1449015448,
+    "wof:lastmodified":1466497914,
     "wof:name":"Baird Richard Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-89.890741,41.278245,-89.890741,41.278245],
-  "geometry": {"coordinates":[-89.890741,41.278245],"type":"Point"}
+  "bbox": [
+    -89.890741,
+    41.278245,
+    -89.890741,
+    41.278245
+],
+  "geometry": {"coordinates":[-89.89074100000001,41.278245],"type":"Point"}
 }

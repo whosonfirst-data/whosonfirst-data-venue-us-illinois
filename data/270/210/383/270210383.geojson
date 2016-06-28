@@ -2,13 +2,14 @@
   "id": 270210383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313589,40.10053,-88.313589,40.10053",
     "geom:latitude":40.10053,
     "geom:longitude":-88.313589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Manchester Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270210383,
-    "wof:lastmodified":1449009462,
+    "wof:lastmodified":1466492197,
     "wof:name":"Stewart Family LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.313589,40.10053,-88.313589,40.10053],
-  "geometry": {"coordinates":[-88.313589,40.10053],"type":"Point"}
+  "bbox": [
+    -88.313589,
+    40.10053,
+    -88.313589,
+    40.10053
+],
+  "geometry": {"coordinates":[-88.31358899999999,40.10053],"type":"Point"}
 }

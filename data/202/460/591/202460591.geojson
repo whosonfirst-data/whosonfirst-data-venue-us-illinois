@@ -2,13 +2,14 @@
   "id": 202460591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.220272,42.313152,-90.220272,42.313152",
     "geom:latitude":42.313152,
     "geom:longitude":-90.220272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Pleasant St",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202460591,
-    "wof:lastmodified":1449062506,
+    "wof:lastmodified":1466494505,
     "wof:name":"KEG Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.220272,42.313152,-90.220272,42.313152],
-  "geometry": {"coordinates":[-90.220272,42.313152],"type":"Point"}
+  "bbox": [
+    -90.220272,
+    42.313152,
+    -90.220272,
+    42.313152
+],
+  "geometry": {"coordinates":[-90.22027199999999,42.313152],"type":"Point"}
 }

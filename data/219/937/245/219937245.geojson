@@ -2,13 +2,14 @@
   "id": 219937245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.301854,40.551358,-91.301854,40.551358",
     "geom:latitude":40.551358,
     "geom:longitude":-91.301854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 E Co Rd 2400",
     "sg:city":"Nauvoo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219937245,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466497291,
     "wof:name":"Jim Schenck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-91.301854,40.551358,-91.301854,40.551358],
-  "geometry": {"coordinates":[-91.301854,40.551358],"type":"Point"}
+  "bbox": [
+    -91.301854,
+    40.551358,
+    -91.301854,
+    40.551358
+],
+  "geometry": {"coordinates":[-91.30185400000001,40.551358],"type":"Point"}
 }

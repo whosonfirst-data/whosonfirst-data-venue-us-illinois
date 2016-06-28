@@ -2,13 +2,14 @@
   "id": 202536897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684345,42.058521,-87.684345,42.058521",
     "geom:latitude":42.058521,
     "geom:longitude":-87.684345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Noyes St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202536897,
-    "wof:lastmodified":1449061630,
+    "wof:lastmodified":1466495598,
     "wof:name":"Voice Studio",
     "wof:parent_id":85890799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.684345,42.058521,-87.684345,42.058521],
-  "geometry": {"coordinates":[-87.684345,42.058521],"type":"Point"}
+  "bbox": [
+    -87.684345,
+    42.058521,
+    -87.684345,
+    42.058521
+],
+  "geometry": {"coordinates":[-87.68434499999999,42.058521],"type":"Point"}
 }

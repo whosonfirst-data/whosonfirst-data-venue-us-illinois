@@ -2,13 +2,14 @@
   "id": 219497331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192623,38.918108,-90.192623,38.918108",
     "geom:latitude":38.918108,
     "geom:longitude":-90.192623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 State St",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219497331,
-    "wof:lastmodified":1449073860,
+    "wof:lastmodified":1466493152,
     "wof:name":"Hit-N-Run Food Store",
     "wof:parent_id":85837175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-90.192623,38.918108,-90.192623,38.918108],
+  "bbox": [
+    -90.192623,
+    38.918108,
+    -90.192623,
+    38.918108
+],
   "geometry": {"coordinates":[-90.192623,38.918108],"type":"Point"}
 }

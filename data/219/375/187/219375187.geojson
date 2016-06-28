@@ -2,13 +2,14 @@
   "id": 219375187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.179375,41.541011,-88.179375,41.541011",
     "geom:latitude":41.541011,
     "geom:longitude":-88.179375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 NE Frontage Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219375187,
-    "wof:lastmodified":1449070495,
+    "wof:lastmodified":1466491605,
     "wof:name":"Marc A Messette",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.179375,41.541011,-88.179375,41.541011],
-  "geometry": {"coordinates":[-88.179375,41.541011],"type":"Point"}
+  "bbox": [
+    -88.179375,
+    41.541011,
+    -88.179375,
+    41.541011
+],
+  "geometry": {"coordinates":[-88.17937499999999,41.541011],"type":"Point"}
 }

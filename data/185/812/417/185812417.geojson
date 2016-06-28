@@ -2,13 +2,14 @@
   "id": 185812417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.745528,39.591099,-89.745528,39.591099",
     "geom:latitude":39.591099,
     "geom:longitude":-89.745528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Madison St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185812417,
-    "wof:lastmodified":1449006626,
+    "wof:lastmodified":1466489103,
     "wof:name":"Country Co Insur & Fincl Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-89.745528,39.591099,-89.745528,39.591099],
-  "geometry": {"coordinates":[-89.745528,39.591099],"type":"Point"}
+  "bbox": [
+    -89.745528,
+    39.591099,
+    -89.745528,
+    39.591099
+],
+  "geometry": {"coordinates":[-89.74552799999999,39.591099],"type":"Point"}
 }

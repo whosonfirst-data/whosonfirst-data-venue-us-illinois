@@ -2,13 +2,14 @@
   "id": 236239195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865653,41.938197,-87.865653,41.938197",
     "geom:latitude":41.938197,
     "geom:longitude":-87.865653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3222 Rose St",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236239195,
-    "wof:lastmodified":1449001913,
+    "wof:lastmodified":1466491951,
     "wof:name":"Mount Calvary Lutheran Church",
     "wof:parent_id":85867815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.865653,41.938197,-87.865653,41.938197],
-  "geometry": {"coordinates":[-87.865653,41.938197],"type":"Point"}
+  "bbox": [
+    -87.865653,
+    41.938197,
+    -87.865653,
+    41.938197
+],
+  "geometry": {"coordinates":[-87.86565299999999,41.938197],"type":"Point"}
 }

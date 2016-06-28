@@ -2,13 +2,14 @@
   "id": 253192883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.945345,42.026915,-87.945345,42.026915",
     "geom:latitude":42.026915,
     "geom:longitude":-87.945345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 Carboy Rd",
     "sg:city":"Arlington Hts",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253192883,
-    "wof:lastmodified":1449064927,
+    "wof:lastmodified":1466491247,
     "wof:name":"Corkill Electric",
     "wof:parent_id":85867701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.945345,42.026915,-87.945345,42.026915],
+  "bbox": [
+    -87.945345,
+    42.026915,
+    -87.945345,
+    42.026915
+],
   "geometry": {"coordinates":[-87.945345,42.026915],"type":"Point"}
 }

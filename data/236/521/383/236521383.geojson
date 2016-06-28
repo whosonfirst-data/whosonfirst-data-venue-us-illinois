@@ -2,13 +2,14 @@
   "id": 236521383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680459,41.655519,-87.680459,41.655519",
     "geom:latitude":41.655519,
     "geom:longitude":-87.680459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Vermont St",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236521383,
-    "wof:lastmodified":1449005054,
+    "wof:lastmodified":1466496077,
     "wof:name":"Cobana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.680459,41.655519,-87.680459,41.655519],
+  "bbox": [
+    -87.680459,
+    41.655519,
+    -87.680459,
+    41.655519
+],
   "geometry": {"coordinates":[-87.680459,41.655519],"type":"Point"}
 }

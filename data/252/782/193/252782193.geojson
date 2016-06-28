@@ -2,13 +2,14 @@
   "id": 252782193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.754202,40.350015,-88.754202,40.350015",
     "geom:latitude":40.350015,
     "geom:longitude":-88.754202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Moore Ave",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252782193,
-    "wof:lastmodified":1449005398,
+    "wof:lastmodified":1466489947,
     "wof:name":"Wooden Essentials",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-88.754202,40.350015,-88.754202,40.350015],
-  "geometry": {"coordinates":[-88.754202,40.350015],"type":"Point"}
+  "bbox": [
+    -88.754202,
+    40.350015,
+    -88.754202,
+    40.350015
+],
+  "geometry": {"coordinates":[-88.75420200000001,40.350015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269593035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.736725,41.953468,-87.736725,41.953468",
     "geom:latitude":41.953468,
     "geom:longitude":-87.736725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4317 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269593035,
-    "wof:lastmodified":1449037714,
+    "wof:lastmodified":1466490712,
     "wof:name":"Chicago Metal Maintenance",
     "wof:parent_id":85867763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-87.736725,41.953468,-87.736725,41.953468],
-  "geometry": {"coordinates":[-87.736725,41.953468],"type":"Point"}
+  "bbox": [
+    -87.736725,
+    41.953468,
+    -87.736725,
+    41.953468
+],
+  "geometry": {"coordinates":[-87.73672500000001,41.953468],"type":"Point"}
 }

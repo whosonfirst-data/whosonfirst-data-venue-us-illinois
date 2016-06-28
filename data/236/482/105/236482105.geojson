@@ -2,13 +2,14 @@
   "id": 236482105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.864235,38.514946,-89.864235,38.514946",
     "geom:latitude":38.514946,
     "geom:longitude":-89.864235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 State Rte 158",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236482105,
-    "wof:lastmodified":1449002690,
+    "wof:lastmodified":1466495140,
     "wof:name":"Lombardo Service Station",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-89.864235,38.514946,-89.864235,38.514946],
-  "geometry": {"coordinates":[-89.864235,38.514946],"type":"Point"}
+  "bbox": [
+    -89.864235,
+    38.514946,
+    -89.864235,
+    38.514946
+],
+  "geometry": {"coordinates":[-89.86423499999999,38.514946],"type":"Point"}
 }

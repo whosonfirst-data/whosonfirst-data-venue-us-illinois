@@ -2,13 +2,14 @@
   "id": 202640353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.81033,37.92077,-89.81033,37.92077",
     "geom:latitude":37.92077,
     "geom:longitude":-89.81033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 State St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202640353,
-    "wof:lastmodified":1449061221,
+    "wof:lastmodified":1466490132,
     "wof:name":"R & R Custom Hawgs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.81033,37.92077,-89.81033,37.92077],
-  "geometry": {"coordinates":[-89.81033,37.92077],"type":"Point"}
+  "bbox": [
+    -89.81033,
+    37.92077,
+    -89.81033,
+    37.92077
+],
+  "geometry": {"coordinates":[-89.81032999999999,37.92077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219193355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.861719,41.348895,-88.861719,41.348895",
     "geom:latitude":41.348895,
     "geom:longitude":-88.861719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W Jackson St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219193355,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466489400,
     "wof:name":"Outback Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.861719,41.348895,-88.861719,41.348895],
-  "geometry": {"coordinates":[-88.861719,41.348895],"type":"Point"}
+  "bbox": [
+    -88.861719,
+    41.348895,
+    -88.861719,
+    41.348895
+],
+  "geometry": {"coordinates":[-88.86171899999999,41.348895],"type":"Point"}
 }

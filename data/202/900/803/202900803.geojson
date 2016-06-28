@@ -2,13 +2,14 @@
   "id": 202900803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.057626,42.28236,-89.057626,42.28236",
     "geom:latitude":42.28236,
     "geom:longitude":-89.057626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Parkview Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202900803,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466493184,
     "wof:name":"Jewish Federation Of Grtr Rckf",
     "wof:parent_id":85880423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.057626,42.28236,-89.057626,42.28236],
+  "bbox": [
+    -89.057626,
+    42.28236,
+    -89.057626,
+    42.28236
+],
   "geometry": {"coordinates":[-89.057626,42.28236],"type":"Point"}
 }

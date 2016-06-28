@@ -2,13 +2,14 @@
   "id": 286491783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.537124,41.564761,-87.537124,41.564761",
     "geom:latitude":41.564761,
     "geom:longitude":-87.537124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3248 Ridge Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286491783,
-    "wof:lastmodified":1449015113,
+    "wof:lastmodified":1466493401,
     "wof:name":"American Yellow Pages Svc",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-87.537124,41.564761,-87.537124,41.564761],
-  "geometry": {"coordinates":[-87.537124,41.564761],"type":"Point"}
+  "bbox": [
+    -87.537124,
+    41.564761,
+    -87.537124,
+    41.564761
+],
+  "geometry": {"coordinates":[-87.53712400000001,41.564761],"type":"Point"}
 }

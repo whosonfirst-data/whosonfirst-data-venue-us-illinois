@@ -2,13 +2,14 @@
   "id": 253489223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.915445,42.422994,-87.915445,42.422994",
     "geom:latitude":42.422994,
     "geom:longitude":-87.915445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38600 N Arbor Ct",
     "sg:city":"Wadsworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253489223,
-    "wof:lastmodified":1449064445,
+    "wof:lastmodified":1466495835,
     "wof:name":"Team Tires Plus",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.915445,42.422994,-87.915445,42.422994],
-  "geometry": {"coordinates":[-87.915445,42.422994],"type":"Point"}
+  "bbox": [
+    -87.915445,
+    42.422994,
+    -87.915445,
+    42.422994
+],
+  "geometry": {"coordinates":[-87.91544500000001,42.422994],"type":"Point"}
 }

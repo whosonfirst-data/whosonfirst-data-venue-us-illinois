@@ -2,13 +2,14 @@
   "id": 253416721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.179303,41.539413,-88.179303,41.539413",
     "geom:latitude":41.539413,
     "geom:longitude":-88.179303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 NE Frontage Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253416721,
-    "wof:lastmodified":1449064152,
+    "wof:lastmodified":1466494502,
     "wof:name":"150 West Banquet Facility",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-88.179303,41.539413,-88.179303,41.539413],
+  "bbox": [
+    -88.179303,
+    41.539413,
+    -88.179303,
+    41.539413
+],
   "geometry": {"coordinates":[-88.179303,41.539413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286306295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105258,41.866075,-88.105258,41.866075",
     "geom:latitude":41.866075,
     "geom:longitude":-88.105258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Wesley St",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286306295,
-    "wof:lastmodified":1449017957,
+    "wof:lastmodified":1466490510,
     "wof:name":"Wheaton Chamber of Commerce",
     "wof:parent_id":85891043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.105258,41.866075,-88.105258,41.866075],
-  "geometry": {"coordinates":[-88.105258,41.866075],"type":"Point"}
+  "bbox": [
+    -88.105258,
+    41.866075,
+    -88.105258,
+    41.866075
+],
+  "geometry": {"coordinates":[-88.10525800000001,41.866075],"type":"Point"}
 }

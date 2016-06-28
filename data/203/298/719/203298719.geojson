@@ -2,13 +2,14 @@
   "id": 203298719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.377372,40.137481,-89.377372,40.137481",
     "geom:latitude":40.137481,
     "geom:longitude":-89.377372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 S State St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203298719,
-    "wof:lastmodified":1449025421,
+    "wof:lastmodified":1466490456,
     "wof:name":"LCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.377372,40.137481,-89.377372,40.137481],
-  "geometry": {"coordinates":[-89.377372,40.137481],"type":"Point"}
+  "bbox": [
+    -89.377372,
+    40.137481,
+    -89.377372,
+    40.137481
+],
+  "geometry": {"coordinates":[-89.37737199999999,40.137481],"type":"Point"}
 }

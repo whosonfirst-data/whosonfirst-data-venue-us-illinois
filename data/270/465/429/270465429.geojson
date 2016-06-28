@@ -2,13 +2,14 @@
   "id": 270465429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.841327,41.144649,-87.841327,41.144649",
     "geom:latitude":41.144649,
     "geom:longitude":-87.841327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E Broadway St",
     "sg:city":"Bradley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270465429,
-    "wof:lastmodified":1449010316,
+    "wof:lastmodified":1466495934,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.841327,41.144649,-87.841327,41.144649],
-  "geometry": {"coordinates":[-87.841327,41.144649],"type":"Point"}
+  "bbox": [
+    -87.841327,
+    41.144649,
+    -87.841327,
+    41.144649
+],
+  "geometry": {"coordinates":[-87.84132700000001,41.144649],"type":"Point"}
 }

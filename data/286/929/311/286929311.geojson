@@ -2,13 +2,14 @@
   "id": 286929311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.016275,42.246767,-89.016275,42.246767",
     "geom:latitude":42.246767,
     "geom:longitude":-89.016275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Charles St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286929311,
-    "wof:lastmodified":1449016306,
+    "wof:lastmodified":1466498143,
     "wof:name":"Matthew Walling Remodeling",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-89.016275,42.246767,-89.016275,42.246767],
-  "geometry": {"coordinates":[-89.016275,42.246767],"type":"Point"}
+  "bbox": [
+    -89.016275,
+    42.246767,
+    -89.016275,
+    42.246767
+],
+  "geometry": {"coordinates":[-89.01627499999999,42.246767],"type":"Point"}
 }

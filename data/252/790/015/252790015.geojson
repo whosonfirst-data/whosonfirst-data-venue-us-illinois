@@ -2,13 +2,14 @@
   "id": 252790015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.401765,39.936512,-91.401765,39.936512",
     "geom:latitude":39.936512,
     "geom:longitude":-91.401765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 N 9th St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252790015,
-    "wof:lastmodified":1449006252,
+    "wof:lastmodified":1466490045,
     "wof:name":"Lowenburd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.401765,39.936512,-91.401765,39.936512],
+  "bbox": [
+    -91.401765,
+    39.936512,
+    -91.401765,
+    39.936512
+],
   "geometry": {"coordinates":[-91.401765,39.936512],"type":"Point"}
 }

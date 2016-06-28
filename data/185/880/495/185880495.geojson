@@ -2,13 +2,14 @@
   "id": 185880495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.666969,39.783524,-89.666969,39.783524",
     "geom:latitude":39.783524,
     "geom:longitude":-89.666969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 S State St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185880495,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1466489728,
     "wof:name":"Novatech Solutions Inc",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "software"
     ]
 },
-  "bbox": [-89.666969,39.783524,-89.666969,39.783524],
-  "geometry": {"coordinates":[-89.666969,39.783524],"type":"Point"}
+  "bbox": [
+    -89.666969,
+    39.783524,
+    -89.666969,
+    39.783524
+],
+  "geometry": {"coordinates":[-89.66696899999999,39.783524],"type":"Point"}
 }

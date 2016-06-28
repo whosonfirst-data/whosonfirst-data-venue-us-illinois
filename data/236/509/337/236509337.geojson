@@ -2,13 +2,14 @@
   "id": 236509337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650056,41.964264,-87.650056,41.964264",
     "geom:latitude":41.964264,
     "geom:longitude":-87.650056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 N Clarendon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236509337,
-    "wof:lastmodified":1449001779,
+    "wof:lastmodified":1466495498,
     "wof:name":"Affordable Luxuries Candles",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-87.650056,41.964264,-87.650056,41.964264],
-  "geometry": {"coordinates":[-87.650056,41.964264],"type":"Point"}
+  "bbox": [
+    -87.650056,
+    41.964264,
+    -87.650056,
+    41.964264
+],
+  "geometry": {"coordinates":[-87.65005600000001,41.964264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202906311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.59255,41.588571,-87.59255,41.588571",
     "geom:latitude":41.588571,
     "geom:longitude":-87.59255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16866 Ellis Ave",
     "sg:city":"South Holland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202906311,
-    "wof:lastmodified":1449061077,
+    "wof:lastmodified":1466493249,
     "wof:name":"Datacor Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "disaster"
     ]
 },
-  "bbox": [-87.59255,41.588571,-87.59255,41.588571],
+  "bbox": [
+    -87.59255,
+    41.588571,
+    -87.59255,
+    41.588571
+],
   "geometry": {"coordinates":[-87.59255,41.588571],"type":"Point"}
 }

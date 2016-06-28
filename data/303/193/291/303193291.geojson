@@ -2,13 +2,14 @@
   "id": 303193291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240617,40.117322,-88.240617,40.117322",
     "geom:latitude":40.117322,
     "geom:longitude":-88.240617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Chestnut St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303193291,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1466492935,
     "wof:name":"Pass Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.240617,40.117322,-88.240617,40.117322],
+  "bbox": [
+    -88.240617,
+    40.117322,
+    -88.240617,
+    40.117322
+],
   "geometry": {"coordinates":[-88.240617,40.117322],"type":"Point"}
 }

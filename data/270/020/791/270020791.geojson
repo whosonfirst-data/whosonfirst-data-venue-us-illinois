@@ -2,13 +2,14 @@
   "id": 270020791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.230533,37.724143,-89.230533,37.724143",
     "geom:latitude":37.724143,
     "geom:longitude":-89.230533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Eason Dr",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270020791,
-    "wof:lastmodified":1449009780,
+    "wof:lastmodified":1466489340,
     "wof:name":"Jeffrey Perkoff Ind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.230533,37.724143,-89.230533,37.724143],
-  "geometry": {"coordinates":[-89.230533,37.724143],"type":"Point"}
+  "bbox": [
+    -89.230533,
+    37.724143,
+    -89.230533,
+    37.724143
+],
+  "geometry": {"coordinates":[-89.23053299999999,37.724143],"type":"Point"}
 }

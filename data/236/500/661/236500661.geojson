@@ -2,13 +2,14 @@
   "id": 236500661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242466,40.112513,-88.242466,40.112513",
     "geom:latitude":40.112513,
     "geom:longitude":-88.242466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 E Springfield Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236500661,
-    "wof:lastmodified":1449002298,
+    "wof:lastmodified":1466495378,
     "wof:name":"Vertical Plains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.242466,40.112513,-88.242466,40.112513],
-  "geometry": {"coordinates":[-88.242466,40.112513],"type":"Point"}
+  "bbox": [
+    -88.242466,
+    40.112513,
+    -88.242466,
+    40.112513
+],
+  "geometry": {"coordinates":[-88.24246599999999,40.112513],"type":"Point"}
 }

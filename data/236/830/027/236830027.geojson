@@ -2,13 +2,14 @@
   "id": 236830027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681058,41.564299,-87.681058,41.564299",
     "geom:latitude":41.564299,
     "geom:longitude":-87.681058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17901 Governors Hwy",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236830027,
-    "wof:lastmodified":1449002202,
+    "wof:lastmodified":1466497883,
     "wof:name":"Hf Medical Associates",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.681058,41.564299,-87.681058,41.564299],
-  "geometry": {"coordinates":[-87.681058,41.564299],"type":"Point"}
+  "bbox": [
+    -87.681058,
+    41.564299,
+    -87.681058,
+    41.564299
+],
+  "geometry": {"coordinates":[-87.68105799999999,41.564299],"type":"Point"}
 }

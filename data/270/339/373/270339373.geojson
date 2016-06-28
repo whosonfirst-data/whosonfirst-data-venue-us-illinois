@@ -2,13 +2,14 @@
   "id": 270339373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.829506,41.098786,-87.829506,41.098786",
     "geom:latitude":41.098786,
     "geom:longitude":-87.829506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 River Ln",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270339373,
-    "wof:lastmodified":1449009729,
+    "wof:lastmodified":1466494209,
     "wof:name":"Tri City Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.829506,41.098786,-87.829506,41.098786],
-  "geometry": {"coordinates":[-87.829506,41.098786],"type":"Point"}
+  "bbox": [
+    -87.829506,
+    41.098786,
+    -87.829506,
+    41.098786
+],
+  "geometry": {"coordinates":[-87.82950599999999,41.098786],"type":"Point"}
 }

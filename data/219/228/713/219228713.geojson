@@ -2,13 +2,14 @@
   "id": 219228713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.848471,41.347775,-88.848471,41.347775",
     "geom:latitude":41.347775,
     "geom:longitude":-88.848471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 W Jefferson St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219228713,
-    "wof:lastmodified":1449071502,
+    "wof:lastmodified":1466489845,
     "wof:name":"Style Stations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.848471,41.347775,-88.848471,41.347775],
+  "bbox": [
+    -88.848471,
+    41.347775,
+    -88.848471,
+    41.347775
+],
   "geometry": {"coordinates":[-88.848471,41.347775],"type":"Point"}
 }

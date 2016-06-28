@@ -2,13 +2,14 @@
   "id": 202503585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.22675,41.733055,-88.22675,41.733055",
     "geom:latitude":41.733055,
     "geom:longitude":-88.22675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3680 Charlemaine Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202503585,
-    "wof:lastmodified":1449062654,
+    "wof:lastmodified":1466495153,
     "wof:name":"Explorers Communications",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.22675,41.733055,-88.22675,41.733055],
+  "bbox": [
+    -88.22675,
+    41.733055,
+    -88.22675,
+    41.733055
+],
   "geometry": {"coordinates":[-88.22675,41.733055],"type":"Point"}
 }

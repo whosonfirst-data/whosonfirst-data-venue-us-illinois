@@ -2,13 +2,14 @@
   "id": 202562281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.089121,38.517962,-89.089121,38.517962",
     "geom:latitude":38.517962,
     "geom:longitude":-89.089121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 E Calumet St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202562281,
-    "wof:lastmodified":1449061453,
+    "wof:lastmodified":1466489227,
     "wof:name":"Centralia Industrial Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.089121,38.517962,-89.089121,38.517962],
-  "geometry": {"coordinates":[-89.089121,38.517962],"type":"Point"}
+  "bbox": [
+    -89.089121,
+    38.517962,
+    -89.089121,
+    38.517962
+],
+  "geometry": {"coordinates":[-89.08912100000001,38.517962],"type":"Point"}
 }

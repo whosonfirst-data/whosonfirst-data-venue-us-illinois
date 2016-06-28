@@ -2,13 +2,14 @@
   "id": 286911007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252911,40.10406,-88.252911,40.10406",
     "geom:latitude":40.10406,
     "geom:longitude":-88.252911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Haines Blvd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286911007,
-    "wof:lastmodified":1449017634,
+    "wof:lastmodified":1466498191,
     "wof:name":"Hendrick House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dormitory"
     ]
 },
-  "bbox": [-88.252911,40.10406,-88.252911,40.10406],
+  "bbox": [
+    -88.252911,
+    40.10406,
+    -88.252911,
+    40.10406
+],
   "geometry": {"coordinates":[-88.252911,40.10406],"type":"Point"}
 }

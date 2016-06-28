@@ -2,13 +2,14 @@
   "id": 169725621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.951153,38.785036,-89.951153,38.785036",
     "geom:latitude":38.785036,
     "geom:longitude":-89.951153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 Troy Rd",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":169725621,
-    "wof:lastmodified":1449033497,
+    "wof:lastmodified":1466492788,
     "wof:name":"Hibbett Sports",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "fitness"
     ]
 },
-  "bbox": [-89.951153,38.785036,-89.951153,38.785036],
-  "geometry": {"coordinates":[-89.951153,38.785036],"type":"Point"}
+  "bbox": [
+    -89.951153,
+    38.785036,
+    -89.951153,
+    38.785036
+],
+  "geometry": {"coordinates":[-89.95115300000001,38.785036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303044619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.10194,42.255234,-89.10194,42.255234",
     "geom:latitude":42.255234,
     "geom:longitude":-89.10194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 S Main St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303044619,
-    "wof:lastmodified":1448999393,
+    "wof:lastmodified":1466490545,
     "wof:name":"Laredo Liquor",
     "wof:parent_id":85880419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.10194,42.255234,-89.10194,42.255234],
+  "bbox": [
+    -89.10194,
+    42.255234,
+    -89.10194,
+    42.255234
+],
   "geometry": {"coordinates":[-89.10194,42.255234],"type":"Point"}
 }

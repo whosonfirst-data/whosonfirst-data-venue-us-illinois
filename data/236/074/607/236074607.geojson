@@ -2,13 +2,14 @@
   "id": 236074607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.641421,41.877949,-87.641421,41.877949",
     "geom:latitude":41.877949,
     "geom:longitude":-87.641421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 W Jackson Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236074607,
-    "wof:lastmodified":1449003432,
+    "wof:lastmodified":1466489871,
     "wof:name":"Lakeshore Development & Cnstr",
     "wof:parent_id":85865741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.641421,41.877949,-87.641421,41.877949],
-  "geometry": {"coordinates":[-87.641421,41.877949],"type":"Point"}
+  "bbox": [
+    -87.641421,
+    41.877949,
+    -87.641421,
+    41.877949
+],
+  "geometry": {"coordinates":[-87.64142099999999,41.877949],"type":"Point"}
 }

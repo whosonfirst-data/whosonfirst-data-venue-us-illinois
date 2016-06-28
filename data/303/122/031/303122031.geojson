@@ -2,13 +2,14 @@
   "id": 303122031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.739457,41.988006,-87.739457,41.988006",
     "geom:latitude":41.988006,
     "geom:longitude":-87.739457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5827 N Kenneth Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303122031,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466491769,
     "wof:name":"Kelly Construction Company",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.739457,41.988006,-87.739457,41.988006],
+  "bbox": [
+    -87.739457,
+    41.988006,
+    -87.739457,
+    41.988006
+],
   "geometry": {"coordinates":[-87.739457,41.988006],"type":"Point"}
 }

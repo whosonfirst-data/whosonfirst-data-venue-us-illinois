@@ -2,13 +2,14 @@
   "id": 286801217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071765,42.212473,-88.071765,42.212473",
     "geom:latitude":42.212473,
     "geom:longitude":-88.071765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 March St",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286801217,
-    "wof:lastmodified":1449017608,
+    "wof:lastmodified":1466497223,
     "wof:name":"DMR Plumbing",
     "wof:parent_id":85867889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.071765,42.212473,-88.071765,42.212473],
+  "bbox": [
+    -88.071765,
+    42.212473,
+    -88.071765,
+    42.212473
+],
   "geometry": {"coordinates":[-88.071765,42.212473],"type":"Point"}
 }

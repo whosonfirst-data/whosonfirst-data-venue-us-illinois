@@ -2,13 +2,14 @@
   "id": 219217919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.283758,40.086879,-88.283758,40.086879",
     "geom:latitude":40.086879,
     "geom:longitude":-88.283758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Branch Rd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219217919,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466489723,
     "wof:name":"Yogurt Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.283758,40.086879,-88.283758,40.086879],
-  "geometry": {"coordinates":[-88.283758,40.086879],"type":"Point"}
+  "bbox": [
+    -88.283758,
+    40.086879,
+    -88.283758,
+    40.086879
+],
+  "geometry": {"coordinates":[-88.28375800000001,40.086879],"type":"Point"}
 }

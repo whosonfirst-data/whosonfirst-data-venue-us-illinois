@@ -2,13 +2,14 @@
   "id": 169731547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97406,38.814159,-89.97406,38.814159",
     "geom:latitude":38.814159,
     "geom:longitude":-89.97406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Terry Ave",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169731547,
-    "wof:lastmodified":1449035584,
+    "wof:lastmodified":1466493094,
     "wof:name":"Timothy Donsbach",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-89.97406,38.814159,-89.97406,38.814159],
-  "geometry": {"coordinates":[-89.97406,38.814159],"type":"Point"}
+  "bbox": [
+    -89.97406,
+    38.814159,
+    -89.97406,
+    38.814159
+],
+  "geometry": {"coordinates":[-89.97405999999999,38.814159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185862981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.604407,39.840805,-89.604407,39.840805",
     "geom:latitude":39.840805,
     "geom:longitude":-89.604407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 N Dirksen Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":185862981,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1466489481,
     "wof:name":"Big R of Springfield",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "saw"
     ]
 },
-  "bbox": [-89.604407,39.840805,-89.604407,39.840805],
-  "geometry": {"coordinates":[-89.604407,39.840805],"type":"Point"}
+  "bbox": [
+    -89.604407,
+    39.840805,
+    -89.604407,
+    39.840805
+],
+  "geometry": {"coordinates":[-89.60440699999999,39.840805],"type":"Point"}
 }

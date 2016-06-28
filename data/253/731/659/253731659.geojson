@@ -2,13 +2,14 @@
   "id": 253731659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.798375,41.456288,-88.798375,41.456288",
     "geom:latitude":41.456288,
     "geom:longitude":-88.798375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 N 3609th Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253731659,
-    "wof:lastmodified":1449065445,
+    "wof:lastmodified":1466497873,
     "wof:name":"Healthy Alternatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diet"
     ]
 },
-  "bbox": [-88.798375,41.456288,-88.798375,41.456288],
-  "geometry": {"coordinates":[-88.798375,41.456288],"type":"Point"}
+  "bbox": [
+    -88.798375,
+    41.456288,
+    -88.798375,
+    41.456288
+],
+  "geometry": {"coordinates":[-88.79837499999999,41.456288],"type":"Point"}
 }

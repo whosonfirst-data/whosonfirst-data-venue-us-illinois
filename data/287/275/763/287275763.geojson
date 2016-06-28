@@ -2,13 +2,14 @@
   "id": 287275763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.323408,41.741761,-88.323408,41.741761",
     "geom:latitude":41.741761,
     "geom:longitude":-88.323408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"746 S Lincoln Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":287275763,
-    "wof:lastmodified":1449000939,
+    "wof:lastmodified":1466494370,
     "wof:name":"Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.323408,41.741761,-88.323408,41.741761],
+  "bbox": [
+    -88.323408,
+    41.741761,
+    -88.323408,
+    41.741761
+],
   "geometry": {"coordinates":[-88.323408,41.741761],"type":"Point"}
 }

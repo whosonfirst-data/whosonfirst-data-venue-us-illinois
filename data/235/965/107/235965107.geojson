@@ -2,13 +2,14 @@
   "id": 235965107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.835907,41.329061,-88.835907,41.329061",
     "geom:latitude":41.329061,
     "geom:longitude":-88.835907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Arch St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235965107,
-    "wof:lastmodified":1449008479,
+    "wof:lastmodified":1466489363,
     "wof:name":"Laser Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.835907,41.329061,-88.835907,41.329061],
-  "geometry": {"coordinates":[-88.835907,41.329061],"type":"Point"}
+  "bbox": [
+    -88.835907,
+    41.329061,
+    -88.835907,
+    41.329061
+],
+  "geometry": {"coordinates":[-88.83590700000001,41.329061],"type":"Point"}
 }

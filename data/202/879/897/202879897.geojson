@@ -2,13 +2,14 @@
   "id": 202879897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.298294,41.853245,-88.298294,41.853245",
     "geom:latitude":41.853245,
     "geom:longitude":-88.298294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E Franklin St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202879897,
-    "wof:lastmodified":1449060136,
+    "wof:lastmodified":1466492936,
     "wof:name":"Larson Limousine",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-88.298294,41.853245,-88.298294,41.853245],
+  "bbox": [
+    -88.298294,
+    41.853245,
+    -88.298294,
+    41.853245
+],
   "geometry": {"coordinates":[-88.298294,41.853245],"type":"Point"}
 }

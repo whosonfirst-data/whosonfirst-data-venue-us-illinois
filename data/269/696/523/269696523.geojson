@@ -2,13 +2,14 @@
   "id": 269696523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.081287,42.266551,-89.081287,42.266551",
     "geom:latitude":42.266551,
     "geom:longitude":-89.081287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Charles St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269696523,
-    "wof:lastmodified":1449036333,
+    "wof:lastmodified":1466492356,
     "wof:name":"Ohzone",
     "wof:parent_id":85880447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-89.081287,42.266551,-89.081287,42.266551],
+  "bbox": [
+    -89.081287,
+    42.266551,
+    -89.081287,
+    42.266551
+],
   "geometry": {"coordinates":[-89.081287,42.266551],"type":"Point"}
 }

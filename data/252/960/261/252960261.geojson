@@ -2,13 +2,14 @@
   "id": 252960261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048223,40.010992,-88.048223,40.010992",
     "geom:latitude":40.010992,
     "geom:longitude":-88.048223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2197 Co Rd 900 N",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252960261,
-    "wof:lastmodified":1449006176,
+    "wof:lastmodified":1466492259,
     "wof:name":"Steves Outdoor Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.048223,40.010992,-88.048223,40.010992],
-  "geometry": {"coordinates":[-88.048223,40.010992],"type":"Point"}
+  "bbox": [
+    -88.048223,
+    40.010992,
+    -88.048223,
+    40.010992
+],
+  "geometry": {"coordinates":[-88.04822299999999,40.010992],"type":"Point"}
 }

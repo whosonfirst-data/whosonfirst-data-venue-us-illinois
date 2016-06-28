@@ -2,13 +2,14 @@
   "id": 202559565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.526423,41.505376,-90.526423,41.505376",
     "geom:latitude":41.505376,
     "geom:longitude":-90.526423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 8th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202559565,
-    "wof:lastmodified":1449062106,
+    "wof:lastmodified":1466489192,
     "wof:name":"RSC 329",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.526423,41.505376,-90.526423,41.505376],
-  "geometry": {"coordinates":[-90.526423,41.505376],"type":"Point"}
+  "bbox": [
+    -90.526423,
+    41.505376,
+    -90.526423,
+    41.505376
+],
+  "geometry": {"coordinates":[-90.52642299999999,41.505376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269867293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.955255,38.627621,-88.955255,38.627621",
     "geom:latitude":38.627621,
     "geom:longitude":-88.955255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 N Indiana Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269867293,
-    "wof:lastmodified":1449037171,
+    "wof:lastmodified":1466495067,
     "wof:name":"William A Milam Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-88.955255,38.627621,-88.955255,38.627621],
-  "geometry": {"coordinates":[-88.955255,38.627621],"type":"Point"}
+  "bbox": [
+    -88.955255,
+    38.627621,
+    -88.955255,
+    38.627621
+],
+  "geometry": {"coordinates":[-88.95525499999999,38.627621],"type":"Point"}
 }

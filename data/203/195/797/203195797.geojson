@@ -2,13 +2,14 @@
   "id": 203195797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.341558,41.876297,-88.341558,41.876297",
     "geom:latitude":41.876297,
     "geom:longitude":-88.341558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Randall Ct",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203195797,
-    "wof:lastmodified":1449026228,
+    "wof:lastmodified":1466489307,
     "wof:name":"Dennis Lazzara LTD",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.341558,41.876297,-88.341558,41.876297],
-  "geometry": {"coordinates":[-88.341558,41.876297],"type":"Point"}
+  "bbox": [
+    -88.341558,
+    41.876297,
+    -88.341558,
+    41.876297
+],
+  "geometry": {"coordinates":[-88.34155800000001,41.876297],"type":"Point"}
 }

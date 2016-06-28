@@ -2,13 +2,14 @@
   "id": 185771725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.962798,39.840244,-88.962798,39.840244",
     "geom:latitude":39.840244,
     "geom:longitude":-88.962798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 W Wood St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185771725,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466495476,
     "wof:name":"Decatur Memorial Hospital Thrift Shop",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "hand"
     ]
 },
-  "bbox": [-88.962798,39.840244,-88.962798,39.840244],
-  "geometry": {"coordinates":[-88.962798,39.840244],"type":"Point"}
+  "bbox": [
+    -88.962798,
+    39.840244,
+    -88.962798,
+    39.840244
+],
+  "geometry": {"coordinates":[-88.96279800000001,39.840244],"type":"Point"}
 }

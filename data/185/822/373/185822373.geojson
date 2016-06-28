@@ -2,13 +2,14 @@
   "id": 185822373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.776108,39.701061,-89.776108,39.701061",
     "geom:latitude":39.701061,
     "geom:longitude":-89.776108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6835 Mansion Rd",
     "sg:city":"Chatham",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185822373,
-    "wof:lastmodified":1449008141,
+    "wof:lastmodified":1466489171,
     "wof:name":"Hopkins Builders",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-89.776108,39.701061,-89.776108,39.701061],
-  "geometry": {"coordinates":[-89.776108,39.701061],"type":"Point"}
+  "bbox": [
+    -89.776108,
+    39.701061,
+    -89.776108,
+    39.701061
+],
+  "geometry": {"coordinates":[-89.77610799999999,39.701061],"type":"Point"}
 }

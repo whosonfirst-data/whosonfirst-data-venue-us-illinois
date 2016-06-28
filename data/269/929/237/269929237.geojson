@@ -2,13 +2,14 @@
   "id": 269929237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.055559,40.558994,-90.055559,40.558994",
     "geom:latitude":40.558994,
     "geom:longitude":-90.055559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 W Locust St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269929237,
-    "wof:lastmodified":1449037063,
+    "wof:lastmodified":1466496101,
     "wof:name":"Canton Township Road",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-90.055559,40.558994,-90.055559,40.558994],
+  "bbox": [
+    -90.055559,
+    40.558994,
+    -90.055559,
+    40.558994
+],
   "geometry": {"coordinates":[-90.055559,40.558994],"type":"Point"}
 }

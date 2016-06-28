@@ -2,13 +2,14 @@
   "id": 202972263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.872324,42.32128,-87.872324,42.32128",
     "geom:latitude":42.32128,
     "geom:longitude":-87.872324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3037 21st St",
     "sg:city":"North Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202972263,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466494047,
     "wof:name":"PM Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.872324,42.32128,-87.872324,42.32128],
-  "geometry": {"coordinates":[-87.872324,42.32128],"type":"Point"}
+  "bbox": [
+    -87.872324,
+    42.32128,
+    -87.872324,
+    42.32128
+],
+  "geometry": {"coordinates":[-87.87232400000001,42.32128],"type":"Point"}
 }

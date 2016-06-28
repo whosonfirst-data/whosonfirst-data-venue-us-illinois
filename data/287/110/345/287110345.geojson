@@ -2,13 +2,14 @@
   "id": 287110345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087899,41.706367,-88.087899,41.706367",
     "geom:latitude":41.706367,
     "geom:longitude":-88.087899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 N Schmidt Rd",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287110345,
-    "wof:lastmodified":1449000951,
+    "wof:lastmodified":1466491733,
     "wof:name":"Stop and Go Tobacco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.087899,41.706367,-88.087899,41.706367],
-  "geometry": {"coordinates":[-88.087899,41.706367],"type":"Point"}
+  "bbox": [
+    -88.087899,
+    41.706367,
+    -88.087899,
+    41.706367
+],
+  "geometry": {"coordinates":[-88.08789899999999,41.706367],"type":"Point"}
 }

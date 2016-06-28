@@ -2,13 +2,14 @@
   "id": 202913579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.361102,42.00356,-89.361102,42.00356",
     "geom:latitude":42.00356,
     "geom:longitude":-89.361102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 W Pines Rd",
     "sg:city":"Oregon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202913579,
-    "wof:lastmodified":1449061095,
+    "wof:lastmodified":1466493336,
     "wof:name":"Pines Meadow Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-89.361102,42.00356,-89.361102,42.00356],
+  "bbox": [
+    -89.361102,
+    42.00356,
+    -89.361102,
+    42.00356
+],
   "geometry": {"coordinates":[-89.361102,42.00356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236097845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.098244,38.630455,-90.098244,38.630455",
     "geom:latitude":38.630455,
     "geom:longitude":-90.098244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Caseyville Ave",
     "sg:city":"Washington Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236097845,
-    "wof:lastmodified":1449002858,
+    "wof:lastmodified":1466490156,
     "wof:name":"Washington Park Liquor",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.098244,38.630455,-90.098244,38.630455],
-  "geometry": {"coordinates":[-90.098244,38.630455],"type":"Point"}
+  "bbox": [
+    -90.098244,
+    38.630455,
+    -90.098244,
+    38.630455
+],
+  "geometry": {"coordinates":[-90.09824399999999,38.630455],"type":"Point"}
 }

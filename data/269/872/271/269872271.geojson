@@ -2,13 +2,14 @@
   "id": 269872271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314299,41.843506,-88.314299,41.843506",
     "geom:latitude":41.843506,
     "geom:longitude":-88.314299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W Walnut St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":269872271,
-    "wof:lastmodified":1449036364,
+    "wof:lastmodified":1466495146,
     "wof:name":"Bruce Feddema Silversmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.314299,41.843506,-88.314299,41.843506],
-  "geometry": {"coordinates":[-88.314299,41.843506],"type":"Point"}
+  "bbox": [
+    -88.314299,
+    41.843506,
+    -88.314299,
+    41.843506
+],
+  "geometry": {"coordinates":[-88.31429900000001,41.843506],"type":"Point"}
 }

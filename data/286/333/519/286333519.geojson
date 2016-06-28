@@ -2,13 +2,14 @@
   "id": 286333519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.545494,41.568559,-87.545494,41.568559",
     "geom:latitude":41.568559,
     "geom:longitude":-87.545494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17910 Ridgewood Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286333519,
-    "wof:lastmodified":1449017884,
+    "wof:lastmodified":1466490923,
     "wof:name":"Greenburg Financial Services",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.545494,41.568559,-87.545494,41.568559],
-  "geometry": {"coordinates":[-87.545494,41.568559],"type":"Point"}
+  "bbox": [
+    -87.545494,
+    41.568559,
+    -87.545494,
+    41.568559
+],
+  "geometry": {"coordinates":[-87.54549400000001,41.568559],"type":"Point"}
 }

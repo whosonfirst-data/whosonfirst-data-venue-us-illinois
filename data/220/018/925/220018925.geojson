@@ -2,13 +2,14 @@
   "id": 220018925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.357994,41.771952,-88.357994,41.771952",
     "geom:latitude":41.771952,
     "geom:longitude":-88.357994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 Sherwood Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220018925,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466489178,
     "wof:name":"Deck Guard",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.357994,41.771952,-88.357994,41.771952],
-  "geometry": {"coordinates":[-88.357994,41.771952],"type":"Point"}
+  "bbox": [
+    -88.357994,
+    41.771952,
+    -88.357994,
+    41.771952
+],
+  "geometry": {"coordinates":[-88.35799400000001,41.771952],"type":"Point"}
 }

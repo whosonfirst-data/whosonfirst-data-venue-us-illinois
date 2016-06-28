@@ -2,13 +2,14 @@
   "id": 253263387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679263,42.024693,-87.679263,42.024693",
     "geom:latitude":42.024693,
     "geom:longitude":-87.679263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Callan Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253263387,
-    "wof:lastmodified":1449065710,
+    "wof:lastmodified":1466492183,
     "wof:name":"Music Store",
     "wof:parent_id":85868887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.679263,42.024693,-87.679263,42.024693],
-  "geometry": {"coordinates":[-87.679263,42.024693],"type":"Point"}
+  "bbox": [
+    -87.679263,
+    42.024693,
+    -87.679263,
+    42.024693
+],
+  "geometry": {"coordinates":[-87.67926300000001,42.024693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219158777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.139795,38.50323,-89.139795,38.50323",
     "geom:latitude":38.50323,
     "geom:longitude":-89.139795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Wabash Ave",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219158777,
-    "wof:lastmodified":1449072740,
+    "wof:lastmodified":1466489006,
     "wof:name":"Trash & Treasure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-89.139795,38.50323,-89.139795,38.50323],
-  "geometry": {"coordinates":[-89.139795,38.50323],"type":"Point"}
+  "bbox": [
+    -89.139795,
+    38.50323,
+    -89.139795,
+    38.50323
+],
+  "geometry": {"coordinates":[-89.13979500000001,38.50323],"type":"Point"}
 }

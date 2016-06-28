@@ -2,13 +2,14 @@
   "id": 269866245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.771291,40.692065,-89.771291,40.692065",
     "geom:latitude":40.692065,
     "geom:longitude":-89.771291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11223 W Farmington Rd",
     "sg:city":"Hanna City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269866245,
-    "wof:lastmodified":1449037281,
+    "wof:lastmodified":1466495052,
     "wof:name":"Advance Realty Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.771291,40.692065,-89.771291,40.692065],
-  "geometry": {"coordinates":[-89.771291,40.692065],"type":"Point"}
+  "bbox": [
+    -89.771291,
+    40.692065,
+    -89.771291,
+    40.692065
+],
+  "geometry": {"coordinates":[-89.77129100000001,40.692065],"type":"Point"}
 }

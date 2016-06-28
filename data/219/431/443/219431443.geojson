@@ -2,13 +2,14 @@
   "id": 219431443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.126528,38.619917,-90.126528,38.619917",
     "geom:latitude":38.619917,
     "geom:longitude":-90.126528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N 24th St",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219431443,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466492353,
     "wof:name":"Green Mable",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "daycare"
     ]
 },
-  "bbox": [-90.126528,38.619917,-90.126528,38.619917],
-  "geometry": {"coordinates":[-90.126528,38.619917],"type":"Point"}
+  "bbox": [
+    -90.126528,
+    38.619917,
+    -90.126528,
+    38.619917
+],
+  "geometry": {"coordinates":[-90.12652799999999,38.619917],"type":"Point"}
 }

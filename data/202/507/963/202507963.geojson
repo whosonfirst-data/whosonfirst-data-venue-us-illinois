@@ -2,13 +2,14 @@
   "id": 202507963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.748416,41.99553,-87.748416,41.99553",
     "geom:latitude":41.99553,
     "geom:longitude":-87.748416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6204 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202507963,
-    "wof:lastmodified":1449061420,
+    "wof:lastmodified":1466495261,
     "wof:name":"Customer Service",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fabric"
     ]
 },
-  "bbox": [-87.748416,41.99553,-87.748416,41.99553],
-  "geometry": {"coordinates":[-87.748416,41.99553],"type":"Point"}
+  "bbox": [
+    -87.748416,
+    41.99553,
+    -87.748416,
+    41.99553
+],
+  "geometry": {"coordinates":[-87.74841600000001,41.99553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202596517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.932247,41.471256,-87.932247,41.471256",
     "geom:latitude":41.471256,
     "geom:longitude":-87.932247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2841 Farmview Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202596517,
-    "wof:lastmodified":1449061418,
+    "wof:lastmodified":1466489625,
     "wof:name":"Emcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.932247,41.471256,-87.932247,41.471256],
+  "bbox": [
+    -87.932247,
+    41.471256,
+    -87.932247,
+    41.471256
+],
   "geometry": {"coordinates":[-87.932247,41.471256],"type":"Point"}
 }

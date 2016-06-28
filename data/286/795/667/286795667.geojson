@@ -2,13 +2,14 @@
   "id": 286795667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.855526,41.59343,-87.855526,41.59343",
     "geom:latitude":41.59343,
     "geom:longitude":-87.855526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16328 Bob White Cir",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286795667,
-    "wof:lastmodified":1449016937,
+    "wof:lastmodified":1466497185,
     "wof:name":"Vale Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.855526,41.59343,-87.855526,41.59343],
+  "bbox": [
+    -87.855526,
+    41.59343,
+    -87.855526,
+    41.59343
+],
   "geometry": {"coordinates":[-87.855526,41.59343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185778377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.920145,39.888547,-88.920145,39.888547",
     "geom:latitude":39.888547,
     "geom:longitude":-88.920145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 E Federal Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185778377,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466495539,
     "wof:name":"Family Visiting Nurses",
     "wof:parent_id":85829821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurse"
     ]
 },
-  "bbox": [-88.920145,39.888547,-88.920145,39.888547],
-  "geometry": {"coordinates":[-88.920145,39.888547],"type":"Point"}
+  "bbox": [
+    -88.920145,
+    39.888547,
+    -88.920145,
+    39.888547
+],
+  "geometry": {"coordinates":[-88.92014500000001,39.888547],"type":"Point"}
 }

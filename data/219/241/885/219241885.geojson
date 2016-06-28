@@ -2,13 +2,14 @@
   "id": 219241885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.666997,41.966791,-87.666997,41.966791",
     "geom:latitude":41.966791,
     "geom:longitude":-87.666997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219241885,
-    "wof:lastmodified":1449073816,
+    "wof:lastmodified":1466489999,
     "wof:name":"Femos Painting",
     "wof:parent_id":85867781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-87.666997,41.966791,-87.666997,41.966791],
-  "geometry": {"coordinates":[-87.666997,41.966791],"type":"Point"}
+  "bbox": [
+    -87.666997,
+    41.966791,
+    -87.666997,
+    41.966791
+],
+  "geometry": {"coordinates":[-87.66699699999999,41.966791],"type":"Point"}
 }

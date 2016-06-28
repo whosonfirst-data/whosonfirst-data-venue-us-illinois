@@ -2,13 +2,14 @@
   "id": 219435637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.856468,41.932711,-87.856468,41.932711",
     "geom:latitude":41.932711,
     "geom:longitude":-87.856468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9215 Parklane Ave",
     "sg:city":"Franklin Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219435637,
-    "wof:lastmodified":1449073592,
+    "wof:lastmodified":1466492407,
     "wof:name":"Carmaster",
     "wof:parent_id":85867815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.856468,41.932711,-87.856468,41.932711],
-  "geometry": {"coordinates":[-87.856468,41.932711],"type":"Point"}
+  "bbox": [
+    -87.856468,
+    41.932711,
+    -87.856468,
+    41.932711
+],
+  "geometry": {"coordinates":[-87.85646800000001,41.932711],"type":"Point"}
 }

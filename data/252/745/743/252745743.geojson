@@ -2,13 +2,14 @@
   "id": 252745743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.879332,41.333107,-88.879332,41.333107",
     "geom:latitude":41.333107,
     "geom:longitude":-88.879332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 21st Ave",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252745743,
-    "wof:lastmodified":1449006454,
+    "wof:lastmodified":1466489483,
     "wof:name":"Naplate Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.879332,41.333107,-88.879332,41.333107],
-  "geometry": {"coordinates":[-88.879332,41.333107],"type":"Point"}
+  "bbox": [
+    -88.879332,
+    41.333107,
+    -88.879332,
+    41.333107
+],
+  "geometry": {"coordinates":[-88.87933200000001,41.333107],"type":"Point"}
 }

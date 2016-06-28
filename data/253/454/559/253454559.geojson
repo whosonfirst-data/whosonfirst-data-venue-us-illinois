@@ -2,13 +2,14 @@
   "id": 253454559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.020324,40.312891,-88.020324,40.312891",
     "geom:latitude":40.312891,
     "geom:longitude":-88.020324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Co Rd 3000 N",
     "sg:city":"Gifford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253454559,
-    "wof:lastmodified":1449065505,
+    "wof:lastmodified":1466495117,
     "wof:name":"Country Health Nursing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-88.020324,40.312891,-88.020324,40.312891],
+  "bbox": [
+    -88.020324,
+    40.312891,
+    -88.020324,
+    40.312891
+],
   "geometry": {"coordinates":[-88.020324,40.312891],"type":"Point"}
 }

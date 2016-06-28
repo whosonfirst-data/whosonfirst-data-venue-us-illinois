@@ -2,13 +2,14 @@
   "id": 286460401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.685234,40.304924,-89.685234,40.304924",
     "geom:latitude":40.304924,
     "geom:longitude":-89.685234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35504 E US Hwy 136",
     "sg:city":"San Jose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286460401,
-    "wof:lastmodified":1449017928,
+    "wof:lastmodified":1466492887,
     "wof:name":"Henry Imig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.685234,40.304924,-89.685234,40.304924],
-  "geometry": {"coordinates":[-89.685234,40.304924],"type":"Point"}
+  "bbox": [
+    -89.685234,
+    40.304924,
+    -89.685234,
+    40.304924
+],
+  "geometry": {"coordinates":[-89.68523399999999,40.304924],"type":"Point"}
 }

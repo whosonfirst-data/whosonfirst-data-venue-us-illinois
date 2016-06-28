@@ -2,13 +2,14 @@
   "id": 269590159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.017707,39.529388,-88.017707,39.529388",
     "geom:latitude":39.529388,
     "geom:longitude":-88.017707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Charleston Rd",
     "sg:city":"Ashmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269590159,
-    "wof:lastmodified":1449037572,
+    "wof:lastmodified":1466490665,
     "wof:name":"Central Illinois Propeller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "propeller"
     ]
 },
-  "bbox": [-88.017707,39.529388,-88.017707,39.529388],
+  "bbox": [
+    -88.017707,
+    39.529388,
+    -88.017707,
+    39.529388
+],
   "geometry": {"coordinates":[-88.017707,39.529388],"type":"Point"}
 }

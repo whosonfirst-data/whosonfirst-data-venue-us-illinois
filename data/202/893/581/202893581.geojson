@@ -2,13 +2,14 @@
   "id": 202893581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.536786,41.479288,-90.536786,41.479288",
     "geom:latitude":41.479288,
     "geom:longitude":-90.536786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 30th Ave Ct",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202893581,
-    "wof:lastmodified":1449062188,
+    "wof:lastmodified":1466493097,
     "wof:name":"Lyss Clinic",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.536786,41.479288,-90.536786,41.479288],
-  "geometry": {"coordinates":[-90.536786,41.479288],"type":"Point"}
+  "bbox": [
+    -90.536786,
+    41.479288,
+    -90.536786,
+    41.479288
+],
+  "geometry": {"coordinates":[-90.53678600000001,41.479288],"type":"Point"}
 }

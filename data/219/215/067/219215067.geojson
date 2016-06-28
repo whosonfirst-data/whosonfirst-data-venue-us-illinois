@@ -2,13 +2,14 @@
   "id": 219215067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.637639,40.09071,-87.637639,40.09071",
     "geom:latitude":40.09071,
     "geom:longitude":-87.637639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 King St",
     "sg:city":"Tilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219215067,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466489684,
     "wof:name":"Miller's News Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-87.637639,40.09071,-87.637639,40.09071],
-  "geometry": {"coordinates":[-87.637639,40.09071],"type":"Point"}
+  "bbox": [
+    -87.637639,
+    40.09071,
+    -87.637639,
+    40.09071
+],
+  "geometry": {"coordinates":[-87.63763899999999,40.09071],"type":"Point"}
 }

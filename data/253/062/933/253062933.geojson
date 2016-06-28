@@ -2,13 +2,14 @@
   "id": 253062933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.555106,38.700117,-89.555106,38.700117",
     "geom:latitude":38.700117,
     "geom:longitude":-89.555106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19000 Saint Rose Rd",
     "sg:city":"Breese",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253062933,
-    "wof:lastmodified":1449065576,
+    "wof:lastmodified":1466489764,
     "wof:name":"Albert Middeke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.555106,38.700117,-89.555106,38.700117],
-  "geometry": {"coordinates":[-89.555106,38.700117],"type":"Point"}
+  "bbox": [
+    -89.555106,
+    38.700117,
+    -89.555106,
+    38.700117
+],
+  "geometry": {"coordinates":[-89.55510599999999,38.700117],"type":"Point"}
 }

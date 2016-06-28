@@ -2,13 +2,14 @@
   "id": 270353965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.071219,38.540268,-90.071219,38.540268",
     "geom:latitude":38.540268,
     "geom:longitude":-90.071219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Princeton Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270353965,
-    "wof:lastmodified":1449009306,
+    "wof:lastmodified":1466494427,
     "wof:name":"Twin Service",
     "wof:parent_id":85839243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.071219,38.540268,-90.071219,38.540268],
+  "bbox": [
+    -90.071219,
+    38.540268,
+    -90.071219,
+    38.540268
+],
   "geometry": {"coordinates":[-90.071219,38.540268],"type":"Point"}
 }

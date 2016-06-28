@@ -2,13 +2,14 @@
   "id": 269593539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.800626,41.850405,-87.800626,41.850405",
     "geom:latitude":41.850405,
     "geom:longitude":-87.800626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7055 Cermak Rd",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269593539,
-    "wof:lastmodified":1449037716,
+    "wof:lastmodified":1466490720,
     "wof:name":"D'Andrea Italian Market",
     "wof:parent_id":85837971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-87.800626,41.850405,-87.800626,41.850405],
-  "geometry": {"coordinates":[-87.800626,41.850405],"type":"Point"}
+  "bbox": [
+    -87.800626,
+    41.850405,
+    -87.800626,
+    41.850405
+],
+  "geometry": {"coordinates":[-87.80062599999999,41.850405],"type":"Point"}
 }

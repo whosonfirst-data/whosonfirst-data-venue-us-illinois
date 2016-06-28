@@ -2,13 +2,14 @@
   "id": 203173867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.98889,41.850727,-87.98889,41.850727",
     "geom:latitude":41.850727,
     "geom:longitude":-87.98889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Oxford Ct",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203173867,
-    "wof:lastmodified":1449025297,
+    "wof:lastmodified":1466489059,
     "wof:name":"American Exp Fin Adv",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-87.98889,41.850727,-87.98889,41.850727],
+  "bbox": [
+    -87.98889,
+    41.850727,
+    -87.98889,
+    41.850727
+],
   "geometry": {"coordinates":[-87.98889,41.850727],"type":"Point"}
 }

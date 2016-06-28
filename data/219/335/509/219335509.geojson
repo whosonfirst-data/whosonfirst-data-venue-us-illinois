@@ -2,13 +2,14 @@
   "id": 219335509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.663362,40.459749,-90.663362,40.459749",
     "geom:latitude":40.459749,
     "geom:longitude":-90.663362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 E Carroll St",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219335509,
-    "wof:lastmodified":1449072712,
+    "wof:lastmodified":1466491142,
     "wof:name":"Paul M Willi Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.663362,40.459749,-90.663362,40.459749],
-  "geometry": {"coordinates":[-90.663362,40.459749],"type":"Point"}
+  "bbox": [
+    -90.663362,
+    40.459749,
+    -90.663362,
+    40.459749
+],
+  "geometry": {"coordinates":[-90.66336200000001,40.459749],"type":"Point"}
 }

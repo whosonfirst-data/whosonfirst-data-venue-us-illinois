@@ -2,13 +2,14 @@
   "id": 286263219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653769,41.96997,-87.653769,41.96997",
     "geom:latitude":41.96997,
     "geom:longitude":-87.653769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 W Gunnison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286263219,
-    "wof:lastmodified":1449018001,
+    "wof:lastmodified":1466489860,
     "wof:name":"Very Cool Inc",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.653769,41.96997,-87.653769,41.96997],
+  "bbox": [
+    -87.653769,
+    41.96997,
+    -87.653769,
+    41.96997
+],
   "geometry": {"coordinates":[-87.653769,41.96997],"type":"Point"}
 }

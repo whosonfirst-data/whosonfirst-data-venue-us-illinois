@@ -2,13 +2,14 @@
   "id": 185777383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.990963,39.86513,-88.990963,39.86513",
     "geom:latitude":39.86513,
     "geom:longitude":-88.990963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2163 W Ravina Park Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185777383,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1466495535,
     "wof:name":"K. M. B., Service Corporation",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "pathology"
     ]
 },
-  "bbox": [-88.990963,39.86513,-88.990963,39.86513],
-  "geometry": {"coordinates":[-88.990963,39.86513],"type":"Point"}
+  "bbox": [
+    -88.990963,
+    39.86513,
+    -88.990963,
+    39.86513
+],
+  "geometry": {"coordinates":[-88.99096299999999,39.86513],"type":"Point"}
 }

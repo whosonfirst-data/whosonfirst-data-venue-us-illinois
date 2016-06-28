@@ -2,13 +2,14 @@
   "id": 219442269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.789111,41.586462,-87.789111,41.586462",
     "geom:latitude":41.586462,
     "geom:longitude":-87.789111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16729 Sayre Ave",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219442269,
-    "wof:lastmodified":1449071941,
+    "wof:lastmodified":1466492484,
     "wof:name":"Alessi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.789111,41.586462,-87.789111,41.586462],
-  "geometry": {"coordinates":[-87.789111,41.586462],"type":"Point"}
+  "bbox": [
+    -87.789111,
+    41.586462,
+    -87.789111,
+    41.586462
+],
+  "geometry": {"coordinates":[-87.78911100000001,41.586462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202588991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960761,41.890179,-87.960761,41.890179",
     "geom:latitude":41.890179,
     "geom:longitude":-87.960761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 W Saint Charles Rd",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202588991,
-    "wof:lastmodified":1449062166,
+    "wof:lastmodified":1466489544,
     "wof:name":"Amlings Flowerland",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.960761,41.890179,-87.960761,41.890179],
-  "geometry": {"coordinates":[-87.960761,41.890179],"type":"Point"}
+  "bbox": [
+    -87.960761,
+    41.890179,
+    -87.960761,
+    41.890179
+],
+  "geometry": {"coordinates":[-87.96076100000001,41.890179],"type":"Point"}
 }

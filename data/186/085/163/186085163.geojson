@@ -2,13 +2,14 @@
   "id": 186085163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.911465,37.387504,-88.911465,37.387504",
     "geom:latitude":37.387504,
     "geom:longitude":-88.911465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Hawkins Rd",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186085163,
-    "wof:lastmodified":1449051067,
+    "wof:lastmodified":1466494802,
     "wof:name":"Marty Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.911465,37.387504,-88.911465,37.387504],
-  "geometry": {"coordinates":[-88.911465,37.387504],"type":"Point"}
+  "bbox": [
+    -88.911465,
+    37.387504,
+    -88.911465,
+    37.387504
+],
+  "geometry": {"coordinates":[-88.91146500000001,37.387504],"type":"Point"}
 }

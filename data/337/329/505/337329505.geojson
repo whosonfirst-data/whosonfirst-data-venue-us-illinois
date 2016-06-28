@@ -2,13 +2,14 @@
   "id": 337329505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747199,39.835669,-87.747199,39.835669",
     "geom:latitude":39.835669,
     "geom:longitude":-87.747199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24533 N 1200th St",
     "sg:city":"Chrisman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337329505,
-    "wof:lastmodified":1449027166,
+    "wof:lastmodified":1466491613,
     "wof:name":"K & S Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.747199,39.835669,-87.747199,39.835669],
-  "geometry": {"coordinates":[-87.747199,39.835669],"type":"Point"}
+  "bbox": [
+    -87.747199,
+    39.835669,
+    -87.747199,
+    39.835669
+],
+  "geometry": {"coordinates":[-87.74719899999999,39.835669],"type":"Point"}
 }

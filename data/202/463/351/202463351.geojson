@@ -2,13 +2,14 @@
   "id": 202463351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.144011,38.481294,-89.144011,38.481294",
     "geom:latitude":38.481294,
     "geom:longitude":-89.144011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Greenview Church Rd",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202463351,
-    "wof:lastmodified":1449061857,
+    "wof:lastmodified":1466494521,
     "wof:name":"Greenview Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.144011,38.481294,-89.144011,38.481294],
-  "geometry": {"coordinates":[-89.144011,38.481294],"type":"Point"}
+  "bbox": [
+    -89.144011,
+    38.481294,
+    -89.144011,
+    38.481294
+],
+  "geometry": {"coordinates":[-89.14401100000001,38.481294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202536525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.217954,41.773063,-88.217954,41.773063",
     "geom:latitude":41.773063,
     "geom:longitude":-88.217954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 Meridian Pkwy",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202536525,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466495593,
     "wof:name":"Hartford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.217954,41.773063,-88.217954,41.773063],
-  "geometry": {"coordinates":[-88.217954,41.773063],"type":"Point"}
+  "bbox": [
+    -88.217954,
+    41.773063,
+    -88.217954,
+    41.773063
+],
+  "geometry": {"coordinates":[-88.21795400000001,41.773063],"type":"Point"}
 }

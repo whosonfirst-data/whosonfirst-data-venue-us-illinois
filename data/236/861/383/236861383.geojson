@@ -2,13 +2,14 @@
   "id": 236861383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.090421,38.960381,-89.090421,38.960381",
     "geom:latitude":38.960381,
     "geom:longitude":-89.090421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 S 1st St",
     "sg:city":"Vandalia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236861383,
-    "wof:lastmodified":1449005223,
+    "wof:lastmodified":1466498092,
     "wof:name":"R & S Clearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.090421,38.960381,-89.090421,38.960381],
-  "geometry": {"coordinates":[-89.090421,38.960381],"type":"Point"}
+  "bbox": [
+    -89.090421,
+    38.960381,
+    -89.090421,
+    38.960381
+],
+  "geometry": {"coordinates":[-89.09042100000001,38.960381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203148109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.760325,40.347062,-88.760325,40.347062",
     "geom:latitude":40.347062,
     "geom:longitude":-88.760325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E Center St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203148109,
-    "wof:lastmodified":1449026549,
+    "wof:lastmodified":1466495473,
     "wof:name":"Fannin Travel",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-88.760325,40.347062,-88.760325,40.347062],
-  "geometry": {"coordinates":[-88.760325,40.347062],"type":"Point"}
+  "bbox": [
+    -88.760325,
+    40.347062,
+    -88.760325,
+    40.347062
+],
+  "geometry": {"coordinates":[-88.76032499999999,40.347062],"type":"Point"}
 }

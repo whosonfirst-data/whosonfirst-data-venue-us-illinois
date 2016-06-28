@@ -2,13 +2,14 @@
   "id": 303132453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.161623,41.563433,-88.161623,41.563433",
     "geom:latitude":41.563433,
     "geom:longitude":-88.161623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2298 Essington Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303132453,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466491940,
     "wof:name":"Pickermans",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-88.161623,41.563433,-88.161623,41.563433],
-  "geometry": {"coordinates":[-88.161623,41.563433],"type":"Point"}
+  "bbox": [
+    -88.161623,
+    41.563433,
+    -88.161623,
+    41.563433
+],
+  "geometry": {"coordinates":[-88.16162300000001,41.563433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220003633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.02874,39.906898,-89.02874,39.906898",
     "geom:latitude":39.906898,
     "geom:longitude":-89.02874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4948 N Wyckles Rd",
     "sg:city":"Warrensburg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220003633,
-    "wof:lastmodified":1449074823,
+    "wof:lastmodified":1466488986,
     "wof:name":"Park Leghorn Farm",
     "wof:parent_id":85859197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "soybean"
     ]
 },
-  "bbox": [-89.02874,39.906898,-89.02874,39.906898],
+  "bbox": [
+    -89.02874,
+    39.906898,
+    -89.02874,
+    39.906898
+],
   "geometry": {"coordinates":[-89.02874,39.906898],"type":"Point"}
 }

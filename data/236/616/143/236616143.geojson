@@ -2,13 +2,14 @@
   "id": 236616143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.019269,39.533601,-88.019269,39.533601",
     "geom:latitude":39.533601,
     "geom:longitude":-88.019269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Walnut St",
     "sg:city":"Ashmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236616143,
-    "wof:lastmodified":1449004192,
+    "wof:lastmodified":1466496518,
     "wof:name":"Ashmore Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.019269,39.533601,-88.019269,39.533601],
-  "geometry": {"coordinates":[-88.019269,39.533601],"type":"Point"}
+  "bbox": [
+    -88.019269,
+    39.533601,
+    -88.019269,
+    39.533601
+],
+  "geometry": {"coordinates":[-88.01926899999999,39.533601],"type":"Point"}
 }

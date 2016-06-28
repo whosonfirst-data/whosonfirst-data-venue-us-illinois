@@ -2,13 +2,14 @@
   "id": 270263409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525276,41.621768,-87.525276,41.621768",
     "geom:latitude":41.621768,
     "geom:longitude":-87.525276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 State St",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270263409,
-    "wof:lastmodified":1449011060,
+    "wof:lastmodified":1466493029,
     "wof:name":"Mikes Restaurant",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.525276,41.621768,-87.525276,41.621768],
-  "geometry": {"coordinates":[-87.525276,41.621768],"type":"Point"}
+  "bbox": [
+    -87.525276,
+    41.621768,
+    -87.525276,
+    41.621768
+],
+  "geometry": {"coordinates":[-87.52527600000001,41.621768],"type":"Point"}
 }

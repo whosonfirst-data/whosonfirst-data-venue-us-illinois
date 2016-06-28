@@ -2,13 +2,14 @@
   "id": 219503963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.790449,40.643296,-88.790449,40.643296",
     "geom:latitude":40.643296,
     "geom:longitude":-88.790449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Grove St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219503963,
-    "wof:lastmodified":1449073926,
+    "wof:lastmodified":1466493227,
     "wof:name":"Fireside Inn",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.790449,40.643296,-88.790449,40.643296],
+  "bbox": [
+    -88.790449,
+    40.643296,
+    -88.790449,
+    40.643296
+],
   "geometry": {"coordinates":[-88.790449,40.643296],"type":"Point"}
 }

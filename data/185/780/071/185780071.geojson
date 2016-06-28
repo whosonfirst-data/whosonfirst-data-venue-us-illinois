@@ -2,13 +2,14 @@
   "id": 185780071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.945631,39.86235,-88.945631,39.86235",
     "geom:latitude":39.86235,
     "geom:longitude":-88.945631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Garfield Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185780071,
-    "wof:lastmodified":1449007811,
+    "wof:lastmodified":1466495788,
     "wof:name":"Decatur Wood Products",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "lumber-used"
     ]
 },
-  "bbox": [-88.945631,39.86235,-88.945631,39.86235],
-  "geometry": {"coordinates":[-88.945631,39.86235],"type":"Point"}
+  "bbox": [
+    -88.945631,
+    39.86235,
+    -88.945631,
+    39.86235
+],
+  "geometry": {"coordinates":[-88.94563100000001,39.86235],"type":"Point"}
 }

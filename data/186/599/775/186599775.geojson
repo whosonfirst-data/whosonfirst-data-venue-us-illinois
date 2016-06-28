@@ -2,13 +2,14 @@
   "id": 186599775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.447736,37.814512,-88.447736,37.814512",
     "geom:latitude":37.814512,
     "geom:longitude":-88.447736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 Eldorado St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186599775,
-    "wof:lastmodified":1449051623,
+    "wof:lastmodified":1466489416,
     "wof:name":"Gt Concrete Construction",
     "wof:parent_id":85867933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.447736,37.814512,-88.447736,37.814512],
-  "geometry": {"coordinates":[-88.447736,37.814512],"type":"Point"}
+  "bbox": [
+    -88.447736,
+    37.814512,
+    -88.447736,
+    37.814512
+],
+  "geometry": {"coordinates":[-88.44773600000001,37.814512],"type":"Point"}
 }

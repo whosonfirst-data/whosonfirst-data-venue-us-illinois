@@ -2,13 +2,14 @@
   "id": 269769733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.97616,41.97484,-89.97616,41.97484",
     "geom:latitude":41.97484,
     "geom:longitude":-89.97616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17009 Ideal Rd",
     "sg:city":"Chadwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269769733,
-    "wof:lastmodified":1449036943,
+    "wof:lastmodified":1466493540,
     "wof:name":"Gene Habben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.97616,41.97484,-89.97616,41.97484],
-  "geometry": {"coordinates":[-89.97616,41.97484],"type":"Point"}
+  "bbox": [
+    -89.97616,
+    41.97484,
+    -89.97616,
+    41.97484
+],
+  "geometry": {"coordinates":[-89.97615999999999,41.97484],"type":"Point"}
 }

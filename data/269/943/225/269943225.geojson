@@ -2,13 +2,14 @@
   "id": 269943225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.869852,38.585172,-89.869852,38.585172",
     "geom:latitude":38.585172,
     "geom:longitude":-89.869852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8506 US Hwy 50",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269943225,
-    "wof:lastmodified":1449036789,
+    "wof:lastmodified":1466496020,
     "wof:name":"Westgate Cleaners",
     "wof:parent_id":85841435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-89.869852,38.585172,-89.869852,38.585172],
-  "geometry": {"coordinates":[-89.869852,38.585172],"type":"Point"}
+  "bbox": [
+    -89.869852,
+    38.585172,
+    -89.869852,
+    38.585172
+],
+  "geometry": {"coordinates":[-89.86985199999999,38.585172],"type":"Point"}
 }

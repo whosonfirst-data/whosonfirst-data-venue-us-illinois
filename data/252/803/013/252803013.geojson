@@ -2,13 +2,14 @@
   "id": 252803013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.801083,41.908205,-87.801083,41.908205",
     "geom:latitude":41.908205,
     "geom:longitude":-87.801083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Forest Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252803013,
-    "wof:lastmodified":1449006525,
+    "wof:lastmodified":1466490221,
     "wof:name":"Nell Lurain",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scientist"
     ]
 },
-  "bbox": [-87.801083,41.908205,-87.801083,41.908205],
-  "geometry": {"coordinates":[-87.801083,41.908205],"type":"Point"}
+  "bbox": [
+    -87.801083,
+    41.908205,
+    -87.801083,
+    41.908205
+],
+  "geometry": {"coordinates":[-87.80108300000001,41.908205],"type":"Point"}
 }

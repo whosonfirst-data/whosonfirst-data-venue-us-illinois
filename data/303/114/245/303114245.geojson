@@ -2,13 +2,14 @@
   "id": 303114245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.55464,38.686767,-89.55464,38.686767",
     "geom:latitude":38.686767,
     "geom:longitude":-89.55464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18010 Saint Rose Rd",
     "sg:city":"Breese",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303114245,
-    "wof:lastmodified":1448999139,
+    "wof:lastmodified":1466491633,
     "wof:name":"St Rose Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-89.55464,38.686767,-89.55464,38.686767],
-  "geometry": {"coordinates":[-89.55464,38.686767],"type":"Point"}
+  "bbox": [
+    -89.55464,
+    38.686767,
+    -89.55464,
+    38.686767
+],
+  "geometry": {"coordinates":[-89.55464000000001,38.686767],"type":"Point"}
 }

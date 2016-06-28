@@ -2,13 +2,14 @@
   "id": 236789205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903546,42.455042,-87.903546,42.455042",
     "geom:latitude":42.455042,
     "geom:longitude":-87.903546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40949 N Delany Rd",
     "sg:city":"Wadsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236789205,
-    "wof:lastmodified":1449003080,
+    "wof:lastmodified":1466497701,
     "wof:name":"Kelly Sanitary Service",
     "wof:parent_id":85817271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sanitary"
     ]
 },
-  "bbox": [-87.903546,42.455042,-87.903546,42.455042],
-  "geometry": {"coordinates":[-87.903546,42.455042],"type":"Point"}
+  "bbox": [
+    -87.903546,
+    42.455042,
+    -87.903546,
+    42.455042
+],
+  "geometry": {"coordinates":[-87.90354600000001,42.455042],"type":"Point"}
 }

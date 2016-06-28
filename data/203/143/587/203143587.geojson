@@ -2,13 +2,14 @@
   "id": 203143587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.004923,37.493271,-89.004923,37.493271",
     "geom:latitude":37.493271,
     "geom:longitude":-89.004923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 Lick Creek Rd",
     "sg:city":"Buncombe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203143587,
-    "wof:lastmodified":1449026523,
+    "wof:lastmodified":1466495421,
     "wof:name":"Vertical Heartland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "climbing"
     ]
 },
-  "bbox": [-89.004923,37.493271,-89.004923,37.493271],
-  "geometry": {"coordinates":[-89.004923,37.493271],"type":"Point"}
+  "bbox": [
+    -89.004923,
+    37.493271,
+    -89.004923,
+    37.493271
+],
+  "geometry": {"coordinates":[-89.00492300000001,37.493271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236713277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.291734,41.752087,-88.291734,41.752087",
     "geom:latitude":41.752087,
     "geom:longitude":-88.291734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 E Galena Blvd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236713277,
-    "wof:lastmodified":1449004876,
+    "wof:lastmodified":1466497142,
     "wof:name":"Valley Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.291734,41.752087,-88.291734,41.752087],
-  "geometry": {"coordinates":[-88.291734,41.752087],"type":"Point"}
+  "bbox": [
+    -88.291734,
+    41.752087,
+    -88.291734,
+    41.752087
+],
+  "geometry": {"coordinates":[-88.29173400000001,41.752087],"type":"Point"}
 }

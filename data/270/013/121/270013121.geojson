@@ -2,13 +2,14 @@
   "id": 270013121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313526,41.851159,-88.313526,41.851159",
     "geom:latitude":41.851159,
     "geom:longitude":-88.313526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Houston St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270013121,
-    "wof:lastmodified":1449010322,
+    "wof:lastmodified":1466489227,
     "wof:name":"Pazazz",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.313526,41.851159,-88.313526,41.851159],
+  "bbox": [
+    -88.313526,
+    41.851159,
+    -88.313526,
+    41.851159
+],
   "geometry": {"coordinates":[-88.313526,41.851159],"type":"Point"}
 }

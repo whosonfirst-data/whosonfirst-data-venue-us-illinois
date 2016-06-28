@@ -2,13 +2,14 @@
   "id": 286590665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539301,41.562142,-87.539301,41.562142",
     "geom:latitude":41.562142,
     "geom:longitude":-87.539301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18225 Burnham Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286590665,
-    "wof:lastmodified":1449016946,
+    "wof:lastmodified":1466495033,
     "wof:name":"Oakwood Financial Services",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-87.539301,41.562142,-87.539301,41.562142],
-  "geometry": {"coordinates":[-87.539301,41.562142],"type":"Point"}
+  "bbox": [
+    -87.539301,
+    41.562142,
+    -87.539301,
+    41.562142
+],
+  "geometry": {"coordinates":[-87.53930099999999,41.562142],"type":"Point"}
 }

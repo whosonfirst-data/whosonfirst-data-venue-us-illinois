@@ -2,13 +2,14 @@
   "id": 235944425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.407561,39.302026,-90.407561,39.302026",
     "geom:latitude":39.302026,
     "geom:longitude":-90.407561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 5th St",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235944425,
-    "wof:lastmodified":1449008418,
+    "wof:lastmodified":1466489115,
     "wof:name":"Greene County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-90.407561,39.302026,-90.407561,39.302026],
+  "bbox": [
+    -90.407561,
+    39.302026,
+    -90.407561,
+    39.302026
+],
   "geometry": {"coordinates":[-90.407561,39.302026],"type":"Point"}
 }

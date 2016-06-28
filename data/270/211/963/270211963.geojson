@@ -2,13 +2,14 @@
   "id": 270211963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.811925,41.879429,-87.811925,41.879429",
     "geom:latitude":41.879429,
     "geom:longitude":-87.811925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7442 Madison St",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270211963,
-    "wof:lastmodified":1449009223,
+    "wof:lastmodified":1466492224,
     "wof:name":"Border Foods",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.811925,41.879429,-87.811925,41.879429],
+  "bbox": [
+    -87.811925,
+    41.879429,
+    -87.811925,
+    41.879429
+],
   "geometry": {"coordinates":[-87.811925,41.879429],"type":"Point"}
 }

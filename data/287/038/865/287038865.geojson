@@ -2,13 +2,14 @@
   "id": 287038865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.537625,41.482347,-90.537625,41.482347",
     "geom:latitude":41.482347,
     "geom:longitude":-90.537625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 46th St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287038865,
-    "wof:lastmodified":1449001254,
+    "wof:lastmodified":1466490586,
     "wof:name":"L W Strohbehn",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.537625,41.482347,-90.537625,41.482347],
-  "geometry": {"coordinates":[-90.537625,41.482347],"type":"Point"}
+  "bbox": [
+    -90.537625,
+    41.482347,
+    -90.537625,
+    41.482347
+],
+  "geometry": {"coordinates":[-90.53762500000001,41.482347],"type":"Point"}
 }

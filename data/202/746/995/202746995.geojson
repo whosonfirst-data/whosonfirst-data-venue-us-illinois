@@ -2,13 +2,14 @@
   "id": 202746995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.000477,40.548457,-90.000477,40.548457",
     "geom:latitude":40.548457,
     "geom:longitude":-90.000477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24550 Co Rd 6",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202746995,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466491334,
     "wof:name":"White Chapel Memory Gardens",
     "wof:parent_id":85867847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-90.000477,40.548457,-90.000477,40.548457],
+  "bbox": [
+    -90.000477,
+    40.548457,
+    -90.000477,
+    40.548457
+],
   "geometry": {"coordinates":[-90.000477,40.548457],"type":"Point"}
 }

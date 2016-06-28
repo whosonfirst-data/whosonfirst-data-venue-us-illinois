@@ -2,13 +2,14 @@
   "id": 185805403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.281219,39.55032,-89.281219,39.55032",
     "geom:latitude":39.55032,
     "geom:longitude":-89.281219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Main Cross St",
     "sg:city":"Taylorville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185805403,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1466489061,
     "wof:name":"Hillcrest Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-89.281219,39.55032,-89.281219,39.55032],
-  "geometry": {"coordinates":[-89.281219,39.55032],"type":"Point"}
+  "bbox": [
+    -89.281219,
+    39.55032,
+    -89.281219,
+    39.55032
+],
+  "geometry": {"coordinates":[-89.28121899999999,39.55032],"type":"Point"}
 }

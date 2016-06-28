@@ -2,13 +2,14 @@
   "id": 253694019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892593,42.395054,-87.892593,42.395054",
     "geom:latitude":42.395054,
     "geom:longitude":-87.892593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 Hawthorn Ct",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253694019,
-    "wof:lastmodified":1449063648,
+    "wof:lastmodified":1466497580,
     "wof:name":"E-S-P Vending & Coffee Svc",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.892593,42.395054,-87.892593,42.395054],
-  "geometry": {"coordinates":[-87.892593,42.395054],"type":"Point"}
+  "bbox": [
+    -87.892593,
+    42.395054,
+    -87.892593,
+    42.395054
+],
+  "geometry": {"coordinates":[-87.89259300000001,42.395054],"type":"Point"}
 }

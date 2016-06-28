@@ -2,13 +2,14 @@
   "id": 287170471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.200049,40.32838,-91.200049,40.32838",
     "geom:latitude":40.32838,
     "geom:longitude":-91.200049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Main St",
     "sg:city":"Basco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287170471,
-    "wof:lastmodified":1449000729,
+    "wof:lastmodified":1466492719,
     "wof:name":"Basco Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "us"
     ]
 },
-  "bbox": [-91.200049,40.32838,-91.200049,40.32838],
-  "geometry": {"coordinates":[-91.200049,40.32838],"type":"Point"}
+  "bbox": [
+    -91.200049,
+    40.32838,
+    -91.200049,
+    40.32838
+],
+  "geometry": {"coordinates":[-91.20004900000001,40.32838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270020659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.767278,39.513875,-89.767278,39.513875",
     "geom:latitude":39.513875,
     "geom:longitude":-89.767278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 N Springfield St",
     "sg:city":"Virden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270020659,
-    "wof:lastmodified":1449009775,
+    "wof:lastmodified":1466489337,
     "wof:name":"Virden Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-89.767278,39.513875,-89.767278,39.513875],
+  "bbox": [
+    -89.767278,
+    39.513875,
+    -89.767278,
+    39.513875
+],
   "geometry": {"coordinates":[-89.767278,39.513875],"type":"Point"}
 }

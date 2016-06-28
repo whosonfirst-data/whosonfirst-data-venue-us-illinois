@@ -2,13 +2,14 @@
   "id": 236726137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157423,41.967586,-88.157423,41.967586",
     "geom:latitude":41.967586,
     "geom:longitude":-88.157423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5349 Cinema Dr W",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236726137,
-    "wof:lastmodified":1449004006,
+    "wof:lastmodified":1466497422,
     "wof:name":"Sterling Development",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-88.157423,41.967586,-88.157423,41.967586],
-  "geometry": {"coordinates":[-88.157423,41.967586],"type":"Point"}
+  "bbox": [
+    -88.157423,
+    41.967586,
+    -88.157423,
+    41.967586
+],
+  "geometry": {"coordinates":[-88.15742299999999,41.967586],"type":"Point"}
 }

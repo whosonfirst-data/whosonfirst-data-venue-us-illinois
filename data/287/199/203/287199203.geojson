@@ -2,13 +2,14 @@
   "id": 287199203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.243507,37.726344,-89.243507,37.726344",
     "geom:latitude":37.726344,
     "geom:longitude":-89.243507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 W Sunset Dr",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287199203,
-    "wof:lastmodified":1449000743,
+    "wof:lastmodified":1466493174,
     "wof:name":"Carmens China House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.243507,37.726344,-89.243507,37.726344],
-  "geometry": {"coordinates":[-89.243507,37.726344],"type":"Point"}
+  "bbox": [
+    -89.243507,
+    37.726344,
+    -89.243507,
+    37.726344
+],
+  "geometry": {"coordinates":[-89.24350699999999,37.726344],"type":"Point"}
 }

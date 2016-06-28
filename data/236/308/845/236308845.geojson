@@ -2,13 +2,14 @@
   "id": 236308845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.051173,38.621314,-89.051173,38.621314",
     "geom:latitude":38.621314,
     "geom:longitude":-89.051173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Green St",
     "sg:city":"Odin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236308845,
-    "wof:lastmodified":1449005357,
+    "wof:lastmodified":1466492874,
     "wof:name":"Odin Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-89.051173,38.621314,-89.051173,38.621314],
-  "geometry": {"coordinates":[-89.051173,38.621314],"type":"Point"}
+  "bbox": [
+    -89.051173,
+    38.621314,
+    -89.051173,
+    38.621314
+],
+  "geometry": {"coordinates":[-89.05117300000001,38.621314],"type":"Point"}
 }

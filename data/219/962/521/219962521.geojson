@@ -2,13 +2,14 @@
   "id": 219962521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.212324,41.536004,-88.212324,41.536004",
     "geom:latitude":41.536004,
     "geom:longitude":-88.212324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24551 W Black Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219962521,
-    "wof:lastmodified":1449072462,
+    "wof:lastmodified":1466497647,
     "wof:name":"Westview Baptist Church",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.212324,41.536004,-88.212324,41.536004],
+  "bbox": [
+    -88.212324,
+    41.536004,
+    -88.212324,
+    41.536004
+],
   "geometry": {"coordinates":[-88.212324,41.536004],"type":"Point"}
 }

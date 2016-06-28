@@ -2,13 +2,14 @@
   "id": 185769803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.043089,39.824193,-89.043089,39.824193",
     "geom:latitude":39.824193,
     "geom:longitude":-89.043089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1363 Bear Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":185769803,
-    "wof:lastmodified":1449007133,
+    "wof:lastmodified":1466495455,
     "wof:name":"Superior Lincoln Trail Landfill",
     "wof:parent_id":85859197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.043089,39.824193,-89.043089,39.824193],
-  "geometry": {"coordinates":[-89.043089,39.824193],"type":"Point"}
+  "bbox": [
+    -89.043089,
+    39.824193,
+    -89.043089,
+    39.824193
+],
+  "geometry": {"coordinates":[-89.04308899999999,39.824193],"type":"Point"}
 }

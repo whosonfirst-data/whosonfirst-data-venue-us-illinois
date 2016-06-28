@@ -2,13 +2,14 @@
   "id": 270298005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.127974,41.337276,-89.127974,41.337276",
     "geom:latitude":41.337276,
     "geom:longitude":-89.127974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Putnam St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270298005,
-    "wof:lastmodified":1449009277,
+    "wof:lastmodified":1466493552,
     "wof:name":"Hamilton & Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.127974,41.337276,-89.127974,41.337276],
-  "geometry": {"coordinates":[-89.127974,41.337276],"type":"Point"}
+  "bbox": [
+    -89.127974,
+    41.337276,
+    -89.127974,
+    41.337276
+],
+  "geometry": {"coordinates":[-89.12797399999999,41.337276],"type":"Point"}
 }

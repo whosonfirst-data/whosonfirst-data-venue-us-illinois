@@ -2,13 +2,14 @@
   "id": 269952833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.157496,41.523238,-88.157496,41.523238",
     "geom:latitude":41.523238,
     "geom:longitude":-88.157496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 W Heritage Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269952833,
-    "wof:lastmodified":1449037916,
+    "wof:lastmodified":1466496127,
     "wof:name":"Heritage House",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-88.157496,41.523238,-88.157496,41.523238],
-  "geometry": {"coordinates":[-88.157496,41.523238],"type":"Point"}
+  "bbox": [
+    -88.157496,
+    41.523238,
+    -88.157496,
+    41.523238
+],
+  "geometry": {"coordinates":[-88.15749599999999,41.523238],"type":"Point"}
 }

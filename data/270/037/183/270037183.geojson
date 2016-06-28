@@ -2,13 +2,14 @@
   "id": 270037183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.361022,39.120948,-90.361022,39.120948",
     "geom:latitude":39.120948,
     "geom:longitude":-90.361022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Sweetbriar Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270037183,
-    "wof:lastmodified":1449011151,
+    "wof:lastmodified":1466489582,
     "wof:name":"Richland Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "community"
     ]
 },
-  "bbox": [-90.361022,39.120948,-90.361022,39.120948],
-  "geometry": {"coordinates":[-90.361022,39.120948],"type":"Point"}
+  "bbox": [
+    -90.361022,
+    39.120948,
+    -90.361022,
+    39.120948
+],
+  "geometry": {"coordinates":[-90.36102200000001,39.120948],"type":"Point"}
 }

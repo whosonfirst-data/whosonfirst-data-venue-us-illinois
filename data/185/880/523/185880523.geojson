@@ -2,13 +2,14 @@
   "id": 185880523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.705593,39.785151,-89.705593,39.785151",
     "geom:latitude":39.785151,
     "geom:longitude":-89.705593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Bellerive Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":185880523,
-    "wof:lastmodified":1449008223,
+    "wof:lastmodified":1466489729,
     "wof:name":"Benanti Inspection & Construction Services",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-89.705593,39.785151,-89.705593,39.785151],
-  "geometry": {"coordinates":[-89.705593,39.785151],"type":"Point"}
+  "bbox": [
+    -89.705593,
+    39.785151,
+    -89.705593,
+    39.785151
+],
+  "geometry": {"coordinates":[-89.70559299999999,39.785151],"type":"Point"}
 }

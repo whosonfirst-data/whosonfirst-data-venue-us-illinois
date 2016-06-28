@@ -2,13 +2,14 @@
   "id": 185771399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.961504,39.833748,-88.961504,39.833748",
     "geom:latitude":39.833748,
     "geom:longitude":-88.961504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Powers Ln",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185771399,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466495469,
     "wof:name":"Garcia's Pizza In A Pan",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pizza"
     ]
 },
-  "bbox": [-88.961504,39.833748,-88.961504,39.833748],
-  "geometry": {"coordinates":[-88.961504,39.833748],"type":"Point"}
+  "bbox": [
+    -88.961504,
+    39.833748,
+    -88.961504,
+    39.833748
+],
+  "geometry": {"coordinates":[-88.96150400000001,39.833748],"type":"Point"}
 }

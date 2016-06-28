@@ -2,13 +2,14 @@
   "id": 269685033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.532164,41.564422,-87.532164,41.564422",
     "geom:latitude":41.564422,
     "geom:longitude":-87.532164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3442 Ridge Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269685033,
-    "wof:lastmodified":1449038882,
+    "wof:lastmodified":1466492178,
     "wof:name":"Crafts For Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.532164,41.564422,-87.532164,41.564422],
-  "geometry": {"coordinates":[-87.532164,41.564422],"type":"Point"}
+  "bbox": [
+    -87.532164,
+    41.564422,
+    -87.532164,
+    41.564422
+],
+  "geometry": {"coordinates":[-87.53216399999999,41.564422],"type":"Point"}
 }

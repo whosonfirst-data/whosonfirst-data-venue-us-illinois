@@ -2,13 +2,14 @@
   "id": 270252439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.29228,41.714311,-90.29228,41.714311",
     "geom:latitude":41.714311,
     "geom:longitude":-90.29228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24712 192nd Ave N",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270252439,
-    "wof:lastmodified":1449008962,
+    "wof:lastmodified":1466495678,
     "wof:name":"Cordova Energy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-90.29228,41.714311,-90.29228,41.714311],
-  "geometry": {"coordinates":[-90.29228,41.714311],"type":"Point"}
+  "bbox": [
+    -90.29228,
+    41.714311,
+    -90.29228,
+    41.714311
+],
+  "geometry": {"coordinates":[-90.29228000000001,41.714311],"type":"Point"}
 }

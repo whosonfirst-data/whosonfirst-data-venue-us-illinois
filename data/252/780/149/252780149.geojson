@@ -2,13 +2,14 @@
   "id": 252780149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05181,42.204589,-88.05181,42.204589",
     "geom:latitude":42.204589,
     "geom:longitude":-88.05181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23577 N Overhill Dr",
     "sg:city":"Lake Zurich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252780149,
-    "wof:lastmodified":1449006219,
+    "wof:lastmodified":1466489921,
     "wof:name":"Custom Cabinetry",
     "wof:parent_id":85867889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-88.05181,42.204589,-88.05181,42.204589],
+  "bbox": [
+    -88.05181,
+    42.204589,
+    -88.05181,
+    42.204589
+],
   "geometry": {"coordinates":[-88.05181,42.204589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185813347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.433843,40.016564,-90.433843,40.016564",
     "geom:latitude":40.016564,
     "geom:longitude":-90.433843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W 3rd St",
     "sg:city":"Beardstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185813347,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466489109,
     "wof:name":"Beardstown Ambulance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-90.433843,40.016564,-90.433843,40.016564],
+  "bbox": [
+    -90.433843,
+    40.016564,
+    -90.433843,
+    40.016564
+],
   "geometry": {"coordinates":[-90.433843,40.016564],"type":"Point"}
 }

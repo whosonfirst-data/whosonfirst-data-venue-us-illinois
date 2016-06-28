@@ -2,13 +2,14 @@
   "id": 286821923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.822713,37.915527,-89.822713,37.915527",
     "geom:latitude":37.915527,
     "geom:longitude":-89.822713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Holmes St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286821923,
-    "wof:lastmodified":1449016784,
+    "wof:lastmodified":1466497588,
     "wof:name":"St John Evangelical Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.822713,37.915527,-89.822713,37.915527],
-  "geometry": {"coordinates":[-89.822713,37.915527],"type":"Point"}
+  "bbox": [
+    -89.822713,
+    37.915527,
+    -89.822713,
+    37.915527
+],
+  "geometry": {"coordinates":[-89.82271299999999,37.915527],"type":"Point"}
 }

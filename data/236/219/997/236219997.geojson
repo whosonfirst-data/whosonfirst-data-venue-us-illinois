@@ -2,13 +2,14 @@
   "id": 236219997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701529,41.986794,-87.701529,41.986794",
     "geom:latitude":41.986794,
     "geom:longitude":-87.701529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5812 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236219997,
-    "wof:lastmodified":1449005087,
+    "wof:lastmodified":1466491695,
     "wof:name":"Johnathan Chee",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.701529,41.986794,-87.701529,41.986794],
-  "geometry": {"coordinates":[-87.701529,41.986794],"type":"Point"}
+  "bbox": [
+    -87.701529,
+    41.986794,
+    -87.701529,
+    41.986794
+],
+  "geometry": {"coordinates":[-87.70152899999999,41.986794],"type":"Point"}
 }

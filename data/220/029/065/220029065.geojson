@@ -2,13 +2,14 @@
   "id": 220029065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.292066,40.083264,-88.292066,40.083264",
     "geom:latitude":40.083264,
     "geom:longitude":-88.292066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Woodhaven Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220029065,
-    "wof:lastmodified":1449074381,
+    "wof:lastmodified":1466489292,
     "wof:name":"David A Pihl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operative"
     ]
 },
-  "bbox": [-88.292066,40.083264,-88.292066,40.083264],
-  "geometry": {"coordinates":[-88.292066,40.083264],"type":"Point"}
+  "bbox": [
+    -88.292066,
+    40.083264,
+    -88.292066,
+    40.083264
+],
+  "geometry": {"coordinates":[-88.29206600000001,40.083264],"type":"Point"}
 }

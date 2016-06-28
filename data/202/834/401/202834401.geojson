@@ -2,13 +2,14 @@
   "id": 202834401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.939011,38.522079,-89.939011,38.522079",
     "geom:latitude":38.522079,
     "geom:longitude":-89.939011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Coral Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202834401,
-    "wof:lastmodified":1449060356,
+    "wof:lastmodified":1466492381,
     "wof:name":"Hubbard's Home Remodeling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.939011,38.522079,-89.939011,38.522079],
-  "geometry": {"coordinates":[-89.939011,38.522079],"type":"Point"}
+  "bbox": [
+    -89.939011,
+    38.522079,
+    -89.939011,
+    38.522079
+],
+  "geometry": {"coordinates":[-89.93901099999999,38.522079],"type":"Point"}
 }

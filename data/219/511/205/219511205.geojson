@@ -2,13 +2,14 @@
   "id": 219511205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909821,42.166888,-87.909821,42.166888",
     "geom:latitude":42.166888,
     "geom:longitude":-87.909821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Thornmeadow Rd",
     "sg:city":"Deerfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219511205,
-    "wof:lastmodified":1449072025,
+    "wof:lastmodified":1466493308,
     "wof:name":"Preferred Surgical Products",
     "wof:parent_id":85891067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgical"
     ]
 },
-  "bbox": [-87.909821,42.166888,-87.909821,42.166888],
-  "geometry": {"coordinates":[-87.909821,42.166888],"type":"Point"}
+  "bbox": [
+    -87.909821,
+    42.166888,
+    -87.909821,
+    42.166888
+],
+  "geometry": {"coordinates":[-87.90982099999999,42.166888],"type":"Point"}
 }

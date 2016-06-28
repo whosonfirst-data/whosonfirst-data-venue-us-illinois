@@ -2,13 +2,14 @@
   "id": 269650973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940609,42.032509,-87.940609,42.032509",
     "geom:latitude":42.032509,
     "geom:longitude":-87.940609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1199 Elmhurst Rd",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269650973,
-    "wof:lastmodified":1449037619,
+    "wof:lastmodified":1466491622,
     "wof:name":"Speedway 7576",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-87.940609,42.032509,-87.940609,42.032509],
-  "geometry": {"coordinates":[-87.940609,42.032509],"type":"Point"}
+  "bbox": [
+    -87.940609,
+    42.032509,
+    -87.940609,
+    42.032509
+],
+  "geometry": {"coordinates":[-87.94060899999999,42.032509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253061293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.069244,41.759795,-88.069244,41.759795",
     "geom:latitude":41.759795,
     "geom:longitude":-88.069244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3590 Hobson Rd",
     "sg:city":"Woodridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253061293,
-    "wof:lastmodified":1449064963,
+    "wof:lastmodified":1466489744,
     "wof:name":"Life Insurance Data Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "datum"
     ]
 },
-  "bbox": [-88.069244,41.759795,-88.069244,41.759795],
+  "bbox": [
+    -88.069244,
+    41.759795,
+    -88.069244,
+    41.759795
+],
   "geometry": {"coordinates":[-88.069244,41.759795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270527419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.981726,38.513685,-89.981726,38.513685",
     "geom:latitude":38.513685,
     "geom:longitude":-89.981726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Main St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":270527419,
-    "wof:lastmodified":1449010552,
+    "wof:lastmodified":1466496543,
     "wof:name":"Ben's Outlet Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.981726,38.513685,-89.981726,38.513685],
-  "geometry": {"coordinates":[-89.981726,38.513685],"type":"Point"}
+  "bbox": [
+    -89.981726,
+    38.513685,
+    -89.981726,
+    38.513685
+],
+  "geometry": {"coordinates":[-89.98172599999999,38.513685],"type":"Point"}
 }

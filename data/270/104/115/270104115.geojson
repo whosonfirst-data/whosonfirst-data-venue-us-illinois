@@ -2,13 +2,14 @@
   "id": 270104115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.75181,41.953445,-87.75181,41.953445",
     "geom:latitude":41.953445,
     "geom:longitude":-87.75181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4958 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270104115,
-    "wof:lastmodified":1449009650,
+    "wof:lastmodified":1466490568,
     "wof:name":"Six Crners Foot Ankle Clnic PC",
     "wof:parent_id":85867763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.75181,41.953445,-87.75181,41.953445],
-  "geometry": {"coordinates":[-87.75181,41.953445],"type":"Point"}
+  "bbox": [
+    -87.75181,
+    41.953445,
+    -87.75181,
+    41.953445
+],
+  "geometry": {"coordinates":[-87.75181000000001,41.953445],"type":"Point"}
 }

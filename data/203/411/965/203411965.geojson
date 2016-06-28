@@ -2,13 +2,14 @@
   "id": 203411965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.300261,41.888116,-88.300261,41.888116",
     "geom:latitude":41.888116,
     "geom:longitude":-88.300261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Bennett St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203411965,
-    "wof:lastmodified":1449025042,
+    "wof:lastmodified":1466491746,
     "wof:name":"Riverside Sports Incorporated",
     "wof:parent_id":85867853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-88.300261,41.888116,-88.300261,41.888116],
-  "geometry": {"coordinates":[-88.300261,41.888116],"type":"Point"}
+  "bbox": [
+    -88.300261,
+    41.888116,
+    -88.300261,
+    41.888116
+],
+  "geometry": {"coordinates":[-88.30026100000001,41.888116],"type":"Point"}
 }

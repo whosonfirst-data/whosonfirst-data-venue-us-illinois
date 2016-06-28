@@ -2,13 +2,14 @@
   "id": 253082427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.651519,41.550772,-87.651519,41.550772",
     "geom:latitude":41.550772,
     "geom:longitude":-87.651519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18549 Poplar Ave",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253082427,
-    "wof:lastmodified":1449062898,
+    "wof:lastmodified":1466490011,
     "wof:name":"Richard J Leo",
     "wof:parent_id":85868891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.651519,41.550772,-87.651519,41.550772],
-  "geometry": {"coordinates":[-87.651519,41.550772],"type":"Point"}
+  "bbox": [
+    -87.651519,
+    41.550772,
+    -87.651519,
+    41.550772
+],
+  "geometry": {"coordinates":[-87.65151899999999,41.550772],"type":"Point"}
 }

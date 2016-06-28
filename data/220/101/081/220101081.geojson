@@ -2,13 +2,14 @@
   "id": 220101081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.168995,38.404632,-90.168995,38.404632",
     "geom:latitude":38.404632,
     "geom:longitude":-90.168995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9315 Coach Stop Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220101081,
-    "wof:lastmodified":1449074465,
+    "wof:lastmodified":1466490179,
     "wof:name":"Waterloo Delivery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-90.168995,38.404632,-90.168995,38.404632],
+  "bbox": [
+    -90.168995,
+    38.404632,
+    -90.168995,
+    38.404632
+],
   "geometry": {"coordinates":[-90.168995,38.404632],"type":"Point"}
 }

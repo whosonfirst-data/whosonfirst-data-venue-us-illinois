@@ -2,13 +2,14 @@
   "id": 220104827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.101391,42.21332,-89.101391,42.21332",
     "geom:latitude":42.21332,
     "geom:longitude":-89.101391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4859 Marble Mnr",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220104827,
-    "wof:lastmodified":1449074367,
+    "wof:lastmodified":1466490231,
     "wof:name":"Hedrick Auto Repair",
     "wof:parent_id":85867957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.101391,42.21332,-89.101391,42.21332],
-  "geometry": {"coordinates":[-89.101391,42.21332],"type":"Point"}
+  "bbox": [
+    -89.101391,
+    42.21332,
+    -89.101391,
+    42.21332
+],
+  "geometry": {"coordinates":[-89.10139100000001,42.21332],"type":"Point"}
 }

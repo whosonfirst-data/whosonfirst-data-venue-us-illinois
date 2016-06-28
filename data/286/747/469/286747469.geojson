@@ -2,13 +2,14 @@
   "id": 286747469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.940052,41.808442,-89.940052,41.808442",
     "geom:latitude":41.808442,
     "geom:longitude":-89.940052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15543 Bishop Rd",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":286747469,
-    "wof:lastmodified":1449015701,
+    "wof:lastmodified":1466496817,
     "wof:name":"K & R Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-89.940052,41.808442,-89.940052,41.808442],
-  "geometry": {"coordinates":[-89.940052,41.808442],"type":"Point"}
+  "bbox": [
+    -89.940052,
+    41.808442,
+    -89.940052,
+    41.808442
+],
+  "geometry": {"coordinates":[-89.94005199999999,41.808442],"type":"Point"}
 }

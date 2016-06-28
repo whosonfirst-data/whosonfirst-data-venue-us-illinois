@@ -2,13 +2,14 @@
   "id": 253743913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725096,41.900706,-87.725096,41.900706",
     "geom:latitude":41.900706,
     "geom:longitude":-87.725096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 N Harding Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253743913,
-    "wof:lastmodified":1449065787,
+    "wof:lastmodified":1466497842,
     "wof:name":"L G Fabrics",
     "wof:parent_id":85867721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drycleaning"
     ]
 },
-  "bbox": [-87.725096,41.900706,-87.725096,41.900706],
-  "geometry": {"coordinates":[-87.725096,41.900706],"type":"Point"}
+  "bbox": [
+    -87.725096,
+    41.900706,
+    -87.725096,
+    41.900706
+],
+  "geometry": {"coordinates":[-87.72509599999999,41.900706],"type":"Point"}
 }

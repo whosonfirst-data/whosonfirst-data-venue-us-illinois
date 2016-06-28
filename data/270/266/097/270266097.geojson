@@ -2,13 +2,14 @@
   "id": 270266097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892697,42.044874,-87.892697,42.044874",
     "geom:latitude":42.044874,
     "geom:longitude":-87.892697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1243 Brown St",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270266097,
-    "wof:lastmodified":1449008748,
+    "wof:lastmodified":1466493073,
     "wof:name":"APM Engineering Inc",
     "wof:parent_id":85890769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-87.892697,42.044874,-87.892697,42.044874],
+  "bbox": [
+    -87.892697,
+    42.044874,
+    -87.892697,
+    42.044874
+],
   "geometry": {"coordinates":[-87.892697,42.044874],"type":"Point"}
 }

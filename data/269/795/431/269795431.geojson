@@ -2,13 +2,14 @@
   "id": 269795431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.369525,40.118667,-88.369525,40.118667",
     "geom:latitude":40.118667,
     "geom:longitude":-88.369525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 Co Rd 500 E",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269795431,
-    "wof:lastmodified":1449037560,
+    "wof:lastmodified":1466493947,
     "wof:name":"T Proper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.369525,40.118667,-88.369525,40.118667],
+  "bbox": [
+    -88.369525,
+    40.118667,
+    -88.369525,
+    40.118667
+],
   "geometry": {"coordinates":[-88.369525,40.118667],"type":"Point"}
 }

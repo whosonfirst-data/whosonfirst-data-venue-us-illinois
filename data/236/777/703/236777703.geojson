@@ -2,13 +2,14 @@
   "id": 236777703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.678537,42.033941,-87.678537,42.033941",
     "geom:latitude":42.033941,
     "geom:longitude":-87.678537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236777703,
-    "wof:lastmodified":1449003385,
+    "wof:lastmodified":1466497620,
     "wof:name":"Cafe Express South",
     "wof:parent_id":85890805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.678537,42.033941,-87.678537,42.033941],
-  "geometry": {"coordinates":[-87.678537,42.033941],"type":"Point"}
+  "bbox": [
+    -87.678537,
+    42.033941,
+    -87.678537,
+    42.033941
+],
+  "geometry": {"coordinates":[-87.67853700000001,42.033941],"type":"Point"}
 }

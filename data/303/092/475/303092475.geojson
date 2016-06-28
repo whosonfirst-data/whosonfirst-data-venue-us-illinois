@@ -2,13 +2,14 @@
   "id": 303092475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.429168,42.416543,-90.429168,42.416543",
     "geom:latitude":42.416543,
     "geom:longitude":-90.429168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Bench St",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303092475,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466491282,
     "wof:name":"Chicago Athenaeum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.429168,42.416543,-90.429168,42.416543],
+  "bbox": [
+    -90.429168,
+    42.416543,
+    -90.429168,
+    42.416543
+],
   "geometry": {"coordinates":[-90.429168,42.416543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185622529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.384262,38.343744,-89.384262,38.343744",
     "geom:latitude":38.343744,
     "geom:longitude":-89.384262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 W Saint Louis St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":185622529,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466492386,
     "wof:name":"Tim's Tire Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-89.384262,38.343744,-89.384262,38.343744],
-  "geometry": {"coordinates":[-89.384262,38.343744],"type":"Point"}
+  "bbox": [
+    -89.384262,
+    38.343744,
+    -89.384262,
+    38.343744
+],
+  "geometry": {"coordinates":[-89.38426200000001,38.343744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270234211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.335316,41.711472,-88.335316,41.711472",
     "geom:latitude":41.711472,
     "geom:longitude":-88.335316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Circle Dr E",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270234211,
-    "wof:lastmodified":1449010987,
+    "wof:lastmodified":1466492579,
     "wof:name":"Foxbridge Coins & Currency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-88.335316,41.711472,-88.335316,41.711472],
-  "geometry": {"coordinates":[-88.335316,41.711472],"type":"Point"}
+  "bbox": [
+    -88.335316,
+    41.711472,
+    -88.335316,
+    41.711472
+],
+  "geometry": {"coordinates":[-88.33531600000001,41.711472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286472823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.112785,38.583959,-90.112785,38.583959",
     "geom:latitude":38.583959,
     "geom:longitude":-90.112785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Jarvis Pl",
     "sg:city":"Alorton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286472823,
-    "wof:lastmodified":1449015411,
+    "wof:lastmodified":1466493089,
     "wof:name":"East St Louis Equipment",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.112785,38.583959,-90.112785,38.583959],
+  "bbox": [
+    -90.112785,
+    38.583959,
+    -90.112785,
+    38.583959
+],
   "geometry": {"coordinates":[-90.112785,38.583959],"type":"Point"}
 }

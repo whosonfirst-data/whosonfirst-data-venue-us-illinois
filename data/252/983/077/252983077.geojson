@@ -2,13 +2,14 @@
   "id": 252983077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.456249,39.628001,-90.456249,39.628001",
     "geom:latitude":39.628001,
     "geom:longitude":-90.456249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Cross St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252983077,
-    "wof:lastmodified":1449006416,
+    "wof:lastmodified":1466492563,
     "wof:name":"Scott County Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-90.456249,39.628001,-90.456249,39.628001],
+  "bbox": [
+    -90.456249,
+    39.628001,
+    -90.456249,
+    39.628001
+],
   "geometry": {"coordinates":[-90.456249,39.628001],"type":"Point"}
 }

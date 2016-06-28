@@ -2,13 +2,14 @@
   "id": 236342401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.920922,41.642709,-87.920922,41.642709",
     "geom:latitude":41.642709,
     "geom:longitude":-87.920922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12347 Lake View Ct",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236342401,
-    "wof:lastmodified":1449004970,
+    "wof:lastmodified":1466493294,
     "wof:name":"APCO Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-87.920922,41.642709,-87.920922,41.642709],
+  "bbox": [
+    -87.920922,
+    41.642709,
+    -87.920922,
+    41.642709
+],
   "geometry": {"coordinates":[-87.920922,41.642709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219212531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727061,40.223405,-87.727061,40.223405",
     "geom:latitude":40.223405,
     "geom:longitude":-87.727061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11445 E 2460 North Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219212531,
-    "wof:lastmodified":1449072665,
+    "wof:lastmodified":1466489651,
     "wof:name":"H & H Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.727061,40.223405,-87.727061,40.223405],
-  "geometry": {"coordinates":[-87.727061,40.223405],"type":"Point"}
+  "bbox": [
+    -87.727061,
+    40.223405,
+    -87.727061,
+    40.223405
+],
+  "geometry": {"coordinates":[-87.72706100000001,40.223405],"type":"Point"}
 }

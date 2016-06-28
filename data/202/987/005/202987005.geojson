@@ -2,13 +2,14 @@
   "id": 202987005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.92485,41.239179,-89.92485,41.239179",
     "geom:latitude":41.239179,
     "geom:longitude":-89.92485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 S Main St",
     "sg:city":"Kewanee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202987005,
-    "wof:lastmodified":1449061525,
+    "wof:lastmodified":1466494214,
     "wof:name":"Ayerco Convenience Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.92485,41.239179,-89.92485,41.239179],
-  "geometry": {"coordinates":[-89.92485,41.239179],"type":"Point"}
+  "bbox": [
+    -89.92485,
+    41.239179,
+    -89.92485,
+    41.239179
+],
+  "geometry": {"coordinates":[-89.92485000000001,41.239179],"type":"Point"}
 }

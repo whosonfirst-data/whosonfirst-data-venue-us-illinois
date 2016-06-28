@@ -2,13 +2,14 @@
   "id": 202508705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64429,40.101859,-87.64429,40.101859",
     "geom:latitude":40.101859,
     "geom:longitude":-87.64429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 5th St",
     "sg:city":"Tilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202508705,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466495261,
     "wof:name":"Lanman Oil Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-87.64429,40.101859,-87.64429,40.101859],
+  "bbox": [
+    -87.64429,
+    40.101859,
+    -87.64429,
+    40.101859
+],
   "geometry": {"coordinates":[-87.64429,40.101859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219333223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.986601,40.61027,-88.986601,40.61027",
     "geom:latitude":40.61027,
     "geom:longitude":-88.986601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E Locust St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219333223,
-    "wof:lastmodified":1449073655,
+    "wof:lastmodified":1466491118,
     "wof:name":"Hudson Township Hwy Division",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-88.986601,40.61027,-88.986601,40.61027],
-  "geometry": {"coordinates":[-88.986601,40.61027],"type":"Point"}
+  "bbox": [
+    -88.986601,
+    40.61027,
+    -88.986601,
+    40.61027
+],
+  "geometry": {"coordinates":[-88.98660099999999,40.61027],"type":"Point"}
 }

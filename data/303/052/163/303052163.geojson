@@ -2,13 +2,14 @@
   "id": 303052163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.262363,40.092904,-88.262363,40.092904",
     "geom:latitude":40.092904,
     "geom:longitude":-88.262363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Bellamy Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303052163,
-    "wof:lastmodified":1448999229,
+    "wof:lastmodified":1466490663,
     "wof:name":"Huffmans Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.262363,40.092904,-88.262363,40.092904],
-  "geometry": {"coordinates":[-88.262363,40.092904],"type":"Point"}
+  "bbox": [
+    -88.262363,
+    40.092904,
+    -88.262363,
+    40.092904
+],
+  "geometry": {"coordinates":[-88.26236299999999,40.092904],"type":"Point"}
 }

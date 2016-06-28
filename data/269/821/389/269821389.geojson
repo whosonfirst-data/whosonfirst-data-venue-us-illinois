@@ -2,13 +2,14 @@
   "id": 269821389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.830576,42.415331,-87.830576,42.415331",
     "geom:latitude":42.415331,
     "geom:longitude":-87.830576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38141 N Holdridge Ave",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269821389,
-    "wof:lastmodified":1449037443,
+    "wof:lastmodified":1466494344,
     "wof:name":"Mark A Byrd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.830576,42.415331,-87.830576,42.415331],
-  "geometry": {"coordinates":[-87.830576,42.415331],"type":"Point"}
+  "bbox": [
+    -87.830576,
+    42.415331,
+    -87.830576,
+    42.415331
+],
+  "geometry": {"coordinates":[-87.83057599999999,42.415331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287180987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.237957,40.120011,-88.237957,40.120011",
     "geom:latitude":40.120011,
     "geom:longitude":-88.237957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Washington St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287180987,
-    "wof:lastmodified":1449000706,
+    "wof:lastmodified":1466492883,
     "wof:name":"Forget Me Not Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.237957,40.120011,-88.237957,40.120011],
-  "geometry": {"coordinates":[-88.237957,40.120011],"type":"Point"}
+  "bbox": [
+    -88.237957,
+    40.120011,
+    -88.237957,
+    40.120011
+],
+  "geometry": {"coordinates":[-88.23795699999999,40.120011],"type":"Point"}
 }

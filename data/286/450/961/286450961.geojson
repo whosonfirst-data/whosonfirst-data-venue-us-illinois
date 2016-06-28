@@ -2,13 +2,14 @@
   "id": 286450961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.449315,39.839114,-88.449315,39.839114",
     "geom:latitude":39.839114,
     "geom:longitude":-88.449315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Co Rd 1275N",
     "sg:city":"Atwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286450961,
-    "wof:lastmodified":1449017660,
+    "wof:lastmodified":1466492760,
     "wof:name":"Atwood Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.449315,39.839114,-88.449315,39.839114],
+  "bbox": [
+    -88.449315,
+    39.839114,
+    -88.449315,
+    39.839114
+],
   "geometry": {"coordinates":[-88.449315,39.839114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202481905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.663445,41.580927,-87.663445,41.580927",
     "geom:latitude":41.580927,
     "geom:longitude":-87.663445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 170th St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202481905,
-    "wof:lastmodified":1449062334,
+    "wof:lastmodified":1466494816,
     "wof:name":"Chicago Southland Chamber",
     "wof:parent_id":85867709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-87.663445,41.580927,-87.663445,41.580927],
+  "bbox": [
+    -87.663445,
+    41.580927,
+    -87.663445,
+    41.580927
+],
   "geometry": {"coordinates":[-87.663445,41.580927],"type":"Point"}
 }

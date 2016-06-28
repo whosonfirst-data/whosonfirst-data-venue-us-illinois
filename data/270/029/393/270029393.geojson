@@ -2,13 +2,14 @@
   "id": 270029393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.423905,41.359102,-88.423905,41.359102",
     "geom:latitude":41.359102,
     "geom:longitude":-88.423905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Jefferson St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270029393,
-    "wof:lastmodified":1449009676,
+    "wof:lastmodified":1466489461,
     "wof:name":"John B Roth Jr MD",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.423905,41.359102,-88.423905,41.359102],
+  "bbox": [
+    -88.423905,
+    41.359102,
+    -88.423905,
+    41.359102
+],
   "geometry": {"coordinates":[-88.423905,41.359102],"type":"Point"}
 }

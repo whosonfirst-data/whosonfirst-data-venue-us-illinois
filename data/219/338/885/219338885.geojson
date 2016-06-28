@@ -2,13 +2,14 @@
   "id": 219338885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.144601,42.01336,-88.144601,42.01336",
     "geom:latitude":42.01336,
     "geom:longitude":-88.144601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1590 Ramblewood Dr",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219338885,
-    "wof:lastmodified":1449071624,
+    "wof:lastmodified":1466491182,
     "wof:name":"Spoon Geckos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.144601,42.01336,-88.144601,42.01336],
-  "geometry": {"coordinates":[-88.144601,42.01336],"type":"Point"}
+  "bbox": [
+    -88.144601,
+    42.01336,
+    -88.144601,
+    42.01336
+],
+  "geometry": {"coordinates":[-88.14460099999999,42.01336],"type":"Point"}
 }

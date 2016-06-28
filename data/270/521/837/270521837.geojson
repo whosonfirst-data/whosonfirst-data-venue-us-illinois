@@ -2,13 +2,14 @@
   "id": 270521837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.70965,41.983139,-87.70965,41.983139",
     "geom:latitude":41.983139,
     "geom:longitude":-87.70965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3244 W Bryn Mawr Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270521837,
-    "wof:lastmodified":1449011005,
+    "wof:lastmodified":1466496639,
     "wof:name":"Salome",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.70965,41.983139,-87.70965,41.983139],
+  "bbox": [
+    -87.70965,
+    41.983139,
+    -87.70965,
+    41.983139
+],
   "geometry": {"coordinates":[-87.70965,41.983139],"type":"Point"}
 }

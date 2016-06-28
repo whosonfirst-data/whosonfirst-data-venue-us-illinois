@@ -2,13 +2,14 @@
   "id": 270139001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.795103,41.613298,-88.795103,41.613298",
     "geom:latitude":41.613298,
     "geom:longitude":-88.795103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 E Lundy Ln",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270139001,
-    "wof:lastmodified":1449008874,
+    "wof:lastmodified":1466491090,
     "wof:name":"Bethany Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.795103,41.613298,-88.795103,41.613298],
+  "bbox": [
+    -88.795103,
+    41.613298,
+    -88.795103,
+    41.613298
+],
   "geometry": {"coordinates":[-88.795103,41.613298],"type":"Point"}
 }

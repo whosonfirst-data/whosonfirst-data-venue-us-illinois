@@ -2,13 +2,14 @@
   "id": 253051295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.950775,42.165247,-87.950775,42.165247",
     "geom:latitude":42.165247,
     "geom:longitude":-87.950775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Weiland Rd",
     "sg:city":"Buffalo Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253051295,
-    "wof:lastmodified":1449064643,
+    "wof:lastmodified":1466489625,
     "wof:name":"Michelle N Zmick DDS",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.950775,42.165247,-87.950775,42.165247],
-  "geometry": {"coordinates":[-87.950775,42.165247],"type":"Point"}
+  "bbox": [
+    -87.950775,
+    42.165247,
+    -87.950775,
+    42.165247
+],
+  "geometry": {"coordinates":[-87.95077499999999,42.165247],"type":"Point"}
 }

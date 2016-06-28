@@ -2,13 +2,14 @@
   "id": 270434905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.093439,42.273342,-89.093439,42.273342",
     "geom:latitude":42.273342,
     "geom:longitude":-89.093439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 W Jefferson St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270434905,
-    "wof:lastmodified":1449009148,
+    "wof:lastmodified":1466495635,
     "wof:name":"Wilson-Hall Co",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-89.093439,42.273342,-89.093439,42.273342],
+  "bbox": [
+    -89.093439,
+    42.273342,
+    -89.093439,
+    42.273342
+],
   "geometry": {"coordinates":[-89.093439,42.273342],"type":"Point"}
 }

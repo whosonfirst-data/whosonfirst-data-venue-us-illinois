@@ -2,13 +2,14 @@
   "id": 253169125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.28677,42.251464,-88.28677,42.251464",
     "geom:latitude":42.251464,
     "geom:longitude":-88.28677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5412 State Rte 31",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253169125,
-    "wof:lastmodified":1449064641,
+    "wof:lastmodified":1466490946,
     "wof:name":"General Insurance Svc",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.28677,42.251464,-88.28677,42.251464],
+  "bbox": [
+    -88.28677,
+    42.251464,
+    -88.28677,
+    42.251464
+],
   "geometry": {"coordinates":[-88.28677,42.251464],"type":"Point"}
 }

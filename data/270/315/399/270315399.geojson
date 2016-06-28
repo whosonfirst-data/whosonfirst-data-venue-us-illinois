@@ -2,13 +2,14 @@
   "id": 270315399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.837187,41.33623,-88.837187,41.33623",
     "geom:latitude":41.33623,
     "geom:longitude":-88.837187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 1st Ave",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270315399,
-    "wof:lastmodified":1449010995,
+    "wof:lastmodified":1466493819,
     "wof:name":"South Ottawa Twp Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.837187,41.33623,-88.837187,41.33623],
+  "bbox": [
+    -88.837187,
+    41.33623,
+    -88.837187,
+    41.33623
+],
   "geometry": {"coordinates":[-88.837187,41.33623],"type":"Point"}
 }

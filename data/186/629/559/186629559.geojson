@@ -2,13 +2,14 @@
   "id": 186629559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184745,41.260802,-88.184745,41.260802",
     "geom:latitude":41.260802,
     "geom:longitude":-88.184745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23815 Hwy 113",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186629559,
-    "wof:lastmodified":1449052382,
+    "wof:lastmodified":1466489778,
     "wof:name":"Parkwood Equine Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.184745,41.260802,-88.184745,41.260802],
-  "geometry": {"coordinates":[-88.184745,41.260802],"type":"Point"}
+  "bbox": [
+    -88.184745,
+    41.260802,
+    -88.184745,
+    41.260802
+],
+  "geometry": {"coordinates":[-88.18474500000001,41.260802],"type":"Point"}
 }

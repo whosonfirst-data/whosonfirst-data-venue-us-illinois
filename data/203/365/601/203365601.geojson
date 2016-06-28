@@ -2,13 +2,14 @@
   "id": 203365601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.688471,38.760144,-89.688471,38.760144",
     "geom:latitude":38.760144,
     "geom:longitude":-89.688471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12455 State Rte 143",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203365601,
-    "wof:lastmodified":1449025244,
+    "wof:lastmodified":1466491195,
     "wof:name":"Scott Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.688471,38.760144,-89.688471,38.760144],
-  "geometry": {"coordinates":[-89.688471,38.760144],"type":"Point"}
+  "bbox": [
+    -89.688471,
+    38.760144,
+    -89.688471,
+    38.760144
+],
+  "geometry": {"coordinates":[-89.68847100000001,38.760144],"type":"Point"}
 }

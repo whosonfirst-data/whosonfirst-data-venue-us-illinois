@@ -2,13 +2,14 @@
   "id": 252823711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.491329,40.902677,-89.491329,40.902677",
     "geom:latitude":40.902677,
     "geom:longitude":-89.491329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Park Blvd",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252823711,
-    "wof:lastmodified":1449006496,
+    "wof:lastmodified":1466490480,
     "wof:name":"Riverside Chevrolet Oldsmobile",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.491329,40.902677,-89.491329,40.902677],
-  "geometry": {"coordinates":[-89.491329,40.902677],"type":"Point"}
+  "bbox": [
+    -89.491329,
+    40.902677,
+    -89.491329,
+    40.902677
+],
+  "geometry": {"coordinates":[-89.49132899999999,40.902677],"type":"Point"}
 }

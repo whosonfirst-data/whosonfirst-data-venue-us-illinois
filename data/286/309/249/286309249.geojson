@@ -2,13 +2,14 @@
   "id": 286309249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.530475,41.472722,-90.530475,41.472722",
     "geom:latitude":41.472722,
     "geom:longitude":-90.530475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Valley View Dr",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286309249,
-    "wof:lastmodified":1449015824,
+    "wof:lastmodified":1466490555,
     "wof:name":"Michael A Turner MD",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-90.530475,41.472722,-90.530475,41.472722],
+  "bbox": [
+    -90.530475,
+    41.472722,
+    -90.530475,
+    41.472722
+],
   "geometry": {"coordinates":[-90.530475,41.472722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270383513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.677557,41.918014,-87.677557,41.918014",
     "geom:latitude":41.918014,
     "geom:longitude":-87.677557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 N Damen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270383513,
-    "wof:lastmodified":1449009681,
+    "wof:lastmodified":1466494870,
     "wof:name":"Blue Nile Corp",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.677557,41.918014,-87.677557,41.918014],
-  "geometry": {"coordinates":[-87.677557,41.918014],"type":"Point"}
+  "bbox": [
+    -87.677557,
+    41.918014,
+    -87.677557,
+    41.918014
+],
+  "geometry": {"coordinates":[-87.67755699999999,41.918014],"type":"Point"}
 }

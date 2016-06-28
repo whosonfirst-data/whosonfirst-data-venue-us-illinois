@@ -2,13 +2,14 @@
   "id": 286480875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.009248,39.049543,-90.009248,39.049543",
     "geom:latitude":39.049543,
     "geom:longitude":-90.009248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3498 Cherry St",
     "sg:city":"Bunker Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286480875,
-    "wof:lastmodified":1449016137,
+    "wof:lastmodified":1466493215,
     "wof:name":"Harold Brueggman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-90.009248,39.049543,-90.009248,39.049543],
+  "bbox": [
+    -90.009248,
+    39.049543,
+    -90.009248,
+    39.049543
+],
   "geometry": {"coordinates":[-90.009248,39.049543],"type":"Point"}
 }

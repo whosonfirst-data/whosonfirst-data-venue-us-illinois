@@ -2,13 +2,14 @@
   "id": 270083957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.330672,41.8353,-88.330672,41.8353",
     "geom:latitude":41.8353,
     "geom:longitude":-88.330672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1262 Halladay Dr",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270083957,
-    "wof:lastmodified":1449009797,
+    "wof:lastmodified":1466490269,
     "wof:name":"Richards & Appleby Corp",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [-88.330672,41.8353,-88.330672,41.8353],
-  "geometry": {"coordinates":[-88.330672,41.8353],"type":"Point"}
+  "bbox": [
+    -88.330672,
+    41.8353,
+    -88.330672,
+    41.8353
+],
+  "geometry": {"coordinates":[-88.33067200000001,41.8353],"type":"Point"}
 }

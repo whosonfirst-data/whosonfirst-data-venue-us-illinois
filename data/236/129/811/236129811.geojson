@@ -2,13 +2,14 @@
   "id": 236129811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313415,41.753219,-88.313415,41.753219",
     "geom:latitude":41.753219,
     "geom:longitude":-88.313415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Lincoln Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236129811,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466490538,
     "wof:name":"Professional Hearing Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "hearing"
     ]
 },
-  "bbox": [-88.313415,41.753219,-88.313415,41.753219],
-  "geometry": {"coordinates":[-88.313415,41.753219],"type":"Point"}
+  "bbox": [
+    -88.313415,
+    41.753219,
+    -88.313415,
+    41.753219
+],
+  "geometry": {"coordinates":[-88.31341500000001,41.753219],"type":"Point"}
 }

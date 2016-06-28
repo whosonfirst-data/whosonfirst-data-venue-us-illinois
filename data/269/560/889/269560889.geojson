@@ -2,13 +2,14 @@
   "id": 269560889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.829468,42.108647,-87.829468,42.108647",
     "geom:latitude":42.108647,
     "geom:longitude":-87.829468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2374 Shermer Rd",
     "sg:city":"Northbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269560889,
-    "wof:lastmodified":1449038243,
+    "wof:lastmodified":1466490198,
     "wof:name":"Northbrk/Glenview Schl Dst 30",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "secondary"
     ]
 },
-  "bbox": [-87.829468,42.108647,-87.829468,42.108647],
-  "geometry": {"coordinates":[-87.829468,42.108647],"type":"Point"}
+  "bbox": [
+    -87.829468,
+    42.108647,
+    -87.829468,
+    42.108647
+],
+  "geometry": {"coordinates":[-87.82946800000001,42.108647],"type":"Point"}
 }

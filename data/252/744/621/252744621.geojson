@@ -2,13 +2,14 @@
   "id": 252744621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680761,41.676696,-87.680761,41.676696",
     "geom:latitude":41.676696,
     "geom:longitude":-87.680761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11930 Western Ave",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252744621,
-    "wof:lastmodified":1449005798,
+    "wof:lastmodified":1466489468,
     "wof:name":"Thresholds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680761,41.676696,-87.680761,41.676696],
+  "bbox": [
+    -87.680761,
+    41.676696,
+    -87.680761,
+    41.676696
+],
   "geometry": {"coordinates":[-87.680761,41.676696],"type":"Point"}
 }

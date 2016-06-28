@@ -2,13 +2,14 @@
   "id": 202436717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.051077,41.79246,-88.051077,41.79246",
     "geom:latitude":41.79246,
     "geom:longitude":-88.051077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 Curtiss St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202436717,
-    "wof:lastmodified":1449062404,
+    "wof:lastmodified":1466493983,
     "wof:name":"Bottcher America",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.051077,41.79246,-88.051077,41.79246],
-  "geometry": {"coordinates":[-88.051077,41.79246],"type":"Point"}
+  "bbox": [
+    -88.051077,
+    41.79246,
+    -88.051077,
+    41.79246
+],
+  "geometry": {"coordinates":[-88.05107700000001,41.79246],"type":"Point"}
 }

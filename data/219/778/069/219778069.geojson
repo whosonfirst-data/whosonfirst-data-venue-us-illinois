@@ -2,13 +2,14 @@
   "id": 219778069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104307,41.539868,-88.104307,41.539868",
     "geom:latitude":41.539868,
     "geom:longitude":-88.104307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Plainfield Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219778069,
-    "wof:lastmodified":1449070436,
+    "wof:lastmodified":1466496414,
     "wof:name":"Chicken Shack Restaurant",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104307,41.539868,-88.104307,41.539868],
-  "geometry": {"coordinates":[-88.104307,41.539868],"type":"Point"}
+  "bbox": [
+    -88.104307,
+    41.539868,
+    -88.104307,
+    41.539868
+],
+  "geometry": {"coordinates":[-88.10430700000001,41.539868],"type":"Point"}
 }

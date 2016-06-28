@@ -2,13 +2,14 @@
   "id": 203130203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.363577,40.147342,-89.363577,40.147342",
     "geom:latitude":40.147342,
     "geom:longitude":-89.363577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Chicago St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203130203,
-    "wof:lastmodified":1449025571,
+    "wof:lastmodified":1466495228,
     "wof:name":"Forte Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-89.363577,40.147342,-89.363577,40.147342],
-  "geometry": {"coordinates":[-89.363577,40.147342],"type":"Point"}
+  "bbox": [
+    -89.363577,
+    40.147342,
+    -89.363577,
+    40.147342
+],
+  "geometry": {"coordinates":[-89.36357700000001,40.147342],"type":"Point"}
 }

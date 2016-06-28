@@ -2,13 +2,14 @@
   "id": 185696711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.920609,40.290747,-90.920609,40.290747",
     "geom:latitude":40.290747,
     "geom:longitude":-90.920609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Lexington St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185696711,
-    "wof:lastmodified":1449006731,
+    "wof:lastmodified":1466494699,
     "wof:name":"Steve Griswold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.920609,40.290747,-90.920609,40.290747],
+  "bbox": [
+    -90.920609,
+    40.290747,
+    -90.920609,
+    40.290747
+],
   "geometry": {"coordinates":[-90.920609,40.290747],"type":"Point"}
 }

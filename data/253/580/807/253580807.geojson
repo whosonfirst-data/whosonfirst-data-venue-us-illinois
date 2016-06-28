@@ -2,13 +2,14 @@
   "id": 253580807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.94531,38.541567,-89.94531,38.541567",
     "geom:latitude":38.541567,
     "geom:longitude":-89.94531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Lebanon Ave",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253580807,
-    "wof:lastmodified":1449064831,
+    "wof:lastmodified":1466496585,
     "wof:name":"Southern IL Dstrct Wthin The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.94531,38.541567,-89.94531,38.541567],
-  "geometry": {"coordinates":[-89.94531,38.541567],"type":"Point"}
+  "bbox": [
+    -89.94531,
+    38.541567,
+    -89.94531,
+    38.541567
+],
+  "geometry": {"coordinates":[-89.94531000000001,38.541567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270452171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.753993,38.256422,-89.753993,38.256422",
     "geom:latitude":38.256422,
     "geom:longitude":-89.753993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Commercial St",
     "sg:city":"Albers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270452171,
-    "wof:lastmodified":1449009212,
+    "wof:lastmodified":1466495786,
     "wof:name":"Brendel Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-89.753993,38.256422,-89.753993,38.256422],
-  "geometry": {"coordinates":[-89.753993,38.256422],"type":"Point"}
+  "bbox": [
+    -89.753993,
+    38.256422,
+    -89.753993,
+    38.256422
+],
+  "geometry": {"coordinates":[-89.75399299999999,38.256422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186615449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.771493,41.892931,-87.771493,41.892931",
     "geom:latitude":41.892931,
     "geom:longitude":-87.771493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5838 W Huron St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186615449,
-    "wof:lastmodified":1449051233,
+    "wof:lastmodified":1466489611,
     "wof:name":"All My Children",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.771493,41.892931,-87.771493,41.892931],
-  "geometry": {"coordinates":[-87.771493,41.892931],"type":"Point"}
+  "bbox": [
+    -87.771493,
+    41.892931,
+    -87.771493,
+    41.892931
+],
+  "geometry": {"coordinates":[-87.77149300000001,41.892931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202718091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.713141,42.048091,-87.713141,42.048091",
     "geom:latitude":42.048091,
     "geom:longitude":-87.713141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 Church St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202718091,
-    "wof:lastmodified":1449060666,
+    "wof:lastmodified":1466491006,
     "wof:name":"Burlington Madison Yarn Co Div",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [-87.713141,42.048091,-87.713141,42.048091],
-  "geometry": {"coordinates":[-87.713141,42.048091],"type":"Point"}
+  "bbox": [
+    -87.713141,
+    42.048091,
+    -87.713141,
+    42.048091
+],
+  "geometry": {"coordinates":[-87.71314099999999,42.048091],"type":"Point"}
 }

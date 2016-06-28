@@ -2,13 +2,14 @@
   "id": 253323439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.381583,41.352659,-90.381583,41.352659",
     "geom:latitude":41.352659,
     "geom:longitude":-90.381583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 4th St",
     "sg:city":"Orion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253323439,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466493055,
     "wof:name":"Orion Village Hall",
     "wof:parent_id":85852267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.381583,41.352659,-90.381583,41.352659],
-  "geometry": {"coordinates":[-90.381583,41.352659],"type":"Point"}
+  "bbox": [
+    -90.381583,
+    41.352659,
+    -90.381583,
+    41.352659
+],
+  "geometry": {"coordinates":[-90.38158300000001,41.352659],"type":"Point"}
 }

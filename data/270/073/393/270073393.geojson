@@ -2,13 +2,14 @@
   "id": 270073393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.660426,40.911097,-90.660426,40.911097",
     "geom:latitude":40.911097,
     "geom:longitude":-90.660426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Sunny Ln",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270073393,
-    "wof:lastmodified":1449008983,
+    "wof:lastmodified":1466490117,
     "wof:name":"American Republic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.660426,40.911097,-90.660426,40.911097],
+  "bbox": [
+    -90.660426,
+    40.911097,
+    -90.660426,
+    40.911097
+],
   "geometry": {"coordinates":[-90.660426,40.911097],"type":"Point"}
 }

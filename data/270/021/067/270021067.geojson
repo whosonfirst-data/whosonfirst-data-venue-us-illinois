@@ -2,13 +2,14 @@
   "id": 270021067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849438,41.502474,-87.849438,41.502474",
     "geom:latitude":41.502474,
     "geom:longitude":-87.849438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Old Frankfort Way",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270021067,
-    "wof:lastmodified":1449010191,
+    "wof:lastmodified":1466489345,
     "wof:name":"Founders Place",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.849438,41.502474,-87.849438,41.502474],
-  "geometry": {"coordinates":[-87.849438,41.502474],"type":"Point"}
+  "bbox": [
+    -87.849438,
+    41.502474,
+    -87.849438,
+    41.502474
+],
+  "geometry": {"coordinates":[-87.84943800000001,41.502474],"type":"Point"}
 }

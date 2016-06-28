@@ -2,13 +2,14 @@
   "id": 286839425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.525275,40.883977,-89.525275,40.883977",
     "geom:latitude":40.883977,
     "geom:longitude":-89.525275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16113 N Regency Park Pl",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286839425,
-    "wof:lastmodified":1449016967,
+    "wof:lastmodified":1466497586,
     "wof:name":"Ackley Property Management",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.525275,40.883977,-89.525275,40.883977],
-  "geometry": {"coordinates":[-89.525275,40.883977],"type":"Point"}
+  "bbox": [
+    -89.525275,
+    40.883977,
+    -89.525275,
+    40.883977
+],
+  "geometry": {"coordinates":[-89.52527499999999,40.883977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253342369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.25701,41.457931,-88.25701,41.457931",
     "geom:latitude":41.457931,
     "geom:longitude":-88.25701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Arrowhead Dr",
     "sg:city":"Shorewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253342369,
-    "wof:lastmodified":1449065583,
+    "wof:lastmodified":1466493337,
     "wof:name":"Kirandt Group",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.25701,41.457931,-88.25701,41.457931],
-  "geometry": {"coordinates":[-88.25701,41.457931],"type":"Point"}
+  "bbox": [
+    -88.25701,
+    41.457931,
+    -88.25701,
+    41.457931
+],
+  "geometry": {"coordinates":[-88.25700999999999,41.457931],"type":"Point"}
 }

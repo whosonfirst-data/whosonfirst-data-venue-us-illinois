@@ -2,13 +2,14 @@
   "id": 186582763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11965,41.591919,-88.11965,41.591919",
     "geom:latitude":41.591919,
     "geom:longitude":-88.11965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20708 Huron St",
     "sg:city":"Crest Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186582763,
-    "wof:lastmodified":1449051824,
+    "wof:lastmodified":1466489201,
     "wof:name":"G P Business Svc Inc",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.11965,41.591919,-88.11965,41.591919],
-  "geometry": {"coordinates":[-88.11965,41.591919],"type":"Point"}
+  "bbox": [
+    -88.11965,
+    41.591919,
+    -88.11965,
+    41.591919
+],
+  "geometry": {"coordinates":[-88.11964999999999,41.591919],"type":"Point"}
 }

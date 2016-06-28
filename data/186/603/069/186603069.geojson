@@ -2,13 +2,14 @@
   "id": 186603069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.561777,41.751864,-87.561777,41.751864",
     "geom:latitude":41.751864,
     "geom:longitude":-87.561777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2556 E 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186603069,
-    "wof:lastmodified":1449052591,
+    "wof:lastmodified":1466489459,
     "wof:name":"Candy Shop Clothing",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-87.561777,41.751864,-87.561777,41.751864],
-  "geometry": {"coordinates":[-87.561777,41.751864],"type":"Point"}
+  "bbox": [
+    -87.561777,
+    41.751864,
+    -87.561777,
+    41.751864
+],
+  "geometry": {"coordinates":[-87.56177700000001,41.751864],"type":"Point"}
 }

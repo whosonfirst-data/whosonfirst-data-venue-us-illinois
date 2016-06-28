@@ -2,13 +2,14 @@
   "id": 219275497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.79049,41.719323,-87.79049,41.719323",
     "geom:latitude":41.719323,
     "geom:longitude":-87.79049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 W 95th St",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219275497,
-    "wof:lastmodified":1449071534,
+    "wof:lastmodified":1466490393,
     "wof:name":"City Suburban Title",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-87.79049,41.719323,-87.79049,41.719323],
-  "geometry": {"coordinates":[-87.79049,41.719323],"type":"Point"}
+  "bbox": [
+    -87.79049,
+    41.719323,
+    -87.79049,
+    41.719323
+],
+  "geometry": {"coordinates":[-87.79049000000001,41.719323],"type":"Point"}
 }

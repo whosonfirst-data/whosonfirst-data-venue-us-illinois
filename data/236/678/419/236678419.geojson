@@ -2,13 +2,14 @@
   "id": 236678419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.99626,41.170778,-90.99626,41.170778",
     "geom:latitude":41.170778,
     "geom:longitude":-90.99626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Main St",
     "sg:city":"New Boston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236678419,
-    "wof:lastmodified":1449003206,
+    "wof:lastmodified":1466497085,
     "wof:name":"New Boston Grocery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-90.99626,41.170778,-90.99626,41.170778],
-  "geometry": {"coordinates":[-90.99626,41.170778],"type":"Point"}
+  "bbox": [
+    -90.99626,
+    41.170778,
+    -90.99626,
+    41.170778
+],
+  "geometry": {"coordinates":[-90.99626000000001,41.170778],"type":"Point"}
 }

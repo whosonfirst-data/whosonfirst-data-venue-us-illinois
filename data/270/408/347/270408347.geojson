@@ -2,13 +2,14 @@
   "id": 270408347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.854352,41.344867,-88.854352,41.344867",
     "geom:latitude":41.344867,
     "geom:longitude":-88.854352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Taylor St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270408347,
-    "wof:lastmodified":1449008953,
+    "wof:lastmodified":1466495253,
     "wof:name":"Kay's Of Ottawa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.854352,41.344867,-88.854352,41.344867],
-  "geometry": {"coordinates":[-88.854352,41.344867],"type":"Point"}
+  "bbox": [
+    -88.854352,
+    41.344867,
+    -88.854352,
+    41.344867
+],
+  "geometry": {"coordinates":[-88.85435200000001,41.344867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270465717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.492462,41.511439,-90.492462,41.511439",
     "geom:latitude":41.511439,
     "geom:longitude":-90.492462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 4th Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270465717,
-    "wof:lastmodified":1449010309,
+    "wof:lastmodified":1466496174,
     "wof:name":"East Moline Maintenance",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.492462,41.511439,-90.492462,41.511439],
+  "bbox": [
+    -90.492462,
+    41.511439,
+    -90.492462,
+    41.511439
+],
   "geometry": {"coordinates":[-90.492462,41.511439],"type":"Point"}
 }

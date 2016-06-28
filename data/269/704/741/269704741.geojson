@@ -2,13 +2,14 @@
   "id": 269704741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.841231,41.352153,-88.841231,41.352153",
     "geom:latitude":41.352153,
     "geom:longitude":-88.841231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Columbus St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269704741,
-    "wof:lastmodified":1449036778,
+    "wof:lastmodified":1466492492,
     "wof:name":"State Of Illinois-Defender",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.841231,41.352153,-88.841231,41.352153],
-  "geometry": {"coordinates":[-88.841231,41.352153],"type":"Point"}
+  "bbox": [
+    -88.841231,
+    41.352153,
+    -88.841231,
+    41.352153
+],
+  "geometry": {"coordinates":[-88.84123099999999,41.352153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236265751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.529108,39.120533,-88.529108,39.120533",
     "geom:latitude":39.120533,
     "geom:longitude":-88.529108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Fayette Ave",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236265751,
-    "wof:lastmodified":1449002635,
+    "wof:lastmodified":1466492326,
     "wof:name":"Dave's Balancing & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-88.529108,39.120533,-88.529108,39.120533],
-  "geometry": {"coordinates":[-88.529108,39.120533],"type":"Point"}
+  "bbox": [
+    -88.529108,
+    39.120533,
+    -88.529108,
+    39.120533
+],
+  "geometry": {"coordinates":[-88.52910799999999,39.120533],"type":"Point"}
 }

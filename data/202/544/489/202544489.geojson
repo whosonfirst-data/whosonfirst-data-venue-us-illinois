@@ -2,13 +2,14 @@
   "id": 202544489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147484,41.304168,-88.147484,41.304168",
     "geom:latitude":41.304168,
     "geom:longitude":-88.147484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 S Park St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202544489,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466489003,
     "wof:name":"Wilmington Island Park Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-88.147484,41.304168,-88.147484,41.304168],
-  "geometry": {"coordinates":[-88.147484,41.304168],"type":"Point"}
+  "bbox": [
+    -88.147484,
+    41.304168,
+    -88.147484,
+    41.304168
+],
+  "geometry": {"coordinates":[-88.14748400000001,41.304168],"type":"Point"}
 }

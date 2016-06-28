@@ -2,13 +2,14 @@
   "id": 286790487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.793923,41.87969,-87.793923,41.87969",
     "geom:latitude":41.87969,
     "geom:longitude":-87.793923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286790487,
-    "wof:lastmodified":1449017439,
+    "wof:lastmodified":1466497151,
     "wof:name":"Thomas E Freeman",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.793923,41.87969,-87.793923,41.87969],
-  "geometry": {"coordinates":[-87.793923,41.87969],"type":"Point"}
+  "bbox": [
+    -87.793923,
+    41.87969,
+    -87.793923,
+    41.87969
+],
+  "geometry": {"coordinates":[-87.79392300000001,41.87969],"type":"Point"}
 }

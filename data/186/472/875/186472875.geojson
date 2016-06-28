@@ -2,13 +2,14 @@
   "id": 186472875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.446487,39.71044,-91.446487,39.71044",
     "geom:latitude":39.71044,
     "geom:longitude":-91.446487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Hospital Dr",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186472875,
-    "wof:lastmodified":1449050458,
+    "wof:lastmodified":1466495610,
     "wof:name":"North East Pathologists",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.446487,39.71044,-91.446487,39.71044],
+  "bbox": [
+    -91.446487,
+    39.71044,
+    -91.446487,
+    39.71044
+],
   "geometry": {"coordinates":[-91.446487,39.71044],"type":"Point"}
 }

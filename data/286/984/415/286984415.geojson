@@ -2,13 +2,14 @@
   "id": 286984415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.881348,41.867253,-87.881348,41.867253",
     "geom:latitude":41.867253,
     "geom:longitude":-87.881348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 Worcester Ave",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286984415,
-    "wof:lastmodified":1449016853,
+    "wof:lastmodified":1466498478,
     "wof:name":"Lake Effect Films",
     "wof:parent_id":85890851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-87.881348,41.867253,-87.881348,41.867253],
+  "bbox": [
+    -87.881348,
+    41.867253,
+    -87.881348,
+    41.867253
+],
   "geometry": {"coordinates":[-87.881348,41.867253],"type":"Point"}
 }

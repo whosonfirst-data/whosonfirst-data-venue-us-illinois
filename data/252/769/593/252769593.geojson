@@ -2,13 +2,14 @@
   "id": 252769593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.93284,41.51177,-87.93284,41.51177",
     "geom:latitude":41.51177,
     "geom:longitude":-87.93284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 E Lincoln Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252769593,
-    "wof:lastmodified":1449005765,
+    "wof:lastmodified":1466489785,
     "wof:name":"Provena Physical Therapy Svc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.93284,41.51177,-87.93284,41.51177],
+  "bbox": [
+    -87.93284,
+    41.51177,
+    -87.93284,
+    41.51177
+],
   "geometry": {"coordinates":[-87.93284,41.51177],"type":"Point"}
 }

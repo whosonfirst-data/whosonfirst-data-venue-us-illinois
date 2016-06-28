@@ -2,13 +2,14 @@
   "id": 236096509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.885992,42.040846,-87.885992,42.040846",
     "geom:latitude":42.040846,
     "geom:longitude":-87.885992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Miner St",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236096509,
-    "wof:lastmodified":1449002564,
+    "wof:lastmodified":1466490140,
     "wof:name":"Metra Metro Rail Pssngr STA",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-87.885992,42.040846,-87.885992,42.040846],
+  "bbox": [
+    -87.885992,
+    42.040846,
+    -87.885992,
+    42.040846
+],
   "geometry": {"coordinates":[-87.885992,42.040846],"type":"Point"}
 }

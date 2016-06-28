@@ -2,13 +2,14 @@
   "id": 286649621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.643783,41.881749,-87.643783,41.881749",
     "geom:latitude":41.881749,
     "geom:longitude":-87.643783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286649621,
-    "wof:lastmodified":1449017193,
+    "wof:lastmodified":1466495865,
     "wof:name":"Computer Concepts",
     "wof:parent_id":85869305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.643783,41.881749,-87.643783,41.881749],
+  "bbox": [
+    -87.643783,
+    41.881749,
+    -87.643783,
+    41.881749
+],
   "geometry": {"coordinates":[-87.643783,41.881749],"type":"Point"}
 }

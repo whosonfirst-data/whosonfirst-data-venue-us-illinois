@@ -2,13 +2,14 @@
   "id": 253586477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.687205,41.912613,-87.687205,41.912613",
     "geom:latitude":41.912613,
     "geom:longitude":-87.687205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 N Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253586477,
-    "wof:lastmodified":1449065435,
+    "wof:lastmodified":1466496628,
     "wof:name":"Bulletproof Film",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-87.687205,41.912613,-87.687205,41.912613],
-  "geometry": {"coordinates":[-87.687205,41.912613],"type":"Point"}
+  "bbox": [
+    -87.687205,
+    41.912613,
+    -87.687205,
+    41.912613
+],
+  "geometry": {"coordinates":[-87.68720500000001,41.912613],"type":"Point"}
 }

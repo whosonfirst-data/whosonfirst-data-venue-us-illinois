@@ -2,13 +2,14 @@
   "id": 203370927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.861776,41.135346,-87.861776,41.135346",
     "geom:latitude":41.135346,
     "geom:longitude":-87.861776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Brookmont Blvd",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203370927,
-    "wof:lastmodified":1449025980,
+    "wof:lastmodified":1466491251,
     "wof:name":"Martinez Convention Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-87.861776,41.135346,-87.861776,41.135346],
-  "geometry": {"coordinates":[-87.861776,41.135346],"type":"Point"}
+  "bbox": [
+    -87.861776,
+    41.135346,
+    -87.861776,
+    41.135346
+],
+  "geometry": {"coordinates":[-87.86177600000001,41.135346],"type":"Point"}
 }

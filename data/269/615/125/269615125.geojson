@@ -2,13 +2,14 @@
   "id": 269615125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060366,41.556243,-88.060366,41.556243",
     "geom:latitude":41.556243,
     "geom:longitude":-88.060366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Princeton Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269615125,
-    "wof:lastmodified":1449036908,
+    "wof:lastmodified":1466491066,
     "wof:name":"Bethlehem Apostolic Church",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.060366,41.556243,-88.060366,41.556243],
+  "bbox": [
+    -88.060366,
+    41.556243,
+    -88.060366,
+    41.556243
+],
   "geometry": {"coordinates":[-88.060366,41.556243],"type":"Point"}
 }

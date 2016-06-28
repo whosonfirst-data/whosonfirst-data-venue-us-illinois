@@ -2,13 +2,14 @@
   "id": 270312721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.282052,40.911408,-90.282052,40.911408",
     "geom:latitude":40.911408,
     "geom:longitude":-90.282052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Hebard St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270312721,
-    "wof:lastmodified":1449009874,
+    "wof:lastmodified":1466493782,
     "wof:name":"Riverland Fs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.282052,40.911408,-90.282052,40.911408],
-  "geometry": {"coordinates":[-90.282052,40.911408],"type":"Point"}
+  "bbox": [
+    -90.282052,
+    40.911408,
+    -90.282052,
+    40.911408
+],
+  "geometry": {"coordinates":[-90.28205199999999,40.911408],"type":"Point"}
 }

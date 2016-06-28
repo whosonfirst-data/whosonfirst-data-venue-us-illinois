@@ -2,13 +2,14 @@
   "id": 236320033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.941507,41.88341,-87.941507,41.88341",
     "geom:latitude":41.88341,
     "geom:longitude":-87.941507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Vallette St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236320033,
-    "wof:lastmodified":1449002306,
+    "wof:lastmodified":1466493017,
     "wof:name":"Chicago Engraving Design",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-87.941507,41.88341,-87.941507,41.88341],
+  "bbox": [
+    -87.941507,
+    41.88341,
+    -87.941507,
+    41.88341
+],
   "geometry": {"coordinates":[-87.941507,41.88341],"type":"Point"}
 }

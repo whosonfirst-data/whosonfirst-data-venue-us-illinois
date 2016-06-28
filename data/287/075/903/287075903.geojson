@@ -2,13 +2,14 @@
   "id": 287075903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.052117,41.880121,-88.052117,41.880121",
     "geom:latitude":41.880121,
     "geom:longitude":-88.052117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Ellynwood Dr",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287075903,
-    "wof:lastmodified":1449001154,
+    "wof:lastmodified":1466491172,
     "wof:name":"Portland Oregon Visitors Assn",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.052117,41.880121,-88.052117,41.880121],
+  "bbox": [
+    -88.052117,
+    41.880121,
+    -88.052117,
+    41.880121
+],
   "geometry": {"coordinates":[-88.052117,41.880121],"type":"Point"}
 }

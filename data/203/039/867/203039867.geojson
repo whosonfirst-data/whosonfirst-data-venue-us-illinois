@@ -2,13 +2,14 @@
   "id": 203039867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.139264,41.527486,-88.139264,41.527486",
     "geom:latitude":41.527486,
     "geom:longitude":-88.139264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Republic Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203039867,
-    "wof:lastmodified":1449026624,
+    "wof:lastmodified":1466493377,
     "wof:name":"Duke's Catering",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-88.139264,41.527486,-88.139264,41.527486],
+  "bbox": [
+    -88.139264,
+    41.527486,
+    -88.139264,
+    41.527486
+],
   "geometry": {"coordinates":[-88.139264,41.527486],"type":"Point"}
 }

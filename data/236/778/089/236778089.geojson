@@ -2,13 +2,14 @@
   "id": 236778089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.271,41.796395,-88.271,41.796395",
     "geom:latitude":41.796395,
     "geom:longitude":-88.271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Mallette Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236778089,
-    "wof:lastmodified":1449001727,
+    "wof:lastmodified":1466497626,
     "wof:name":"Grillco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-88.271,41.796395,-88.271,41.796395],
+  "bbox": [
+    -88.271,
+    41.796395,
+    -88.271,
+    41.796395
+],
   "geometry": {"coordinates":[-88.271,41.796395],"type":"Point"}
 }

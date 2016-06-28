@@ -2,13 +2,14 @@
   "id": 253523885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308575,41.849259,-88.308575,41.849259",
     "geom:latitude":41.849259,
     "geom:longitude":-88.308575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 1st St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253523885,
-    "wof:lastmodified":1449064534,
+    "wof:lastmodified":1466496200,
     "wof:name":"John Wazio DDS",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.308575,41.849259,-88.308575,41.849259],
+  "bbox": [
+    -88.308575,
+    41.849259,
+    -88.308575,
+    41.849259
+],
   "geometry": {"coordinates":[-88.308575,41.849259],"type":"Point"}
 }

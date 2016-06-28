@@ -2,13 +2,14 @@
   "id": 270315251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.288924,40.753882,-88.288924,40.753882",
     "geom:latitude":40.753882,
     "geom:longitude":-88.288924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 E Locust St",
     "sg:city":"Chatsworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270315251,
-    "wof:lastmodified":1449010995,
+    "wof:lastmodified":1466493817,
     "wof:name":"BBB Guns & Borebrites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-88.288924,40.753882,-88.288924,40.753882],
-  "geometry": {"coordinates":[-88.288924,40.753882],"type":"Point"}
+  "bbox": [
+    -88.288924,
+    40.753882,
+    -88.288924,
+    40.753882
+],
+  "geometry": {"coordinates":[-88.28892399999999,40.753882],"type":"Point"}
 }

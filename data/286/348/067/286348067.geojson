@@ -2,13 +2,14 @@
   "id": 286348067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.252783,39.723203,-90.252783,39.723203",
     "geom:latitude":39.723203,
     "geom:longitude":-90.252783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 W Morton Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286348067,
-    "wof:lastmodified":1449015288,
+    "wof:lastmodified":1466491146,
     "wof:name":"Bank Of Jacksonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-90.252783,39.723203,-90.252783,39.723203],
-  "geometry": {"coordinates":[-90.252783,39.723203],"type":"Point"}
+  "bbox": [
+    -90.252783,
+    39.723203,
+    -90.252783,
+    39.723203
+],
+  "geometry": {"coordinates":[-90.25278299999999,39.723203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236942873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.01793,42.144562,-88.01793,42.144562",
     "geom:latitude":42.144562,
     "geom:longitude":-88.01793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 E Aster Ave",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236942873,
-    "wof:lastmodified":1449003099,
+    "wof:lastmodified":1466498242,
     "wof:name":"Acme Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-88.01793,42.144562,-88.01793,42.144562],
-  "geometry": {"coordinates":[-88.01793,42.144562],"type":"Point"}
+  "bbox": [
+    -88.01793,
+    42.144562,
+    -88.01793,
+    42.144562
+],
+  "geometry": {"coordinates":[-88.01793000000001,42.144562],"type":"Point"}
 }

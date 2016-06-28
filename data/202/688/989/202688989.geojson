@@ -2,13 +2,14 @@
   "id": 202688989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.756026,41.60174,-88.756026,41.60174",
     "geom:latitude":41.60174,
     "geom:longitude":-88.756026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2168 N 46th Rd",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202688989,
-    "wof:lastmodified":1449061060,
+    "wof:lastmodified":1466490685,
     "wof:name":"Kevin Ohme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-88.756026,41.60174,-88.756026,41.60174],
-  "geometry": {"coordinates":[-88.756026,41.60174],"type":"Point"}
+  "bbox": [
+    -88.756026,
+    41.60174,
+    -88.756026,
+    41.60174
+],
+  "geometry": {"coordinates":[-88.75602600000001,41.60174],"type":"Point"}
 }

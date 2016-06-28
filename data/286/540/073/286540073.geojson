@@ -2,13 +2,14 @@
   "id": 286540073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.427073,40.354101,-91.427073,40.354101",
     "geom:latitude":40.354101,
     "geom:longitude":-91.427073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Underwood St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286540073,
-    "wof:lastmodified":1449016341,
+    "wof:lastmodified":1466494197,
     "wof:name":"Warsaw Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-91.427073,40.354101,-91.427073,40.354101],
-  "geometry": {"coordinates":[-91.427073,40.354101],"type":"Point"}
+  "bbox": [
+    -91.427073,
+    40.354101,
+    -91.427073,
+    40.354101
+],
+  "geometry": {"coordinates":[-91.42707299999999,40.354101],"type":"Point"}
 }

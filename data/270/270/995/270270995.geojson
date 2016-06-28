@@ -2,13 +2,14 @@
   "id": 270270995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.67219,41.980698,-87.67219,41.980698",
     "geom:latitude":41.980698,
     "geom:longitude":-87.67219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 W Rascher Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270270995,
-    "wof:lastmodified":1449009081,
+    "wof:lastmodified":1466493146,
     "wof:name":"Jim Kurotsuchi",
     "wof:parent_id":85867801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.67219,41.980698,-87.67219,41.980698],
+  "bbox": [
+    -87.67219,
+    41.980698,
+    -87.67219,
+    41.980698
+],
   "geometry": {"coordinates":[-87.67219,41.980698],"type":"Point"}
 }

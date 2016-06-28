@@ -2,13 +2,14 @@
   "id": 270451031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240747,39.485496,-88.240747,39.485496",
     "geom:latitude":39.485496,
     "geom:longitude":-88.240747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Blue Stem Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270451031,
-    "wof:lastmodified":1449009701,
+    "wof:lastmodified":1466495775,
     "wof:name":"ABC Seamless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.240747,39.485496,-88.240747,39.485496],
+  "bbox": [
+    -88.240747,
+    39.485496,
+    -88.240747,
+    39.485496
+],
   "geometry": {"coordinates":[-88.240747,39.485496],"type":"Point"}
 }

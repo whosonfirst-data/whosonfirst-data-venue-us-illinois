@@ -2,13 +2,14 @@
   "id": 270492555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.630251,40.140855,-87.630251,40.140855",
     "geom:latitude":40.140855,
     "geom:longitude":-87.630251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 N Vermilion St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270492555,
-    "wof:lastmodified":1449008663,
+    "wof:lastmodified":1466496214,
     "wof:name":"Illinois Security Services",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.630251,40.140855,-87.630251,40.140855],
+  "bbox": [
+    -87.630251,
+    40.140855,
+    -87.630251,
+    40.140855
+],
   "geometry": {"coordinates":[-87.630251,40.140855],"type":"Point"}
 }

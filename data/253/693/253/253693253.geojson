@@ -2,13 +2,14 @@
   "id": 253693253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.989523,38.513549,-89.989523,38.513549",
     "geom:latitude":38.513549,
     "geom:longitude":-89.989523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 W Main St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253693253,
-    "wof:lastmodified":1449062994,
+    "wof:lastmodified":1466497403,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "national"
     ]
 },
-  "bbox": [-89.989523,38.513549,-89.989523,38.513549],
-  "geometry": {"coordinates":[-89.989523,38.513549],"type":"Point"}
+  "bbox": [
+    -89.989523,
+    38.513549,
+    -89.989523,
+    38.513549
+],
+  "geometry": {"coordinates":[-89.98952300000001,38.513549],"type":"Point"}
 }

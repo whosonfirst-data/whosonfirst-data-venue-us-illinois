@@ -2,13 +2,14 @@
   "id": 235992881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04453,41.783456,-88.04453,41.783456",
     "geom:latitude":41.783456,
     "geom:longitude":-88.04453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5618 Elinor Ave",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235992881,
-    "wof:lastmodified":1449008411,
+    "wof:lastmodified":1466489708,
     "wof:name":"Phoenix Concrete Inc",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.04453,41.783456,-88.04453,41.783456],
-  "geometry": {"coordinates":[-88.04453,41.783456],"type":"Point"}
+  "bbox": [
+    -88.04453,
+    41.783456,
+    -88.04453,
+    41.783456
+],
+  "geometry": {"coordinates":[-88.04452999999999,41.783456],"type":"Point"}
 }

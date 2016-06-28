@@ -2,13 +2,14 @@
   "id": 185791129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.080762,39.387545,-89.080762,39.387545",
     "geom:latitude":39.387545,
     "geom:longitude":-89.080762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Poplar St Apt 101",
     "sg:city":"Pana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185791129,
-    "wof:lastmodified":1449007864,
+    "wof:lastmodified":1466488963,
     "wof:name":"Senior Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.080762,39.387545,-89.080762,39.387545],
-  "geometry": {"coordinates":[-89.080762,39.387545],"type":"Point"}
+  "bbox": [
+    -89.080762,
+    39.387545,
+    -89.080762,
+    39.387545
+],
+  "geometry": {"coordinates":[-89.08076199999999,39.387545],"type":"Point"}
 }

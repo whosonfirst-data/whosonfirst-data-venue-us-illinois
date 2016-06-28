@@ -2,13 +2,14 @@
   "id": 220108263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.072708,38.596357,-90.072708,38.596357",
     "geom:latitude":38.596357,
     "geom:longitude":-90.072708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 State St",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220108263,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466490269,
     "wof:name":"Park & Shop Supermarket",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-90.072708,38.596357,-90.072708,38.596357],
-  "geometry": {"coordinates":[-90.072708,38.596357],"type":"Point"}
+  "bbox": [
+    -90.072708,
+    38.596357,
+    -90.072708,
+    38.596357
+],
+  "geometry": {"coordinates":[-90.07270800000001,38.596357],"type":"Point"}
 }

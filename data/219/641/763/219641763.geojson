@@ -2,13 +2,14 @@
   "id": 219641763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.762732,40.355227,-88.762732,40.355227",
     "geom:latitude":40.355227,
     "geom:longitude":-88.762732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W School St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219641763,
-    "wof:lastmodified":1449073086,
+    "wof:lastmodified":1466494835,
     "wof:name":"Walk In Medical Clinic",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-88.762732,40.355227,-88.762732,40.355227],
+  "bbox": [
+    -88.762732,
+    40.355227,
+    -88.762732,
+    40.355227
+],
   "geometry": {"coordinates":[-88.762732,40.355227],"type":"Point"}
 }

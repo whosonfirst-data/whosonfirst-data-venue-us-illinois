@@ -2,13 +2,14 @@
   "id": 337510173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.020221,42.264106,-89.020221,42.264106",
     "geom:latitude":42.264106,
     "geom:longitude":-89.020221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 E State St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337510173,
-    "wof:lastmodified":1449027436,
+    "wof:lastmodified":1466492533,
     "wof:name":"Miller Eye Ctr",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.020221,42.264106,-89.020221,42.264106],
-  "geometry": {"coordinates":[-89.020221,42.264106],"type":"Point"}
+  "bbox": [
+    -89.020221,
+    42.264106,
+    -89.020221,
+    42.264106
+],
+  "geometry": {"coordinates":[-89.02022100000001,42.264106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235971691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.603519,40.129899,-87.603519,40.129899",
     "geom:latitude":40.129899,
     "geom:longitude":-87.603519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 E Main St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235971691,
-    "wof:lastmodified":1449008426,
+    "wof:lastmodified":1466489442,
     "wof:name":"Mercer's Accounting & Tax Svc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.603519,40.129899,-87.603519,40.129899],
-  "geometry": {"coordinates":[-87.603519,40.129899],"type":"Point"}
+  "bbox": [
+    -87.603519,
+    40.129899,
+    -87.603519,
+    40.129899
+],
+  "geometry": {"coordinates":[-87.60351900000001,40.129899],"type":"Point"}
 }

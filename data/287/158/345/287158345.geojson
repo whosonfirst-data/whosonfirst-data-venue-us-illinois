@@ -2,13 +2,14 @@
   "id": 287158345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995483,38.516304,-89.995483,38.516304",
     "geom:latitude":38.516304,
     "geom:longitude":-89.995483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 10th St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287158345,
-    "wof:lastmodified":1449001274,
+    "wof:lastmodified":1466492522,
     "wof:name":"Wooden Rainbow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-89.995483,38.516304,-89.995483,38.516304],
-  "geometry": {"coordinates":[-89.995483,38.516304],"type":"Point"}
+  "bbox": [
+    -89.995483,
+    38.516304,
+    -89.995483,
+    38.516304
+],
+  "geometry": {"coordinates":[-89.99548299999999,38.516304],"type":"Point"}
 }

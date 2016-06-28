@@ -2,13 +2,14 @@
   "id": 270251141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.089032,42.315826,-89.089032,42.315826",
     "geom:latitude":42.315826,
     "geom:longitude":-89.089032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 W Riverside Blvd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270251141,
-    "wof:lastmodified":1449008712,
+    "wof:lastmodified":1466492836,
     "wof:name":"Chatham Court Apartments",
     "wof:parent_id":85880437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-89.089032,42.315826,-89.089032,42.315826],
+  "bbox": [
+    -89.089032,
+    42.315826,
+    -89.089032,
+    42.315826
+],
   "geometry": {"coordinates":[-89.089032,42.315826],"type":"Point"}
 }

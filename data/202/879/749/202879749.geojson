@@ -2,13 +2,14 @@
   "id": 202879749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.670274,42.307197,-89.670274,42.307197",
     "geom:latitude":42.307197,
     "geom:longitude":-89.670274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Barley Ridge Trl",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202879749,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466492933,
     "wof:name":"Werntz Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.670274,42.307197,-89.670274,42.307197],
-  "geometry": {"coordinates":[-89.670274,42.307197],"type":"Point"}
+  "bbox": [
+    -89.670274,
+    42.307197,
+    -89.670274,
+    42.307197
+],
+  "geometry": {"coordinates":[-89.67027400000001,42.307197],"type":"Point"}
 }

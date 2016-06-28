@@ -2,13 +2,14 @@
   "id": 235968501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.936264,41.670475,-89.936264,41.670475",
     "geom:latitude":41.670475,
     "geom:longitude":-89.936264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Washington St",
     "sg:city":"Prophetstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235968501,
-    "wof:lastmodified":1449008299,
+    "wof:lastmodified":1466489402,
     "wof:name":"Prophet Heating & Cooling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.936264,41.670475,-89.936264,41.670475],
-  "geometry": {"coordinates":[-89.936264,41.670475],"type":"Point"}
+  "bbox": [
+    -89.936264,
+    41.670475,
+    -89.936264,
+    41.670475
+],
+  "geometry": {"coordinates":[-89.93626399999999,41.670475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286530037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.6593,41.708359,-87.6593,41.708359",
     "geom:latitude":41.708359,
     "geom:longitude":-87.6593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10238 S Charles St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286530037,
-    "wof:lastmodified":1449016757,
+    "wof:lastmodified":1466494027,
     "wof:name":"Austin Studio Inc",
     "wof:parent_id":85867523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-87.6593,41.708359,-87.6593,41.708359],
+  "bbox": [
+    -87.6593,
+    41.708359,
+    -87.6593,
+    41.708359
+],
   "geometry": {"coordinates":[-87.6593,41.708359],"type":"Point"}
 }

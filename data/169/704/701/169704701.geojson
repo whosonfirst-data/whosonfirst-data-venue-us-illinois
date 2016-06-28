@@ -2,13 +2,14 @@
   "id": 169704701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694515,39.595306,-87.694515,39.595306",
     "geom:latitude":39.595306,
     "geom:longitude":-87.694515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 S Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169704701,
-    "wof:lastmodified":1449033554,
+    "wof:lastmodified":1466488951,
     "wof:name":"Collins Auto Repair & Tires I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-87.694515,39.595306,-87.694515,39.595306],
+  "bbox": [
+    -87.694515,
+    39.595306,
+    -87.694515,
+    39.595306
+],
   "geometry": {"coordinates":[-87.694515,39.595306],"type":"Point"}
 }

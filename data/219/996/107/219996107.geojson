@@ -2,13 +2,14 @@
   "id": 219996107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.331645,42.426493,-89.331645,42.426493",
     "geom:latitude":42.426493,
     "geom:longitude":-89.331645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12111 Center Rd",
     "sg:city":"Durand",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219996107,
-    "wof:lastmodified":1449071343,
+    "wof:lastmodified":1466497792,
     "wof:name":"Cornerstone Foursquare Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.331645,42.426493,-89.331645,42.426493],
-  "geometry": {"coordinates":[-89.331645,42.426493],"type":"Point"}
+  "bbox": [
+    -89.331645,
+    42.426493,
+    -89.331645,
+    42.426493
+],
+  "geometry": {"coordinates":[-89.33164499999999,42.426493],"type":"Point"}
 }

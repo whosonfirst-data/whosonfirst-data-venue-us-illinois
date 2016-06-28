@@ -2,13 +2,14 @@
   "id": 303128035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.736032,41.898393,-87.736032,41.898393",
     "geom:latitude":41.898393,
     "geom:longitude":-87.736032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 N Kostner Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303128035,
-    "wof:lastmodified":1448999077,
+    "wof:lastmodified":1466491861,
     "wof:name":"Grubb & Ellis Company",
     "wof:parent_id":85867693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.736032,41.898393,-87.736032,41.898393],
-  "geometry": {"coordinates":[-87.736032,41.898393],"type":"Point"}
+  "bbox": [
+    -87.736032,
+    41.898393,
+    -87.736032,
+    41.898393
+],
+  "geometry": {"coordinates":[-87.73603199999999,41.898393],"type":"Point"}
 }

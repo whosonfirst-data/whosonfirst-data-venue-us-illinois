@@ -2,13 +2,14 @@
   "id": 270000031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750675,41.721497,-87.750675,41.721497",
     "geom:latitude":41.721497,
     "geom:longitude":-87.750675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9420 S 52nd Ave",
     "sg:city":"Oak Lawn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270000031,
-    "wof:lastmodified":1449009018,
+    "wof:lastmodified":1466495631,
     "wof:name":"Ancient Free & Accepted Masons",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-87.750675,41.721497,-87.750675,41.721497],
+  "bbox": [
+    -87.750675,
+    41.721497,
+    -87.750675,
+    41.721497
+],
   "geometry": {"coordinates":[-87.750675,41.721497],"type":"Point"}
 }

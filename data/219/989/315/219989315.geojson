@@ -2,13 +2,14 @@
   "id": 219989315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.359203,40.538059,-89.359203,40.538059",
     "geom:latitude":40.538059,
     "geom:longitude":-89.359203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Mackinaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219989315,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466497653,
     "wof:name":"Mackinaw IGA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.359203,40.538059,-89.359203,40.538059],
-  "geometry": {"coordinates":[-89.359203,40.538059],"type":"Point"}
+  "bbox": [
+    -89.359203,
+    40.538059,
+    -89.359203,
+    40.538059
+],
+  "geometry": {"coordinates":[-89.35920299999999,40.538059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219730853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.395491,40.236388,-91.395491,40.236388",
     "geom:latitude":40.236388,
     "geom:longitude":-91.395491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 N Co Rd 600",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219730853,
-    "wof:lastmodified":1449073346,
+    "wof:lastmodified":1466496232,
     "wof:name":"George Heisler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-91.395491,40.236388,-91.395491,40.236388],
-  "geometry": {"coordinates":[-91.395491,40.236388],"type":"Point"}
+  "bbox": [
+    -91.395491,
+    40.236388,
+    -91.395491,
+    40.236388
+],
+  "geometry": {"coordinates":[-91.39549100000001,40.236388],"type":"Point"}
 }

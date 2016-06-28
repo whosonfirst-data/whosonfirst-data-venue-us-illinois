@@ -2,13 +2,14 @@
   "id": 286471151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.56002,41.757255,-87.56002,41.757255",
     "geom:latitude":41.757255,
     "geom:longitude":-87.56002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 E 76th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286471151,
-    "wof:lastmodified":1449016354,
+    "wof:lastmodified":1466493064,
     "wof:name":"Fox & Fox Janitorial Svc",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.56002,41.757255,-87.56002,41.757255],
-  "geometry": {"coordinates":[-87.56002,41.757255],"type":"Point"}
+  "bbox": [
+    -87.56002,
+    41.757255,
+    -87.56002,
+    41.757255
+],
+  "geometry": {"coordinates":[-87.56001999999999,41.757255],"type":"Point"}
 }

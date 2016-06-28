@@ -2,13 +2,14 @@
   "id": 253342061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307262,41.775609,-88.307262,41.775609",
     "geom:latitude":41.775609,
     "geom:longitude":-88.307262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Aurora Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253342061,
-    "wof:lastmodified":1449065580,
+    "wof:lastmodified":1466493331,
     "wof:name":"Supermercado LA Chiquita #5",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-88.307262,41.775609,-88.307262,41.775609],
-  "geometry": {"coordinates":[-88.307262,41.775609],"type":"Point"}
+  "bbox": [
+    -88.307262,
+    41.775609,
+    -88.307262,
+    41.775609
+],
+  "geometry": {"coordinates":[-88.30726199999999,41.775609],"type":"Point"}
 }

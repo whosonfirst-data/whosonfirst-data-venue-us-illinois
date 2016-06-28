@@ -2,13 +2,14 @@
   "id": 269582649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.036785,40.555749,-90.036785,40.555749",
     "geom:latitude":40.555749,
     "geom:longitude":-90.036785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Elm St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269582649,
-    "wof:lastmodified":1449037426,
+    "wof:lastmodified":1466490547,
     "wof:name":"Midamerica Financial Svc",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-90.036785,40.555749,-90.036785,40.555749],
-  "geometry": {"coordinates":[-90.036785,40.555749],"type":"Point"}
+  "bbox": [
+    -90.036785,
+    40.555749,
+    -90.036785,
+    40.555749
+],
+  "geometry": {"coordinates":[-90.03678499999999,40.555749],"type":"Point"}
 }

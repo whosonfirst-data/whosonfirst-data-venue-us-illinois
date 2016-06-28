@@ -2,13 +2,14 @@
   "id": 202819803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.724863,41.895377,-87.724863,41.895377",
     "geom:latitude":41.895377,
     "geom:longitude":-87.724863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 W Chicago Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202819803,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466492190,
     "wof:name":"Alladin Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.724863,41.895377,-87.724863,41.895377],
+  "bbox": [
+    -87.724863,
+    41.895377,
+    -87.724863,
+    41.895377
+],
   "geometry": {"coordinates":[-87.724863,41.895377],"type":"Point"}
 }

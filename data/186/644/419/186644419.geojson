@@ -2,13 +2,14 @@
   "id": 186644419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.051107,38.565252,-90.051107,38.565252",
     "geom:latitude":38.565252,
     "geom:longitude":-90.051107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Juanita Pl",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186644419,
-    "wof:lastmodified":1449051921,
+    "wof:lastmodified":1466489942,
     "wof:name":"Gateway Publishing",
     "wof:parent_id":85858591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-90.051107,38.565252,-90.051107,38.565252],
+  "bbox": [
+    -90.051107,
+    38.565252,
+    -90.051107,
+    38.565252
+],
   "geometry": {"coordinates":[-90.051107,38.565252],"type":"Point"}
 }

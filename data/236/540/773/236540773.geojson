@@ -2,13 +2,14 @@
   "id": 236540773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.605957,38.185425,-89.605957,38.185425",
     "geom:latitude":38.185425,
     "geom:longitude":-89.605957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Main St",
     "sg:city":"Coulterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236540773,
-    "wof:lastmodified":1449002853,
+    "wof:lastmodified":1466495843,
     "wof:name":"Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.605957,38.185425,-89.605957,38.185425],
+  "bbox": [
+    -89.605957,
+    38.185425,
+    -89.605957,
+    38.185425
+],
   "geometry": {"coordinates":[-89.605957,38.185425],"type":"Point"}
 }

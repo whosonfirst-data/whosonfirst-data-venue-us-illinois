@@ -2,13 +2,14 @@
   "id": 202617499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.066225,41.921575,-89.066225,41.921575",
     "geom:latitude":41.921575,
     "geom:longitude":-89.066225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Lincoln Hwy",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202617499,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466489865,
     "wof:name":"D A Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-89.066225,41.921575,-89.066225,41.921575],
+  "bbox": [
+    -89.066225,
+    41.921575,
+    -89.066225,
+    41.921575
+],
   "geometry": {"coordinates":[-89.066225,41.921575],"type":"Point"}
 }

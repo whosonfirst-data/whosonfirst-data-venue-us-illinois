@@ -2,13 +2,14 @@
   "id": 219324215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169966,39.484448,-88.169966,39.484448",
     "geom:latitude":39.484448,
     "geom:longitude":-88.169966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Lincoln Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219324215,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466491008,
     "wof:name":"Hacker Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.169966,39.484448,-88.169966,39.484448],
+  "bbox": [
+    -88.169966,
+    39.484448,
+    -88.169966,
+    39.484448
+],
   "geometry": {"coordinates":[-88.169966,39.484448],"type":"Point"}
 }

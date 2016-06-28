@@ -2,13 +2,14 @@
   "id": 270213359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.873589,41.041025,-88.873589,41.041025",
     "geom:latitude":41.041025,
     "geom:longitude":-88.873589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Wall St",
     "sg:city":"Ancona",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270213359,
-    "wof:lastmodified":1449008687,
+    "wof:lastmodified":1466492244,
     "wof:name":"Ancona Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.873589,41.041025,-88.873589,41.041025],
+  "bbox": [
+    -88.873589,
+    41.041025,
+    -88.873589,
+    41.041025
+],
   "geometry": {"coordinates":[-88.873589,41.041025],"type":"Point"}
 }

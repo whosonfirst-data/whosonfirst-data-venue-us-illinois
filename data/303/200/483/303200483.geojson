@@ -2,13 +2,14 @@
   "id": 303200483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.611443,39.884991,-89.611443,39.884991",
     "geom:latitude":39.884991,
     "geom:longitude":-89.611443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Georgetowne Rd",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303200483,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1466493048,
     "wof:name":"William Peterman",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.611443,39.884991,-89.611443,39.884991],
-  "geometry": {"coordinates":[-89.611443,39.884991],"type":"Point"}
+  "bbox": [
+    -89.611443,
+    39.884991,
+    -89.611443,
+    39.884991
+],
+  "geometry": {"coordinates":[-89.61144299999999,39.884991],"type":"Point"}
 }

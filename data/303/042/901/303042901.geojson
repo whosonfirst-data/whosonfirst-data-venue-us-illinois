@@ -2,13 +2,14 @@
   "id": 303042901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.625639,41.476084,-87.625639,41.476084",
     "geom:latitude":41.476084,
     "geom:longitude":-87.625639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 Holeman Ave",
     "sg:city":"Steger",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303042901,
-    "wof:lastmodified":1448999973,
+    "wof:lastmodified":1466490520,
     "wof:name":"ESL Contractors Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.625639,41.476084,-87.625639,41.476084],
-  "geometry": {"coordinates":[-87.625639,41.476084],"type":"Point"}
+  "bbox": [
+    -87.625639,
+    41.476084,
+    -87.625639,
+    41.476084
+],
+  "geometry": {"coordinates":[-87.62563900000001,41.476084],"type":"Point"}
 }

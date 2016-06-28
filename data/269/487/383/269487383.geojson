@@ -2,13 +2,14 @@
   "id": 269487383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.284753,41.806531,-88.284753,41.806531",
     "geom:latitude":41.806531,
     "geom:longitude":-88.284753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 Church Rd",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269487383,
-    "wof:lastmodified":1449036923,
+    "wof:lastmodified":1466489045,
     "wof:name":"Arnold's Custom Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "custom"
     ]
 },
-  "bbox": [-88.284753,41.806531,-88.284753,41.806531],
-  "geometry": {"coordinates":[-88.284753,41.806531],"type":"Point"}
+  "bbox": [
+    -88.284753,
+    41.806531,
+    -88.284753,
+    41.806531
+],
+  "geometry": {"coordinates":[-88.28475299999999,41.806531],"type":"Point"}
 }

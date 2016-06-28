@@ -2,13 +2,14 @@
   "id": 169848251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.803947,37.929691,-89.803947,37.929691",
     "geom:latitude":37.929691,
     "geom:longitude":-89.803947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Old Plank Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169848251,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1466495071,
     "wof:name":"Southwestern Illinois Bus Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rental"
     ]
 },
-  "bbox": [-89.803947,37.929691,-89.803947,37.929691],
-  "geometry": {"coordinates":[-89.803947,37.929691],"type":"Point"}
+  "bbox": [
+    -89.803947,
+    37.929691,
+    -89.803947,
+    37.929691
+],
+  "geometry": {"coordinates":[-89.80394699999999,37.929691],"type":"Point"}
 }

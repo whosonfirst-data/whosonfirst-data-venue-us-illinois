@@ -2,13 +2,14 @@
   "id": 269757033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.371169,39.485829,-88.371169,39.485829",
     "geom:latitude":39.485829,
     "geom:longitude":-88.371169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Champaign Ave",
     "sg:city":"Mattoon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269757033,
-    "wof:lastmodified":1449037478,
+    "wof:lastmodified":1466493325,
     "wof:name":"Daily Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-88.371169,39.485829,-88.371169,39.485829],
-  "geometry": {"coordinates":[-88.371169,39.485829],"type":"Point"}
+  "bbox": [
+    -88.371169,
+    39.485829,
+    -88.371169,
+    39.485829
+],
+  "geometry": {"coordinates":[-88.37116899999999,39.485829],"type":"Point"}
 }

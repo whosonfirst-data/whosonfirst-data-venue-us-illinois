@@ -2,13 +2,14 @@
   "id": 219227647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.12153,41.894105,-88.12153,41.894105",
     "geom:latitude":41.894105,
     "geom:longitude":-88.12153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Gary Ave",
     "sg:city":"Carol Stream",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219227647,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466489833,
     "wof:name":"Country Insurance",
     "wof:parent_id":85827485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.12153,41.894105,-88.12153,41.894105],
-  "geometry": {"coordinates":[-88.12153,41.894105],"type":"Point"}
+  "bbox": [
+    -88.12153,
+    41.894105,
+    -88.12153,
+    41.894105
+],
+  "geometry": {"coordinates":[-88.12153000000001,41.894105],"type":"Point"}
 }

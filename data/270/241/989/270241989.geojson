@@ -2,13 +2,14 @@
   "id": 270241989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.817191,41.702746,-87.817191,41.702746",
     "geom:latitude":41.702746,
     "geom:longitude":-87.817191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10335 S Roberts Rd",
     "sg:city":"Palos Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270241989,
-    "wof:lastmodified":1449011075,
+    "wof:lastmodified":1466492699,
     "wof:name":"City of Palos Hills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-87.817191,41.702746,-87.817191,41.702746],
-  "geometry": {"coordinates":[-87.817191,41.702746],"type":"Point"}
+  "bbox": [
+    -87.817191,
+    41.702746,
+    -87.817191,
+    41.702746
+],
+  "geometry": {"coordinates":[-87.81719099999999,41.702746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270429681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.868919,41.994149,-87.868919,41.994149",
     "geom:latitude":41.994149,
     "geom:longitude":-87.868919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 W Higgins Rd",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270429681,
-    "wof:lastmodified":1449010991,
+    "wof:lastmodified":1466495579,
     "wof:name":"Lexmark",
     "wof:parent_id":85809035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.868919,41.994149,-87.868919,41.994149],
-  "geometry": {"coordinates":[-87.868919,41.994149],"type":"Point"}
+  "bbox": [
+    -87.868919,
+    41.994149,
+    -87.868919,
+    41.994149
+],
+  "geometry": {"coordinates":[-87.86891900000001,41.994149],"type":"Point"}
 }

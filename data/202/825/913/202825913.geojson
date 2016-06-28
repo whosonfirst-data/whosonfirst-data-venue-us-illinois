@@ -2,13 +2,14 @@
   "id": 202825913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.54116,41.600052,-87.54116,41.600052",
     "geom:latitude":41.600052,
     "geom:longitude":-87.54116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"674 River Oaks Dr",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202825913,
-    "wof:lastmodified":1449060193,
+    "wof:lastmodified":1466492270,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.54116,41.600052,-87.54116,41.600052],
+  "bbox": [
+    -87.54116,
+    41.600052,
+    -87.54116,
+    41.600052
+],
   "geometry": {"coordinates":[-87.54116,41.600052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236632921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.376086,39.944009,-91.376086,39.944009",
     "geom:latitude":39.944009,
     "geom:longitude":-91.376086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Cherry St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236632921,
-    "wof:lastmodified":1449003817,
+    "wof:lastmodified":1466496758,
     "wof:name":"Midwest Treasure Detectors",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locksmith"
     ]
 },
-  "bbox": [-91.376086,39.944009,-91.376086,39.944009],
+  "bbox": [
+    -91.376086,
+    39.944009,
+    -91.376086,
+    39.944009
+],
   "geometry": {"coordinates":[-91.376086,39.944009],"type":"Point"}
 }

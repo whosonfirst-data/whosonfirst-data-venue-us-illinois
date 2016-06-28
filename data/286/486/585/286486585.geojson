@@ -2,13 +2,14 @@
   "id": 286486585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.286633,42.254613,-88.286633,42.254613",
     "geom:latitude":42.254613,
     "geom:longitude":-88.286633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 State Rte 31",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286486585,
-    "wof:lastmodified":1449016822,
+    "wof:lastmodified":1466493311,
     "wof:name":"Auto Transmission Specialists",
     "wof:parent_id":85804611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.286633,42.254613,-88.286633,42.254613],
-  "geometry": {"coordinates":[-88.286633,42.254613],"type":"Point"}
+  "bbox": [
+    -88.286633,
+    42.254613,
+    -88.286633,
+    42.254613
+],
+  "geometry": {"coordinates":[-88.28663299999999,42.254613],"type":"Point"}
 }

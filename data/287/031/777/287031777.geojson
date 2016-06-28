@@ -2,13 +2,14 @@
   "id": 287031777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.997447,41.521107,-87.997447,41.521107",
     "geom:latitude":41.521107,
     "geom:longitude":-87.997447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Lincoln Hwy",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287031777,
-    "wof:lastmodified":1449001000,
+    "wof:lastmodified":1466490469,
     "wof:name":"New Lenox Dental Group",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.997447,41.521107,-87.997447,41.521107],
-  "geometry": {"coordinates":[-87.997447,41.521107],"type":"Point"}
+  "bbox": [
+    -87.997447,
+    41.521107,
+    -87.997447,
+    41.521107
+],
+  "geometry": {"coordinates":[-87.99744699999999,41.521107],"type":"Point"}
 }

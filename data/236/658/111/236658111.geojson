@@ -2,13 +2,14 @@
   "id": 236658111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.479103,40.954368,-89.479103,40.954368",
     "geom:latitude":40.954368,
     "geom:longitude":-89.479103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22005 N Boehle Ln",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236658111,
-    "wof:lastmodified":1449001625,
+    "wof:lastmodified":1466496923,
     "wof:name":"Riverview Acres",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "or"
     ]
 },
-  "bbox": [-89.479103,40.954368,-89.479103,40.954368],
-  "geometry": {"coordinates":[-89.479103,40.954368],"type":"Point"}
+  "bbox": [
+    -89.479103,
+    40.954368,
+    -89.479103,
+    40.954368
+],
+  "geometry": {"coordinates":[-89.47910299999999,40.954368],"type":"Point"}
 }

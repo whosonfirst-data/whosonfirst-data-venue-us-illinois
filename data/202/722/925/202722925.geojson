@@ -2,13 +2,14 @@
   "id": 202722925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.241363,41.265413,-88.241363,41.265413",
     "geom:latitude":41.265413,
     "geom:longitude":-88.241363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Walnut St",
     "sg:city":"Braidwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202722925,
-    "wof:lastmodified":1449060990,
+    "wof:lastmodified":1466491058,
     "wof:name":"Ef Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-88.241363,41.265413,-88.241363,41.265413],
-  "geometry": {"coordinates":[-88.241363,41.265413],"type":"Point"}
+  "bbox": [
+    -88.241363,
+    41.265413,
+    -88.241363,
+    41.265413
+],
+  "geometry": {"coordinates":[-88.24136300000001,41.265413],"type":"Point"}
 }

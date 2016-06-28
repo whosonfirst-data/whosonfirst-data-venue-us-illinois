@@ -2,13 +2,14 @@
   "id": 270153987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750633,41.86118,-87.750633,41.86118",
     "geom:latitude":41.86118,
     "geom:longitude":-87.750633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1447 S 50th Ct",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270153987,
-    "wof:lastmodified":1449010352,
+    "wof:lastmodified":1466491304,
     "wof:name":"Clement Presbyterian Church",
     "wof:parent_id":85867673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.750633,41.86118,-87.750633,41.86118],
-  "geometry": {"coordinates":[-87.750633,41.86118],"type":"Point"}
+  "bbox": [
+    -87.750633,
+    41.86118,
+    -87.750633,
+    41.86118
+],
+  "geometry": {"coordinates":[-87.75063299999999,41.86118],"type":"Point"}
 }

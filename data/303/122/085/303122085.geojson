@@ -2,13 +2,14 @@
   "id": 303122085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.394033,40.208386,-88.394033,40.208386",
     "geom:latitude":40.208386,
     "geom:longitude":-88.394033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Briarcliff Dr",
     "sg:city":"Mahomet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303122085,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466491770,
     "wof:name":"D & D Properties Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.394033,40.208386,-88.394033,40.208386],
-  "geometry": {"coordinates":[-88.394033,40.208386],"type":"Point"}
+  "bbox": [
+    -88.394033,
+    40.208386,
+    -88.394033,
+    40.208386
+],
+  "geometry": {"coordinates":[-88.39403299999999,40.208386],"type":"Point"}
 }

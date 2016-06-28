@@ -2,13 +2,14 @@
   "id": 185869347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.648119,39.787092,-89.648119,39.787092",
     "geom:latitude":39.787092,
     "geom:longitude":-89.648119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 S Grand Ave E",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185869347,
-    "wof:lastmodified":1449008091,
+    "wof:lastmodified":1466489571,
     "wof:name":"Motomart",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.648119,39.787092,-89.648119,39.787092],
-  "geometry": {"coordinates":[-89.648119,39.787092],"type":"Point"}
+  "bbox": [
+    -89.648119,
+    39.787092,
+    -89.648119,
+    39.787092
+],
+  "geometry": {"coordinates":[-89.64811899999999,39.787092],"type":"Point"}
 }

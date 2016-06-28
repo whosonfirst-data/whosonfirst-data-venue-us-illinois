@@ -2,13 +2,14 @@
   "id": 219753977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.730882,41.95221,-87.730882,41.95221",
     "geom:latitude":41.95221,
     "geom:longitude":-87.730882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 N Kedvale Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219753977,
-    "wof:lastmodified":1449070808,
+    "wof:lastmodified":1466496004,
     "wof:name":"Emergency 24 Inc",
     "wof:parent_id":85865765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-87.730882,41.95221,-87.730882,41.95221],
-  "geometry": {"coordinates":[-87.730882,41.95221],"type":"Point"}
+  "bbox": [
+    -87.730882,
+    41.95221,
+    -87.730882,
+    41.95221
+],
+  "geometry": {"coordinates":[-87.73088199999999,41.95221],"type":"Point"}
 }

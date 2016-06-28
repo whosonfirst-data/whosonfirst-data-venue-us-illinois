@@ -2,13 +2,14 @@
   "id": 270500659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.840984,41.095557,-90.840984,41.095557",
     "geom:latitude":41.095557,
     "geom:longitude":-90.840984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 17th Ave",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270500659,
-    "wof:lastmodified":1449009226,
+    "wof:lastmodified":1466496289,
     "wof:name":"Viola Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.840984,41.095557,-90.840984,41.095557],
-  "geometry": {"coordinates":[-90.840984,41.095557],"type":"Point"}
+  "bbox": [
+    -90.840984,
+    41.095557,
+    -90.840984,
+    41.095557
+],
+  "geometry": {"coordinates":[-90.84098400000001,41.095557],"type":"Point"}
 }

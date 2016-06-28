@@ -2,13 +2,14 @@
   "id": 220025559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.006904,41.798777,-88.006904,41.798777",
     "geom:latitude":41.798777,
     "geom:longitude":-88.006904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Washington St",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220025559,
-    "wof:lastmodified":1449074733,
+    "wof:lastmodified":1466489255,
     "wof:name":"American Car Connection",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publication"
     ]
 },
-  "bbox": [-88.006904,41.798777,-88.006904,41.798777],
-  "geometry": {"coordinates":[-88.006904,41.798777],"type":"Point"}
+  "bbox": [
+    -88.006904,
+    41.798777,
+    -88.006904,
+    41.798777
+],
+  "geometry": {"coordinates":[-88.00690400000001,41.798777],"type":"Point"}
 }

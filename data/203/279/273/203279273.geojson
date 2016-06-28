@@ -2,13 +2,14 @@
   "id": 203279273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.411411,39.487331,-88.411411,39.487331",
     "geom:latitude":39.487331,
     "geom:longitude":-88.411411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Westview Dr",
     "sg:city":"Mattoon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203279273,
-    "wof:lastmodified":1449025781,
+    "wof:lastmodified":1466490242,
     "wof:name":"Generic Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.411411,39.487331,-88.411411,39.487331],
+  "bbox": [
+    -88.411411,
+    39.487331,
+    -88.411411,
+    39.487331
+],
   "geometry": {"coordinates":[-88.411411,39.487331],"type":"Point"}
 }

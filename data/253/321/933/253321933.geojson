@@ -2,13 +2,14 @@
   "id": 253321933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.42988,41.090479,-88.42988,41.090479",
     "geom:latitude":41.090479,
     "geom:longitude":-88.42988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W South St",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253321933,
-    "wof:lastmodified":1449062888,
+    "wof:lastmodified":1466493034,
     "wof:name":"Country Mansion Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.42988,41.090479,-88.42988,41.090479],
+  "bbox": [
+    -88.42988,
+    41.090479,
+    -88.42988,
+    41.090479
+],
   "geometry": {"coordinates":[-88.42988,41.090479],"type":"Point"}
 }

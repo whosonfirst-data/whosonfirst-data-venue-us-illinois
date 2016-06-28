@@ -2,13 +2,14 @@
   "id": 186588785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.013433,41.524232,-88.013433,41.524232",
     "geom:latitude":41.524232,
     "geom:longitude":-88.013433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Montieth St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186588785,
-    "wof:lastmodified":1449052484,
+    "wof:lastmodified":1466489278,
     "wof:name":"Mr Joseph Ressler",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.013433,41.524232,-88.013433,41.524232],
-  "geometry": {"coordinates":[-88.013433,41.524232],"type":"Point"}
+  "bbox": [
+    -88.013433,
+    41.524232,
+    -88.013433,
+    41.524232
+],
+  "geometry": {"coordinates":[-88.01343300000001,41.524232],"type":"Point"}
 }

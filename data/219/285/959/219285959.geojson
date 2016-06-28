@@ -2,13 +2,14 @@
   "id": 219285959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.138013,42.266261,-89.138013,42.266261",
     "geom:latitude":42.266261,
     "geom:longitude":-89.138013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Liberty St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219285959,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466490525,
     "wof:name":"Greater New Jerusalem Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.138013,42.266261,-89.138013,42.266261],
+  "bbox": [
+    -89.138013,
+    42.266261,
+    -89.138013,
+    42.266261
+],
   "geometry": {"coordinates":[-89.138013,42.266261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203338551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.603824,41.809765,-87.603824,41.809765",
     "geom:latitude":41.809765,
     "geom:longitude":-87.603824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4657 S Drexel Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203338551,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466490893,
     "wof:name":"Chicago Connections",
     "wof:parent_id":85866941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.603824,41.809765,-87.603824,41.809765],
+  "bbox": [
+    -87.603824,
+    41.809765,
+    -87.603824,
+    41.809765
+],
   "geometry": {"coordinates":[-87.603824,41.809765],"type":"Point"}
 }

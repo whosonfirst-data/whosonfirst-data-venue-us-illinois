@@ -2,13 +2,14 @@
   "id": 270273633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.577501,41.437458,-90.577501,41.437458",
     "geom:latitude":41.437458,
     "geom:longitude":-90.577501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 7th St W",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270273633,
-    "wof:lastmodified":1449009908,
+    "wof:lastmodified":1466493184,
     "wof:name":"Health Alliance Med Plans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.577501,41.437458,-90.577501,41.437458],
+  "bbox": [
+    -90.577501,
+    41.437458,
+    -90.577501,
+    41.437458
+],
   "geometry": {"coordinates":[-90.577501,41.437458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287148299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970177,41.909886,-87.970177,41.909886",
     "geom:latitude":41.909886,
     "geom:longitude":-87.970177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 N Villa Ave",
     "sg:city":"Villa Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287148299,
-    "wof:lastmodified":1449001428,
+    "wof:lastmodified":1466492351,
     "wof:name":"Odium",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-87.970177,41.909886,-87.970177,41.909886],
-  "geometry": {"coordinates":[-87.970177,41.909886],"type":"Point"}
+  "bbox": [
+    -87.970177,
+    41.909886,
+    -87.970177,
+    41.909886
+],
+  "geometry": {"coordinates":[-87.97017700000001,41.909886],"type":"Point"}
 }

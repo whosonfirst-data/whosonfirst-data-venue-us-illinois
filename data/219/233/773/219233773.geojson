@@ -2,13 +2,14 @@
   "id": 219233773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.729375,40.98928,-88.729375,40.98928",
     "geom:latitude":40.98928,
     "geom:longitude":-88.729375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 6th St",
     "sg:city":"Cornell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219233773,
-    "wof:lastmodified":1449073985,
+    "wof:lastmodified":1466489907,
     "wof:name":"El Paso Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-88.729375,40.98928,-88.729375,40.98928],
+  "bbox": [
+    -88.729375,
+    40.98928,
+    -88.729375,
+    40.98928
+],
   "geometry": {"coordinates":[-88.729375,40.98928],"type":"Point"}
 }

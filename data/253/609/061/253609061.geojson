@@ -2,13 +2,14 @@
   "id": 253609061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.044583,40.552677,-90.044583,40.552677",
     "geom:latitude":40.552677,
     "geom:longitude":-90.044583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Ave D",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253609061,
-    "wof:lastmodified":1449063934,
+    "wof:lastmodified":1466496909,
     "wof:name":"Canton Park District",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-90.044583,40.552677,-90.044583,40.552677],
+  "bbox": [
+    -90.044583,
+    40.552677,
+    -90.044583,
+    40.552677
+],
   "geometry": {"coordinates":[-90.044583,40.552677],"type":"Point"}
 }

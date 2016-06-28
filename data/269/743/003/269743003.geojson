@@ -2,13 +2,14 @@
   "id": 269743003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055781,41.877454,-88.055781,41.877454",
     "geom:latitude":41.877454,
     "geom:longitude":-88.055781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Taylor Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269743003,
-    "wof:lastmodified":1449038950,
+    "wof:lastmodified":1466493115,
     "wof:name":"Paper Magnolias",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.055781,41.877454,-88.055781,41.877454],
+  "bbox": [
+    -88.055781,
+    41.877454,
+    -88.055781,
+    41.877454
+],
   "geometry": {"coordinates":[-88.055781,41.877454],"type":"Point"}
 }

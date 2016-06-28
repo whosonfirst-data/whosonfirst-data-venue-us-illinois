@@ -2,13 +2,14 @@
   "id": 286766777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.42765,41.68795,-88.42765,41.68795",
     "geom:latitude":41.68795,
     "geom:longitude":-88.42765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cannonball Trl",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286766777,
-    "wof:lastmodified":1449015122,
+    "wof:lastmodified":1466497108,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.42765,41.68795,-88.42765,41.68795],
+  "bbox": [
+    -88.42765,
+    41.68795,
+    -88.42765,
+    41.68795
+],
   "geometry": {"coordinates":[-88.42765,41.68795],"type":"Point"}
 }

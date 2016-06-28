@@ -2,13 +2,14 @@
   "id": 253275265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053549,41.726118,-88.053549,41.726118",
     "geom:latitude":41.726118,
     "geom:longitude":-88.053549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Dorchester Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253275265,
-    "wof:lastmodified":1449063773,
+    "wof:lastmodified":1466492350,
     "wof:name":"Schneider Heating and Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-88.053549,41.726118,-88.053549,41.726118],
+  "bbox": [
+    -88.053549,
+    41.726118,
+    -88.053549,
+    41.726118
+],
   "geometry": {"coordinates":[-88.053549,41.726118],"type":"Point"}
 }

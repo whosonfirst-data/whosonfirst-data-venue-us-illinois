@@ -2,13 +2,14 @@
   "id": 252963875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.02317,42.061614,-88.02317,42.061614",
     "geom:latitude":42.061614,
     "geom:longitude":-88.02317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Algonquin Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252963875,
-    "wof:lastmodified":1449005521,
+    "wof:lastmodified":1466492313,
     "wof:name":"Crossroads Of Commerce",
     "wof:parent_id":85867819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-88.02317,42.061614,-88.02317,42.061614],
-  "geometry": {"coordinates":[-88.02317,42.061614],"type":"Point"}
+  "bbox": [
+    -88.02317,
+    42.061614,
+    -88.02317,
+    42.061614
+],
+  "geometry": {"coordinates":[-88.02316999999999,42.061614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202445291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.32734,41.469586,-90.32734,41.469586",
     "geom:latitude":41.469586,
     "geom:longitude":-90.32734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Wilshire Dr",
     "sg:city":"Colona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202445291,
-    "wof:lastmodified":1449060445,
+    "wof:lastmodified":1466494137,
     "wof:name":"Rhodes Stone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.32734,41.469586,-90.32734,41.469586],
-  "geometry": {"coordinates":[-90.32734,41.469586],"type":"Point"}
+  "bbox": [
+    -90.32734,
+    41.469586,
+    -90.32734,
+    41.469586
+],
+  "geometry": {"coordinates":[-90.32734000000001,41.469586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185792755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.543585,39.86713,-89.543585,39.86713",
     "geom:latitude":39.86713,
     "geom:longitude":-89.543585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 W Raylots",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185792755,
-    "wof:lastmodified":1449006960,
+    "wof:lastmodified":1466488979,
     "wof:name":"Kevin Dodd Electric Serv",
     "wof:parent_id":85850947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-89.543585,39.86713,-89.543585,39.86713],
-  "geometry": {"coordinates":[-89.543585,39.86713],"type":"Point"}
+  "bbox": [
+    -89.543585,
+    39.86713,
+    -89.543585,
+    39.86713
+],
+  "geometry": {"coordinates":[-89.54358499999999,39.86713],"type":"Point"}
 }

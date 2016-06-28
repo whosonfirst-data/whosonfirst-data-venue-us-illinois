@@ -2,13 +2,14 @@
   "id": 220133443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111097,41.795306,-88.111097,41.795306",
     "geom:latitude":41.795306,
     "geom:longitude":-88.111097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Tangley Oaks Trl",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220133443,
-    "wof:lastmodified":1449074716,
+    "wof:lastmodified":1466490574,
     "wof:name":"Wentao Zhang",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-88.111097,41.795306,-88.111097,41.795306],
+  "bbox": [
+    -88.111097,
+    41.795306,
+    -88.111097,
+    41.795306
+],
   "geometry": {"coordinates":[-88.111097,41.795306],"type":"Point"}
 }

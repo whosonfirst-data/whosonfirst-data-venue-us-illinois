@@ -2,13 +2,14 @@
   "id": 286300889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.642267,41.881768,-87.642267,41.881768",
     "geom:latitude":41.881768,
     "geom:longitude":-87.642267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286300889,
-    "wof:lastmodified":1449016834,
+    "wof:lastmodified":1466490425,
     "wof:name":"Eltera",
     "wof:parent_id":85868439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "technology"
     ]
 },
-  "bbox": [-87.642267,41.881768,-87.642267,41.881768],
+  "bbox": [
+    -87.642267,
+    41.881768,
+    -87.642267,
+    41.881768
+],
   "geometry": {"coordinates":[-87.642267,41.881768],"type":"Point"}
 }

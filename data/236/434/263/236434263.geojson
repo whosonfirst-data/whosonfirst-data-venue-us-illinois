@@ -2,13 +2,14 @@
   "id": 236434263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.314867,41.731035,-88.314867,41.731035",
     "geom:latitude":41.731035,
     "geom:longitude":-88.314867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Sherman Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236434263,
-    "wof:lastmodified":1449002214,
+    "wof:lastmodified":1466494528,
     "wof:name":"Aurora 2 Four Square Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-88.314867,41.731035,-88.314867,41.731035],
-  "geometry": {"coordinates":[-88.314867,41.731035],"type":"Point"}
+  "bbox": [
+    -88.314867,
+    41.731035,
+    -88.314867,
+    41.731035
+],
+  "geometry": {"coordinates":[-88.31486700000001,41.731035],"type":"Point"}
 }

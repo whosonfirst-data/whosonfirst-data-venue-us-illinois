@@ -2,13 +2,14 @@
   "id": 303173499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132508,41.525044,-88.132508,41.525044",
     "geom:latitude":41.525044,
     "geom:longitude":-88.132508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Oneida St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303173499,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466492607,
     "wof:name":"Hand Therapy Division",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.132508,41.525044,-88.132508,41.525044],
+  "bbox": [
+    -88.132508,
+    41.525044,
+    -88.132508,
+    41.525044
+],
   "geometry": {"coordinates":[-88.132508,41.525044],"type":"Point"}
 }

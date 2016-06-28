@@ -2,13 +2,14 @@
   "id": 202716349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.659416,41.704845,-87.659416,41.704845",
     "geom:latitude":41.704845,
     "geom:longitude":-87.659416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W 104th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202716349,
-    "wof:lastmodified":1449060465,
+    "wof:lastmodified":1466490987,
     "wof:name":"Tried Stone Baptist Church",
     "wof:parent_id":85867523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.659416,41.704845,-87.659416,41.704845],
-  "geometry": {"coordinates":[-87.659416,41.704845],"type":"Point"}
+  "bbox": [
+    -87.659416,
+    41.704845,
+    -87.659416,
+    41.704845
+],
+  "geometry": {"coordinates":[-87.65941599999999,41.704845],"type":"Point"}
 }

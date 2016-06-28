@@ -2,13 +2,14 @@
   "id": 219700289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970228,41.509937,-87.970228,41.509937",
     "geom:latitude":41.509937,
     "geom:longitude":-87.970228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 W 2nd Ave",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219700289,
-    "wof:lastmodified":1449073612,
+    "wof:lastmodified":1466495544,
     "wof:name":"Franciscan Hall",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-87.970228,41.509937,-87.970228,41.509937],
-  "geometry": {"coordinates":[-87.970228,41.509937],"type":"Point"}
+  "bbox": [
+    -87.970228,
+    41.509937,
+    -87.970228,
+    41.509937
+],
+  "geometry": {"coordinates":[-87.97022800000001,41.509937],"type":"Point"}
 }

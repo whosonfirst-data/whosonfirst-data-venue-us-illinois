@@ -2,13 +2,14 @@
   "id": 220073241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.926775,40.657697,-88.926775,40.657697",
     "geom:latitude":40.657697,
     "geom:longitude":-88.926775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18277 Teepee Trl",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220073241,
-    "wof:lastmodified":1449074141,
+    "wof:lastmodified":1466489845,
     "wof:name":"The Village Peddler Antiques",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.926775,40.657697,-88.926775,40.657697],
-  "geometry": {"coordinates":[-88.926775,40.657697],"type":"Point"}
+  "bbox": [
+    -88.926775,
+    40.657697,
+    -88.926775,
+    40.657697
+],
+  "geometry": {"coordinates":[-88.92677500000001,40.657697],"type":"Point"}
 }

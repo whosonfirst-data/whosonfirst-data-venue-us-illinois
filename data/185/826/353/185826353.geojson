@@ -2,13 +2,14 @@
   "id": 185826353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.739326,40.084332,-89.739326,40.084332",
     "geom:latitude":40.084332,
     "geom:longitude":-89.739326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Washington St",
     "sg:city":"Greenview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185826353,
-    "wof:lastmodified":1449007759,
+    "wof:lastmodified":1466489194,
     "wof:name":"Petefish, Skiles & Co Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.739326,40.084332,-89.739326,40.084332],
-  "geometry": {"coordinates":[-89.739326,40.084332],"type":"Point"}
+  "bbox": [
+    -89.739326,
+    40.084332,
+    -89.739326,
+    40.084332
+],
+  "geometry": {"coordinates":[-89.73932600000001,40.084332],"type":"Point"}
 }

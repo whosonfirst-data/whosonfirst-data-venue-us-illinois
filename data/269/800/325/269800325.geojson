@@ -2,13 +2,14 @@
   "id": 269800325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.145547,41.310166,-88.145547,41.310166",
     "geom:latitude":41.310166,
     "geom:longitude":-88.145547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Kankakee St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269800325,
-    "wof:lastmodified":1449036337,
+    "wof:lastmodified":1466494023,
     "wof:name":"Booth Central Elementary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.145547,41.310166,-88.145547,41.310166],
-  "geometry": {"coordinates":[-88.145547,41.310166],"type":"Point"}
+  "bbox": [
+    -88.145547,
+    41.310166,
+    -88.145547,
+    41.310166
+],
+  "geometry": {"coordinates":[-88.14554699999999,41.310166],"type":"Point"}
 }

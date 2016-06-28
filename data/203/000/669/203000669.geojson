@@ -2,13 +2,14 @@
   "id": 203000669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577141,41.628722,-87.577141,41.628722",
     "geom:latitude":41.628722,
     "geom:longitude":-87.577141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Cornell Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203000669,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466492128,
     "wof:name":"4 Dog Lovers",
     "wof:parent_id":85805823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-87.577141,41.628722,-87.577141,41.628722],
+  "bbox": [
+    -87.577141,
+    41.628722,
+    -87.577141,
+    41.628722
+],
   "geometry": {"coordinates":[-87.577141,41.628722],"type":"Point"}
 }

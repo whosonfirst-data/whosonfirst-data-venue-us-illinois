@@ -2,13 +2,14 @@
   "id": 203032531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.136345,38.528979,-89.136345,38.528979",
     "geom:latitude":38.528979,
     "geom:longitude":-89.136345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Chestnut St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203032531,
-    "wof:lastmodified":1449025844,
+    "wof:lastmodified":1466493200,
     "wof:name":"Block Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-89.136345,38.528979,-89.136345,38.528979],
-  "geometry": {"coordinates":[-89.136345,38.528979],"type":"Point"}
+  "bbox": [
+    -89.136345,
+    38.528979,
+    -89.136345,
+    38.528979
+],
+  "geometry": {"coordinates":[-89.13634500000001,38.528979],"type":"Point"}
 }

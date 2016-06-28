@@ -2,13 +2,14 @@
   "id": 219755487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.145301,38.598618,-90.145301,38.598618",
     "geom:latitude":38.598618,
     "geom:longitude":-90.145301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Tudor Ave",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219755487,
-    "wof:lastmodified":1449071403,
+    "wof:lastmodified":1466496022,
     "wof:name":"Union Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.145301,38.598618,-90.145301,38.598618],
+  "bbox": [
+    -90.145301,
+    38.598618,
+    -90.145301,
+    38.598618
+],
   "geometry": {"coordinates":[-90.145301,38.598618],"type":"Point"}
 }

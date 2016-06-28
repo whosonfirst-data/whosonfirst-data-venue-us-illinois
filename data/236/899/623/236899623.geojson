@@ -2,13 +2,14 @@
   "id": 236899623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.577286,39.110344,-88.577286,39.110344",
     "geom:latitude":39.110344,
     "geom:longitude":-88.577286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11798 US Hwy 40",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236899623,
-    "wof:lastmodified":1449005053,
+    "wof:lastmodified":1466498195,
     "wof:name":"Effingham Sewer Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-88.577286,39.110344,-88.577286,39.110344],
+  "bbox": [
+    -88.577286,
+    39.110344,
+    -88.577286,
+    39.110344
+],
   "geometry": {"coordinates":[-88.577286,39.110344],"type":"Point"}
 }

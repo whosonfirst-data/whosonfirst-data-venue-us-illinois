@@ -2,13 +2,14 @@
   "id": 203391223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.052326,39.224514,-88.052326,39.224514",
     "geom:latitude":39.224514,
     "geom:longitude":-88.052326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Co Rd 350 N",
     "sg:city":"Casey",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203391223,
-    "wof:lastmodified":1449026185,
+    "wof:lastmodified":1466491478,
     "wof:name":"Huddlestun Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.052326,39.224514,-88.052326,39.224514],
-  "geometry": {"coordinates":[-88.052326,39.224514],"type":"Point"}
+  "bbox": [
+    -88.052326,
+    39.224514,
+    -88.052326,
+    39.224514
+],
+  "geometry": {"coordinates":[-88.05232599999999,39.224514],"type":"Point"}
 }

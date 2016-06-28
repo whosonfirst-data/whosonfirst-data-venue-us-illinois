@@ -2,13 +2,14 @@
   "id": 253100633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.128207,42.156304,-88.128207,42.156304",
     "geom:latitude":42.156304,
     "geom:longitude":-88.128207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Northwest Hwy",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253100633,
-    "wof:lastmodified":1449065017,
+    "wof:lastmodified":1466490235,
     "wof:name":"Clark Gas Station",
     "wof:parent_id":85867885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-88.128207,42.156304,-88.128207,42.156304],
+  "bbox": [
+    -88.128207,
+    42.156304,
+    -88.128207,
+    42.156304
+],
   "geometry": {"coordinates":[-88.128207,42.156304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269500147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983331,38.622736,-89.983331,38.622736",
     "geom:latitude":38.622736,
     "geom:longitude":-89.983331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Donald Bailey Dr",
     "sg:city":"Caseyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269500147,
-    "wof:lastmodified":1449036755,
+    "wof:lastmodified":1466489245,
     "wof:name":"Steamfitters Local 439",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.983331,38.622736,-89.983331,38.622736],
-  "geometry": {"coordinates":[-89.983331,38.622736],"type":"Point"}
+  "bbox": [
+    -89.983331,
+    38.622736,
+    -89.983331,
+    38.622736
+],
+  "geometry": {"coordinates":[-89.98333100000001,38.622736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220060957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.676137,40.462509,-90.676137,40.462509",
     "geom:latitude":40.462509,
     "geom:longitude":-90.676137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W Adams St",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220060957,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466489694,
     "wof:name":"The Phoenix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.676137,40.462509,-90.676137,40.462509],
+  "bbox": [
+    -90.676137,
+    40.462509,
+    -90.676137,
+    40.462509
+],
   "geometry": {"coordinates":[-90.676137,40.462509],"type":"Point"}
 }

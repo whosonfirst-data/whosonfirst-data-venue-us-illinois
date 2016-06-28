@@ -2,13 +2,14 @@
   "id": 236080123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.933016,37.902141,-88.933016,37.902141",
     "geom:latitude":37.902141,
     "geom:longitude":-88.933016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 4th St",
     "sg:city":"West Frankfort",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236080123,
-    "wof:lastmodified":1449005136,
+    "wof:lastmodified":1466489937,
     "wof:name":"Alicia's Beauty Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.933016,37.902141,-88.933016,37.902141],
-  "geometry": {"coordinates":[-88.933016,37.902141],"type":"Point"}
+  "bbox": [
+    -88.933016,
+    37.902141,
+    -88.933016,
+    37.902141
+],
+  "geometry": {"coordinates":[-88.93301599999999,37.902141],"type":"Point"}
 }

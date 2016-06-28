@@ -2,13 +2,14 @@
   "id": 303063059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066607,41.874962,-88.066607,41.874962",
     "geom:latitude":41.874962,
     "geom:longitude":-88.066607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 N Main St",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303063059,
-    "wof:lastmodified":1448998331,
+    "wof:lastmodified":1466490829,
     "wof:name":"Florian & Co",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-88.066607,41.874962,-88.066607,41.874962],
+  "bbox": [
+    -88.066607,
+    41.874962,
+    -88.066607,
+    41.874962
+],
   "geometry": {"coordinates":[-88.066607,41.874962],"type":"Point"}
 }

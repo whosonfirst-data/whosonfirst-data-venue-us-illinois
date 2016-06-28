@@ -2,13 +2,14 @@
   "id": 236974487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.655391,41.992638,-87.655391,41.992638",
     "geom:latitude":41.992638,
     "geom:longitude":-87.655391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6145 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236974487,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466498495,
     "wof:name":"Amerestate Home Inspections",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-87.655391,41.992638,-87.655391,41.992638],
-  "geometry": {"coordinates":[-87.655391,41.992638],"type":"Point"}
+  "bbox": [
+    -87.655391,
+    41.992638,
+    -87.655391,
+    41.992638
+],
+  "geometry": {"coordinates":[-87.65539099999999,41.992638],"type":"Point"}
 }

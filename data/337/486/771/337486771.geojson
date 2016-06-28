@@ -2,13 +2,14 @@
   "id": 337486771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.723944,41.905181,-87.723944,41.905181",
     "geom:latitude":41.905181,
     "geom:longitude":-87.723944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3834 W Grand Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337486771,
-    "wof:lastmodified":1449027402,
+    "wof:lastmodified":1466492460,
     "wof:name":"Grand Wholesale",
     "wof:parent_id":85867721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-87.723944,41.905181,-87.723944,41.905181],
+  "bbox": [
+    -87.723944,
+    41.905181,
+    -87.723944,
+    41.905181
+],
   "geometry": {"coordinates":[-87.723944,41.905181],"type":"Point"}
 }

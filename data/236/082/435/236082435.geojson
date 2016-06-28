@@ -2,13 +2,14 @@
   "id": 236082435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149012,41.464456,-88.149012,41.464456",
     "geom:latitude":41.464456,
     "geom:longitude":-88.149012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21451 W Schweitzer Rd",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236082435,
-    "wof:lastmodified":1449001744,
+    "wof:lastmodified":1466489965,
     "wof:name":"Guardian Pipeline",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-88.149012,41.464456,-88.149012,41.464456],
+  "bbox": [
+    -88.149012,
+    41.464456,
+    -88.149012,
+    41.464456
+],
   "geometry": {"coordinates":[-88.149012,41.464456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202390563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.634195,40.135279,-87.634195,40.135279",
     "geom:latitude":40.135279,
     "geom:longitude":-87.634195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Oak St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202390563,
-    "wof:lastmodified":1449062677,
+    "wof:lastmodified":1466492064,
     "wof:name":"Danville Auto Parts Inc",
     "wof:parent_id":85867935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-87.634195,40.135279,-87.634195,40.135279],
-  "geometry": {"coordinates":[-87.634195,40.135279],"type":"Point"}
+  "bbox": [
+    -87.634195,
+    40.135279,
+    -87.634195,
+    40.135279
+],
+  "geometry": {"coordinates":[-87.63419500000001,40.135279],"type":"Point"}
 }

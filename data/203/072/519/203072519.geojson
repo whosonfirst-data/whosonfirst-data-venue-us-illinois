@@ -2,13 +2,14 @@
   "id": 203072519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.282313,41.885571,-88.282313,41.885571",
     "geom:latitude":41.885571,
     "geom:longitude":-88.282313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Commerce Dr",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203072519,
-    "wof:lastmodified":1449025947,
+    "wof:lastmodified":1466494205,
     "wof:name":"William Horn Structural Steel",
     "wof:parent_id":85890903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-88.282313,41.885571,-88.282313,41.885571],
+  "bbox": [
+    -88.282313,
+    41.885571,
+    -88.282313,
+    41.885571
+],
   "geometry": {"coordinates":[-88.282313,41.885571],"type":"Point"}
 }

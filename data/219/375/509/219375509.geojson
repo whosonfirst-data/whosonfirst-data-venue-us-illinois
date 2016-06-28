@@ -2,13 +2,14 @@
   "id": 219375509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.543044,42.234275,-88.543044,42.234275",
     "geom:latitude":42.234275,
     "geom:longitude":-88.543044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Main St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219375509,
-    "wof:lastmodified":1449070494,
+    "wof:lastmodified":1466491610,
     "wof:name":"Tim's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.543044,42.234275,-88.543044,42.234275],
-  "geometry": {"coordinates":[-88.543044,42.234275],"type":"Point"}
+  "bbox": [
+    -88.543044,
+    42.234275,
+    -88.543044,
+    42.234275
+],
+  "geometry": {"coordinates":[-88.54304399999999,42.234275],"type":"Point"}
 }

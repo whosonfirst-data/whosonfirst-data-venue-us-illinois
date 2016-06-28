@@ -2,13 +2,14 @@
   "id": 219860331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.998016,42.272178,-88.998016,42.272178",
     "geom:latitude":42.272178,
     "geom:longitude":-88.998016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6090 Strathmoor Dr",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219860331,
-    "wof:lastmodified":1449071967,
+    "wof:lastmodified":1466497056,
     "wof:name":"Pandya",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.998016,42.272178,-88.998016,42.272178],
-  "geometry": {"coordinates":[-88.998016,42.272178],"type":"Point"}
+  "bbox": [
+    -88.998016,
+    42.272178,
+    -88.998016,
+    42.272178
+],
+  "geometry": {"coordinates":[-88.99801600000001,42.272178],"type":"Point"}
 }

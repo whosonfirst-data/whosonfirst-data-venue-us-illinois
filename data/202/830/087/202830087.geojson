@@ -2,13 +2,14 @@
   "id": 202830087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.021402,41.818737,-88.021402,41.818737",
     "geom:latitude":41.818737,
     "geom:longitude":-88.021402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Golden Bell Ct",
     "sg:city":"Downers Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202830087,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466492323,
     "wof:name":"Opening Solutions",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-88.021402,41.818737,-88.021402,41.818737],
-  "geometry": {"coordinates":[-88.021402,41.818737],"type":"Point"}
+  "bbox": [
+    -88.021402,
+    41.818737,
+    -88.021402,
+    41.818737
+],
+  "geometry": {"coordinates":[-88.02140199999999,41.818737],"type":"Point"}
 }

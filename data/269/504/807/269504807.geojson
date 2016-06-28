@@ -2,13 +2,14 @@
   "id": 269504807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.47746,41.812366,-89.47746,41.812366",
     "geom:latitude":41.812366,
     "geom:longitude":-89.47746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 W Progress Dr",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269504807,
-    "wof:lastmodified":1449036551,
+    "wof:lastmodified":1466489316,
     "wof:name":"HWI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.47746,41.812366,-89.47746,41.812366],
-  "geometry": {"coordinates":[-89.47746,41.812366],"type":"Point"}
+  "bbox": [
+    -89.47746,
+    41.812366,
+    -89.47746,
+    41.812366
+],
+  "geometry": {"coordinates":[-89.47745999999999,41.812366],"type":"Point"}
 }

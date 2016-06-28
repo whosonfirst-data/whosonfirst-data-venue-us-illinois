@@ -2,13 +2,14 @@
   "id": 286428075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.117049,38.635326,-90.117049,38.635326",
     "geom:latitude":38.635326,
     "geom:longitude":-90.117049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Waverly Ave",
     "sg:city":"East St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286428075,
-    "wof:lastmodified":1449017891,
+    "wof:lastmodified":1466492393,
     "wof:name":"Lansdowne Towers",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.117049,38.635326,-90.117049,38.635326],
-  "geometry": {"coordinates":[-90.117049,38.635326],"type":"Point"}
+  "bbox": [
+    -90.117049,
+    38.635326,
+    -90.117049,
+    38.635326
+],
+  "geometry": {"coordinates":[-90.11704899999999,38.635326],"type":"Point"}
 }

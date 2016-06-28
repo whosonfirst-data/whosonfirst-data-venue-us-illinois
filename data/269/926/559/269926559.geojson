@@ -2,13 +2,14 @@
   "id": 269926559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309548,39.684495,-88.309548,39.684495",
     "geom:latitude":39.684495,
     "geom:longitude":-88.309548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269926559,
-    "wof:lastmodified":1449036977,
+    "wof:lastmodified":1466496074,
     "wof:name":"Arcola Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-88.309548,39.684495,-88.309548,39.684495],
-  "geometry": {"coordinates":[-88.309548,39.684495],"type":"Point"}
+  "bbox": [
+    -88.309548,
+    39.684495,
+    -88.309548,
+    39.684495
+],
+  "geometry": {"coordinates":[-88.30954800000001,39.684495],"type":"Point"}
 }

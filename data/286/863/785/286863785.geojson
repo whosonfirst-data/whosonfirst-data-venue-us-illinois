@@ -2,13 +2,14 @@
   "id": 286863785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.662976,41.580778,-87.662976,41.580778",
     "geom:latitude":41.580778,
     "geom:longitude":-87.662976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 170th St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286863785,
-    "wof:lastmodified":1449017217,
+    "wof:lastmodified":1466497712,
     "wof:name":"CFIC Home Mortgage",
     "wof:parent_id":85867709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-87.662976,41.580778,-87.662976,41.580778],
+  "bbox": [
+    -87.662976,
+    41.580778,
+    -87.662976,
+    41.580778
+],
   "geometry": {"coordinates":[-87.662976,41.580778],"type":"Point"}
 }

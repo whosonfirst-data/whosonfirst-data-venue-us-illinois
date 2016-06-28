@@ -2,13 +2,14 @@
   "id": 219795897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.83007,41.875361,-87.83007,41.875361",
     "geom:latitude":41.875361,
     "geom:longitude":-87.83007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Maybrook Dr",
     "sg:city":"Maywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219795897,
-    "wof:lastmodified":1449072476,
+    "wof:lastmodified":1466496342,
     "wof:name":"State Attrney- 4th Mnicpl Dist",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-87.83007,41.875361,-87.83007,41.875361],
-  "geometry": {"coordinates":[-87.83007,41.875361],"type":"Point"}
+  "bbox": [
+    -87.83007,
+    41.875361,
+    -87.83007,
+    41.875361
+],
+  "geometry": {"coordinates":[-87.83007000000001,41.875361],"type":"Point"}
 }

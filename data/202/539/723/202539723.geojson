@@ -2,13 +2,14 @@
   "id": 202539723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.970019,42.053762,-87.970019,42.053762",
     "geom:latitude":42.053762,
     "geom:longitude":-87.970019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 S Meier Rd",
     "sg:city":"Mount Prospect",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202539723,
-    "wof:lastmodified":1449062713,
+    "wof:lastmodified":1466488945,
     "wof:name":"Gotham Real Estate Ltd Partnr",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.970019,42.053762,-87.970019,42.053762],
-  "geometry": {"coordinates":[-87.970019,42.053762],"type":"Point"}
+  "bbox": [
+    -87.970019,
+    42.053762,
+    -87.970019,
+    42.053762
+],
+  "geometry": {"coordinates":[-87.97001899999999,42.053762],"type":"Point"}
 }

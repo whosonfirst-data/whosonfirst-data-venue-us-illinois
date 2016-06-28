@@ -2,13 +2,14 @@
   "id": 253748299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.840724,41.970841,-87.840724,41.970841",
     "geom:latitude":41.970841,
     "geom:longitude":-87.840724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 W Winnemac Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":253748299,
-    "wof:lastmodified":1449065033,
+    "wof:lastmodified":1466497999,
     "wof:name":"Embassy Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-87.840724,41.970841,-87.840724,41.970841],
-  "geometry": {"coordinates":[-87.840724,41.970841],"type":"Point"}
+  "bbox": [
+    -87.840724,
+    41.970841,
+    -87.840724,
+    41.970841
+],
+  "geometry": {"coordinates":[-87.84072399999999,41.970841],"type":"Point"}
 }

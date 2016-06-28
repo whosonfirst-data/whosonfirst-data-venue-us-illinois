@@ -2,13 +2,14 @@
   "id": 253308549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.313904,41.761193,-88.313904,41.761193",
     "geom:latitude":41.761193,
     "geom:longitude":-88.313904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cedar St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":253308549,
-    "wof:lastmodified":1449065871,
+    "wof:lastmodified":1466492848,
     "wof:name":"Cloe The Clown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-88.313904,41.761193,-88.313904,41.761193],
-  "geometry": {"coordinates":[-88.313904,41.761193],"type":"Point"}
+  "bbox": [
+    -88.313904,
+    41.761193,
+    -88.313904,
+    41.761193
+],
+  "geometry": {"coordinates":[-88.31390399999999,41.761193],"type":"Point"}
 }

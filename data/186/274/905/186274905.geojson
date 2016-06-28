@@ -2,13 +2,14 @@
   "id": 186274905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.20499,38.607504,-90.20499,38.607504",
     "geom:latitude":38.607504,
     "geom:longitude":-90.20499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S 9th St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186274905,
-    "wof:lastmodified":1449050593,
+    "wof:lastmodified":1466495488,
     "wof:name":"The Smile Lofts",
     "wof:parent_id":85867037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.20499,38.607504,-90.20499,38.607504],
+  "bbox": [
+    -90.20499,
+    38.607504,
+    -90.20499,
+    38.607504
+],
   "geometry": {"coordinates":[-90.20499,38.607504],"type":"Point"}
 }

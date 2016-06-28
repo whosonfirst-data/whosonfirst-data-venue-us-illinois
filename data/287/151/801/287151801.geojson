@@ -2,13 +2,14 @@
   "id": 287151801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.365635,40.145756,-89.365635,40.145756",
     "geom:latitude":40.145756,
     "geom:longitude":-89.365635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Chicago St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287151801,
-    "wof:lastmodified":1449000672,
+    "wof:lastmodified":1466492414,
     "wof:name":"Whit's Lawn Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-89.365635,40.145756,-89.365635,40.145756],
+  "bbox": [
+    -89.365635,
+    40.145756,
+    -89.365635,
+    40.145756
+],
   "geometry": {"coordinates":[-89.365635,40.145756],"type":"Point"}
 }

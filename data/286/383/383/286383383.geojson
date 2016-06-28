@@ -2,13 +2,14 @@
   "id": 286383383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.136203,38.511649,-89.136203,38.511649",
     "geom:latitude":38.511649,
     "geom:longitude":-89.136203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 S Poplar St",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286383383,
-    "wof:lastmodified":1449016423,
+    "wof:lastmodified":1466491669,
     "wof:name":"Hardy Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.136203,38.511649,-89.136203,38.511649],
-  "geometry": {"coordinates":[-89.136203,38.511649],"type":"Point"}
+  "bbox": [
+    -89.136203,
+    38.511649,
+    -89.136203,
+    38.511649
+],
+  "geometry": {"coordinates":[-89.13620299999999,38.511649],"type":"Point"}
 }

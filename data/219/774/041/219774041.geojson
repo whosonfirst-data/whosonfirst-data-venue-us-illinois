@@ -2,13 +2,14 @@
   "id": 219774041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.134665,41.526419,-88.134665,41.526419",
     "geom:latitude":41.526419,
     "geom:longitude":-88.134665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Madison St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219774041,
-    "wof:lastmodified":1449071760,
+    "wof:lastmodified":1466496190,
     "wof:name":"Emergency Services",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-88.134665,41.526419,-88.134665,41.526419],
+  "bbox": [
+    -88.134665,
+    41.526419,
+    -88.134665,
+    41.526419
+],
   "geometry": {"coordinates":[-88.134665,41.526419],"type":"Point"}
 }

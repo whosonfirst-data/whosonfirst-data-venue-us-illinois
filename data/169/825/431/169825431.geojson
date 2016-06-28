@@ -2,13 +2,14 @@
   "id": 169825431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.020508,38.497231,-90.020508,38.497231",
     "geom:latitude":38.497231,
     "geom:longitude":-90.020508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 Centreville Ave",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169825431,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466494830,
     "wof:name":"St Louis Composting Inc",
     "wof:parent_id":85821191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "topsoil"
     ]
 },
-  "bbox": [-90.020508,38.497231,-90.020508,38.497231],
-  "geometry": {"coordinates":[-90.020508,38.497231],"type":"Point"}
+  "bbox": [
+    -90.020508,
+    38.497231,
+    -90.020508,
+    38.497231
+],
+  "geometry": {"coordinates":[-90.02050800000001,38.497231],"type":"Point"}
 }

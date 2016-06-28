@@ -2,13 +2,14 @@
   "id": 219326961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.625458,40.087167,-87.625458,40.087167",
     "geom:latitude":40.087167,
     "geom:longitude":-87.625458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Ross Ln",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219326961,
-    "wof:lastmodified":1449071889,
+    "wof:lastmodified":1466491043,
     "wof:name":"Spring Burke Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.625458,40.087167,-87.625458,40.087167],
-  "geometry": {"coordinates":[-87.625458,40.087167],"type":"Point"}
+  "bbox": [
+    -87.625458,
+    40.087167,
+    -87.625458,
+    40.087167
+],
+  "geometry": {"coordinates":[-87.62545799999999,40.087167],"type":"Point"}
 }

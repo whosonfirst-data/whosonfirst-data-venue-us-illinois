@@ -2,13 +2,14 @@
   "id": 253122303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.305771,37.560841,-89.305771,37.560841",
     "geom:latitude":37.560841,
     "geom:longitude":-89.305771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Skyline Dr",
     "sg:city":"Alto Pass",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253122303,
-    "wof:lastmodified":1449064499,
+    "wof:lastmodified":1466490499,
     "wof:name":"Wild Threads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.305771,37.560841,-89.305771,37.560841],
-  "geometry": {"coordinates":[-89.305771,37.560841],"type":"Point"}
+  "bbox": [
+    -89.305771,
+    37.560841,
+    -89.305771,
+    37.560841
+],
+  "geometry": {"coordinates":[-89.30577099999999,37.560841],"type":"Point"}
 }

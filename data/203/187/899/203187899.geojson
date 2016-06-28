@@ -2,13 +2,14 @@
   "id": 203187899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.784636,39.004418,-89.784636,39.004418",
     "geom:latitude":39.004418,
     "geom:longitude":-89.784636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Union St",
     "sg:city":"Staunton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203187899,
-    "wof:lastmodified":1449025221,
+    "wof:lastmodified":1466489212,
     "wof:name":"S & K Storage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-89.784636,39.004418,-89.784636,39.004418],
-  "geometry": {"coordinates":[-89.784636,39.004418],"type":"Point"}
+  "bbox": [
+    -89.784636,
+    39.004418,
+    -89.784636,
+    39.004418
+],
+  "geometry": {"coordinates":[-89.78463600000001,39.004418],"type":"Point"}
 }

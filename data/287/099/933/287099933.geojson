@@ -2,13 +2,14 @@
   "id": 287099933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.203376,40.1193,-88.203376,40.1193",
     "geom:latitude":40.1193,
     "geom:longitude":-88.203376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 N Cunningham Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287099933,
-    "wof:lastmodified":1449001262,
+    "wof:lastmodified":1466491560,
     "wof:name":"Alliance Automotive",
     "wof:parent_id":85803943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-88.203376,40.1193,-88.203376,40.1193],
-  "geometry": {"coordinates":[-88.203376,40.1193],"type":"Point"}
+  "bbox": [
+    -88.203376,
+    40.1193,
+    -88.203376,
+    40.1193
+],
+  "geometry": {"coordinates":[-88.20337600000001,40.1193],"type":"Point"}
 }

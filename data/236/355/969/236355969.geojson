@@ -2,13 +2,14 @@
   "id": 236355969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.431959,40.358259,-91.431959,40.358259",
     "geom:latitude":40.358259,
     "geom:longitude":-91.431959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Main St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236355969,
-    "wof:lastmodified":1449002387,
+    "wof:lastmodified":1466493477,
     "wof:name":"Lutheran Concordian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-91.431959,40.358259,-91.431959,40.358259],
-  "geometry": {"coordinates":[-91.431959,40.358259],"type":"Point"}
+  "bbox": [
+    -91.431959,
+    40.358259,
+    -91.431959,
+    40.358259
+],
+  "geometry": {"coordinates":[-91.43195900000001,40.358259],"type":"Point"}
 }

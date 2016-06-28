@@ -2,13 +2,14 @@
   "id": 287080409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.413937,38.892107,-89.413937,38.892107",
     "geom:latitude":38.892107,
     "geom:longitude":-89.413937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Main St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287080409,
-    "wof:lastmodified":1449001570,
+    "wof:lastmodified":1466491247,
     "wof:name":"WGEL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.413937,38.892107,-89.413937,38.892107],
+  "bbox": [
+    -89.413937,
+    38.892107,
+    -89.413937,
+    38.892107
+],
   "geometry": {"coordinates":[-89.413937,38.892107],"type":"Point"}
 }

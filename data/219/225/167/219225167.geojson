@@ -2,13 +2,14 @@
   "id": 219225167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.246214,41.76076,-88.246214,41.76076",
     "geom:latitude":41.76076,
     "geom:longitude":-88.246214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Saratoga Dr",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219225167,
-    "wof:lastmodified":1449071493,
+    "wof:lastmodified":1466489805,
     "wof:name":"M B Services",
     "wof:parent_id":85876053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.246214,41.76076,-88.246214,41.76076],
-  "geometry": {"coordinates":[-88.246214,41.76076],"type":"Point"}
+  "bbox": [
+    -88.246214,
+    41.76076,
+    -88.246214,
+    41.76076
+],
+  "geometry": {"coordinates":[-88.24621399999999,41.76076],"type":"Point"}
 }

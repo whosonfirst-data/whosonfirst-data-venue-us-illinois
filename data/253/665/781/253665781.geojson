@@ -2,13 +2,14 @@
   "id": 253665781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960192,42.157857,-87.960192,42.157857",
     "geom:latitude":42.157857,
     "geom:longitude":-87.960192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 McHenry Rd",
     "sg:city":"Buffalo Grove",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253665781,
-    "wof:lastmodified":1449063719,
+    "wof:lastmodified":1466497363,
     "wof:name":"El Famous Burrito",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.960192,42.157857,-87.960192,42.157857],
-  "geometry": {"coordinates":[-87.960192,42.157857],"type":"Point"}
+  "bbox": [
+    -87.960192,
+    42.157857,
+    -87.960192,
+    42.157857
+],
+  "geometry": {"coordinates":[-87.96019200000001,42.157857],"type":"Point"}
 }

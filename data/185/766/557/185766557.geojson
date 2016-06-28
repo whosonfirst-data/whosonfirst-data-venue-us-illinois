@@ -2,13 +2,14 @@
   "id": 185766557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.963971,39.824188,-88.963971,39.824188",
     "geom:latitude":39.824188,
     "geom:longitude":-88.963971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 S Monroe Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":185766557,
-    "wof:lastmodified":1449006579,
+    "wof:lastmodified":1466495410,
     "wof:name":"Parks Sewer Service",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "sewer"
     ]
 },
-  "bbox": [-88.963971,39.824188,-88.963971,39.824188],
+  "bbox": [
+    -88.963971,
+    39.824188,
+    -88.963971,
+    39.824188
+],
   "geometry": {"coordinates":[-88.963971,39.824188],"type":"Point"}
 }

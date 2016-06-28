@@ -2,13 +2,14 @@
   "id": 252736777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.944656,38.504878,-89.944656,38.504878",
     "geom:latitude":38.504878,
     "geom:longitude":-89.944656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Premier Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252736777,
-    "wof:lastmodified":1449006488,
+    "wof:lastmodified":1466489367,
     "wof:name":"Global Worldwide Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.944656,38.504878,-89.944656,38.504878],
-  "geometry": {"coordinates":[-89.944656,38.504878],"type":"Point"}
+  "bbox": [
+    -89.944656,
+    38.504878,
+    -89.944656,
+    38.504878
+],
+  "geometry": {"coordinates":[-89.94465599999999,38.504878],"type":"Point"}
 }

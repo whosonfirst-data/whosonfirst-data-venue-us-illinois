@@ -2,13 +2,14 @@
   "id": 202705639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.058785,41.586417,-88.058785,41.586417",
     "geom:latitude":41.586417,
     "geom:longitude":-88.058785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 S State St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202705639,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466490866,
     "wof:name":"City Sub",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-88.058785,41.586417,-88.058785,41.586417],
+  "bbox": [
+    -88.058785,
+    41.586417,
+    -88.058785,
+    41.586417
+],
   "geometry": {"coordinates":[-88.058785,41.586417],"type":"Point"}
 }

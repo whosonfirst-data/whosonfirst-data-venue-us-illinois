@@ -2,13 +2,14 @@
   "id": 202494013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725681,41.997177,-87.725681,41.997177",
     "geom:latitude":41.997177,
     "geom:longitude":-87.725681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3849 W Devon Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202494013,
-    "wof:lastmodified":1449062372,
+    "wof:lastmodified":1466495762,
     "wof:name":"M Barone Realty",
     "wof:parent_id":85865777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agency"
     ]
 },
-  "bbox": [-87.725681,41.997177,-87.725681,41.997177],
-  "geometry": {"coordinates":[-87.725681,41.997177],"type":"Point"}
+  "bbox": [
+    -87.725681,
+    41.997177,
+    -87.725681,
+    41.997177
+],
+  "geometry": {"coordinates":[-87.72568099999999,41.997177],"type":"Point"}
 }

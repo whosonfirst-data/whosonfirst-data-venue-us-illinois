@@ -2,13 +2,14 @@
   "id": 253013783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.785341,41.88003,-87.785341,41.88003",
     "geom:latitude":41.88003,
     "geom:longitude":-87.785341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Madison St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253013783,
-    "wof:lastmodified":1449064844,
+    "wof:lastmodified":1466489165,
     "wof:name":"Greater Investments Mortgage",
     "wof:parent_id":85890871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-87.785341,41.88003,-87.785341,41.88003],
+  "bbox": [
+    -87.785341,
+    41.88003,
+    -87.785341,
+    41.88003
+],
   "geometry": {"coordinates":[-87.785341,41.88003],"type":"Point"}
 }

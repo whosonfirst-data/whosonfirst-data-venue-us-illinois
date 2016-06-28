@@ -2,13 +2,14 @@
   "id": 270192513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.751595,41.984907,-87.751595,41.984907",
     "geom:latitude":41.984907,
     "geom:longitude":-87.751595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5728 N Lansing Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270192513,
-    "wof:lastmodified":1449010383,
+    "wof:lastmodified":1466491910,
     "wof:name":"Phillip Mathew",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.751595,41.984907,-87.751595,41.984907],
-  "geometry": {"coordinates":[-87.751595,41.984907],"type":"Point"}
+  "bbox": [
+    -87.751595,
+    41.984907,
+    -87.751595,
+    41.984907
+],
+  "geometry": {"coordinates":[-87.75159499999999,41.984907],"type":"Point"}
 }

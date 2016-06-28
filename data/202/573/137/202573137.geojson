@@ -2,13 +2,14 @@
   "id": 202573137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.218854,37.696484,-89.218854,37.696484",
     "geom:latitude":37.696484,
     "geom:longitude":-89.218854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S Illinois Ave",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202573137,
-    "wof:lastmodified":1449061975,
+    "wof:lastmodified":1466489357,
     "wof:name":"Veach Shortstop 8",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.218854,37.696484,-89.218854,37.696484],
-  "geometry": {"coordinates":[-89.218854,37.696484],"type":"Point"}
+  "bbox": [
+    -89.218854,
+    37.696484,
+    -89.218854,
+    37.696484
+],
+  "geometry": {"coordinates":[-89.21885399999999,37.696484],"type":"Point"}
 }

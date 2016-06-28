@@ -2,13 +2,14 @@
   "id": 236505819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.564648,41.622695,-87.564648,41.622695",
     "geom:latitude":41.622695,
     "geom:longitude":-87.564648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Sibley Blvd",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236505819,
-    "wof:lastmodified":1449004597,
+    "wof:lastmodified":1466495447,
     "wof:name":"Boz's Hot Dogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.564648,41.622695,-87.564648,41.622695],
-  "geometry": {"coordinates":[-87.564648,41.622695],"type":"Point"}
+  "bbox": [
+    -87.564648,
+    41.622695,
+    -87.564648,
+    41.622695
+],
+  "geometry": {"coordinates":[-87.56464800000001,41.622695],"type":"Point"}
 }

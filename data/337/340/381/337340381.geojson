@@ -2,13 +2,14 @@
   "id": 337340381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.167497,36.999727,-89.167497,36.999727",
     "geom:latitude":36.999727,
     "geom:longitude":-89.167497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Washington Ave",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337340381,
-    "wof:lastmodified":1449027564,
+    "wof:lastmodified":1466491732,
     "wof:name":"Cairo Evening Citizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-89.167497,36.999727,-89.167497,36.999727],
+  "bbox": [
+    -89.167497,
+    36.999727,
+    -89.167497,
+    36.999727
+],
   "geometry": {"coordinates":[-89.167497,36.999727],"type":"Point"}
 }

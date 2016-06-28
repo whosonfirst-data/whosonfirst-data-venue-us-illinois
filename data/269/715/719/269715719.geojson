@@ -2,13 +2,14 @@
   "id": 269715719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.415596,41.51223,-90.415596,41.51223",
     "geom:latitude":41.51223,
     "geom:longitude":-90.415596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 1st Ave",
     "sg:city":"Silvis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269715719,
-    "wof:lastmodified":1449038348,
+    "wof:lastmodified":1466492668,
     "wof:name":"Rikat Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-90.415596,41.51223,-90.415596,41.51223],
-  "geometry": {"coordinates":[-90.415596,41.51223],"type":"Point"}
+  "bbox": [
+    -90.415596,
+    41.51223,
+    -90.415596,
+    41.51223
+],
+  "geometry": {"coordinates":[-90.41559599999999,41.51223],"type":"Point"}
 }

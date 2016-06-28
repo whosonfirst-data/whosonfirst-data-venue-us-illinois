@@ -2,13 +2,14 @@
   "id": 236767209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.603968,40.306568,-89.603968,40.306568",
     "geom:latitude":40.306568,
     "geom:longitude":-89.603968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Walnut St",
     "sg:city":"San Jose",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236767209,
-    "wof:lastmodified":1449002414,
+    "wof:lastmodified":1466497573,
     "wof:name":"Christopher Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automated"
     ]
 },
-  "bbox": [-89.603968,40.306568,-89.603968,40.306568],
-  "geometry": {"coordinates":[-89.603968,40.306568],"type":"Point"}
+  "bbox": [
+    -89.603968,
+    40.306568,
+    -89.603968,
+    40.306568
+],
+  "geometry": {"coordinates":[-89.60396799999999,40.306568],"type":"Point"}
 }

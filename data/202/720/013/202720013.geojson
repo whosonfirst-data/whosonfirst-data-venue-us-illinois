@@ -2,13 +2,14 @@
   "id": 202720013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.286973,41.767215,-88.286973,41.767215",
     "geom:latitude":41.767215,
     "geom:longitude":-88.286973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 Dearborn Ave",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202720013,
-    "wof:lastmodified":1449060715,
+    "wof:lastmodified":1466491026,
     "wof:name":"Eastside Customs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "customizing"
     ]
 },
-  "bbox": [-88.286973,41.767215,-88.286973,41.767215],
+  "bbox": [
+    -88.286973,
+    41.767215,
+    -88.286973,
+    41.767215
+],
   "geometry": {"coordinates":[-88.286973,41.767215],"type":"Point"}
 }

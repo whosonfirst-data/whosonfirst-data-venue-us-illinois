@@ -2,13 +2,14 @@
   "id": 287202063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.482853,41.843748,-89.482853,41.843748",
     "geom:latitude":41.843748,
     "geom:longitude":-89.482853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 S Galena Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287202063,
-    "wof:lastmodified":1449001457,
+    "wof:lastmodified":1466493219,
     "wof:name":"Drifters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-89.482853,41.843748,-89.482853,41.843748],
-  "geometry": {"coordinates":[-89.482853,41.843748],"type":"Point"}
+  "bbox": [
+    -89.482853,
+    41.843748,
+    -89.482853,
+    41.843748
+],
+  "geometry": {"coordinates":[-89.48285300000001,41.843748],"type":"Point"}
 }

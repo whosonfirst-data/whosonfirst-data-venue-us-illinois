@@ -2,13 +2,14 @@
   "id": 252937825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.826794,39.457141,-89.826794,39.457141",
     "geom:latitude":39.457141,
     "geom:longitude":-89.826794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17314 Neff Rd",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252937825,
-    "wof:lastmodified":1449005624,
+    "wof:lastmodified":1466491959,
     "wof:name":"Leonard Neff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-89.826794,39.457141,-89.826794,39.457141],
-  "geometry": {"coordinates":[-89.826794,39.457141],"type":"Point"}
+  "bbox": [
+    -89.826794,
+    39.457141,
+    -89.826794,
+    39.457141
+],
+  "geometry": {"coordinates":[-89.82679400000001,39.457141],"type":"Point"}
 }

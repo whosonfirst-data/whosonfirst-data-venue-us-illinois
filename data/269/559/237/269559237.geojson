@@ -2,13 +2,14 @@
   "id": 269559237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690845,41.91882,-87.690845,41.91882",
     "geom:latitude":41.91882,
     "geom:longitude":-87.690845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2084 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269559237,
-    "wof:lastmodified":1449038300,
+    "wof:lastmodified":1466490172,
     "wof:name":"Buck Stop",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.690845,41.91882,-87.690845,41.91882],
+  "bbox": [
+    -87.690845,
+    41.91882,
+    -87.690845,
+    41.91882
+],
   "geometry": {"coordinates":[-87.690845,41.91882],"type":"Point"}
 }

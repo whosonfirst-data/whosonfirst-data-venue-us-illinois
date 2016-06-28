@@ -2,13 +2,14 @@
   "id": 202988319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.202947,38.445475,-90.202947,38.445475",
     "geom:latitude":38.445475,
     "geom:longitude":-90.202947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202988319,
-    "wof:lastmodified":1449060986,
+    "wof:lastmodified":1466494230,
     "wof:name":"Philip 66",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-90.202947,38.445475,-90.202947,38.445475],
-  "geometry": {"coordinates":[-90.202947,38.445475],"type":"Point"}
+  "bbox": [
+    -90.202947,
+    38.445475,
+    -90.202947,
+    38.445475
+],
+  "geometry": {"coordinates":[-90.20294699999999,38.445475],"type":"Point"}
 }

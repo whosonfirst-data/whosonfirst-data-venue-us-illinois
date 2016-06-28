@@ -2,13 +2,14 @@
   "id": 269969753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055357,41.677235,-88.055357,41.677235",
     "geom:latitude":41.677235,
     "geom:longitude":-88.055357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Joliet Rd",
     "sg:city":"Romeoville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269969753,
-    "wof:lastmodified":1449036719,
+    "wof:lastmodified":1466496279,
     "wof:name":"Advanced Home Care",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-88.055357,41.677235,-88.055357,41.677235],
+  "bbox": [
+    -88.055357,
+    41.677235,
+    -88.055357,
+    41.677235
+],
   "geometry": {"coordinates":[-88.055357,41.677235],"type":"Point"}
 }

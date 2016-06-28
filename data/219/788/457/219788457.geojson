@@ -2,13 +2,14 @@
   "id": 219788457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.115445,41.532777,-88.115445,41.532777",
     "geom:latitude":41.532777,
     "geom:longitude":-88.115445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Mayfield Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219788457,
-    "wof:lastmodified":1449072202,
+    "wof:lastmodified":1466496294,
     "wof:name":"On Market Properties",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.115445,41.532777,-88.115445,41.532777],
-  "geometry": {"coordinates":[-88.115445,41.532777],"type":"Point"}
+  "bbox": [
+    -88.115445,
+    41.532777,
+    -88.115445,
+    41.532777
+],
+  "geometry": {"coordinates":[-88.11544499999999,41.532777],"type":"Point"}
 }

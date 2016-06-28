@@ -2,13 +2,14 @@
   "id": 219963025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.645245,41.685041,-87.645245,41.685041",
     "geom:latitude":41.685041,
     "geom:longitude":-87.645245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 W 115th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219963025,
-    "wof:lastmodified":1449070727,
+    "wof:lastmodified":1466497643,
     "wof:name":"Chicago Housing Authority",
     "wof:parent_id":85867739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "operator"
     ]
 },
-  "bbox": [-87.645245,41.685041,-87.645245,41.685041],
+  "bbox": [
+    -87.645245,
+    41.685041,
+    -87.645245,
+    41.685041
+],
   "geometry": {"coordinates":[-87.645245,41.685041],"type":"Point"}
 }

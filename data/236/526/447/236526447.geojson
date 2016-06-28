@@ -2,13 +2,14 @@
   "id": 236526447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668933,41.996331,-87.668933,41.996331",
     "geom:latitude":41.996331,
     "geom:longitude":-87.668933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 W Rosemont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236526447,
-    "wof:lastmodified":1449002502,
+    "wof:lastmodified":1466495709,
     "wof:name":"HOME",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.668933,41.996331,-87.668933,41.996331],
+  "bbox": [
+    -87.668933,
+    41.996331,
+    -87.668933,
+    41.996331
+],
   "geometry": {"coordinates":[-87.668933,41.996331],"type":"Point"}
 }

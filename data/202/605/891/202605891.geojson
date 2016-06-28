@@ -2,13 +2,14 @@
   "id": 202605891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.841297,41.350915,-88.841297,41.350915",
     "geom:latitude":41.350915,
     "geom:longitude":-88.841297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Columbus St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202605891,
-    "wof:lastmodified":1449061369,
+    "wof:lastmodified":1466489731,
     "wof:name":"Jims Boe Service",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-88.841297,41.350915,-88.841297,41.350915],
+  "bbox": [
+    -88.841297,
+    41.350915,
+    -88.841297,
+    41.350915
+],
   "geometry": {"coordinates":[-88.841297,41.350915],"type":"Point"}
 }

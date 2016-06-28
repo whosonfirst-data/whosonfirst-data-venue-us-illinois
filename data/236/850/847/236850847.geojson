@@ -2,13 +2,14 @@
   "id": 236850847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.076112,40.029165,-88.076112,40.029165",
     "geom:latitude":40.029165,
     "geom:longitude":-88.076112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Witt Park Rd",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236850847,
-    "wof:lastmodified":1449003579,
+    "wof:lastmodified":1466498061,
     "wof:name":"Walter Hoffmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-88.076112,40.029165,-88.076112,40.029165],
-  "geometry": {"coordinates":[-88.076112,40.029165],"type":"Point"}
+  "bbox": [
+    -88.076112,
+    40.029165,
+    -88.076112,
+    40.029165
+],
+  "geometry": {"coordinates":[-88.07611199999999,40.029165],"type":"Point"}
 }

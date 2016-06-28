@@ -2,13 +2,14 @@
   "id": 252831967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.76653,40.347032,-88.76653,40.347032",
     "geom:latitude":40.347032,
     "geom:longitude":-88.76653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Buck St",
     "sg:city":"Le Roy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252831967,
-    "wof:lastmodified":1449006063,
+    "wof:lastmodified":1466490581,
     "wof:name":"Fuzzy Duck",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-88.76653,40.347032,-88.76653,40.347032],
+  "bbox": [
+    -88.76653,
+    40.347032,
+    -88.76653,
+    40.347032
+],
   "geometry": {"coordinates":[-88.76653,40.347032],"type":"Point"}
 }

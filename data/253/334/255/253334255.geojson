@@ -2,13 +2,14 @@
   "id": 253334255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.713689,41.983382,-87.713689,41.983382",
     "geom:latitude":41.983382,
     "geom:longitude":-87.713689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5605 N Kimball Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253334255,
-    "wof:lastmodified":1449063678,
+    "wof:lastmodified":1466493210,
     "wof:name":"E-Z Bagge Co",
     "wof:parent_id":85865773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag"
     ]
 },
-  "bbox": [-87.713689,41.983382,-87.713689,41.983382],
+  "bbox": [
+    -87.713689,
+    41.983382,
+    -87.713689,
+    41.983382
+],
   "geometry": {"coordinates":[-87.713689,41.983382],"type":"Point"}
 }

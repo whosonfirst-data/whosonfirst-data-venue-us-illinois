@@ -2,13 +2,14 @@
   "id": 286389259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.423955,41.358341,-88.423955,41.358341",
     "geom:latitude":41.358341,
     "geom:longitude":-88.423955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Main St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286389259,
-    "wof:lastmodified":1449017528,
+    "wof:lastmodified":1466491760,
     "wof:name":"Peters Dennis and Associates",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.423955,41.358341,-88.423955,41.358341],
-  "geometry": {"coordinates":[-88.423955,41.358341],"type":"Point"}
+  "bbox": [
+    -88.423955,
+    41.358341,
+    -88.423955,
+    41.358341
+],
+  "geometry": {"coordinates":[-88.42395500000001,41.358341],"type":"Point"}
 }

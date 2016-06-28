@@ -2,13 +2,14 @@
   "id": 202387771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.951284,41.510423,-87.951284,41.510423",
     "geom:latitude":41.510423,
     "geom:longitude":-87.951284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Maray Ave",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202387771,
-    "wof:lastmodified":1449062313,
+    "wof:lastmodified":1466491577,
     "wof:name":"Wirt & Lauterbach",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.951284,41.510423,-87.951284,41.510423],
+  "bbox": [
+    -87.951284,
+    41.510423,
+    -87.951284,
+    41.510423
+],
   "geometry": {"coordinates":[-87.951284,41.510423],"type":"Point"}
 }

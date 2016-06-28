@@ -2,13 +2,14 @@
   "id": 236386481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577705,41.769976,-87.577705,41.769976",
     "geom:latitude":41.769976,
     "geom:longitude":-87.577705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6810 S Euclid Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236386481,
-    "wof:lastmodified":1449003374,
+    "wof:lastmodified":1466493870,
     "wof:name":"Sara Mutua",
     "wof:parent_id":85867637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.577705,41.769976,-87.577705,41.769976],
-  "geometry": {"coordinates":[-87.577705,41.769976],"type":"Point"}
+  "bbox": [
+    -87.577705,
+    41.769976,
+    -87.577705,
+    41.769976
+],
+  "geometry": {"coordinates":[-87.57770499999999,41.769976],"type":"Point"}
 }

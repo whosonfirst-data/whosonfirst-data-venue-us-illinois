@@ -2,13 +2,14 @@
   "id": 236013971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.582316,41.764001,-87.582316,41.764001",
     "geom:latitude":41.764001,
     "geom:longitude":-87.582316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7221 S Ridgeland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236013971,
-    "wof:lastmodified":1449003968,
+    "wof:lastmodified":1466489127,
     "wof:name":"Yvonnes Barber Shop",
     "wof:parent_id":85867729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.582316,41.764001,-87.582316,41.764001],
-  "geometry": {"coordinates":[-87.582316,41.764001],"type":"Point"}
+  "bbox": [
+    -87.582316,
+    41.764001,
+    -87.582316,
+    41.764001
+],
+  "geometry": {"coordinates":[-87.58231600000001,41.764001],"type":"Point"}
 }

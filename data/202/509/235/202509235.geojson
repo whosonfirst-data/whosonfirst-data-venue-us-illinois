@@ -2,13 +2,14 @@
   "id": 202509235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.686969,41.910248,-87.686969,41.910248",
     "geom:latitude":41.910248,
     "geom:longitude":-87.686969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 W North Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202509235,
-    "wof:lastmodified":1449060197,
+    "wof:lastmodified":1466495260,
     "wof:name":"Gilchrist Marchman Rehab",
     "wof:parent_id":85867633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-87.686969,41.910248,-87.686969,41.910248],
+  "bbox": [
+    -87.686969,
+    41.910248,
+    -87.686969,
+    41.910248
+],
   "geometry": {"coordinates":[-87.686969,41.910248],"type":"Point"}
 }

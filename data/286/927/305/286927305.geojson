@@ -2,13 +2,14 @@
   "id": 286927305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.09589,41.665594,-88.09589,41.665594",
     "geom:latitude":41.665594,
     "geom:longitude":-88.09589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Crossroads Pkwy",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286927305,
-    "wof:lastmodified":1449017783,
+    "wof:lastmodified":1466498207,
     "wof:name":"Team Express",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.09589,41.665594,-88.09589,41.665594],
+  "bbox": [
+    -88.09589,
+    41.665594,
+    -88.09589,
+    41.665594
+],
   "geometry": {"coordinates":[-88.09589,41.665594],"type":"Point"}
 }

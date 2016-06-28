@@ -2,13 +2,14 @@
   "id": 219955985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578883,41.768252,-87.578883,41.768252",
     "geom:latitude":41.768252,
     "geom:longitude":-87.578883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6916 S Bennett Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219955985,
-    "wof:lastmodified":1449072840,
+    "wof:lastmodified":1466497464,
     "wof:name":"Jean Baptiste Georges MD",
     "wof:parent_id":85867637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.578883,41.768252,-87.578883,41.768252],
+  "bbox": [
+    -87.578883,
+    41.768252,
+    -87.578883,
+    41.768252
+],
   "geometry": {"coordinates":[-87.578883,41.768252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185784639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.997982,39.712805,-88.997982,39.712805",
     "geom:latitude":39.712805,
     "geom:longitude":-88.997982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 E Andrews St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185784639,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466495584,
     "wof:name":"P & G Quick Stop",
     "wof:parent_id":85867917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-88.997982,39.712805,-88.997982,39.712805],
-  "geometry": {"coordinates":[-88.997982,39.712805],"type":"Point"}
+  "bbox": [
+    -88.997982,
+    39.712805,
+    -88.997982,
+    39.712805
+],
+  "geometry": {"coordinates":[-88.99798199999999,39.712805],"type":"Point"}
 }

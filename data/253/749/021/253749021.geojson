@@ -2,13 +2,14 @@
   "id": 253749021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.645723,41.937809,-87.645723,41.937809",
     "geom:latitude":41.937809,
     "geom:longitude":-87.645723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 W Barry Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253749021,
-    "wof:lastmodified":1449063654,
+    "wof:lastmodified":1466498082,
     "wof:name":"Custom House",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exchange"
     ]
 },
-  "bbox": [-87.645723,41.937809,-87.645723,41.937809],
+  "bbox": [
+    -87.645723,
+    41.937809,
+    -87.645723,
+    41.937809
+],
   "geometry": {"coordinates":[-87.645723,41.937809],"type":"Point"}
 }

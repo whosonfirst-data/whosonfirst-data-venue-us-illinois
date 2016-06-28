@@ -2,13 +2,14 @@
   "id": 253320281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.197818,40.110145,-88.197818,40.110145",
     "geom:latitude":40.110145,
     "geom:longitude":-88.197818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 E High St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253320281,
-    "wof:lastmodified":1449063569,
+    "wof:lastmodified":1466493008,
     "wof:name":"Off Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.197818,40.110145,-88.197818,40.110145],
+  "bbox": [
+    -88.197818,
+    40.110145,
+    -88.197818,
+    40.110145
+],
   "geometry": {"coordinates":[-88.197818,40.110145],"type":"Point"}
 }

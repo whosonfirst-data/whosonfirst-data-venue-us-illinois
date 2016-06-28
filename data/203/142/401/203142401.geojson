@@ -2,13 +2,14 @@
   "id": 203142401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.153375,42.029288,-88.153375,42.029288",
     "geom:latitude":42.029288,
     "geom:longitude":-88.153375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2594 W Schaumburg Rd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203142401,
-    "wof:lastmodified":1449026456,
+    "wof:lastmodified":1466495374,
     "wof:name":"Chicagoland Orthodontic Spec",
     "wof:parent_id":85890931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-88.153375,42.029288,-88.153375,42.029288],
+  "bbox": [
+    -88.153375,
+    42.029288,
+    -88.153375,
+    42.029288
+],
   "geometry": {"coordinates":[-88.153375,42.029288],"type":"Point"}
 }

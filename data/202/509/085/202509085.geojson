@@ -2,13 +2,14 @@
   "id": 202509085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.8059,39.610305,-90.8059,39.610305",
     "geom:latitude":39.610305,
     "geom:longitude":-90.8059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Perry St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202509085,
-    "wof:lastmodified":1449060197,
+    "wof:lastmodified":1466495257,
     "wof:name":"Burrows Alignment & Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "doe"
     ]
 },
-  "bbox": [-90.8059,39.610305,-90.8059,39.610305],
-  "geometry": {"coordinates":[-90.8059,39.610305],"type":"Point"}
+  "bbox": [
+    -90.8059,
+    39.610305,
+    -90.8059,
+    39.610305
+],
+  "geometry": {"coordinates":[-90.80589999999999,39.610305],"type":"Point"}
 }

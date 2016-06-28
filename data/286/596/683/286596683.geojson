@@ -2,13 +2,14 @@
   "id": 286596683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.283481,40.908067,-90.283481,40.908067",
     "geom:latitude":40.908067,
     "geom:longitude":-90.283481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Main St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286596683,
-    "wof:lastmodified":1449016701,
+    "wof:lastmodified":1466495135,
     "wof:name":"M & D Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-90.283481,40.908067,-90.283481,40.908067],
-  "geometry": {"coordinates":[-90.283481,40.908067],"type":"Point"}
+  "bbox": [
+    -90.283481,
+    40.908067,
+    -90.283481,
+    40.908067
+],
+  "geometry": {"coordinates":[-90.28348099999999,40.908067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286829059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.960182,41.376251,-87.960182,41.376251",
     "geom:latitude":41.376251,
     "geom:longitude":-87.960182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28106 S Cedar Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286829059,
-    "wof:lastmodified":1449017900,
+    "wof:lastmodified":1466497494,
     "wof:name":"Donald Nugent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.960182,41.376251,-87.960182,41.376251],
+  "bbox": [
+    -87.960182,
+    41.376251,
+    -87.960182,
+    41.376251
+],
   "geometry": {"coordinates":[-87.960182,41.376251],"type":"Point"}
 }

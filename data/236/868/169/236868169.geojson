@@ -2,13 +2,14 @@
   "id": 236868169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.21163,40.111599,-88.21163,40.111599",
     "geom:latitude":40.111599,
     "geom:longitude":-88.21163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Elm St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236868169,
-    "wof:lastmodified":1449001792,
+    "wof:lastmodified":1466498114,
     "wof:name":"Saint Nicholas Orthodox Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.21163,40.111599,-88.21163,40.111599],
+  "bbox": [
+    -88.21163,
+    40.111599,
+    -88.21163,
+    40.111599
+],
   "geometry": {"coordinates":[-88.21163,40.111599],"type":"Point"}
 }

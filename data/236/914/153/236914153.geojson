@@ -2,13 +2,14 @@
   "id": 236914153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.04327,41.529251,-88.04327,41.529251",
     "geom:latitude":41.529251,
     "geom:longitude":-88.04327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 E Cass St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236914153,
-    "wof:lastmodified":1449002809,
+    "wof:lastmodified":1466498261,
     "wof:name":"Adler Warehouse & Sales Inc",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-88.04327,41.529251,-88.04327,41.529251],
-  "geometry": {"coordinates":[-88.04327,41.529251],"type":"Point"}
+  "bbox": [
+    -88.04327,
+    41.529251,
+    -88.04327,
+    41.529251
+],
+  "geometry": {"coordinates":[-88.04327000000001,41.529251],"type":"Point"}
 }

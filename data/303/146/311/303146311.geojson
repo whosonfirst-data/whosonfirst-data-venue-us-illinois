@@ -2,13 +2,14 @@
   "id": 303146311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.088619,38.623048,-90.088619,38.623048",
     "geom:latitude":38.623048,
     "geom:longitude":-90.088619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5539 Bunkum Rd",
     "sg:city":"East Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303146311,
-    "wof:lastmodified":1448999132,
+    "wof:lastmodified":1466492170,
     "wof:name":"Bernice Smith",
     "wof:parent_id":85845931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.088619,38.623048,-90.088619,38.623048],
-  "geometry": {"coordinates":[-90.088619,38.623048],"type":"Point"}
+  "bbox": [
+    -90.088619,
+    38.623048,
+    -90.088619,
+    38.623048
+],
+  "geometry": {"coordinates":[-90.08861899999999,38.623048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287118105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.311311,41.326518,-89.311311,41.326518",
     "geom:latitude":41.326518,
     "geom:longitude":-89.311311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 East St",
     "sg:city":"Depue",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287118105,
-    "wof:lastmodified":1449001387,
+    "wof:lastmodified":1466491864,
     "wof:name":"Liberty Street Limousine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-89.311311,41.326518,-89.311311,41.326518],
+  "bbox": [
+    -89.311311,
+    41.326518,
+    -89.311311,
+    41.326518
+],
   "geometry": {"coordinates":[-89.311311,41.326518],"type":"Point"}
 }

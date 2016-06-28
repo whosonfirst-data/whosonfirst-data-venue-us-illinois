@@ -2,13 +2,14 @@
   "id": 270004187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094512,42.493076,-88.094512,42.493076",
     "geom:latitude":42.493076,
     "geom:longitude":-88.094512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Main St",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270004187,
-    "wof:lastmodified":1449009529,
+    "wof:lastmodified":1466489101,
     "wof:name":"Meyer Machine & Equipment Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-88.094512,42.493076,-88.094512,42.493076],
-  "geometry": {"coordinates":[-88.094512,42.493076],"type":"Point"}
+  "bbox": [
+    -88.094512,
+    42.493076,
+    -88.094512,
+    42.493076
+],
+  "geometry": {"coordinates":[-88.09451199999999,42.493076],"type":"Point"}
 }

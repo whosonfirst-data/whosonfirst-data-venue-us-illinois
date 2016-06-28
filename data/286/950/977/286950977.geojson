@@ -2,13 +2,14 @@
   "id": 286950977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.008606,40.557146,-90.008606,40.557146",
     "geom:latitude":40.557146,
     "geom:longitude":-90.008606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 E Chestnut St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286950977,
-    "wof:lastmodified":1449016332,
+    "wof:lastmodified":1466498212,
     "wof:name":"Apac Customer Svc",
     "wof:parent_id":85867847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-90.008606,40.557146,-90.008606,40.557146],
+  "bbox": [
+    -90.008606,
+    40.557146,
+    -90.008606,
+    40.557146
+],
   "geometry": {"coordinates":[-90.008606,40.557146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219992179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.564033,41.816313,-89.564033,41.816313",
     "geom:latitude":41.816313,
     "geom:longitude":-89.564033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Canal Dr",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219992179,
-    "wof:lastmodified":1449072059,
+    "wof:lastmodified":1466497529,
     "wof:name":"Clinical Pharmacy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.564033,41.816313,-89.564033,41.816313],
-  "geometry": {"coordinates":[-89.564033,41.816313],"type":"Point"}
+  "bbox": [
+    -89.564033,
+    41.816313,
+    -89.564033,
+    41.816313
+],
+  "geometry": {"coordinates":[-89.56403299999999,41.816313],"type":"Point"}
 }

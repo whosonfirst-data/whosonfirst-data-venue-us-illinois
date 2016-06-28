@@ -2,13 +2,14 @@
   "id": 235955291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063004,41.502776,-88.063004,41.502776",
     "geom:latitude":41.502776,
     "geom:longitude":-88.063004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Mills Rd",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235955291,
-    "wof:lastmodified":1449008475,
+    "wof:lastmodified":1466489248,
     "wof:name":"E J & E Railway",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-88.063004,41.502776,-88.063004,41.502776],
-  "geometry": {"coordinates":[-88.063004,41.502776],"type":"Point"}
+  "bbox": [
+    -88.063004,
+    41.502776,
+    -88.063004,
+    41.502776
+],
+  "geometry": {"coordinates":[-88.06300400000001,41.502776],"type":"Point"}
 }

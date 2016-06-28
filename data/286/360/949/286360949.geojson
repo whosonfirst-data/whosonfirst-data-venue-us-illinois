@@ -2,13 +2,14 @@
   "id": 286360949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.03514,40.562535,-90.03514,40.562535",
     "geom:latitude":40.562535,
     "geom:longitude":-90.03514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"562 N Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286360949,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466491338,
     "wof:name":"Dan Watson Agency",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.03514,40.562535,-90.03514,40.562535],
+  "bbox": [
+    -90.03514,
+    40.562535,
+    -90.03514,
+    40.562535
+],
   "geometry": {"coordinates":[-90.03514,40.562535],"type":"Point"}
 }

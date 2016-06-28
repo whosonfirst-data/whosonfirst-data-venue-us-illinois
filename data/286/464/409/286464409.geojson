@@ -2,13 +2,14 @@
   "id": 286464409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.392827,39.246338,-89.392827,39.246338",
     "geom:latitude":39.246338,
     "geom:longitude":-89.392827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16222 N 17th Ave",
     "sg:city":"Witt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286464409,
-    "wof:lastmodified":1449015974,
+    "wof:lastmodified":1466492951,
     "wof:name":"Dan Tester",
     "wof:parent_id":85867927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-89.392827,39.246338,-89.392827,39.246338],
+  "bbox": [
+    -89.392827,
+    39.246338,
+    -89.392827,
+    39.246338
+],
   "geometry": {"coordinates":[-89.392827,39.246338],"type":"Point"}
 }

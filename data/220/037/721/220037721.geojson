@@ -2,13 +2,14 @@
   "id": 220037721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.303016,41.848051,-88.303016,41.848051",
     "geom:latitude":41.848051,
     "geom:longitude":-88.303016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Van Buren St",
     "sg:city":"Batavia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220037721,
-    "wof:lastmodified":1449074896,
+    "wof:lastmodified":1466489403,
     "wof:name":"Behner Custom Carpentry",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.303016,41.848051,-88.303016,41.848051],
+  "bbox": [
+    -88.303016,
+    41.848051,
+    -88.303016,
+    41.848051
+],
   "geometry": {"coordinates":[-88.303016,41.848051],"type":"Point"}
 }

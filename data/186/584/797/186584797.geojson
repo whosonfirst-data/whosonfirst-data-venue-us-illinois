@@ -2,13 +2,14 @@
   "id": 186584797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.247239,41.440817,-88.247239,41.440817",
     "geom:latitude":41.440817,
     "geom:longitude":-88.247239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 San Carlos Rd",
     "sg:city":"Minooka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186584797,
-    "wof:lastmodified":1449050542,
+    "wof:lastmodified":1466489231,
     "wof:name":"R&W Services Inc",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.247239,41.440817,-88.247239,41.440817],
-  "geometry": {"coordinates":[-88.247239,41.440817],"type":"Point"}
+  "bbox": [
+    -88.247239,
+    41.440817,
+    -88.247239,
+    41.440817
+],
+  "geometry": {"coordinates":[-88.24723899999999,41.440817],"type":"Point"}
 }

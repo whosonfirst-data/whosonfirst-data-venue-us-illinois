@@ -2,13 +2,14 @@
   "id": 286764251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.011434,39.875544,-89.011434,39.875544",
     "geom:latitude":39.875544,
     "geom:longitude":-89.011434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 W Pershing Rd",
     "sg:city":"Warrensburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286764251,
-    "wof:lastmodified":1449017951,
+    "wof:lastmodified":1466496957,
     "wof:name":"AG Reliant Genetics",
     "wof:parent_id":85859197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seed"
     ]
 },
-  "bbox": [-89.011434,39.875544,-89.011434,39.875544],
-  "geometry": {"coordinates":[-89.011434,39.875544],"type":"Point"}
+  "bbox": [
+    -89.011434,
+    39.875544,
+    -89.011434,
+    39.875544
+],
+  "geometry": {"coordinates":[-89.01143399999999,39.875544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203112571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.165625,41.86619,-90.165625,41.86619",
     "geom:latitude":41.86619,
     "geom:longitude":-90.165625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 4th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203112571,
-    "wof:lastmodified":1449025785,
+    "wof:lastmodified":1466494971,
     "wof:name":"Great River Gymnastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-90.165625,41.86619,-90.165625,41.86619],
-  "geometry": {"coordinates":[-90.165625,41.86619],"type":"Point"}
+  "bbox": [
+    -90.165625,
+    41.86619,
+    -90.165625,
+    41.86619
+],
+  "geometry": {"coordinates":[-90.16562500000001,41.86619],"type":"Point"}
 }

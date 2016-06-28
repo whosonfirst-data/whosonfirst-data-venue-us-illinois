@@ -2,13 +2,14 @@
   "id": 270464457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.674799,41.993521,-87.674799,41.993521",
     "geom:latitude":41.993521,
     "geom:longitude":-87.674799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6127 N Ravenswood Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270464457,
-    "wof:lastmodified":1449009272,
+    "wof:lastmodified":1466495920,
     "wof:name":"Bystrom Instrument Svc",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "microscope"
     ]
 },
-  "bbox": [-87.674799,41.993521,-87.674799,41.993521],
-  "geometry": {"coordinates":[-87.674799,41.993521],"type":"Point"}
+  "bbox": [
+    -87.674799,
+    41.993521,
+    -87.674799,
+    41.993521
+],
+  "geometry": {"coordinates":[-87.67479899999999,41.993521],"type":"Point"}
 }

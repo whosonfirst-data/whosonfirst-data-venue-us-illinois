@@ -2,13 +2,14 @@
   "id": 286630427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242494,40.086959,-88.242494,40.086959",
     "geom:latitude":40.086959,
     "geom:longitude":-88.242494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Griffith Dr",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286630427,
-    "wof:lastmodified":1449016232,
+    "wof:lastmodified":1466495668,
     "wof:name":"Natural Resources Ill Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "research"
     ]
 },
-  "bbox": [-88.242494,40.086959,-88.242494,40.086959],
-  "geometry": {"coordinates":[-88.242494,40.086959],"type":"Point"}
+  "bbox": [
+    -88.242494,
+    40.086959,
+    -88.242494,
+    40.086959
+],
+  "geometry": {"coordinates":[-88.24249399999999,40.086959],"type":"Point"}
 }

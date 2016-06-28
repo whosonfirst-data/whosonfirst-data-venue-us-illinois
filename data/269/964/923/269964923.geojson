@@ -2,13 +2,14 @@
   "id": 269964923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.373341,39.940407,-91.373341,39.940407",
     "geom:latitude":39.940407,
     "geom:longitude":-91.373341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Elm St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269964923,
-    "wof:lastmodified":1449038204,
+    "wof:lastmodified":1466496237,
     "wof:name":"Clipper Ship",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.373341,39.940407,-91.373341,39.940407],
+  "bbox": [
+    -91.373341,
+    39.940407,
+    -91.373341,
+    39.940407
+],
   "geometry": {"coordinates":[-91.373341,39.940407],"type":"Point"}
 }

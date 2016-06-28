@@ -2,13 +2,14 @@
   "id": 202565125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555486,41.627225,-87.555486,41.627225",
     "geom:latitude":41.627225,
     "geom:longitude":-87.555486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Manistee Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202565125,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1466489260,
     "wof:name":"Alexander Concrete Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.555486,41.627225,-87.555486,41.627225],
+  "bbox": [
+    -87.555486,
+    41.627225,
+    -87.555486,
+    41.627225
+],
   "geometry": {"coordinates":[-87.555486,41.627225],"type":"Point"}
 }

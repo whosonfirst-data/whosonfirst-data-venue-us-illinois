@@ -2,13 +2,14 @@
   "id": 270322745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2169,41.790481,-90.2169,41.790481",
     "geom:latitude":41.790481,
     "geom:longitude":-90.2169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Church St",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270322745,
-    "wof:lastmodified":1449008645,
+    "wof:lastmodified":1466493933,
     "wof:name":"Albany Fire Protection Ds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-90.2169,41.790481,-90.2169,41.790481],
+  "bbox": [
+    -90.2169,
+    41.790481,
+    -90.2169,
+    41.790481
+],
   "geometry": {"coordinates":[-90.2169,41.790481],"type":"Point"}
 }

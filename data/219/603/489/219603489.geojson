@@ -2,13 +2,14 @@
   "id": 219603489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.128114,41.686758,-88.128114,41.686758",
     "geom:latitude":41.686758,
     "geom:longitude":-88.128114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Pheasant Chase Dr",
     "sg:city":"Bolingbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219603489,
-    "wof:lastmodified":1449073365,
+    "wof:lastmodified":1466494380,
     "wof:name":"First Source Indus Lift Trck",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-88.128114,41.686758,-88.128114,41.686758],
+  "bbox": [
+    -88.128114,
+    41.686758,
+    -88.128114,
+    41.686758
+],
   "geometry": {"coordinates":[-88.128114,41.686758],"type":"Point"}
 }

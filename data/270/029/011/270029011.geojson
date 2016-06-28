@@ -2,13 +2,14 @@
   "id": 270029011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.89279,41.601896,-87.89279,41.601896",
     "geom:latitude":41.601896,
     "geom:longitude":-87.89279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15830 112th Ct",
     "sg:city":"Orland Park",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270029011,
-    "wof:lastmodified":1449009678,
+    "wof:lastmodified":1466489454,
     "wof:name":"Michael Szaflarski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.89279,41.601896,-87.89279,41.601896],
-  "geometry": {"coordinates":[-87.89279,41.601896],"type":"Point"}
+  "bbox": [
+    -87.89279,
+    41.601896,
+    -87.89279,
+    41.601896
+],
+  "geometry": {"coordinates":[-87.89279000000001,41.601896],"type":"Point"}
 }

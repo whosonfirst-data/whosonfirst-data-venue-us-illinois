@@ -2,13 +2,14 @@
   "id": 186576873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.048121,41.865879,-88.048121,41.865879",
     "geom:latitude":41.865879,
     "geom:longitude":-88.048121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Spring Ave",
     "sg:city":"Glen Ellyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186576873,
-    "wof:lastmodified":1449052382,
+    "wof:lastmodified":1466489133,
     "wof:name":"Breeser's Painting & Decorate",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-88.048121,41.865879,-88.048121,41.865879],
-  "geometry": {"coordinates":[-88.048121,41.865879],"type":"Point"}
+  "bbox": [
+    -88.048121,
+    41.865879,
+    -88.048121,
+    41.865879
+],
+  "geometry": {"coordinates":[-88.04812099999999,41.865879],"type":"Point"}
 }

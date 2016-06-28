@@ -2,13 +2,14 @@
   "id": 202948429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.875987,42.294119,-87.875987,42.294119",
     "geom:latitude":42.294119,
     "geom:longitude":-87.875987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29800 N Skokie Hwy",
     "sg:city":"Lake Bluff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202948429,
-    "wof:lastmodified":1449062140,
+    "wof:lastmodified":1466493750,
     "wof:name":"Voight Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.875987,42.294119,-87.875987,42.294119],
-  "geometry": {"coordinates":[-87.875987,42.294119],"type":"Point"}
+  "bbox": [
+    -87.875987,
+    42.294119,
+    -87.875987,
+    42.294119
+],
+  "geometry": {"coordinates":[-87.87598699999999,42.294119],"type":"Point"}
 }

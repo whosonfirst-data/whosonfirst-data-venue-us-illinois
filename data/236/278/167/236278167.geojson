@@ -2,13 +2,14 @@
   "id": 236278167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.251179,37.459424,-89.251179,37.459424",
     "geom:latitude":37.459424,
     "geom:longitude":-89.251179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Jefferson St",
     "sg:city":"Anna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236278167,
-    "wof:lastmodified":1449003484,
+    "wof:lastmodified":1466492495,
     "wof:name":"Mt Moriah Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-89.251179,37.459424,-89.251179,37.459424],
-  "geometry": {"coordinates":[-89.251179,37.459424],"type":"Point"}
+  "bbox": [
+    -89.251179,
+    37.459424,
+    -89.251179,
+    37.459424
+],
+  "geometry": {"coordinates":[-89.25117899999999,37.459424],"type":"Point"}
 }

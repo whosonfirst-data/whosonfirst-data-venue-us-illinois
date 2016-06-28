@@ -2,13 +2,14 @@
   "id": 219607719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.053497,41.295059,-89.053497,41.295059",
     "geom:latitude":41.295059,
     "geom:longitude":-89.053497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 E Walnut St",
     "sg:city":"Oglesby",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219607719,
-    "wof:lastmodified":1449070862,
+    "wof:lastmodified":1466494430,
     "wof:name":"Tom's East End Tap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-89.053497,41.295059,-89.053497,41.295059],
-  "geometry": {"coordinates":[-89.053497,41.295059],"type":"Point"}
+  "bbox": [
+    -89.053497,
+    41.295059,
+    -89.053497,
+    41.295059
+],
+  "geometry": {"coordinates":[-89.05349699999999,41.295059],"type":"Point"}
 }

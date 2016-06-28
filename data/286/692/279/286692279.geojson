@@ -2,13 +2,14 @@
   "id": 286692279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.127016,38.545247,-89.127016,38.545247",
     "geom:latitude":38.545247,
     "geom:longitude":-89.127016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Marcel Dr",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286692279,
-    "wof:lastmodified":1449015960,
+    "wof:lastmodified":1466496530,
     "wof:name":"Tom's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-89.127016,38.545247,-89.127016,38.545247],
+  "bbox": [
+    -89.127016,
+    38.545247,
+    -89.127016,
+    38.545247
+],
   "geometry": {"coordinates":[-89.127016,38.545247],"type":"Point"}
 }

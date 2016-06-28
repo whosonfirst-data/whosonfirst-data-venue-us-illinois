@@ -2,13 +2,14 @@
   "id": 219226719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.010735,42.265185,-89.010735,42.265185",
     "geom:latitude":42.265185,
     "geom:longitude":-89.010735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 E State St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219226719,
-    "wof:lastmodified":1449072958,
+    "wof:lastmodified":1466489824,
     "wof:name":"Nicks Restaurant",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-89.010735,42.265185,-89.010735,42.265185],
+  "bbox": [
+    -89.010735,
+    42.265185,
+    -89.010735,
+    42.265185
+],
   "geometry": {"coordinates":[-89.010735,42.265185],"type":"Point"}
 }

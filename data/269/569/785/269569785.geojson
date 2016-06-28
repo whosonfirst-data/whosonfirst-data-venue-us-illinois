@@ -2,13 +2,14 @@
   "id": 269569785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.220506,40.110625,-88.220506,40.110625",
     "geom:latitude":40.110625,
     "geom:longitude":-88.220506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 W Green St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269569785,
-    "wof:lastmodified":1449038857,
+    "wof:lastmodified":1466490339,
     "wof:name":"Apartment Management Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-88.220506,40.110625,-88.220506,40.110625],
+  "bbox": [
+    -88.220506,
+    40.110625,
+    -88.220506,
+    40.110625
+],
   "geometry": {"coordinates":[-88.220506,40.110625],"type":"Point"}
 }

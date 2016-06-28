@@ -2,13 +2,14 @@
   "id": 219983223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.276451,41.364952,-89.276451,41.364952",
     "geom:latitude":41.364952,
     "geom:longitude":-89.276451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Center St",
     "sg:city":"Seatonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219983223,
-    "wof:lastmodified":1449073623,
+    "wof:lastmodified":1466497616,
     "wof:name":"Seatonville Fire Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-89.276451,41.364952,-89.276451,41.364952],
-  "geometry": {"coordinates":[-89.276451,41.364952],"type":"Point"}
+  "bbox": [
+    -89.276451,
+    41.364952,
+    -89.276451,
+    41.364952
+],
+  "geometry": {"coordinates":[-89.27645099999999,41.364952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270327107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.249404,41.813496,-88.249404,41.813496",
     "geom:latitude":41.813496,
     "geom:longitude":-88.249404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 Red Bud Ct",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270327107,
-    "wof:lastmodified":1449008827,
+    "wof:lastmodified":1466494007,
     "wof:name":"Emily Anderson Medical Biller",
     "wof:parent_id":85890727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-88.249404,41.813496,-88.249404,41.813496],
+  "bbox": [
+    -88.249404,
+    41.813496,
+    -88.249404,
+    41.813496
+],
   "geometry": {"coordinates":[-88.249404,41.813496],"type":"Point"}
 }

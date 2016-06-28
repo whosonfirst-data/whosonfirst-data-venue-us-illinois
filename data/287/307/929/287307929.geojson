@@ -2,13 +2,14 @@
   "id": 287307929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.511857,41.509306,-90.511857,41.509306",
     "geom:latitude":41.509306,
     "geom:longitude":-90.511857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 19th St",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287307929,
-    "wof:lastmodified":1449000886,
+    "wof:lastmodified":1466494853,
     "wof:name":"Mac",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.511857,41.509306,-90.511857,41.509306],
-  "geometry": {"coordinates":[-90.511857,41.509306],"type":"Point"}
+  "bbox": [
+    -90.511857,
+    41.509306,
+    -90.511857,
+    41.509306
+],
+  "geometry": {"coordinates":[-90.51185700000001,41.509306],"type":"Point"}
 }

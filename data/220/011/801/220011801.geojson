@@ -2,13 +2,14 @@
   "id": 220011801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.800309,41.620396,-88.800309,41.620396",
     "geom:latitude":41.620396,
     "geom:longitude":-88.800309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Feather Dr",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220011801,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466489087,
     "wof:name":"L W Johnson Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-88.800309,41.620396,-88.800309,41.620396],
+  "bbox": [
+    -88.800309,
+    41.620396,
+    -88.800309,
+    41.620396
+],
   "geometry": {"coordinates":[-88.800309,41.620396],"type":"Point"}
 }

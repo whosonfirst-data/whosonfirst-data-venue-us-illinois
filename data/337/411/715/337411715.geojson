@@ -2,13 +2,14 @@
   "id": 337411715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.877586,42.011811,-87.877586,42.011811",
     "geom:latitude":42.011811,
     "geom:longitude":-87.877586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Birch St",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337411715,
-    "wof:lastmodified":1449026980,
+    "wof:lastmodified":1466492125,
     "wof:name":"Dove Limousine",
     "wof:parent_id":85867753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-87.877586,42.011811,-87.877586,42.011811],
-  "geometry": {"coordinates":[-87.877586,42.011811],"type":"Point"}
+  "bbox": [
+    -87.877586,
+    42.011811,
+    -87.877586,
+    42.011811
+],
+  "geometry": {"coordinates":[-87.87758599999999,42.011811],"type":"Point"}
 }

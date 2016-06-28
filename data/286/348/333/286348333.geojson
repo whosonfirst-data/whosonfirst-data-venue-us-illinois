@@ -2,13 +2,14 @@
   "id": 286348333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.032756,42.256981,-89.032756,42.256981",
     "geom:latitude":42.256981,
     "geom:longitude":-89.032756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Lexington Way",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286348333,
-    "wof:lastmodified":1449015293,
+    "wof:lastmodified":1466491149,
     "wof:name":"Focal Image Photography",
     "wof:parent_id":85880445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-89.032756,42.256981,-89.032756,42.256981],
-  "geometry": {"coordinates":[-89.032756,42.256981],"type":"Point"}
+  "bbox": [
+    -89.032756,
+    42.256981,
+    -89.032756,
+    42.256981
+],
+  "geometry": {"coordinates":[-89.03275600000001,42.256981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270005905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.39801,39.931925,-91.39801,39.931925",
     "geom:latitude":39.931925,
     "geom:longitude":-91.39801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Maine St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270005905,
-    "wof:lastmodified":1449010901,
+    "wof:lastmodified":1466489128,
     "wof:name":"Brown Drug Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.39801,39.931925,-91.39801,39.931925],
+  "bbox": [
+    -91.39801,
+    39.931925,
+    -91.39801,
+    39.931925
+],
   "geometry": {"coordinates":[-91.39801,39.931925],"type":"Point"}
 }

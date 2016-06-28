@@ -2,13 +2,14 @@
   "id": 286983121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.512132,41.833271,-89.512132,41.833271",
     "geom:latitude":41.833271,
     "geom:longitude":-89.512132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 W 3rd St",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286983121,
-    "wof:lastmodified":1449017854,
+    "wof:lastmodified":1466498475,
     "wof:name":"Dixon City Sewage Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-89.512132,41.833271,-89.512132,41.833271],
-  "geometry": {"coordinates":[-89.512132,41.833271],"type":"Point"}
+  "bbox": [
+    -89.512132,
+    41.833271,
+    -89.512132,
+    41.833271
+],
+  "geometry": {"coordinates":[-89.51213199999999,41.833271],"type":"Point"}
 }

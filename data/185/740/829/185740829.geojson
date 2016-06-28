@@ -2,13 +2,14 @@
   "id": 185740829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.103355,38.727519,-88.103355,38.727519",
     "geom:latitude":38.727519,
     "geom:longitude":-88.103355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Linn St",
     "sg:city":"Olney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185740829,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466495201,
     "wof:name":"Rehmel Mcnabb Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-88.103355,38.727519,-88.103355,38.727519],
-  "geometry": {"coordinates":[-88.103355,38.727519],"type":"Point"}
+  "bbox": [
+    -88.103355,
+    38.727519,
+    -88.103355,
+    38.727519
+],
+  "geometry": {"coordinates":[-88.10335499999999,38.727519],"type":"Point"}
 }

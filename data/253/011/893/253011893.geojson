@@ -2,13 +2,14 @@
   "id": 253011893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066933,42.379083,-88.066933,42.379083",
     "geom:latitude":42.379083,
     "geom:longitude":-88.066933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"762 E Rollins Rd",
     "sg:city":"Round Lake Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253011893,
-    "wof:lastmodified":1449065229,
+    "wof:lastmodified":1466489141,
     "wof:name":"Us Army Recruiting Station",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-88.066933,42.379083,-88.066933,42.379083],
-  "geometry": {"coordinates":[-88.066933,42.379083],"type":"Point"}
+  "bbox": [
+    -88.066933,
+    42.379083,
+    -88.066933,
+    42.379083
+],
+  "geometry": {"coordinates":[-88.06693300000001,42.379083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270157115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.795729,40.694141,-89.795729,40.694141",
     "geom:latitude":40.694141,
     "geom:longitude":-89.795729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 Peoria St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270157115,
-    "wof:lastmodified":1449010739,
+    "wof:lastmodified":1466491353,
     "wof:name":"Washington Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.795729,40.694141,-89.795729,40.694141],
-  "geometry": {"coordinates":[-89.795729,40.694141],"type":"Point"}
+  "bbox": [
+    -89.795729,
+    40.694141,
+    -89.795729,
+    40.694141
+],
+  "geometry": {"coordinates":[-89.79572899999999,40.694141],"type":"Point"}
 }

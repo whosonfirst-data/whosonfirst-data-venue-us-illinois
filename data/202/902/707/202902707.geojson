@@ -2,13 +2,14 @@
   "id": 202902707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.398798,41.487012,-90.398798,41.487012",
     "geom:latitude":41.487012,
     "geom:longitude":-90.398798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 Lindenwood Ave",
     "sg:city":"East Moline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202902707,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466493205,
     "wof:name":"Vector Machine & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-90.398798,41.487012,-90.398798,41.487012],
+  "bbox": [
+    -90.398798,
+    41.487012,
+    -90.398798,
+    41.487012
+],
   "geometry": {"coordinates":[-90.398798,41.487012],"type":"Point"}
 }

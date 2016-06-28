@@ -2,13 +2,14 @@
   "id": 185688667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.726514,39.70813,-90.726514,39.70813",
     "geom:latitude":39.70813,
     "geom:longitude":-90.726514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Corey St",
     "sg:city":"Griggsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185688667,
-    "wof:lastmodified":1449007209,
+    "wof:lastmodified":1466495743,
     "wof:name":"Grittsville Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.726514,39.70813,-90.726514,39.70813],
-  "geometry": {"coordinates":[-90.726514,39.70813],"type":"Point"}
+  "bbox": [
+    -90.726514,
+    39.70813,
+    -90.726514,
+    39.70813
+],
+  "geometry": {"coordinates":[-90.72651399999999,39.70813],"type":"Point"}
 }

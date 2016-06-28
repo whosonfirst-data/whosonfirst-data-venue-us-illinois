@@ -2,13 +2,14 @@
   "id": 286865227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.84209,41.346618,-88.84209,41.346618",
     "geom:latitude":41.346618,
     "geom:longitude":-88.84209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Court St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286865227,
-    "wof:lastmodified":1449017402,
+    "wof:lastmodified":1466497731,
     "wof:name":"Senate Billiards",
     "wof:parent_id":85890875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.84209,41.346618,-88.84209,41.346618],
+  "bbox": [
+    -88.84209,
+    41.346618,
+    -88.84209,
+    41.346618
+],
   "geometry": {"coordinates":[-88.84209,41.346618],"type":"Point"}
 }

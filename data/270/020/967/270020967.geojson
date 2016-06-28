@@ -2,13 +2,14 @@
   "id": 270020967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.093099,42.272984,-89.093099,42.272984",
     "geom:latitude":42.272984,
     "geom:longitude":-89.093099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270020967,
-    "wof:lastmodified":1449009780,
+    "wof:lastmodified":1466489342,
     "wof:name":"Winnebago County Veterans",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.093099,42.272984,-89.093099,42.272984],
+  "bbox": [
+    -89.093099,
+    42.272984,
+    -89.093099,
+    42.272984
+],
   "geometry": {"coordinates":[-89.093099,42.272984],"type":"Point"}
 }

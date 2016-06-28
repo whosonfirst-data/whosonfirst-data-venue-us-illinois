@@ -2,13 +2,14 @@
   "id": 253724671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.657328,41.716863,-87.657328,41.716863",
     "geom:latitude":41.716863,
     "geom:longitude":-87.657328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W 97th Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253724671,
-    "wof:lastmodified":1449065743,
+    "wof:lastmodified":1466497709,
     "wof:name":"Two Cents Production",
     "wof:parent_id":85867797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-87.657328,41.716863,-87.657328,41.716863],
-  "geometry": {"coordinates":[-87.657328,41.716863],"type":"Point"}
+  "bbox": [
+    -87.657328,
+    41.716863,
+    -87.657328,
+    41.716863
+],
+  "geometry": {"coordinates":[-87.65732800000001,41.716863],"type":"Point"}
 }

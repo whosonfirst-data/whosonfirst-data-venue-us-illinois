@@ -2,13 +2,14 @@
   "id": 236010373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.070983,42.458063,-89.070983,42.458063",
     "geom:latitude":42.458063,
     "geom:longitude":-89.070983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 N Blackhawk Blvd",
     "sg:city":"Rockton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236010373,
-    "wof:lastmodified":1449003759,
+    "wof:lastmodified":1466489080,
     "wof:name":"Marco's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.070983,42.458063,-89.070983,42.458063],
+  "bbox": [
+    -89.070983,
+    42.458063,
+    -89.070983,
+    42.458063
+],
   "geometry": {"coordinates":[-89.070983,42.458063],"type":"Point"}
 }

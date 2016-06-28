@@ -2,13 +2,14 @@
   "id": 219805293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.900326,41.853363,-87.900326,41.853363",
     "geom:latitude":41.853363,
     "geom:longitude":-87.900326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Heidorn Ave",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219805293,
-    "wof:lastmodified":1449071574,
+    "wof:lastmodified":1466496725,
     "wof:name":"Oilit Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.900326,41.853363,-87.900326,41.853363],
-  "geometry": {"coordinates":[-87.900326,41.853363],"type":"Point"}
+  "bbox": [
+    -87.900326,
+    41.853363,
+    -87.900326,
+    41.853363
+],
+  "geometry": {"coordinates":[-87.90032600000001,41.853363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270285013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.842768,41.474609,-87.842768,41.474609",
     "geom:latitude":41.474609,
     "geom:longitude":-87.842768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9302 Gulfstream Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270285013,
-    "wof:lastmodified":1449008739,
+    "wof:lastmodified":1466493356,
     "wof:name":"Graefen & Dillman Development",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.842768,41.474609,-87.842768,41.474609],
-  "geometry": {"coordinates":[-87.842768,41.474609],"type":"Point"}
+  "bbox": [
+    -87.842768,
+    41.474609,
+    -87.842768,
+    41.474609
+],
+  "geometry": {"coordinates":[-87.84276800000001,41.474609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203179745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.24088,39.716133,-90.24088,39.716133",
     "geom:latitude":39.716133,
     "geom:longitude":-90.24088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Tendick St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203179745,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466489124,
     "wof:name":"ARC Jacksonville LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-90.24088,39.716133,-90.24088,39.716133],
+  "bbox": [
+    -90.24088,
+    39.716133,
+    -90.24088,
+    39.716133
+],
   "geometry": {"coordinates":[-90.24088,39.716133],"type":"Point"}
 }

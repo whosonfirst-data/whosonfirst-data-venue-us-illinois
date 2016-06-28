@@ -2,13 +2,14 @@
   "id": 269608253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.861298,38.714946,-87.861298,38.714946",
     "geom:latitude":38.714946,
     "geom:longitude":-87.861298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S Christy Ave",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269608253,
-    "wof:lastmodified":1449037157,
+    "wof:lastmodified":1466490955,
     "wof:name":"Sumner Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-87.861298,38.714946,-87.861298,38.714946],
-  "geometry": {"coordinates":[-87.861298,38.714946],"type":"Point"}
+  "bbox": [
+    -87.861298,
+    38.714946,
+    -87.861298,
+    38.714946
+],
+  "geometry": {"coordinates":[-87.86129800000001,38.714946],"type":"Point"}
 }

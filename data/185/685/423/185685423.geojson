@@ -2,13 +2,14 @@
   "id": 185685423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.951153,40.031122,-90.951153,40.031122",
     "geom:latitude":40.031122,
     "geom:longitude":-90.951153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 E Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185685423,
-    "wof:lastmodified":1449008143,
+    "wof:lastmodified":1466494546,
     "wof:name":"Hapke Garage",
     "wof:parent_id":85867471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-90.951153,40.031122,-90.951153,40.031122],
-  "geometry": {"coordinates":[-90.951153,40.031122],"type":"Point"}
+  "bbox": [
+    -90.951153,
+    40.031122,
+    -90.951153,
+    40.031122
+],
+  "geometry": {"coordinates":[-90.95115300000001,40.031122],"type":"Point"}
 }

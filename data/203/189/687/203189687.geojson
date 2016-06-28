@@ -2,13 +2,14 @@
   "id": 203189687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.555653,40.12141,-90.555653,40.12141",
     "geom:latitude":40.12141,
     "geom:longitude":-90.555653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Buchanan St",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203189687,
-    "wof:lastmodified":1449026299,
+    "wof:lastmodified":1466489235,
     "wof:name":"Washington Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.555653,40.12141,-90.555653,40.12141],
-  "geometry": {"coordinates":[-90.555653,40.12141],"type":"Point"}
+  "bbox": [
+    -90.555653,
+    40.12141,
+    -90.555653,
+    40.12141
+],
+  "geometry": {"coordinates":[-90.55565300000001,40.12141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269746753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.937255,41.874396,-87.937255,41.874396",
     "geom:latitude":41.874396,
     "geom:longitude":-87.937255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Adams St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269746753,
-    "wof:lastmodified":1449036126,
+    "wof:lastmodified":1466493173,
     "wof:name":"Sonenberg Bozana",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialist"
     ]
 },
-  "bbox": [-87.937255,41.874396,-87.937255,41.874396],
-  "geometry": {"coordinates":[-87.937255,41.874396],"type":"Point"}
+  "bbox": [
+    -87.937255,
+    41.874396,
+    -87.937255,
+    41.874396
+],
+  "geometry": {"coordinates":[-87.93725499999999,41.874396],"type":"Point"}
 }

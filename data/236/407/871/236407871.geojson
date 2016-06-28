@@ -2,13 +2,14 @@
   "id": 236407871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.976583,40.314245,-88.976583,40.314245",
     "geom:latitude":40.314245,
     "geom:longitude":-88.976583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Main St",
     "sg:city":"Heyworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236407871,
-    "wof:lastmodified":1449003496,
+    "wof:lastmodified":1466494166,
     "wof:name":"Daniel's Home Furnishing",
     "wof:parent_id":85867925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.976583,40.314245,-88.976583,40.314245],
-  "geometry": {"coordinates":[-88.976583,40.314245],"type":"Point"}
+  "bbox": [
+    -88.976583,
+    40.314245,
+    -88.976583,
+    40.314245
+],
+  "geometry": {"coordinates":[-88.97658300000001,40.314245],"type":"Point"}
 }

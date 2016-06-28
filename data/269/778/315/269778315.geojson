@@ -2,13 +2,14 @@
   "id": 269778315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.940552,41.899903,-87.940552,41.899903",
     "geom:latitude":41.899903,
     "geom:longitude":-87.940552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W 1st St",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269778315,
-    "wof:lastmodified":1449036192,
+    "wof:lastmodified":1466493682,
     "wof:name":"Bob James Magician & Magic",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magician"
     ]
 },
-  "bbox": [-87.940552,41.899903,-87.940552,41.899903],
+  "bbox": [
+    -87.940552,
+    41.899903,
+    -87.940552,
+    41.899903
+],
   "geometry": {"coordinates":[-87.940552,41.899903],"type":"Point"}
 }

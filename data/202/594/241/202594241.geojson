@@ -2,13 +2,14 @@
   "id": 202594241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10505,41.762187,-88.10505,41.762187",
     "geom:latitude":41.762187,
     "geom:longitude":-88.10505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 Vail Ct",
     "sg:city":"Lisle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202594241,
-    "wof:lastmodified":1449060475,
+    "wof:lastmodified":1466489601,
     "wof:name":"Andounian  Scheri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.10505,41.762187,-88.10505,41.762187],
-  "geometry": {"coordinates":[-88.10505,41.762187],"type":"Point"}
+  "bbox": [
+    -88.10505,
+    41.762187,
+    -88.10505,
+    41.762187
+],
+  "geometry": {"coordinates":[-88.10505000000001,41.762187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202787787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693756,41.571799,-87.693756,41.571799",
     "geom:latitude":41.571799,
     "geom:longitude":-87.693756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 175th St",
     "sg:city":"Hazel Crest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202787787,
-    "wof:lastmodified":1449061276,
+    "wof:lastmodified":1466491801,
     "wof:name":"Beeper Shop & Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-87.693756,41.571799,-87.693756,41.571799],
-  "geometry": {"coordinates":[-87.693756,41.571799],"type":"Point"}
+  "bbox": [
+    -87.693756,
+    41.571799,
+    -87.693756,
+    41.571799
+],
+  "geometry": {"coordinates":[-87.69375599999999,41.571799],"type":"Point"}
 }

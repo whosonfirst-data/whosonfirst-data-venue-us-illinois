@@ -2,13 +2,14 @@
   "id": 219489163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.241369,37.729416,-89.241369,37.729416",
     "geom:latitude":37.729416,
     "geom:longitude":-89.241369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 W Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219489163,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466493061,
     "wof:name":"Beauty Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.241369,37.729416,-89.241369,37.729416],
-  "geometry": {"coordinates":[-89.241369,37.729416],"type":"Point"}
+  "bbox": [
+    -89.241369,
+    37.729416,
+    -89.241369,
+    37.729416
+],
+  "geometry": {"coordinates":[-89.24136900000001,37.729416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286629119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.629736,42.199955,-89.629736,42.199955",
     "geom:latitude":42.199955,
     "geom:longitude":-89.629736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12417 N State Rte 26",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286629119,
-    "wof:lastmodified":1449017438,
+    "wof:lastmodified":1466495816,
     "wof:name":"De-Red Polled Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.629736,42.199955,-89.629736,42.199955],
-  "geometry": {"coordinates":[-89.629736,42.199955],"type":"Point"}
+  "bbox": [
+    -89.629736,
+    42.199955,
+    -89.629736,
+    42.199955
+],
+  "geometry": {"coordinates":[-89.62973599999999,42.199955],"type":"Point"}
 }

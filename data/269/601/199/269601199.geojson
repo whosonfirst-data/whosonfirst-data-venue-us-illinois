@@ -2,13 +2,14 @@
   "id": 269601199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.540715,39.125509,-88.540715,39.125509",
     "geom:latitude":39.125509,
     "geom:longitude":-88.540715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N 3rd St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269601199,
-    "wof:lastmodified":1449037212,
+    "wof:lastmodified":1466490845,
     "wof:name":"St Anthony Grade School Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.540715,39.125509,-88.540715,39.125509],
-  "geometry": {"coordinates":[-88.540715,39.125509],"type":"Point"}
+  "bbox": [
+    -88.540715,
+    39.125509,
+    -88.540715,
+    39.125509
+],
+  "geometry": {"coordinates":[-88.54071500000001,39.125509],"type":"Point"}
 }

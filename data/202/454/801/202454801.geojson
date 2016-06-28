@@ -2,13 +2,14 @@
   "id": 202454801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.626185,40.826449,-89.626185,40.826449",
     "geom:latitude":40.826449,
     "geom:longitude":-89.626185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 W Miners Dr",
     "sg:city":"Dunlap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202454801,
-    "wof:lastmodified":1449062411,
+    "wof:lastmodified":1466494419,
     "wof:name":"Marcus Sorrell Electric",
     "wof:parent_id":85879823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.626185,40.826449,-89.626185,40.826449],
-  "geometry": {"coordinates":[-89.626185,40.826449],"type":"Point"}
+  "bbox": [
+    -89.626185,
+    40.826449,
+    -89.626185,
+    40.826449
+],
+  "geometry": {"coordinates":[-89.62618500000001,40.826449],"type":"Point"}
 }

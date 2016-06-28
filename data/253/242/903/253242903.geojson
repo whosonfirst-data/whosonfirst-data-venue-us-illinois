@@ -2,13 +2,14 @@
   "id": 253242903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.821931,41.892751,-87.821931,41.892751",
     "geom:latitude":41.892751,
     "geom:longitude":-87.821931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 Forest Ave",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253242903,
-    "wof:lastmodified":1449065423,
+    "wof:lastmodified":1466491909,
     "wof:name":"Mobil",
     "wof:parent_id":85890849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-87.821931,41.892751,-87.821931,41.892751],
-  "geometry": {"coordinates":[-87.821931,41.892751],"type":"Point"}
+  "bbox": [
+    -87.821931,
+    41.892751,
+    -87.821931,
+    41.892751
+],
+  "geometry": {"coordinates":[-87.82193100000001,41.892751],"type":"Point"}
 }

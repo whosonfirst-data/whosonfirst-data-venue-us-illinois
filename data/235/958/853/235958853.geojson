@@ -2,13 +2,14 @@
   "id": 235958853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.690013,40.461279,-90.690013,40.461279",
     "geom:latitude":40.461279,
     "geom:longitude":-90.690013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 W Calhoun St",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235958853,
-    "wof:lastmodified":1449008522,
+    "wof:lastmodified":1466489287,
     "wof:name":"Wesley Christian Child Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.690013,40.461279,-90.690013,40.461279],
-  "geometry": {"coordinates":[-90.690013,40.461279],"type":"Point"}
+  "bbox": [
+    -90.690013,
+    40.461279,
+    -90.690013,
+    40.461279
+],
+  "geometry": {"coordinates":[-90.69001299999999,40.461279],"type":"Point"}
 }

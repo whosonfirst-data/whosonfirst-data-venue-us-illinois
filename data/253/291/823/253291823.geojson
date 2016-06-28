@@ -2,13 +2,14 @@
   "id": 253291823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.852394,41.498379,-87.852394,41.498379",
     "geom:latitude":41.498379,
     "geom:longitude":-87.852394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Kansas St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253291823,
-    "wof:lastmodified":1449063730,
+    "wof:lastmodified":1466492603,
     "wof:name":"Frankfort Area Historical",
     "wof:parent_id":85890943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-87.852394,41.498379,-87.852394,41.498379],
+  "bbox": [
+    -87.852394,
+    41.498379,
+    -87.852394,
+    41.498379
+],
   "geometry": {"coordinates":[-87.852394,41.498379],"type":"Point"}
 }

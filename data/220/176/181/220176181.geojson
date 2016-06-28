@@ -2,13 +2,14 @@
   "id": 220176181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.993237,38.577961,-89.993237,38.577961",
     "geom:latitude":38.577961,
     "geom:longitude":-89.993237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Jubaka Dr",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220176181,
-    "wof:lastmodified":1449074582,
+    "wof:lastmodified":1466491083,
     "wof:name":"Dulaney Enterprises Inc",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-89.993237,38.577961,-89.993237,38.577961],
-  "geometry": {"coordinates":[-89.993237,38.577961],"type":"Point"}
+  "bbox": [
+    -89.993237,
+    38.577961,
+    -89.993237,
+    38.577961
+],
+  "geometry": {"coordinates":[-89.99323699999999,38.577961],"type":"Point"}
 }

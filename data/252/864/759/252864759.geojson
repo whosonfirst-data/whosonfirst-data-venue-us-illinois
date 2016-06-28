@@ -2,13 +2,14 @@
   "id": 252864759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.35709,39.943691,-91.35709,39.943691",
     "geom:latitude":39.943691,
     "geom:longitude":-91.35709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Christopher Ct",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252864759,
-    "wof:lastmodified":1449006529,
+    "wof:lastmodified":1466490991,
     "wof:name":"All Purpose Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-91.35709,39.943691,-91.35709,39.943691],
+  "bbox": [
+    -91.35709,
+    39.943691,
+    -91.35709,
+    39.943691
+],
   "geometry": {"coordinates":[-91.35709,39.943691],"type":"Point"}
 }

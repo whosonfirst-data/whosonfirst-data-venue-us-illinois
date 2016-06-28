@@ -2,13 +2,14 @@
   "id": 203207817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.962724,38.533549,-89.962724,38.533549",
     "geom:latitude":38.533549,
     "geom:longitude":-89.962724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 West Blvd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203207817,
-    "wof:lastmodified":1449026298,
+    "wof:lastmodified":1466489437,
     "wof:name":"Goodall Truck Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-89.962724,38.533549,-89.962724,38.533549],
-  "geometry": {"coordinates":[-89.962724,38.533549],"type":"Point"}
+  "bbox": [
+    -89.962724,
+    38.533549,
+    -89.962724,
+    38.533549
+],
+  "geometry": {"coordinates":[-89.96272399999999,38.533549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270320857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807026,41.90145,-87.807026,41.90145",
     "geom:latitude":41.90145,
     "geom:longitude":-87.807026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7209 Division St",
     "sg:city":"River Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270320857,
-    "wof:lastmodified":1449009242,
+    "wof:lastmodified":1466493905,
     "wof:name":"Secretarial Services By Sandi",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.807026,41.90145,-87.807026,41.90145],
-  "geometry": {"coordinates":[-87.807026,41.90145],"type":"Point"}
+  "bbox": [
+    -87.807026,
+    41.90145,
+    -87.807026,
+    41.90145
+],
+  "geometry": {"coordinates":[-87.80702599999999,41.90145],"type":"Point"}
 }

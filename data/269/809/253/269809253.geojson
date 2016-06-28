@@ -2,13 +2,14 @@
   "id": 269809253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.961345,41.874844,-87.961345,41.874844",
     "geom:latitude":41.874844,
     "geom:longitude":-87.961345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 State Rte 83",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":269809253,
-    "wof:lastmodified":1449038416,
+    "wof:lastmodified":1466494162,
     "wof:name":"Controls By Santucci Inc",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "temperature"
     ]
 },
-  "bbox": [-87.961345,41.874844,-87.961345,41.874844],
-  "geometry": {"coordinates":[-87.961345,41.874844],"type":"Point"}
+  "bbox": [
+    -87.961345,
+    41.874844,
+    -87.961345,
+    41.874844
+],
+  "geometry": {"coordinates":[-87.96134499999999,41.874844],"type":"Point"}
 }

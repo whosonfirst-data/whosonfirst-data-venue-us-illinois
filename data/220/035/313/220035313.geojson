@@ -2,13 +2,14 @@
   "id": 220035313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87059,41.105684,-87.87059,41.105684",
     "geom:latitude":41.105684,
     "geom:longitude":-87.87059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 W Jeffery St",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220035313,
-    "wof:lastmodified":1449074689,
+    "wof:lastmodified":1466489368,
     "wof:name":"Creative Carpentry & Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.87059,41.105684,-87.87059,41.105684],
-  "geometry": {"coordinates":[-87.87059,41.105684],"type":"Point"}
+  "bbox": [
+    -87.87059,
+    41.105684,
+    -87.87059,
+    41.105684
+],
+  "geometry": {"coordinates":[-87.87059000000001,41.105684],"type":"Point"}
 }

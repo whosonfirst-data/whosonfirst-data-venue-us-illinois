@@ -2,13 +2,14 @@
   "id": 203279389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.044739,37.753346,-89.044739,37.753346",
     "geom:latitude":37.753346,
     "geom:longitude":-89.044739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10273 Samuel Rd",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203279389,
-    "wof:lastmodified":1449025782,
+    "wof:lastmodified":1466490243,
     "wof:name":"Scrub Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-89.044739,37.753346,-89.044739,37.753346],
-  "geometry": {"coordinates":[-89.044739,37.753346],"type":"Point"}
+  "bbox": [
+    -89.044739,
+    37.753346,
+    -89.044739,
+    37.753346
+],
+  "geometry": {"coordinates":[-89.04473900000001,37.753346],"type":"Point"}
 }

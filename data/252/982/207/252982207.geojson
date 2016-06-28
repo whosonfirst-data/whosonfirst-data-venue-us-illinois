@@ -2,13 +2,14 @@
   "id": 252982207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.756126,41.608845,-87.756126,41.608845",
     "geom:latitude":41.608845,
     "geom:longitude":-87.756126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15601 Central Ave",
     "sg:city":"Oak Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252982207,
-    "wof:lastmodified":1449005601,
+    "wof:lastmodified":1466492553,
     "wof:name":"Oak Forest Park District",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-87.756126,41.608845,-87.756126,41.608845],
-  "geometry": {"coordinates":[-87.756126,41.608845],"type":"Point"}
+  "bbox": [
+    -87.756126,
+    41.608845,
+    -87.756126,
+    41.608845
+],
+  "geometry": {"coordinates":[-87.75612599999999,41.608845],"type":"Point"}
 }

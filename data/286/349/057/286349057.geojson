@@ -2,13 +2,14 @@
   "id": 286349057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.100158,40.504045,-91.100158,40.504045",
     "geom:latitude":40.504045,
     "geom:longitude":-91.100158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2099 E Co Rd 2100",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286349057,
-    "wof:lastmodified":1449016291,
+    "wof:lastmodified":1466491159,
     "wof:name":"Colusa Elevator Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "elevator"
     ]
 },
-  "bbox": [-91.100158,40.504045,-91.100158,40.504045],
-  "geometry": {"coordinates":[-91.100158,40.504045],"type":"Point"}
+  "bbox": [
+    -91.100158,
+    40.504045,
+    -91.100158,
+    40.504045
+],
+  "geometry": {"coordinates":[-91.10015799999999,40.504045],"type":"Point"}
 }

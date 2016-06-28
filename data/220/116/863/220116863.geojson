@@ -2,13 +2,14 @@
   "id": 220116863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.302607,39.680771,-88.302607,39.680771",
     "geom:latitude":39.680771,
     "geom:longitude":-88.302607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E Springfield Rd",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220116863,
-    "wof:lastmodified":1449074148,
+    "wof:lastmodified":1466490371,
     "wof:name":"Arcola Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-88.302607,39.680771,-88.302607,39.680771],
-  "geometry": {"coordinates":[-88.302607,39.680771],"type":"Point"}
+  "bbox": [
+    -88.302607,
+    39.680771,
+    -88.302607,
+    39.680771
+],
+  "geometry": {"coordinates":[-88.30260699999999,39.680771],"type":"Point"}
 }

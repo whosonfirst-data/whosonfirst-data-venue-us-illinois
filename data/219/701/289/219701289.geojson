@@ -2,13 +2,14 @@
   "id": 219701289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.900923,38.328621,-88.900923,38.328621",
     "geom:latitude":38.328621,
     "geom:longitude":-88.900923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Tolle Rd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219701289,
-    "wof:lastmodified":1449073192,
+    "wof:lastmodified":1466495556,
     "wof:name":"Sandusky Notary Hobby Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.900923,38.328621,-88.900923,38.328621],
-  "geometry": {"coordinates":[-88.900923,38.328621],"type":"Point"}
+  "bbox": [
+    -88.900923,
+    38.328621,
+    -88.900923,
+    38.328621
+],
+  "geometry": {"coordinates":[-88.90092300000001,38.328621],"type":"Point"}
 }

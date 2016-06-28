@@ -2,13 +2,14 @@
   "id": 169826217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984018,38.545595,-89.984018,38.545595",
     "geom:latitude":38.545595,
     "geom:longitude":-89.984018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Illinois St",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":169826217,
-    "wof:lastmodified":1449035073,
+    "wof:lastmodified":1466494835,
     "wof:name":"Swansea Rural King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "saw"
     ]
 },
-  "bbox": [-89.984018,38.545595,-89.984018,38.545595],
-  "geometry": {"coordinates":[-89.984018,38.545595],"type":"Point"}
+  "bbox": [
+    -89.984018,
+    38.545595,
+    -89.984018,
+    38.545595
+],
+  "geometry": {"coordinates":[-89.98401800000001,38.545595],"type":"Point"}
 }

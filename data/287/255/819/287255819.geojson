@@ -2,13 +2,14 @@
   "id": 287255819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.753442,41.881788,-87.753442,41.881788",
     "geom:latitude":41.881788,
     "geom:longitude":-87.753442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5112 W Washington Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287255819,
-    "wof:lastmodified":1449001058,
+    "wof:lastmodified":1466494066,
     "wof:name":"St Martin De Porres",
     "wof:parent_id":85803983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.753442,41.881788,-87.753442,41.881788],
-  "geometry": {"coordinates":[-87.753442,41.881788],"type":"Point"}
+  "bbox": [
+    -87.753442,
+    41.881788,
+    -87.753442,
+    41.881788
+],
+  "geometry": {"coordinates":[-87.75344200000001,41.881788],"type":"Point"}
 }

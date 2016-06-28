@@ -2,13 +2,14 @@
   "id": 236195033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.737721,41.516995,-87.737721,41.516995",
     "geom:latitude":41.516995,
     "geom:longitude":-87.737721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Village Cmns",
     "sg:city":"Matteson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236195033,
-    "wof:lastmodified":1449003893,
+    "wof:lastmodified":1466491361,
     "wof:name":"Matteson Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gallery"
     ]
 },
-  "bbox": [-87.737721,41.516995,-87.737721,41.516995],
-  "geometry": {"coordinates":[-87.737721,41.516995],"type":"Point"}
+  "bbox": [
+    -87.737721,
+    41.516995,
+    -87.737721,
+    41.516995
+],
+  "geometry": {"coordinates":[-87.73772099999999,41.516995],"type":"Point"}
 }

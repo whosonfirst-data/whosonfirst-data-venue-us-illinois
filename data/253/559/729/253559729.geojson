@@ -2,13 +2,14 @@
   "id": 253559729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.31885,41.762506,-88.31885,41.762506",
     "geom:latitude":41.762506,
     "geom:longitude":-88.31885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Spruce St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":253559729,
-    "wof:lastmodified":1449065109,
+    "wof:lastmodified":1466496557,
     "wof:name":"La Estrella Income Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-88.31885,41.762506,-88.31885,41.762506],
+  "bbox": [
+    -88.31885,
+    41.762506,
+    -88.31885,
+    41.762506
+],
   "geometry": {"coordinates":[-88.31885,41.762506],"type":"Point"}
 }

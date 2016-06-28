@@ -2,13 +2,14 @@
   "id": 269536519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.983989,41.4828,-87.983989,41.4828",
     "geom:latitude":41.4828,
     "geom:longitude":-87.983989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Laraway Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269536519,
-    "wof:lastmodified":1449037578,
+    "wof:lastmodified":1466489827,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.983989,41.4828,-87.983989,41.4828],
-  "geometry": {"coordinates":[-87.983989,41.4828],"type":"Point"}
+  "bbox": [
+    -87.983989,
+    41.4828,
+    -87.983989,
+    41.4828
+],
+  "geometry": {"coordinates":[-87.98398899999999,41.4828],"type":"Point"}
 }

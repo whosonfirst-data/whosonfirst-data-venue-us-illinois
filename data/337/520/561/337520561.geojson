@@ -2,13 +2,14 @@
   "id": 337520561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.10174,40.343172,-91.10174,40.343172",
     "geom:latitude":40.343172,
     "geom:longitude":-91.10174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N Co Rd 2100",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337520561,
-    "wof:lastmodified":1449027212,
+    "wof:lastmodified":1466492578,
     "wof:name":"Kenneth Coffman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.10174,40.343172,-91.10174,40.343172],
-  "geometry": {"coordinates":[-91.10174,40.343172],"type":"Point"}
+  "bbox": [
+    -91.10174,
+    40.343172,
+    -91.10174,
+    40.343172
+],
+  "geometry": {"coordinates":[-91.10174000000001,40.343172],"type":"Point"}
 }

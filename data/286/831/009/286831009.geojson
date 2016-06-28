@@ -2,13 +2,14 @@
   "id": 286831009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.538396,40.850706,-89.538396,40.850706",
     "geom:latitude":40.850706,
     "geom:longitude":-89.538396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13430 N Bridle Ln",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286831009,
-    "wof:lastmodified":1449016920,
+    "wof:lastmodified":1466497505,
     "wof:name":"Wiesehan Trucking Lane",
     "wof:parent_id":85812447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.538396,40.850706,-89.538396,40.850706],
-  "geometry": {"coordinates":[-89.538396,40.850706],"type":"Point"}
+  "bbox": [
+    -89.538396,
+    40.850706,
+    -89.538396,
+    40.850706
+],
+  "geometry": {"coordinates":[-89.53839600000001,40.850706],"type":"Point"}
 }

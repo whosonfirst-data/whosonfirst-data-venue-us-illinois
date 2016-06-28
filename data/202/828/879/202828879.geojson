@@ -2,13 +2,14 @@
   "id": 202828879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.563546,40.121564,-90.563546,40.121564",
     "geom:latitude":40.121564,
     "geom:longitude":-90.563546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Washington St",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202828879,
-    "wof:lastmodified":1449061406,
+    "wof:lastmodified":1466492309,
     "wof:name":"Andrews Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-90.563546,40.121564,-90.563546,40.121564],
+  "bbox": [
+    -90.563546,
+    40.121564,
+    -90.563546,
+    40.121564
+],
   "geometry": {"coordinates":[-90.563546,40.121564],"type":"Point"}
 }

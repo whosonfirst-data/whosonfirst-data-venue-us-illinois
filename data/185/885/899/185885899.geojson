@@ -2,13 +2,14 @@
   "id": 185885899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.716851,39.807076,-89.716851,39.807076",
     "geom:latitude":39.807076,
     "geom:longitude":-89.716851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Briana Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185885899,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466489806,
     "wof:name":"Wade Mgt Consulting Svcs",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-89.716851,39.807076,-89.716851,39.807076],
-  "geometry": {"coordinates":[-89.716851,39.807076],"type":"Point"}
+  "bbox": [
+    -89.716851,
+    39.807076,
+    -89.716851,
+    39.807076
+],
+  "geometry": {"coordinates":[-89.71685100000001,39.807076],"type":"Point"}
 }

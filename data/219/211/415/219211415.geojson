@@ -2,13 +2,14 @@
   "id": 219211415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.158184,41.503268,-88.158184,41.503268",
     "geom:latitude":41.503268,
     "geom:longitude":-88.158184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Greenleaf Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219211415,
-    "wof:lastmodified":1449071268,
+    "wof:lastmodified":1466489633,
     "wof:name":"Paradise Fountain & Ponds",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "display"
     ]
 },
-  "bbox": [-88.158184,41.503268,-88.158184,41.503268],
-  "geometry": {"coordinates":[-88.158184,41.503268],"type":"Point"}
+  "bbox": [
+    -88.158184,
+    41.503268,
+    -88.158184,
+    41.503268
+],
+  "geometry": {"coordinates":[-88.15818400000001,41.503268],"type":"Point"}
 }

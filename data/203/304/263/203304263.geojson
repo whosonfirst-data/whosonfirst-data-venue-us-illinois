@@ -2,13 +2,14 @@
   "id": 203304263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.073918,41.929763,-88.073918,41.929763",
     "geom:latitude":41.929763,
     "geom:longitude":-88.073918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Woodside Ln",
     "sg:city":"Glendale Heights",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203304263,
-    "wof:lastmodified":1449026376,
+    "wof:lastmodified":1466490520,
     "wof:name":"Fred Leiser",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-88.073918,41.929763,-88.073918,41.929763],
-  "geometry": {"coordinates":[-88.073918,41.929763],"type":"Point"}
+  "bbox": [
+    -88.073918,
+    41.929763,
+    -88.073918,
+    41.929763
+],
+  "geometry": {"coordinates":[-88.07391800000001,41.929763],"type":"Point"}
 }

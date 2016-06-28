@@ -2,13 +2,14 @@
   "id": 253539179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.966236,41.527458,-87.966236,41.527458",
     "geom:latitude":41.527458,
     "geom:longitude":-87.966236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 N Cedar Rd",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253539179,
-    "wof:lastmodified":1449065860,
+    "wof:lastmodified":1466496162,
     "wof:name":"Jurgens & Realtors",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.966236,41.527458,-87.966236,41.527458],
-  "geometry": {"coordinates":[-87.966236,41.527458],"type":"Point"}
+  "bbox": [
+    -87.966236,
+    41.527458,
+    -87.966236,
+    41.527458
+],
+  "geometry": {"coordinates":[-87.96623599999999,41.527458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269749633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.46514,41.381477,-89.46514,41.381477",
     "geom:latitude":41.381477,
     "geom:longitude":-89.46514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269749633,
-    "wof:lastmodified":1449036853,
+    "wof:lastmodified":1466493213,
     "wof:name":"Plant Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-89.46514,41.381477,-89.46514,41.381477],
-  "geometry": {"coordinates":[-89.46514,41.381477],"type":"Point"}
+  "bbox": [
+    -89.46514,
+    41.381477,
+    -89.46514,
+    41.381477
+],
+  "geometry": {"coordinates":[-89.46514000000001,41.381477],"type":"Point"}
 }

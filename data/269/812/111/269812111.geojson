@@ -2,13 +2,14 @@
   "id": 269812111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.125669,42.291846,-89.125669,42.291846",
     "geom:latitude":42.291846,
     "geom:longitude":-89.125669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 N Johnston Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269812111,
-    "wof:lastmodified":1449036207,
+    "wof:lastmodified":1466494207,
     "wof:name":"Northwest Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.125669,42.291846,-89.125669,42.291846],
+  "bbox": [
+    -89.125669,
+    42.291846,
+    -89.125669,
+    42.291846
+],
   "geometry": {"coordinates":[-89.125669,42.291846],"type":"Point"}
 }

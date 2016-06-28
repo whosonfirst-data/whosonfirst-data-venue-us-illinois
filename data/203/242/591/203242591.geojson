@@ -2,13 +2,14 @@
   "id": 203242591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100915,41.523415,-88.100915,41.523415",
     "geom:latitude":41.523415,
     "geom:longitude":-88.100915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 W Jefferson St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203242591,
-    "wof:lastmodified":1449026641,
+    "wof:lastmodified":1466489821,
     "wof:name":"Who's Next Hair Salon",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-88.100915,41.523415,-88.100915,41.523415],
+  "bbox": [
+    -88.100915,
+    41.523415,
+    -88.100915,
+    41.523415
+],
   "geometry": {"coordinates":[-88.100915,41.523415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252911861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.783837,40.521828,-88.783837,40.521828",
     "geom:latitude":40.521828,
     "geom:longitude":-88.783837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16302 N 2500 East Rd",
     "sg:city":"Cooksville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252911861,
-    "wof:lastmodified":1449006339,
+    "wof:lastmodified":1466491598,
     "wof:name":"Kerber Farm",
     "wof:parent_id":85867923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lessor"
     ]
 },
-  "bbox": [-88.783837,40.521828,-88.783837,40.521828],
-  "geometry": {"coordinates":[-88.783837,40.521828],"type":"Point"}
+  "bbox": [
+    -88.783837,
+    40.521828,
+    -88.783837,
+    40.521828
+],
+  "geometry": {"coordinates":[-88.78383700000001,40.521828],"type":"Point"}
 }

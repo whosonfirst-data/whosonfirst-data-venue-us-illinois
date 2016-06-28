@@ -2,13 +2,14 @@
   "id": 253514671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.05244,42.002518,-88.05244,42.002518",
     "geom:latitude":42.002518,
     "geom:longitude":-88.05244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Cutter Ln",
     "sg:city":"Elk Grove Vlg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253514671,
-    "wof:lastmodified":1449064309,
+    "wof:lastmodified":1466495885,
     "wof:name":"Applied Science Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scientist"
     ]
 },
-  "bbox": [-88.05244,42.002518,-88.05244,42.002518],
+  "bbox": [
+    -88.05244,
+    42.002518,
+    -88.05244,
+    42.002518
+],
   "geometry": {"coordinates":[-88.05244,42.002518],"type":"Point"}
 }

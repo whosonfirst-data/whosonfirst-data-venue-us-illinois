@@ -2,13 +2,14 @@
   "id": 203139129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.093747,41.538021,-88.093747,41.538021",
     "geom:latitude":41.538021,
     "geom:longitude":-88.093747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Ruby St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203139129,
-    "wof:lastmodified":1449025113,
+    "wof:lastmodified":1466495310,
     "wof:name":"Northern Illinois Real Estate",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-88.093747,41.538021,-88.093747,41.538021],
-  "geometry": {"coordinates":[-88.093747,41.538021],"type":"Point"}
+  "bbox": [
+    -88.093747,
+    41.538021,
+    -88.093747,
+    41.538021
+],
+  "geometry": {"coordinates":[-88.09374699999999,41.538021],"type":"Point"}
 }

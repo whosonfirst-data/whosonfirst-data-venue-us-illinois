@@ -2,13 +2,14 @@
   "id": 252867577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.752108,41.946441,-87.752108,41.946441",
     "geom:latitude":41.946441,
     "geom:longitude":-87.752108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3602 N Lavergne Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252867577,
-    "wof:lastmodified":1449005888,
+    "wof:lastmodified":1466491029,
     "wof:name":"Good Time Banquets Booking",
     "wof:parent_id":85867621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.752108,41.946441,-87.752108,41.946441],
-  "geometry": {"coordinates":[-87.752108,41.946441],"type":"Point"}
+  "bbox": [
+    -87.752108,
+    41.946441,
+    -87.752108,
+    41.946441
+],
+  "geometry": {"coordinates":[-87.75210800000001,41.946441],"type":"Point"}
 }

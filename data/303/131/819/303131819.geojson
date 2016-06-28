@@ -2,13 +2,14 @@
   "id": 303131819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.881966,41.848555,-87.881966,41.848555",
     "geom:latitude":41.848555,
     "geom:longitude":-87.881966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10415 W Cermak Rd",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303131819,
-    "wof:lastmodified":1448998853,
+    "wof:lastmodified":1466491929,
     "wof:name":"Activation Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.881966,41.848555,-87.881966,41.848555],
-  "geometry": {"coordinates":[-87.881966,41.848555],"type":"Point"}
+  "bbox": [
+    -87.881966,
+    41.848555,
+    -87.881966,
+    41.848555
+],
+  "geometry": {"coordinates":[-87.88196600000001,41.848555],"type":"Point"}
 }

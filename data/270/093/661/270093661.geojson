@@ -2,13 +2,14 @@
   "id": 270093661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.520131,40.408819,-89.520131,40.408819",
     "geom:latitude":40.408819,
     "geom:longitude":-89.520131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21713 Toboggan Ave",
     "sg:city":"Delavan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270093661,
-    "wof:lastmodified":1449008665,
+    "wof:lastmodified":1466490415,
     "wof:name":"D Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-89.520131,40.408819,-89.520131,40.408819],
-  "geometry": {"coordinates":[-89.520131,40.408819],"type":"Point"}
+  "bbox": [
+    -89.520131,
+    40.408819,
+    -89.520131,
+    40.408819
+],
+  "geometry": {"coordinates":[-89.52013100000001,40.408819],"type":"Point"}
 }

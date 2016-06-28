@@ -2,13 +2,14 @@
   "id": 270310463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.653562,41.964543,-87.653562,41.964543",
     "geom:latitude":41.964543,
     "geom:longitude":-87.653562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 W Windsor Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270310463,
-    "wof:lastmodified":1449010145,
+    "wof:lastmodified":1466493748,
     "wof:name":"Robert H Mittelman",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.653562,41.964543,-87.653562,41.964543],
-  "geometry": {"coordinates":[-87.653562,41.964543],"type":"Point"}
+  "bbox": [
+    -87.653562,
+    41.964543,
+    -87.653562,
+    41.964543
+],
+  "geometry": {"coordinates":[-87.65356199999999,41.964543],"type":"Point"}
 }

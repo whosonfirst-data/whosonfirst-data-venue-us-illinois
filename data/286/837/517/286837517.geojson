@@ -2,13 +2,14 @@
   "id": 286837517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.696596,41.720866,-87.696596,41.720866",
     "geom:latitude":41.720866,
     "geom:longitude":-87.696596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2952 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286837517,
-    "wof:lastmodified":1449015627,
+    "wof:lastmodified":1466497698,
     "wof:name":"Trans Parts",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-87.696596,41.720866,-87.696596,41.720866],
+  "bbox": [
+    -87.696596,
+    41.720866,
+    -87.696596,
+    41.720866
+],
   "geometry": {"coordinates":[-87.696596,41.720866],"type":"Point"}
 }

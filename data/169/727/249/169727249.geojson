@@ -2,13 +2,14 @@
   "id": 169727249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.953004,38.781443,-89.953004,38.781443",
     "geom:latitude":38.781443,
     "geom:longitude":-89.953004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6659 Center Grove Rd",
     "sg:city":"Edwardsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169727249,
-    "wof:lastmodified":1449033187,
+    "wof:lastmodified":1466492913,
     "wof:name":"F C B Edwardsville Bank",
     "wof:parent_id":85830103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "commercial"
     ]
 },
-  "bbox": [-89.953004,38.781443,-89.953004,38.781443],
-  "geometry": {"coordinates":[-89.953004,38.781443],"type":"Point"}
+  "bbox": [
+    -89.953004,
+    38.781443,
+    -89.953004,
+    38.781443
+],
+  "geometry": {"coordinates":[-89.95300400000001,38.781443],"type":"Point"}
 }

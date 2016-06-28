@@ -2,13 +2,14 @@
   "id": 236351823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.505305,42.49847,-90.505305,42.49847",
     "geom:latitude":42.49847,
     "geom:longitude":-90.505305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14100 E Creek Valley Rd",
     "sg:city":"East Dubuque",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236351823,
-    "wof:lastmodified":1449004653,
+    "wof:lastmodified":1466493420,
     "wof:name":"Joseph Heitkamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.505305,42.49847,-90.505305,42.49847],
-  "geometry": {"coordinates":[-90.505305,42.49847],"type":"Point"}
+  "bbox": [
+    -90.505305,
+    42.49847,
+    -90.505305,
+    42.49847
+],
+  "geometry": {"coordinates":[-90.50530500000001,42.49847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253455193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.795145,41.87311,-87.795145,41.87311",
     "geom:latitude":41.87311,
     "geom:longitude":-87.795145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Grove Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253455193,
-    "wof:lastmodified":1449065293,
+    "wof:lastmodified":1466495129,
     "wof:name":"Kozar Dvid F Technical Writing",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.795145,41.87311,-87.795145,41.87311],
-  "geometry": {"coordinates":[-87.795145,41.87311],"type":"Point"}
+  "bbox": [
+    -87.795145,
+    41.87311,
+    -87.795145,
+    41.87311
+],
+  "geometry": {"coordinates":[-87.79514500000001,41.87311],"type":"Point"}
 }

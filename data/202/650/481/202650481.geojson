@@ -2,13 +2,14 @@
   "id": 202650481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.130445,41.940412,-89.130445,41.940412",
     "geom:latitude":41.940412,
     "geom:longitude":-89.130445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10341 E Flagg Rd",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202650481,
-    "wof:lastmodified":1449061670,
+    "wof:lastmodified":1466490244,
     "wof:name":"Rick Kim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.130445,41.940412,-89.130445,41.940412],
-  "geometry": {"coordinates":[-89.130445,41.940412],"type":"Point"}
+  "bbox": [
+    -89.130445,
+    41.940412,
+    -89.130445,
+    41.940412
+],
+  "geometry": {"coordinates":[-89.13044499999999,41.940412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269937327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087241,41.888377,-88.087241,41.888377",
     "geom:latitude":41.888377,
     "geom:longitude":-88.087241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 N Summit St",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269937327,
-    "wof:lastmodified":1449036596,
+    "wof:lastmodified":1466495952,
     "wof:name":"Xanadu Technologies",
     "wof:parent_id":85891053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.087241,41.888377,-88.087241,41.888377],
-  "geometry": {"coordinates":[-88.087241,41.888377],"type":"Point"}
+  "bbox": [
+    -88.087241,
+    41.888377,
+    -88.087241,
+    41.888377
+],
+  "geometry": {"coordinates":[-88.08724100000001,41.888377],"type":"Point"}
 }

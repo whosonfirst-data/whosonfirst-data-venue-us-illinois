@@ -2,13 +2,14 @@
   "id": 202525647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.670167,40.45906,-90.670167,40.45906",
     "geom:latitude":40.45906,
     "geom:longitude":-90.670167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 E Side Sq",
     "sg:city":"Macomb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202525647,
-    "wof:lastmodified":1449062137,
+    "wof:lastmodified":1466495496,
     "wof:name":"Diamond Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.670167,40.45906,-90.670167,40.45906],
-  "geometry": {"coordinates":[-90.670167,40.45906],"type":"Point"}
+  "bbox": [
+    -90.670167,
+    40.45906,
+    -90.670167,
+    40.45906
+],
+  "geometry": {"coordinates":[-90.67016700000001,40.45906],"type":"Point"}
 }

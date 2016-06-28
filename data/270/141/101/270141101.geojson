@@ -2,13 +2,14 @@
   "id": 270141101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.845061,41.836792,-87.845061,41.836792",
     "geom:latitude":41.836792,
     "geom:longitude":-87.845061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8903 30th St",
     "sg:city":"Naperville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270141101,
-    "wof:lastmodified":1449009496,
+    "wof:lastmodified":1466491123,
     "wof:name":"Hampton Builders and Remodeler",
     "wof:parent_id":85867579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.845061,41.836792,-87.845061,41.836792],
+  "bbox": [
+    -87.845061,
+    41.836792,
+    -87.845061,
+    41.836792
+],
   "geometry": {"coordinates":[-87.845061,41.836792],"type":"Point"}
 }
