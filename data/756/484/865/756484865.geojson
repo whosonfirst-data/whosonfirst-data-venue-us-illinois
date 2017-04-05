@@ -2,9 +2,14 @@
   "id": 756484865,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E 33rd St Suite 205 Chicago IL 210005",
+    "addr:housenumber":"500",
+    "addr:postcode":"210005",
+    "addr:street":"E 33Rd St Suite 205",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.976348,40.744091,-73.976348,40.744091",
     "geom:latitude":40.744091,
     "geom:longitude":-73.976348,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85868041,
         102191575,
+        907215781,
         85633793,
         85977539,
         421205771,
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081863,
             "locality_id":85977539,
+            "macrohood_id":907215781,
             "neighbourhood_id":85868041,
             "region_id":85688543,
             "venue_id":756484865
         }
     ],
     "wof:id":756484865,
-    "wof:lastmodified":1466502868,
+    "wof:lastmodified":1491262145,
     "wof:name":"BPOVIA Virtual Assistant Service",
     "wof:parent_id":85868041,
     "wof:placetype":"venue",

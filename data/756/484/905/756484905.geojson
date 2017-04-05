@@ -2,9 +2,14 @@
   "id": 756484905,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Great Oaks San Jose IL 95119",
+    "addr:housenumber":"11",
+    "addr:postcode":"95119",
+    "addr:street":"Great Oaks",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.7764,37.23944,-121.7764,37.23944",
     "geom:latitude":37.23944,
     "geom:longitude":-121.7764,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.SimpleCDN.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887539,
         102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887539
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887539,
             "region_id":85688637,
             "venue_id":756484905
         }
     ],
     "wof:id":756484905,
-    "wof:lastmodified":1466502819,
+    "wof:lastmodified":1485394463,
     "wof:name":"SimpleCDN",
     "wof:parent_id":85887539,
     "wof:placetype":"venue",
