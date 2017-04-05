@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.699718,41.910332,-87.699718,41.910332",
     "geom:latitude":41.910332,
     "geom:longitude":-87.699718,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867633
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"7efc9e9b13116cb2d7e4c568f4c266f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867633,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":252965395
         }
     ],
     "wof:id":252965395,
-    "wof:lastmodified":1472621128,
+    "wof:lastmodified":1491368800,
     "wof:name":"Saint Lukes Church",
-    "wof:parent_id":85867633,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

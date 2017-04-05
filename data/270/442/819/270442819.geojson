@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.740764,41.880476,-87.740764,41.880476",
     "geom:latitude":41.880476,
     "geom:longitude":-87.740764,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518823,
+        102191575,
+        404496273,
         85633793,
         85940195,
-        102084317
+        957979099,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,21 @@
     "wof:geomhash":"57fbd5773db4a0a0e7271d5d25d1e4e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518823,
             "region_id":85688697,
             "venue_id":270442819
         }
     ],
     "wof:id":270442819,
-    "wof:lastmodified":1472621476,
+    "wof:lastmodified":1491370952,
     "wof:name":"Upward Bound",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.627076,41.858355,-87.627076,41.858355",
     "geom:latitude":41.858355,
     "geom:longitude":-87.627076,
@@ -40,11 +41,12 @@
     "sg:website":"www.dogonefunchicago.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865731,
+        85865737,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -57,20 +59,21 @@
     "wof:geomhash":"b2046f18738c29185e5815cdef2868e5",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865731,
+            "neighbourhood_id":85865737,
             "region_id":85688697,
             "venue_id":756232199
         }
     ],
     "wof:id":756232199,
-    "wof:lastmodified":1472621981,
+    "wof:lastmodified":1491368168,
     "wof:name":"Dogone Fun",
-    "wof:parent_id":85865731,
+    "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.699464,41.847127,-87.699464,41.847127",
     "geom:latitude":41.847127,
     "geom:longitude":-87.699464,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867519,
+        975149661,
+        85867775,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -51,20 +54,22 @@
     "wof:geomhash":"82d5ff88d231edf23b9b72379eb04fed",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867519,
+            "microhood_id":975149661,
+            "neighbourhood_id":85867775,
             "region_id":85688697,
             "venue_id":756273279
         }
     ],
     "wof:id":756273279,
-    "wof:lastmodified":1472622060,
+    "wof:lastmodified":1491372914,
     "wof:name":"City of Chicago School District 299",
-    "wof:parent_id":85867519,
+    "wof:parent_id":975149661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

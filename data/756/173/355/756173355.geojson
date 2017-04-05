@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.631249,41.896628,-87.631249,41.896628",
     "geom:latitude":41.896628,
     "geom:longitude":-87.631249,
@@ -49,11 +50,13 @@
     "sg:website":"http://www.keillarson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867793,
+        957760607,
+        85866931,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -66,20 +69,22 @@
     "wof:geomhash":"fc4c4a1766c44ab0364ec5c131e3cb55",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867793,
+            "microhood_id":957760607,
+            "neighbourhood_id":85866931,
             "region_id":85688697,
             "venue_id":756173355
         }
     ],
     "wof:id":756173355,
-    "wof:lastmodified":1472621883,
+    "wof:lastmodified":1491372789,
     "wof:name":"Larson Keil M",
-    "wof:parent_id":85867793,
+    "wof:parent_id":957760607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

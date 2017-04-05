@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.754307,41.953408,-87.754307,41.953408",
     "geom:latitude":41.953408,
     "geom:longitude":-87.754307,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867763,
+        102191575,
+        404496273,
         85633793,
         85940195,
         102084317,
-        85867763
+        85688697,
+        420518911,
+        958020405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,31 @@
     "wof:geomhash":"06a5c84a2c00acdd06e10a4154c1cdff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867763,
+            "region_id":85688697,
+            "venue_id":303200617
+        },
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420518911,
             "region_id":85688697,
             "venue_id":303200617
         }
     ],
     "wof:id":303200617,
-    "wof:lastmodified":1472621009,
+    "wof:lastmodified":1491371463,
     "wof:name":"Irving Parks Medical Center",
-    "wof:parent_id":85867763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

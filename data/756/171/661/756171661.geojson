@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.662405,41.801378,-87.662405,41.801378",
     "geom:latitude":41.801378,
     "geom:longitude":-87.662405,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865725,
+        85867501,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"acdc728024be30a0fe35b496d74829b6",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865725,
+            "neighbourhood_id":85867501,
             "region_id":85688697,
             "venue_id":756171661
         }
     ],
     "wof:id":756171661,
-    "wof:lastmodified":1472621889,
+    "wof:lastmodified":1491369559,
     "wof:name":"Tandex Construction",
-    "wof:parent_id":85865725,
+    "wof:parent_id":85867501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

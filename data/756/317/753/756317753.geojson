@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.586416,41.773187,-87.586416,41.773187",
     "geom:latitude":41.773187,
     "geom:longitude":-87.586416,
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866937,
+        974518251,
+        420518839,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -56,20 +59,22 @@
     "wof:geomhash":"22c338448f8404d4b43a56c61b923079",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866937,
+            "microhood_id":974518251,
+            "neighbourhood_id":420518839,
             "region_id":85688697,
             "venue_id":756317753
         }
     ],
     "wof:id":756317753,
-    "wof:lastmodified":1472622104,
+    "wof:lastmodified":1491372858,
     "wof:name":"Wonder Food & Liquors",
-    "wof:parent_id":85866937,
+    "wof:parent_id":974518251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

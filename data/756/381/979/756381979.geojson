@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.718422,41.705952,-87.718422,41.705952",
     "geom:latitude":41.705952,
     "geom:longitude":-87.718422,
@@ -42,11 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866783,
+        420783611,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -59,20 +61,21 @@
     "wof:geomhash":"fbf3781e64b73b42aa34e3f138d1333e",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866783,
+            "neighbourhood_id":420783611,
             "region_id":85688697,
             "venue_id":756381979
         }
     ],
     "wof:id":756381979,
-    "wof:lastmodified":1472622168,
+    "wof:lastmodified":1491372097,
     "wof:name":"Chicago Metro Restoration Service",
-    "wof:parent_id":85866783,
+    "wof:parent_id":420783611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.650207,41.905948,-87.650207,41.905948",
     "geom:latitude":41.905948,
     "geom:longitude":-87.650207,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867595,
+        85869277,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"c065f4af8461658bb9d0ec828f58626d",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867595,
+            "neighbourhood_id":85869277,
             "region_id":85688697,
             "venue_id":756262873
         }
     ],
     "wof:id":756262873,
-    "wof:lastmodified":1472622063,
+    "wof:lastmodified":1491370320,
     "wof:name":"D M A C Architecture",
-    "wof:parent_id":85867595,
+    "wof:parent_id":85869277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

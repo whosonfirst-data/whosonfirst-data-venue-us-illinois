@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.70075,41.958364,-87.70075,41.958364",
     "geom:latitude":41.958364,
     "geom:longitude":-87.70075,
@@ -38,11 +39,12 @@
     "sg:website":"http://www.panopta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865759,
+        85865763,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -55,20 +57,21 @@
     "wof:geomhash":"afb43bb66b7516dea0e56572004ec3dc",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865759,
+            "neighbourhood_id":85865763,
             "region_id":85688697,
             "venue_id":756485601
         }
     ],
     "wof:id":756485601,
-    "wof:lastmodified":1472622256,
+    "wof:lastmodified":1491368917,
     "wof:name":"Panopta",
-    "wof:parent_id":85865759,
+    "wof:parent_id":85865763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

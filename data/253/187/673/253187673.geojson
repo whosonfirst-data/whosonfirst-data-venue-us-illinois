@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.698571,41.746771,-87.698571,41.746771",
     "geom:latitude":41.746771,
     "geom:longitude":-87.698571,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783575,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867495
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"39b7dbeca69ab6f87daf08f2f399f9dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867495,
+            "neighbourhood_id":420783575,
             "region_id":85688697,
             "venue_id":253187673
         }
     ],
     "wof:id":253187673,
-    "wof:lastmodified":1472621232,
+    "wof:lastmodified":1491372036,
     "wof:name":"Emergency Service Victim Spprt",
-    "wof:parent_id":85867495,
+    "wof:parent_id":420783575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

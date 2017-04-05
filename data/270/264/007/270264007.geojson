@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.673743,42.019466,-87.673743,42.019466",
     "geom:latitude":42.019466,
     "geom:longitude":-87.673743,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890785,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890785
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"552a49a7e0c3a590c6b054897b6732e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890785,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270264007,
-    "wof:lastmodified":1472621331,
+    "wof:lastmodified":1491370768,
     "wof:name":"Evanston Communications",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",

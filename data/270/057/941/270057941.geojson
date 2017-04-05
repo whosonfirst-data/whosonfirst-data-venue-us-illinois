@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.697716,41.917484,-87.697716,41.917484",
     "geom:latitude":41.917484,
     "geom:longitude":-87.697716,
@@ -36,11 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867633
+        85688697
     ],
     "wof:brand_id":420574273,
     "wof:breaches":[],
@@ -51,19 +55,21 @@
     "wof:geomhash":"e534753509eec0e1ea136d1695e42e32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867633,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":270057941
         }
     ],
     "wof:id":270057941,
-    "wof:lastmodified":1472620926,
+    "wof:lastmodified":1491368780,
     "wof:name":"Amoco",
-    "wof:parent_id":85867633,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

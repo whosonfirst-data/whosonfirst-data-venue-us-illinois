@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.656685,41.891733,-87.656685,41.891733",
     "geom:latitude":41.891733,
     "geom:longitude":-87.656685,
@@ -34,11 +35,13 @@
     "sg:website":"www.RedDancePilates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822723,
+        974522607,
+        85866935,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -51,20 +54,22 @@
     "wof:geomhash":"abe14012164ac23ab7b4a5e38ec959e1",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85822723,
+            "microhood_id":974522607,
+            "neighbourhood_id":85866935,
             "region_id":85688697,
             "venue_id":756344261
         }
     ],
     "wof:id":756344261,
-    "wof:lastmodified":1472622120,
+    "wof:lastmodified":1491372896,
     "wof:name":"RedDance Pilates",
-    "wof:parent_id":85822723,
+    "wof:parent_id":974522607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

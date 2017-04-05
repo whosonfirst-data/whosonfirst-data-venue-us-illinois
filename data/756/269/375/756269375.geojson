@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.661635,41.89092,-87.661635,41.89092",
     "geom:latitude":41.89092,
     "geom:longitude":-87.661635,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822723,
+        85866935,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"a8dcec67ead0309ed863e1c6b137fe20",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85822723,
+            "neighbourhood_id":85866935,
             "region_id":85688697,
             "venue_id":756269375
         }
     ],
     "wof:id":756269375,
-    "wof:lastmodified":1472622054,
+    "wof:lastmodified":1491369459,
     "wof:name":"Design",
-    "wof:parent_id":85822723,
+    "wof:parent_id":85866935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.874338,41.980184,-87.874338,41.980184",
     "geom:latitude":41.980184,
     "geom:longitude":-87.874338,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
         85940945,
         102084317,
-        85867751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f364a4635571c6e7e46220092b503c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497625,
             "locality_id":85940945,
             "neighbourhood_id":85867751,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269620159,
-    "wof:lastmodified":1472621119,
+    "wof:lastmodified":1491369927,
     "wof:name":"First Pan Hellenic Corp",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",

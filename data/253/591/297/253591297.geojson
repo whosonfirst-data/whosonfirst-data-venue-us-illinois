@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.644431,41.938764,-87.644431,41.938764",
     "geom:latitude":41.938764,
     "geom:longitude":-87.644431,
@@ -35,10 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        974518243,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +54,22 @@
     "wof:geomhash":"c90a77e92a2f3b86d18f632cac9f8749",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "microhood_id":974518243,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":253591297
         }
     ],
     "wof:id":253591297,
-    "wof:lastmodified":1472621597,
+    "wof:lastmodified":1491372840,
     "wof:name":"Contacts & Specs Unlimited",
-    "wof:parent_id":85882181,
+    "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.702441,41.754307,-87.702441,41.754307",
     "geom:latitude":41.754307,
     "geom:longitude":-87.702441,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867495,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867495
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,11 @@
     "wof:geomhash":"470c7de3dba886ac884c8fbef9b14fce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867495,
             "region_id":85688697,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":202904173,
-    "wof:lastmodified":1472621300,
+    "wof:lastmodified":1491369513,
     "wof:name":"El Tradicional",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",

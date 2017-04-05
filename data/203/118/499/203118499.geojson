@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.642901,41.88758,-87.642901,41.88758",
     "geom:latitude":41.88758,
     "geom:longitude":-87.642901,
@@ -33,11 +34,14 @@
     "sg:website":"www.andean-partnership.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496933,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
-        85890751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"66fe401e1f9bf24b90118467b1172a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85890751,
+            "neighbourhood_id":1024496933,
             "region_id":85688697,
             "venue_id":203118499
         }
     ],
     "wof:id":203118499,
-    "wof:lastmodified":1472621031,
+    "wof:lastmodified":1491372342,
     "wof:name":"Andean Partnership",
-    "wof:parent_id":85890751,
+    "wof:parent_id":1024496933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

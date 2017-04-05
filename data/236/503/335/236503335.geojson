@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865778,41.943782,-87.865778,41.943782",
     "geom:latitude":41.943782,
     "geom:longitude":-87.865778,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
         85940945,
         102084317,
-        85867751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"8d1c3da3b272fd4fb431fdf8c59ae702",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497625,
             "locality_id":85940945,
             "neighbourhood_id":85867751,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236503335,
-    "wof:lastmodified":1472621703,
+    "wof:lastmodified":1491369922,
     "wof:name":"Photo Prism Color Lab Inc",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",

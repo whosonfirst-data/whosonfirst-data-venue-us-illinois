@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.613571,41.648718,-87.613571,41.648718",
     "geom:latitude":41.648718,
     "geom:longitude":-87.613571,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85844893,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85844893
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,11 @@
     "wof:geomhash":"acda7884114b3e6a3cd65197b31a93a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85844893,
             "region_id":85688697,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":286492193,
-    "wof:lastmodified":1472621334,
+    "wof:lastmodified":1491367875,
     "wof:name":"Hickman Williams & Company",
     "wof:parent_id":85844893,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.673022,41.792928,-87.673022,41.792928",
     "geom:latitude":41.792928,
     "geom:longitude":-87.673022,
@@ -40,11 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867681,
+        85867805,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -57,20 +59,21 @@
     "wof:geomhash":"ec899379246724dff670156691ddaeab",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867681,
+            "neighbourhood_id":85867805,
             "region_id":85688697,
             "venue_id":756315281
         }
     ],
     "wof:id":756315281,
-    "wof:lastmodified":1472622096,
+    "wof:lastmodified":1491370059,
     "wof:name":"The Church Of Christ With The Elijah Message",
-    "wof:parent_id":85867681,
+    "wof:parent_id":85867805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

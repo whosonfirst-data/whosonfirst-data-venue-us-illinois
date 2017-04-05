@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.598567,41.802356,-87.598567,41.802356",
     "geom:latitude":41.802356,
     "geom:longitude":-87.598567,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866941,
+        85865719,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -50,20 +52,21 @@
     "wof:geomhash":"f1da8a41bc8b2cc1fb465792c0ce9b91",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866941,
+            "neighbourhood_id":85865719,
             "region_id":85688697,
             "venue_id":756225511
         }
     ],
     "wof:id":756225511,
-    "wof:lastmodified":1472621978,
+    "wof:lastmodified":1491368070,
     "wof:name":"Move For Change",
-    "wof:parent_id":85866941,
+    "wof:parent_id":85865719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

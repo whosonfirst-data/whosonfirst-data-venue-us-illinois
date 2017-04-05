@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.623826,41.897771,-87.623826,41.897771",
     "geom:latitude":41.897771,
     "geom:longitude":-87.623826,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866933,
+        85866925,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85688697
+        85688697,
+        85865743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,20 +54,32 @@
     "wof:geomhash":"6b5da28462e670f59af5aa060db20db0",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866933,
+            "neighbourhood_id":85866925,
+            "region_id":85688697,
+            "venue_id":756184287
+        },
+        {
+            "borough_id":957999223,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865743,
             "region_id":85688697,
             "venue_id":756184287
         }
     ],
     "wof:id":756184287,
-    "wof:lastmodified":1472621894,
+    "wof:lastmodified":1491369200,
     "wof:name":"Aerie by American Eagle",
-    "wof:parent_id":85866933,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

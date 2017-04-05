@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.784717,41.886535,-87.784717,41.886535",
     "geom:latitude":41.886535,
     "geom:longitude":-87.784717,
@@ -36,11 +37,13 @@
     "sg:website":"www.antiquax.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867747,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85867747
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"ac4d0ac3123338e7263c16623bb1b2c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85867747,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219774455,
-    "wof:lastmodified":1472621573,
+    "wof:lastmodified":1491369896,
     "wof:name":"Antiquax USA LTD",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",

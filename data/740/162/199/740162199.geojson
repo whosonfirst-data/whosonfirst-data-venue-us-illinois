@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.741481,41.7988,-87.741481,41.7988",
     "geom:latitude":41.7988,
     "geom:longitude":-87.741481,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869271,
+        85865727,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -50,20 +52,21 @@
     "wof:geomhash":"394bd6c871872c0e3962ba624f60cd67",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85869271,
+            "neighbourhood_id":85865727,
             "region_id":85688697,
             "venue_id":740162199
         }
     ],
     "wof:id":740162199,
-    "wof:lastmodified":1472621806,
+    "wof:lastmodified":1491368099,
     "wof:name":"Popper's ",
-    "wof:parent_id":85869271,
+    "wof:parent_id":85865727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

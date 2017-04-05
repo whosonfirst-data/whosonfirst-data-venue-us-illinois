@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.658079,41.983097,-87.658079,41.983097",
     "geom:latitude":41.983097,
     "geom:longitude":-87.658079,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783511,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85865775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"7f1e94d0b45003726731d0d932dae97c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865775,
+            "neighbourhood_id":420783511,
             "region_id":85688697,
             "venue_id":253288747
         }
     ],
     "wof:id":253288747,
-    "wof:lastmodified":1472621364,
+    "wof:lastmodified":1491371780,
     "wof:name":"B T Healthcare Svc",
-    "wof:parent_id":85865775,
+    "wof:parent_id":420783511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

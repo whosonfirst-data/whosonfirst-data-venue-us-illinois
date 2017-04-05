@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.782916,41.992149,-87.782916,41.992149",
     "geom:latitude":41.992149,
     "geom:longitude":-87.782916,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496957,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882297
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"118d0f0161c21ea7c6f4a839dbca527c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882297,
+            "neighbourhood_id":1024496957,
             "region_id":85688697,
             "venue_id":219201427
         }
     ],
     "wof:id":219201427,
-    "wof:lastmodified":1472620868,
+    "wof:lastmodified":1491372425,
     "wof:name":"Marquis Title Insurance Co",
-    "wof:parent_id":85882297,
+    "wof:parent_id":1024496957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

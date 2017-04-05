@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.875382,41.941372,-87.875382,41.941372",
     "geom:latitude":41.941372,
     "geom:longitude":-87.875382,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
         85940945,
         102084317,
-        85867751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4a26b32c17353a2240fdaf64c0d60175",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497625,
             "locality_id":85940945,
             "neighbourhood_id":85867751,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202538443,
-    "wof:lastmodified":1472621053,
+    "wof:lastmodified":1491369926,
     "wof:name":"J & D Sewer & Drain",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",

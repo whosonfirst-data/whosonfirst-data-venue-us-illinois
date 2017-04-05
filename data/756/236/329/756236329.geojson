@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.540118,41.682201,-87.540118,41.682201",
     "geom:latitude":41.682201,
     "geom:longitude":-87.540118,
@@ -29,7 +30,16 @@
     "sg:province":"IL",
     "sg:website":"http://www.uswa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816771,
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        958036681,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_223umj9yAorv0kkVpvDJa0_41.682201_-87.540118@1303262884"
@@ -37,11 +47,23 @@
     "wof:country":"US",
     "wof:created":1461958614,
     "wof:geomhash":"f0e8f3f7f149347baa07e31cc576f4fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":958036681,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85816771,
+            "region_id":85688697,
+            "venue_id":756236329
+        }
+    ],
     "wof:id":756236329,
-    "wof:lastmodified":1472622016,
+    "wof:lastmodified":1491366605,
     "wof:name":"United Steel Workers of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

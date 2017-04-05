@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.694424,41.85433,-87.694424,41.85433",
     "geom:latitude":41.85433,
     "geom:longitude":-87.694424,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867519,
+        85867775,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"385d63ce9e61eae8ff2069434cadea02",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867519,
+            "neighbourhood_id":85867775,
             "region_id":85688697,
             "venue_id":756162497
         }
     ],
     "wof:id":756162497,
-    "wof:lastmodified":1472621861,
+    "wof:lastmodified":1491369997,
     "wof:name":"Csc Glass",
-    "wof:parent_id":85867519,
+    "wof:parent_id":85867775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

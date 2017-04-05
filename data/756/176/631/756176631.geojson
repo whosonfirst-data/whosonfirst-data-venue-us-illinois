@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.644452,41.903215,-87.644452,41.903215",
     "geom:latitude":41.903215,
     "geom:longitude":-87.644452,
@@ -55,11 +56,12 @@
     "sg:website":"http://www.spaceorganization.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85890749,
+        85869277,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -72,20 +74,21 @@
     "wof:geomhash":"af689924f6d85a9a237248b040ceae45",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85890749,
+            "neighbourhood_id":85869277,
             "region_id":85688697,
             "venue_id":756176631
         }
     ],
     "wof:id":756176631,
-    "wof:lastmodified":1472621893,
+    "wof:lastmodified":1491370321,
     "wof:name":"Space Organization, Ltd",
-    "wof:parent_id":85890749,
+    "wof:parent_id":85869277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

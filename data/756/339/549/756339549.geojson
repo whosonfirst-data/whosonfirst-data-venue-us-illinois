@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.741653,41.956032,-87.741653,41.956032",
     "geom:latitude":41.956032,
     "geom:longitude":-87.741653,
@@ -33,8 +34,10 @@
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85688697
+        85688697,
+        1024496987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +48,7 @@
     "wof:geomhash":"86845510041f806136bed61b75189f26",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
@@ -53,12 +57,23 @@
             "neighbourhood_id":85867763,
             "region_id":85688697,
             "venue_id":756339549
+        },
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496987,
+            "region_id":85688697,
+            "venue_id":756339549
         }
     ],
     "wof:id":756339549,
-    "wof:lastmodified":1472622120,
+    "wof:lastmodified":1491372553,
     "wof:name":"Kolmar Playlot",
-    "wof:parent_id":85867763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

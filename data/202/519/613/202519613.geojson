@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.701037,41.923889,-87.701037,41.923889",
     "geom:latitude":41.923889,
     "geom:longitude":-87.701037,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024497109,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85865755
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,22 @@
     "wof:geomhash":"e5150ecd5e802d589bb0b3a7d9d3d107",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":1024497109,
             "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":202519613
         }
     ],
     "wof:id":202519613,
-    "wof:lastmodified":1472621042,
+    "wof:lastmodified":1491373025,
     "wof:name":"Leo and Sons Cnstr Co Ltd",
-    "wof:parent_id":85865755,
+    "wof:parent_id":1024497109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

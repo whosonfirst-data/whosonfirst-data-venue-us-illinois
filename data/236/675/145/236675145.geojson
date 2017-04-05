@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.657851,41.990138,-87.657851,41.990138",
     "geom:latitude":41.990138,
     "geom:longitude":-87.657851,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783511,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85867703
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,21 @@
     "wof:geomhash":"c68a1aa49a597d1e679de38fea093539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
-            "neighbourhood_id":85867703,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783511,
             "region_id":85688697,
             "venue_id":236675145
         }
     ],
     "wof:id":236675145,
-    "wof:lastmodified":1472621749,
+    "wof:lastmodified":1491371815,
     "wof:name":"Danshir LLC",
-    "wof:parent_id":85867703,
+    "wof:parent_id":420783511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

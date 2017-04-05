@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.620578,41.809244,-87.620578,41.809244",
     "geom:latitude":41.809244,
     "geom:longitude":-87.620578,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867527,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867619
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"41fc65d6b3d28d5a837fc89e4db0546c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867619,
+            "neighbourhood_id":85867527,
             "region_id":85688697,
             "venue_id":287245571
         }
     ],
     "wof:id":287245571,
-    "wof:lastmodified":1472621231,
+    "wof:lastmodified":1491369660,
     "wof:name":"Spot The",
-    "wof:parent_id":85867619,
+    "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.676689,42.028623,-87.676689,42.028623",
     "geom:latitude":42.028623,
     "geom:longitude":-87.676689,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85868887,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85868887,
+        85688697,
         85867573
     ],
     "wof:breaches":[],
@@ -44,18 +47,20 @@
     "wof:geomhash":"fc8cc0705f6cba46a8d5fabc8fdd307c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85868887,
             "region_id":85688697,
             "venue_id":236859009
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85867573,
             "region_id":85688697,
@@ -63,9 +68,9 @@
         }
     ],
     "wof:id":236859009,
-    "wof:lastmodified":1472621782,
+    "wof:lastmodified":1491370106,
     "wof:name":"Hinman Building Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

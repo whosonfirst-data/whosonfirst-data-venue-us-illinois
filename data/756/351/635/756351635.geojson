@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.74162,41.873265,-87.74162,41.873265",
     "geom:latitude":41.873265,
     "geom:longitude":-87.74162,
@@ -46,11 +47,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867673,
+        420518823,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -63,20 +65,21 @@
     "wof:geomhash":"f2d1abaad7bfea68db6048aefd5e42c0",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867673,
+            "neighbourhood_id":420518823,
             "region_id":85688697,
             "venue_id":756351635
         }
     ],
     "wof:id":756351635,
-    "wof:lastmodified":1472622137,
+    "wof:lastmodified":1491370950,
     "wof:name":"C & S Store Fixtures",
-    "wof:parent_id":85867673,
+    "wof:parent_id":420518823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

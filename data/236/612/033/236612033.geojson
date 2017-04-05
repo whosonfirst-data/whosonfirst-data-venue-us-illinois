@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.706799,41.735197,-87.706799,41.735197",
     "geom:latitude":41.735197,
     "geom:longitude":-87.706799,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783577,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867495
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"76b6cde6cf070b9460886381c96178bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867495,
+            "neighbourhood_id":420783577,
             "region_id":85688697,
             "venue_id":236612033
         }
     ],
     "wof:id":236612033,
-    "wof:lastmodified":1472621734,
+    "wof:lastmodified":1491372046,
     "wof:name":"SRI Ram Corporation",
-    "wof:parent_id":85867495,
+    "wof:parent_id":420783577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

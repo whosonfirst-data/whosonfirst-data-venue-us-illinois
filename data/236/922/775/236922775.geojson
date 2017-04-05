@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881604,41.941586,-87.881604,41.941586",
     "geom:latitude":41.941586,
     "geom:longitude":-87.881604,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
-        85940843,
-        102084317
+        85940945,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"fe107fe98d4ae4aa45e8374590325dd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940843,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497625,
+            "locality_id":85940945,
+            "neighbourhood_id":85867751,
             "region_id":85688697,
             "venue_id":236922775
         }
     ],
     "wof:id":236922775,
-    "wof:lastmodified":1472621790,
+    "wof:lastmodified":1491369927,
     "wof:name":"Ace Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

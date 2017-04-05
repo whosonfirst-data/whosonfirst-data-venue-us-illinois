@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.668431,41.933309,-87.668431,41.933309",
     "geom:latitude":41.933309,
     "geom:longitude":-87.668431,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85829473,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882313
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"0cacc686b0387336d41e663b94eae770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882313,
+            "neighbourhood_id":85829473,
             "region_id":85688697,
             "venue_id":286821087
         }
     ],
     "wof:id":286821087,
-    "wof:lastmodified":1472621670,
+    "wof:lastmodified":1491366834,
     "wof:name":"Pier 1 Imports 208",
-    "wof:parent_id":85882313,
+    "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

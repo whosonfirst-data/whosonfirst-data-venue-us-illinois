@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.686517,41.924989,-87.686517,41.924989",
     "geom:latitude":41.924989,
     "geom:longitude":-87.686517,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869147,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867675
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"d09a3e5a5e99ce55dcc12d7e5f7a2110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867675,
+            "neighbourhood_id":85869147,
             "region_id":85688697,
             "venue_id":269641771
         }
     ],
     "wof:id":269641771,
-    "wof:lastmodified":1472621167,
+    "wof:lastmodified":1491370259,
     "wof:name":"A R Remodeling Inc",
-    "wof:parent_id":85867675,
+    "wof:parent_id":85869147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

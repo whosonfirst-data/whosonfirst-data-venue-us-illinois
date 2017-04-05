@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.676699,42.028734,-87.676699,42.028734",
     "geom:latitude":42.028734,
     "geom:longitude":-87.676699,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85868887,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85868887,
+        85688697,
         85867573
     ],
     "wof:breaches":[],
@@ -47,18 +50,20 @@
     "wof:geomhash":"b703b1da0e539943dafd162dfe33a84e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85868887,
             "region_id":85688697,
             "venue_id":219789213
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85867573,
             "region_id":85688697,
@@ -66,9 +71,9 @@
         }
     ],
     "wof:id":219789213,
-    "wof:lastmodified":1472621587,
+    "wof:lastmodified":1491370104,
     "wof:name":"Goss & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

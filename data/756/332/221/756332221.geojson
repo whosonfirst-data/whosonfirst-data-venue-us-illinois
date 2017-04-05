@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.672748,41.9807,-87.672748,41.9807",
     "geom:latitude":41.9807,
     "geom:longitude":-87.672748,
@@ -52,9 +53,9 @@
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85688697,
-        85867801
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,6 +66,7 @@
     "wof:geomhash":"033bc267f3273525932fdf454d166667",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
@@ -73,22 +75,12 @@
             "neighbourhood_id":85882139,
             "region_id":85688697,
             "venue_id":756332221
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084317,
-            "localadmin_id":404496273,
-            "locality_id":85940195,
-            "neighbourhood_id":85867801,
-            "region_id":85688697,
-            "venue_id":756332221
         }
     ],
     "wof:id":756332221,
-    "wof:lastmodified":1472622111,
+    "wof:lastmodified":1491370453,
     "wof:name":"Aa Whities Drum Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85882139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

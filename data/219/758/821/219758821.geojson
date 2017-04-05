@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.773312,41.885038,-87.773312,41.885038",
     "geom:latitude":41.885038,
     "geom:longitude":-87.773312,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024497005,
+        102191575,
+        404496273,
         85633793,
-        85940755,
+        85940195,
+        957979099,
         102084317,
-        85867747
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"83ccc69632d82fa89177a5ea38a08a65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940755,
-            "neighbourhood_id":85867747,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024497005,
             "region_id":85688697,
             "venue_id":219758821
         }
     ],
     "wof:id":219758821,
-    "wof:lastmodified":1472621588,
+    "wof:lastmodified":1491372641,
     "wof:name":"Sisters Embracing Life",
-    "wof:parent_id":85867747,
+    "wof:parent_id":1024497005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

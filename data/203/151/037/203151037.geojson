@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.550972,41.752684,-87.550972,41.752684",
     "geom:latitude":41.752684,
     "geom:longitude":-87.550972,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850085,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85849559
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"a0c7d25953a696e1fbe3e2c67242785c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85849559,
+            "neighbourhood_id":85850085,
             "region_id":85688697,
             "venue_id":203151037
         }
     ],
     "wof:id":203151037,
-    "wof:lastmodified":1472621054,
+    "wof:lastmodified":1491367964,
     "wof:name":"South Shore Foods Inc",
-    "wof:parent_id":85849559,
+    "wof:parent_id":85850085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

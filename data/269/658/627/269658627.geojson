@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.651411,41.670393,-87.651411,41.670393",
     "geom:latitude":41.670393,
     "geom:longitude":-87.651411,
@@ -33,7 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85856203,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958036681,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -44,18 +51,21 @@
     "wof:geomhash":"8cb6df8552d0f885ec54dd68738cc2f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85856203,
             "region_id":85688697,
             "venue_id":269658627
         }
     ],
     "wof:id":269658627,
-    "wof:lastmodified":1472621211,
+    "wof:lastmodified":1491368050,
     "wof:name":"Broadway Painting Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

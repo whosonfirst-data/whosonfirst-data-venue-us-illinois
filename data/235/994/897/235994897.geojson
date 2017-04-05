@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.682703,41.623283,-87.682703,41.623283",
     "geom:latitude":41.623283,
     "geom:longitude":-87.682703,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518731,
+        102191575,
+        404497613,
         85633793,
-        85940737,
-        102084317
+        85940781,
+        102084317,
+        85688697
     ],
     "wof:brand_id":420573769,
     "wof:breaches":[],
@@ -49,19 +53,20 @@
     "wof:geomhash":"13379471f3ba97d44a04c56a924a02e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497613,
+            "locality_id":85940781,
+            "neighbourhood_id":420518731,
             "region_id":85688697,
             "venue_id":235994897
         }
     ],
     "wof:id":235994897,
-    "wof:lastmodified":1472620810,
+    "wof:lastmodified":1491370804,
     "wof:name":"Curves For Women",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

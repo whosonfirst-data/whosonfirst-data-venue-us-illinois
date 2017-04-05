@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.684303,41.961399,-87.684303,41.961399",
     "geom:latitude":41.961399,
     "geom:longitude":-87.684303,
@@ -32,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867809,
+        85865759,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85688697
+        85688697,
+        85867809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +51,17 @@
     "wof:created":1461958765,
     "wof:geomhash":"e47834400d07b14eaa216b1335b2fd05",
     "wof:hierarchy":[
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865759,
+            "region_id":85688697,
+            "venue_id":756243453
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":756243453,
-    "wof:lastmodified":1472622019,
+    "wof:lastmodified":1491368842,
     "wof:name":"Imelda's Fabulous Hair Design",
-    "wof:parent_id":85867809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.597018,41.765182,-87.597018,41.765182",
     "geom:latitude":41.765182,
     "geom:longitude":-87.597018,
@@ -23,11 +24,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        957731831,
         420518839,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -40,20 +43,22 @@
     "wof:geomhash":"7d885143815a32ec1c6f39d41745297b",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":957731831,
             "neighbourhood_id":420518839,
             "region_id":85688697,
             "venue_id":756253739
         }
     ],
     "wof:id":756253739,
-    "wof:lastmodified":1472622044,
+    "wof:lastmodified":1491372764,
     "wof:name":"Willie Jones",
-    "wof:parent_id":420518839,
+    "wof:parent_id":957731831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

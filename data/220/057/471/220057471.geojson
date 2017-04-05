@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.640251,41.934328,-87.640251,41.934328",
     "geom:latitude":41.934328,
     "geom:longitude":-87.640251,
@@ -38,10 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +56,19 @@
     "wof:geomhash":"a5cd9a5ef5f43ff93b58ea6d481796b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":220057471
         }
     ],
     "wof:id":220057471,
-    "wof:lastmodified":1472620889,
+    "wof:lastmodified":1491370488,
     "wof:name":"GLL Investors Inc",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",

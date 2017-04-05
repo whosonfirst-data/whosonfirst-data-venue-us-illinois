@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.646741,41.660747,-87.646741,41.660747",
     "geom:latitude":41.660747,
     "geom:longitude":-87.646741,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856203,
+        102191575,
+        404496273,
         85633793,
-        85940885,
+        85940195,
+        958036681,
         102084317,
-        85856203
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,19 @@
     "wof:geomhash":"bb1edf44540f65002dac3e7a756f4bf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940885,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85856203,
             "region_id":85688697,
             "venue_id":252954439
         }
     ],
     "wof:id":252954439,
-    "wof:lastmodified":1472621121,
+    "wof:lastmodified":1491368048,
     "wof:name":"Taylor Home Improvement",
     "wof:parent_id":85856203,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.759181,41.958827,-87.759181,41.958827",
     "geom:latitude":41.958827,
     "geom:longitude":-87.759181,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518911,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867691
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"c1478c49986b7956b73457b2e532214b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867691,
+            "neighbourhood_id":420518911,
             "region_id":85688697,
             "venue_id":286622573
         }
     ],
     "wof:id":286622573,
-    "wof:lastmodified":1472621533,
+    "wof:lastmodified":1491371408,
     "wof:name":"Aaron's Salvage & Liquidation",
-    "wof:parent_id":85867691,
+    "wof:parent_id":420518911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

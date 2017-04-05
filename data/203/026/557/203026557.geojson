@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.638315,41.93923,-87.638315,41.93923",
     "geom:latitude":41.93923,
     "geom:longitude":-87.638315,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,19 @@
     "wof:geomhash":"8e53fcb822620dc30de30b7e5585a165",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":203026557
         }
     ],
     "wof:id":203026557,
-    "wof:lastmodified":1472620781,
+    "wof:lastmodified":1491370489,
     "wof:name":"Jgl Worldwide Communications",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",

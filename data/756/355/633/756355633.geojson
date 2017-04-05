@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.729301,41.9902,-87.729301,41.9902",
     "geom:latitude":41.9902,
     "geom:longitude":-87.729301,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865777,
+        85847191,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"f4607c87c6f077c2191eecc8b7f5aa23",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865777,
+            "neighbourhood_id":85847191,
             "region_id":85688697,
             "venue_id":756355633
         }
     ],
     "wof:id":756355633,
-    "wof:lastmodified":1472622143,
+    "wof:lastmodified":1491367904,
     "wof:name":"Thimesch Tegan A Podtrst",
-    "wof:parent_id":85865777,
+    "wof:parent_id":85847191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

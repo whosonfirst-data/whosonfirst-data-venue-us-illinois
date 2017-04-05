@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.580961,41.752534,-87.580961,41.752534",
     "geom:latitude":41.752534,
     "geom:longitude":-87.580961,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850085,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867561
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"f95096b065bbef55d25ab7a21c15185d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867561,
+            "neighbourhood_id":85850085,
             "region_id":85688697,
             "venue_id":253407205
         }
     ],
     "wof:id":253407205,
-    "wof:lastmodified":1472621505,
+    "wof:lastmodified":1491368035,
     "wof:name":"H I",
-    "wof:parent_id":85867561,
+    "wof:parent_id":85850085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

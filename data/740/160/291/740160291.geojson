@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.623547,41.893348,-87.623547,41.893348",
     "geom:latitude":41.893348,
     "geom:longitude":-87.623547,
@@ -33,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867757,
+        85866925,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85688697
+        85688697,
+        85865743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,20 +53,32 @@
     "wof:geomhash":"cf2684c15b41ac0e4d38b07400228425",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867757,
+            "neighbourhood_id":85866925,
+            "region_id":85688697,
+            "venue_id":740160291
+        },
+        {
+            "borough_id":957999223,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865743,
             "region_id":85688697,
             "venue_id":740160291
         }
     ],
     "wof:id":740160291,
-    "wof:lastmodified":1472621807,
+    "wof:lastmodified":1491369208,
     "wof:name":"Bice Ristorante",
-    "wof:parent_id":85867757,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

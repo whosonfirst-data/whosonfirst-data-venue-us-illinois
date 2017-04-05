@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.642072,41.721646,-87.642072,41.721646",
     "geom:latitude":41.721646,
     "geom:longitude":-87.642072,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867797,
+        85867523,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"61831cb0d978290e17d7279876db31c8",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867797,
+            "neighbourhood_id":85867523,
             "region_id":85688697,
             "venue_id":756289675
         }
     ],
     "wof:id":756289675,
-    "wof:lastmodified":1472622077,
+    "wof:lastmodified":1491369626,
     "wof:name":"L C A Halsted Physician Group",
-    "wof:parent_id":85867797,
+    "wof:parent_id":85867523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

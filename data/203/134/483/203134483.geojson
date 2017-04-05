@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.868541,41.945719,-87.868541,41.945719",
     "geom:latitude":41.945719,
     "geom:longitude":-87.868541,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
         85940945,
         102084317,
-        85867751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0f276d4d610502a36d55c1ac0f259b99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497625,
             "locality_id":85940945,
             "neighbourhood_id":85867751,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203134483,
-    "wof:lastmodified":1472621052,
+    "wof:lastmodified":1491369926,
     "wof:name":"Franklin Park Ice Arena",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",

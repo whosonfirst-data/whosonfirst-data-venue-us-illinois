@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.623608,41.845039,-87.623608,41.845039",
     "geom:latitude":41.845039,
     "geom:longitude":-87.623608,
@@ -40,11 +41,12 @@
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=1576&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867741,
+        85867527,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -57,20 +59,21 @@
     "wof:geomhash":"7c43860d10354f32c4db9089397f7dcb",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867741,
+            "neighbourhood_id":85867527,
             "region_id":85688697,
             "venue_id":756229253
         }
     ],
     "wof:id":756229253,
-    "wof:lastmodified":1472621989,
+    "wof:lastmodified":1491369681,
     "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85867741,
+    "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

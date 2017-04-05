@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.70163,41.920966,-87.70163,41.920966",
     "geom:latitude":41.920966,
     "geom:longitude":-87.70163,
@@ -30,11 +31,13 @@
     "sg:website":"stsylvester.archchicago.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1024497109,
         85865755,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -47,20 +50,22 @@
     "wof:geomhash":"43b7424ae1bd1f042e9c2c4ca91384f2",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":1024497109,
             "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":756363291
         }
     ],
     "wof:id":756363291,
-    "wof:lastmodified":1472622140,
+    "wof:lastmodified":1491373029,
     "wof:name":"St. Sylvester Parish",
-    "wof:parent_id":85865755,
+    "wof:parent_id":1024497109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

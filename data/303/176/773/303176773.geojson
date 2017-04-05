@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947216,42.022681,-87.947216,42.022681",
     "geom:latitude":42.022681,
     "geom:longitude":-87.947216,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867701,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85867701
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e4beb124d34fa511a1f772f0a45202a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85867701,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":303176773,
-    "wof:lastmodified":1472621002,
+    "wof:lastmodified":1491369814,
     "wof:name":"Corporate Image of Illinois",
     "wof:parent_id":85867701,
     "wof:placetype":"venue",

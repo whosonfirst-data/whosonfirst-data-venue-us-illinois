@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.613093,41.692791,-87.613093,41.692791",
     "geom:latitude":41.692791,
     "geom:longitude":-87.613093,
@@ -39,11 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867493,
+        85846003,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -56,20 +58,21 @@
     "wof:geomhash":"5bd21e7b8937151022228c1d7d430d2d",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867493,
+            "neighbourhood_id":85846003,
             "region_id":85688697,
             "venue_id":756288253
         }
     ],
     "wof:id":756288253,
-    "wof:lastmodified":1472622071,
+    "wof:lastmodified":1491367888,
     "wof:name":"Happy Holiday Nursery & Kindergarten",
-    "wof:parent_id":85867493,
+    "wof:parent_id":85846003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

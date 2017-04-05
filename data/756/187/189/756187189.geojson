@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.624208,41.891767,-87.624208,41.891767",
     "geom:latitude":41.891767,
     "geom:longitude":-87.624208,
@@ -40,13 +41,15 @@
     "sg:website":"www.vosgeschocolate.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867757,
+        85866925,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85688697
+        85688697,
+        85865743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,20 +60,32 @@
     "wof:geomhash":"bb4d5967c395dda3e0b04a5e4a1f56ab",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867757,
+            "neighbourhood_id":85866925,
+            "region_id":85688697,
+            "venue_id":756187189
+        },
+        {
+            "borough_id":957999223,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865743,
             "region_id":85688697,
             "venue_id":756187189
         }
     ],
     "wof:id":756187189,
-    "wof:lastmodified":1472621912,
+    "wof:lastmodified":1491369131,
     "wof:name":"Vosges Haut-Chocolat",
-    "wof:parent_id":85867757,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

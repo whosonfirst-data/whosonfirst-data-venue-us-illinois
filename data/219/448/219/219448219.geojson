@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.774886,41.882026,-87.774886,41.882026",
     "geom:latitude":41.882026,
     "geom:longitude":-87.774886,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518931,
+        102191575,
+        404497607,
         85633793,
-        85940755,
-        102084317
+        85940903,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"9af906ac31d570ef86436d0f2e524ba2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940755,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497607,
+            "locality_id":85940903,
+            "neighbourhood_id":420518931,
             "region_id":85688697,
             "venue_id":219448219
         }
     ],
     "wof:id":219448219,
-    "wof:lastmodified":1472621362,
+    "wof:lastmodified":1491371676,
     "wof:name":"St Cathrine Siena-St Lucy Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

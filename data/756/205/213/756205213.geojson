@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687175,41.892862,-87.687175,41.892862",
     "geom:latitude":41.892862,
     "geom:longitude":-87.687175,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        957768631,
         85866935,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -49,20 +52,22 @@
     "wof:geomhash":"c171d29cb2da5dd847141c4ccb996a01",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":957768631,
             "neighbourhood_id":85866935,
             "region_id":85688697,
             "venue_id":756205213
         }
     ],
     "wof:id":756205213,
-    "wof:lastmodified":1472621935,
+    "wof:lastmodified":1491372810,
     "wof:name":"Rago Brothers Funeral Homes",
-    "wof:parent_id":85866935,
+    "wof:parent_id":957768631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

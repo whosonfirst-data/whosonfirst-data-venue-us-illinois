@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.666804,41.979947,-87.666804,41.979947",
     "geom:latitude":41.979947,
     "geom:longitude":-87.666804,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882139,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882139
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,11 @@
     "wof:geomhash":"9d40cbaf96681c5e4ecc08ed984eb442",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85882139,
             "region_id":85688697,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":286582105,
-    "wof:lastmodified":1472621493,
+    "wof:lastmodified":1491370475,
     "wof:name":"Doll Lady's Hospital",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",

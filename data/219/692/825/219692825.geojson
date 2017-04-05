@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.707494,41.930392,-87.707494,41.930392",
     "geom:latitude":41.930392,
     "geom:longitude":-87.707494,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85804073
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"5554853c58795309c2a9a3a6952f8f77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85804073,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":219692825
         }
     ],
     "wof:id":219692825,
-    "wof:lastmodified":1472621551,
+    "wof:lastmodified":1491368638,
     "wof:name":"Eagle Travel Bureau",
-    "wof:parent_id":85804073,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

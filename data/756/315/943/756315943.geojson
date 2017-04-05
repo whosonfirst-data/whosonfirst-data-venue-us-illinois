@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.664001,41.779301,-87.664001,41.779301",
     "geom:latitude":41.779301,
     "geom:longitude":-87.664001,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867805,
+        85818139,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"e8810dd14cc5474aec99c42b8ba7418e",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867805,
+            "neighbourhood_id":85818139,
             "region_id":85688697,
             "venue_id":756315943
         }
     ],
     "wof:id":756315943,
-    "wof:lastmodified":1472622102,
+    "wof:lastmodified":1491366641,
     "wof:name":"Cosmo Mart",
-    "wof:parent_id":85867805,
+    "wof:parent_id":85818139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

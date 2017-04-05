@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.715044,41.851628,-87.715044,41.851628",
     "geom:latitude":41.851628,
     "geom:longitude":-87.715044,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867711,
+        85867775,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -51,20 +53,21 @@
     "wof:geomhash":"2d23e9c06a14715072a4c069e9d70366",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867711,
+            "neighbourhood_id":85867775,
             "region_id":85688697,
             "venue_id":756272639
         }
     ],
     "wof:id":756272639,
-    "wof:lastmodified":1472622064,
+    "wof:lastmodified":1491370035,
     "wof:name":"St Gregory Episcopal School",
-    "wof:parent_id":85867711,
+    "wof:parent_id":85867775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

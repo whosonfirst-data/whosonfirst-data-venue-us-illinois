@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.646689,41.933478,-87.646689,41.933478",
     "geom:latitude":41.933478,
     "geom:longitude":-87.646689,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,19 @@
     "wof:geomhash":"bb290f9927aef50399d613e686d7ed2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":270233449
         }
     ],
     "wof:id":270233449,
-    "wof:lastmodified":1472621280,
+    "wof:lastmodified":1491370480,
     "wof:name":"International Trade Group",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.620758,41.88009,-87.620758,41.88009",
     "geom:latitude":41.88009,
     "geom:longitude":-87.620758,
@@ -39,11 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831409,
+        1024497033,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -56,20 +58,21 @@
     "wof:geomhash":"9da8b4968b79af466ff33acd7cb1af61",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85831409,
+            "neighbourhood_id":1024497033,
             "region_id":85688697,
             "venue_id":756112423
         }
     ],
     "wof:id":756112423,
-    "wof:lastmodified":1472621745,
+    "wof:lastmodified":1491372700,
     "wof:name":"Art Institute of Chicago--Chicago Stock Exchange Room",
-    "wof:parent_id":85831409,
+    "wof:parent_id":1024497033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

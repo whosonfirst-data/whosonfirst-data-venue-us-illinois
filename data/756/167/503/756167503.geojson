@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.662757,41.794223,-87.662757,41.794223",
     "geom:latitude":41.794223,
     "geom:longitude":-87.662757,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865725,
+        85867501,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -51,20 +53,21 @@
     "wof:geomhash":"4d5b71f3fe3ec7f3963ea4b792de167c",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865725,
+            "neighbourhood_id":85867501,
             "region_id":85688697,
             "venue_id":756167503
         }
     ],
     "wof:id":756167503,
-    "wof:lastmodified":1472621886,
+    "wof:lastmodified":1491369548,
     "wof:name":"Michael A Jones Private Detective",
-    "wof:parent_id":85865725,
+    "wof:parent_id":85867501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

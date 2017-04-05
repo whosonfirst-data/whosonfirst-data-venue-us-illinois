@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.576036,41.634089,-87.576036,41.634089",
     "geom:latitude":41.634089,
     "geom:longitude":-87.576036,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805823,
+        102191575,
+        404497591,
         85633793,
         85940863,
         102084317,
-        85805823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"45ce57e268c6c90c32671c61274b19b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940863,
             "neighbourhood_id":85805823,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":252985591,
-    "wof:lastmodified":1472621127,
+    "wof:lastmodified":1491366534,
     "wof:name":"Calumet River Oaks Estates",
     "wof:parent_id":85805823,
     "wof:placetype":"venue",

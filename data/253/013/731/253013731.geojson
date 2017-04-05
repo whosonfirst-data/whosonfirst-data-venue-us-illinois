@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.608225,41.826432,-87.608225,41.826432",
     "geom:latitude":41.826432,
     "geom:longitude":-87.608225,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867635,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867555
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"b057e3aec6b389367e9c20801c106fc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867555,
+            "neighbourhood_id":85867635,
             "region_id":85688697,
             "venue_id":253013731
         }
     ],
     "wof:id":253013731,
-    "wof:lastmodified":1472620765,
+    "wof:lastmodified":1491369769,
     "wof:name":"Centers For New Horizons",
-    "wof:parent_id":85867555,
+    "wof:parent_id":85867635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

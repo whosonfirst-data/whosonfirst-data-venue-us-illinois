@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.753137,41.992562,-87.753137,41.992562",
     "geom:latitude":41.992562,
     "geom:longitude":-87.753137,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867581,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85847191
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"5f77c7eb5ff66c2f101e6a48b604e7f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85847191,
+            "neighbourhood_id":85867581,
             "region_id":85688697,
             "venue_id":253610243
         }
     ],
     "wof:id":253610243,
-    "wof:lastmodified":1472621608,
+    "wof:lastmodified":1491369713,
     "wof:name":"Hellenic Ministries",
-    "wof:parent_id":85847191,
+    "wof:parent_id":85867581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

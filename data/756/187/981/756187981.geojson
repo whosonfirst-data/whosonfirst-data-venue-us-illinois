@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.624077,41.898392,-87.624077,41.898392",
     "geom:latitude":41.898392,
     "geom:longitude":-87.624077,
@@ -41,13 +42,15 @@
     "sg:website":"http://chicago.citysearch.com/profile/external/3668479/chicago_il/h_horwitz_company_jewelers_since_1899.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867535,
+        85866925,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85688697
+        85688697,
+        85865743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,20 +61,32 @@
     "wof:geomhash":"ed109e8e0b532a0a2062997e62c4aeea",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867535,
+            "neighbourhood_id":85866925,
+            "region_id":85688697,
+            "venue_id":756187981
+        },
+        {
+            "borough_id":957999223,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865743,
             "region_id":85688697,
             "venue_id":756187981
         }
     ],
     "wof:id":756187981,
-    "wof:lastmodified":1472621939,
+    "wof:lastmodified":1491369201,
     "wof:name":"H Horwitz Company Jewelers - Since 1899",
-    "wof:parent_id":85867535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

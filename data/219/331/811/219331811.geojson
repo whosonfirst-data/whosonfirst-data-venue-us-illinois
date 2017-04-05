@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.684275,41.91029,-87.684275,41.91029",
     "geom:latitude":41.91029,
     "geom:longitude":-87.684275,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518923,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
-        85866935
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"75d33f3a38d74e1aa741147fdf47d176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866935,
+            "neighbourhood_id":420518923,
             "region_id":85688697,
             "venue_id":219331811
         }
     ],
     "wof:id":219331811,
-    "wof:lastmodified":1472621233,
+    "wof:lastmodified":1491371559,
     "wof:name":"For Dogs Sake Inc",
-    "wof:parent_id":85866935,
+    "wof:parent_id":420518923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

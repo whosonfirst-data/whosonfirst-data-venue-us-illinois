@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.668043,41.973962,-87.668043,41.973962",
     "geom:latitude":41.973962,
     "geom:longitude":-87.668043,
@@ -44,11 +45,12 @@
     "sg:website":"www.baan-home.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867823,
+        85865771,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -61,20 +63,21 @@
     "wof:geomhash":"9493f6b9c725ded71ac33056289a8286",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867823,
+            "neighbourhood_id":85865771,
             "region_id":85688697,
             "venue_id":756332797
         }
     ],
     "wof:id":756332797,
-    "wof:lastmodified":1472622118,
+    "wof:lastmodified":1491368969,
     "wof:name":"Baan Home",
-    "wof:parent_id":85867823,
+    "wof:parent_id":85865771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

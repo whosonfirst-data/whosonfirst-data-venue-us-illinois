@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.626787,41.794087,-87.626787,41.794087",
     "geom:latitude":41.794087,
     "geom:longitude":-87.626787,
@@ -44,11 +45,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867799,
+        85818139,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -61,20 +63,21 @@
     "wof:geomhash":"6dc0feac8c22561f89ad5ba2473870e0",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867799,
+            "neighbourhood_id":85818139,
             "region_id":85688697,
             "venue_id":756259139
         }
     ],
     "wof:id":756259139,
-    "wof:lastmodified":1472622048,
+    "wof:lastmodified":1491366631,
     "wof:name":"Pilgrim Church Of God In",
-    "wof:parent_id":85867799,
+    "wof:parent_id":85818139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

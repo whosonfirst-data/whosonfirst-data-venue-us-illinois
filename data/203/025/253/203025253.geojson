@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.746673,41.931564,-87.746673,41.931564",
     "geom:latitude":41.931564,
     "geom:longitude":-87.746673,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518927,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867645
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"2a37e11bf3140af2941d0034eeae340e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867645,
+            "neighbourhood_id":420518927,
             "region_id":85688697,
             "venue_id":203025253
         }
     ],
     "wof:id":203025253,
-    "wof:lastmodified":1472620772,
+    "wof:lastmodified":1491371606,
     "wof:name":"Brittany's Custom Cars",
-    "wof:parent_id":85867645,
+    "wof:parent_id":420518927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

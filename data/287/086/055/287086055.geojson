@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.764171,41.985976,-87.764171,41.985976",
     "geom:latitude":41.985976,
     "geom:longitude":-87.764171,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518901,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85869249
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"fd7eb0a2c218fbc3511a68753fad4155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85869249,
+            "neighbourhood_id":420518901,
             "region_id":85688697,
             "venue_id":287086055
         }
     ],
     "wof:id":287086055,
-    "wof:lastmodified":1472620970,
+    "wof:lastmodified":1491371310,
     "wof:name":"Pat McDonough & Associates Inc",
-    "wof:parent_id":85869249,
+    "wof:parent_id":420518901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

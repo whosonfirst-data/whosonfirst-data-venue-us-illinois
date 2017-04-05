@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.7767,41.98521,-87.7767,41.98521",
     "geom:latitude":41.98521,
     "geom:longitude":-87.7767,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867615,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867615
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +51,11 @@
     "wof:geomhash":"c68d9df62281b28e06d5a0f10e0cda45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867615,
             "region_id":85688697,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":219199089,
-    "wof:lastmodified":1472620869,
+    "wof:lastmodified":1491369746,
     "wof:name":"Carolina Auto Repair",
     "wof:parent_id":85867615,
     "wof:placetype":"venue",

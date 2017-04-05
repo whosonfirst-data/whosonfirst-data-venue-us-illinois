@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.791823,41.977852,-87.791823,41.977852",
     "geom:latitude":41.977852,
     "geom:longitude":-87.791823,
@@ -39,7 +40,16 @@
     ],
     "sg:website":"http://www.brothersflooring.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1024496971,
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        958020405,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BXt4W8tjXkZsaTms48TTd_41.977851_-87.792507@1293134755"
@@ -47,11 +57,23 @@
     "wof:country":"US",
     "wof:created":1461950618,
     "wof:geomhash":"a0b975ed5965bd3392f2294e7aa7cf1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496971,
+            "region_id":85688697,
+            "venue_id":740142617
+        }
+    ],
     "wof:id":740142617,
-    "wof:lastmodified":1472621669,
+    "wof:lastmodified":1491372467,
     "wof:name":"Brothers Flooring",
-    "wof:parent_id":-1,
+    "wof:parent_id":1024496971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

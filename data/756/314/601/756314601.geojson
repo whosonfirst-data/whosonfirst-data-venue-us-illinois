@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.681259,41.793384,-87.681259,41.793384",
     "geom:latitude":41.793384,
     "geom:longitude":-87.681259,
@@ -34,11 +35,12 @@
     "sg:website":"http://www.americanselfstoragellc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867681,
+        85867805,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -51,20 +53,21 @@
     "wof:geomhash":"6bdadc64aefc4eba50585db722ba4724",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867681,
+            "neighbourhood_id":85867805,
             "region_id":85688697,
             "venue_id":756314601
         }
     ],
     "wof:id":756314601,
-    "wof:lastmodified":1472622095,
+    "wof:lastmodified":1491370078,
     "wof:name":"American Self-Storage",
-    "wof:parent_id":85867681,
+    "wof:parent_id":85867805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

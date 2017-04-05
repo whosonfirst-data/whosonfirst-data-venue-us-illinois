@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.629505,41.878088,-87.629505,41.878088",
     "geom:latitude":41.878088,
     "geom:longitude":-87.629505,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85831409,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85866929
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"b8946a4b7bda118f012f2fc839b076a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957999223,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866929,
+            "neighbourhood_id":85831409,
             "region_id":85688697,
             "venue_id":219356601
         }
     ],
     "wof:id":219356601,
-    "wof:lastmodified":1472621265,
+    "wof:lastmodified":1491367174,
     "wof:name":"Law Offices Scott Kamin PC",
-    "wof:parent_id":85866929,
+    "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

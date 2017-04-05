@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.691747,42.024746,-87.691747,42.024746",
     "geom:latitude":42.024746,
     "geom:longitude":-87.691747,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890785,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890785
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"aa53ce37d1edd6520d5b1a204de060c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890785,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":303193681,
-    "wof:lastmodified":1472621009,
+    "wof:lastmodified":1491370767,
     "wof:name":"Howard Ellegant Associates",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",
