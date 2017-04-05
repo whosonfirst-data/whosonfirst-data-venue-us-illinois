@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.668409,41.980524,-87.668409,41.980524",
     "geom:latitude":41.980524,
     "geom:longitude":-87.668409,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882139,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882139
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +51,11 @@
     "wof:geomhash":"5f1a577c3b0eeed265c85aad93bd3a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85882139,
             "region_id":85688697,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":202596891,
-    "wof:lastmodified":1472621132,
+    "wof:lastmodified":1491370448,
     "wof:name":"Griffin Theatre Co",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",

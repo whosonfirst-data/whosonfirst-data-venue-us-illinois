@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94019,42.004355,-87.94019,42.004355",
     "geom:latitude":42.004355,
     "geom:longitude":-87.94019,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867701,
+        102191575,
+        404497631,
         85633793,
-        85940193,
-        102084317
+        85940869,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"1b22d76a08152af578095acc2ca3a048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940193,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497631,
+            "locality_id":85940869,
+            "neighbourhood_id":85867701,
             "region_id":85688697,
             "venue_id":219821007
         }
     ],
     "wof:id":219821007,
-    "wof:lastmodified":1472621569,
+    "wof:lastmodified":1491369824,
     "wof:name":"Icon Identity Solutions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

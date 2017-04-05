@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.770442,41.865511,-87.770442,41.865511",
     "geom:latitude":41.865511,
     "geom:longitude":-87.770442,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518931,
+        102191575,
+        404497607,
         85633793,
-        85940877,
-        102084317
+        85940903,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"485518d0eab606de22610f4e71ceeb48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940877,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497607,
+            "locality_id":85940903,
+            "neighbourhood_id":420518931,
             "region_id":85688697,
             "venue_id":236875827
         }
     ],
     "wof:id":236875827,
-    "wof:lastmodified":1472621789,
+    "wof:lastmodified":1491371669,
     "wof:name":"Dist 99 Service Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

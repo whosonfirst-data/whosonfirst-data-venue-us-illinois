@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.686123,41.912082,-87.686123,41.912082",
     "geom:latitude":41.912082,
     "geom:longitude":-87.686123,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869147,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867633
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"1942d0b35b345c66bcbb95672185208f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867633,
+            "neighbourhood_id":85869147,
             "region_id":85688697,
             "venue_id":286885677
         }
     ],
     "wof:id":286885677,
-    "wof:lastmodified":1472621686,
+    "wof:lastmodified":1491370247,
     "wof:name":"Chris General Construction",
-    "wof:parent_id":85867633,
+    "wof:parent_id":85869147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

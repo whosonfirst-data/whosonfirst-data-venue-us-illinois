@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.640233,41.867151,-87.640233,41.867151",
     "geom:latitude":41.867151,
     "geom:longitude":-87.640233,
@@ -38,11 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867559,
+        85865737,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -55,20 +57,21 @@
     "wof:geomhash":"7d1dff835f5ea6e8a7738536f9bd1517",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867559,
+            "neighbourhood_id":85865737,
             "region_id":85688697,
             "venue_id":756150917
         }
     ],
     "wof:id":756150917,
-    "wof:lastmodified":1472621848,
+    "wof:lastmodified":1491368241,
     "wof:name":"Chicago Uniform",
-    "wof:parent_id":85867559,
+    "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

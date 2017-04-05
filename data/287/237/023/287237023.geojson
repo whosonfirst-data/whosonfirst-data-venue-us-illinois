@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.644418,41.938344,-87.644418,41.938344",
     "geom:latitude":41.938344,
     "geom:longitude":-87.644418,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        974518243,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,22 @@
     "wof:geomhash":"883b8c4d7df5ebc175479646d5f5b415",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "microhood_id":974518243,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":287237023
         }
     ],
     "wof:id":287237023,
-    "wof:lastmodified":1472621218,
+    "wof:lastmodified":1491372842,
     "wof:name":"Custom Parking Svc",
-    "wof:parent_id":85882181,
+    "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

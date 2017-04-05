@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.677775,41.968814,-87.677775,41.968814",
     "geom:latitude":41.968814,
     "geom:longitude":-87.677775,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865759,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867787
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"0f6009d66b3ac3729002f9b002b58da5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867787,
+            "neighbourhood_id":85865759,
             "region_id":85688697,
             "venue_id":202498997
         }
     ],
     "wof:id":202498997,
-    "wof:lastmodified":1472621022,
+    "wof:lastmodified":1491368886,
     "wof:name":"Seth Meisler",
-    "wof:parent_id":85867787,
+    "wof:parent_id":85865759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

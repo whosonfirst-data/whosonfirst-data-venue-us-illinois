@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.655745,41.89604,-87.655745,41.89604",
     "geom:latitude":41.89604,
     "geom:longitude":-87.655745,
@@ -33,11 +34,12 @@
     "sg:website":"www.pieeyedchicago.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822723,
+        85890767,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -50,20 +52,21 @@
     "wof:geomhash":"13d6532bff9fc9b66de7cf6808ee2211",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85822723,
+            "neighbourhood_id":85890767,
             "region_id":85688697,
             "venue_id":756264423
         }
     ],
     "wof:id":756264423,
-    "wof:lastmodified":1472622051,
+    "wof:lastmodified":1491370748,
     "wof:name":"Pie-Eyed Pizzeria",
-    "wof:parent_id":85822723,
+    "wof:parent_id":85890767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.758912,41.683246,-87.758912,41.683246",
     "geom:latitude":41.683246,
     "geom:longitude":-87.758912,
@@ -33,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890893,
+        102191575,
+        404497667,
         85633793,
         85940911,
-        102084317
+        102084317,
+        85688697,
+        420518833,
+        85890867,
+        85940759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,40 @@
     "wof:geomhash":"bc9a613cd84dcdbd7ec4eace81151949",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890893,
+            "region_id":85688697,
+            "venue_id":269976013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940911,
+            "neighbourhood_id":420518833,
+            "region_id":85688697,
+            "venue_id":269976013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940759,
+            "neighbourhood_id":85890867,
             "region_id":85688697,
             "venue_id":269976013
         }
     ],
     "wof:id":269976013,
-    "wof:lastmodified":1472621420,
+    "wof:lastmodified":1491370975,
     "wof:name":"Anixter",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.737194,41.937208,-87.737194,41.937208",
     "geom:latitude":41.937208,
     "geom:longitude":-87.737194,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783497,
+        102191575,
+        404496273,
         85633793,
         85940195,
-        102084317
+        958020405,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,21 @@
     "wof:geomhash":"6bdfb4e6810f24146b5cb7fa46dde368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420783497,
             "region_id":85688697,
             "venue_id":235987709
         }
     ],
     "wof:id":235987709,
-    "wof:lastmodified":1472620808,
+    "wof:lastmodified":1491371749,
     "wof:name":"Blue Cub Industrial Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420783497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

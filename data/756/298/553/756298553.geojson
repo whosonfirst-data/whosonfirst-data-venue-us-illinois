@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.7319,41.968198,-87.7319,41.968198",
     "geom:latitude":41.968198,
     "geom:longitude":-87.7319,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865761,
+        420783503,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"1dea00c5ce72b40a0c675d34cddb37ce",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865761,
+            "neighbourhood_id":420783503,
             "region_id":85688697,
             "venue_id":756298553
         }
     ],
     "wof:id":756298553,
-    "wof:lastmodified":1472622094,
+    "wof:lastmodified":1491371769,
     "wof:name":"Chicago Tour & Travel",
-    "wof:parent_id":85865761,
+    "wof:parent_id":420783503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

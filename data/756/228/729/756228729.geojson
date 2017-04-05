@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.634354,41.83468,-87.634354,41.83468",
     "geom:latitude":41.83468,
     "geom:longitude":-87.634354,
@@ -30,11 +31,13 @@
     "sg:website":"corkandkerrychicago.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867527,
+        957919663,
+        85865729,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -47,20 +50,22 @@
     "wof:geomhash":"82a19a0c17a3725d49a74ba8416b86fc",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867527,
+            "microhood_id":957919663,
+            "neighbourhood_id":85865729,
             "region_id":85688697,
             "venue_id":756228729
         }
     ],
     "wof:id":756228729,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1491372824,
     "wof:name":"Cork and Kerry at the Park",
-    "wof:parent_id":85867527,
+    "wof:parent_id":957919663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

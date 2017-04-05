@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.754938,41.995576,-87.754938,41.995576",
     "geom:latitude":41.995576,
     "geom:longitude":-87.754938,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867581,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85869249
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"6f38561784b8a70ccc3b153e9e636def",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85869249,
+            "neighbourhood_id":85867581,
             "region_id":85688697,
             "venue_id":203132243
         }
     ],
     "wof:id":203132243,
-    "wof:lastmodified":1472621050,
+    "wof:lastmodified":1491369715,
     "wof:name":"M&M Consultants of Chicago",
-    "wof:parent_id":85869249,
+    "wof:parent_id":85867581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

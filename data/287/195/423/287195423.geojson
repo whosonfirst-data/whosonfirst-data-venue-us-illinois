@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.780552,41.875367,-87.780552,41.875367",
     "geom:latitude":41.875367,
     "geom:longitude":-87.780552,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518931,
+        102191575,
+        404497607,
         85633793,
-        85940755,
-        102084317
+        85940903,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1cad16986eecc9464495d9314283cf1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940755,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497607,
+            "locality_id":85940903,
+            "neighbourhood_id":420518931,
             "region_id":85688697,
             "venue_id":287195423
         }
     ],
     "wof:id":287195423,
-    "wof:lastmodified":1472621158,
+    "wof:lastmodified":1491371681,
     "wof:name":"Piraino & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

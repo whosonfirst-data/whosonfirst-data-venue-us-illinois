@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.65589,41.66118,-87.65589,41.66118",
     "geom:latitude":41.66118,
     "geom:longitude":-87.65589,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518731,
+        102191575,
+        404497613,
         85633793,
-        85940885,
-        102084317
+        85940781,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"88e9b8bc869b4bd901376f263728b999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940885,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497613,
+            "locality_id":85940781,
+            "neighbourhood_id":420518731,
             "region_id":85688697,
             "venue_id":286625627
         }
     ],
     "wof:id":286625627,
-    "wof:lastmodified":1472621526,
+    "wof:lastmodified":1491370878,
     "wof:name":"A Step Up Transportation Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

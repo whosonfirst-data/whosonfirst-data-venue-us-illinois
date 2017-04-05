@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.677621,41.919825,-87.677621,41.919825",
     "geom:latitude":41.919825,
     "geom:longitude":-87.677621,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869147,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85869147
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +47,11 @@
     "wof:geomhash":"43e5454adb78f827b02091e0adf55c9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85869147,
             "region_id":85688697,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202449081,
-    "wof:lastmodified":1472620882,
+    "wof:lastmodified":1491370267,
     "wof:name":"Bob Polkowski",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",

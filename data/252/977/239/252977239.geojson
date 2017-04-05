@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.607567,41.830197,-87.607567,41.830197",
     "geom:latitude":41.830197,
     "geom:longitude":-87.607567,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865721,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867717
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"5c811f10f0bc7328a6e36c0eb186c02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867717,
+            "neighbourhood_id":85865721,
             "region_id":85688697,
             "venue_id":252977239
         }
     ],
     "wof:id":252977239,
-    "wof:lastmodified":1472621118,
+    "wof:lastmodified":1491368072,
     "wof:name":"Childrens Place Child Care",
-    "wof:parent_id":85867717,
+    "wof:parent_id":85865721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

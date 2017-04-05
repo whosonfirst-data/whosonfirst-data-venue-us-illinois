@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68862,42.025181,-87.68862,42.025181",
     "geom:latitude":42.025181,
     "geom:longitude":-87.68862,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890785,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890785
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a681cb6aaf771d84aefc54f0c6f73ca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890785,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219770081,
-    "wof:lastmodified":1472621584,
+    "wof:lastmodified":1491370767,
     "wof:name":"Judith Bell & Assoc",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",

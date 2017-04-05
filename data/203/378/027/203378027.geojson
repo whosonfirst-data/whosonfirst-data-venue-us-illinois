@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.674907,42.027597,-87.674907,42.027597",
     "geom:latitude":42.027597,
     "geom:longitude":-87.674907,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85868887,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85868887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"fa25af48cc9b8a3feb90e86b3285ca68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85868887,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203378027,
-    "wof:lastmodified":1472621203,
+    "wof:lastmodified":1491370107,
     "wof:name":"In/Voice Productions Ltd",
     "wof:parent_id":85868887,
     "wof:placetype":"venue",

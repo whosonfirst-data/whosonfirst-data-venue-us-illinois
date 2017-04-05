@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.717598,41.975601,-87.717598,41.975601",
     "geom:latitude":41.975601,
     "geom:longitude":-87.717598,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865763,
+        85867715,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"3252f2c954d7cf629472eec5e62f74dc",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865763,
+            "neighbourhood_id":85867715,
             "region_id":85688697,
             "venue_id":756408349
         }
     ],
     "wof:id":756408349,
-    "wof:lastmodified":1472622182,
+    "wof:lastmodified":1491369871,
     "wof:name":"SK Auto Repair",
-    "wof:parent_id":85865763,
+    "wof:parent_id":85867715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

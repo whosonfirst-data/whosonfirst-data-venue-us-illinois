@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.7442,41.95353,-87.7442,41.95353",
     "geom:latitude":41.95353,
     "geom:longitude":-87.7442,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867763,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867763
+        85688697,
+        1024496987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,32 @@
     "wof:geomhash":"a87d61c247792152a06c4cf3cbc05fe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867763,
+            "region_id":85688697,
+            "venue_id":253570781
+        },
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496987,
             "region_id":85688697,
             "venue_id":253570781
         }
     ],
     "wof:id":253570781,
-    "wof:lastmodified":1472621585,
+    "wof:lastmodified":1491372531,
     "wof:name":"Sandberg Jewelers Corporation",
-    "wof:parent_id":85867763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

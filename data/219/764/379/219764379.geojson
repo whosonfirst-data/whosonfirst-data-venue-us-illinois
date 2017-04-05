@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.582453,41.763402,-87.582453,41.763402",
     "geom:latitude":41.763402,
     "geom:longitude":-87.582453,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850085,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"1018c68aa1d70f7f1641d007bc55aab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867729,
+            "neighbourhood_id":85850085,
             "region_id":85688697,
             "venue_id":219764379
         }
     ],
     "wof:id":219764379,
-    "wof:lastmodified":1472621573,
+    "wof:lastmodified":1491367996,
     "wof:name":"Calderon Suzuki Music Program",
-    "wof:parent_id":85867729,
+    "wof:parent_id":85850085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

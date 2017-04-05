@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.713626,41.980261,-87.713626,41.980261",
     "geom:latitude":41.980261,
     "geom:longitude":-87.713626,
@@ -41,11 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865773,
+        85867715,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -58,20 +60,21 @@
     "wof:geomhash":"a71eee1203a20af916dd23e6561b88e8",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865773,
+            "neighbourhood_id":85867715,
             "region_id":85688697,
             "venue_id":756277975
         }
     ],
     "wof:id":756277975,
-    "wof:lastmodified":1472622068,
+    "wof:lastmodified":1491369874,
     "wof:name":"New Century Forum Inc",
-    "wof:parent_id":85865773,
+    "wof:parent_id":85867715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

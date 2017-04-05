@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.858606,41.943618,-87.858606,41.943618",
     "geom:latitude":41.943618,
     "geom:longitude":-87.858606,
@@ -36,11 +37,13 @@
     "sg:website":"www.chucking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867751,
+        102191575,
+        404497625,
         85633793,
         85940945,
         102084317,
-        85867751
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"a90b31c2e05791422e0787ccec5c892f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497625,
             "locality_id":85940945,
             "neighbourhood_id":85867751,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":236158421,
-    "wof:lastmodified":1472621225,
+    "wof:lastmodified":1491369924,
     "wof:name":"Chucking Machine Products Inc",
     "wof:parent_id":85867751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.623624,41.850706,-87.623624,41.850706",
     "geom:latitude":41.850706,
     "geom:longitude":-87.623624,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867741,
+        85865737,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"4a31a632e1b3bb7d2c5d87e13421107e",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867741,
+            "neighbourhood_id":85865737,
             "region_id":85688697,
             "venue_id":756233819
         }
     ],
     "wof:id":756233819,
-    "wof:lastmodified":1472622030,
+    "wof:lastmodified":1491368208,
     "wof:name":"Brook Architecture",
-    "wof:parent_id":85867741,
+    "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

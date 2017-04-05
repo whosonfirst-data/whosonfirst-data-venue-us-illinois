@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.529449,41.692005,-87.529449,41.692005",
     "geom:latitude":41.692005,
     "geom:longitude":-87.529449,
@@ -32,7 +33,16 @@
     ],
     "sg:website":"http://www.digital-kids.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816771,
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        958036681,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WIMVMOyFtF9eZdAaiwz9Y_41.692005_-87.529449@1303262883"
@@ -40,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461958568,
     "wof:geomhash":"4777b217a40ab61a16972d1a255e53bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":958036681,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85816771,
+            "region_id":85688697,
+            "venue_id":756234125
+        }
+    ],
     "wof:id":756234125,
-    "wof:lastmodified":1472622000,
+    "wof:lastmodified":1491366612,
     "wof:name":"Northwestern University Myocardial Research Lab",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

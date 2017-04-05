@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.640824,41.852748,-87.640824,41.852748",
     "geom:latitude":41.852748,
     "geom:longitude":-87.640824,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865735,
+        85865737,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"21f40a7723d8d309f6ac5e3bcb6e8a89",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865735,
+            "neighbourhood_id":85865737,
             "region_id":85688697,
             "venue_id":756232833
         }
     ],
     "wof:id":756232833,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1491368217,
     "wof:name":"Qaasim Warren",
-    "wof:parent_id":85865735,
+    "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

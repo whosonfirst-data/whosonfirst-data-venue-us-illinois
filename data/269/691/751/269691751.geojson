@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.654226,41.679825,-87.654226,41.679825",
     "geom:latitude":41.679825,
     "geom:longitude":-87.654226,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856203,
+        102191575,
+        404496273,
         85633793,
-        85940885,
+        85940195,
+        958036681,
         102084317,
-        85867739
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"0e1c2f3f9128b4d61e16362eafedf45f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940885,
-            "neighbourhood_id":85867739,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85856203,
             "region_id":85688697,
             "venue_id":269691751
         }
     ],
     "wof:id":269691751,
-    "wof:lastmodified":1472621240,
+    "wof:lastmodified":1491368049,
     "wof:name":"Theta Realty Inc",
-    "wof:parent_id":85867739,
+    "wof:parent_id":85856203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.70686,41.747088,-87.70686,41.747088",
     "geom:latitude":41.747088,
     "geom:longitude":-87.70686,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867495,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867495
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +52,11 @@
     "wof:geomhash":"c4303b92634b3d609c289a36a7549c6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867495,
             "region_id":85688697,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":286801341,
-    "wof:lastmodified":1472621665,
+    "wof:lastmodified":1491369515,
     "wof:name":"A & C Sheet Metal",
     "wof:parent_id":85867495,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.775375,41.900092,-87.775375,41.900092",
     "geom:latitude":41.900092,
     "geom:longitude":-87.775375,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867747,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85867747
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"676110f36e37721e8926b3268ca5874b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85867747,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203421129,
-    "wof:lastmodified":1472621206,
+    "wof:lastmodified":1491369914,
     "wof:name":"Taylor Sydney Consultants",
     "wof:parent_id":85867747,
     "wof:placetype":"venue",

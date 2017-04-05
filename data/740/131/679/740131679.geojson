@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.736523,41.953535,-87.736523,41.953535",
     "geom:latitude":41.953535,
     "geom:longitude":-87.736523,
@@ -41,8 +42,10 @@
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85688697
+        85688697,
+        1024496987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +56,7 @@
     "wof:geomhash":"10c31d7958912b681ed96a9920628ec5",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
@@ -61,12 +65,23 @@
             "neighbourhood_id":85867763,
             "region_id":85688697,
             "venue_id":740131679
+        },
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496987,
+            "region_id":85688697,
+            "venue_id":740131679
         }
     ],
     "wof:id":740131679,
-    "wof:lastmodified":1472621420,
+    "wof:lastmodified":1491372530,
     "wof:name":"Athens Stone Fabricating",
-    "wof:parent_id":85867763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

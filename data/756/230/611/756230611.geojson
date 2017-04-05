@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.623532,41.84142,-87.623532,41.84142",
     "geom:latitude":41.84142,
     "geom:longitude":-87.623532,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867771,
+        85867527,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"330f93db8337fc4c8a90ebe2f81594ca",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867771,
+            "neighbourhood_id":85867527,
             "region_id":85688697,
             "venue_id":756230611
         }
     ],
     "wof:id":756230611,
-    "wof:lastmodified":1472621997,
+    "wof:lastmodified":1491369681,
     "wof:name":"Nichols Reuben T MD",
-    "wof:parent_id":85867771,
+    "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

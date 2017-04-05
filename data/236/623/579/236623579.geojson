@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.645631,41.942686,-87.645631,41.942686",
     "geom:latitude":41.942686,
     "geom:longitude":-87.645631,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        974518243,
+        85882181,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882143
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,22 @@
     "wof:geomhash":"7c83eff4a004484d2be10fe2b88273a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882143,
+            "microhood_id":974518243,
+            "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":236623579
         }
     ],
     "wof:id":236623579,
-    "wof:lastmodified":1472621736,
+    "wof:lastmodified":1491372832,
     "wof:name":"Belli Industries Holding Group",
-    "wof:parent_id":85882143,
+    "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

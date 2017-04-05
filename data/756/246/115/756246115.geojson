@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.722269,41.937978,-87.722269,41.937978",
     "geom:latitude":41.937978,
     "geom:longitude":-87.722269,
@@ -38,11 +39,12 @@
     "sg:website":"http://www.tacobell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804073,
+        85865755,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -55,20 +57,21 @@
     "wof:geomhash":"6147933f147bd0f34d20a007cbea08c6",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85804073,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":756246115
         }
     ],
     "wof:id":756246115,
-    "wof:lastmodified":1472622010,
+    "wof:lastmodified":1491368673,
     "wof:name":"Taco Bell",
-    "wof:parent_id":85804073,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

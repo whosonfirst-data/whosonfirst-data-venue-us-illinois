@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.682111,41.724759,-87.682111,41.724759",
     "geom:latitude":41.724759,
     "geom:longitude":-87.682111,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867511,
+        102191575,
+        404496273,
         85633793,
-        85940855,
+        85940195,
+        958036681,
         102084317,
-        85867511
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,19 @@
     "wof:geomhash":"5d3598c8c334c724e475983e891628a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940855,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85867511,
             "region_id":85688697,
             "venue_id":286285559
         }
     ],
     "wof:id":286285559,
-    "wof:lastmodified":1472620803,
+    "wof:lastmodified":1491369571,
     "wof:name":"Murrays Auto Part",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.649578,41.951527,-87.649578,41.951527",
     "geom:latitude":41.951527,
     "geom:longitude":-87.649578,
@@ -30,10 +31,14 @@
     "sg:website":"www.leedentalclinic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
-        85867737,
-        102084317
+        85940195,
+        958020405,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,21 @@
     "wof:geomhash":"7e4b204c5aa4e22e48a4baa58f2a350b",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "neighbourhood_id":85867737,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":756206201
         }
     ],
     "wof:id":756206201,
-    "wof:lastmodified":1472621936,
+    "wof:lastmodified":1491370554,
     "wof:name":"Lee Dental Clinic",
-    "wof:parent_id":85867737,
+    "wof:parent_id":85882181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

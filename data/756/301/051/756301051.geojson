@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.822269,41.98322,-87.822269,41.98322",
     "geom:latitude":41.98322,
     "geom:longitude":-87.822269,
@@ -33,16 +34,14 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10330023%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837121,
+        1024497007,
         102191575,
-        404497639,
+        404496273,
         85633793,
-        85940771,
+        85940195,
+        958020405,
         102084317,
-        85688697,
-        85867583,
-        404497631,
-        85940743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +52,21 @@
     "wof:geomhash":"c1a2a5e3210eeb4cca215fd54a32b72c",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "localadmin_id":404497639,
-            "locality_id":85940771,
-            "neighbourhood_id":85837121,
-            "region_id":85688697,
-            "venue_id":756301051
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084317,
-            "localadmin_id":404497631,
-            "locality_id":85940743,
-            "neighbourhood_id":85867583,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024497007,
             "region_id":85688697,
             "venue_id":756301051
         }
     ],
     "wof:id":756301051,
-    "wof:lastmodified":1472622079,
+    "wof:lastmodified":1491372674,
     "wof:name":"A 1 Express Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1024497007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

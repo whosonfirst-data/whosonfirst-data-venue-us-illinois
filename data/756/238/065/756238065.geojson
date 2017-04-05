@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.575524,41.72889,-87.575524,41.72889",
     "geom:latitude":41.72889,
     "geom:longitude":-87.575524,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1024497111,
         85867531,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -57,20 +60,22 @@
     "wof:geomhash":"edf191489bf7873f15cce160aa09acf0",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":1024497111,
             "neighbourhood_id":85867531,
             "region_id":85688697,
             "venue_id":756238065
         }
     ],
     "wof:id":756238065,
-    "wof:lastmodified":1472622000,
+    "wof:lastmodified":1491373041,
     "wof:name":"Bethany Church",
-    "wof:parent_id":85867531,
+    "wof:parent_id":1024497111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.725208,41.910033,-87.725208,41.910033",
     "geom:latitude":41.910033,
     "geom:longitude":-87.725208,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867721
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"4f167334b01a130ac50a91864b5713ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867721,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":270343167
         }
     ],
     "wof:id":270343167,
-    "wof:lastmodified":1472621419,
+    "wof:lastmodified":1491368756,
     "wof:name":"Youth Service Project Inc",
-    "wof:parent_id":85867721,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

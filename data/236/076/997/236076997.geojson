@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.711845,41.741423,-87.711845,41.741423",
     "geom:latitude":41.741423,
     "geom:longitude":-87.711845,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783583,
+        102191575,
+        404496273,
         85633793,
-        85940891,
+        85940195,
+        958036681,
         102084317,
-        85867553
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"8fba1faca42f021edea258a705e83114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940891,
-            "neighbourhood_id":85867553,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783583,
             "region_id":85688697,
             "venue_id":236076997
         }
     ],
     "wof:id":236076997,
-    "wof:lastmodified":1472620952,
+    "wof:lastmodified":1491372060,
     "wof:name":"Blinderman Construction",
-    "wof:parent_id":85867553,
+    "wof:parent_id":420783583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.761641,41.942364,-87.761641,41.942364",
     "geom:latitude":41.942364,
     "geom:longitude":-87.761641,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518911,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"a1963a53b45cfe82900544ee05b2e17a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882317,
+            "neighbourhood_id":420518911,
             "region_id":85688697,
             "venue_id":202413873
         }
     ],
     "wof:id":202413873,
-    "wof:lastmodified":1472620812,
+    "wof:lastmodified":1491371411,
     "wof:name":"B&I Janitorial Service",
-    "wof:parent_id":85882317,
+    "wof:parent_id":420518911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

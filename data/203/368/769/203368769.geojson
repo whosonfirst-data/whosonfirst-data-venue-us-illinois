@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.676518,41.982342,-87.676518,41.982342",
     "geom:latitude":41.982342,
     "geom:longitude":-87.676518,
@@ -36,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867521,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867801,
-        85869419
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,28 +54,21 @@
     "wof:geomhash":"4a5ee8a57a48652fe54714e786cef98d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867801,
-            "region_id":85688697,
-            "venue_id":203368769
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869419,
+            "neighbourhood_id":85867521,
             "region_id":85688697,
             "venue_id":203368769
         }
     ],
     "wof:id":203368769,
-    "wof:lastmodified":1472621198,
+    "wof:lastmodified":1491369619,
     "wof:name":"Lsl Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

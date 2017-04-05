@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.630021,41.857396,-87.630021,41.857396",
     "geom:latitude":41.857396,
     "geom:longitude":-87.630021,
@@ -40,11 +41,12 @@
     "sg:website":"www.intercitymaintenance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865735,
+        85865737,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -57,20 +59,21 @@
     "wof:geomhash":"c627a30fc2e52644d4277aaa4eeda55a",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865735,
+            "neighbourhood_id":85865737,
             "region_id":85688697,
             "venue_id":756228467
         }
     ],
     "wof:id":756228467,
-    "wof:lastmodified":1472621988,
+    "wof:lastmodified":1491368210,
     "wof:name":"Inter City Maintenance Service",
-    "wof:parent_id":85865735,
+    "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.63405,41.8425,-87.63405,41.8425",
     "geom:latitude":41.8425,
     "geom:longitude":-87.63405,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865735,
+        957919663,
+        85865729,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -51,20 +54,22 @@
     "wof:geomhash":"90ff7244c07e826eaf8d748580c5dca9",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865735,
+            "microhood_id":957919663,
+            "neighbourhood_id":85865729,
             "region_id":85688697,
             "venue_id":756230531
         }
     ],
     "wof:id":756230531,
-    "wof:lastmodified":1472621997,
+    "wof:lastmodified":1491372821,
     "wof:name":"St Jerone's Catholic School",
-    "wof:parent_id":85865735,
+    "wof:parent_id":957919663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

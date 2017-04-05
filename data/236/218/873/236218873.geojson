@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.780277,41.99369,-87.780277,41.99369",
     "geom:latitude":41.99369,
     "geom:longitude":-87.780277,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496957,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882297
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"0fe0f091994acba87890006b27719405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882297,
+            "neighbourhood_id":1024496957,
             "region_id":85688697,
             "venue_id":236218873
         }
     ],
     "wof:id":236218873,
-    "wof:lastmodified":1472621343,
+    "wof:lastmodified":1491372408,
     "wof:name":"Institute For Natural Persons",
-    "wof:parent_id":85882297,
+    "wof:parent_id":1024496957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

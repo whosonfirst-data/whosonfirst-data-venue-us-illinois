@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.664275,41.968441,-87.664275,41.968441",
     "geom:latitude":41.968441,
     "geom:longitude":-87.664275,
@@ -29,10 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783523,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85867773
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,21 @@
     "wof:geomhash":"0f22ac12d547106582de1aeecdc26bd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
-            "neighbourhood_id":85867773,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783523,
             "region_id":85688697,
             "venue_id":270156957
         }
     ],
     "wof:id":270156957,
-    "wof:lastmodified":1472621169,
+    "wof:lastmodified":1491371846,
     "wof:name":"Beacon Castle Condo Assn",
-    "wof:parent_id":85867773,
+    "wof:parent_id":420783523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

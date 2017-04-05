@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.679755,41.968751,-87.679755,41.968751",
     "geom:latitude":41.968751,
     "geom:longitude":-87.679755,
@@ -42,11 +43,12 @@
     "sg:website":"http://www.ci.chi.il.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867787,
+        85865759,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -59,20 +61,21 @@
     "wof:geomhash":"20631746d862e90b64f11328641f7332",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867787,
+            "neighbourhood_id":85865759,
             "region_id":85688697,
             "venue_id":756278891
         }
     ],
     "wof:id":756278891,
-    "wof:lastmodified":1472622072,
+    "wof:lastmodified":1491368820,
     "wof:name":"Chicago Dept On Aging",
-    "wof:parent_id":85867787,
+    "wof:parent_id":85865759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

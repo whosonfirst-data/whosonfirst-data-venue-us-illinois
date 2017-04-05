@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.568951,41.766225,-87.568951,41.766225",
     "geom:latitude":41.766225,
     "geom:longitude":-87.568951,
@@ -29,10 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850085,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958036681,
         102084317,
-        85850085
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,19 @@
     "wof:geomhash":"3d70d18b8fde31208edf37884d9956a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85850085,
             "region_id":85688697,
             "venue_id":219811863
         }
     ],
     "wof:id":219811863,
-    "wof:lastmodified":1472621592,
+    "wof:lastmodified":1491368034,
     "wof:name":"Save Our Jobs Committee",
     "wof:parent_id":85850085,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807012,41.971921,-87.807012,41.971921",
     "geom:latitude":41.971921,
     "geom:longitude":-87.807012,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496895,
+        102191575,
+        404496273,
         85633793,
-        85940831,
+        85940195,
+        958020405,
         102084317,
-        85824195
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"8b96d425a0b523dab524e7276f894c35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940831,
-            "neighbourhood_id":85824195,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496895,
             "region_id":85688697,
             "venue_id":269491181
         }
     ],
     "wof:id":269491181,
-    "wof:lastmodified":1472620747,
+    "wof:lastmodified":1491372227,
     "wof:name":"Anthony Demas",
-    "wof:parent_id":85824195,
+    "wof:parent_id":1024496895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

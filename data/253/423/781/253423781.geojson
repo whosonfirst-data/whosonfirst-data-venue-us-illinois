@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.890528,42.007542,-87.890528,42.007542",
     "geom:latitude":42.007542,
     "geom:longitude":-87.890528,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867753,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85867753
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a5478d3715504fc3fa0b688fa48b3fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85867753,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253423781,
-    "wof:lastmodified":1472621501,
+    "wof:lastmodified":1491369971,
     "wof:name":"Bobs Motorcycle Shop",
     "wof:parent_id":85867753,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.645597,41.808938,-87.645597,41.808938",
     "geom:latitude":41.808938,
     "geom:longitude":-87.645597,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865723,
+        957777805,
+        85867501,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -57,20 +60,22 @@
     "wof:geomhash":"af7a65bee247a143dd1366e64a597b23",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865723,
+            "microhood_id":957777805,
+            "neighbourhood_id":85867501,
             "region_id":85688697,
             "venue_id":756171951
         }
     ],
     "wof:id":756171951,
-    "wof:lastmodified":1472621897,
+    "wof:lastmodified":1491372817,
     "wof:name":"J & J Beauty Supply",
-    "wof:parent_id":85865723,
+    "wof:parent_id":957777805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

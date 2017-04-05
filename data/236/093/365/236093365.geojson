@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.657501,41.662928,-87.657501,41.662928",
     "geom:latitude":41.662928,
     "geom:longitude":-87.657501,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518731,
+        102191575,
+        404497613,
         85633793,
-        85940885,
-        102084317
+        85940781,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"d5dbc8e8c3d204c003eaaf77283450d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940885,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497613,
+            "locality_id":85940781,
+            "neighbourhood_id":420518731,
             "region_id":85688697,
             "venue_id":236093365
         }
     ],
     "wof:id":236093365,
-    "wof:lastmodified":1472621048,
+    "wof:lastmodified":1491370813,
     "wof:name":"Global Imports Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.705503,41.952123,-87.705503,41.952123",
     "geom:latitude":41.952123,
     "geom:longitude":-87.705503,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865765,
+        420518865,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -51,20 +53,21 @@
     "wof:geomhash":"c1b56e390ae06948040cd6e981accedd",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865765,
+            "neighbourhood_id":420518865,
             "region_id":85688697,
             "venue_id":756244463
         }
     ],
     "wof:id":756244463,
-    "wof:lastmodified":1472622015,
+    "wof:lastmodified":1491371136,
     "wof:name":"Schools Public",
-    "wof:parent_id":85865765,
+    "wof:parent_id":420518865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

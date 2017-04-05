@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.766738,41.902202,-87.766738,41.902202",
     "geom:latitude":41.902202,
     "geom:longitude":-87.766738,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496881,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
-        85803983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"c7226de2a77fc438463aa4abcb8f2bff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85803983,
+            "neighbourhood_id":1024496881,
             "region_id":85688697,
             "venue_id":219926571
         }
     ],
     "wof:id":219926571,
-    "wof:lastmodified":1472621617,
+    "wof:lastmodified":1491372167,
     "wof:name":"Beatrice Hair Braiding",
-    "wof:parent_id":85803983,
+    "wof:parent_id":1024496881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

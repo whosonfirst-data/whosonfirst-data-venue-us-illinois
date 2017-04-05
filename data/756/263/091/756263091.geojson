@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.661964,41.890057,-87.661964,41.890057",
     "geom:latitude":41.890057,
     "geom:longitude":-87.661964,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822723,
+        85866935,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"a654f60020f5341219990126ba4fbaf3",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85822723,
+            "neighbourhood_id":85866935,
             "region_id":85688697,
             "venue_id":756263091
         }
     ],
     "wof:id":756263091,
-    "wof:lastmodified":1472622048,
+    "wof:lastmodified":1491369426,
     "wof:name":"Iltaco Foods",
-    "wof:parent_id":85822723,
+    "wof:parent_id":85866935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

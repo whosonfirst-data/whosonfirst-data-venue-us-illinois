@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.939682,41.970957,-87.939682,41.970957",
     "geom:latitude":41.970957,
     "geom:longitude":-87.939682,
@@ -55,13 +56,18 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420518939,
+        1024608977,
         102191575,
-        404497761,
+        404496273,
         85633793,
+        85940195,
+        958020405,
+        102084317,
+        85688697,
+        420518939,
+        404497761,
         85940201,
-        102081257,
-        85688697
+        102081257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,6 +77,17 @@
     "wof:created":1461952192,
     "wof:geomhash":"056240c1e514813e6d7174109920ab6f",
     "wof:hierarchy":[
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024608977,
+            "region_id":85688697,
+            "venue_id":740215065
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -83,9 +100,9 @@
         }
     ],
     "wof:id":740215065,
-    "wof:lastmodified":1472621908,
+    "wof:lastmodified":1491372740,
     "wof:name":"Denna Lawn & Marine",
-    "wof:parent_id":420518939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

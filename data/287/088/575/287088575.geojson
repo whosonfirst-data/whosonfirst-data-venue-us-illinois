@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.670936,41.990859,-87.670936,41.990859",
     "geom:latitude":41.990859,
     "geom:longitude":-87.670936,
@@ -35,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865775,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85865775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +53,11 @@
     "wof:geomhash":"35f9dd4f3d931ba026c208ecc0f98f20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85865775,
             "region_id":85688697,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":287088575,
-    "wof:lastmodified":1472621018,
+    "wof:lastmodified":1491369033,
     "wof:name":"Lovin Instant Printing Inc",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",

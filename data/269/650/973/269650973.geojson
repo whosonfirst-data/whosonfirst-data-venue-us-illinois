@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.940609,42.032509,-87.940609,42.032509",
     "geom:latitude":42.032509,
     "geom:longitude":-87.940609,
@@ -34,8 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85890725,
+        102191575,
+        404497619,
         85633793,
-        85688697
+        85940777,
+        102084317,
+        85688697,
+        85867701,
+        404497631,
+        85940869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +54,30 @@
     "wof:geomhash":"fc20be3b18d7294266d03a3f092f3b4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497619,
+            "locality_id":85940777,
+            "neighbourhood_id":85890725,
+            "region_id":85688697,
+            "venue_id":269650973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940869,
+            "neighbourhood_id":85867701,
             "region_id":85688697,
             "venue_id":269650973
         }
     ],
     "wof:id":269650973,
-    "wof:lastmodified":1472621180,
+    "wof:lastmodified":1491369817,
     "wof:name":"Speedway 7576",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

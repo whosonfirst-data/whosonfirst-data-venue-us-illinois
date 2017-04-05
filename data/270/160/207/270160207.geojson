@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.74842,41.902326,-87.74842,41.902326",
     "geom:latitude":41.902326,
     "geom:longitude":-87.74842,
@@ -41,11 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024497005,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
-        85803983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +59,21 @@
     "wof:geomhash":"9605d8c92a634b873aa0ee76ac8848fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85803983,
+            "neighbourhood_id":1024497005,
             "region_id":85688697,
             "venue_id":270160207
         }
     ],
     "wof:id":270160207,
-    "wof:lastmodified":1472621174,
+    "wof:lastmodified":1491372640,
     "wof:name":"Alpha Electrics",
-    "wof:parent_id":85803983,
+    "wof:parent_id":1024497005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

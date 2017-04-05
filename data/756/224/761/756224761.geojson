@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.586513,41.803506,-87.586513,41.803506",
     "geom:latitude":41.803506,
     "geom:longitude":-87.586513,
@@ -30,10 +31,15 @@
     "sg:website":"www.istriacafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
-        85633793,
+        957665791,
         85865719,
-        102084317
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        958036681,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +50,22 @@
     "wof:geomhash":"437b81f2d9ddc9ce0a32e84534a6998f",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "microhood_id":957665791,
             "neighbourhood_id":85865719,
             "region_id":85688697,
             "venue_id":756224761
         }
     ],
     "wof:id":756224761,
-    "wof:lastmodified":1472621987,
+    "wof:lastmodified":1491372748,
     "wof:name":"Istria Caf?",
-    "wof:parent_id":85865719,
+    "wof:parent_id":957665791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

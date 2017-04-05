@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.779488,41.945746,-87.779488,41.945746",
     "geom:latitude":41.945746,
     "geom:longitude":-87.779488,
@@ -37,11 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420518805,
+        420518911,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -54,20 +56,21 @@
     "wof:geomhash":"1c5a233676f6c66f2803d700d6af62d6",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":420518805,
+            "neighbourhood_id":420518911,
             "region_id":85688697,
             "venue_id":756312787
         }
     ],
     "wof:id":756312787,
-    "wof:lastmodified":1472622101,
+    "wof:lastmodified":1491371442,
     "wof:name":"Ferridino Enterprises",
-    "wof:parent_id":420518805,
+    "wof:parent_id":420518911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

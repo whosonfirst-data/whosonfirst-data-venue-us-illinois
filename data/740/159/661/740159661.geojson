@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.635282,41.880154,-87.635282,41.880154",
     "geom:latitude":41.880154,
     "geom:longitude":-87.635282,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868439,
+        85831409,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -50,20 +52,21 @@
     "wof:geomhash":"71792fa1e099fb697b721d0143d59739",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85868439,
+            "neighbourhood_id":85831409,
             "region_id":85688697,
             "venue_id":740159661
         }
     ],
     "wof:id":740159661,
-    "wof:lastmodified":1472621799,
+    "wof:lastmodified":1491366919,
     "wof:name":"Uncle Abe's Deli",
-    "wof:parent_id":85868439,
+    "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

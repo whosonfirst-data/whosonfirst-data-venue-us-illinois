@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.795799,41.978802,-87.795799,41.978802",
     "geom:latitude":41.978802,
     "geom:longitude":-87.795799,
@@ -28,7 +29,16 @@
     "sg:postcode":"60656",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1024496971,
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        958020405,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qW6LOUibap23mpuREEmkz_41.978913_-87.796375@1293134755"
@@ -36,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1461950403,
     "wof:geomhash":"b7c8ac9f5361b4ac969f0171bdadee5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024496971,
+            "region_id":85688697,
+            "venue_id":740132573
+        }
+    ],
     "wof:id":740132573,
-    "wof:lastmodified":1472621419,
+    "wof:lastmodified":1491372460,
     "wof:name":"Kevin W Dillon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1024496971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

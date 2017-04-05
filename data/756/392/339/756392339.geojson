@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.64481,41.938733,-87.64481,41.938733",
     "geom:latitude":41.938733,
     "geom:longitude":-87.64481,
@@ -44,11 +45,13 @@
     "sg:website":"contactsandspecs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        974518243,
         85882181,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -61,20 +64,22 @@
     "wof:geomhash":"ea2b1457b5fc53d81f912583ef26bf6f",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":974518243,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":756392339
         }
     ],
     "wof:id":756392339,
-    "wof:lastmodified":1472622171,
+    "wof:lastmodified":1491372840,
     "wof:name":"Contacts and Specs",
-    "wof:parent_id":85882181,
+    "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

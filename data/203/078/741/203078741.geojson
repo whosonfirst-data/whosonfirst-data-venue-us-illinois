@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.764953,41.997256,-87.764953,41.997256",
     "geom:latitude":41.997256,
     "geom:longitude":-87.764953,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867581,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867581
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,11 @@
     "wof:geomhash":"f1a16ea08dc72ff45805a3c0ea1ddc71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867581,
             "region_id":85688697,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":203078741,
-    "wof:lastmodified":1472620927,
+    "wof:lastmodified":1491369716,
     "wof:name":"Hair Perfection",
     "wof:parent_id":85867581,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.647345,41.879003,-87.647345,41.879003",
     "geom:latitude":41.879003,
     "geom:longitude":-87.647345,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869305,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
-        85869305
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +50,11 @@
     "wof:geomhash":"c005bc794db496fc2b06a848efa874b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":957979099,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85869305,
             "region_id":85688697,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":236630069,
-    "wof:lastmodified":1472621737,
+    "wof:lastmodified":1491370344,
     "wof:name":"Cafe Kallisto",
     "wof:parent_id":85869305,
     "wof:placetype":"venue",

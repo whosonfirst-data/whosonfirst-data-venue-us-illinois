@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.615867,41.82025,-87.615867,41.82025",
     "geom:latitude":41.82025,
     "geom:longitude":-87.615867,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867527,
+        102191575,
+        404496273,
         85633793,
         85940195,
-        102084317
+        958036681,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,21 @@
     "wof:geomhash":"2f093c16407fe957ab4a8bc1cd8e0a43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867527,
             "region_id":85688697,
             "venue_id":303133181
         }
     ],
     "wof:id":303133181,
-    "wof:lastmodified":1472620946,
+    "wof:lastmodified":1491369631,
     "wof:name":"Davis Bedenfield Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

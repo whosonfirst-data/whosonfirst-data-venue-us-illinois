@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.693886,41.928741,-87.693886,41.928741",
     "geom:latitude":41.928741,
     "geom:longitude":-87.693886,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865755,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867675
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"09fdc05e4a3af6e8bd7fd83113bb58fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867675,
+            "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":236090127
         }
     ],
     "wof:id":236090127,
-    "wof:lastmodified":1472621036,
+    "wof:lastmodified":1491368645,
     "wof:name":"H & L Finishers For Printers",
-    "wof:parent_id":85867675,
+    "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

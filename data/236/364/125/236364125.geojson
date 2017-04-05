@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.713867,41.986641,-87.713867,41.986641",
     "geom:latitude":41.986641,
     "geom:longitude":-87.713867,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024496945,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85865773
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"623d7d275654436e220a005c95081902",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85865773,
+            "neighbourhood_id":1024496945,
             "region_id":85688697,
             "venue_id":236364125
         }
     ],
     "wof:id":236364125,
-    "wof:lastmodified":1472621583,
+    "wof:lastmodified":1491372382,
     "wof:name":"Bat Partners Inc",
-    "wof:parent_id":85865773,
+    "wof:parent_id":1024496945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

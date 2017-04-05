@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.668461,41.934226,-87.668461,41.934226",
     "geom:latitude":41.934226,
     "geom:longitude":-87.668461,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85829473,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882313
+        85688697
     ],
     "wof:brand_id":420573827,
     "wof:breaches":[],
@@ -47,19 +51,21 @@
     "wof:geomhash":"0c576a2c6e976f4d66a203d083452516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882313,
+            "neighbourhood_id":85829473,
             "region_id":85688697,
             "venue_id":219868709
         }
     ],
     "wof:id":219868709,
-    "wof:lastmodified":1472621603,
+    "wof:lastmodified":1491366720,
     "wof:name":"McDonalds",
-    "wof:parent_id":85882313,
+    "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

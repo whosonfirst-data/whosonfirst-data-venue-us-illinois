@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.647797,41.953371,-87.647797,41.953371",
     "geom:latitude":41.953371,
     "geom:longitude":-87.647797,
@@ -47,10 +48,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85829473,
+        102191575,
+        404496273,
         85633793,
-        85867737,
-        102084317
+        85940195,
+        958020405,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +66,21 @@
     "wof:geomhash":"991b26fe0212db3e6208e524265f7c33",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "neighbourhood_id":85867737,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85829473,
             "region_id":85688697,
             "venue_id":756208167
         }
     ],
     "wof:id":756208167,
-    "wof:lastmodified":1472621937,
+    "wof:lastmodified":1491366913,
     "wof:name":"American Nursing Services Inc",
-    "wof:parent_id":85867737,
+    "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

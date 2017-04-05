@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947253,42.02268,-87.947253,42.02268",
     "geom:latitude":42.02268,
     "geom:longitude":-87.947253,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867701,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85867701
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"c96d2e3b0154c851289795abd54a499f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85867701,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":236347697,
-    "wof:lastmodified":1472621561,
+    "wof:lastmodified":1491369817,
     "wof:name":"L N A Systems",
     "wof:parent_id":85867701,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.567087,41.630784,-87.567087,41.630784",
     "geom:latitude":41.630784,
     "geom:longitude":-87.567087,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805823,
+        102191575,
+        404497591,
         85633793,
         85940863,
         102084317,
-        85805823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c0ae0db2c0861d8a8edaa83beb89baf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940863,
             "neighbourhood_id":85805823,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252977371,
-    "wof:lastmodified":1472621122,
+    "wof:lastmodified":1491366531,
     "wof:name":"Golden Gate Restaurant",
     "wof:parent_id":85805823,
     "wof:placetype":"venue",

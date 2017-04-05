@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.759433,41.998271,-87.759433,41.998271",
     "geom:latitude":41.998271,
     "geom:longitude":-87.759433,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867581,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867581
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +47,11 @@
     "wof:geomhash":"3113da9f637cf29d0c274c79bdd01cd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85867581,
             "region_id":85688697,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253604981,
-    "wof:lastmodified":1472621615,
+    "wof:lastmodified":1491369704,
     "wof:name":"Elaine C Renier",
     "wof:parent_id":85867581,
     "wof:placetype":"venue",

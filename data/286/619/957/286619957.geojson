@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.645166,41.947153,-87.645166,41.947153",
     "geom:latitude":41.947153,
     "geom:longitude":-87.645166,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85882143
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"7a5b93caa0dd378fe5c8d5a9cd00f90e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882143,
+            "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":286619957
         }
     ],
     "wof:id":286619957,
-    "wof:lastmodified":1472621533,
+    "wof:lastmodified":1491370492,
     "wof:name":"Howard Imports",
-    "wof:parent_id":85882143,
+    "wof:parent_id":85882181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

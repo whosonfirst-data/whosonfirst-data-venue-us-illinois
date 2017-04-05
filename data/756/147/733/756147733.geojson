@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.633691,41.876733,-87.633691,41.876733",
     "geom:latitude":41.876733,
     "geom:longitude":-87.633691,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866929,
+        85831409,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
         85688697
     ],
@@ -50,20 +52,21 @@
     "wof:geomhash":"226a09bad63045ca8470737081ecc693",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85866929,
+            "neighbourhood_id":85831409,
             "region_id":85688697,
             "venue_id":756147733
         }
     ],
     "wof:id":756147733,
-    "wof:lastmodified":1472621846,
+    "wof:lastmodified":1491367697,
     "wof:name":"E JM Engineering PC",
-    "wof:parent_id":85866929,
+    "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

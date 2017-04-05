@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.725821,41.892606,-87.725821,41.892606",
     "geom:latitude":41.892606,
     "geom:longitude":-87.725821,
@@ -31,11 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420518861,
+        420518777,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -48,20 +50,21 @@
     "wof:geomhash":"91a7d8962c7cc78b6d279e870cfcb78d",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":420518861,
+            "neighbourhood_id":420518777,
             "region_id":85688697,
             "venue_id":756180187
         }
     ],
     "wof:id":756180187,
-    "wof:lastmodified":1472621878,
+    "wof:lastmodified":1491370912,
     "wof:name":"CTA Bus - #33 Magnificent Mile Express",
-    "wof:parent_id":420518861,
+    "wof:parent_id":420518777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.665753,41.662859,-87.665753,41.662859",
     "geom:latitude":41.662859,
     "geom:longitude":-87.665753,
@@ -34,8 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420518731,
+        102191575,
+        404497613,
         85633793,
-        85688697
+        85940781,
+        102084317,
+        85688697,
+        420518687,
+        404497667,
+        85940899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +54,30 @@
     "wof:geomhash":"f8a1bb67bc984ae2d1e76814e8d5842d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497613,
+            "locality_id":85940781,
+            "neighbourhood_id":420518731,
+            "region_id":85688697,
+            "venue_id":203065337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940899,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":203065337
         }
     ],
     "wof:id":203065337,
-    "wof:lastmodified":1472620884,
+    "wof:lastmodified":1491370795,
     "wof:name":"Earl Scheib Auto Paint Shops",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

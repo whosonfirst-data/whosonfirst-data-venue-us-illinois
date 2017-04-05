@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.625748,41.904897,-87.625748,41.904897",
     "geom:latitude":41.904897,
     "geom:longitude":-87.625748,
@@ -40,10 +41,14 @@
     "sg:website":"www.65escott.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865745,
+        102191575,
+        404496273,
         85633793,
-        85867617,
-        102084317
+        85940195,
+        957999223,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +59,21 @@
     "wof:geomhash":"9454f1ed7f0ccd27b72f9fd7833504db",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "neighbourhood_id":85867617,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85865745,
             "region_id":85688697,
             "venue_id":756181389
         }
     ],
     "wof:id":756181389,
-    "wof:lastmodified":1472621890,
+    "wof:lastmodified":1491368608,
     "wof:name":"65 E Scott Bldg",
-    "wof:parent_id":85867617,
+    "wof:parent_id":85865745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

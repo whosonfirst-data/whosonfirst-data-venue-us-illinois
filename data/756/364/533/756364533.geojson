@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.706234,41.923771,-87.706234,41.923771",
     "geom:latitude":41.923771,
     "geom:longitude":-87.706234,
@@ -33,11 +34,13 @@
     "sg:website":"www.justingillphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1024497109,
         85865755,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -50,20 +53,22 @@
     "wof:geomhash":"c03ecf936aaa5f61abb2c8247add1be4",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
+            "microhood_id":1024497109,
             "neighbourhood_id":85865755,
             "region_id":85688697,
             "venue_id":756364533
         }
     ],
     "wof:id":756364533,
-    "wof:lastmodified":1472622141,
+    "wof:lastmodified":1491373039,
     "wof:name":"Justin Gill Photo",
-    "wof:parent_id":85865755,
+    "wof:parent_id":1024497109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

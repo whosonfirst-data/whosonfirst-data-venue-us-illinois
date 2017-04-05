@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.676665,41.852269,-87.676665,41.852269",
     "geom:latitude":41.852269,
     "geom:longitude":-87.676665,
@@ -30,11 +31,12 @@
     "sg:website":"www.chicagoparkdistrict.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867671,
+        420783545,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -47,20 +49,21 @@
     "wof:geomhash":"441c8e25de17d476f86742f5699b8bbd",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867671,
+            "neighbourhood_id":420783545,
             "region_id":85688697,
             "venue_id":756162653
         }
     ],
     "wof:id":756162653,
-    "wof:lastmodified":1472621868,
+    "wof:lastmodified":1491371945,
     "wof:name":"Chicago Park District",
-    "wof:parent_id":85867671,
+    "wof:parent_id":420783545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

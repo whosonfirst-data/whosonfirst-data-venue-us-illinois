@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.642637,41.947413,-87.642637,41.947413",
     "geom:latitude":41.947413,
     "geom:longitude":-87.642637,
@@ -34,10 +35,14 @@
     "sg:website":"http://www.kirchit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        1024608975,
+        102191575,
+        404496273,
         85633793,
-        85867737,
-        102084317
+        85940195,
+        958020405,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +53,21 @@
     "wof:geomhash":"dd8d67917da49a103fc79626b22bc062",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "neighbourhood_id":85867737,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":1024608975,
             "region_id":85688697,
             "venue_id":756394827
         }
     ],
     "wof:id":756394827,
-    "wof:lastmodified":1472622174,
+    "wof:lastmodified":1491372726,
     "wof:name":"3520 Lake Shore Drive Condominium Association",
-    "wof:parent_id":85867737,
+    "wof:parent_id":1024608975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

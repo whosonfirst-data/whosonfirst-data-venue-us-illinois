@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.555746,41.755134,-87.555746,41.755134",
     "geom:latitude":41.755134,
     "geom:longitude":-87.555746,
@@ -37,11 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850085,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867543
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,21 @@
     "wof:geomhash":"01eee3489f9451c57ca114e38225512e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867543,
+            "neighbourhood_id":85850085,
             "region_id":85688697,
             "venue_id":253061141
         }
     ],
     "wof:id":253061141,
-    "wof:lastmodified":1472620867,
+    "wof:lastmodified":1491368031,
     "wof:name":"Fair Exchange Grocery & Deli",
-    "wof:parent_id":85867543,
+    "wof:parent_id":85850085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

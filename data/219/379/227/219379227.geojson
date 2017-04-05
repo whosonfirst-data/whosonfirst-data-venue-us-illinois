@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.598865,41.811364,-87.598865,41.811364",
     "geom:latitude":41.811364,
     "geom:longitude":-87.598865,
@@ -29,11 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420783549,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867647
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"0c9e05250b088d1c787deb595cc2c5d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867647,
+            "neighbourhood_id":420783549,
             "region_id":85688697,
             "venue_id":219379227
         }
     ],
     "wof:id":219379227,
-    "wof:lastmodified":1472621272,
+    "wof:lastmodified":1491371969,
     "wof:name":"Ariel Community Academy",
-    "wof:parent_id":85867647,
+    "wof:parent_id":420783549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

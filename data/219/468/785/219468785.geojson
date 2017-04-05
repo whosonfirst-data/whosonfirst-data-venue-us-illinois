@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.682488,41.914739,-87.682488,41.914739",
     "geom:latitude":41.914739,
     "geom:longitude":-87.682488,
@@ -37,11 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869147,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85869147
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +55,11 @@
     "wof:geomhash":"80a6bad4c051a394a7e56a1062022788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
             "neighbourhood_id":85869147,
             "region_id":85688697,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":219468785,
-    "wof:lastmodified":1472621374,
+    "wof:lastmodified":1491370182,
     "wof:name":"Frank Luizza & Associates",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",

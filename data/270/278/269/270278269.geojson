@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.643483,41.93546,-87.643483,41.93546",
     "geom:latitude":41.93546,
     "geom:longitude":-87.643483,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85882181,
+        102191575,
+        404496273,
         85633793,
+        85940195,
+        958020405,
         102084317,
-        85882181
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,19 @@
     "wof:geomhash":"67ef62555ca54bd10190070d16f335d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
             "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":270278269
         }
     ],
     "wof:id":270278269,
-    "wof:lastmodified":1472621342,
+    "wof:lastmodified":1491370481,
     "wof:name":"Oakdale Apartments",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.836746,41.952003,-87.836746,41.952003",
     "geom:latitude":41.952003,
     "geom:longitude":-87.836746,
@@ -29,16 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837121,
+        85869559,
         102191575,
-        404497639,
-        85633793,
-        85940771,
-        102084317,
-        85688697,
-        85867815,
         404496273,
-        85940195
+        85633793,
+        85940195,
+        958020405,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,21 @@
     "wof:geomhash":"e7ad88f3e782f9bc2f1bbf4d9d2b7a58",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084317,
-            "localadmin_id":404497639,
-            "locality_id":85940771,
-            "neighbourhood_id":85837121,
-            "region_id":85688697,
-            "venue_id":740252483
-        },
-        {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867815,
+            "neighbourhood_id":85869559,
             "region_id":85688697,
             "venue_id":740252483
         }
     ],
     "wof:id":740252483,
-    "wof:lastmodified":1472621983,
+    "wof:lastmodified":1491370410,
     "wof:name":"Sofia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

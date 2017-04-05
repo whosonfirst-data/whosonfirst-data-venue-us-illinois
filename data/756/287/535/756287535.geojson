@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.628138,41.695004,-87.628138,41.695004",
     "geom:latitude":41.695004,
     "geom:longitude":-87.628138,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867813,
+        85846003,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -46,20 +48,21 @@
     "wof:geomhash":"317ab8d600ae9a77411187ad46421af0",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867813,
+            "neighbourhood_id":85846003,
             "region_id":85688697,
             "venue_id":756287535
         }
     ],
     "wof:id":756287535,
-    "wof:lastmodified":1472622075,
+    "wof:lastmodified":1491367893,
     "wof:name":"Danny's Barber & Beauty Salon",
-    "wof:parent_id":85867813,
+    "wof:parent_id":85846003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

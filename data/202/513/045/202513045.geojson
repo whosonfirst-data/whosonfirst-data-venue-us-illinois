@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.740029,41.696977,-87.740029,41.696977",
     "geom:latitude":41.696977,
     "geom:longitude":-87.740029,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518833,
+        102191575,
+        404497667,
         85633793,
-        85940759,
-        102084317
+        85940911,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"be0a22185ca4df5bb190940c8ff939b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940759,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497667,
+            "locality_id":85940911,
+            "neighbourhood_id":420518833,
             "region_id":85688697,
             "venue_id":202513045
         }
     ],
     "wof:id":202513045,
-    "wof:lastmodified":1472621028,
+    "wof:lastmodified":1491370976,
     "wof:name":"Allied Payment Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

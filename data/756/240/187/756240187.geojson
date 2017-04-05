@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.688567,41.958873,-87.688567,41.958873",
     "geom:latitude":41.958873,
     "geom:longitude":-87.688567,
@@ -43,7 +44,9 @@
         85633793,
         85940195,
         102084317,
-        85688697
+        85688697,
+        85890759,
+        958020405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,12 +65,23 @@
             "neighbourhood_id":85867809,
             "region_id":85688697,
             "venue_id":756240187
+        },
+        {
+            "borough_id":958020405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85890759,
+            "region_id":85688697,
+            "venue_id":756240187
         }
     ],
     "wof:id":756240187,
-    "wof:lastmodified":1472622003,
+    "wof:lastmodified":1491370684,
     "wof:name":"E & J Foreign Cars, Ltd",
-    "wof:parent_id":85867809,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

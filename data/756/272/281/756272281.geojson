@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.701574,41.846396,-87.701574,41.846396",
     "geom:latitude":41.846396,
     "geom:longitude":-87.701574,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867519,
+        975149661,
+        85867775,
         102191575,
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -46,20 +49,22 @@
     "wof:geomhash":"d6b6b7158f0bc206819ea05528ac9a67",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867519,
+            "microhood_id":975149661,
+            "neighbourhood_id":85867775,
             "region_id":85688697,
             "venue_id":756272281
         }
     ],
     "wof:id":756272281,
-    "wof:lastmodified":1472622054,
+    "wof:lastmodified":1491372913,
     "wof:name":"Diaz Emma",
-    "wof:parent_id":85867519,
+    "wof:parent_id":975149661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

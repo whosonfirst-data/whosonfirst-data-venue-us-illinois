@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.643457,41.942213,-87.643457,41.942213",
     "geom:latitude":41.942213,
     "geom:longitude":-87.643457,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882143,
+        85882181,
         102191575,
         404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
         85688697
     ],
@@ -49,20 +51,21 @@
     "wof:geomhash":"44aa85e497913d7fcb1e8a25314e6c67",
     "wof:hierarchy":[
         {
+            "borough_id":958020405,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85882143,
+            "neighbourhood_id":85882181,
             "region_id":85688697,
             "venue_id":756392167
         }
     ],
     "wof:id":756392167,
-    "wof:lastmodified":1472622170,
+    "wof:lastmodified":1491370560,
     "wof:name":"University Of Illinois At Chic",
-    "wof:parent_id":85882143,
+    "wof:parent_id":85882181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

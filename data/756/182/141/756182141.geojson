@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.626717,41.89249,-87.626717,41.89249",
     "geom:latitude":41.89249,
     "geom:longitude":-87.626717,
@@ -37,14 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867757,
+        85836443,
         102191575,
         404496273,
         85633793,
         85940195,
+        957999223,
         102084317,
-        85688697,
-        85866925
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,30 +56,21 @@
     "wof:geomhash":"6bf2ec4d0203a23ea9b2e8b1a5ad90a5",
     "wof:hierarchy":[
         {
+            "borough_id":957999223,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867757,
-            "region_id":85688697,
-            "venue_id":756182141
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084317,
-            "localadmin_id":404496273,
-            "locality_id":85940195,
-            "neighbourhood_id":85866925,
+            "neighbourhood_id":85836443,
             "region_id":85688697,
             "venue_id":756182141
         }
     ],
     "wof:id":756182141,
-    "wof:lastmodified":1472621882,
+    "wof:lastmodified":1491367764,
     "wof:name":"Nespresso",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

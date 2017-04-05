@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.67792,41.974559,-87.67792,41.974559",
     "geom:latitude":41.974559,
     "geom:longitude":-87.67792,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85865759,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958020405,
         102084317,
-        85867823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"dce48905afe2a009dbccf53707f5c51a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958020405,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867823,
+            "neighbourhood_id":85865759,
             "region_id":85688697,
             "venue_id":287059103
         }
     ],
     "wof:id":287059103,
-    "wof:lastmodified":1472620876,
+    "wof:lastmodified":1491368808,
     "wof:name":"G D Designs & Construction Co",
-    "wof:parent_id":85867823,
+    "wof:parent_id":85865759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

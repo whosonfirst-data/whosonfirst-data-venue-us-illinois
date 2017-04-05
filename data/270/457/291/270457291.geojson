@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.722114,41.753366,-87.722114,41.753366",
     "geom:latitude":41.753366,
     "geom:longitude":-87.722114,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85869643,
+        102191575,
+        404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
-        85867495
+        85688697
     ],
     "wof:brand_id":420573865,
     "wof:breaches":[],
@@ -47,19 +51,21 @@
     "wof:geomhash":"c28b0721dec90bcbd0f2ca9b53216630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":958036681,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85867495,
+            "neighbourhood_id":85869643,
             "region_id":85688697,
             "venue_id":270457291
         }
     ],
     "wof:id":270457291,
-    "wof:lastmodified":1472621501,
+    "wof:lastmodified":1491370433,
     "wof:name":"Century 21",
-    "wof:parent_id":85867495,
+    "wof:parent_id":85869643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
