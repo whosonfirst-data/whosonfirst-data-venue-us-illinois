@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.065105,41.043176,-88.065105,41.043176",
     "geom:latitude":41.043176,
     "geom:longitude":-88.065105,
@@ -29,8 +30,11 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404496555,
         85633793,
-        85688697
+        102081259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,16 @@
     "wof:geomhash":"6d6f7e2c36335b9f05b330773db81b43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081259,
+            "localadmin_id":404496555,
             "region_id":85688697,
             "venue_id":203015275
         }
     ],
     "wof:id":203015275,
-    "wof:lastmodified":1472620761,
+    "wof:lastmodified":1492096188,
     "wof:name":"Action Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

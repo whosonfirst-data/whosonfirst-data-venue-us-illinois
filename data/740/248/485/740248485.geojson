@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8452,41.922901,-87.8452,41.922901",
     "geom:latitude":41.922901,
     "geom:longitude":-87.8452,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940727,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DRFmNWQZvEWMAMfzsP0CF_41.922901_-87.845200@1303262850"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952915,
     "wof:geomhash":"ecb7ad41b744960b943a7c0ac3530b2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940727,
+            "region_id":85688697,
+            "venue_id":740248485
+        }
+    ],
     "wof:id":740248485,
-    "wof:lastmodified":1472621970,
+    "wof:lastmodified":1492092511,
     "wof:name":"Ryan Dennis K Realty & Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

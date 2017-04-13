@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835905,42.375211,-87.835905,42.375211",
     "geom:latitude":42.375211,
     "geom:longitude":-87.835905,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890989,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85890989
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b878a905d8090b37004ab1f852ab12cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85890989,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253323463,
-    "wof:lastmodified":1472621404,
+    "wof:lastmodified":1492090180,
     "wof:name":"Ellis Neiburger DDS",
     "wof:parent_id":85890989,
     "wof:placetype":"venue",

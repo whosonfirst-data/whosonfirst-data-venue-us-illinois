@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.858962,41.792081,-87.858962,41.792081",
     "geom:latitude":41.792081,
     "geom:longitude":-87.858962,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.rcminc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50zGq26EeRDuOexk2FbSDq_41.792081_-87.858962@1303262860"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954594,
     "wof:geomhash":"1148b695372237db70ba22d7d9026fd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756057419
+        }
+    ],
     "wof:id":756057419,
-    "wof:lastmodified":1472621208,
+    "wof:lastmodified":1492100942,
     "wof:name":"Regulatory Compliance Mgt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

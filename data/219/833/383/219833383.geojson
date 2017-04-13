@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.813541,41.880022,-87.813541,41.880022",
     "geom:latitude":41.880022,
     "geom:longitude":-87.813541,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890873,
+        102191575,
+        404497579,
         85633793,
         85940849,
         102084317,
-        85890873
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"44014c4159bc697b5232dc074b76c819",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940849,
             "neighbourhood_id":85890873,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219833383,
-    "wof:lastmodified":1472621574,
+    "wof:lastmodified":1492089037,
     "wof:name":"Salaam Productions",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",

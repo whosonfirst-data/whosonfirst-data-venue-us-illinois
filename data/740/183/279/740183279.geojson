@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.231499,42.193298,-88.231499,42.193298",
     "geom:latitude":42.193298,
     "geom:longitude":-88.231499,
@@ -31,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85938395,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sYMXuQQR9ooHmmYe0pKv6_42.193298_-88.231499@1303262842"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951510,
     "wof:geomhash":"4b7b4294efa89759672f98ed7988a75e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85938395,
+            "region_id":85688697,
+            "venue_id":740183279
+        }
+    ],
     "wof:id":740183279,
-    "wof:lastmodified":1472621836,
+    "wof:lastmodified":1492092957,
     "wof:name":"Different Dimensions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

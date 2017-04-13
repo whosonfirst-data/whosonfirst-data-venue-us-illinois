@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.946895,42.03143,-87.946895,42.03143",
     "geom:latitude":42.03143,
     "geom:longitude":-87.946895,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890725,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890725
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"1cb5a27b2e08c75acfb47c6a2dd6cc3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890725,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219346931,
-    "wof:lastmodified":1472621263,
+    "wof:lastmodified":1492105027,
     "wof:name":"Sericol Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",

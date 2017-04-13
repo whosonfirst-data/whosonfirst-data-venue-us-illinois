@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.752971,41.421647,-87.752971,41.421647",
     "geom:latitude":41.421647,
     "geom:longitude":-87.752971,
@@ -28,7 +29,14 @@
     "sg:postcode":"60449",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24bjpbR0bJNHvgi5xmxoTy_41.421647_-87.752971@1303262857"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954035,
     "wof:geomhash":"a06ee2a34b840e7fa1332d0483b32ded",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030977
+        }
+    ],
     "wof:id":756030977,
-    "wof:lastmodified":1472620872,
+    "wof:lastmodified":1492090042,
     "wof:name":"Prefered Hotel & Resorts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

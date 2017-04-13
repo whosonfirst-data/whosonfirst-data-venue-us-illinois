@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.033737,40.851678,-88.033737,40.851678",
     "geom:latitude":40.851678,
     "geom:longitude":-88.033737,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498183,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RGPElbVF2n0zJoRmjkraB_40.851678_-88.033737@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950676,
     "wof:geomhash":"cd49c6c1bce5f71f885390a7e26e627e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498183,
+            "region_id":85688697,
+            "venue_id":740145423
+        }
+    ],
     "wof:id":740145423,
-    "wof:lastmodified":1472621708,
+    "wof:lastmodified":1492095942,
     "wof:name":"Eugene Tammen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

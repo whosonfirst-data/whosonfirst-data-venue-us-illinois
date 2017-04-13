@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.62742,41.585204,-87.62742,41.585204",
     "geom:latitude":41.585204,
     "geom:longitude":-87.62742,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890925,
+        102191575,
+        404497591,
         85633793,
         85940925,
         102084317,
-        85890925
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"6e160bf7b5e24c747ecf6c03e69b2114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940925,
             "neighbourhood_id":85890925,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":303198533,
-    "wof:lastmodified":1472621002,
+    "wof:lastmodified":1492093120,
     "wof:name":"Excel Direct",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",

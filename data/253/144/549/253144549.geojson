@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.794496,41.887921,-87.794496,41.887921",
     "geom:latitude":41.887921,
     "geom:longitude":-87.794496,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867585,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85867585
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2f0bc232fbe1eb28cc0ff6361d70ebae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85867585,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253144549,
-    "wof:lastmodified":1472621096,
+    "wof:lastmodified":1492109225,
     "wof:name":"Avenue Association",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",

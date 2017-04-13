@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.745502,41.940265,-88.745502,41.940265",
     "geom:latitude":41.940265,
     "geom:longitude":-88.745502,
@@ -32,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qK9JaO3b9zbPqCMcJzPPQ_41.940265_-88.745502@1303262847"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952327,
     "wof:geomhash":"c786f2fc1b2854cf236ec428794f6158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221525
+        }
+    ],
     "wof:id":740221525,
-    "wof:lastmodified":1472621920,
+    "wof:lastmodified":1492111748,
     "wof:name":"Dutton Roger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

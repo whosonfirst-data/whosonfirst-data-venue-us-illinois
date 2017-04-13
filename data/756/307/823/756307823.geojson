@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.549511,41.631551,-87.549511,41.631551",
     "geom:latitude":41.631551,
     "geom:longitude":-87.549511,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940889,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jYq7NmZUiyurX7EcXBg2w_41.631551_-87.549511@1303262893"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461960253,
     "wof:geomhash":"422c27cf2786ca9d9b22b9515cfe94ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940889,
+            "region_id":85688697,
+            "venue_id":756307823
+        }
+    ],
     "wof:id":756307823,
-    "wof:lastmodified":1472622097,
+    "wof:lastmodified":1492088395,
     "wof:name":"J & J Newell Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

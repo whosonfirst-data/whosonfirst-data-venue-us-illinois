@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.77694,41.833857,-87.77694,41.833857",
     "geom:latitude":41.833857,
     "geom:longitude":-87.77694,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867655,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85867655
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e6a5bf38cb4a47a81cae0bd39c89ca5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85867655,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337525743,
-    "wof:lastmodified":1472620908,
+    "wof:lastmodified":1492090797,
     "wof:name":"McMahon Brothers Machine Works",
     "wof:parent_id":85867655,
     "wof:placetype":"venue",

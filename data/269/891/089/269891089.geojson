@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039599,42.419143,-88.039599,42.419143",
     "geom:latitude":42.419143,
     "geom:longitude":-88.039599,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85834325,
+        102191575,
+        404498361,
         85633793,
+        85938337,
         102086215,
-        85834325
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"e0042751826ac88cb8dc0c2ec1d412cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498361,
+            "locality_id":85938337,
             "neighbourhood_id":85834325,
             "region_id":85688697,
             "venue_id":269891089
         }
     ],
     "wof:id":269891089,
-    "wof:lastmodified":1472621405,
+    "wof:lastmodified":1492102484,
     "wof:name":"J&M Handyman Services",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",

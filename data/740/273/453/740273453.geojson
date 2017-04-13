@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.621399,41.351519,-87.621399,41.351519",
     "geom:latitude":41.351519,
     "geom:longitude":-87.621399,
@@ -23,7 +24,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.lhservices.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        85940579,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E9DFDwuIXv7qWAHVbN7at_41.351519_-87.621399@1303262853"
@@ -31,9 +39,19 @@
     "wof:country":"US",
     "wof:created":1461953424,
     "wof:geomhash":"dbaf56a6d6b20bf73747c0344f78f623",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "locality_id":85940579,
+            "region_id":85688697,
+            "venue_id":740273453
+        }
+    ],
     "wof:id":740273453,
-    "wof:lastmodified":1472622013,
+    "wof:lastmodified":1492092881,
     "wof:name":"L & H Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.895228,41.852757,-87.895228,41.852757",
     "geom:latitude":41.852757,
     "geom:longitude":-87.895228,
@@ -31,7 +32,14 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940923,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ExAL2xcjse1HPIARWPvbV_41.852757_-87.895228@1303262850"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952838,
     "wof:geomhash":"1f4080ed7fa115cbbb43eacd79a964e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940923,
+            "region_id":85688697,
+            "venue_id":740244275
+        }
+    ],
     "wof:id":740244275,
-    "wof:lastmodified":1472621956,
+    "wof:lastmodified":1492093295,
     "wof:name":"Hanley Tree Service Homebase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.859521,41.175988,-87.859521,41.175988",
     "geom:latitude":41.175988,
     "geom:longitude":-87.859521,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
         85633793,
-        85688697
+        102081259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"9f30ffe95b77a673c6bfd3045d1f510c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081259,
+            "localadmin_id":404498243,
             "region_id":85688697,
             "venue_id":269505911
         }
     ],
     "wof:id":269505911,
-    "wof:lastmodified":1472620825,
+    "wof:lastmodified":1492091774,
     "wof:name":"National Retail Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.154709,41.940854,-88.154709,41.940854",
     "geom:latitude":41.940854,
     "geom:longitude":-88.154709,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847323,
+        102191575,
+        404497763,
         85633793,
         85940189,
         102081257,
-        85847323
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"d664a5d767021eea7eb662780761aa9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85847323,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":269624563,
-    "wof:lastmodified":1472621143,
+    "wof:lastmodified":1492103296,
     "wof:name":"Fantasia Carpet & Flooring",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",

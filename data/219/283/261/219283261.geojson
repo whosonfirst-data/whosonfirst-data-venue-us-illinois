@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.681665,41.478999,-87.681665,41.478999",
     "geom:latitude":41.478999,
     "geom:longitude":-87.681665,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890899,
+        102191575,
+        404497581,
         85633793,
         85940533,
         102084317,
-        85890899
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"223b79bf717c9dc75bb182f048cb7978",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940533,
             "neighbourhood_id":85890899,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219283261,
-    "wof:lastmodified":1472621103,
+    "wof:lastmodified":1492088579,
     "wof:name":"Beginnings Preschool Day Care",
     "wof:parent_id":85890899,
     "wof:placetype":"venue",

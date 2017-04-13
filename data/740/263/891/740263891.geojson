@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.105513,42.004368,-88.105513,42.004368",
     "geom:latitude":42.004368,
     "geom:longitude":-88.105513,
@@ -31,7 +32,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Petr2Yx7kj9K9SVtAehOj_42.004368_-88.105513@1303262852"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953230,
     "wof:geomhash":"d3e05c74e6f6f6217807b96e42a24f21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740263891
+        }
+    ],
     "wof:id":740263891,
-    "wof:lastmodified":1472621997,
+    "wof:lastmodified":1492091863,
     "wof:name":"Network Merchants, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.052891,41.877243,-88.052891,41.877243",
     "geom:latitude":41.877243,
     "geom:longitude":-88.052891,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867835,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85867835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"e9f805d56e02bafbe27478789e18f565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85867835,
             "region_id":85688697,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":252841191,
-    "wof:lastmodified":1472621051,
+    "wof:lastmodified":1492093034,
     "wof:name":"Conley Precision Engines Inc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.771282,41.717058,-87.771282,41.717058",
     "geom:latitude":41.717058,
     "geom:longitude":-87.771282,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"06eed504424751b52c6335508314de54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270409757,
-    "wof:lastmodified":1472621474,
+    "wof:lastmodified":1492093460,
     "wof:name":"Always Open Inc",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

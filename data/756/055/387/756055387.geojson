@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.082947,41.76569,-88.082947,41.76569",
     "geom:latitude":41.76569,
     "geom:longitude":-88.082947,
@@ -32,7 +33,10 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qg7gtN7HUWtehPV5X9Tca_41.765690_-88.082947@1303262860"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954550,
     "wof:geomhash":"62a5b7895265ef0fc38b16dcb4388baa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055387
+        }
+    ],
     "wof:id":756055387,
-    "wof:lastmodified":1472621158,
+    "wof:lastmodified":1492093253,
     "wof:name":"U R Pro Spectrum Technologies Intl",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

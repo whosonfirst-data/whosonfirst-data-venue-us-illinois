@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.257265,42.080752,-88.257265,42.080752",
     "geom:latitude":42.080752,
     "geom:longitude":-88.257265,
@@ -37,7 +38,13 @@
     ],
     "sg:website":"www.gatguns.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498221,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yL0yh9EGVZmYFthMyJQJC_42.080752_-88.257265@1303262847"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461952370,
     "wof:geomhash":"3380df14f50c26b7738fe245c5783270",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498221,
+            "region_id":85688697,
+            "venue_id":740223771
+        }
+    ],
     "wof:id":740223771,
-    "wof:lastmodified":1472621932,
+    "wof:lastmodified":1492089688,
     "wof:name":"GAT Guns Inc & Indoor Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

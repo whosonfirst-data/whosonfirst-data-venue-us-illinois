@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.961792,42.28339,-87.961792,42.28339",
     "geom:latitude":42.28339,
     "geom:longitude":-87.961792,
@@ -32,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h4rGFK7WQWTIlkQOlcqbE_42.283390_-87.961792@1303262843"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461951663,
     "wof:geomhash":"b4fe86b491c5afbdce7a79048502c2cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190795
+        }
+    ],
     "wof:id":740190795,
-    "wof:lastmodified":1472621869,
+    "wof:lastmodified":1492091023,
     "wof:name":"Affordable Health Insurance",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8299,42.044295,-87.8299,42.044295",
     "geom:latitude":42.044295,
     "geom:longitude":-87.8299,
@@ -28,7 +29,14 @@
     "sg:postcode":"60714",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497631,
+        85633793,
+        85940773,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q6qrUsxRtzdOYjF3srAdg_42.044295_-87.829900@1303262908"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461962702,
     "wof:geomhash":"0d69df50db01245ed2101983d62d6755",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940773,
+            "region_id":85688697,
+            "venue_id":756417113
+        }
+    ],
     "wof:id":756417113,
-    "wof:lastmodified":1472622183,
+    "wof:lastmodified":1492105513,
     "wof:name":"Giorgio Elan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

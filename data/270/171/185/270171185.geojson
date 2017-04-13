@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.311907,41.848391,-88.311907,41.848391",
     "geom:latitude":41.848391,
     "geom:longitude":-88.311907,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"dfe4ca8b1d7acc4824e94b1109d1013d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":270171185,
-    "wof:lastmodified":1472621205,
+    "wof:lastmodified":1492105675,
     "wof:name":"Stampers Corner Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

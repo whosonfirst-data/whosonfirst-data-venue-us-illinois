@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.810994,41.580096,-87.810994,41.580096",
     "geom:latitude":41.580096,
     "geom:longitude":-87.810994,
@@ -33,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497643,
+        85633793,
+        85940515,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xLFBCQwtZCmYO9QrVnXbS_41.580096_-87.810994@1299784598"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950904,
     "wof:geomhash":"1f97318a25da050c3c4f7dd1abfdcf2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "region_id":85688697,
+            "venue_id":740156945
+        }
+    ],
     "wof:id":740156945,
-    "wof:lastmodified":1472621799,
+    "wof:lastmodified":1492089946,
     "wof:name":"Nancy Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

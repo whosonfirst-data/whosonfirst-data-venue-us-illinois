@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.205659,41.777065,-88.205659,41.777065",
     "geom:latitude":41.777065,
     "geom:longitude":-88.205659,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879073,
+        102191575,
+        404497655,
         85633793,
         85940205,
         102081257,
-        85879073
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b5fe39a7db4f635b8779b93e4cbd8d17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497655,
             "locality_id":85940205,
             "neighbourhood_id":85879073,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286731501,
-    "wof:lastmodified":1472621635,
+    "wof:lastmodified":1492092333,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85879073,
     "wof:placetype":"venue",

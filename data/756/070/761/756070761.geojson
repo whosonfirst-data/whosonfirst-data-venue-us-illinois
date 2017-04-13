@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.211868,41.819675,-88.211868,41.819675",
     "geom:latitude":41.819675,
     "geom:longitude":-88.211868,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85854551,
+        102191575,
+        404497659,
         85633793,
-        85940221,
+        85940147,
         102081257,
-        85854551
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +52,18 @@
     "wof:geomhash":"7b5a3c7a4026fb699058dd0f8e626374",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940221,
+            "localadmin_id":404497659,
+            "locality_id":85940147,
             "neighbourhood_id":85854551,
             "region_id":85688697,
             "venue_id":756070761
         }
     ],
     "wof:id":756070761,
-    "wof:lastmodified":1472621404,
+    "wof:lastmodified":1492090143,
     "wof:name":"Flywheel",
     "wof:parent_id":85854551,
     "wof:placetype":"venue",

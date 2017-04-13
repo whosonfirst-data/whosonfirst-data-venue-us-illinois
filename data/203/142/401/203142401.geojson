@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.153375,42.029288,-88.153375,42.029288",
     "geom:latitude":42.029288,
     "geom:longitude":-88.153375,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890931,
+        102191575,
+        404497623,
         85633793,
         85940929,
         102084317,
-        85890931
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c75dfb8ea086dd058fb85c6964a28930",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497623,
             "locality_id":85940929,
             "neighbourhood_id":85890931,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203142401,
-    "wof:lastmodified":1472621056,
+    "wof:lastmodified":1492096570,
     "wof:name":"Chicagoland Orthodontic Spec",
     "wof:parent_id":85890931,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.079903,42.027919,-88.079903,42.027919",
     "geom:latitude":42.027919,
     "geom:longitude":-88.079903,
@@ -43,7 +44,14 @@
     ],
     "sg:website":"http://apps.amfam.com/agentlocator/VCRISCI?sourceid=yp3",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fRc96UuZMjo36RU0in2C4_42.027919_-88.079903@1303262852"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461953244,
     "wof:geomhash":"a3a15e17da6e472075f63f2d87403973",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740264635
+        }
+    ],
     "wof:id":740264635,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1492097811,
     "wof:name":"American Family Insurance- Victor C Crisci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

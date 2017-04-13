@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.305984,41.849938,-88.305984,41.849938",
     "geom:latitude":41.849938,
     "geom:longitude":-88.305984,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"39b58575a6b38c93bd2d00b1d771b487",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253243589,
-    "wof:lastmodified":1472621318,
+    "wof:lastmodified":1492089181,
     "wof:name":"Batavia Bait & Tackle",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

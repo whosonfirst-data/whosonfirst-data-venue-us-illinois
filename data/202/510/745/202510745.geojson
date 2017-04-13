@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.87075,42.279958,-87.87075,42.279958",
     "geom:latitude":42.279958,
     "geom:longitude":-87.87075,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85848877,
+        102191575,
+        404498369,
         85633793,
         85938357,
         102086215,
-        85848877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"d0b5d45d1f799fb46a7b40234452a08a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938357,
             "neighbourhood_id":85848877,
             "region_id":85688697,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":202510745,
-    "wof:lastmodified":1472621047,
+    "wof:lastmodified":1492105225,
     "wof:name":"Hard Rock Fabricators Inc",
     "wof:parent_id":85848877,
     "wof:placetype":"venue",

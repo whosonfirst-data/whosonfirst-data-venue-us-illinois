@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.797897,42.09325,-87.797897,42.09325",
     "geom:latitude":42.09325,
     "geom:longitude":-87.797897,
@@ -23,7 +24,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.valleylodgerestaurants.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69VE6FSv6CbAZYBoLHQVqI_42.093250_-87.797897@1303262842"
@@ -31,9 +39,19 @@
     "wof:country":"US",
     "wof:created":1461951529,
     "wof:geomhash":"47a5ff36f909b15ed29ec0cdb860c399",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184241
+        }
+    ],
     "wof:id":740184241,
-    "wof:lastmodified":1472621834,
+    "wof:lastmodified":1492108601,
     "wof:name":"Valley Lodge Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

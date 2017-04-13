@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.640929,41.392392,-87.640929,41.392392",
     "geom:latitude":41.392392,
     "geom:longitude":-87.640929,
@@ -39,7 +40,13 @@
     ],
     "sg:website":"http://www.subsurfacepros.com/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J5zPFWVe2fv3Om35GCy0X_41.392392_-87.640929@1303262853"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461953422,
     "wof:geomhash":"d1707051389753ccc6e4772b1b424d86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":740273287
+        }
+    ],
     "wof:id":740273287,
-    "wof:lastmodified":1472622010,
+    "wof:lastmodified":1492089757,
     "wof:name":"SSI, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

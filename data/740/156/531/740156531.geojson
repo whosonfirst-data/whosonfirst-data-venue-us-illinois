@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.852856,41.603464,-87.852856,41.603464",
     "geom:latitude":41.603464,
     "geom:longitude":-87.852856,
@@ -36,7 +37,14 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497643,
+        85633793,
+        85940535,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kR07uJ41CKVwWtT6yba1e_41.603464_-87.852856@1299784598"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461950896,
     "wof:geomhash":"b80d085717aa40d1f9e7cc25ae60334a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940535,
+            "region_id":85688697,
+            "venue_id":740156531
+        }
+    ],
     "wof:id":740156531,
-    "wof:lastmodified":1472621797,
+    "wof:lastmodified":1492105786,
     "wof:name":"Einstein Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.875504,41.7752,-87.875504,41.7752",
     "geom:latitude":41.7752,
     "geom:longitude":-87.875504,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.gallagherandhenry.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GkEiGaONEwD7vYcRrA7HN_41.775200_-87.875504@1303262860"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954609,
     "wof:geomhash":"182cf6ca632e80983c76ee217250b4c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756058153
+        }
+    ],
     "wof:id":756058153,
-    "wof:lastmodified":1472621256,
+    "wof:lastmodified":1492102034,
     "wof:name":"Gallagher & Henry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

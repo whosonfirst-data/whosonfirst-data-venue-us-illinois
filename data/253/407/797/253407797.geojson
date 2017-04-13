@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.088486,41.800006,-88.088486,41.800006",
     "geom:latitude":41.800006,
     "geom:longitude":-88.088486,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890827,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890827
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"a53c8eae98306daea90c33bf3a4a050c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890827,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":253407797,
-    "wof:lastmodified":1472621508,
+    "wof:lastmodified":1492103222,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85890827,
     "wof:placetype":"venue",

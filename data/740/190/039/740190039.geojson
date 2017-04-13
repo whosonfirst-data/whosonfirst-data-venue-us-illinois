@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.95002,42.279103,-87.95002,42.279103",
     "geom:latitude":42.279103,
     "geom:longitude":-87.95002,
@@ -31,7 +32,10 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B4fXUAI2C5jGNZytw4zHN_42.279103_-87.950020@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951649,
     "wof:geomhash":"b6886fc55ad1c7d06bcf9e5951042b54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190039
+        }
+    ],
     "wof:id":740190039,
-    "wof:lastmodified":1472621853,
+    "wof:lastmodified":1492088659,
     "wof:name":"Mariaini Landscape",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.636128,41.56287,-87.636128,41.56287",
     "geom:latitude":41.56287,
     "geom:longitude":-87.636128,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890925,
+        102191575,
+        404497591,
         85633793,
         85940925,
         102084317,
-        85890925
+        85688697
     ],
     "wof:brand_id":420573787,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"7c555346752971bfe99c2b81d4560011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940925,
             "neighbourhood_id":85890925,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270058559,
-    "wof:lastmodified":1472620926,
+    "wof:lastmodified":1492092000,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",

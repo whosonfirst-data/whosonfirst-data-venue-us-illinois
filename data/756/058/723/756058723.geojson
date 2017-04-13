@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873651,41.776086,-87.873651,41.776086",
     "geom:latitude":41.776086,
     "geom:longitude":-87.873651,
@@ -42,7 +43,14 @@
     ],
     "sg:website":"http://www-sunbeltrentals-com.netsolads.com/?utm_source=yp.com&utm_medium=tilead&utm_term=localsearch&utm_campaign=&_nsag=39093",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x45uZQAW8DwdJ6Vhb1ssx_41.776086_-87.873651@1303262861"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461954620,
     "wof:geomhash":"ceedec754ade190cbd541f1de41699c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756058723
+        }
+    ],
     "wof:id":756058723,
-    "wof:lastmodified":1472621297,
+    "wof:lastmodified":1492089940,
     "wof:name":"Sunbelt Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

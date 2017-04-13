@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.915673,42.314597,-87.915673,42.314597",
     "geom:latitude":42.314597,
     "geom:longitude":-87.915673,
@@ -32,7 +33,10 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zuRSa4YsyChc3zRBMYn6U_42.314597_-87.915673@1303262843"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461951674,
     "wof:geomhash":"5ffd22fb21ced5365d808e4d8e000040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191049
+        }
+    ],
     "wof:id":740191049,
-    "wof:lastmodified":1472621855,
+    "wof:lastmodified":1492091203,
     "wof:name":"Kbg Stonescape",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

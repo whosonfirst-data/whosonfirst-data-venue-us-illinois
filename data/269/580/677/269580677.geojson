@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.318087,41.763056,-88.318087,41.763056",
     "geom:latitude":41.763056,
     "geom:longitude":-88.318087,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876055
     ],
     "wof:breaches":[],
@@ -44,18 +47,20 @@
     "wof:geomhash":"6355a414a0becead744f9b02b560d382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":269580677
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -63,9 +68,9 @@
         }
     ],
     "wof:id":269580677,
-    "wof:lastmodified":1472621070,
+    "wof:lastmodified":1492100746,
     "wof:name":"San Fransisco De Asis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

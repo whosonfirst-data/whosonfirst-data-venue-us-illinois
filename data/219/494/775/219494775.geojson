@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.065391,41.862675,-88.065391,41.862675",
     "geom:latitude":41.862675,
     "geom:longitude":-88.065391,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85819667,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85819667
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c2e49f77129ece3f2f52ea4116ee7c6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85819667,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219494775,
-    "wof:lastmodified":1472621377,
+    "wof:lastmodified":1492095496,
     "wof:name":"P C Interiors",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",

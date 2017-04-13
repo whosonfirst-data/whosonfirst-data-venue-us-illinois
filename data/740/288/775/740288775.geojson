@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.655533,41.557123,-87.655533,41.557123",
     "geom:latitude":41.557123,
     "geom:longitude":-87.655533,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://www.craemerinstallations.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940817,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dWXUQjipxkOvDUq8tCH2l_41.557123_-87.655533@1303262855"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461953752,
     "wof:geomhash":"67a81be029a105fcdba26e364f4894a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940817,
+            "region_id":85688697,
+            "venue_id":740288775
+        }
+    ],
     "wof:id":740288775,
-    "wof:lastmodified":1472622029,
+    "wof:lastmodified":1492093499,
     "wof:name":"Craemer Installations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

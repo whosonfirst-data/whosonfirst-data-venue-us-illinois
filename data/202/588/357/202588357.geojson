@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.846296,41.806526,-87.846296,41.806526",
     "geom:latitude":41.806526,
     "geom:longitude":-87.846296,
@@ -41,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890817,
+        102191575,
+        404497627,
         85633793,
-        85940893,
-        102084317
+        85940805,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"6d4caf4c254fe2fe30a81b540174b2ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940893,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497627,
+            "locality_id":85940805,
+            "neighbourhood_id":85890817,
             "region_id":85688697,
             "venue_id":202588357
         }
     ],
     "wof:id":202588357,
-    "wof:lastmodified":1472621135,
+    "wof:lastmodified":1492101270,
     "wof:name":"Gear & Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.538305,41.662501,-88.538305,41.662501",
     "geom:latitude":41.662501,
     "geom:longitude":-88.538305,
@@ -43,7 +44,14 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SSfSiQCkhoVNDurw5eVLC_41.662501_-88.538305@1303262861"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461954729,
     "wof:geomhash":"d1d633ac69cd8a913c5f294704db5b81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064273
+        }
+    ],
     "wof:id":756064273,
-    "wof:lastmodified":1472621373,
+    "wof:lastmodified":1492105067,
     "wof:name":"Reel Pro Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

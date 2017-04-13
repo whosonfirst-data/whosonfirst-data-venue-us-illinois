@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.634128,41.470681,-87.634128,41.470681",
     "geom:latitude":41.470681,
     "geom:longitude":-87.634128,
@@ -43,7 +44,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940519,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DSbbVh30wPtTxUSIgQytL_41.470681_-87.634128@1303262859"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461954368,
     "wof:geomhash":"79233a72a160c593a71edfae4c0b8000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940519,
+            "region_id":85688697,
+            "venue_id":756046479
+        }
+    ],
     "wof:id":756046479,
-    "wof:lastmodified":1472621161,
+    "wof:lastmodified":1492089765,
     "wof:name":"Harry's New Town Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

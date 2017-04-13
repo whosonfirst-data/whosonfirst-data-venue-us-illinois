@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.990601,42.353382,-87.990601,42.353382",
     "geom:latitude":42.353382,
     "geom:longitude":-87.990601,
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,16 +65,18 @@
     "wof:geomhash":"4f1cd15180dbdb43a07e33b8ee06a4ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740186633
         }
     ],
     "wof:id":740186633,
-    "wof:lastmodified":1472621846,
+    "wof:lastmodified":1492091053,
     "wof:name":"Herman Brothers",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

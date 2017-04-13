@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.098971,41.858816,-88.098971,41.858816",
     "geom:latitude":41.858816,
     "geom:longitude":-88.098971,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891049,
+        102191575,
+        404497653,
         85633793,
         85940139,
         102081257,
-        85891049
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9957694868beafaf1ad4b64b8e72a5a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
             "neighbourhood_id":85891049,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286446511,
-    "wof:lastmodified":1472621291,
+    "wof:lastmodified":1492104752,
     "wof:name":"Acker David S Attorney At Law",
     "wof:parent_id":85891049,
     "wof:placetype":"venue",

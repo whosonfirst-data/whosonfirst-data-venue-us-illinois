@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.604777,41.542636,-87.604777,41.542636",
     "geom:latitude":41.542636,
     "geom:longitude":-87.604777,
@@ -31,7 +32,14 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940837,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22dnYKZUIQrJ2Cd9310nbI_41.542636_-87.604777@1303262855"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953678,
     "wof:geomhash":"7ae9e13b3f1a8481c36879dddf8b6c26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940837,
+            "region_id":85688697,
+            "venue_id":740285561
+        }
+    ],
     "wof:id":740285561,
-    "wof:lastmodified":1472622034,
+    "wof:lastmodified":1492092678,
     "wof:name":"Chole's Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

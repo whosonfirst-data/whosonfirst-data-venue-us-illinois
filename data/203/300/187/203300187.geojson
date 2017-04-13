@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.888101,42.054445,-87.888101,42.054445",
     "geom:latitude":42.054445,
     "geom:longitude":-87.888101,
@@ -35,11 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890775,
+        102191575,
+        404497631,
         85633793,
-        85940869,
         102084317,
-        85890775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,17 @@
     "wof:geomhash":"e0178bf069404922de0d361eac1b13fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940869,
+            "localadmin_id":404497631,
             "neighbourhood_id":85890775,
             "region_id":85688697,
             "venue_id":203300187
         }
     ],
     "wof:id":203300187,
-    "wof:lastmodified":1472621164,
+    "wof:lastmodified":1492096237,
     "wof:name":"Edison Press",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",

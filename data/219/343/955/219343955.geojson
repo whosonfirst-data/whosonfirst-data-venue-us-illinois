@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.816113,41.72761,-87.816113,41.72761",
     "geom:latitude":41.72761,
     "geom:longitude":-87.816113,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890747,
+        102191575,
+        404497627,
         85633793,
         85940897,
         102084317,
-        85890747
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"408fe9e40e3e176c5fdac27719ee0ae8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497627,
             "locality_id":85940897,
             "neighbourhood_id":85890747,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219343955,
-    "wof:lastmodified":1472621251,
+    "wof:lastmodified":1492089553,
     "wof:name":"Creative Rock Forming",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",

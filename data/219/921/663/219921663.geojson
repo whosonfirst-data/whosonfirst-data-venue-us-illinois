@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.05082,41.792468,-88.05082,41.792468",
     "geom:latitude":41.792468,
     "geom:longitude":-88.05082,
@@ -34,11 +35,13 @@
     "sg:website":"www.cectheozoneco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805589,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85805589
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"448fbd985be04d322c9b81a8f67b37c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85805589,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219921663,
-    "wof:lastmodified":1472621620,
+    "wof:lastmodified":1492102387,
     "wof:name":"CEC The Ozone Co",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",

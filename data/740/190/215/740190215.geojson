@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.944338,42.307912,-87.944338,42.307912",
     "geom:latitude":42.307912,
     "geom:longitude":-87.944338,
@@ -32,7 +33,10 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TRC1YZAn1VmrVUwWozjha_42.307912_-87.944338@1303262842"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461951652,
     "wof:geomhash":"aeb8ca4720b4a06af11feb8272fb575a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190215
+        }
+    ],
     "wof:id":740190215,
-    "wof:lastmodified":1472621854,
+    "wof:lastmodified":1492107783,
     "wof:name":"Nevada Equipment Brokers Inc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

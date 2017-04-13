@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.88275,41.375933,-87.88275,41.375933",
     "geom:latitude":41.375933,
     "geom:longitude":-87.88275,
@@ -37,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NJboTVvLAc0BcGyn7Rq1q_41.375933_-87.882750@1303262859"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461954330,
     "wof:geomhash":"40b4af24bd41a115637697928cc1db9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "region_id":85688697,
+            "venue_id":756044581
+        }
+    ],
     "wof:id":756044581,
-    "wof:lastmodified":1472621155,
+    "wof:lastmodified":1492092040,
     "wof:name":"Larry Domagalla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

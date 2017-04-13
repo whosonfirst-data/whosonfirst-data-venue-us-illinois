@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.550396,41.600833,-87.550396,41.600833",
     "geom:latitude":41.600833,
     "geom:longitude":-87.550396,
@@ -31,7 +32,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940887,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n7cWjKEQPQWrhPzDmTunF_41.600833_-87.550396@1303262854"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953551,
     "wof:geomhash":"8d53f29d6643c79061e165144663720d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940887,
+            "region_id":85688697,
+            "venue_id":740279399
+        }
+    ],
     "wof:id":740279399,
-    "wof:lastmodified":1472622018,
+    "wof:lastmodified":1492093613,
     "wof:name":"Rosa Bella Restaraunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

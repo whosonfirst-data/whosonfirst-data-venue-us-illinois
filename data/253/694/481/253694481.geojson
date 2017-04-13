@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.941549,41.900715,-87.941549,41.900715",
     "geom:latitude":41.900715,
     "geom:longitude":-87.941549,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890779,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890779
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e688b48ebc80062fa94392bd6e463e8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890779,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253694481,
-    "wof:lastmodified":1472621640,
+    "wof:lastmodified":1492089033,
     "wof:name":"Chiropractic Family Physicians",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",

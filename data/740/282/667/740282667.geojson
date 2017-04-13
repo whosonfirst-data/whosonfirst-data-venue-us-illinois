@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.551694,41.451451,-87.551694,41.451451",
     "geom:latitude":41.451451,
     "geom:longitude":-87.551694,
@@ -32,7 +33,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85941267,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gRb4L6LU7WY9lXKGfz518_41.451451_-87.551694@1303262854"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953624,
     "wof:geomhash":"7fdcb189233b147847d542cda7ebf161",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85941267,
+            "region_id":85688697,
+            "venue_id":740282667
+        }
+    ],
     "wof:id":740282667,
-    "wof:lastmodified":1472622037,
+    "wof:lastmodified":1492090385,
     "wof:name":"Pitts Fisheries Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

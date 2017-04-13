@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9126,41.323278,-87.9126,41.323278",
     "geom:latitude":41.323278,
     "geom:longitude":-87.9126,
@@ -27,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497113,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MCXcwnrJptPXndwijKb6a_41.323278_-87.912600@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949744,
     "wof:geomhash":"e9fca2b8df1dd46c8a9b8240c25fc662",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497113,
+            "region_id":85688697,
+            "venue_id":740106089
+        }
+    ],
     "wof:id":740106089,
-    "wof:lastmodified":1472621107,
+    "wof:lastmodified":1492101613,
     "wof:name":"Gallagher Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

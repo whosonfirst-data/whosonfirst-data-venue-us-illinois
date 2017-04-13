@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.611956,41.568537,-87.611956,41.568537",
     "geom:latitude":41.568537,
     "geom:longitude":-87.611956,
@@ -28,7 +29,14 @@
     "sg:postcode":"60476",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940925,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18A7CzwjTrqaRJRGVTJGSa_41.568537_-87.611956@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954372,
     "wof:geomhash":"ef55b500ca0325f948e91a440f25c706",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940925,
+            "region_id":85688697,
+            "venue_id":756046721
+        }
+    ],
     "wof:id":756046721,
-    "wof:lastmodified":1472621173,
+    "wof:lastmodified":1492093557,
     "wof:name":"Harvey's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.944887,42.413484,-87.944887,42.413484",
     "geom:latitude":42.413484,
     "geom:longitude":-87.944887,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"2fb32867eecb996a2d40205cf825be4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":236955637
         }
     ],
     "wof:id":236955637,
-    "wof:lastmodified":1472621796,
+    "wof:lastmodified":1492090902,
     "wof:name":"Onan Construction",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

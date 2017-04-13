@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.717945,42.002499,-87.717945,42.002499",
     "geom:latitude":42.002499,
     "geom:longitude":-87.717945,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497635,
         85633793,
-        85940195,
-        102084317,
-        85867811
+        85940799,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"3eed259079f0176b179d27e145bb6ab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85867811,
+            "localadmin_id":404497635,
+            "locality_id":85940799,
             "region_id":85688697,
             "venue_id":202589273
         }
     ],
     "wof:id":202589273,
-    "wof:lastmodified":1472621137,
+    "wof:lastmodified":1492105163,
     "wof:name":"GNB Amoco",
-    "wof:parent_id":85867811,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.992889,40.767792,-87.992889,40.767792",
     "geom:latitude":40.767792,
     "geom:longitude":-87.992889,
@@ -28,7 +29,14 @@
     "sg:postcode":"60938",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498185,
+        85633793,
+        85938509,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33e6rgS3nPA3ZFl64PPHUS_40.767826_-87.992830@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461949945,
     "wof:geomhash":"d296129d7d6b7c1dc3c5bb9a1b2ddf82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498185,
+            "locality_id":85938509,
+            "region_id":85688697,
+            "venue_id":740115223
+        }
+    ],
     "wof:id":740115223,
-    "wof:lastmodified":1472621258,
+    "wof:lastmodified":1492088943,
     "wof:name":"Insurance Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

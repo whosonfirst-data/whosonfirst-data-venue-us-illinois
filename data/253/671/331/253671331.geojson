@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.690072,42.031478,-87.690072,42.031478",
     "geom:latitude":42.031478,
     "geom:longitude":-87.690072,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890797,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890797
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b0f7967fb7590f04b04c68b885b02c52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890797,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":253671331,
-    "wof:lastmodified":1472621629,
+    "wof:lastmodified":1491910522,
     "wof:name":"Bedouin Imports LTD",
     "wof:parent_id":85890797,
     "wof:placetype":"venue",

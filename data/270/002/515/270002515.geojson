@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.883898,42.392001,-87.883898,42.392001",
     "geom:latitude":42.392001,
     "geom:longitude":-87.883898,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867879,
+        102191575,
+        404498373,
         85633793,
         85938389,
         102086215,
-        85867879
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"85146006f5e3acbe6e66cfe928f1ecaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498373,
             "locality_id":85938389,
             "neighbourhood_id":85867879,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270002515,
-    "wof:lastmodified":1472620747,
+    "wof:lastmodified":1492090224,
     "wof:name":"Pariz Oriental Mart",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",

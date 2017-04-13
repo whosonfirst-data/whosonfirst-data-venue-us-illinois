@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.768504,41.679729,-87.768504,41.679729",
     "geom:latitude":41.679729,
     "geom:longitude":-87.768504,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890893,
+        102191575,
+        404497667,
         85633793,
-        85940749,
         102084317,
-        85890893
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,17 @@
     "wof:geomhash":"02f29ee5293cd6f2e8fcfc346bae5bca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940749,
+            "localadmin_id":404497667,
             "neighbourhood_id":85890893,
             "region_id":85688697,
             "venue_id":337336719
         }
     ],
     "wof:id":337336719,
-    "wof:lastmodified":1472620797,
+    "wof:lastmodified":1492096260,
     "wof:name":"A To Z Collision Clinic Inc",
     "wof:parent_id":85890893,
     "wof:placetype":"venue",

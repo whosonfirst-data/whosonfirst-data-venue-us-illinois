@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865066,41.797527,-87.865066,41.797527",
     "geom:latitude":41.797527,
     "geom:longitude":-87.865066,
@@ -31,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940805,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h98LuLeRS4raq5aBxoQ9W_41.797527_-87.865066@1303262860"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954592,
     "wof:geomhash":"12712c4345f89cb5cb0f6fbac067a6bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940805,
+            "region_id":85688697,
+            "venue_id":756057315
+        }
+    ],
     "wof:id":756057315,
-    "wof:lastmodified":1472621195,
+    "wof:lastmodified":1492092911,
     "wof:name":"Always Available 24 Hour Emergency Locksmi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

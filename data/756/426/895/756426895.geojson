@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994158,40.762766,-87.994158,40.762766",
     "geom:latitude":40.762766,
     "geom:longitude":-87.994158,
@@ -57,7 +58,14 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-025284.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498185,
+        85633793,
+        85938509,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H6RFhSOw1Xj1yl7xLtl91_40.762766_-87.994158@1303262910"
@@ -65,9 +73,19 @@
     "wof:country":"US",
     "wof:created":1461962944,
     "wof:geomhash":"c4b94e0a3ca72a4aed57f24bcb58ddc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498185,
+            "locality_id":85938509,
+            "region_id":85688697,
+            "venue_id":756426895
+        }
+    ],
     "wof:id":756426895,
-    "wof:lastmodified":1472622213,
+    "wof:lastmodified":1492091685,
     "wof:name":"Gilman Auto Parts, Kraft, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

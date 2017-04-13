@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.688919,41.571739,-87.688919,41.571739",
     "geom:latitude":41.571739,
     "geom:longitude":-87.688919,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890809,
+        102191575,
+        404497591,
         85633793,
-        85940827,
-        102084317
+        85940817,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"06f0eafc6ebccc89a2d50586fdfc02ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940817,
+            "neighbourhood_id":85890809,
             "region_id":85688697,
             "venue_id":270364537
         }
     ],
     "wof:id":270364537,
-    "wof:lastmodified":1472621426,
+    "wof:lastmodified":1492096499,
     "wof:name":"K-JAS Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

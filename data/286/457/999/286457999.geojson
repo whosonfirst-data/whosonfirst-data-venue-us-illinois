@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.058639,42.182942,-88.058639,42.182942",
     "geom:latitude":42.182942,
     "geom:longitude":-88.058639,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519133,
+        102191575,
+        404498459,
         85633793,
-        85938343,
-        102086215
+        85938361,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"feabe83e995263179a2f2fa8a7fca954",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938343,
-            "neighbourhood_id":-1,
+            "localadmin_id":404498459,
+            "locality_id":85938361,
+            "neighbourhood_id":420519133,
             "region_id":85688697,
             "venue_id":286457999
         }
     ],
     "wof:id":286457999,
-    "wof:lastmodified":1472621300,
+    "wof:lastmodified":1492096686,
     "wof:name":"Realized Technologies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

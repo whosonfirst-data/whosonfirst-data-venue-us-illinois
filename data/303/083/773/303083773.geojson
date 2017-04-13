@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.30154,41.754351,-88.30154,41.754351",
     "geom:latitude":41.754351,
     "geom:longitude":-88.30154,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876055
     ],
     "wof:breaches":[],
@@ -48,18 +51,20 @@
     "wof:geomhash":"784f69e8e9d4bc696683d98e906cb85d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":303083773
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -67,9 +72,9 @@
         }
     ],
     "wof:id":303083773,
-    "wof:lastmodified":1472620869,
+    "wof:lastmodified":1492100186,
     "wof:name":"Carniseria El Paso",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.963416,42.01327,-87.963416,42.01327",
     "geom:latitude":42.01327,
     "geom:longitude":-87.963416,
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890725,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890725
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"8bdc812d76e5bbf1cdca3f642f26ea32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890725,
             "region_id":85688697,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":203062987,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492095317,
     "wof:name":"Biltmore Refrigeration",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.191291,41.882044,-88.191291,41.882044",
     "geom:latitude":41.882044,
     "geom:longitude":-88.191291,
@@ -32,10 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85940143,
-        102081257
+        420518999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +44,15 @@
     "wof:geomhash":"a907d0513932b8edfc4bcf70916f722f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940143,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420518999,
             "venue_id":286693909
         }
     ],
     "wof:id":286693909,
-    "wof:lastmodified":1472621618,
+    "wof:lastmodified":1492100155,
     "wof:name":"Taxi Fiesta",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

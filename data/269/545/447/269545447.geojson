@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983431,41.468436,-87.983431,41.468436",
     "geom:latitude":41.468436,
     "geom:longitude":-87.983431,
@@ -32,10 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85940543,
-        102080845
+        420519341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +44,15 @@
     "wof:geomhash":"bbeae41b1fadcc2f42de2fb81037c880",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102080845,
-            "locality_id":85940543,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420519341,
             "venue_id":269545447
         }
     ],
     "wof:id":269545447,
-    "wof:lastmodified":1472620979,
+    "wof:lastmodified":1492095533,
     "wof:name":"Secret Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

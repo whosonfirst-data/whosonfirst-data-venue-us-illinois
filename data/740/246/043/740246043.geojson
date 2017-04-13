@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.850098,41.902901,-87.850098,41.902901",
     "geom:latitude":41.902901,
     "geom:longitude":-87.850098,
@@ -28,7 +29,14 @@
     "sg:postcode":"60160",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940785,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ucs42tc8y1BYIBEdDOxQo_41.902901_-87.850098@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952871,
     "wof:geomhash":"da0a9d3341b2b592b45abae97647b82f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940785,
+            "region_id":85688697,
+            "venue_id":740246043
+        }
+    ],
     "wof:id":740246043,
-    "wof:lastmodified":1472621956,
+    "wof:lastmodified":1492092804,
     "wof:name":"Mirsky David OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

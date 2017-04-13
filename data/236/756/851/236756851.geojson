@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.79499,41.865209,-87.79499,41.865209",
     "geom:latitude":41.865209,
     "geom:longitude":-87.79499,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"a0763dc4f29e7cbde9756d64392a9fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":236756851,
-    "wof:lastmodified":1472621776,
+    "wof:lastmodified":1492093175,
     "wof:name":"Schmitz & Liss Inc",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

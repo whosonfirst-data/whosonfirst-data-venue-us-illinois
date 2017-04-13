@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.188797,41.879101,-88.188797,41.879101",
     "geom:latitude":41.879101,
     "geom:longitude":-88.188797,
@@ -32,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05oTF9Ls6HYGZfSWXBR3tJ_41.879101_-88.188797@1303262851"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953041,
     "wof:geomhash":"d35657bd9d893d57807873b7794e5a7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518999,
+            "venue_id":740254497
+        }
+    ],
     "wof:id":740254497,
-    "wof:lastmodified":1472621980,
+    "wof:lastmodified":1492107822,
     "wof:name":"Sew-It Seams",
     "wof:parent_id":420518999,
     "wof:placetype":"venue",

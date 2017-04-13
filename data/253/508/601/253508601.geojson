@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.02657,42.217018,-88.02657,42.217018",
     "geom:latitude":42.217018,
     "geom:longitude":-88.02657,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867887,
+        102191575,
+        404498459,
         85633793,
         85938335,
         102086215,
-        85867887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"af2880d4b1d19a2bcfc14af2a90c74f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938335,
             "neighbourhood_id":85867887,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253508601,
-    "wof:lastmodified":1472621551,
+    "wof:lastmodified":1492088256,
     "wof:name":"Corvette Eyewear",
     "wof:parent_id":85867887,
     "wof:placetype":"venue",

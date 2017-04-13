@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.336603,41.683871,-88.336603,41.683871",
     "geom:latitude":41.683871,
     "geom:longitude":-88.336603,
@@ -34,7 +35,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40FCXibTpbJ0eaAmfwQxYq_41.683871_-88.336603@1303262861"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954701,
     "wof:geomhash":"3b8922493064a37544310f94a8e1aeac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756062969
+        }
+    ],
     "wof:id":756062969,
-    "wof:lastmodified":1472621353,
+    "wof:lastmodified":1492095455,
     "wof:name":"Landscape Design Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.965271,41.4976,-87.965271,41.4976",
     "geom:latitude":41.4976,
     "geom:longitude":-87.965271,
@@ -34,11 +35,13 @@
     "sg:website":"www.tristarcabinets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850979,
+        102191575,
+        404499217,
         85633793,
         85940543,
         102080845,
-        85850979
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a6e915fc7d6d35f9834c5649aeeafe93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499217,
             "locality_id":85940543,
             "neighbourhood_id":85850979,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236407385,
-    "wof:lastmodified":1472621662,
+    "wof:lastmodified":1492107475,
     "wof:name":"Tri-Star Cabinet Top Co",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",

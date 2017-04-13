@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8172,41.6992,-87.8172,41.6992",
     "geom:latitude":41.6992,
     "geom:longitude":-87.8172,
@@ -28,7 +29,14 @@
     "sg:postcode":"60465",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940747,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sm6zhILwl9AW0FY5mp8NR_41.699200_-87.817200@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954298,
     "wof:geomhash":"e07cfd59da65b756734e73f55ad78283",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
+            "region_id":85688697,
+            "venue_id":756043525
+        }
+    ],
     "wof:id":756043525,
-    "wof:lastmodified":1472621159,
+    "wof:lastmodified":1492090046,
     "wof:name":"Ekonomou John Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

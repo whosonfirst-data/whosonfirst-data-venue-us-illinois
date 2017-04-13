@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881412,41.727545,-87.881412,41.727545",
     "geom:latitude":41.727545,
     "geom:longitude":-87.881412,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.theirishlegend.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GGppnidOaPEJRbjzlDWaJ_41.727545_-87.881412@1303262859"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954378,
     "wof:geomhash":"e2f6542787cced5aaf4a1af108f55e0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047031
+        }
+    ],
     "wof:id":756047031,
-    "wof:lastmodified":1472621118,
+    "wof:lastmodified":1492111525,
     "wof:name":"The Irish Legend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

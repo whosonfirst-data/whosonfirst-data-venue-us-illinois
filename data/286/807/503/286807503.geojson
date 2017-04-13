@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.098976,42.211996,-88.098976,42.211996",
     "geom:latitude":42.211996,
     "geom:longitude":-88.098976,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519129,
+        102191575,
+        404498459,
         85633793,
         85938343,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"f0c37fbc9cde660d2721c9f5f408b190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938343,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519129,
             "region_id":85688697,
             "venue_id":286807503
         }
     ],
     "wof:id":286807503,
-    "wof:lastmodified":1472621669,
+    "wof:lastmodified":1492098473,
     "wof:name":"Stained Glass Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

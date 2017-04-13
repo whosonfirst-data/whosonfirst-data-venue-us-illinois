@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.943491,41.650592,-87.943491,41.650592",
     "geom:latitude":41.650592,
     "geom:longitude":-87.943491,
@@ -52,7 +53,13 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09M5tnCERDbHQECKT8mbx1_41.650592_-87.943491@1303262856"
@@ -60,9 +67,18 @@
     "wof:country":"US",
     "wof:created":1461953885,
     "wof:geomhash":"bb6d15e578f14d2698f41070f032c487",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "region_id":85688697,
+            "venue_id":756023879
+        }
+    ],
     "wof:id":756023879,
-    "wof:lastmodified":1472620798,
+    "wof:lastmodified":1492107488,
     "wof:name":"Country Landscape & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

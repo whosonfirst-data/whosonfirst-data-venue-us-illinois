@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687987,41.640178,-87.687987,41.640178",
     "geom:latitude":41.640178,
     "geom:longitude":-87.687987,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518687,
+        102191575,
+        404497667,
         85633793,
-        85940737,
-        102084317
+        85940899,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"d0b18f155b5eee75c983c0b184e9e977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497667,
+            "locality_id":85940899,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":252905459
         }
     ],
     "wof:id":252905459,
-    "wof:lastmodified":1472621087,
+    "wof:lastmodified":1492097084,
     "wof:name":"Wallys Paving Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

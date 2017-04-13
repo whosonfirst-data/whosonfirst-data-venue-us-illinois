@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.351342,41.685029,-88.351342,41.685029",
     "geom:latitude":41.685029,
     "geom:longitude":-88.351342,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://trippinsuranceagency.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P0xVYO0HO5Szgdb5SKBfz_41.685029_-88.351342@1303262861"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954700,
     "wof:geomhash":"89d920075fff2b6ee35e851a32e7d6b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756062927
+        }
+    ],
     "wof:id":756062927,
-    "wof:lastmodified":1472621353,
+    "wof:lastmodified":1492111896,
     "wof:name":"N. M. Tripp Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

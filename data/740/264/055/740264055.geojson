@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.060452,42.014221,-88.060452,42.014221",
     "geom:latitude":42.014221,
     "geom:longitude":-88.060452,
@@ -40,7 +41,14 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497619,
+        85633793,
+        85940193,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FGSwlaGWzy4sntZ50RcW0_42.014221_-88.060452@1303262852"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461953233,
     "wof:geomhash":"9a7932d4f4ffd675401125641fb38d19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497619,
+            "locality_id":85940193,
+            "region_id":85688697,
+            "venue_id":740264055
+        }
+    ],
     "wof:id":740264055,
-    "wof:lastmodified":1472621978,
+    "wof:lastmodified":1492097336,
     "wof:name":"Municipal Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

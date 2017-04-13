@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.859934,41.782462,-87.859934,41.782462",
     "geom:latitude":41.782462,
     "geom:longitude":-87.859934,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"www.gamestop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E1WTRSaX3wYA9NpaOUAf5_41.782462_-87.859934@1303262860"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954582,
     "wof:geomhash":"e600cbf061fda032fb2e1671e90e9266",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756056913
+        }
+    ],
     "wof:id":756056913,
-    "wof:lastmodified":1472621242,
+    "wof:lastmodified":1492104539,
     "wof:name":"Gamestop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798347,42.083351,-87.798347,42.083351",
     "geom:latitude":42.083351,
     "geom:longitude":-87.798347,
@@ -31,7 +32,14 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pyHIo2vP4O7Ew1pDVRU3r_42.083351_-87.798347@1303262842"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951552,
     "wof:geomhash":"4494f95b77ef19b7c10235656399c91d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184971
+        }
+    ],
     "wof:id":740184971,
-    "wof:lastmodified":1472621852,
+    "wof:lastmodified":1492108602,
     "wof:name":"The Heartland Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

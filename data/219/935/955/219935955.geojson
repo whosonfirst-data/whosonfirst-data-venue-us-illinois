@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.740868,41.723684,-87.740868,41.723684",
     "geom:latitude":41.723684,
     "geom:longitude":-87.740868,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"b7618c720fd66bfc59ed1317687f3042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":219935955,
-    "wof:lastmodified":1472621620,
+    "wof:lastmodified":1492090693,
     "wof:name":"Meyer Tool & Manufacturing",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

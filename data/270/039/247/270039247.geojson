@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.025717,41.832877,-88.025717,41.832877",
     "geom:latitude":41.832877,
     "geom:longitude":-88.025717,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825105,
+        102191575,
+        404497661,
         85633793,
         85940153,
         102081257,
-        85825105
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e466da5885fc79879fa7b6990a640686",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940153,
             "neighbourhood_id":85825105,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":270039247,
-    "wof:lastmodified":1472620848,
+    "wof:lastmodified":1492097599,
     "wof:name":"Peak Construction Corporation",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",

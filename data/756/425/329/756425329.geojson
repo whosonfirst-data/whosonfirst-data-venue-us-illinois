@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825179,41.092812,-87.825179,41.092812",
     "geom:latitude":41.092812,
     "geom:longitude":-87.825179,
@@ -31,7 +32,13 @@
         "inn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498239,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dGNxYy8AyjLRvJVXK3OOd_41.092812_-87.825179@1303262909"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461962908,
     "wof:geomhash":"c5b35ccbc18d803c75505bbb906449f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498239,
+            "region_id":85688697,
+            "venue_id":756425329
+        }
+    ],
     "wof:id":756425329,
-    "wof:lastmodified":1472622197,
+    "wof:lastmodified":1492096859,
     "wof:name":"Cathedral Area Historic Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

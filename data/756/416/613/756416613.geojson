@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.834041,42.043768,-87.834041,42.043768",
     "geom:latitude":42.043768,
     "geom:longitude":-87.834041,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.northridgeprep.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497631,
+        85633793,
+        85940773,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PgO3d8FsZtozHBA7QygOS_42.043768_-87.834041@1303262908"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461962690,
     "wof:geomhash":"e3a753ba958fd09bbbb9f6fcd63e9e0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940773,
+            "region_id":85688697,
+            "venue_id":756416613
+        }
+    ],
     "wof:id":756416613,
-    "wof:lastmodified":1472622193,
+    "wof:lastmodified":1492106918,
     "wof:name":"North Ridge Preparatory School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.646143,41.56721,-87.646143,41.56721",
     "geom:latitude":41.56721,
     "geom:longitude":-87.646143,
@@ -36,11 +37,13 @@
     "sg:website":"www.fibersinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890809,
+        102191575,
+        404497591,
         85633793,
         85940817,
         102084317,
-        85890809
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"80de9b2586658112b683b30abb313419",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940817,
             "neighbourhood_id":85890809,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":269541173,
-    "wof:lastmodified":1472620943,
+    "wof:lastmodified":1492101106,
     "wof:name":"Fiber Solutions Inc",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",

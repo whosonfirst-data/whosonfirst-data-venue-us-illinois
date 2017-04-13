@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.738065,42.458362,-88.738065,42.458362",
     "geom:latitude":42.458362,
     "geom:longitude":-88.738065,
@@ -26,7 +27,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496167,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kONRADsTLFdZpFvianWHf_42.458362_-88.738065@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461950372,
     "wof:geomhash":"abc284e812ea57a26afe4586638898eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404496167,
+            "region_id":85688697,
+            "venue_id":740131013
+        }
+    ],
     "wof:id":740131013,
-    "wof:lastmodified":1472621390,
+    "wof:lastmodified":1492098373,
     "wof:name":"Berglund Gunnar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

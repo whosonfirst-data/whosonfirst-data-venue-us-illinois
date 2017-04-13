@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.329307,41.761306,-88.329307,41.761306",
     "geom:latitude":41.761306,
     "geom:longitude":-88.329307,
@@ -33,12 +34,14 @@
     "sg:website":"www.ilswim.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
-        85876057
+        85688697,
+        85876051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +51,30 @@
     "wof:geomhash":"67ba981bbc44db15f8d6edc9eea6db2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876051,
+            "neighbourhood_id":85876057,
             "region_id":85688697,
             "venue_id":270529957
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876057,
+            "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":270529957
         }
     ],
     "wof:id":270529957,
-    "wof:lastmodified":1472621509,
+    "wof:lastmodified":1492096647,
     "wof:name":"Ill Swimming Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

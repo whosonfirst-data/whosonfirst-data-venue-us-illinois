@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.867446,42.15642,-87.867446,42.15642",
     "geom:latitude":42.15642,
     "geom:longitude":-87.867446,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85837867,
+        102191575,
+        404497637,
         85633793,
         85940769,
         102084317,
-        85837867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"cbea306adbc00174354aa5c8ad21f58e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497637,
             "locality_id":85940769,
             "neighbourhood_id":85837867,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":220016829,
-    "wof:lastmodified":1472620782,
+    "wof:lastmodified":1492098100,
     "wof:name":"Michael A Merkin CPA",
     "wof:parent_id":85837867,
     "wof:placetype":"venue",

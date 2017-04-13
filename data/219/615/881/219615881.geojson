@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.059941,41.580961,-88.059941,41.580961",
     "geom:latitude":41.580961,
     "geom:longitude":-88.059941,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b6fe3f6f9ed1b2e5e44fadb6974a023e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219615881,
-    "wof:lastmodified":1472621521,
+    "wof:lastmodified":1492095477,
     "wof:name":"MBQ Systems Inc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

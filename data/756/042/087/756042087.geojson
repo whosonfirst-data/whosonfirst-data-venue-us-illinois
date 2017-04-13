@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8078,41.667,-87.8078,41.667",
     "geom:latitude":41.667,
     "geom:longitude":-87.8078,
@@ -38,7 +39,14 @@
         "psychiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497667,
+        85633793,
+        85940749,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IW2oTQ1sSp6DRWtaREAtY_41.667000_-87.807800@1303262858"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954272,
     "wof:geomhash":"01a0c3917acffcc15bb11426139cac74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940749,
+            "region_id":85688697,
+            "venue_id":756042087
+        }
+    ],
     "wof:id":756042087,
-    "wof:lastmodified":1472621049,
+    "wof:lastmodified":1492101918,
     "wof:name":"Killion Paul S MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558303,41.51801,-87.558303,41.51801",
     "geom:latitude":41.51801,
     "geom:longitude":-87.558303,
@@ -41,7 +42,14 @@
     ],
     "sg:website":"http://www.schoonsautobody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940797,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5utwSLTi62Izj2JsZLLoUl_41.518010_-87.558303@1303262854"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461953596,
     "wof:geomhash":"e0b54c84d5d2c9bb53def9c9f66df107",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940797,
+            "region_id":85688697,
+            "venue_id":740281343
+        }
+    ],
     "wof:id":740281343,
-    "wof:lastmodified":1472622020,
+    "wof:lastmodified":1492093451,
     "wof:name":"Schoon's Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

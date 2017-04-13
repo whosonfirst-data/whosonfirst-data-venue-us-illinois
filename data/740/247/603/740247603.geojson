@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.90081,41.862728,-87.90081,41.862728",
     "geom:latitude":41.862728,
     "geom:longitude":-87.90081,
@@ -28,7 +29,14 @@
     "sg:postcode":"60162",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940923,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09UfnMTZ7U8pDc76FoNS4v_41.862728_-87.900810@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952900,
     "wof:geomhash":"0e686ea6211fb1d2af4b0d6142555f4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940923,
+            "region_id":85688697,
+            "venue_id":740247603
+        }
+    ],
     "wof:id":740247603,
-    "wof:lastmodified":1472621971,
+    "wof:lastmodified":1492104420,
     "wof:name":"Hillside Manor Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

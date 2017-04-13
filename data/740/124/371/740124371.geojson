@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.630363,41.346008,-87.630363,41.346008",
     "geom:latitude":41.346008,
     "geom:longitude":-87.630363,
@@ -26,7 +27,14 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        85940579,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LawpPdJXhPeiMRAsG65cB_41.346008_-87.630363@1294102059"
@@ -34,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461950179,
     "wof:geomhash":"49923acbed4c2e335c932d5f09aba2f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "locality_id":85940579,
+            "region_id":85688697,
+            "venue_id":740124371
+        }
+    ],
     "wof:id":740124371,
-    "wof:lastmodified":1472621358,
+    "wof:lastmodified":1492091070,
     "wof:name":"Bahlman Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158354,41.871056,-88.158354,41.871056",
     "geom:latitude":41.871056,
     "geom:longitude":-88.158354,
@@ -28,7 +29,10 @@
     "sg:postcode":"60190",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lFivuNBPQ3renPoFuDOdd_41.871056_-88.158354@1303262852"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953221,
     "wof:geomhash":"e7cb0ad17a248537ffc2978feb08ef72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740263375
+        }
+    ],
     "wof:id":740263375,
-    "wof:lastmodified":1472621989,
+    "wof:lastmodified":1492101837,
     "wof:name":"Nephrology Associates of Northern Illinois",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

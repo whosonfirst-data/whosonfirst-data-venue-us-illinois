@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.706865,42.313363,-88.706865,42.313363",
     "geom:latitude":42.313363,
     "geom:longitude":-88.706865,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497213,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ejc9fQyVgg8otwJewsHNV_42.313363_-88.706865@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950334,
     "wof:geomhash":"4ba8630c0da742632f2626fc5e3f62b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497213,
+            "region_id":85688697,
+            "venue_id":740129447
+        }
+    ],
     "wof:id":740129447,
-    "wof:lastmodified":1472621404,
+    "wof:lastmodified":1492088549,
     "wof:name":"Leon Graham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

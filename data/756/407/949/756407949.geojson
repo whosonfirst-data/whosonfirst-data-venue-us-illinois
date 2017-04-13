@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.556064,41.630014,-87.556064,41.630014",
     "geom:latitude":41.630014,
     "geom:longitude":-87.556064,
@@ -28,7 +29,14 @@
     "sg:province":"IL",
     "sg:website":"www.chicagofestivals.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940889,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NFWTFlSZp5iBgSdhwTVKq_41.630014_-87.556064@1303262907"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461962488,
     "wof:geomhash":"e0a7111023e7db068f974a8632439842",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940889,
+            "region_id":85688697,
+            "venue_id":756407949
+        }
+    ],
     "wof:id":756407949,
-    "wof:lastmodified":1472622200,
+    "wof:lastmodified":1492088396,
     "wof:name":"McDonald's Thanksgiving Parade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

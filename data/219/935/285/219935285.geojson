@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68194,41.714428,-87.68194,41.714428",
     "geom:latitude":41.714428,
     "geom:longitude":-87.68194,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497667,
         85633793,
         85940855,
-        102084317,
-        85867511
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"11b4b6ab67d0d19108b271c8e4f053c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940855,
-            "neighbourhood_id":85867511,
             "region_id":85688697,
             "venue_id":219935285
         }
     ],
     "wof:id":219935285,
-    "wof:lastmodified":1472621610,
+    "wof:lastmodified":1492109243,
     "wof:name":"Schmidt Group Inc",
-    "wof:parent_id":85867511,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

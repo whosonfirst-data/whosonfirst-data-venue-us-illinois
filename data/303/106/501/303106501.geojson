@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.135865,42.155375,-88.135865,42.155375",
     "geom:latitude":42.155375,
     "geom:longitude":-88.135865,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867885,
+        102191575,
+        404497605,
         85633793,
         85938419,
         102084317,
-        85867885
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"0071661270f2cf78b1ac2ed51bfb0a5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497605,
             "locality_id":85938419,
             "neighbourhood_id":85867885,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":303106501,
-    "wof:lastmodified":1472620911,
+    "wof:lastmodified":1492091166,
     "wof:name":"Hair Design By BJ & Co",
     "wof:parent_id":85867885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.130188,41.939571,-88.130188,41.939571",
     "geom:latitude":41.939571,
     "geom:longitude":-88.130188,
@@ -48,7 +49,14 @@
     ],
     "sg:website":"http://www.kammes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XUtO1JPv1uPnog3uhC3Yb_41.939571_-88.130188@1303262846"
@@ -56,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1461952237,
     "wof:geomhash":"6a6bcd7cba457482441850537e77b957",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740217223
+        }
+    ],
     "wof:id":740217223,
-    "wof:lastmodified":1472621912,
+    "wof:lastmodified":1492097169,
     "wof:name":"Kammes Auto & Truck Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

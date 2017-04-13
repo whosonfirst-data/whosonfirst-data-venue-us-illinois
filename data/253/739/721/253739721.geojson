@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.72498,41.717487,-87.72498,41.717487",
     "geom:latitude":41.717487,
     "geom:longitude":-87.72498,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2777cb87a0b9a10b4655176e2e1821e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253739721,
-    "wof:lastmodified":1472621642,
+    "wof:lastmodified":1492092339,
     "wof:name":"Julies Dream Workers",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

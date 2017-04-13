@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.537127,41.595171,-87.537127,41.595171",
     "geom:latitude":41.595171,
     "geom:longitude":-87.537127,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847347,
+        102191575,
+        404497591,
         85633793,
         85940887,
         102084317,
-        85847347
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b16d4fe5d6e7af2ae13e2b6a3e62dcba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940887,
             "neighbourhood_id":85847347,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286745045,
-    "wof:lastmodified":1472621632,
+    "wof:lastmodified":1492102082,
     "wof:name":"Outlaw Claudis",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",

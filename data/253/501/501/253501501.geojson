@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.77458,42.014317,-87.77458,42.014317",
     "geom:latitude":42.014317,
     "geom:longitude":-87.77458,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497631,
         85633793,
-        85940195,
-        102084317,
-        85869249
+        85940773,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"c395f3cc74ca96e516584e51c820d298",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869249,
+            "localadmin_id":404497631,
+            "locality_id":85940773,
             "region_id":85688697,
             "venue_id":253501501
         }
     ],
     "wof:id":253501501,
-    "wof:lastmodified":1472621547,
+    "wof:lastmodified":1492095100,
     "wof:name":"Maximum Impact Tleservices LLC",
-    "wof:parent_id":85869249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

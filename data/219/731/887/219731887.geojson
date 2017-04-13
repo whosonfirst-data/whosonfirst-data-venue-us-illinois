@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.096407,41.791916,-88.096407,41.791916",
     "geom:latitude":41.791916,
     "geom:longitude":-88.096407,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890823,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"8420453ebb70c1734a15e09d006a70ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890823,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219731887,
-    "wof:lastmodified":1472621562,
+    "wof:lastmodified":1492108971,
     "wof:name":"Dunham Communications",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",

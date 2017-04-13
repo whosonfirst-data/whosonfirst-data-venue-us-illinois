@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.122028,41.908637,-88.122028,41.908637",
     "geom:latitude":41.908637,
     "geom:longitude":-88.122028,
@@ -31,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PMjUZtcMQWUkwCJEbEBLe_41.908637_-88.122028@1303262852"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953152,
     "wof:geomhash":"881daa8336e0d7022bfb2d241230aab3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740259951
+        }
+    ],
     "wof:id":740259951,
-    "wof:lastmodified":1472621992,
+    "wof:lastmodified":1492094853,
     "wof:name":"Wheaton Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

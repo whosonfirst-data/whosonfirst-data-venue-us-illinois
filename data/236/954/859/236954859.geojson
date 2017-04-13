@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09845,41.595878,-88.09845,41.595878",
     "geom:latitude":41.595878,
     "geom:longitude":-88.09845,
@@ -32,8 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85688697
+        85940209,
+        102080845,
+        85688697,
+        85830465,
+        404499145,
+        85940565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +52,30 @@
     "wof:geomhash":"ed3cf6576e6694ed85694f9da890fe1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "neighbourhood_id":85890743,
+            "region_id":85688697,
+            "venue_id":236954859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499145,
+            "locality_id":85940565,
+            "neighbourhood_id":85830465,
             "region_id":85688697,
             "venue_id":236954859
         }
     ],
     "wof:id":236954859,
-    "wof:lastmodified":1472621794,
+    "wof:lastmodified":1492102208,
     "wof:name":"R JS Greenhouses Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

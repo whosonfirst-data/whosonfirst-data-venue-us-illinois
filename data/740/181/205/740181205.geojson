@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.263436,42.209043,-88.263436,42.209043",
     "geom:latitude":42.209043,
     "geom:longitude":-88.263436,
@@ -34,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85939013,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LY8I7zGVBB0DdxAl8OFwh_42.209043_-88.263436@1303262841"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461951470,
     "wof:geomhash":"9d31419e5f54c2c143e66c24e9921826",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85939013,
+            "region_id":85688697,
+            "venue_id":740181205
+        }
+    ],
     "wof:id":740181205,
-    "wof:lastmodified":1472621829,
+    "wof:lastmodified":1492088545,
     "wof:name":"Paynes Painting And Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

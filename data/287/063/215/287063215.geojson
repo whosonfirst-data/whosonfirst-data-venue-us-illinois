@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964413,41.639464,-87.964413,41.639464",
     "geom:latitude":41.639464,
     "geom:longitude":-87.964413,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"1f5903e08896e1e43dc96d1de4770c0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":287063215
         }
     ],
     "wof:id":287063215,
-    "wof:lastmodified":1472620898,
+    "wof:lastmodified":1492097253,
     "wof:name":"H K Trucking Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

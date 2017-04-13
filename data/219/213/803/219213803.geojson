@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.353304,42.201544,-88.353304,42.201544",
     "geom:latitude":42.201544,
     "geom:longitude":-88.353304,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838041,
+        102191575,
+        404499077,
         85633793,
         85939009,
         102081661,
-        85838041
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2df2a601a3d5fd00cde7ef2cf6cbbdb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
+            "localadmin_id":404499077,
             "locality_id":85939009,
             "neighbourhood_id":85838041,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219213803,
-    "wof:lastmodified":1472620931,
+    "wof:lastmodified":1492089021,
     "wof:name":"Illinois Building Inspection",
     "wof:parent_id":85838041,
     "wof:placetype":"venue",

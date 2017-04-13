@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.71347,41.549751,-87.71347,41.549751",
     "geom:latitude":41.549751,
     "geom:longitude":-87.71347,
@@ -36,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497613,
+        85633793,
+        85940875,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46Q7sGzopbxI67bV6qCGRp_41.549751_-87.713470@1303262855"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461953659,
     "wof:geomhash":"4206311b6e7d6920d82046d7b3d1093a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497613,
+            "locality_id":85940875,
+            "region_id":85688697,
+            "venue_id":740284503
+        }
+    ],
     "wof:id":740284503,
-    "wof:lastmodified":1472622025,
+    "wof:lastmodified":1492089444,
     "wof:name":"Gladys Loggin Real Estate Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

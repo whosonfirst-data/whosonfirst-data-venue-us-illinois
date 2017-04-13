@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.088095,42.477078,-88.088095,42.477078",
     "geom:latitude":42.477078,
     "geom:longitude":-88.088095,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420550001,
+        102191575,
+        404493391,
         85633793,
-        85938405,
-        102086215
+        101732581,
+        102081309,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"fd9417902d2fc71a18841b219ab5a795",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938405,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "neighbourhood_id":420550001,
+            "region_id":85688517,
             "venue_id":252878959
         }
     ],
     "wof:id":252878959,
-    "wof:lastmodified":1472621081,
+    "wof:lastmodified":1492094588,
     "wof:name":"Target Markets",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

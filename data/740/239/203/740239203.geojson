@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.032867,41.973245,-88.032867,41.973245",
     "geom:latitude":41.973245,
     "geom:longitude":-88.032867,
@@ -32,7 +33,14 @@
         "stylist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940157,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SaPt8JaXfE3l7FAnJ6KYA_41.973245_-88.032867@1303262849"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952722,
     "wof:geomhash":"b56f3cc0e5e730d402ebc96c90d935f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940157,
+            "region_id":85688697,
+            "venue_id":740239203
+        }
+    ],
     "wof:id":740239203,
-    "wof:lastmodified":1472621932,
+    "wof:lastmodified":1492098233,
     "wof:name":"Connie's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

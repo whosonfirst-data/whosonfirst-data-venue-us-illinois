@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.689347,41.997785,-88.689347,41.997785",
     "geom:latitude":41.997785,
     "geom:longitude":-88.689347,
@@ -39,7 +40,14 @@
         "patio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497727,
+        85633793,
+        85939743,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F10vjI4CVaJL0jmvUtt1I_41.997785_-88.689347@1303262851"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461953009,
     "wof:geomhash":"f1bc1faac9f3ed6f08ee60386da6f905",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497727,
+            "locality_id":85939743,
+            "region_id":85688697,
+            "venue_id":740252805
+        }
+    ],
     "wof:id":740252805,
-    "wof:lastmodified":1472621993,
+    "wof:lastmodified":1492102238,
     "wof:name":"Hove Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

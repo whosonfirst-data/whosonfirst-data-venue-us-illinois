@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.846611,42.313282,-87.846611,42.313282",
     "geom:latitude":42.313282,
     "geom:longitude":-87.846611,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519107,
+        102191575,
+        404498369,
         85633793,
         85938325,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"24512e8527d1482f8d4704012fce601a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938325,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519107,
             "region_id":85688697,
             "venue_id":270052905
         }
     ],
     "wof:id":270052905,
-    "wof:lastmodified":1472620913,
+    "wof:lastmodified":1492090947,
     "wof:name":"King Wire & Cable Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

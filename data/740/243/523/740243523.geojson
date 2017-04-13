@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.838939,41.881588,-87.838939,41.881588",
     "geom:latitude":41.881588,
     "geom:longitude":-87.838939,
@@ -41,7 +42,10 @@
     ],
     "sg:website":"http://www.autozone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XgP7LWKYkmklnZcmOJh95_41.881588_-87.838939@1303262849"
@@ -49,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461952816,
     "wof:geomhash":"4c6e30e88a8af37bfe8de08a0488102d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518725,
+            "venue_id":740243523
+        }
+    ],
     "wof:id":740243523,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492093144,
     "wof:name":"AutoZone",
     "wof:parent_id":420518725,
     "wof:placetype":"venue",

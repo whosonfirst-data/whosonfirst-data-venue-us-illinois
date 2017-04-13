@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.879845,42.253295,-88.879845,42.253295",
     "geom:latitude":42.253295,
     "geom:longitude":-88.879845,
@@ -47,7 +48,13 @@
     ],
     "sg:website":"http://find.trane.com/tcs-dealer-417451?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pYgMNZ2cfGVN5l6P4to2h_42.253295_-88.879845@1303262910"
@@ -55,9 +62,18 @@
     "wof:country":"US",
     "wof:created":1461962975,
     "wof:geomhash":"06cee966587ddcfdbd6459505f8b1560",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "region_id":85688697,
+            "venue_id":756428581
+        }
+    ],
     "wof:id":756428581,
-    "wof:lastmodified":1472622208,
+    "wof:lastmodified":1492088483,
     "wof:name":"Allen Heating & Cooling Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

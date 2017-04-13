@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057057,41.701988,-88.057057,41.701988",
     "geom:latitude":41.701988,
     "geom:longitude":-88.057057,
@@ -28,7 +29,14 @@
     "sg:postcode":"60440",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JfKXJ36prR7LgMsCETLzY_41.701988_-88.057057@1303262856"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953895,
     "wof:geomhash":"9cb1369209f98db87bd9433c10b14ace",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024443
+        }
+    ],
     "wof:id":756024443,
-    "wof:lastmodified":1472620835,
+    "wof:lastmodified":1492089869,
     "wof:name":"Maria De Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

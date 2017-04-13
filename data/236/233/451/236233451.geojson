@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075876,42.173466,-88.075876,42.173466",
     "geom:latitude":42.173466,
     "geom:longitude":-88.075876,
@@ -30,10 +31,13 @@
     "sg:website":"www.ameassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519163,
+        102191575,
+        404498459,
         85633793,
         85938343,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"068376eecd7b67175fa0bac1da13fa95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938343,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519163,
             "region_id":85688697,
             "venue_id":236233451
         }
     ],
     "wof:id":236233451,
-    "wof:lastmodified":1472621358,
+    "wof:lastmodified":1492091415,
     "wof:name":"AME Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

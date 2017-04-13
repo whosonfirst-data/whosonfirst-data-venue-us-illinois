@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.698916,41.588133,-88.698916,41.588133",
     "geom:latitude":41.588133,
     "geom:longitude":-88.698916,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498503,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5smdOSjF6F0XUArIaSNIKA_41.588133_-88.698916@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950413,
     "wof:geomhash":"e1c398e6fda71a3c3649b16381b50e9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498503,
+            "region_id":85688697,
+            "venue_id":740132967
+        }
+    ],
     "wof:id":740132967,
-    "wof:lastmodified":1472621424,
+    "wof:lastmodified":1492092678,
     "wof:name":"Bill Pfau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

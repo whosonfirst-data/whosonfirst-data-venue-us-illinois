@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.88682,41.757627,-87.88682,41.757627",
     "geom:latitude":41.757627,
     "geom:longitude":-87.88682,
@@ -36,7 +37,13 @@
         "employer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iI1Nr1hsrgG0EVyCd72JQ_41.757627_-87.886820@1303262860"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461954584,
     "wof:geomhash":"fd092e442a06912979efb8dd34a730e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "region_id":85688697,
+            "venue_id":756057021
+        }
+    ],
     "wof:id":756057021,
-    "wof:lastmodified":1472621184,
+    "wof:lastmodified":1492104539,
     "wof:name":"Edgewood Valley Community Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

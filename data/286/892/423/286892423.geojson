@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.803051,41.833926,-87.803051,41.833926",
     "geom:latitude":41.833926,
     "geom:longitude":-87.803051,
@@ -34,8 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85890737,
+        102191575,
+        404497589,
         85633793,
-        85688697
+        85940933,
+        102084317,
+        85688697,
+        85890739,
+        404497607,
+        85940903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +54,30 @@
     "wof:geomhash":"23290ef01e7d97cc0d83fcd4258e01ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497589,
+            "locality_id":85940933,
+            "neighbourhood_id":85890737,
+            "region_id":85688697,
+            "venue_id":286892423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497607,
+            "locality_id":85940903,
+            "neighbourhood_id":85890739,
             "region_id":85688697,
             "venue_id":286892423
         }
     ],
     "wof:id":286892423,
-    "wof:lastmodified":1472621686,
+    "wof:lastmodified":1492104157,
     "wof:name":"Amusement Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

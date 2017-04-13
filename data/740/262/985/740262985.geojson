@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.178802,41.857201,-88.178802,41.857201",
     "geom:latitude":41.857201,
     "geom:longitude":-88.178802,
@@ -32,7 +33,10 @@
         "gardening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VWQAVafBUlLG2BUbBriqa_41.857201_-88.178802@1303262852"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953214,
     "wof:geomhash":"4d4bd733bae9a72f2b59646d93afc2ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740262985
+        }
+    ],
     "wof:id":740262985,
-    "wof:lastmodified":1472621996,
+    "wof:lastmodified":1492093344,
     "wof:name":"T & Z Nursery Inc",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

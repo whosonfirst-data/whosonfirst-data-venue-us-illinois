@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.608482,42.249249,-88.608482,42.249249",
     "geom:latitude":42.249249,
     "geom:longitude":-88.608482,
@@ -42,7 +43,14 @@
     ],
     "sg:website":"http://www.marengolaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499151,
+        85633793,
+        85938987,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_352eGZSgpPVP1yewRbpnvs_42.249249_-88.608482@1303262849"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461952781,
     "wof:geomhash":"cb2f5917d946856cd291cfca696ebbc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499151,
+            "locality_id":85938987,
+            "region_id":85688697,
+            "venue_id":740241955
+        }
+    ],
     "wof:id":740241955,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492106099,
     "wof:name":"Pollock Meyers & Eicksteadt LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

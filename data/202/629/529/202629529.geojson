@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.321767,42.061224,-88.321767,42.061224",
     "geom:latitude":42.061224,
     "geom:longitude":-88.321767,
@@ -34,10 +35,13 @@
     "sg:website":"www.hilineco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85802887,
+        102191575,
+        404498225,
         85633793,
+        85939801,
         102086925,
-        85802887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"31efb7a354bd9ae09c56e7d2551620cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":-1,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
             "neighbourhood_id":85802887,
             "region_id":85688697,
             "venue_id":202629529
         }
     ],
     "wof:id":202629529,
-    "wof:lastmodified":1472621157,
+    "wof:lastmodified":1492089145,
     "wof:name":"Hi-Line Utility Supply Co",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",

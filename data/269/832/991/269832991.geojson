@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.756628,41.623271,-87.756628,41.623271",
     "geom:latitude":41.623271,
     "geom:longitude":-87.756628,
@@ -34,11 +35,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,17 @@
     "wof:geomhash":"4a56771ac92bc5e703a63622b3eec3f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":269832991
         }
     ],
     "wof:id":269832991,
-    "wof:lastmodified":1472621369,
+    "wof:lastmodified":1492099102,
     "wof:name":"Gentleman's Flair",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

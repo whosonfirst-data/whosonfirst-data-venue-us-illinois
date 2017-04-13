@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.010031,41.791449,-88.010031,41.791449",
     "geom:latitude":41.791449,
     "geom:longitude":-88.010031,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890777,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85890777
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1c1a53b369ebe26d74e95a9e1af40a7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85890777,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219726003,
-    "wof:lastmodified":1472621541,
+    "wof:lastmodified":1492095948,
     "wof:name":"Graham Crackers Comics LTD",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",

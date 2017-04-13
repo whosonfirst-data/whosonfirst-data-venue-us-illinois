@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.341553,41.876483,-88.341553,41.876483",
     "geom:latitude":41.876483,
     "geom:longitude":-88.341553,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"858cfecc5b3a209b2865e87519c0c7cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":252761961
         }
     ],
     "wof:id":252761961,
-    "wof:lastmodified":1472620904,
+    "wof:lastmodified":1492089500,
     "wof:name":"Soccer Field",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

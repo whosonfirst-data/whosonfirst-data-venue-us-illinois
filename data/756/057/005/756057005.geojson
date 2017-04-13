@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.870032,41.758573,-87.870032,41.758573",
     "geom:latitude":41.758573,
     "geom:longitude":-87.870032,
@@ -45,7 +46,14 @@
     ],
     "sg:website":"http://www.stanleylukefarm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QMDB03RZB3YZ2Z7AfC4UD_41.758573_-87.870032@1303262860"
@@ -53,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1461954584,
     "wof:geomhash":"e7f9228d24fd9d0185988a36d7600031",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756057005
+        }
+    ],
     "wof:id":756057005,
-    "wof:lastmodified":1472621183,
+    "wof:lastmodified":1492089368,
     "wof:name":"Stanley Luke Farm Riding School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

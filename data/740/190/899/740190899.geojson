@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94816,42.288633,-87.94816,42.288633",
     "geom:latitude":42.288633,
     "geom:longitude":-87.94816,
@@ -84,7 +85,10 @@
     ],
     "sg:website":"http://www.yext.com/p/superpages/g-r-auto-repair-libertyville-illinois.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5unSGwdllYxKL54bLPfuIk_42.288633_-87.948160@1303262843"
@@ -92,9 +96,15 @@
     "wof:country":"US",
     "wof:created":1461951665,
     "wof:geomhash":"573f587c10eee6179b01f92d4e5a55ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190899
+        }
+    ],
     "wof:id":740190899,
-    "wof:lastmodified":1472621872,
+    "wof:lastmodified":1492088945,
     "wof:name":"G & R Auto Repair",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

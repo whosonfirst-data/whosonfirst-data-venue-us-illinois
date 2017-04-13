@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.471268,41.88776,-88.471268,41.88776",
     "geom:latitude":41.88776,
     "geom:longitude":-88.471268,
@@ -44,7 +45,10 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SmtV4haPpfWlKrYB30cRM_41.887760_-88.471268@1303262847"
@@ -52,9 +56,15 @@
     "wof:country":"US",
     "wof:created":1461952382,
     "wof:geomhash":"6d1276139b5eb8cc3daeaae088958917",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224283
+        }
+    ],
     "wof:id":740224283,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492093398,
     "wof:name":"J Rissman Builders Inc",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

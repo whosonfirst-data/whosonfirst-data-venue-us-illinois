@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817564,41.703955,-87.817564,41.703955",
     "geom:latitude":41.703955,
     "geom:longitude":-87.817564,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.dishnetwork.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940747,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aK2etS1TazpP4k9LD5tCm_41.703955_-87.817564@1303262859"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954301,
     "wof:geomhash":"22942636f9893b6f5f31eb7ff3e59f90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
+            "region_id":85688697,
+            "venue_id":756043707
+        }
+    ],
     "wof:id":756043707,
-    "wof:lastmodified":1472621171,
+    "wof:lastmodified":1492090047,
     "wof:name":"Dish1 Network Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

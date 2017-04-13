@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078541,42.085019,-88.078541,42.085019",
     "geom:latitude":42.085019,
     "geom:longitude":-88.078541,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890881,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890881
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ea809f381a17b5a9e501b5ee1c6014a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890881,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219478831,
-    "wof:lastmodified":1472621383,
+    "wof:lastmodified":1492089433,
     "wof:name":"Royal American Corporation",
     "wof:parent_id":85890881,
     "wof:placetype":"venue",

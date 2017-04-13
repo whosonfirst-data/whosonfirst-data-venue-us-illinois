@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070801,41.952202,-88.070801,41.952202",
     "geom:latitude":41.952202,
     "geom:longitude":-88.070801,
@@ -36,7 +37,14 @@
         "buffet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1r6bvsKJkwBcIPgB7yuIci_41.952202_-88.070801@1303262846"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461952230,
     "wof:geomhash":"20b23b8783e2c26783d6c8dd8ad741b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740216843
+        }
+    ],
     "wof:id":740216843,
-    "wof:lastmodified":1472621947,
+    "wof:lastmodified":1492089632,
     "wof:name":"Bloomingdale Park District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

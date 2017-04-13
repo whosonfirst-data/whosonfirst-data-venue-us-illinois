@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.915274,42.280086,-87.915274,42.280086",
     "geom:latitude":42.280086,
     "geom:longitude":-87.915274,
@@ -30,6 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
+        420519103,
+        420519109,
+        102191575,
+        404498363,
+        85938333,
+        102086215,
         85688697
     ],
     "wof:breaches":[],
@@ -40,18 +47,25 @@
     "wof:geomhash":"ab4d34f38ec0e1b1f7ed06c7a53823b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519103,
+            "venue_id":270268091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498363,
+            "locality_id":85938333,
+            "neighbourhood_id":420519109,
             "region_id":85688697,
             "venue_id":270268091
         }
     ],
     "wof:id":270268091,
-    "wof:lastmodified":1472621322,
+    "wof:lastmodified":1492105646,
     "wof:name":"Jamaican Gardens North",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

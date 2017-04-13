@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.352711,42.336471,-88.352711,42.336471",
     "geom:latitude":42.336471,
     "geom:longitude":-88.352711,
@@ -37,7 +38,13 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499149,
+        85633793,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hi6GXMnx0VaOxkAWZEFNA_42.336471_-88.352711@1303262845"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461952012,
     "wof:geomhash":"0290deee71e4bdc5d1ba777a8edd21b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499149,
+            "region_id":85688697,
+            "venue_id":740207167
+        }
+    ],
     "wof:id":740207167,
-    "wof:lastmodified":1472621884,
+    "wof:lastmodified":1492092919,
     "wof:name":"Danforth Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

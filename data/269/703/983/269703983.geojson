@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048506,42.120545,-88.048506,42.120545",
     "geom:latitude":42.120545,
     "geom:longitude":-88.048506,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890877,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"3a4c3f7b383e2b3d4435ce8e466cc770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890877,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269703983,
-    "wof:lastmodified":1472621262,
+    "wof:lastmodified":1492103813,
     "wof:name":"Isp Painting Inc",
     "wof:parent_id":85890877,
     "wof:placetype":"venue",

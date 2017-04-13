@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.101678,41.546806,-88.101678,41.546806",
     "geom:latitude":41.546806,
     "geom:longitude":-88.101678,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85830465,
+        102191575,
+        404499145,
         85633793,
         85940565,
         102080845,
-        85830465
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"f0140129d10bc940912f79e09919253e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499145,
             "locality_id":85940565,
             "neighbourhood_id":85830465,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270015047,
-    "wof:lastmodified":1472620770,
+    "wof:lastmodified":1492093245,
     "wof:name":"Torres Arcadio",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.943939,42.098675,-87.943939,42.098675",
     "geom:latitude":42.098675,
     "geom:longitude":-87.943939,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d42cef296b5f13bc14ff59700874153f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270028517,
-    "wof:lastmodified":1472620801,
+    "wof:lastmodified":1492096472,
     "wof:name":"European Painting & Dctg Co",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

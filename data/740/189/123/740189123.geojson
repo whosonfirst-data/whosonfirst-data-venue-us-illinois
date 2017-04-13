@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.127931,42.368067,-88.127931,42.368067",
     "geom:latitude":42.368067,
     "geom:longitude":-88.127931,
@@ -53,7 +54,14 @@
     ],
     "sg:website":"http://national.citysearch.com/profile/external/41011140/ingleside_il/curves.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498359,
+        85633793,
+        85941163,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27R6LmvnmCp7oCQX4XY5FZ_42.368067_-88.127931@1303262842"
@@ -61,9 +69,19 @@
     "wof:country":"US",
     "wof:created":1461951631,
     "wof:geomhash":"b614b57d0f207223a18a90f702c6520e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498359,
+            "locality_id":85941163,
+            "region_id":85688697,
+            "venue_id":740189123
+        }
+    ],
     "wof:id":740189123,
-    "wof:lastmodified":1472621853,
+    "wof:lastmodified":1492089898,
     "wof:name":"Curves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

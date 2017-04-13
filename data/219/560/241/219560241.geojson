@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.721527,41.997271,-87.721527,41.997271",
     "geom:latitude":41.997271,
     "geom:longitude":-87.721527,
@@ -30,10 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404496273,
         85633793,
-        85940195,
-        102084317,
-        85865777
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +44,18 @@
     "wof:geomhash":"ef9a6c6f7c189e074b9d51a5ccff31c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85865777,
+            "localadmin_id":404496273,
             "region_id":85688697,
             "venue_id":219560241
         }
     ],
     "wof:id":219560241,
-    "wof:lastmodified":1472621459,
+    "wof:lastmodified":1491903973,
     "wof:name":"Bnos Raggeinu High School",
-    "wof:parent_id":85865777,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

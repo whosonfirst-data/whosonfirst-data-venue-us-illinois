@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.219405,41.435587,-88.219405,41.435587",
     "geom:latitude":41.435587,
     "geom:longitude":-88.219405,
@@ -31,7 +32,15 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826741,
+        102191575,
+        404499223,
+        85633793,
+        85940583,
+        102080845,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ayr8jcqxH4y0j42wJtCLg_41.435587_-88.219405@1303262854"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461953586,
     "wof:geomhash":"af3c7c663ba18abd3c7fe5d31f71a0c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
+            "neighbourhood_id":85826741,
+            "region_id":85688697,
+            "venue_id":740280873
+        }
+    ],
     "wof:id":740280873,
-    "wof:lastmodified":1472622041,
+    "wof:lastmodified":1492097326,
     "wof:name":"Channahon Police Non-Emergency",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

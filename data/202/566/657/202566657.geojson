@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.375118,42.099708,-88.375118,42.099708",
     "geom:latitude":42.099708,
     "geom:longitude":-88.375118,
@@ -36,10 +37,13 @@
     "sg:website":"www.huestismedical.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85802887,
+        102191575,
+        404498225,
         85633793,
+        85939801,
         102086925,
-        85802887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"2c85c8f5aeecad5bebaf60c76b35259e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":-1,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
             "neighbourhood_id":85802887,
             "region_id":85688697,
             "venue_id":202566657
         }
     ],
     "wof:id":202566657,
-    "wof:lastmodified":1472621087,
+    "wof:lastmodified":1492089429,
     "wof:name":"Pro-Tronics Inc",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",

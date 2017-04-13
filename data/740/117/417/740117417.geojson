@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.842548,41.150726,-87.842548,41.150726",
     "geom:latitude":41.150726,
     "geom:longitude":-87.842548,
@@ -32,7 +33,14 @@
         "vitamin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939993,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Goc6KbLJkjroa9g25kOnS_41.150682_-87.843391@1293134755"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461949996,
     "wof:geomhash":"9c17a34446dda06da7a3743786d9100e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939993,
+            "region_id":85688697,
+            "venue_id":740117417
+        }
+    ],
     "wof:id":740117417,
-    "wof:lastmodified":1472621300,
+    "wof:lastmodified":1492090658,
     "wof:name":"Jb Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

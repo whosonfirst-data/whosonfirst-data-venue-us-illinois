@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.981149,41.655742,-87.981149,41.655742",
     "geom:latitude":41.655742,
     "geom:longitude":-87.981149,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RcpXkVIGxShqfwoxMz3yr_41.655742_-87.981149@1303262856"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461953882,
     "wof:geomhash":"99c4a2c79ee8ca179a98845e41b9227c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023779
+        }
+    ],
     "wof:id":756023779,
-    "wof:lastmodified":1472620794,
+    "wof:lastmodified":1492107489,
     "wof:name":"Realty Select",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

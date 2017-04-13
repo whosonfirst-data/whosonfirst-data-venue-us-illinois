@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.586257,41.599777,-87.586257,41.599777",
     "geom:latitude":41.599777,
     "geom:longitude":-87.586257,
@@ -36,7 +37,14 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940935,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iZgpLEy8fM7aVHbS5vx4I_41.599777_-87.586257@1303262859"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461954347,
     "wof:geomhash":"dc0445e1c76477de6db255375b8a7371",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "region_id":85688697,
+            "venue_id":756045359
+        }
+    ],
     "wof:id":756045359,
-    "wof:lastmodified":1472621155,
+    "wof:lastmodified":1492093615,
     "wof:name":"Bonaguro John G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

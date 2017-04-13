@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.340274,40.925499,-88.340274,40.925499",
     "geom:latitude":40.925499,
     "geom:longitude":-88.340274,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498011,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D5RHDlY0A0M5kmxQaH8ra_40.925499_-88.340274@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949840,
     "wof:geomhash":"db4c73ee925c0914ddd27315ba2e8192",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404498011,
+            "region_id":85688697,
+            "venue_id":740110449
+        }
+    ],
     "wof:id":740110449,
-    "wof:lastmodified":1472621252,
+    "wof:lastmodified":1492088817,
     "wof:name":"Ralph Gallup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

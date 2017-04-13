@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.616,42.419769,-88.616,42.419769",
     "geom:latitude":42.419769,
     "geom:longitude":-88.616,
@@ -38,7 +39,14 @@
         "brew"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499081,
+        85633793,
+        85939005,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HmeCPwrzSQm18bLteMdDm_42.419769_-88.616000@1303262842"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951619,
     "wof:geomhash":"178a314774622b9685503b71246fe588",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499081,
+            "locality_id":85939005,
+            "region_id":85688697,
+            "venue_id":740188373
+        }
+    ],
     "wof:id":740188373,
-    "wof:lastmodified":1472621842,
+    "wof:lastmodified":1492103247,
     "wof:name":"Bopp's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

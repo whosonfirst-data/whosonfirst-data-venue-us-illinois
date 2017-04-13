@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.269629,41.737347,-88.269629,41.737347",
     "geom:latitude":41.737347,
     "geom:longitude":-88.269629,
@@ -39,7 +40,14 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CwZdDWQtK4cDQcyLCn1Ao_41.737347_-88.269629@1303262859"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954450,
     "wof:geomhash":"e032034eb5a634ecda30faa2a1c29d94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756050583
+        }
+    ],
     "wof:id":756050583,
-    "wof:lastmodified":1472621167,
+    "wof:lastmodified":1492089846,
     "wof:name":"Alden of Waterford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

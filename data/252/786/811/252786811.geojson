@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.938032,42.064484,-87.938032,42.064484",
     "geom:latitude":42.064484,
     "geom:longitude":-87.938032,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890855,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890855
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"aa223bbbb306e61492430b4390eeb94c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890855,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":252786811,
-    "wof:lastmodified":1472620952,
+    "wof:lastmodified":1492096912,
     "wof:name":"Ye Ole Barber Shop",
     "wof:parent_id":85890855,
     "wof:placetype":"venue",

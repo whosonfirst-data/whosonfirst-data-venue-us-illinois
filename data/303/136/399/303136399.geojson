@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.960178,41.907837,-87.960178,41.907837",
     "geom:latitude":41.907837,
     "geom:longitude":-87.960178,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890967,
+        102191575,
+        404497661,
         85633793,
+        85940149,
         102081257,
-        85890967
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"05cb49cd43f39c5d489aae01ca3a3dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940149,
             "neighbourhood_id":85890967,
             "region_id":85688697,
             "venue_id":303136399
         }
     ],
     "wof:id":303136399,
-    "wof:lastmodified":1472620950,
+    "wof:lastmodified":1492102423,
     "wof:name":"Advanced Horizons Inc",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",

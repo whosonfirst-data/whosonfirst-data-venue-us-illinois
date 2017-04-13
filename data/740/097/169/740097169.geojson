@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817398,41.7061,-87.817398,41.7061",
     "geom:latitude":41.7061,
     "geom:longitude":-87.817398,
@@ -34,7 +35,14 @@
         "drycleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940747,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d2vsIueCvA2UX7pTppTsL_41.705570_-87.817298@1293134755"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461949556,
     "wof:geomhash":"84b8d096d71250ae8893870e899c38f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
+            "region_id":85688697,
+            "venue_id":740097169
+        }
+    ],
     "wof:id":740097169,
-    "wof:lastmodified":1472620880,
+    "wof:lastmodified":1492088615,
     "wof:name":"Star Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

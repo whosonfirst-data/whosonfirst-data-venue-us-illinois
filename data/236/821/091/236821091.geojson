@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862449,41.112636,-87.862449,41.112636",
     "geom:latitude":41.112636,
     "geom:longitude":-87.862449,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890815,
+        102191575,
+        404498377,
         85633793,
         85939977,
         102081259,
-        85890815
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a7d850beadcc17b2adb00884ef3eecc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498377,
             "locality_id":85939977,
             "neighbourhood_id":85890815,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236821091,
-    "wof:lastmodified":1472621782,
+    "wof:lastmodified":1492093061,
     "wof:name":"First Choice Sheet Metal Inc",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",

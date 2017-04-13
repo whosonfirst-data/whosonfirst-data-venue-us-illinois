@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.846043,42.337924,-87.846043,42.337924",
     "geom:latitude":42.337924,
     "geom:longitude":-87.846043,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519107,
+        102191575,
+        404498369,
         85633793,
         85938325,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"91ee137205b82085bfb0b8a47e8f3040",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938325,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519107,
             "region_id":85688697,
             "venue_id":236125479
         }
     ],
     "wof:id":236125479,
-    "wof:lastmodified":1472621124,
+    "wof:lastmodified":1492091012,
     "wof:name":"BNB Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

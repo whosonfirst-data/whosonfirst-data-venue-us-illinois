@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.238587,41.804183,-88.238587,41.804183",
     "geom:latitude":41.804183,
     "geom:longitude":-88.238587,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879083,
+        102191575,
+        404497655,
         85633793,
-        85940221,
+        85940205,
         102081257,
-        85879083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"2f36ed2931759588f62def205823371c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940221,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
             "neighbourhood_id":85879083,
             "region_id":85688697,
             "venue_id":286996121
         }
     ],
     "wof:id":286996121,
-    "wof:lastmodified":1472621712,
+    "wof:lastmodified":1492105682,
     "wof:name":"Phoenix Closures  Inc",
     "wof:parent_id":85879083,
     "wof:placetype":"venue",

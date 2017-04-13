@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067303,41.430199,-88.067303,41.430199",
     "geom:latitude":41.430199,
     "geom:longitude":-88.067303,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"0ed5348cc3d5fc022b8f9784cab59495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":269609691,
-    "wof:lastmodified":1472621103,
+    "wof:lastmodified":1492096319,
     "wof:name":"Rachke Piping & Mechanical",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

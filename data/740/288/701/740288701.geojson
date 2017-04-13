@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.663828,41.551519,-87.663828,41.551519",
     "geom:latitude":41.551519,
     "geom:longitude":-87.663828,
@@ -32,7 +33,14 @@
         "referral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940817,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pCHaBL7vGOXo13pGBwOsr_41.551519_-87.663828@1303262855"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953751,
     "wof:geomhash":"e88127308eae15ef0cdc6f2a209c5bac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940817,
+            "region_id":85688697,
+            "venue_id":740288701
+        }
+    ],
     "wof:id":740288701,
-    "wof:lastmodified":1472622024,
+    "wof:lastmodified":1492104291,
     "wof:name":"Marketpro Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

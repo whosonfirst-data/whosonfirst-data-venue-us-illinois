@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.302989,41.79288,-88.302989,41.79288",
     "geom:latitude":41.79288,
     "geom:longitude":-88.302989,
@@ -37,7 +38,13 @@
         "churches-catholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77BcMbMl4Wwx6jTTR0THst_41.792880_-88.302989@1303262860"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461954472,
     "wof:geomhash":"c7ec975e12cc99372fc87fed3e7ac5c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "region_id":85688697,
+            "venue_id":756051609
+        }
+    ],
     "wof:id":756051609,
-    "wof:lastmodified":1472621158,
+    "wof:lastmodified":1492095454,
     "wof:name":"Catholic Church Diocese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

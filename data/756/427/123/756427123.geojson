@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.58168,40.827438,-87.58168,40.827438",
     "geom:latitude":40.827438,
     "geom:longitude":-87.58168,
@@ -43,7 +44,14 @@
         "brew"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496471,
+        85633793,
+        85938485,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4swe6xBtyWD6azIsGkRTnS_40.827438_-87.581680@1303262910"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461962948,
     "wof:geomhash":"cb58c41acfad178d2d6db957cd2c821f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404496471,
+            "locality_id":85938485,
+            "region_id":85688697,
+            "venue_id":756427123
+        }
+    ],
     "wof:id":756427123,
-    "wof:lastmodified":1472622195,
+    "wof:lastmodified":1492091215,
     "wof:name":"Iroquois Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

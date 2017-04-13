@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.950561,42.269469,-87.950561,42.269469",
     "geom:latitude":42.269469,
     "geom:longitude":-87.950561,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.travelheadquarters.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35M7vxB8IzCjN9ocveOoLb_42.269469_-87.950561@1303262842"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461951644,
     "wof:geomhash":"90aa8e61925f0756d4011691f6e5ff8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740189757
+        }
+    ],
     "wof:id":740189757,
-    "wof:lastmodified":1472621857,
+    "wof:lastmodified":1492107915,
     "wof:name":"Motivation Consultants Inc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

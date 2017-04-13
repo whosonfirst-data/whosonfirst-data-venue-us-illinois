@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.266357,41.776035,-88.266357,41.776035",
     "geom:latitude":41.776035,
     "geom:longitude":-88.266357,
@@ -31,7 +32,14 @@
         "bamboo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ICiywzQZMdfDzCM3bkuUu_41.776035_-88.266357@1303262859"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954437,
     "wof:geomhash":"904aa206355dae9ad430ec9a7788f150",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756050027
+        }
+    ],
     "wof:id":756050027,
-    "wof:lastmodified":1472621119,
+    "wof:lastmodified":1492106836,
     "wof:name":"Olive Tree Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

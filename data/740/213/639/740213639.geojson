@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207279,41.987257,-88.207279,41.987257",
     "geom:latitude":41.987257,
     "geom:longitude":-88.207279,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.tennissurfaces.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WMjx29gbx88yb6dvATXbf_41.987257_-88.207279@1303262846"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952160,
     "wof:geomhash":"dd742323f837491010f73ad8eed62325",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740213639
+        }
+    ],
     "wof:id":740213639,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492093348,
     "wof:name":"Tennis Surfaces Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

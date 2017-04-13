@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.023496,41.62564,-88.023496,41.62564",
     "geom:latitude":41.62564,
     "geom:longitude":-88.023496,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"1e468da2102d91b4d91e53daf750b1d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":202823887
         }
     ],
     "wof:id":202823887,
-    "wof:lastmodified":1472621285,
+    "wof:lastmodified":1492096433,
     "wof:name":"Wrink's Carpets & Floors Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

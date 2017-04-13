@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.147434,41.711676,-88.147434,41.711676",
     "geom:latitude":41.711676,
     "geom:longitude":-88.147434,
@@ -31,7 +32,13 @@
         "vegetables-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HgGtkEKY8qOCRgLSehWDN_41.711676_-88.147434@1303262862"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461954900,
     "wof:geomhash":"58c44e05d9fae6afb4e841db29cf6767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756071831
+        }
+    ],
     "wof:id":756071831,
-    "wof:lastmodified":1472621397,
+    "wof:lastmodified":1492097780,
     "wof:name":"Keller Vegetables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

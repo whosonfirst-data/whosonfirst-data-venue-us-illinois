@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.259973,41.455571,-88.259973,41.455571",
     "geom:latitude":41.455571,
     "geom:longitude":-88.259973,
@@ -55,11 +56,13 @@
     "sg:website":"http://chicago.citysearch.com/profile/external/604312962/minooka_il/edward_jones_ben_sisk.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +73,10 @@
     "wof:geomhash":"e954a725a9b5ae08348533555b3189e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":756029265,
-    "wof:lastmodified":1472620833,
+    "wof:lastmodified":1492097929,
     "wof:name":"Edward Jones - BEN SISK",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

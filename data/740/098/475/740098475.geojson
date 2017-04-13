@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.035405,41.301205,-88.035405,41.301205",
     "geom:latitude":41.301205,
     "geom:longitude":-88.035405,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499133,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Irns57LQIb7ccR0fLOR2y_41.301205_-88.035405@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949582,
     "wof:geomhash":"eb96fab81421e502ffd79de3aa75fcb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499133,
+            "region_id":85688697,
+            "venue_id":740098475
+        }
+    ],
     "wof:id":740098475,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492095815,
     "wof:name":"Gerald Robbins Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

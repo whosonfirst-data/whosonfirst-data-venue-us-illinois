@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.75696,41.65948,-87.75696,41.65948",
     "geom:latitude":41.65948,
     "geom:longitude":-87.75696,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890723,
+        102191575,
+        404497667,
         85633793,
         85940911,
         102084317,
-        85890723
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9ecec795690a81c84f66b2af28dd9e95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940911,
             "neighbourhood_id":85890723,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270114637,
-    "wof:lastmodified":1472621066,
+    "wof:lastmodified":1492090514,
     "wof:name":"Bobbie Bait Company",
     "wof:parent_id":85890723,
     "wof:placetype":"venue",

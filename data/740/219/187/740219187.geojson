@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.107948,41.955109,-88.107948,41.955109",
     "geom:latitude":41.955109,
     "geom:longitude":-88.107948,
@@ -35,7 +36,14 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RKOi67E7YxIZMOexY02zk_41.955109_-88.107948@1303262846"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461952278,
     "wof:geomhash":"b1507f131452120492ab4ab9306b2cf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219187
+        }
+    ],
     "wof:id":740219187,
-    "wof:lastmodified":1472621910,
+    "wof:lastmodified":1492110071,
     "wof:name":"J. & R. Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

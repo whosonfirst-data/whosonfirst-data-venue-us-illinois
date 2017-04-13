@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.316908,41.759042,-88.316908,41.759042",
     "geom:latitude":41.759042,
     "geom:longitude":-88.316908,
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876055
     ],
     "wof:breaches":[],
@@ -58,18 +61,20 @@
     "wof:geomhash":"b6ad813a3d207a81482d84ef016ddd6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":270175819
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -77,9 +82,9 @@
         }
     ],
     "wof:id":270175819,
-    "wof:lastmodified":1472621199,
+    "wof:lastmodified":1492093100,
     "wof:name":"Targeted Marketing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

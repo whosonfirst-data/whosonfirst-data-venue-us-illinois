@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.128141,41.244191,-88.128141,41.244191",
     "geom:latitude":41.244191,
     "geom:longitude":-88.128141,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497099,
         85633793,
-        85688697
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"35dc78eca7164d1f1542f21e280050ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404497099,
             "region_id":85688697,
             "venue_id":303049875
         }
     ],
     "wof:id":303049875,
-    "wof:lastmodified":1472620785,
+    "wof:lastmodified":1492097171,
     "wof:name":"Rh Thermal Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

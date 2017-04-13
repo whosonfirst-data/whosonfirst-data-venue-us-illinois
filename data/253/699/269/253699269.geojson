@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.083547,41.926576,-88.083547,41.926576",
     "geom:latitude":41.926576,
     "geom:longitude":-88.083547,
@@ -36,10 +37,13 @@
     "sg:website":"www.dupagemachine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"e1f6f1a0bbbb767c0a64f49d0bae0061",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":253699269
         }
     ],
     "wof:id":253699269,
-    "wof:lastmodified":1472621634,
+    "wof:lastmodified":1492111747,
     "wof:name":"Dupage Machine Products (del)",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

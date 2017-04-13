@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807098,41.66,-87.807098,41.66",
     "geom:latitude":41.66,
     "geom:longitude":-87.807098,
@@ -31,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f8qDYGHmwdQTGKDhCAy1i_41.660000_-87.807098@1303262858"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461954260,
     "wof:geomhash":"b24be52b126032317ad113e4eed7bf7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518847,
+            "venue_id":756041469
+        }
+    ],
     "wof:id":756041469,
-    "wof:lastmodified":1472621008,
+    "wof:lastmodified":1492097826,
     "wof:name":"Andrew H Maheras & Co PC",
     "wof:parent_id":420518847,
     "wof:placetype":"venue",

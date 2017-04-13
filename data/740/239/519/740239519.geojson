@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.0345,41.978765,-88.0345,41.978765",
     "geom:latitude":41.978765,
     "geom:longitude":-88.0345,
@@ -28,7 +29,14 @@
     "sg:postcode":"60143",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940157,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BeO9GW4JoQbsweEMm5UNQ_41.978765_-88.034500@1303262849"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952733,
     "wof:geomhash":"a6bcf3bfeb1110c14e76e61984f71589",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940157,
+            "region_id":85688697,
+            "venue_id":740239519
+        }
+    ],
     "wof:id":740239519,
-    "wof:lastmodified":1472621944,
+    "wof:lastmodified":1492093039,
     "wof:name":"Sewer Cleaners & Repairers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

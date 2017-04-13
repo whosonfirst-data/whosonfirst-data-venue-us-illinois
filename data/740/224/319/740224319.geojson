@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.469755,41.905691,-88.469755,41.905691",
     "geom:latitude":41.905691,
     "geom:longitude":-88.469755,
@@ -33,7 +34,10 @@
     "sg:postcode":"60119",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nYwaiCr9xZR73lcUygO3u_41.905691_-88.469755@1303262847"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461952383,
     "wof:geomhash":"d43535c1f5a3452ee2d819712b507f7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224319
+        }
+    ],
     "wof:id":740224319,
-    "wof:lastmodified":1472621917,
+    "wof:lastmodified":1492089602,
     "wof:name":"Mylifeinchrist",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

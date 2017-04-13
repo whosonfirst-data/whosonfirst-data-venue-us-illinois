@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063689,41.87806,-88.063689,41.87806",
     "geom:latitude":41.87806,
     "geom:longitude":-88.063689,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867835,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85867835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2b66f6249ca1b63b8cad22c01c2c6ee5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85867835,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219995725,
-    "wof:lastmodified":1472621636,
+    "wof:lastmodified":1492089606,
     "wof:name":"Spillman & Wotyla Inc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",

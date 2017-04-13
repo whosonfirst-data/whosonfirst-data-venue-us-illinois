@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.845421,42.264775,-88.845421,42.264775",
     "geom:latitude":42.264775,
     "geom:longitude":-88.845421,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.crimestopusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OqlRcOzTi4rGINLuxIYJo_42.264828_-88.845119@1293134755"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950038,
     "wof:geomhash":"fb9e5881a0eeb0ae8409a1e351e7f57f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":740118997
+        }
+    ],
     "wof:id":740118997,
-    "wof:lastmodified":1472621334,
+    "wof:lastmodified":1492090777,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

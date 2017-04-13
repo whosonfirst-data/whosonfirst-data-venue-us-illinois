@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.116607,41.54241,-88.116607,41.54241",
     "geom:latitude":41.54241,
     "geom:longitude":-88.116607,
@@ -30,11 +31,13 @@
     "sg:website":"www.joliet86.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845453,
+        102191575,
+        404499145,
         85633793,
         85940565,
         102080845,
-        85845453
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"6564a5b291bbdaa8d712c1f6b764310a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499145,
             "locality_id":85940565,
             "neighbourhood_id":85845453,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303110385,
-    "wof:lastmodified":1472620919,
+    "wof:lastmodified":1492103111,
     "wof:name":"Taft Elementary School",
     "wof:parent_id":85845453,
     "wof:placetype":"venue",

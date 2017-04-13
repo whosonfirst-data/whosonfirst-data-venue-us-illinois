@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.094795,41.332708,-88.094795,41.332708",
     "geom:latitude":41.332708,
     "geom:longitude":-88.094795,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499133,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ftZubagpqkRblPaALErMv_41.332708_-88.094795@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949567,
     "wof:geomhash":"86c85ac0bdb339a5aa481a1d52486e7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499133,
+            "region_id":85688697,
+            "venue_id":740097737
+        }
+    ],
     "wof:id":740097737,
-    "wof:lastmodified":1472620910,
+    "wof:lastmodified":1492092879,
     "wof:name":"Dan Phelan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

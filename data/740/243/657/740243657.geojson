@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.900604,41.86274,-87.900604,41.86274",
     "geom:latitude":41.86274,
     "geom:longitude":-87.900604,
@@ -32,7 +33,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940923,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EcuetnTE4Kv394PLzxh9n_41.862740_-87.900604@1303262849"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952820,
     "wof:geomhash":"92a810a155fc2e65a9728731363b08a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940923,
+            "region_id":85688697,
+            "venue_id":740243657
+        }
+    ],
     "wof:id":740243657,
-    "wof:lastmodified":1472621967,
+    "wof:lastmodified":1492101835,
     "wof:name":"Westchester Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

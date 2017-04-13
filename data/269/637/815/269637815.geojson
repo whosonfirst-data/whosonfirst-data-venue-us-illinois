@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.834403,42.339928,-87.834403,42.339928",
     "geom:latitude":42.339928,
     "geom:longitude":-87.834403,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519117,
+        102191575,
+        404499867,
         85633793,
-        85938325,
-        102086215
+        85938621,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"d8ed8cd1cbcf85497f8cad45477c9b19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938325,
-            "neighbourhood_id":-1,
+            "localadmin_id":404499867,
+            "locality_id":85938621,
+            "neighbourhood_id":420519117,
             "region_id":85688697,
             "venue_id":269637815
         }
     ],
     "wof:id":269637815,
-    "wof:lastmodified":1472621162,
+    "wof:lastmodified":1492104819,
     "wof:name":"Unique Towing Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

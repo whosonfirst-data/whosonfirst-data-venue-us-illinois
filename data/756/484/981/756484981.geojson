@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.236436,41.78853,-88.236436,41.78853",
     "geom:latitude":41.78853,
     "geom:longitude":-88.236436,
@@ -51,11 +52,13 @@
     "sg:website":"http://www.snapgalaxy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879083,
+        102191575,
+        404497655,
         85633793,
-        85940221,
+        85940205,
         102081257,
-        85879083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,16 +69,18 @@
     "wof:geomhash":"ca5d8539ac06ea4fce172450ee8eb8af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940221,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
             "neighbourhood_id":85879083,
             "region_id":85688697,
             "venue_id":756484981
         }
     ],
     "wof:id":756484981,
-    "wof:lastmodified":1472622256,
+    "wof:lastmodified":1492106840,
     "wof:name":"SnapGalaxy",
     "wof:parent_id":85879083,
     "wof:placetype":"venue",

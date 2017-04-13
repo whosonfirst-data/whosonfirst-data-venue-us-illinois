@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.037385,42.100615,-88.037385,42.100615",
     "geom:latitude":42.100615,
     "geom:longitude":-88.037385,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890881,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890881
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"c34c2064813ecf5b88d53717ba195b70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890881,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":269956155,
-    "wof:lastmodified":1472621426,
+    "wof:lastmodified":1492091191,
     "wof:name":"Dry & Liquid Photoimagables",
     "wof:parent_id":85890881,
     "wof:placetype":"venue",

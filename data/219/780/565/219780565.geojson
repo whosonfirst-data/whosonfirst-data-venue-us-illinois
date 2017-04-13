@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068153,41.533517,-88.068153,41.533517",
     "geom:latitude":41.533517,
     "geom:longitude":-88.068153,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ba8ec7275d9b55c7dd79f0e39831fde2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219780565,
-    "wof:lastmodified":1472621576,
+    "wof:lastmodified":1492092886,
     "wof:name":"Manzo Trucking",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

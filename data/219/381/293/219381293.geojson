@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.015973,41.808384,-88.015973,41.808384",
     "geom:latitude":41.808384,
     "geom:longitude":-88.015973,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890777,
+        102191575,
+        404497649,
         85633793,
         85940165,
-        102081257
+        102081257,
+        85688697,
+        85891021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"34acd00c3e29ac6ec168a6993fceb8ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890777,
+            "region_id":85688697,
+            "venue_id":219381293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940165,
+            "neighbourhood_id":85891021,
             "region_id":85688697,
             "venue_id":219381293
         }
     ],
     "wof:id":219381293,
-    "wof:lastmodified":1472621277,
+    "wof:lastmodified":1492089979,
     "wof:name":"76 Self Serv Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

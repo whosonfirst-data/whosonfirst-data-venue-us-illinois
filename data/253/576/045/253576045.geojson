@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.265392,41.853943,-88.265392,41.853943",
     "geom:latitude":41.853943,
     "geom:longitude":-88.265392,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b061af11e5a539db98c82fc0b4f80519",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":253576045,
-    "wof:lastmodified":1472621597,
+    "wof:lastmodified":1492104408,
     "wof:name":"Cameron Printing",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

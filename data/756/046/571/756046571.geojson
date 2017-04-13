@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.625717,41.475226,-87.625717,41.475226",
     "geom:latitude":41.475226,
     "geom:longitude":-87.625717,
@@ -32,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940519,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JqDbmW9isFVGnvEx6ZZyq_41.475226_-87.625717@1303262859"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954369,
     "wof:geomhash":"ec6e1ed5f806fe1fceb6d6e2638d2c79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940519,
+            "region_id":85688697,
+            "venue_id":756046571
+        }
+    ],
     "wof:id":756046571,
-    "wof:lastmodified":1472621166,
+    "wof:lastmodified":1492107887,
     "wof:name":"Home Roofing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

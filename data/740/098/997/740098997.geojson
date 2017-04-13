@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.55302,41.26806,-88.55302,41.26806",
     "geom:latitude":41.26806,
     "geom:longitude":-88.55302,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496123,
+        85633793,
+        102086193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lgkpQtpDywFph0l2QkWk2_41.268060_-88.553020@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949592,
     "wof:geomhash":"074523fcb0e395c4c0805af0a3c9ab79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086193,
+            "localadmin_id":404496123,
+            "region_id":85688697,
+            "venue_id":740098997
+        }
+    ],
     "wof:id":740098997,
-    "wof:lastmodified":1472620913,
+    "wof:lastmodified":1492091122,
     "wof:name":"Richard L Sulzberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.37029,41.765803,-88.37029,41.765803",
     "geom:latitude":41.765803,
     "geom:longitude":-88.37029,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,10 @@
     "wof:geomhash":"caab6e8add0b260f9016a6145bc855ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":756052099,
-    "wof:lastmodified":1472621147,
+    "wof:lastmodified":1492093104,
     "wof:name":"Leask Linda K Law Office Of",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

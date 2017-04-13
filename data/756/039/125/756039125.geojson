@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.844998,41.748596,-87.844998,41.748596",
     "geom:latitude":41.748596,
     "geom:longitude":-87.844998,
@@ -31,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YGyko1Kyj4mcgqsV6oKmi_41.748596_-87.844998@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954207,
     "wof:geomhash":"a434e8d4f99425dcba5a2fd43ac3bafd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039125
+        }
+    ],
     "wof:id":756039125,
-    "wof:lastmodified":1472620988,
+    "wof:lastmodified":1492098065,
     "wof:name":"Kaput Elec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

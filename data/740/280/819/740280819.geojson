@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.230015,41.428472,-88.230015,41.428472",
     "geom:latitude":41.428472,
     "geom:longitude":-88.230015,
@@ -28,7 +29,14 @@
     "sg:postcode":"60410",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oX1qeB4p50LpxWPD6urDm_41.428472_-88.230015@1303262854"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953584,
     "wof:geomhash":"79e0ac5b346c54c50aa9defc95ae3a2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740280819
+        }
+    ],
     "wof:id":740280819,
-    "wof:lastmodified":1472622040,
+    "wof:lastmodified":1492089811,
     "wof:name":"Satelite Receivers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

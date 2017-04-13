@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.184851,42.208089,-88.184851,42.208089",
     "geom:latitude":42.208089,
     "geom:longitude":-88.184851,
@@ -33,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813157,
+        102191575,
+        404498455,
         85633793,
         85938359,
-        102086215
+        102086215,
+        85688697,
+        85938395,
+        102081661,
+        85848869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,28 @@
     "wof:geomhash":"9b1df7828dab8c58e5735a118d60c0b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498455,
             "locality_id":85938359,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813157,
+            "region_id":85688697,
+            "venue_id":236746805
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081661,
+            "locality_id":85938395,
+            "neighbourhood_id":85848869,
             "region_id":85688697,
             "venue_id":236746805
         }
     ],
     "wof:id":236746805,
-    "wof:lastmodified":1472621766,
+    "wof:lastmodified":1492089245,
     "wof:name":"Globe Construction Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.997256,41.663443,-87.997256,41.663443",
     "geom:latitude":41.663443,
     "geom:longitude":-87.997256,
@@ -32,7 +33,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lE7aECKjBs5za81Y1ffdw_41.663443_-87.997256@1303262856"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953883,
     "wof:geomhash":"b50dcea1eb5bab727550d949173b65b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023829
+        }
+    ],
     "wof:id":756023829,
-    "wof:lastmodified":1472620797,
+    "wof:lastmodified":1492102256,
     "wof:name":"Annette Schuett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.249001,41.375301,-88.249001,41.375301",
     "geom:latitude":41.375301,
     "geom:longitude":-88.249001,
@@ -28,7 +29,13 @@
     "sg:postcode":"60481",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497111,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QsOY8jcXvef2XjXDTU2PK_41.375301_-88.249001@1303262859"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954389,
     "wof:geomhash":"88943bfb0aeda3a0549b032a4f0c8287",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497111,
+            "region_id":85688697,
+            "venue_id":756047541
+        }
+    ],
     "wof:id":756047541,
-    "wof:lastmodified":1472621155,
+    "wof:lastmodified":1492089819,
     "wof:name":"Harborside Restaurant & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

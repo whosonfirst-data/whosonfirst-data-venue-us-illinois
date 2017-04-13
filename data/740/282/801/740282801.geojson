@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.642246,41.456652,-87.642246,41.456652",
     "geom:latitude":41.456652,
     "geom:longitude":-87.642246,
@@ -35,7 +36,13 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DWJS8dkXKL1IG9tPMwuBo_41.456652_-87.642246@1303262854"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461953627,
     "wof:geomhash":"e982c94d7f38600b3f9bd13a239160db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":740282801
+        }
+    ],
     "wof:id":740282801,
-    "wof:lastmodified":1472622035,
+    "wof:lastmodified":1492089761,
     "wof:name":"Wayne's Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

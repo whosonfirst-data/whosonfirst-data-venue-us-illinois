@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.854189,41.654131,-87.854189,41.654131",
     "geom:latitude":41.654131,
     "geom:longitude":-87.854189,
@@ -32,7 +33,10 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27fDhKZK54Xjd5VjMrYvod_41.654131_-87.854189@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461950902,
     "wof:geomhash":"04f7d6d12f406b57a0f8664ce449cd6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518847,
+            "venue_id":740156807
+        }
+    ],
     "wof:id":740156807,
-    "wof:lastmodified":1472621799,
+    "wof:lastmodified":1492092381,
     "wof:name":"Francesca's Vincinato",
     "wof:parent_id":420518847,
     "wof:placetype":"venue",

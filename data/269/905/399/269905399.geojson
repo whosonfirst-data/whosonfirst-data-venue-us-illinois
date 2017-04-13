@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.302165,41.862751,-88.302165,41.862751",
     "geom:latitude":41.862751,
     "geom:longitude":-88.302165,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"afcfee35e9d4fe355593a2eaa14a99e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269905399,
-    "wof:lastmodified":1472621403,
+    "wof:lastmodified":1492099036,
     "wof:name":"Stand Off Computers",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

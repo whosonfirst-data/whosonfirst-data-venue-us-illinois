@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.15655,41.918213,-88.15655,41.918213",
     "geom:latitude":41.918213,
     "geom:longitude":-88.15655,
@@ -32,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O9HCDAe26V5R7bTsYe29r_41.918213_-88.156550@1303262851"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461953020,
     "wof:geomhash":"cd6fef4e7cd10711fdd7f5c757e1e656",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "region_id":85688697,
+            "venue_id":740253349
+        }
+    ],
     "wof:id":740253349,
-    "wof:lastmodified":1472621967,
+    "wof:lastmodified":1492091264,
     "wof:name":"Weber Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

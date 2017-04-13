@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.27143,41.455078,-88.27143,41.455078",
     "geom:latitude":41.455078,
     "geom:longitude":-88.27143,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:brand_id":420574055,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"48489883e508b42cdcd53162493cf294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236760923,
-    "wof:lastmodified":1472621771,
+    "wof:lastmodified":1492097406,
     "wof:name":"Wendys",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

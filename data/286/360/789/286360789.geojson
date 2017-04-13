@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.892633,42.035367,-87.892633,42.035367",
     "geom:latitude":42.035367,
     "geom:longitude":-87.892633,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890773,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85890773
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b750c2762b6e6466fa13ef8ce0e1c994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85890773,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286360789,
-    "wof:lastmodified":1472621047,
+    "wof:lastmodified":1492102134,
     "wof:name":"Press Tech Inc",
     "wof:parent_id":85890773,
     "wof:placetype":"venue",

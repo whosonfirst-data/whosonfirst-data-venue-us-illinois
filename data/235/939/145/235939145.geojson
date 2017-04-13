@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.895105,42.031192,-87.895105,42.031192",
     "geom:latitude":42.031192,
     "geom:longitude":-87.895105,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890773,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85890773
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ab0bf1022567a8b7b5940a13baf45a39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85890773,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":235939145,
-    "wof:lastmodified":1472620760,
+    "wof:lastmodified":1492089522,
     "wof:name":"Mr Anthony Barber Salon",
     "wof:parent_id":85890773,
     "wof:placetype":"venue",

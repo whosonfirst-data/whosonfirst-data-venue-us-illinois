@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855158,42.393773,-87.855158,42.393773",
     "geom:latitude":42.393773,
     "geom:longitude":-87.855158,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:brand_id":420573757,
     "wof:breaches":[],
@@ -46,17 +50,18 @@
     "wof:geomhash":"9e1f20c507dc41c2dd252d43fa2fef22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":236680089
         }
     ],
     "wof:id":236680089,
-    "wof:lastmodified":1472621746,
+    "wof:lastmodified":1492088947,
     "wof:name":"Dollar General",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

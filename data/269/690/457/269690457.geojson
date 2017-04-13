@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.791103,41.613195,-87.791103,41.613195",
     "geom:latitude":41.613195,
     "geom:longitude":-87.791103,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"0e5a8fb96e5fbe5c76de9d24fa7d6acc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":269690457
         }
     ],
     "wof:id":269690457,
-    "wof:lastmodified":1472621247,
+    "wof:lastmodified":1492100986,
     "wof:name":"Parente Jurasz Inc",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

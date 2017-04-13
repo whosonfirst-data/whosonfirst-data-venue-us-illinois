@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068392,41.762274,-88.068392,41.762274",
     "geom:latitude":41.762274,
     "geom:longitude":-88.068392,
@@ -34,7 +35,10 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GEfpG4dW8BGSy6gUqAjRi_41.762274_-88.068392@1303262860"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461954546,
     "wof:geomhash":"8fd7a0f04f6a70dc12819efd999c877f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055191
+        }
+    ],
     "wof:id":756055191,
-    "wof:lastmodified":1472621149,
+    "wof:lastmodified":1492105794,
     "wof:name":"Collision Centers Of America, Inc.",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

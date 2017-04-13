@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.840404,41.126554,-87.840404,41.126554",
     "geom:latitude":41.126554,
     "geom:longitude":-87.840404,
@@ -28,7 +29,14 @@
     "sg:postcode":"60901",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        85939977,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n3CIg6VMxCE884JsirXzt_41.126554_-87.840404@1303262909"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461962896,
     "wof:geomhash":"0384aaec6f206a451a06c990cfc1e557",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
+            "region_id":85688697,
+            "venue_id":756424981
+        }
+    ],
     "wof:id":756424981,
-    "wof:lastmodified":1472622215,
+    "wof:lastmodified":1492088452,
     "wof:name":"Helen's House of Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

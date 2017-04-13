@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.2655,41.638339,-88.2655,41.638339",
     "geom:latitude":41.638339,
     "geom:longitude":-88.2655,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.channellive.tv",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499219,
+        85633793,
+        85940581,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PVaDX9NOQehfZDRTafaEb_41.638339_-88.265500@1308186497"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461964378,
     "wof:geomhash":"50f051d287b324c22f2199f80b66b082",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499219,
+            "locality_id":85940581,
+            "region_id":85688697,
+            "venue_id":756484827
+        }
+    ],
     "wof:id":756484827,
-    "wof:lastmodified":1472622254,
+    "wof:lastmodified":1492106551,
     "wof:name":"Channellive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.608972,41.593268,-87.608972,41.593268",
     "geom:latitude":41.593268,
     "geom:longitude":-87.608972,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518885,
+        102191575,
+        404497591,
         85633793,
         85940935,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"9c003334c2e57e72da32d7c3eb59c23a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940935,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518885,
             "region_id":85688697,
             "venue_id":270386827
         }
     ],
     "wof:id":270386827,
-    "wof:lastmodified":1472621467,
+    "wof:lastmodified":1492093436,
     "wof:name":"Owens International",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

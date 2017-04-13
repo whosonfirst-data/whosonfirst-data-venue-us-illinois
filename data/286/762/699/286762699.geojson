@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.771531,41.829038,-87.771531,41.829038",
     "geom:latitude":41.829038,
     "geom:longitude":-87.771531,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867557,
+        102191575,
+        404497617,
         85633793,
         85940877,
         102084317,
-        85867557
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"38889d38a92c04e5bcce4c68ade58e9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
             "neighbourhood_id":85867557,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286762699,
-    "wof:lastmodified":1472621645,
+    "wof:lastmodified":1492091878,
     "wof:name":"HI Club Video",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",

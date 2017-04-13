@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.134392,42.124352,-88.134392,42.124352",
     "geom:latitude":42.124352,
     "geom:longitude":-88.134392,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497645,
+        85633793,
+        85940813,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3irKW87FO4T2S5KQifRXyx_42.124352_-88.134392@1303262841"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461951446,
     "wof:geomhash":"21697389ea6f2ea498d2b454efe12537",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85940813,
+            "region_id":85688697,
+            "venue_id":740180143
+        }
+    ],
     "wof:id":740180143,
-    "wof:lastmodified":1472621824,
+    "wof:lastmodified":1492099543,
     "wof:name":"Crystal Limited Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

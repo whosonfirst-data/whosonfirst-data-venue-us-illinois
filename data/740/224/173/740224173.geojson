@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.473663,41.88773,-88.473663,41.88773",
     "geom:latitude":41.88773,
     "geom:longitude":-88.473663,
@@ -34,7 +35,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.elburnlions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498355,
+        85633793,
+        85939765,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r3l4LtfpcaSVc4tvkJA8z_41.887730_-88.473663@1303262847"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952380,
     "wof:geomhash":"a09b6d42bf04ad3abd3c8490c1019d64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498355,
+            "locality_id":85939765,
+            "region_id":85688697,
+            "venue_id":740224173
+        }
+    ],
     "wof:id":740224173,
-    "wof:lastmodified":1472621912,
+    "wof:lastmodified":1492089606,
     "wof:name":"Elburn Lions Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

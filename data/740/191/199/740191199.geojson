@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94572,42.285527,-87.94572,42.285527",
     "geom:latitude":42.285527,
     "geom:longitude":-87.94572,
@@ -48,7 +49,10 @@
     ],
     "sg:website":"http://www.boilini.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UzeAlIRHjpI3jC7jHbafr_42.285527_-87.945720@1303262843"
@@ -56,9 +60,15 @@
     "wof:country":"US",
     "wof:created":1461951676,
     "wof:geomhash":"55c5abcfd9dba30e89268b2fbccfdf4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191199
+        }
+    ],
     "wof:id":740191199,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492105650,
     "wof:name":"Boilini Company, Inc.",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

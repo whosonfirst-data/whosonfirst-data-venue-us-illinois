@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.753448,41.920998,-88.753448,41.920998",
     "geom:latitude":41.920998,
     "geom:longitude":-88.753448,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=132311",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NaS7rktJ0COfVQKzdGSUL_41.920998_-88.753448@1303262847"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952322,
     "wof:geomhash":"b8db7041f31cedd62348a8dce82ddab4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221233
+        }
+    ],
     "wof:id":740221233,
-    "wof:lastmodified":1472621908,
+    "wof:lastmodified":1492110298,
     "wof:name":"State Farm Insurance Agent-Brian Scholle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

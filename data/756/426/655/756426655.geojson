@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905045,40.958996,-87.905045,40.958996",
     "geom:latitude":40.958996,
     "geom:longitude":-87.905045,
@@ -39,7 +40,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498179,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42OBdFGRCqenLOK6uLgwKD_40.958996_-87.905045@1303262910"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461962940,
     "wof:geomhash":"0c6a6c0eb77e55423615da6893cb90e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498179,
+            "region_id":85688697,
+            "venue_id":756426655
+        }
+    ],
     "wof:id":756426655,
-    "wof:lastmodified":1472622207,
+    "wof:lastmodified":1492104781,
     "wof:name":"Laura Ceramics Work Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.190498,41.860401,-88.190498,41.860401",
     "geom:latitude":41.860401,
     "geom:longitude":-88.190498,
@@ -31,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_485YbRJMXlTNPiFqYSuNMC_41.860401_-88.190498@1303262851"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953026,
     "wof:geomhash":"c5e76fe59f2a3203e076bd7bf1c7fcc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740253633
+        }
+    ],
     "wof:id":740253633,
-    "wof:lastmodified":1472621979,
+    "wof:lastmodified":1492108029,
     "wof:name":"Riverwood Apts Resource Center",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

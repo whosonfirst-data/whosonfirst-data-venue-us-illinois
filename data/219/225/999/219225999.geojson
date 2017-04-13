@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019065,41.519377,-88.019065,41.519377",
     "geom:latitude":41.519377,
     "geom:longitude":-88.019065,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85844569,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85844569
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"470b852e29767945657c9ee03f95cc11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85844569,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219225999,
-    "wof:lastmodified":1472620977,
+    "wof:lastmodified":1492096837,
     "wof:name":"Faber Brothers Painting",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",

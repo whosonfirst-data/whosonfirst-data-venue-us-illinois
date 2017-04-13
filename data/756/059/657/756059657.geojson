@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.080653,41.774841,-88.080653,41.774841",
     "geom:latitude":41.774841,
     "geom:longitude":-88.080653,
@@ -28,7 +29,10 @@
     "sg:postcode":"60532",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HVQsL9QTK5eisSvCYxfrv_41.774841_-88.080653@1303262861"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461954636,
     "wof:geomhash":"9146b24bd45e193441979564e8ee2c60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059657
+        }
+    ],
     "wof:id":756059657,
-    "wof:lastmodified":1472621294,
+    "wof:lastmodified":1492111932,
     "wof:name":"Four Lakes Ski Area",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

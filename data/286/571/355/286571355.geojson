@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.965994,42.082442,-87.965994,42.082442",
     "geom:latitude":42.082442,
     "geom:longitude":-87.965994,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ce4c1cf29e4b71d249b1762f478e7816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286571355,
-    "wof:lastmodified":1472621492,
+    "wof:lastmodified":1492098466,
     "wof:name":"Allwyn J Baptist",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

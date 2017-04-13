@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.766212,41.679625,-87.766212,41.679625",
     "geom:latitude":41.679625,
     "geom:longitude":-87.766212,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890893,
+        102191575,
+        404497667,
         85633793,
-        85940749,
         102084317,
-        85890893
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,17 @@
     "wof:geomhash":"186873f3aa431417a4accc31c28345b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940749,
+            "localadmin_id":404497667,
             "neighbourhood_id":85890893,
             "region_id":85688697,
             "venue_id":235998965
         }
     ],
     "wof:id":235998965,
-    "wof:lastmodified":1472620804,
+    "wof:lastmodified":1492096614,
     "wof:name":"Ba Da Bing Auto Body",
     "wof:parent_id":85890893,
     "wof:placetype":"venue",

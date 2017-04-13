@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.956644,41.409891,-87.956644,41.409891",
     "geom:latitude":41.409891,
     "geom:longitude":-87.956644,
@@ -32,7 +33,10 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GD6CTP4C6R4bETOI6DxWG_41.409891_-87.956644@1303262856"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"8644e6da8ce6a4edc38ff87cfa0523f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025753
+        }
+    ],
     "wof:id":756025753,
-    "wof:lastmodified":1472620879,
+    "wof:lastmodified":1492104538,
     "wof:name":"Treadway Racing Stable",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

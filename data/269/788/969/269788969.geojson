@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983761,41.878504,-87.983761,41.878504",
     "geom:latitude":41.878504,
     "geom:longitude":-87.983761,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890965,
+        102191575,
+        404497661,
         85633793,
-        85940149,
-        102081257
+        85940153,
+        102081257,
+        85688697,
+        85890961,
+        85940149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,30 @@
     "wof:geomhash":"dd36e8fc61866a6c97e6e42ba761ac2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
+            "locality_id":85940153,
+            "neighbourhood_id":85890965,
+            "region_id":85688697,
+            "venue_id":269788969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890961,
             "region_id":85688697,
             "venue_id":269788969
         }
     ],
     "wof:id":269788969,
-    "wof:lastmodified":1472621356,
+    "wof:lastmodified":1492100157,
     "wof:name":"B & G Home Improvements Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

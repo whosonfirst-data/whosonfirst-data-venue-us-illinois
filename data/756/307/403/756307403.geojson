@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.559097,41.633202,-87.559097,41.633202",
     "geom:latitude":41.633202,
     "geom:longitude":-87.559097,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.childlifeacademy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940889,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73nVP80DhOKgDLFDr6Di5e_41.633202_-87.559097@1303262893"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461960244,
     "wof:geomhash":"fae32058b8b44f21946cebc8f5eef7da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940889,
+            "region_id":85688697,
+            "venue_id":756307403
+        }
+    ],
     "wof:id":756307403,
-    "wof:lastmodified":1472622089,
+    "wof:lastmodified":1492107986,
     "wof:name":"Child Life Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

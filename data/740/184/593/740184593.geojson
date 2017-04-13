@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807606,42.087353,-87.807606,42.087353",
     "geom:latitude":42.087353,
     "geom:longitude":-87.807606,
@@ -28,7 +29,14 @@
     "sg:postcode":"60025",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TfNizFRpuDxHS39aTyJn8_42.087353_-87.807606@1303262842"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461951537,
     "wof:geomhash":"ef6536a2d9292934e57a13fa6d54f903",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184593
+        }
+    ],
     "wof:id":740184593,
-    "wof:lastmodified":1472621844,
+    "wof:lastmodified":1492089327,
     "wof:name":"Carnica Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

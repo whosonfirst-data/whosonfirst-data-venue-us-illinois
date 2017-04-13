@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.474952,41.607311,-88.474952,41.607311",
     "geom:latitude":41.607311,
     "geom:longitude":-88.474952,
@@ -28,7 +29,13 @@
     "sg:postcode":"60560",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tXCPwIPrF2oFinrvzPI3q_41.607311_-88.474952@1303262862"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954853,
     "wof:geomhash":"2fdd9580fc514cfa427a9fa0358f655b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "region_id":85688697,
+            "venue_id":756069217
+        }
+    ],
     "wof:id":756069217,
-    "wof:lastmodified":1472621372,
+    "wof:lastmodified":1492104122,
     "wof:name":"Baughman Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

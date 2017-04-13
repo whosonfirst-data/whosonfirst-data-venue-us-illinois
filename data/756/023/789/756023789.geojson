@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.999769,41.655997,-87.999769,41.655997",
     "geom:latitude":41.655997,
     "geom:longitude":-87.999769,
@@ -28,7 +29,14 @@
     "sg:postcode":"60439",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53XPR7CEMTUNqQ2lPTk4f6_41.655997_-87.999769@1303262856"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953882,
     "wof:geomhash":"79e53cefd797c48d07e3dc2cf302f94d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023789
+        }
+    ],
     "wof:id":756023789,
-    "wof:lastmodified":1472620789,
+    "wof:lastmodified":1492097094,
     "wof:name":"Lee Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

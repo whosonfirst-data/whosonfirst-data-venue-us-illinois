@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.776601,42.040996,-87.776601,42.040996",
     "geom:latitude":42.040996,
     "geom:longitude":-87.776601,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
+        85940943,
         102084317,
-        85856393
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"7c36cd0ee326f5d99dba7c6f59c932f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":287056951
         }
     ],
     "wof:id":287056951,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492091500,
     "wof:name":"Willow Tree House",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",

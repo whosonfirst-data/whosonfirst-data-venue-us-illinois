@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047833,41.789518,-88.047833,41.789518",
     "geom:latitude":41.789518,
     "geom:longitude":-88.047833,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805589,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85805589
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"978185a1838ec5879061fc7a836488d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85805589,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236011291,
-    "wof:lastmodified":1472620750,
+    "wof:lastmodified":1492090716,
     "wof:name":"Accurate Concrete and Excav Co",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",

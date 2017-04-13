@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.700106,42.019386,-87.700106,42.019386",
     "geom:latitude":42.019386,
     "geom:longitude":-87.700106,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497621,
         85633793,
-        85940195,
-        102084317,
-        85867811
+        85940857,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"d634a3a9e1d069ab6cdda0c6e6d53283",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85867811,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "region_id":85688697,
             "venue_id":337476671
         }
     ],
     "wof:id":337476671,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492092262,
     "wof:name":"Akkad Cleaners",
-    "wof:parent_id":85867811,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

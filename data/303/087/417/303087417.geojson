@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.117058,41.522786,-88.117058,41.522786",
     "geom:latitude":41.522786,
     "geom:longitude":-88.117058,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"33104aeeae1bab7763099dd5fa1b4631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":303087417,
-    "wof:lastmodified":1472620865,
+    "wof:lastmodified":1492091458,
     "wof:name":"Gregg Lincoln Mercury",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

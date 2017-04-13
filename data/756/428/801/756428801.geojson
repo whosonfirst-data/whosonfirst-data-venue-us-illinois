@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.844341,42.260411,-88.844341,42.260411",
     "geom:latitude":42.260411,
     "geom:longitude":-88.844341,
@@ -48,7 +49,14 @@
     ],
     "sg:website":"http://www.themasonic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bQMi6svbdfazAcYC4boqz_42.260411_-88.844341@1303262910"
@@ -56,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1461962980,
     "wof:geomhash":"941d2077cc276898335cf4e76bddb14e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":756428801
+        }
+    ],
     "wof:id":756428801,
-    "wof:lastmodified":1472622211,
+    "wof:lastmodified":1492088233,
     "wof:name":"Temple Masonic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

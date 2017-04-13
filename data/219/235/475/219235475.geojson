@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.885054,42.359368,-87.885054,42.359368",
     "geom:latitude":42.359368,
     "geom:longitude":-87.885054,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850431,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85850431
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"20362266108bc719a1d731317b483067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85850431,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219235475,
-    "wof:lastmodified":1472620992,
+    "wof:lastmodified":1492092913,
     "wof:name":"Sunny Paving",
     "wof:parent_id":85850431,
     "wof:placetype":"venue",

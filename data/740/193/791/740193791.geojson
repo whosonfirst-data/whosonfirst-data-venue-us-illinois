@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.882558,42.13847,-87.882558,42.13847",
     "geom:latitude":42.13847,
     "geom:longitude":-87.882558,
@@ -53,7 +54,14 @@
     ],
     "sg:website":"http://chicago.citysearch.com/profile/external/39044072/northbrook_il/curves.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23My3Cd084hEMjmpY4Ijo2_42.138470_-87.882558@1303262843"
@@ -61,9 +69,19 @@
     "wof:country":"US",
     "wof:created":1461951725,
     "wof:geomhash":"658b87ad8da467adfd302f75b27989fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740193791
+        }
+    ],
     "wof:id":740193791,
-    "wof:lastmodified":1472621888,
+    "wof:lastmodified":1492088632,
     "wof:name":"Curves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687079,41.552072,-87.687079,41.552072",
     "geom:latitude":41.552072,
     "geom:longitude":-87.687079,
@@ -38,7 +39,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940817,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k5ItLwE7Cowl8jkyk3qP5_41.552072_-87.687079@1303262855"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953757,
     "wof:geomhash":"8d48335147b1965e4dd1ee31b0fd1b0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940817,
+            "region_id":85688697,
+            "venue_id":740289017
+        }
+    ],
     "wof:id":740289017,
-    "wof:lastmodified":1472622001,
+    "wof:lastmodified":1492104292,
     "wof:name":"Fairview Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

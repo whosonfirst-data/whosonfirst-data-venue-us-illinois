@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.36103,41.05142,-88.36103,41.05142",
     "geom:latitude":41.05142,
     "geom:longitude":-88.36103,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VzuaUp8WzBNaayyvYDv7R_41.051420_-88.361030@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949924,
     "wof:geomhash":"e7b55776d149c86e1899e59f70a5076f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "region_id":85688697,
+            "venue_id":740114311
+        }
+    ],
     "wof:id":740114311,
-    "wof:lastmodified":1472621259,
+    "wof:lastmodified":1492088817,
     "wof:name":"Edward Oneill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

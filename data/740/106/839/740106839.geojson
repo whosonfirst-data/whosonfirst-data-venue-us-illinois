@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.326212,41.037372,-88.326212,41.037372",
     "geom:latitude":41.037372,
     "geom:longitude":-88.326212,
@@ -27,7 +28,13 @@
         "farmer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498005,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pzO5QWdLr0KwDllnvUwan_41.037372_-88.326212@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949758,
     "wof:geomhash":"54760a74340db2983600bde992453d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404498005,
+            "region_id":85688697,
+            "venue_id":740106839
+        }
+    ],
     "wof:id":740106839,
-    "wof:lastmodified":1472621151,
+    "wof:lastmodified":1492089780,
     "wof:name":"Brady Farm Account",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

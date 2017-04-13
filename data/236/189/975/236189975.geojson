@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.024781,42.494046,-88.024781,42.494046",
     "geom:latitude":42.494046,
     "geom:longitude":-88.024781,
@@ -34,8 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420550001,
+        102191575,
+        404493391,
         85633793,
-        85688697
+        101732581,
+        102081309,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,20 @@
     "wof:geomhash":"4ba36955d74a21a15abd30d0d2098ade",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "neighbourhood_id":420550001,
+            "region_id":85688517,
             "venue_id":236189975
         }
     ],
     "wof:id":236189975,
-    "wof:lastmodified":1472621291,
+    "wof:lastmodified":1492096715,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

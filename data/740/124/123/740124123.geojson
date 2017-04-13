@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.942563,40.826121,-87.942563,40.826121",
     "geom:latitude":40.826121,
     "geom:longitude":-87.942563,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498183,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K7jBMHjbv1VppbToAynXG_40.826121_-87.942563@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950175,
     "wof:geomhash":"c52980f1641ce341b31a0c1d6939f1b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498183,
+            "region_id":85688697,
+            "venue_id":740124123
+        }
+    ],
     "wof:id":740124123,
-    "wof:lastmodified":1472621350,
+    "wof:lastmodified":1492089552,
     "wof:name":"Jon Goldenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

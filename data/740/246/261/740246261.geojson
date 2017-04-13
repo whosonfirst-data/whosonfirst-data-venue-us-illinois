@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.849899,41.902901,-87.849899,41.902901",
     "geom:latitude":41.902901,
     "geom:longitude":-87.849899,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.skinperfecta.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940785,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C4ZBMPAXaIY1dnAWw2nCi_41.902901_-87.849899@1303262850"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952875,
     "wof:geomhash":"e92fbf7d592921c7a1de77b079618595",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940785,
+            "region_id":85688697,
+            "venue_id":740246261
+        }
+    ],
     "wof:id":740246261,
-    "wof:lastmodified":1472621958,
+    "wof:lastmodified":1492100821,
     "wof:name":"La Piel Perfecta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

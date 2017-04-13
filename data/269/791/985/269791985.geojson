@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.864546,41.992823,-87.864546,41.992823",
     "geom:latitude":41.992823,
     "geom:longitude":-87.864546,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940743,
-        102084317,
-        85809035
+        85940947,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"ff6c66442ec892ed2d578d0bf52c3216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85809035,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
             "region_id":85688697,
             "venue_id":269791985
         }
     ],
     "wof:id":269791985,
-    "wof:lastmodified":1472621358,
+    "wof:lastmodified":1491896949,
     "wof:name":"Wireless Express",
-    "wof:parent_id":85809035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

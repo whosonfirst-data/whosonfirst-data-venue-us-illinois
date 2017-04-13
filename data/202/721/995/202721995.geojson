@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.990206,42.300921,-87.990206,42.300921",
     "geom:latitude":42.300921,
     "geom:longitude":-87.990206,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
+        85938331,
         102086215,
-        85890821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"cb50bd1cd6f8e7788685e2335e312e72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
             "neighbourhood_id":85890821,
             "region_id":85688697,
             "venue_id":202721995
         }
     ],
     "wof:id":202721995,
-    "wof:lastmodified":1472621241,
+    "wof:lastmodified":1492090159,
     "wof:name":"Vs Charter Service Ltd",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",

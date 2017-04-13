@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.67425,41.503316,-87.67425,41.503316",
     "geom:latitude":41.503316,
     "geom:longitude":-87.67425,
@@ -33,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940881,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CHoyKNbVJXolMTgeCsV3w_41.503316_-87.674250@1299784598"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950866,
     "wof:geomhash":"0de1b6363e8c193db95144dd503b48f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940881,
+            "region_id":85688697,
+            "venue_id":740154963
+        }
+    ],
     "wof:id":740154963,
-    "wof:lastmodified":1472621770,
+    "wof:lastmodified":1492102379,
     "wof:name":"Aurelio's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

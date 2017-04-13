@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.329468,41.722796,-88.329468,41.722796",
     "geom:latitude":41.722796,
     "geom:longitude":-88.329468,
@@ -32,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85939797,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uB6aE2PYsq7cZkcqCDDxg_41.722796_-88.329468@1303262861"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954667,
     "wof:geomhash":"3e3537a5dacd96f40099def8c3437b36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85939797,
+            "region_id":85688697,
+            "venue_id":756061421
+        }
+    ],
     "wof:id":756061421,
-    "wof:lastmodified":1472621344,
+    "wof:lastmodified":1492095455,
     "wof:name":"Premier Interior Demolition Ll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

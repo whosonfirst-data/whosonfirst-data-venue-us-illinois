@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.979603,41.49731,-87.979603,41.49731",
     "geom:latitude":41.49731,
     "geom:longitude":-87.979603,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850979,
+        102191575,
+        404499217,
         85633793,
         85940543,
         102080845,
-        85850979
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b3f93a648e8cb2a3b2bfe038c5983694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499217,
             "locality_id":85940543,
             "neighbourhood_id":85850979,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236929595,
-    "wof:lastmodified":1472621788,
+    "wof:lastmodified":1492093476,
     "wof:name":"Blue Ice Designs",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",

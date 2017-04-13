@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.568497,41.571346,-87.568497,41.571346",
     "geom:latitude":41.571346,
     "geom:longitude":-87.568497,
@@ -36,7 +37,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jYaDhRUbOcH83HVUMVCvu_41.571346_-87.568497@1303262856"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461953858,
     "wof:geomhash":"5b6e7c2bc972917ec4792dd184d8eaa3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740293707
+        }
+    ],
     "wof:id":740293707,
-    "wof:lastmodified":1472622031,
+    "wof:lastmodified":1492088405,
     "wof:name":"Stay Green Quality Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

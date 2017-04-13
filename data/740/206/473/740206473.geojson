@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.786751,42.109329,-87.786751,42.109329",
     "geom:latitude":42.109329,
     "geom:longitude":-87.786751,
@@ -33,7 +34,14 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940767,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZbccTKSvlNbAZy8voxv6L_42.109329_-87.786751@1303262845"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461951985,
     "wof:geomhash":"bbb1490fa3b2bd9aa4c4c42cf7f00304",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940767,
+            "region_id":85688697,
+            "venue_id":740206473
+        }
+    ],
     "wof:id":740206473,
-    "wof:lastmodified":1472621889,
+    "wof:lastmodified":1492099549,
     "wof:name":"Watson Morton Public Relations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

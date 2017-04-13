@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.072574,41.540794,-88.072574,41.540794",
     "geom:latitude":41.540794,
     "geom:longitude":-88.072574,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"563d7c92c944fcf8c5b7971ab7f66557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236825401,
-    "wof:lastmodified":1472621772,
+    "wof:lastmodified":1492104692,
     "wof:name":"Nucor Corporation",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

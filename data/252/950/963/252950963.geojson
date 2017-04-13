@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.856694,41.863891,-87.856694,41.863891",
     "geom:latitude":41.863891,
     "geom:longitude":-87.856694,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518729,
+        102191575,
+        404497579,
         85633793,
         85940895,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:brand_id":420573759,
     "wof:breaches":[],
@@ -47,19 +51,20 @@
     "wof:geomhash":"9f82f869bf658c42298179f88413a3ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518729,
             "region_id":85688697,
             "venue_id":252950963
         }
     ],
     "wof:id":252950963,
-    "wof:lastmodified":1472621131,
+    "wof:lastmodified":1492100938,
     "wof:name":"H & R Block Tax Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

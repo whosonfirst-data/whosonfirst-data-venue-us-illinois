@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.862168,41.586722,-88.862168,41.586722",
     "geom:latitude":41.586722,
     "geom:longitude":-88.862168,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496581,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jB2WJgQsj6DZ0KJICbvca_41.586722_-88.862168@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950506,
     "wof:geomhash":"6405e58a7fcbb1d9583bdc8ffdcc76c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404496581,
+            "region_id":85688697,
+            "venue_id":740137411
+        }
+    ],
     "wof:id":740137411,
-    "wof:lastmodified":1472621565,
+    "wof:lastmodified":1492088573,
     "wof:name":"Larry Bokoski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

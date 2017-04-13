@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.756374,41.613925,-87.756374,41.613925",
     "geom:latitude":41.613925,
     "geom:longitude":-87.756374,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,17 @@
     "wof:geomhash":"2d05120af3e9456e99b7d883230e7b69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":253365749
         }
     ],
     "wof:id":253365749,
-    "wof:lastmodified":1472621462,
+    "wof:lastmodified":1492088096,
     "wof:name":"Oak Forest High School",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.939301,41.882053,-87.939301,41.882053",
     "geom:latitude":41.882053,
     "geom:longitude":-87.939301,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890781,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890781
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"bc3fea9f6170aca413753ca99a2d78fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890781,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236202319,
-    "wof:lastmodified":1472621308,
+    "wof:lastmodified":1492093588,
     "wof:name":"Sukowicz Doorneweerd Co",
     "wof:parent_id":85890781,
     "wof:placetype":"venue",

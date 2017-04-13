@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068573,41.768581,-88.068573,41.768581",
     "geom:latitude":41.768581,
     "geom:longitude":-88.068573,
@@ -29,7 +30,10 @@
     "sg:province":"IL",
     "sg:website":"http://www.cinemark.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nknCzZtwLr5O5rHoOVCyc_41.768581_-88.068573@1303262860"
@@ -37,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461954554,
     "wof:geomhash":"fb664be7ee9d69dff3de4dc2542395c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055579
+        }
+    ],
     "wof:id":756055579,
-    "wof:lastmodified":1472621160,
+    "wof:lastmodified":1492106009,
     "wof:name":"Cinemark Theatres - IMAX Theatre",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

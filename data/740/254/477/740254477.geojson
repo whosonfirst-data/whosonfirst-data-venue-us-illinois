@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.194877,41.869952,-88.194877,41.869952",
     "geom:latitude":41.869952,
     "geom:longitude":-88.194877,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"genespizzanow.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kQHgltSiIqDLAf4hhPUyT_41.869952_-88.194877@1303262851"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953041,
     "wof:geomhash":"f66847ae4fd397f95363f0265dd03265",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518999,
+            "venue_id":740254477
+        }
+    ],
     "wof:id":740254477,
-    "wof:lastmodified":1472621980,
+    "wof:lastmodified":1492104881,
     "wof:name":"Pizza Now",
     "wof:parent_id":420518999,
     "wof:placetype":"venue",

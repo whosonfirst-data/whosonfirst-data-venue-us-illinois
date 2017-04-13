@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.252251,42.078152,-88.252251,42.078152",
     "geom:latitude":42.078152,
     "geom:longitude":-88.252251,
@@ -31,7 +32,13 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498221,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dGrLNlxWBfW3fm0RaL8FX_42.078152_-88.252251@1303262847"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461952351,
     "wof:geomhash":"1ae609de21524c95efdc7b3f7c1d3d2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498221,
+            "region_id":85688697,
+            "venue_id":740222713
+        }
+    ],
     "wof:id":740222713,
-    "wof:lastmodified":1472621929,
+    "wof:lastmodified":1492089687,
     "wof:name":"Earlys Carpet & Floor Coverings, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

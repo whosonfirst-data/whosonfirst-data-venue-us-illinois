@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019852,41.647888,-88.019852,41.647888",
     "geom:latitude":41.647888,
     "geom:longitude":-88.019852,
@@ -31,7 +32,13 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L18FUc6pjP4kHNyNxwlLl_41.647888_-88.019852@1303262856"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461953886,
     "wof:geomhash":"fc726d7009e6e591def4d738b9e8e8df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "region_id":85688697,
+            "venue_id":756023943
+        }
+    ],
     "wof:id":756023943,
-    "wof:lastmodified":1472620799,
+    "wof:lastmodified":1492097869,
     "wof:name":"Split Second Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

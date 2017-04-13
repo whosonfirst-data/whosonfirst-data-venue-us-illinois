@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.940153,41.987441,-87.940153,41.987441",
     "geom:latitude":41.987441,
     "geom:longitude":-87.940153,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518939,
+        102191575,
+        404497761,
         85633793,
-        85940193,
-        102084317
+        85940201,
+        102081257,
+        85688697
     ],
     "wof:brand_id":420574227,
     "wof:breaches":[],
@@ -46,19 +50,20 @@
     "wof:geomhash":"180394c0ff5b525f801e7293684197c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85940193,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940201,
+            "neighbourhood_id":420518939,
             "region_id":85688697,
             "venue_id":269960901
         }
     ],
     "wof:id":269960901,
-    "wof:lastmodified":1472621446,
+    "wof:lastmodified":1492091835,
     "wof:name":"Fastenal Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902932,42.401185,-87.902932,42.401185",
     "geom:latitude":42.401185,
     "geom:longitude":-87.902932,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867879,
+        102191575,
+        404498373,
         85633793,
         85938389,
         102086215,
-        85867879
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"07854ac195e63d434f19e2d339a3e7d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498373,
             "locality_id":85938389,
             "neighbourhood_id":85867879,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286492863,
-    "wof:lastmodified":1472621347,
+    "wof:lastmodified":1492104850,
     "wof:name":"Kasper Old Wood Working LTD",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",

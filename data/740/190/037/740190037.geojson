@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951181,42.273095,-87.951181,42.273095",
     "geom:latitude":42.273095,
     "geom:longitude":-87.951181,
@@ -33,7 +34,10 @@
     "sg:postcode":"60048",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y2Y0hCv9qRnHrGocK9Xum_42.273095_-87.951181@1303262842"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461951649,
     "wof:geomhash":"e2ccf81238546d40ea5371ba849aa05d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190037
+        }
+    ],
     "wof:id":740190037,
-    "wof:lastmodified":1472621854,
+    "wof:lastmodified":1492100742,
     "wof:name":"Pine Spa",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

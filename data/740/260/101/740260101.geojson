@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.123848,41.90543,-88.123848,41.90543",
     "geom:latitude":41.90543,
     "geom:longitude":-88.123848,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.joecottonford.com/site/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dRhPqkF67f3VhnqPTWarm_41.905430_-88.123848@1303262852"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953155,
     "wof:geomhash":"8785e7aaace60be5550a28cce8838f69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740260101
+        }
+    ],
     "wof:id":740260101,
-    "wof:lastmodified":1472621972,
+    "wof:lastmodified":1492093382,
     "wof:name":"Joe Cotton Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

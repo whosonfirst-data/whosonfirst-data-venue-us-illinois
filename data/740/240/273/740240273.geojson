@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.03429,41.90405,-88.03429,41.90405",
     "geom:latitude":41.90405,
     "geom:longitude":-88.03429,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.alphamortgagecorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497661,
+        85633793,
+        85940153,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6csvfFzEdY5uAPvedddaJe_41.904050_-88.034290@1303262849"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952750,
     "wof:geomhash":"119c669ef0d8f039e1ff22acdb306adc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497661,
+            "locality_id":85940153,
+            "region_id":85688697,
+            "venue_id":740240273
+        }
+    ],
     "wof:id":740240273,
-    "wof:lastmodified":1472621932,
+    "wof:lastmodified":1492093040,
     "wof:name":"Alpha Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

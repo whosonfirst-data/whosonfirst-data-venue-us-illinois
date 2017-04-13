@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.053637,41.859412,-88.053637,41.859412",
     "geom:latitude":41.859412,
     "geom:longitude":-88.053637,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85819667,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85819667
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"084960c59e839416ad32e533cd458672",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85819667,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219779553,
-    "wof:lastmodified":1472621571,
+    "wof:lastmodified":1492089802,
     "wof:name":"Street Scape Architechture LLC",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",

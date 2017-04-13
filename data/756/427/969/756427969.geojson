@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.576115,40.776644,-87.576115,40.776644",
     "geom:latitude":40.776644,
     "geom:longitude":-87.576115,
@@ -37,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496471,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yn0uL1geAo1NSGN4dRnkI_40.776644_-87.576115@1303262910"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461962965,
     "wof:geomhash":"500813cfaf02f1e88aab0dccb676d155",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404496471,
+            "region_id":85688697,
+            "venue_id":756427969
+        }
+    ],
     "wof:id":756427969,
-    "wof:lastmodified":1472622211,
+    "wof:lastmodified":1492088795,
     "wof:name":"Edwin Norder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

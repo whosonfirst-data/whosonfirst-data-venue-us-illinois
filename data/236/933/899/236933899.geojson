@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873768,42.370285,-87.873768,42.370285",
     "geom:latitude":42.370285,
     "geom:longitude":-87.873768,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850431,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85850431
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"57f27922bf05b5c896b0e6b79d8eb254",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85850431,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236933899,
-    "wof:lastmodified":1472621790,
+    "wof:lastmodified":1492097243,
     "wof:name":"King's Home Furnishings Inc",
     "wof:parent_id":85850431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865787,42.120687,-87.865787,42.120687",
     "geom:latitude":42.120687,
     "geom:longitude":-87.865787,
@@ -40,7 +41,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518733,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iYF8heTUadXeXcme7DkoM_42.120687_-87.865787@1303262843"
@@ -48,9 +57,20 @@
     "wof:country":"US",
     "wof:created":1461951753,
     "wof:geomhash":"996127a0b73c2090b947240c93644566",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":420518733,
+            "region_id":85688697,
+            "venue_id":740195245
+        }
+    ],
     "wof:id":740195245,
-    "wof:lastmodified":1472621868,
+    "wof:lastmodified":1492091537,
     "wof:name":"Dcv Communications Inc",
     "wof:parent_id":420518733,
     "wof:placetype":"venue",

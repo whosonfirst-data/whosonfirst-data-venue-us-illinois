@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.617104,41.601453,-87.617104,41.601453",
     "geom:latitude":41.601453,
     "geom:longitude":-87.617104,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518769,
+        102191575,
+        404497591,
         85633793,
         85940935,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:brand_id":420574467,
     "wof:breaches":[],
@@ -47,19 +51,20 @@
     "wof:geomhash":"c3f75d8be31689fd728b766368fb8e95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940935,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518769,
             "region_id":85688697,
             "venue_id":236630959
         }
     ],
     "wof:id":236630959,
-    "wof:lastmodified":1472621738,
+    "wof:lastmodified":1492102667,
     "wof:name":"Edward Jones Investments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

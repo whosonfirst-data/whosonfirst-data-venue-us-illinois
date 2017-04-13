@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860738,42.195884,-87.860738,42.195884",
     "geom:latitude":42.195884,
     "geom:longitude":-87.860738,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825293,
+        102191575,
+        404498365,
         85633793,
         85938371,
         102086215,
-        85825293
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3610566cfea0d200708b6b4ba0161c7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498365,
             "locality_id":85938371,
             "neighbourhood_id":85825293,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":270158833,
-    "wof:lastmodified":1472621166,
+    "wof:lastmodified":1492093001,
     "wof:name":"Katz Goldstein & Warren",
     "wof:parent_id":85825293,
     "wof:placetype":"venue",

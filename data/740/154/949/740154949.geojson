@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.674253,41.503452,-87.674253,41.503452",
     "geom:latitude":41.503452,
     "geom:longitude":-87.674253,
@@ -32,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940881,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RrIQvhpnc5FjQ81CdXDp7_41.503452_-87.674253@1299784598"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950866,
     "wof:geomhash":"8a2129f3f5f3416531f5c66eec3dbd63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940881,
+            "region_id":85688697,
+            "venue_id":740154949
+        }
+    ],
     "wof:id":740154949,
-    "wof:lastmodified":1472621771,
+    "wof:lastmodified":1492091468,
     "wof:name":"Harold's Chicken Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

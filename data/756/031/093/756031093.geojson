@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.405545,41.386498,-88.405545,41.386498",
     "geom:latitude":41.386498,
     "geom:longitude":-88.405545,
@@ -41,11 +42,13 @@
     "sg:website":"http://www.bannerbeer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,10 @@
     "wof:geomhash":"aeba1ab25f8f8e4895a01ae2e7376b1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":756031093,
-    "wof:lastmodified":1472620824,
+    "wof:lastmodified":1492093573,
     "wof:name":"Banner Equip. Co. Inc.",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

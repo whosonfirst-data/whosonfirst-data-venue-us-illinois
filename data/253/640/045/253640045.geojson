@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.833882,42.225888,-87.833882,42.225888",
     "geom:latitude":42.225888,
     "geom:longitude":-87.833882,
@@ -29,10 +30,16 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825293,
+        102191575,
+        404498365,
         85633793,
-        85938355,
-        102086215
+        85938371,
+        102086215,
+        85688697,
+        85867883,
+        404498369,
+        85938355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,30 @@
     "wof:geomhash":"8e158d1a75699d57a2c27a95a53122f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498365,
+            "locality_id":85938371,
+            "neighbourhood_id":85825293,
+            "region_id":85688697,
+            "venue_id":253640045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867883,
             "region_id":85688697,
             "venue_id":253640045
         }
     ],
     "wof:id":253640045,
-    "wof:lastmodified":1472621651,
+    "wof:lastmodified":1492088256,
     "wof:name":"Intercontinental Transpla",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

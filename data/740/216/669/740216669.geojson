@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.110717,41.939788,-88.110717,41.939788",
     "geom:latitude":41.939788,
     "geom:longitude":-88.110717,
@@ -31,7 +32,14 @@
         "legislator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7grqtFyMkOViV7dRIQa8S4_41.939788_-88.110717@1303262846"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952227,
     "wof:geomhash":"d5b18a1bb0a4a8fc17d695d36fd775fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740216669
+        }
+    ],
     "wof:id":740216669,
-    "wof:lastmodified":1472621944,
+    "wof:lastmodified":1492099290,
     "wof:name":"Senate, Illinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

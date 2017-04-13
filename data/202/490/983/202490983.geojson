@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.973205,42.080036,-87.973205,42.080036",
     "geom:latitude":42.080036,
     "geom:longitude":-87.973205,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"54b443028ae65e45257a29d3b8c5d8e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202490983,
-    "wof:lastmodified":1472621010,
+    "wof:lastmodified":1492104384,
     "wof:name":"Law Office of Frank Zangara",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.814131,41.854934,-87.814131,41.854934",
     "geom:latitude":41.854934,
     "geom:longitude":-87.814131,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890731,
+        102191575,
+        404497585,
         85633793,
-        85940849,
+        85940763,
         102084317,
-        85890731
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"07c427d50db30c8e73a6a66816211042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497585,
+            "locality_id":85940763,
             "neighbourhood_id":85890731,
             "region_id":85688697,
             "venue_id":203195041
         }
     ],
     "wof:id":203195041,
-    "wof:lastmodified":1472621097,
+    "wof:lastmodified":1492095435,
     "wof:name":"Structurl Iron Workrs Locl 1 B",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",

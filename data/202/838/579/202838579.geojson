@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.010428,42.310938,-88.010428,42.310938",
     "geom:latitude":42.310938,
     "geom:longitude":-88.010428,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
+        85938331,
         102086215,
-        85890821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"ba43b106d74a2da67a556f45074cd1ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
             "neighbourhood_id":85890821,
             "region_id":85688697,
             "venue_id":202838579
         }
     ],
     "wof:id":202838579,
-    "wof:lastmodified":1472621279,
+    "wof:lastmodified":1492089025,
     "wof:name":"Talon Steel Fabricators",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",

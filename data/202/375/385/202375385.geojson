@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.101799,42.216375,-88.101799,42.216375",
     "geom:latitude":42.216375,
     "geom:longitude":-88.101799,
@@ -34,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867863,
+        102191575,
+        404498459,
         85633793,
         85938373,
-        102086215
+        102086215,
+        85688697,
+        420519135,
+        420519129,
+        85938343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +54,40 @@
     "wof:geomhash":"f480c4e60274a056ecbc06383f2f942a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938373,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867863,
+            "region_id":85688697,
+            "venue_id":202375385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938373,
+            "neighbourhood_id":420519135,
+            "region_id":85688697,
+            "venue_id":202375385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
+            "neighbourhood_id":420519129,
             "region_id":85688697,
             "venue_id":202375385
         }
     ],
     "wof:id":202375385,
-    "wof:lastmodified":1472620737,
+    "wof:lastmodified":1492104964,
     "wof:name":"Zurich Custom Homes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

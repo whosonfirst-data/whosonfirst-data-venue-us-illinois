@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983625,41.904638,-87.983625,41.904638",
     "geom:latitude":41.904638,
     "geom:longitude":-87.983625,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85849367,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85849367
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b53421f8e91b71f1e09a7d6cc7509cfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85849367,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236859241,
-    "wof:lastmodified":1472621771,
+    "wof:lastmodified":1492111734,
     "wof:name":"Impressive Construction Inc",
     "wof:parent_id":85849367,
     "wof:placetype":"venue",

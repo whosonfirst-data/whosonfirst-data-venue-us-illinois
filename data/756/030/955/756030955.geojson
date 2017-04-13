@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.721588,41.425098,-87.721588,41.425098",
     "geom:latitude":41.425098,
     "geom:longitude":-87.721588,
@@ -41,7 +42,14 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kQsvahVwKnFepAyQ0wSEP_41.425098_-87.721588@1303262857"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461954034,
     "wof:geomhash":"0d11d1a93e4c35579fb78e13d51b0556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030955
+        }
+    ],
     "wof:id":756030955,
-    "wof:lastmodified":1472620877,
+    "wof:lastmodified":1492089764,
     "wof:name":"Bismark Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

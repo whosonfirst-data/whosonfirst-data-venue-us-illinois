@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.30396,41.833129,-88.30396,41.833129",
     "geom:latitude":41.833129,
     "geom:longitude":-88.30396,
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"76a8bcbcb7189be659595e7f9528ae5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":202766019,
-    "wof:lastmodified":1472621241,
+    "wof:lastmodified":1492090418,
     "wof:name":"Laboratory Media Corporation",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.787773,41.424736,-87.787773,41.424736",
     "geom:latitude":41.424736,
     "geom:longitude":-87.787773,
@@ -28,7 +29,13 @@
     "sg:postcode":"60449",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499137,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VWGq1VHDjP69ONFlWkqhb_41.424736_-87.787773@1303262857"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954035,
     "wof:geomhash":"8a19be1c98e625012ea19315548cd2d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499137,
+            "region_id":85688697,
+            "venue_id":756030981
+        }
+    ],
     "wof:id":756030981,
-    "wof:lastmodified":1472620877,
+    "wof:lastmodified":1492097409,
     "wof:name":"Prime Cut Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

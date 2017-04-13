@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.072197,41.981899,-88.072197,41.981899",
     "geom:latitude":41.981899,
     "geom:longitude":-88.072197,
@@ -36,7 +37,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S8EMPng30RWSuwCIemk13_41.981899_-88.072197@1303262850"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461952949,
     "wof:geomhash":"6aa4f63ff02eedcef51cfd44a8a04c50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249941
+        }
+    ],
     "wof:id":740249941,
-    "wof:lastmodified":1472621983,
+    "wof:lastmodified":1492093352,
     "wof:name":"Cornucopia Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

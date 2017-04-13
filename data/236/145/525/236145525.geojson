@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.69211,42.044748,-87.69211,42.044748",
     "geom:latitude":42.044748,
     "geom:longitude":-87.69211,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890803,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890791,
-        85890803
+        85688697,
+        85890791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +51,30 @@
     "wof:geomhash":"308cabcfbc3109dc99437f3a9fb2f217",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
-            "neighbourhood_id":85890791,
+            "neighbourhood_id":85890803,
             "region_id":85688697,
             "venue_id":236145525
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
-            "neighbourhood_id":85890803,
+            "neighbourhood_id":85890791,
             "region_id":85688697,
             "venue_id":236145525
         }
     ],
     "wof:id":236145525,
-    "wof:lastmodified":1472621170,
+    "wof:lastmodified":1491910751,
     "wof:name":"Command Technology Ctr Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

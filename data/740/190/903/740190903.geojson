@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947215,42.282494,-87.947215,42.282494",
     "geom:latitude":42.282494,
     "geom:longitude":-87.947215,
@@ -22,7 +23,10 @@
     "sg:postcode":"60048",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49U1YmbihllQaXYxcNCy4Z_42.282494_-87.947215@1303262843"
@@ -30,9 +34,15 @@
     "wof:country":"US",
     "wof:created":1461951665,
     "wof:geomhash":"fc6a7a4aee0b3a5a61ef756dd8b4db17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190903
+        }
+    ],
     "wof:id":740190903,
-    "wof:lastmodified":1472621871,
+    "wof:lastmodified":1492088945,
     "wof:name":"Karen's Hair Design",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

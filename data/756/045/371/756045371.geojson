@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.5858,41.5994,-87.5858,41.5994",
     "geom:latitude":41.5994,
     "geom:longitude":-87.5858,
@@ -37,7 +38,14 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940935,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kBKrBQc8fIJC5W05Mg8z6_41.599400_-87.585800@1303262859"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954348,
     "wof:geomhash":"595524aaf5c7f8ed7e1d859ad0deea1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "region_id":85688697,
+            "venue_id":756045371
+        }
+    ],
     "wof:id":756045371,
-    "wof:lastmodified":1472621156,
+    "wof:lastmodified":1492098362,
     "wof:name":"Schlesinger Susana J PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

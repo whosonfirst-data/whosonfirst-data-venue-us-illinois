@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.883229,42.376756,-87.883229,42.376756",
     "geom:latitude":42.376756,
     "geom:longitude":-87.883229,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867879,
+        102191575,
+        404498373,
         85633793,
         85938389,
         102086215,
-        85867879
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"8a7f98eab2ddbcb1280bb363c64ee4b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498373,
             "locality_id":85938389,
             "neighbourhood_id":85867879,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219958611,
-    "wof:lastmodified":1472621629,
+    "wof:lastmodified":1492090965,
     "wof:name":"J & J Cleaners",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",

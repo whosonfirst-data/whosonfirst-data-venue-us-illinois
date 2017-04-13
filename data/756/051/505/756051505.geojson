@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.292499,41.759132,-88.292499,41.759132",
     "geom:latitude":41.759132,
     "geom:longitude":-88.292499,
@@ -37,7 +38,14 @@
         "arcade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X11yN9KAG9mrYbzYegDff_41.759132_-88.292499@1303262860"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954470,
     "wof:geomhash":"a6c93638fd119876e0625b617f47ca70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756051505
+        }
+    ],
     "wof:id":756051505,
-    "wof:lastmodified":1472621160,
+    "wof:lastmodified":1492089838,
     "wof:name":"Tip Cu Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

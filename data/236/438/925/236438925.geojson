@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078471,41.505649,-88.078471,41.505649",
     "geom:latitude":41.505649,
     "geom:longitude":-88.078471,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"7717da15b304094e79368446d3acbacd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":236438925,
-    "wof:lastmodified":1472621671,
+    "wof:lastmodified":1492093209,
     "wof:name":"Ad Viking Sports",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

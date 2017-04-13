@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.763414,42.024587,-87.763414,42.024587",
     "geom:latitude":42.024587,
     "geom:longitude":-87.763414,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
-        102084317
+        85940943,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"08fcf21c91cde8c10dce25cb8eca7d56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
+            "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":287211491
         }
     ],
     "wof:id":287211491,
-    "wof:lastmodified":1472621197,
+    "wof:lastmodified":1492093770,
     "wof:name":"Abelson & Abelson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

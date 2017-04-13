@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8256,41.697279,-87.8256,41.697279",
     "geom:latitude":41.697279,
     "geom:longitude":-87.8256,
@@ -25,7 +26,14 @@
         "scale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940747,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N3EBcJZIqDtl4JJVPK9Fh_41.697279_-87.825600@1294102059"
@@ -33,9 +41,19 @@
     "wof:country":"US",
     "wof:created":1461950521,
     "wof:geomhash":"5357bb0390444b48e5465ce7a3b1bfed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
+            "region_id":85688697,
+            "venue_id":740138079
+        }
+    ],
     "wof:id":740138079,
-    "wof:lastmodified":1472621621,
+    "wof:lastmodified":1492088618,
     "wof:name":"Excel Enterprise Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

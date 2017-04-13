@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.001914,41.673538,-88.001914,41.673538",
     "geom:latitude":41.673538,
     "geom:longitude":-88.001914,
@@ -33,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404496275,
         85633793,
         85940207,
         102084317
@@ -45,17 +48,17 @@
     "wof:geomhash":"0370c135c42eba5bb570b2594913303e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404496275,
             "locality_id":85940207,
-            "neighbourhood_id":-1,
             "region_id":85688697,
             "venue_id":203111449
         }
     ],
     "wof:id":203111449,
-    "wof:lastmodified":1472621023,
+    "wof:lastmodified":1492091871,
     "wof:name":"Train Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.848886,41.150653,-87.848886,41.150653",
     "geom:latitude":41.150653,
     "geom:longitude":-87.848886,
@@ -43,10 +44,13 @@
     "sg:website":"www.englanddans.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519093,
+        102191575,
+        404498243,
         85633793,
         85939993,
-        102081259
+        102081259,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +60,20 @@
     "wof:geomhash":"f30aa20ae94356d6bc3b0013cbb18c47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498243,
             "locality_id":85939993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519093,
             "region_id":85688697,
             "venue_id":219550595
         }
     ],
     "wof:id":219550595,
-    "wof:lastmodified":1472621465,
+    "wof:lastmodified":1492092324,
     "wof:name":"England Dans Car Audio & Cb",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008388,41.794025,-88.008388,41.794025",
     "geom:latitude":41.794025,
     "geom:longitude":-88.008388,
@@ -34,11 +35,13 @@
     "sg:website":"www.downersgrove.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890777,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85890777
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e1d785837ced11c1eed1498447d1975e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85890777,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236867685,
-    "wof:lastmodified":1472621786,
+    "wof:lastmodified":1492102199,
     "wof:name":"Downers Grove Chamber-Commerce",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",

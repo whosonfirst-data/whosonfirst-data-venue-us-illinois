@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.547995,41.577342,-87.547995,41.577342",
     "geom:latitude":41.577342,
     "geom:longitude":-87.547995,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805877,
+        102191575,
+        404497591,
         85633793,
         85940801,
         102084317,
-        85805877
+        85688697
     ],
     "wof:brand_id":420575555,
     "wof:breaches":[],
@@ -48,9 +51,10 @@
     "wof:geomhash":"fe861a9ee7abe6af53f28862822b9d6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940801,
             "neighbourhood_id":85805877,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236464199,
-    "wof:lastmodified":1472621681,
+    "wof:lastmodified":1492093547,
     "wof:name":"Ameri Gas Inc",
     "wof:parent_id":85805877,
     "wof:placetype":"venue",

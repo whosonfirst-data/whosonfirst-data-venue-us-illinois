@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.877227,42.277779,-87.877227,42.277779",
     "geom:latitude":42.277779,
     "geom:longitude":-87.877227,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519121,
+        102191575,
+        404499869,
         85633793,
         85938355,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:brand_id":420574597,
     "wof:breaches":[],
@@ -46,19 +50,20 @@
     "wof:geomhash":"38ee133509870ea81278a891f6c8c975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519121,
             "region_id":85688697,
             "venue_id":236154041
         }
     ],
     "wof:id":236154041,
-    "wof:lastmodified":1472621209,
+    "wof:lastmodified":1492100739,
     "wof:name":"Pearle Vision",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

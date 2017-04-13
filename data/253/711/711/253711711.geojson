@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.69466,42.03767,-87.69466,42.03767",
     "geom:latitude":42.03767,
     "geom:longitude":-87.69466,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890803,
+        102191575,
+        404497621,
         85633793,
-        85940943,
-        102084317,
-        85890787,
         85940857,
-        85890803
+        102084317,
+        85688697,
+        85890787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,28 +52,30 @@
     "wof:geomhash":"d70ad9110804f8b8bbc8ecd6d2473aa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940943,
-            "neighbourhood_id":85890787,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
+            "neighbourhood_id":85890803,
             "region_id":85688697,
             "venue_id":253711711
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
-            "neighbourhood_id":85890803,
+            "neighbourhood_id":85890787,
             "region_id":85688697,
             "venue_id":253711711
         }
     ],
     "wof:id":253711711,
-    "wof:lastmodified":1472621644,
+    "wof:lastmodified":1492089193,
     "wof:name":"Evanston Round Table",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

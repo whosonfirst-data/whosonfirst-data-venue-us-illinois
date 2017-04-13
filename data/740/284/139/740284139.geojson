@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.442927,41.093243,-88.442927,41.093243",
     "geom:latitude":41.093243,
     "geom:longitude":-88.442927,
@@ -28,7 +29,14 @@
     "sg:postcode":"60420",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        85938295,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AuJDvfkbENY2ogpKGzNp6_41.093243_-88.442927@1303262855"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953651,
     "wof:geomhash":"23c38514709b6fddf476a07fe9ee7e7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "locality_id":85938295,
+            "region_id":85688697,
+            "venue_id":740284139
+        }
+    ],
     "wof:id":740284139,
-    "wof:lastmodified":1472622008,
+    "wof:lastmodified":1492093609,
     "wof:name":"Pamida Pharmacy (Dwight Tel No)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

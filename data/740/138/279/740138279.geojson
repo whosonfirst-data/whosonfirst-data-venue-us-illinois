@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.986186,41.4228,-87.986186,41.4228",
     "geom:latitude":41.4228,
     "geom:longitude":-87.986186,
@@ -32,7 +33,10 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NZwq4h2BScQ7lrZvGL8EI_41.422661_-87.986163@1293134755"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461950525,
     "wof:geomhash":"2704bdd2ef32bb2863787bdc7b1441a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":740138279
+        }
+    ],
     "wof:id":740138279,
-    "wof:lastmodified":1472621650,
+    "wof:lastmodified":1492097326,
     "wof:name":"Fritz's Saloon",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057882,41.584971,-88.057882,41.584971",
     "geom:latitude":41.584971,
     "geom:longitude":-88.057882,
@@ -33,11 +34,13 @@
     "sg:website":"www.saint-dennis.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f9e7ed5630ce3894e3d865349a7d3270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270205751,
-    "wof:lastmodified":1472621234,
+    "wof:lastmodified":1492093498,
     "wof:name":"St Dennis Parish Ctr",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

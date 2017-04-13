@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.069217,41.954721,-88.069217,41.954721",
     "geom:latitude":41.954721,
     "geom:longitude":-88.069217,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.maidsontime.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s9Ml33yogxFnWQJbhA76D_41.954721_-88.069217@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952243,
     "wof:geomhash":"010d01db7814b1e8f155222767aa0118",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217495
+        }
+    ],
     "wof:id":740217495,
-    "wof:lastmodified":1472621920,
+    "wof:lastmodified":1492098369,
     "wof:name":"Maids On Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

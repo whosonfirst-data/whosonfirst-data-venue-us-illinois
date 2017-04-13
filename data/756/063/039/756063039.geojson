@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.360909,41.667954,-88.360909,41.667954",
     "geom:latitude":41.667954,
     "geom:longitude":-88.360909,
@@ -32,7 +33,14 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jTawuagrS2wHtheQaQ2zn_41.667954_-88.360909@1303262861"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954702,
     "wof:geomhash":"285c5eda4a38d7aa2cc216a626f58638",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756063039
+        }
+    ],
     "wof:id":756063039,
-    "wof:lastmodified":1472621310,
+    "wof:lastmodified":1492107326,
     "wof:name":"Kolat Global Services Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

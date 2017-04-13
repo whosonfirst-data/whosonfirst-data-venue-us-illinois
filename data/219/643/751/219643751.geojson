@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855369,42.381785,-87.855369,42.381785",
     "geom:latitude":42.381785,
     "geom:longitude":-87.855369,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:brand_id":420573817,
     "wof:breaches":[],
@@ -51,17 +55,18 @@
     "wof:geomhash":"130f90d151796d0c59cb107560e44257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":219643751
         }
     ],
     "wof:id":219643751,
-    "wof:lastmodified":1472621531,
+    "wof:lastmodified":1492088736,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

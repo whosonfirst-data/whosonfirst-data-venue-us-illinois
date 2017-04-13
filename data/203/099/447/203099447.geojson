@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.690148,42.047108,-87.690148,42.047108",
     "geom:latitude":42.047108,
     "geom:longitude":-87.690148,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890803,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890791,
-        85890803
+        85688697,
+        85890791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +51,30 @@
     "wof:geomhash":"363dc8a1f5f79eb2b42a42de33dca7f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
-            "neighbourhood_id":85890791,
+            "neighbourhood_id":85890803,
             "region_id":85688697,
             "venue_id":203099447
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
-            "neighbourhood_id":85890803,
+            "neighbourhood_id":85890791,
             "region_id":85688697,
             "venue_id":203099447
         }
     ],
     "wof:id":203099447,
-    "wof:lastmodified":1472620970,
+    "wof:lastmodified":1491910753,
     "wof:name":"The Board of Trustees of",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

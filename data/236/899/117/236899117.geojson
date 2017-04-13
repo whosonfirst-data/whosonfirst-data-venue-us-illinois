@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.759408,41.865677,-87.759408,41.865677",
     "geom:latitude":41.865677,
     "geom:longitude":-87.759408,
@@ -43,10 +44,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497617,
         85633793,
         85940877,
-        102084317,
-        85867673
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +58,19 @@
     "wof:geomhash":"b9318b18c61baa4745ca58a990635f94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
-            "neighbourhood_id":85867673,
             "region_id":85688697,
             "venue_id":236899117
         }
     ],
     "wof:id":236899117,
-    "wof:lastmodified":1472621783,
+    "wof:lastmodified":1492090981,
     "wof:name":"Elwood Packaging Inc",
-    "wof:parent_id":85867673,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

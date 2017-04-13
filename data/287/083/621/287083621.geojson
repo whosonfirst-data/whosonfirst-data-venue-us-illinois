@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.220748,41.761056,-88.220748,41.761056",
     "geom:latitude":41.761056,
     "geom:longitude":-88.220748,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85820771,
+        102191575,
+        404498347,
         85633793,
         85940221,
-        102081257,
-        85820771
+        102086925,
+        85688697
     ],
     "wof:brand_id":420574431,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"cc847d10d70e064426a39cc3414d7a31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
+            "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85820771,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":287083621,
-    "wof:lastmodified":1472620967,
+    "wof:lastmodified":1492100187,
     "wof:name":"Citgo",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",

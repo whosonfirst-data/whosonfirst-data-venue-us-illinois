@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.334333,41.762794,-88.334333,41.762794",
     "geom:latitude":41.762794,
     "geom:longitude":-88.334333,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876057
     ],
     "wof:breaches":[],
@@ -49,18 +52,20 @@
     "wof:geomhash":"9605a20207bb58b5ff43698c838f2855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":270518489
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -68,9 +73,9 @@
         }
     ],
     "wof:id":270518489,
-    "wof:lastmodified":1472621489,
+    "wof:lastmodified":1492106822,
     "wof:name":"Capet Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

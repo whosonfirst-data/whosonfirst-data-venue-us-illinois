@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.380594,40.993137,-88.380594,40.993137",
     "geom:latitude":40.993137,
     "geom:longitude":-88.380594,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498013,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vIUDsdZNwQW6HHWy2F8PH_40.993137_-88.380594@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950258,
     "wof:geomhash":"54c4271ae2066f65e825b6f610895e0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404498013,
+            "region_id":85688697,
+            "venue_id":740126561
+        }
+    ],
     "wof:id":740126561,
-    "wof:lastmodified":1472621417,
+    "wof:lastmodified":1492105412,
     "wof:name":"Keith Telford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

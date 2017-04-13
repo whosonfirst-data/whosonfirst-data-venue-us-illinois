@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.291643,41.842979,-88.291643,41.842979",
     "geom:latitude":41.842979,
     "geom:longitude":-88.291643,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c23c38cbad9579043ced6ee09b01fd41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286528763,
-    "wof:lastmodified":1472621436,
+    "wof:lastmodified":1492095450,
     "wof:name":"Thomas J Hoffman Law Office",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

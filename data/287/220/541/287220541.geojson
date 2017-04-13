@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.747356,42.02844,-87.747356,42.02844",
     "geom:latitude":42.02844,
     "geom:longitude":-87.747356,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
+        85940943,
         102084317,
-        85856393
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"f2fd9d4704cd32b32162ecc34bd18387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":287220541
         }
     ],
     "wof:id":287220541,
-    "wof:lastmodified":1472621204,
+    "wof:lastmodified":1492093742,
     "wof:name":"Lukas Microscope Service Inc",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028088,42.182599,-88.028088,42.182599",
     "geom:latitude":42.182599,
     "geom:longitude":-88.028088,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867899,
+        102191575,
+        404498459,
         85633793,
+        85938335,
         102086215,
-        85867899
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"e73eebe4df52bec4098512a556ebfbb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498459,
+            "locality_id":85938335,
             "neighbourhood_id":85867899,
             "region_id":85688697,
             "venue_id":253360595
         }
     ],
     "wof:id":253360595,
-    "wof:lastmodified":1472621452,
+    "wof:lastmodified":1492088897,
     "wof:name":"Control Weigh",
     "wof:parent_id":85867899,
     "wof:placetype":"venue",

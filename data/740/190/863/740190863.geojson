@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.956013,42.293558,-87.956013,42.293558",
     "geom:latitude":42.293558,
     "geom:longitude":-87.956013,
@@ -34,7 +35,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xNYMr94zA368MNSWcPQEn_42.293558_-87.956013@1303262843"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461951665,
     "wof:geomhash":"d97d8245ed2c2fe772a703ba933018c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190863
+        }
+    ],
     "wof:id":740190863,
-    "wof:lastmodified":1472621872,
+    "wof:lastmodified":1492109256,
     "wof:name":"All In One Call Inc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.62615,41.477077,-87.62615,41.477077",
     "geom:latitude":41.477077,
     "geom:longitude":-87.62615,
@@ -43,7 +44,14 @@
     ],
     "sg:website":"http://apps.amfam.com/agentlocator/slangan?sourceid=agl096808",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940519,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34YSpG0RCDUeeGqrS9zAE2_41.477077_-87.626150@1303262859"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461954369,
     "wof:geomhash":"9b5c674e1d6ed2fb0205d45646d9886c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940519,
+            "region_id":85688697,
+            "venue_id":756046585
+        }
+    ],
     "wof:id":756046585,
-    "wof:lastmodified":1472621167,
+    "wof:lastmodified":1492107888,
     "wof:name":"American Family Insurance - Shawn P Langan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

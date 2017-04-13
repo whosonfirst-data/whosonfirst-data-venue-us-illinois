@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.204493,41.87109,-88.204493,41.87109",
     "geom:latitude":41.87109,
     "geom:longitude":-88.204493,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518991,
+        102191575,
+        404497659,
         85633793,
         85940143,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"c88707bab10dac877a76b83a7ab6e078",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518991,
             "region_id":85688697,
             "venue_id":287051713
         }
     ],
     "wof:id":287051713,
-    "wof:lastmodified":1472620878,
+    "wof:lastmodified":1492107733,
     "wof:name":"A 1 Petronzio & Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.790059,41.854174,-87.790059,41.854174",
     "geom:latitude":41.854174,
     "geom:longitude":-87.790059,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890741,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85890741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"a61e4476aa954e1913d50b60d61186ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85890741,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":220055771,
-    "wof:lastmodified":1472620884,
+    "wof:lastmodified":1492107735,
     "wof:name":"Kipart Communications Inc",
     "wof:parent_id":85890741,
     "wof:placetype":"venue",

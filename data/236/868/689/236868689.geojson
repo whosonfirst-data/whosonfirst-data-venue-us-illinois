@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.818295,41.764144,-87.818295,41.764144",
     "geom:latitude":41.764144,
     "geom:longitude":-87.818295,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497627,
         85633793,
-        85940909,
-        102084317,
-        85811257
+        85940897,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +50,19 @@
     "wof:geomhash":"e6147cb3971b06262cef8202eaa933d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940909,
-            "neighbourhood_id":85811257,
+            "localadmin_id":404497627,
+            "locality_id":85940897,
             "region_id":85688697,
             "venue_id":236868689
         }
     ],
     "wof:id":236868689,
-    "wof:lastmodified":1472621789,
+    "wof:lastmodified":1492090699,
     "wof:name":"Oak Flooring Inc",
-    "wof:parent_id":85811257,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558652,41.592152,-87.558652,41.592152",
     "geom:latitude":41.592152,
     "geom:longitude":-87.558652,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518761,
+        102191575,
+        404497591,
         85633793,
-        85940801,
-        102084317
+        85940935,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"d6bed7154b47e1d129d4864fe24aa255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940801,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "neighbourhood_id":420518761,
             "region_id":85688697,
             "venue_id":202921737
         }
     ],
     "wof:id":202921737,
-    "wof:lastmodified":1472621304,
+    "wof:lastmodified":1492104730,
     "wof:name":"Tonys Sports",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.800799,41.8504,-87.800799,41.8504",
     "geom:latitude":41.8504,
     "geom:longitude":-87.800799,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85837971,
+        102191575,
+        404497585,
         85633793,
         85940763,
         102084317,
-        85837971
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1c97af0320cc7a315b1741a61a1c3945",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497585,
             "locality_id":85940763,
             "neighbourhood_id":85837971,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269957747,
-    "wof:lastmodified":1472621437,
+    "wof:lastmodified":1492109232,
     "wof:name":"Si Bon Wig Fashions",
     "wof:parent_id":85837971,
     "wof:placetype":"venue",

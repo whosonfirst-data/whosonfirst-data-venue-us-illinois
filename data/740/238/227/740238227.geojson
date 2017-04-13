@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.531197,42.0942,-88.531197,42.0942",
     "geom:latitude":42.0942,
     "geom:longitude":-88.531197,
@@ -38,7 +39,14 @@
     ],
     "sg:website":"www.firstambank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496541,
+        85633793,
+        85939735,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_307dN4aNtrTXyaK1l4L3fz_42.094200_-88.531197@1303262849"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461952699,
     "wof:geomhash":"38922f0420770bffdbd1f74d084e168b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404496541,
+            "locality_id":85939735,
+            "region_id":85688697,
+            "venue_id":740238227
+        }
+    ],
     "wof:id":740238227,
-    "wof:lastmodified":1472621942,
+    "wof:lastmodified":1492093769,
     "wof:name":"First American Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

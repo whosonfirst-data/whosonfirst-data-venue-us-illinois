@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.940252,42.008305,-87.940252,42.008305",
     "geom:latitude":42.008305,
     "geom:longitude":-87.940252,
@@ -26,7 +27,14 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497619,
+        85633793,
+        85940193,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wdcAMiUWnk0V4cV7rQ3ke_42.008305_-87.940252@1294102059"
@@ -34,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461949925,
     "wof:geomhash":"f08806beaa7db0256db04cd2747c3b6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497619,
+            "locality_id":85940193,
+            "region_id":85688697,
+            "venue_id":740114359
+        }
+    ],
     "wof:id":740114359,
-    "wof:lastmodified":1472621261,
+    "wof:lastmodified":1492105476,
     "wof:name":"Airgas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

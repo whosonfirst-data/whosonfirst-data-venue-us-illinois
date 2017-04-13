@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.224503,41.434101,-88.224503,41.434101",
     "geom:latitude":41.434101,
     "geom:longitude":-88.224503,
@@ -32,7 +33,14 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0usyeTQG6W1l9pA1dfCg65_41.434101_-88.224503@1303262854"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953591,
     "wof:geomhash":"f692878fa970e9955f69bbff8e9a9acb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740281045
+        }
+    ],
     "wof:id":740281045,
-    "wof:lastmodified":1472622000,
+    "wof:lastmodified":1492104368,
     "wof:name":"Pedraza Gustavo A MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

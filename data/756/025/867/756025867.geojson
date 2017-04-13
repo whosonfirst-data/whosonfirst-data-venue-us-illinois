@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.984197,41.419911,-87.984197,41.419911",
     "geom:latitude":41.419911,
     "geom:longitude":-87.984197,
@@ -31,7 +32,10 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wcurDLAiTwgy1oMN9RIor_41.419911_-87.984197@1303262856"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953924,
     "wof:geomhash":"b781eb73b0e5081bddcbc066251e2da5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025867
+        }
+    ],
     "wof:id":756025867,
-    "wof:lastmodified":1472620884,
+    "wof:lastmodified":1492092889,
     "wof:name":"Harris Bank Na",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

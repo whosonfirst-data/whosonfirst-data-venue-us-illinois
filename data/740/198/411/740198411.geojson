@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057176,42.150156,-88.057176,42.150156",
     "geom:latitude":42.150156,
     "geom:longitude":-88.057176,
@@ -31,7 +32,14 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497645,
+        85633793,
+        85938407,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7McASPilChuDWuMhv9QXq8_42.150156_-88.057176@1303262844"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951815,
     "wof:geomhash":"263ec098e46a3e42c8b380f5e23ae944",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85938407,
+            "region_id":85688697,
+            "venue_id":740198411
+        }
+    ],
     "wof:id":740198411,
-    "wof:lastmodified":1472621872,
+    "wof:lastmodified":1492107449,
     "wof:name":"Peters Cathlynn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

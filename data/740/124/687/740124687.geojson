@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.658558,42.117308,-88.658558,42.117308",
     "geom:latitude":42.117308,
     "geom:longitude":-88.658558,
@@ -25,7 +26,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497705,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N3dtWxJ5Sk27larvYgCgd_42.117308_-88.658558@1294102059"
@@ -33,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1461950186,
     "wof:geomhash":"5b85ffc21e42b27871cdadec6221e282",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497705,
+            "region_id":85688697,
+            "venue_id":740124687
+        }
+    ],
     "wof:id":740124687,
-    "wof:lastmodified":1472621372,
+    "wof:lastmodified":1492097495,
     "wof:name":"Norman Baumgartner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

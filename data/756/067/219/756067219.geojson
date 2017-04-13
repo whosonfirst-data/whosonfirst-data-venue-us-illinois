@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.640198,41.54771,-88.640198,41.54771",
     "geom:latitude":41.54771,
     "geom:longitude":-88.640198,
@@ -38,7 +39,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498501,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eyk8HlXSsykLk43zXCbxW_41.547710_-88.640198@1303262862"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461954809,
     "wof:geomhash":"39558fb9e72841c88afb25328aed9faa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498501,
+            "region_id":85688697,
+            "venue_id":756067219
+        }
+    ],
     "wof:id":756067219,
-    "wof:lastmodified":1472621371,
+    "wof:lastmodified":1492093585,
     "wof:name":"Ed Henry Concrete Construction & Maintenance, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

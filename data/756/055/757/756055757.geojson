@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.615488,41.77723,-88.615488,41.77723",
     "geom:latitude":41.77723,
     "geom:longitude":-88.615488,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"http://www.genevavalvetapping.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497725,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XheLwBNhQcGVlzGksC4IU_41.777230_-88.615488@1303262860"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461954556,
     "wof:geomhash":"f50630b318d67a36bc31ed99bca46c7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497725,
+            "region_id":85688697,
+            "venue_id":756055757
+        }
+    ],
     "wof:id":756055757,
-    "wof:lastmodified":1472621171,
+    "wof:lastmodified":1492102206,
     "wof:name":"Geneva Valve Tapping Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

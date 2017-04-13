@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.793281,41.57723,-87.793281,41.57723",
     "geom:latitude":41.57723,
     "geom:longitude":-87.793281,
@@ -30,11 +31,13 @@
     "sg:website":"www.haircuttery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890945,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890945
+        85688697
     ],
     "wof:brand_id":420574903,
     "wof:breaches":[],
@@ -45,9 +48,10 @@
     "wof:geomhash":"37efd9a7d473a4b4e5b89f861f0a53cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890945,
             "region_id":85688697,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":287071501,
-    "wof:lastmodified":1472620942,
+    "wof:lastmodified":1492091382,
     "wof:name":"Hair Cuttery",
     "wof:parent_id":85890945,
     "wof:placetype":"venue",

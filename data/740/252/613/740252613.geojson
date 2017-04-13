@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.708675,41.977973,-88.708675,41.977973",
     "geom:latitude":41.977973,
     "geom:longitude":-88.708675,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.countryinns.com/sycamoreil",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497727,
+        85633793,
+        85939743,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jUU5ZpQkvYUqMznR7BxOe_41.977973_-88.708675@1303262851"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953005,
     "wof:geomhash":"144bc79af3f5e1957273fac875c7c4c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497727,
+            "locality_id":85939743,
+            "region_id":85688697,
+            "venue_id":740252613
+        }
+    ],
     "wof:id":740252613,
-    "wof:lastmodified":1472621991,
+    "wof:lastmodified":1492092499,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

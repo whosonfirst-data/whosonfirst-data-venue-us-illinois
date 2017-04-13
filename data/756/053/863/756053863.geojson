@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.845398,41.807201,-87.845398,41.807201",
     "geom:latitude":41.807201,
     "geom:longitude":-87.845398,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.jvautomotive.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940893,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rtdHMIGct8cjCyX5dIdOp_41.807201_-87.845398@1303262860"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954520,
     "wof:geomhash":"3ea30c2431d20fd414e16a6c4fa95791",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940893,
+            "region_id":85688697,
+            "venue_id":756053863
+        }
+    ],
     "wof:id":756053863,
-    "wof:lastmodified":1472621173,
+    "wof:lastmodified":1492089980,
     "wof:name":"J V Automotive Service & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

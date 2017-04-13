@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.040171,41.735966,-88.040171,41.735966",
     "geom:latitude":41.735966,
     "geom:longitude":-88.040171,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891081,
+        102191575,
+        404497649,
         85633793,
-        85940203,
+        85940167,
         102081257,
-        85891081
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"ca023fc4ce06e8bf1f8bfdcb950c2add",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940203,
+            "localadmin_id":404497649,
+            "locality_id":85940167,
             "neighbourhood_id":85891081,
             "region_id":85688697,
             "venue_id":203397059
         }
     ],
     "wof:id":203397059,
-    "wof:lastmodified":1472621187,
+    "wof:lastmodified":1492101172,
     "wof:name":"Modern Day Cleaners",
     "wof:parent_id":85891081,
     "wof:placetype":"venue",

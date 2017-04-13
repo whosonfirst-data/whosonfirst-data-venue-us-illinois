@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.712434,41.538212,-87.712434,41.538212",
     "geom:latitude":41.538212,
     "geom:longitude":-87.712434,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497581,
+        85633793,
+        85940853,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CqeemkCFeV53ypT5PxqnK_41.538212_-87.712434@1303262855"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461953658,
     "wof:geomhash":"59b02c65fba9c306a9b91097ae9341fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497581,
+            "locality_id":85940853,
+            "region_id":85688697,
+            "venue_id":740284459
+        }
+    ],
     "wof:id":740284459,
-    "wof:lastmodified":1472622023,
+    "wof:lastmodified":1492088401,
     "wof:name":"Romani Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

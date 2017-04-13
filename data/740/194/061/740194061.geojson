@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862309,42.116631,-87.862309,42.116631",
     "geom:latitude":42.116631,
     "geom:longitude":-87.862309,
@@ -37,7 +38,15 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518733,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bc7unuELlmQzmWm5wc4dr_42.116631_-87.862309@1303262843"
@@ -45,9 +54,20 @@
     "wof:country":"US",
     "wof:created":1461951732,
     "wof:geomhash":"deff9a38f3c86de4e9aa7cce55dc275c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":420518733,
+            "region_id":85688697,
+            "venue_id":740194061
+        }
+    ],
     "wof:id":740194061,
-    "wof:lastmodified":1472621854,
+    "wof:lastmodified":1492107876,
     "wof:name":"Borekci Real Estate",
     "wof:parent_id":420518733,
     "wof:placetype":"venue",

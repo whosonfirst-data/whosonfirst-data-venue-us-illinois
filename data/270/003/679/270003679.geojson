@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.083085,41.527784,-88.083085,41.527784",
     "geom:latitude":41.527784,
     "geom:longitude":-88.083085,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"01b5e387fc769a40384a1817d17bd78f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270003679,
-    "wof:lastmodified":1472620759,
+    "wof:lastmodified":1492091222,
     "wof:name":"John Bays Real Estate",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

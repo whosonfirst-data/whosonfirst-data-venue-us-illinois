@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.962424,41.991749,-87.962424,41.991749",
     "geom:latitude":41.991749,
     "geom:longitude":-87.962424,
@@ -32,7 +33,14 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940201,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VOZwKbvZg7aYm2HImcaNI_41.991749_-87.962424@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952196,
     "wof:geomhash":"965d5bf913a35880c22a71b1adc54ee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940201,
+            "region_id":85688697,
+            "venue_id":740215315
+        }
+    ],
     "wof:id":740215315,
-    "wof:lastmodified":1472621920,
+    "wof:lastmodified":1492093425,
     "wof:name":"Pc Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

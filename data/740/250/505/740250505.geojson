@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104533,41.969594,-88.104533,41.969594",
     "geom:latitude":41.969594,
     "geom:longitude":-88.104533,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.abcelimo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G1LOhPNnuuAvirwM5wiAa_41.969594_-88.104533@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952960,
     "wof:geomhash":"680504be1aa08dfea5c61e510f6962a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740250505
+        }
+    ],
     "wof:id":740250505,
-    "wof:lastmodified":1472621972,
+    "wof:lastmodified":1492097992,
     "wof:name":"Abce Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

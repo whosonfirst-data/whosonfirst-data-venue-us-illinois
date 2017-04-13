@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.926774,41.498103,-87.926774,41.498103",
     "geom:latitude":41.498103,
     "geom:longitude":-87.926774,
@@ -40,8 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85850979,
+        102191575,
+        404499217,
         85633793,
-        85688697
+        85940543,
+        102080845,
+        85688697,
+        420519341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,18 +58,25 @@
     "wof:geomhash":"7bac1f71f4fa4fae6377204548b18ddb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499217,
+            "locality_id":85940543,
+            "neighbourhood_id":85850979,
             "region_id":85688697,
+            "venue_id":219205951
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
             "venue_id":219205951
         }
     ],
     "wof:id":219205951,
-    "wof:lastmodified":1472620906,
+    "wof:lastmodified":1492104738,
     "wof:name":"Parkside Insulation Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

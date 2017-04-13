@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.234933,42.205429,-88.234933,42.205429",
     "geom:latitude":42.205429,
     "geom:longitude":-88.234933,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://www.truevalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85939013,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BsmUDuGrVoo3cE9SUHEJJ_42.205087_-88.234248@1293134755"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461949974,
     "wof:geomhash":"a4eabccfa601a847648c51ad10292a2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85939013,
+            "region_id":85688697,
+            "venue_id":740116385
+        }
+    ],
     "wof:id":740116385,
-    "wof:lastmodified":1472621251,
+    "wof:lastmodified":1492088647,
     "wof:name":"True Value Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952326,42.278048,-87.952326,42.278048",
     "geom:latitude":42.278048,
     "geom:longitude":-87.952326,
@@ -45,7 +46,10 @@
     ],
     "sg:website":"http://www.dairyqueen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38AqXUA66K4jUXK1wi26nO_42.278048_-87.952326@1303262843"
@@ -53,9 +57,15 @@
     "wof:country":"US",
     "wof:created":1461951658,
     "wof:geomhash":"20bae3a77e13aafaab03457595c74c5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190543
+        }
+    ],
     "wof:id":740190543,
-    "wof:lastmodified":1472621863,
+    "wof:lastmodified":1492104950,
     "wof:name":"Dairy Queen",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

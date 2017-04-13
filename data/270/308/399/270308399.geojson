@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.199231,41.538487,-88.199231,41.538487",
     "geom:latitude":41.538487,
     "geom:longitude":-88.199231,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85830493,
+        102191575,
+        404499219,
         85633793,
+        85940581,
         102080845,
-        85830493
+        85688697
     ],
     "wof:brand_id":420574189,
     "wof:breaches":[],
@@ -47,17 +51,18 @@
     "wof:geomhash":"a3b91984e5590723246c5c37f18145c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499219,
+            "locality_id":85940581,
             "neighbourhood_id":85830493,
             "region_id":85688697,
             "venue_id":270308399
         }
     ],
     "wof:id":270308399,
-    "wof:lastmodified":1472621401,
+    "wof:lastmodified":1492093581,
     "wof:name":"Countrywide Home Loans",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",

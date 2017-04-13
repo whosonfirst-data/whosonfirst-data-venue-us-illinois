@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835036,41.718281,-87.835036,41.718281",
     "geom:latitude":41.718281,
     "geom:longitude":-87.835036,
@@ -36,7 +37,14 @@
         "acupuncture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940825,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CvPqduOKGoOHiqqlROKOl_41.718281_-87.835036@1303262858"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461954196,
     "wof:geomhash":"d731391aaa5a9b48f19200e8cf1c8e22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940825,
+            "region_id":85688697,
+            "venue_id":756038473
+        }
+    ],
     "wof:id":756038473,
-    "wof:lastmodified":1472621014,
+    "wof:lastmodified":1492097791,
     "wof:name":"Moraine Valley Chiropractic Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

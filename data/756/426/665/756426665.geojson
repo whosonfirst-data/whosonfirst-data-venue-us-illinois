@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.934796,40.933545,-87.934796,40.933545",
     "geom:latitude":40.933545,
     "geom:longitude":-87.934796,
@@ -38,7 +39,14 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498179,
+        85633793,
+        85938517,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ubOicqP19xzaO3WHDHnXf_40.933545_-87.934796@1303262910"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461962940,
     "wof:geomhash":"09258c45ef6c4bed1937183777bf413a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498179,
+            "locality_id":85938517,
+            "region_id":85688697,
+            "venue_id":756426665
+        }
+    ],
     "wof:id":756426665,
-    "wof:lastmodified":1472622207,
+    "wof:lastmodified":1492091682,
     "wof:name":"St Andrews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

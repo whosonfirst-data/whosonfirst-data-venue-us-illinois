@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.963667,41.923291,-87.963667,41.923291",
     "geom:latitude":41.923291,
     "geom:longitude":-87.963667,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890711,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85890711
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"ed5067942e530eb292149b0625613017",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85890711,
             "region_id":85688697,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":219579679,
-    "wof:lastmodified":1472621495,
+    "wof:lastmodified":1492088653,
     "wof:name":"Comlink Technologies Inc",
     "wof:parent_id":85890711,
     "wof:placetype":"venue",

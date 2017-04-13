@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067748,41.760199,-88.067748,41.760199",
     "geom:latitude":41.760199,
     "geom:longitude":-88.067748,
@@ -31,7 +32,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gvnwyoqg74gAbVPi1ndnE_41.760199_-88.067748@1303262860"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461954549,
     "wof:geomhash":"5a403f536b6078cd3f5173069a6c0e58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055313
+        }
+    ],
     "wof:id":756055313,
-    "wof:lastmodified":1472621153,
+    "wof:lastmodified":1492093056,
     "wof:name":"Beavers Holdings",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

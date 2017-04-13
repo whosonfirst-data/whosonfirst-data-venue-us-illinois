@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.114216,41.951456,-88.114216,41.951456",
     "geom:latitude":41.951456,
     "geom:longitude":-88.114216,
@@ -36,7 +37,14 @@
     ],
     "sg:website":"http://www.orchidchicago.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YEJQhHN7IGYxAI6A2PnFO_41.951456_-88.114216@1303262846"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461952286,
     "wof:geomhash":"54ce622cf3d363f7b36c9ce7d680d040",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219645
+        }
+    ],
     "wof:id":740219645,
-    "wof:lastmodified":1472621926,
+    "wof:lastmodified":1492089641,
     "wof:name":"Orchid Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

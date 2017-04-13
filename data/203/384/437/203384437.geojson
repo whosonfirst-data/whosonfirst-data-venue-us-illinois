@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042273,41.591491,-88.042273,41.591491",
     "geom:latitude":41.591491,
     "geom:longitude":-88.042273,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85844569,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85844569
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"091f96a1acf0e92e0fe9ba6508b3f105",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85844569,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203384437,
-    "wof:lastmodified":1472621206,
+    "wof:lastmodified":1492091944,
     "wof:name":"Economy Finer Foods Inc",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",

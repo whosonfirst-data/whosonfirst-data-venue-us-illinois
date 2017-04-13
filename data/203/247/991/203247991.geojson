@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.27668,42.226057,-88.27668,42.226057",
     "geom:latitude":42.226057,
     "geom:longitude":-88.27668,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:brand_id":420574443,
     "wof:breaches":[],
@@ -46,17 +50,18 @@
     "wof:geomhash":"b6980f9fa0fb6876542490ff8b8b0db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":203247991
         }
     ],
     "wof:id":203247991,
-    "wof:lastmodified":1472621136,
+    "wof:lastmodified":1492095338,
     "wof:name":"AAMCO Transmissions",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

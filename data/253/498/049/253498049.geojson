@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.299129,41.753895,-88.299129,41.753895",
     "geom:latitude":41.753895,
     "geom:longitude":-88.299129,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051
+        85688697,
+        85876055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,30 @@
     "wof:geomhash":"eaeb307fbb89cce4eeaf9ade0c89550c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
+            "region_id":85688697,
+            "venue_id":253498049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "neighbourhood_id":85876055,
             "region_id":85688697,
             "venue_id":253498049
         }
     ],
     "wof:id":253498049,
-    "wof:lastmodified":1472621539,
+    "wof:lastmodified":1492089167,
     "wof:name":"LA Chicanita Bakery",
-    "wof:parent_id":85876051,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

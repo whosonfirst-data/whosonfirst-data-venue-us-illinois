@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.357379,41.887905,-88.357379,41.887905",
     "geom:latitude":41.887905,
     "geom:longitude":-88.357379,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +58,18 @@
     "wof:geomhash":"5390c4938f1a73422f4d905cac98307c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":740232379
         }
     ],
     "wof:id":740232379,
-    "wof:lastmodified":1472621932,
+    "wof:lastmodified":1492093651,
     "wof:name":"Modern Home Electronics",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

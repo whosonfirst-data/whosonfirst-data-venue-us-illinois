@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.675073,41.354399,-88.675073,41.354399",
     "geom:latitude":41.354399,
     "geom:longitude":-88.675073,
@@ -35,7 +36,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498495,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UjFpeVcCHU7rSfWO81YaK_41.354399_-88.675073@1303262912"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461963431,
     "wof:geomhash":"c2fe4c5692ae58a5403a4c9bfc3b6770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498495,
+            "region_id":85688697,
+            "venue_id":756447027
+        }
+    ],
     "wof:id":756447027,
-    "wof:lastmodified":1472622220,
+    "wof:lastmodified":1492102208,
     "wof:name":"Flatness, Gr Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

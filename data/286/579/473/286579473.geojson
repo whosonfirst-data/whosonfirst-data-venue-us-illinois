@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.071677,41.520629,-88.071677,41.520629",
     "geom:latitude":41.520629,
     "geom:longitude":-88.071677,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5dd19bde88c56276e0c0d3c809e65d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286579473,
-    "wof:lastmodified":1472621502,
+    "wof:lastmodified":1492104695,
     "wof:name":"Rose's Resale Shop",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.967734,42.231591,-87.967734,42.231591",
     "geom:latitude":42.231591,
     "geom:longitude":-87.967734,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890959,
+        102191575,
+        404498371,
         85633793,
         85938629,
         102086215,
-        85890959
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"04248481c5f68f4392f5584a25810983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498371,
             "locality_id":85938629,
             "neighbourhood_id":85890959,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253573657,
-    "wof:lastmodified":1472621593,
+    "wof:lastmodified":1492109754,
     "wof:name":"AR &A Enterprise Inc",
     "wof:parent_id":85890959,
     "wof:placetype":"venue",

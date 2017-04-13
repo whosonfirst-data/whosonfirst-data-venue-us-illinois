@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.924957,42.292061,-87.924957,42.292061",
     "geom:latitude":42.292061,
     "geom:longitude":-87.924957,
@@ -37,7 +38,10 @@
     ],
     "sg:website":"http://www.holycrosschurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40tsH71RrF25YLd2EdsppV_42.292061_-87.924957@1303262843"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461951662,
     "wof:geomhash":"abf61d94c86b167304c6d15154da61c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190779
+        }
+    ],
     "wof:id":740190779,
-    "wof:lastmodified":1472621869,
+    "wof:lastmodified":1492096404,
     "wof:name":"Celebration Child Care Center",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

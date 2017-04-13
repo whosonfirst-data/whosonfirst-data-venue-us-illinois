@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.824251,41.162948,-87.824251,41.162948",
     "geom:latitude":41.162948,
     "geom:longitude":-87.824251,
@@ -27,7 +28,14 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939993,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YSNueHMW2e6grCzeKVRYP_41.162948_-87.824251@1294102059"
@@ -35,9 +43,19 @@
     "wof:country":"US",
     "wof:created":1461950698,
     "wof:geomhash":"3034af06095f5a5e96698c742a5858c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939993,
+            "region_id":85688697,
+            "venue_id":740146063
+        }
+    ],
     "wof:id":740146063,
-    "wof:lastmodified":1472621698,
+    "wof:lastmodified":1492089784,
     "wof:name":"Dennis Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.88265,41.047661,-87.88265,41.047661",
     "geom:latitude":41.047661,
     "geom:longitude":-87.88265,
@@ -33,7 +34,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498383,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UnTa06QmqLllA90sNHmcH_41.047661_-87.882650@1303262910"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461962939,
     "wof:geomhash":"685545f4e48a831e4d3f2f73642201f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498383,
+            "region_id":85688697,
+            "venue_id":756426615
+        }
+    ],
     "wof:id":756426615,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492094400,
     "wof:name":"Otto Township Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

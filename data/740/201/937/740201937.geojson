@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.148707,42.257027,-88.148707,42.257027",
     "geom:latitude":42.257027,
     "geom:longitude":-88.148707,
@@ -49,7 +50,14 @@
     ],
     "sg:website":"http://www.edwardjones.com/en_US/fa/index.html&CIRN=411334",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498375,
+        85633793,
+        85938623,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AdFo5UeDBGb6hzWGZRq8P_42.257027_-88.148707@1303262844"
@@ -57,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1461951882,
     "wof:geomhash":"0afc2f56ddf7d9a4c723ab3bb875b8bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498375,
+            "locality_id":85938623,
+            "region_id":85688697,
+            "venue_id":740201937
+        }
+    ],
     "wof:id":740201937,
-    "wof:lastmodified":1472621898,
+    "wof:lastmodified":1492089253,
     "wof:name":"Edward Jones - Financial Advisor: MARK D HORNOK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

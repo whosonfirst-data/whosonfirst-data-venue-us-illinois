@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.127194,41.924991,-88.127194,41.924991",
     "geom:latitude":41.924991,
     "geom:longitude":-88.127194,
@@ -28,7 +29,14 @@
     "sg:postcode":"60188",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k4a0yXBPpaqAVfQygGa8u_41.924991_-88.127194@1303262852"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953189,
     "wof:geomhash":"76c51691ad989da9a49d1bddf7c52b83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740261679
+        }
+    ],
     "wof:id":740261679,
-    "wof:lastmodified":1472621991,
+    "wof:lastmodified":1492090155,
     "wof:name":"Dhanashree Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

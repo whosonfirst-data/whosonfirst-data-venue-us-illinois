@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.845787,41.806875,-87.845787,41.806875",
     "geom:latitude":41.806875,
     "geom:longitude":-87.845787,
@@ -49,7 +50,14 @@
     ],
     "sg:website":"http://www.dryicecorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940893,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RpAMkgYBTNu7G0MxryBbN_41.806875_-87.845787@1303262860"
@@ -57,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1461954523,
     "wof:geomhash":"da2a637a90338817bbb9cfa694ee709d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940893,
+            "region_id":85688697,
+            "venue_id":756054023
+        }
+    ],
     "wof:id":756054023,
-    "wof:lastmodified":1472621146,
+    "wof:lastmodified":1492097411,
     "wof:name":"City Carbonic Gas & Welding Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.135774,42.155526,-88.135774,42.155526",
     "geom:latitude":42.155526,
     "geom:longitude":-88.135774,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867885,
+        102191575,
+        404497605,
         85633793,
         85938419,
         102084317,
-        85867885
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1cc6e8b8164fd3333d76f9908699e13b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497605,
             "locality_id":85938419,
             "neighbourhood_id":85867885,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270446817,
-    "wof:lastmodified":1472621475,
+    "wof:lastmodified":1492103349,
     "wof:name":"Syd Simons Cosmetics",
     "wof:parent_id":85867885,
     "wof:placetype":"venue",

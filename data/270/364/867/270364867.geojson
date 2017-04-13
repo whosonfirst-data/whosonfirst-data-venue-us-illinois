@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.701748,41.526327,-87.701748,41.526327",
     "geom:latitude":41.526327,
     "geom:longitude":-87.701748,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85851443,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85851443
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"d1736cac55a01606f56c7d36e6d7c5ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85851443,
             "region_id":85688697,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":270364867,
-    "wof:lastmodified":1472621433,
+    "wof:lastmodified":1492093580,
     "wof:name":"Mid Continent Construction Co",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.077423,41.983041,-88.077423,41.983041",
     "geom:latitude":41.983041,
     "geom:longitude":-88.077423,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.MorningGloryRoselle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gRm4xMasvDdnG9mXdgli7_41.983041_-88.077423@1303262850"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952961,
     "wof:geomhash":"7489915a900fabec85104f4fcf05f651",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740250547
+        }
+    ],
     "wof:id":740250547,
-    "wof:lastmodified":1472621974,
+    "wof:lastmodified":1492093353,
     "wof:name":"Morning Glory Breakfast Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

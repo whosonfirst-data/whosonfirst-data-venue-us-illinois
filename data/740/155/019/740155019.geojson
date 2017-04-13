@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.636794,41.480431,-87.636794,41.480431",
     "geom:latitude":41.480431,
     "geom:longitude":-87.636794,
@@ -32,7 +33,14 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940939,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hdRv8chCfiJtreyYLpDq4_41.480431_-87.636794@1299784598"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950867,
     "wof:geomhash":"37f71334eb859fb6248a2fcd9a4ace92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940939,
+            "region_id":85688697,
+            "venue_id":740155019
+        }
+    ],
     "wof:id":740155019,
-    "wof:lastmodified":1472621740,
+    "wof:lastmodified":1492099193,
     "wof:name":"Pepe's Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

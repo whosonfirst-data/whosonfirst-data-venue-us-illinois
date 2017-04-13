@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.152932,41.713948,-88.152932,41.713948",
     "geom:latitude":41.713948,
     "geom:longitude":-88.152932,
@@ -31,7 +32,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497655,
+        85633793,
+        85940205,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74UrrwIWWO4DZyGXtCYRmN_41.713948_-88.152932@1303262862"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954905,
     "wof:geomhash":"ecf6f9ed14dc57140577f85c88083cc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "region_id":85688697,
+            "venue_id":756072021
+        }
+    ],
     "wof:id":756072021,
-    "wof:lastmodified":1472621372,
+    "wof:lastmodified":1492089879,
     "wof:name":"Brilliant Idea Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

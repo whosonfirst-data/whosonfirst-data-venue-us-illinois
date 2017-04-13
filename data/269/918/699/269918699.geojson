@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.870823,41.994702,-87.870823,41.994702",
     "geom:latitude":41.994702,
     "geom:longitude":-87.870823,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940743,
-        102084317,
-        85809035
+        85940947,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"2c7d37699241613a26f9f905f53d6ef9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85809035,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
             "region_id":85688697,
             "venue_id":269918699
         }
     ],
     "wof:id":269918699,
-    "wof:lastmodified":1472621396,
+    "wof:lastmodified":1491896935,
     "wof:name":"McTheo Corp",
-    "wof:parent_id":85809035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

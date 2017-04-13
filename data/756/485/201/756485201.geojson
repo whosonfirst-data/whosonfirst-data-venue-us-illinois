@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.971604,41.825983,-87.971604,41.825983",
     "geom:latitude":41.825983,
     "geom:longitude":-87.971604,
@@ -36,7 +37,10 @@
         85633793,
         85940141,
         102081257,
-        85688697
+        85688697,
+        85891035,
+        404497661,
+        85940185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +59,22 @@
             "neighbourhood_id":85891031,
             "region_id":85688697,
             "venue_id":756485201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497661,
+            "locality_id":85940185,
+            "neighbourhood_id":85891035,
+            "region_id":85688697,
+            "venue_id":756485201
         }
     ],
     "wof:id":756485201,
-    "wof:lastmodified":1472622252,
+    "wof:lastmodified":1492096886,
     "wof:name":"WidePoint",
-    "wof:parent_id":85891031,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

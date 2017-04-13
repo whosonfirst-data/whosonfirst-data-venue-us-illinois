@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.887464,42.280413,-87.887464,42.280413",
     "geom:latitude":42.280413,
     "geom:longitude":-87.887464,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519121,
+        102191575,
+        404499869,
         85633793,
-        85938391,
-        102086215
+        85938355,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"912dde0c6e662c7fbc7dfa0e049af59d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938391,
-            "neighbourhood_id":-1,
+            "localadmin_id":404499869,
+            "locality_id":85938355,
+            "neighbourhood_id":420519121,
             "region_id":85688697,
             "venue_id":286346571
         }
     ],
     "wof:id":286346571,
-    "wof:lastmodified":1472621022,
+    "wof:lastmodified":1492090940,
     "wof:name":"Kinnucan Tree Exprt Ldscpg Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

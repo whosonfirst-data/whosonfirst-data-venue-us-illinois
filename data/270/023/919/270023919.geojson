@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.115419,41.858632,-88.115419,41.858632",
     "geom:latitude":41.858632,
     "geom:longitude":-88.115419,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891043,
+        102191575,
+        404497653,
         85633793,
         85940139,
         102081257,
-        85891043
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b2bda0919890066c663554f1427c6d06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
             "neighbourhood_id":85891043,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270023919,
-    "wof:lastmodified":1472620796,
+    "wof:lastmodified":1492103253,
     "wof:name":"Mric Mortgage Corp",
     "wof:parent_id":85891043,
     "wof:placetype":"venue",

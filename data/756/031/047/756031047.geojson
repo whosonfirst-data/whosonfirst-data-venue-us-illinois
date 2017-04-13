@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.420981,41.317987,-88.420981,41.317987",
     "geom:latitude":41.317987,
     "geom:longitude":-88.420981,
@@ -40,11 +41,13 @@
     "sg:website":"http://www.standingintheword.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +58,10 @@
     "wof:geomhash":"edab4cafa402426d3904fc8b501a1dc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":756031047,
-    "wof:lastmodified":1472620825,
+    "wof:lastmodified":1492089788,
     "wof:name":"Standing In The Word Ministries",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.187054,41.217288,-88.187054,41.217288",
     "geom:latitude":41.217288,
     "geom:longitude":-88.187054,
@@ -37,7 +38,13 @@
     ],
     "sg:website":"http://www.ceco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497099,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u91jLY32Sa4c7VChtn05s_41.217288_-88.187054@1303262859"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461954388,
     "wof:geomhash":"fa31760f11b515049a6641e0661d57ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497099,
+            "region_id":85688697,
+            "venue_id":756047485
+        }
+    ],
     "wof:id":756047485,
-    "wof:lastmodified":1472621150,
+    "wof:lastmodified":1492089789,
     "wof:name":"Commonwealth Edison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

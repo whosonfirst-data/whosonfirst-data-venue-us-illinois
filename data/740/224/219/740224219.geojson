@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.446304,41.887865,-88.446304,41.887865",
     "geom:latitude":41.887865,
     "geom:longitude":-88.446304,
@@ -35,7 +36,10 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dc3eFvmcq4MHuKzdcX8Ae_41.887865_-88.446304@1303262847"
@@ -43,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461952381,
     "wof:geomhash":"a0ec02a388e794d2292a41147e6d3bce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224219
+        }
+    ],
     "wof:id":740224219,
-    "wof:lastmodified":1472621911,
+    "wof:lastmodified":1492088070,
     "wof:name":"Hea Lori Ann Arrigo",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

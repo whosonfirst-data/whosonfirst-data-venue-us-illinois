@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.793383,41.58057,-87.793383,41.58057",
     "geom:latitude":41.58057,
     "geom:longitude":-87.793383,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890945,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890945
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b96643120c8b68fd10ecd5c6cd40310c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890945,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270174607,
-    "wof:lastmodified":1472621192,
+    "wof:lastmodified":1492093551,
     "wof:name":"Integrity Mortgage Inc",
     "wof:parent_id":85890945,
     "wof:placetype":"venue",

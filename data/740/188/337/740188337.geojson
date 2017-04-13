@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.611004,42.415884,-88.611004,42.415884",
     "geom:latitude":42.415884,
     "geom:longitude":-88.611004,
@@ -42,7 +43,14 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499081,
+        85633793,
+        85939005,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DwJWCSeSo6az11vWknV8m_42.415884_-88.611004@1303262842"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461951618,
     "wof:geomhash":"d987674db4054a855591fbdf27f8bc0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499081,
+            "locality_id":85939005,
+            "region_id":85688697,
+            "venue_id":740188337
+        }
+    ],
     "wof:id":740188337,
-    "wof:lastmodified":1472621844,
+    "wof:lastmodified":1492088160,
     "wof:name":"Old Cars Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

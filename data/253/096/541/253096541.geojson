@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873275,41.995442,-87.873275,41.995442",
     "geom:latitude":41.995442,
     "geom:longitude":-87.873275,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940743,
-        102084317,
-        85809035
+        85940947,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"d89b85d1bad2a7b7c58e20a68ffce223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85809035,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
             "region_id":85688697,
             "venue_id":253096541
         }
     ],
     "wof:id":253096541,
-    "wof:lastmodified":1472620949,
+    "wof:lastmodified":1491896979,
     "wof:name":"Allied International Co",
-    "wof:parent_id":85809035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

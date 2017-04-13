@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046185,42.114867,-88.046185,42.114867",
     "geom:latitude":42.114867,
     "geom:longitude":-88.046185,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890877,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890877
+        85688697
     ],
     "wof:brand_id":420574969,
     "wof:breaches":[],
@@ -48,9 +51,10 @@
     "wof:geomhash":"ecbc97d0469c8be4ab9b555fdbaf1d2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890877,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202521493,
-    "wof:lastmodified":1472621039,
+    "wof:lastmodified":1492107871,
     "wof:name":"Countrywide",
     "wof:parent_id":85890877,
     "wof:placetype":"venue",

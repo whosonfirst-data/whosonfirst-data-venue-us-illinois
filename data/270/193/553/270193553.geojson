@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.0764,42.167629,-88.0764,42.167629",
     "geom:latitude":42.167629,
     "geom:longitude":-88.0764,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867905,
+        102191575,
+        404498459,
         85633793,
         85938411,
         102086215,
-        85867905
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cc14359f190b23da3ff11361d137980d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938411,
             "neighbourhood_id":85867905,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270193553,
-    "wof:lastmodified":1472621234,
+    "wof:lastmodified":1492104928,
     "wof:name":"J W Furniture Co",
     "wof:parent_id":85867905,
     "wof:placetype":"venue",

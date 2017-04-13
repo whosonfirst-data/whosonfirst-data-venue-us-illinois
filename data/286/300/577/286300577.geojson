@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057141,42.104188,-88.057141,42.104188",
     "geom:latitude":42.104188,
     "geom:longitude":-88.057141,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890881,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890881
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"5e4fab4286eeca514b43a9d795bc52d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890881,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286300577,
-    "wof:lastmodified":1472620829,
+    "wof:lastmodified":1492090821,
     "wof:name":"Jeff Greene",
     "wof:parent_id":85890881,
     "wof:placetype":"venue",

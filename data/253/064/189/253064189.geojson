@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.808138,41.689741,-87.808138,41.689741",
     "geom:latitude":41.689741,
     "geom:longitude":-87.808138,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890891,
+        102191575,
+        404496277,
         85633793,
-        85940745,
+        85940747,
         102084317,
-        85890891
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a4f2cd6c8e4378dacf6f2ef7f0355a18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940745,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
             "neighbourhood_id":85890891,
             "region_id":85688697,
             "venue_id":253064189
         }
     ],
     "wof:id":253064189,
-    "wof:lastmodified":1472620883,
+    "wof:lastmodified":1492090044,
     "wof:name":"Fernwood Cleaners",
     "wof:parent_id":85890891,
     "wof:placetype":"venue",

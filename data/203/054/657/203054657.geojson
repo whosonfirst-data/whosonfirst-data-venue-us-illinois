@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039072,41.790576,-88.039072,41.790576",
     "geom:latitude":41.790576,
     "geom:longitude":-88.039072,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805589,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85805589
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ad8ce034a346a4c4aef3dc3493353c64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85805589,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203054657,
-    "wof:lastmodified":1472620874,
+    "wof:lastmodified":1492106032,
     "wof:name":"Woodland Mold & Tool",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",

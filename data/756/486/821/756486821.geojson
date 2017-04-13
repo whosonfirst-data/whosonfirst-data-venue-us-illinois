@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.168413,41.821312,-88.168413,41.821312",
     "geom:latitude":41.821312,
     "geom:longitude":-88.168413,
@@ -36,10 +37,13 @@
     "sg:website":"http://www.dealaboo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518985,
+        102191575,
+        404497659,
         85633793,
-        85890979,
-        102081257
+        85940147,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,20 @@
     "wof:geomhash":"e3f91920aedf1927bf9c959e701de4a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "neighbourhood_id":85890979,
+            "localadmin_id":404497659,
+            "locality_id":85940147,
+            "neighbourhood_id":420518985,
             "region_id":85688697,
             "venue_id":756486821
         }
     ],
     "wof:id":756486821,
-    "wof:lastmodified":1472622255,
+    "wof:lastmodified":1492106840,
     "wof:name":"Dealaboo.com",
-    "wof:parent_id":85890979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.103333,41.772005,-88.103333,41.772005",
     "geom:latitude":41.772005,
     "geom:longitude":-88.103333,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890829,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890829
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,10 @@
     "wof:geomhash":"0228bd3cd38710a7c2368bc55ef7437f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890829,
             "region_id":85688697,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":756059713,
-    "wof:lastmodified":1472621291,
+    "wof:lastmodified":1492104514,
     "wof:name":"Millennium Enterprises Ltd",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",

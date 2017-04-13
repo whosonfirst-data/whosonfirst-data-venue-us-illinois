@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855104,42.402761,-87.855104,42.402761",
     "geom:latitude":42.402761,
     "geom:longitude":-87.855104,
@@ -37,10 +38,13 @@
     "sg:website":"www.waukeganparks.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,18 @@
     "wof:geomhash":"9b01535cf21fb522f4c9e24f38bdf038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":186623293
         }
     ],
     "wof:id":186623293,
-    "wof:lastmodified":1472620979,
+    "wof:lastmodified":1492096122,
     "wof:name":"Bonnie Brook Golf Course",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.008811,42.309367,-88.008811,42.309367",
     "geom:latitude":42.309367,
     "geom:longitude":-88.008811,
@@ -34,11 +35,13 @@
     "sg:website":"www.vjkillian.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
+        85938331,
         102086215,
-        85890821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"4d375fa5200563560b9abca0c64dc7df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
             "neighbourhood_id":85890821,
             "region_id":85688697,
             "venue_id":286531001
         }
     ],
     "wof:id":286531001,
-    "wof:lastmodified":1472621439,
+    "wof:lastmodified":1492095481,
     "wof:name":"V J Killian Co",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",

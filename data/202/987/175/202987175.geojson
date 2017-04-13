@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.745498,41.737115,-87.745498,41.737115",
     "geom:latitude":41.737115,
     "geom:longitude":-87.745498,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497589,
         85633793,
-        85940195,
-        102084317,
-        85869643
+        85940891,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"11f741c64abc24bd11d591b6ba375ba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869643,
+            "localadmin_id":404497589,
+            "locality_id":85940891,
             "region_id":85688697,
             "venue_id":202987175
         }
     ],
     "wof:id":202987175,
-    "wof:lastmodified":1472621324,
+    "wof:lastmodified":1492089709,
     "wof:name":"Alterations Unlimited",
-    "wof:parent_id":85869643,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.138903,41.549924,-88.138903,41.549924",
     "geom:latitude":41.549924,
     "geom:longitude":-88.138903,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845453,
+        102191575,
+        404499145,
         85633793,
         85940565,
         102080845,
-        85845453
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e9cb62f0d550f54c4ddd6fba9a58a022",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499145,
             "locality_id":85940565,
             "neighbourhood_id":85845453,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236606927,
-    "wof:lastmodified":1472621735,
+    "wof:lastmodified":1492100180,
     "wof:name":"Centers For Family Svc",
     "wof:parent_id":85845453,
     "wof:placetype":"venue",

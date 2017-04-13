@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.818741,41.865273,-87.818741,41.865273",
     "geom:latitude":41.865273,
     "geom:longitude":-87.818741,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890731,
+        102191575,
+        404497585,
         85633793,
-        85940849,
+        85940763,
         102084317,
-        85890731
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"5f8b9c36f4ae304e305fcbdd5c1f2ac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497585,
+            "locality_id":85940763,
             "neighbourhood_id":85890731,
             "region_id":85688697,
             "venue_id":219457627
         }
     ],
     "wof:id":219457627,
-    "wof:lastmodified":1472621365,
+    "wof:lastmodified":1492095497,
     "wof:name":"Tappd Out Industries",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825477,41.429906,-87.825477,41.429906",
     "geom:latitude":41.429906,
     "geom:longitude":-87.825477,
@@ -28,7 +29,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499137,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pCQh5IUxLaoLIGVZx39eX_41.429906_-87.825477@1294102059"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461949755,
     "wof:geomhash":"c41b911faedf3e591357e212ffc45eec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499137,
+            "region_id":85688697,
+            "venue_id":740106669
+        }
+    ],
     "wof:id":740106669,
-    "wof:lastmodified":1472621126,
+    "wof:lastmodified":1492102125,
     "wof:name":"Striggow Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.187162,41.993817,-88.187162,41.993817",
     "geom:latitude":41.993817,
     "geom:longitude":-88.187162,
@@ -31,7 +32,14 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bLfjCE57bdUoHf8b6s0sZ_41.993817_-88.187162@1303262846"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952168,
     "wof:geomhash":"53816e5fa8718936108939259843875f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740214043
+        }
+    ],
     "wof:id":740214043,
-    "wof:lastmodified":1472621908,
+    "wof:lastmodified":1492089505,
     "wof:name":"Lighthouse Information Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

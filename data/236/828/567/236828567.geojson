@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.979978,41.847805,-87.979978,41.847805",
     "geom:latitude":41.847805,
     "geom:longitude":-87.979978,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85853309,
+        102191575,
+        404497661,
         85633793,
-        85940151,
+        85940185,
         102081257,
-        85853309
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"348bc430268e3e937c8db970c8946319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940151,
+            "localadmin_id":404497661,
+            "locality_id":85940185,
             "neighbourhood_id":85853309,
             "region_id":85688697,
             "venue_id":236828567
         }
     ],
     "wof:id":236828567,
-    "wof:lastmodified":1472621775,
+    "wof:lastmodified":1492093342,
     "wof:name":"Halsik Limited",
     "wof:parent_id":85853309,
     "wof:placetype":"venue",

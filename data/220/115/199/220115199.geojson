@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.020263,41.741934,-88.020263,41.741934",
     "geom:latitude":41.741934,
     "geom:longitude":-88.020263,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519029,
+        102191575,
+        404497651,
         85633793,
         85940203,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"30abebd347359fe13c51235b79223e8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940203,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519029,
             "region_id":85688697,
             "venue_id":220115199
         }
     ],
     "wof:id":220115199,
-    "wof:lastmodified":1472620960,
+    "wof:lastmodified":1492109326,
     "wof:name":"Erico-Caddy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

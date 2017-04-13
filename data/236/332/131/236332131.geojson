@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.823986,41.979945,-87.823986,41.979945",
     "geom:latitude":41.979945,
     "geom:longitude":-87.823986,
@@ -35,12 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497639,
         85633793,
-        85940743,
-        102084317,
-        85867583,
-        85940771,
-        85837121
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +49,16 @@
     "wof:geomhash":"a06ce29e08017ee408ecb1706b7b977f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85867583,
-            "region_id":85688697,
-            "venue_id":236332131
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85940771,
-            "neighbourhood_id":85837121,
+            "localadmin_id":404497639,
             "region_id":85688697,
             "venue_id":236332131
         }
     ],
     "wof:id":236332131,
-    "wof:lastmodified":1472621537,
+    "wof:lastmodified":1492093416,
     "wof:name":"United Remodelers & Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

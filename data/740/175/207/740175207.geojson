@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.792744,41.56085,-87.792744,41.56085",
     "geom:latitude":41.56085,
     "geom:longitude":-87.792744,
@@ -33,7 +34,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497613,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NnYt23bVcbnLD3qlkbOPC_41.560703_-87.792729@1294102059"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461951331,
     "wof:geomhash":"cc83ab49c7837eac021c6a5f56f7d20c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497613,
+            "region_id":85688697,
+            "venue_id":740175207
+        }
+    ],
     "wof:id":740175207,
-    "wof:lastmodified":1472621823,
+    "wof:lastmodified":1492090874,
     "wof:name":"Tin Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

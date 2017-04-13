@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.045996,41.709342,-88.045996,41.709342",
     "geom:latitude":41.709342,
     "geom:longitude":-88.045996,
@@ -32,7 +33,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nrFk1bPxDiGA0zAnvBThS_41.709342_-88.045996@1303262856"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953888,
     "wof:geomhash":"5acf0b2bdf9255db8424ec8562a647d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024073
+        }
+    ],
     "wof:id":756024073,
-    "wof:lastmodified":1472620804,
+    "wof:lastmodified":1492089867,
     "wof:name":"Aenon Consultants Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

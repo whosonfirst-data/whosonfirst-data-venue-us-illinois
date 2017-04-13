@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.069076,41.87397,-88.069076,41.87397",
     "geom:latitude":41.87397,
     "geom:longitude":-88.069076,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867835,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85867835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"cd28f9d6daebf6e716802a7b3eb5ae3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85867835,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":253387061,
-    "wof:lastmodified":1472621464,
+    "wof:lastmodified":1492096036,
     "wof:name":"Kenneth Joyce",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",

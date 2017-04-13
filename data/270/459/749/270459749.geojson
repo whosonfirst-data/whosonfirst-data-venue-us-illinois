@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.931494,42.077403,-87.931494,42.077403",
     "geom:latitude":42.077403,
     "geom:longitude":-87.931494,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:brand_id":420574769,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"f4d32aed12b5fb0d82ca8233ecea2dc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":270459749,
-    "wof:lastmodified":1472621494,
+    "wof:lastmodified":1492103267,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

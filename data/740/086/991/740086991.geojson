@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.526277,40.999757,-87.526277,40.999757",
     "geom:latitude":40.999757,
     "geom:longitude":-87.526277,
@@ -28,7 +29,13 @@
     "sg:postcode":"60912",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M1LLMuwDs6pCxtQGnKc8b_40.999757_-87.526277@1294102059"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461949219,
     "wof:geomhash":"8ce83587e74cff9aea5ce318179e1eca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":740086991
+        }
+    ],
     "wof:id":740086991,
-    "wof:lastmodified":1472620852,
+    "wof:lastmodified":1492096858,
     "wof:name":"Northern Irqs Mlti Prps Sr Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

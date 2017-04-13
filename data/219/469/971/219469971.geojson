@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.666398,41.535734,-87.666398,41.535734",
     "geom:latitude":41.535734,
     "geom:longitude":-87.666398,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85868891,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85868891
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9266667650a43d9f603f4767e87af776",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85868891,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219469971,
-    "wof:lastmodified":1472621381,
+    "wof:lastmodified":1492088399,
     "wof:name":"Armstrong Law Firm",
     "wof:parent_id":85868891,
     "wof:placetype":"venue",

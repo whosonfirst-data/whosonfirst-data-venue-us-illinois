@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.754688,41.706006,-87.754688,41.706006",
     "geom:latitude":41.706006,
     "geom:longitude":-87.754688,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f0670af724fafb39508456e9b0a9384d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253014919,
-    "wof:lastmodified":1472620764,
+    "wof:lastmodified":1492090533,
     "wof:name":"Donna Estrada Translators",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

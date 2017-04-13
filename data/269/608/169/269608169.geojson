@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952751,41.788572,-87.952751,41.788572",
     "geom:latitude":41.788572,
     "geom:longitude":-87.952751,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519009,
+        102191575,
+        404497649,
         85633793,
         85940169,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"404707e7651827e9a7ef10d37ba653aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519009,
             "region_id":85688697,
             "venue_id":269608169
         }
     ],
     "wof:id":269608169,
-    "wof:lastmodified":1472621103,
+    "wof:lastmodified":1492095475,
     "wof:name":"Jerome A Vinkler",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

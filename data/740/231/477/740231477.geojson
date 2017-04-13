@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.147886,41.98907,-88.147886,41.98907",
     "geom:latitude":41.98907,
     "geom:longitude":-88.147886,
@@ -28,7 +29,14 @@
     "sg:postcode":"60133",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940189,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52r3X9bEt3wVpSpUb5Fq35_41.989070_-88.147886@1303262848"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952535,
     "wof:geomhash":"f3d0e68475c5c24927d5950a5264dffb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940189,
+            "region_id":85688697,
+            "venue_id":740231477
+        }
+    ],
     "wof:id":740231477,
-    "wof:lastmodified":1472621931,
+    "wof:lastmodified":1492091288,
     "wof:name":"Lily Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

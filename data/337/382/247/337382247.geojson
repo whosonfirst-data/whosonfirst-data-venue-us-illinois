@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.738094,41.580044,-87.738094,41.580044",
     "geom:latitude":41.580044,
     "geom:longitude":-87.738094,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890863,
+        102191575,
+        404497613,
         85633793,
         85940761,
         102084317,
-        85890863
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"b612b62f6e80706b4fe05d788652a6ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497613,
             "locality_id":85940761,
             "neighbourhood_id":85890863,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":337382247,
-    "wof:lastmodified":1472620833,
+    "wof:lastmodified":1492092122,
     "wof:name":"Bruno Galatte & Sons",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",

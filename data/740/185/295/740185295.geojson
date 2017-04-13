@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.837015,42.084358,-87.837015,42.084358",
     "geom:latitude":42.084358,
     "geom:longitude":-87.837015,
@@ -31,7 +32,14 @@
         "lithographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FpCEZfUB0Ni9bTi4D6CJK_42.084358_-87.837015@1303262842"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951559,
     "wof:geomhash":"7df58712acffdf5a79d66c4f9234b33c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740185295
+        }
+    ],
     "wof:id":740185295,
-    "wof:lastmodified":1472621839,
+    "wof:lastmodified":1492092385,
     "wof:name":"Hammond Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

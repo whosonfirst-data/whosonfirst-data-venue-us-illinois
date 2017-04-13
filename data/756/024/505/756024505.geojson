@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.052806,41.705168,-88.052806,41.705168",
     "geom:latitude":41.705168,
     "geom:longitude":-88.052806,
@@ -31,7 +32,14 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZemRnBOfnlPJJZNZlLSpo_41.705168_-88.052806@1303262856"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953896,
     "wof:geomhash":"5c364336cdaa2f7cf3c015e51c513a1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024505
+        }
+    ],
     "wof:id":756024505,
-    "wof:lastmodified":1472620836,
+    "wof:lastmodified":1492089869,
     "wof:name":"T M Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

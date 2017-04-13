@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.945796,42.282394,-87.945796,42.282394",
     "geom:latitude":42.282394,
     "geom:longitude":-87.945796,
@@ -28,7 +29,10 @@
     "sg:postcode":"60048",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1amOz9f2CM8PTOV8sKrpFn_42.282394_-87.945796@1303262843"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461951666,
     "wof:geomhash":"79b17cc09bb4a0b01848980c01529aa9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190947
+        }
+    ],
     "wof:id":740190947,
-    "wof:lastmodified":1472621873,
+    "wof:lastmodified":1492107916,
     "wof:name":"Schi Restaurants",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

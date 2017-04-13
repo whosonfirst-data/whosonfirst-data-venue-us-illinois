@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.313756,41.864715,-88.313756,41.864715",
     "geom:latitude":41.864715,
     "geom:longitude":-88.313756,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729,
-        85940213,
-        85867853
+        85688697,
+        85867853,
+        404498235,
+        85940213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +52,20 @@
     "wof:geomhash":"4138438cb6705606aa49351ff5386977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
             "venue_id":202592303
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498235,
             "locality_id":85940213,
             "neighbourhood_id":85867853,
             "region_id":85688697,
@@ -67,9 +73,9 @@
         }
     ],
     "wof:id":202592303,
-    "wof:lastmodified":1472621113,
+    "wof:lastmodified":1492092840,
     "wof:name":"Robert J Metts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

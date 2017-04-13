@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.892012,42.036217,-87.892012,42.036217",
     "geom:latitude":42.036217,
     "geom:longitude":-87.892012,
@@ -29,10 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890769,
+        102191575,
+        404497631,
         85633793,
         85940869,
-        102084317
+        102084317,
+        85688697,
+        85890773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"c53eea9aee150c6d9c2841cd5628045e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890769,
+            "region_id":85688697,
+            "venue_id":203001661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940869,
+            "neighbourhood_id":85890773,
             "region_id":85688697,
             "venue_id":203001661
         }
     ],
     "wof:id":203001661,
-    "wof:lastmodified":1472620738,
+    "wof:lastmodified":1492096236,
     "wof:name":"Emergency Nurses Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.445961,41.63089,-88.445961,41.63089",
     "geom:latitude":41.63089,
     "geom:longitude":-88.445961,
@@ -39,7 +40,14 @@
         "sheet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bpBrPNjPieiu47ftYP4wL_41.630890_-88.445961@1303262862"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954846,
     "wof:geomhash":"6e0db17f5b9e522ca3997fb9dc7a0dab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756068813
+        }
+    ],
     "wof:id":756068813,
-    "wof:lastmodified":1472621411,
+    "wof:lastmodified":1492098032,
     "wof:name":"Stem Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

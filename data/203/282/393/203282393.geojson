@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.806725,41.885297,-87.806725,41.885297",
     "geom:latitude":41.885297,
     "geom:longitude":-87.806725,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890873,
+        102191575,
+        404497579,
         85633793,
         85940849,
         102084317,
-        85890873
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"4298d249ce9c6b7896e6b2419268d9c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940849,
             "neighbourhood_id":85890873,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203282393,
-    "wof:lastmodified":1472621159,
+    "wof:lastmodified":1492091025,
     "wof:name":"Chicago Mgt & Career Cons",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",

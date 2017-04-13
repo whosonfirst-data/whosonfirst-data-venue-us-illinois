@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.838141,41.587309,-88.838141,41.587309",
     "geom:latitude":41.587309,
     "geom:longitude":-88.838141,
@@ -25,7 +26,13 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496581,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aJh21nqfYMYk6EXM6XJII_41.587309_-88.838141@1294102059"
@@ -33,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1461950318,
     "wof:geomhash":"b5cbf49838c6f01396dfd3485475ecdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404496581,
+            "region_id":85688697,
+            "venue_id":740128657
+        }
+    ],
     "wof:id":740128657,
-    "wof:lastmodified":1472621419,
+    "wof:lastmodified":1492088572,
     "wof:name":"Vincent & Marjorie Larkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

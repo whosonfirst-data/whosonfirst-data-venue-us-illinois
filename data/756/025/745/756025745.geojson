@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.991609,41.426766,-87.991609,41.426766",
     "geom:latitude":41.426766,
     "geom:longitude":-87.991609,
@@ -31,7 +32,10 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CW9kHNGCXMqy6AI2kENRw_41.426766_-87.991609@1303262856"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"1ff4869e4bf994cfc8227e5aefc0d922",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025745
+        }
+    ],
     "wof:id":756025745,
-    "wof:lastmodified":1472620873,
+    "wof:lastmodified":1492092889,
     "wof:name":"Custom Carpentry",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

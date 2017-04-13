@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068369,41.76222,-88.068369,41.76222",
     "geom:latitude":41.76222,
     "geom:longitude":-88.068369,
@@ -32,7 +33,10 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pBsiIvevjujGPk4Usgy37_41.762220_-88.068369@1303262860"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954545,
     "wof:geomhash":"09771340b199a404035c538aa591b54d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055139
+        }
+    ],
     "wof:id":756055139,
-    "wof:lastmodified":1472621143,
+    "wof:lastmodified":1492106151,
     "wof:name":"Globe Imaging",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

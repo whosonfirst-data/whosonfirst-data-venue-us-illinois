@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.350408,41.684359,-88.350408,41.684359",
     "geom:latitude":41.684359,
     "geom:longitude":-88.350408,
@@ -31,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63TrlZmAbQzNZLhjBdZH8X_41.684359_-88.350408@1303262861"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954703,
     "wof:geomhash":"bfea60b70d220f1d201b558531a0a61d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756063083
+        }
+    ],
     "wof:id":756063083,
-    "wof:lastmodified":1472621319,
+    "wof:lastmodified":1492102403,
     "wof:name":"Papa Joeseppi's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

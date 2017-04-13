@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.884867,42.202664,-87.884867,42.202664",
     "geom:latitude":42.202664,
     "geom:longitude":-87.884867,
@@ -30,11 +31,13 @@
     "sg:website":"www.cbre.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867883,
+        102191575,
+        404498369,
         85633793,
         85938355,
         102086215,
-        85867883
+        85688697
     ],
     "wof:brand_id":420575785,
     "wof:breaches":[],
@@ -45,9 +48,10 @@
     "wof:geomhash":"70cf80eb6cdb02e1c70d685a324bc392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938355,
             "neighbourhood_id":85867883,
             "region_id":85688697,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":236917781,
-    "wof:lastmodified":1472621784,
+    "wof:lastmodified":1492090889,
     "wof:name":"C B Richard Ellis",
     "wof:parent_id":85867883,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.888236,42.293561,-88.888236,42.293561",
     "geom:latitude":42.293561,
     "geom:longitude":-88.888236,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"http://www.marsiliconsulting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sAEss14qutR7OXVZbwD9F_42.293561_-88.888236@1303262910"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461962974,
     "wof:geomhash":"7fce8e95f644ac9e9ee3cfb309bc2020",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "region_id":85688697,
+            "venue_id":756428493
+        }
+    ],
     "wof:id":756428493,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492096436,
     "wof:name":"Marsili Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

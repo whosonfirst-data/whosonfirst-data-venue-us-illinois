@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.02174,41.917567,-88.02174,41.917567",
     "geom:latitude":41.917567,
     "geom:longitude":-88.02174,
@@ -31,7 +32,14 @@
         "floors-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940175,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63Q0bbsyV7ckgR5VmfZD1W_41.917567_-88.021740@1303262845"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952037,
     "wof:geomhash":"ed9ea98ee422a18fbc2b00b69e901867",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940175,
+            "region_id":85688697,
+            "venue_id":740208443
+        }
+    ],
     "wof:id":740208443,
-    "wof:lastmodified":1472621902,
+    "wof:lastmodified":1492110318,
     "wof:name":"Vanguard Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

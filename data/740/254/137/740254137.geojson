@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.182999,41.858299,-88.182999,41.858299",
     "geom:latitude":41.858299,
     "geom:longitude":-88.182999,
@@ -28,7 +29,10 @@
     "sg:postcode":"60185",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IFEiTXCbW02JiX1cslFyj_41.858299_-88.182999@1303262851"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953035,
     "wof:geomhash":"b6e6c40d8f09d8f4e69a95adab7f31f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740254137
+        }
+    ],
     "wof:id":740254137,
-    "wof:lastmodified":1472621959,
+    "wof:lastmodified":1492096825,
     "wof:name":"West Wind Motel",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

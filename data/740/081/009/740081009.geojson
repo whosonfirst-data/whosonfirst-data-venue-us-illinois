@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.821839,42.493213,-87.821839,42.493213",
     "geom:latitude":42.493213,
     "geom:longitude":-87.821839,
@@ -28,7 +29,14 @@
     "sg:postcode":"53158",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493401,
+        85633793,
+        101732575,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RPwrdRLeygLhxJMrQNZia_42.493213_-87.821839@1294102059"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461949026,
     "wof:geomhash":"05e942f77a4260f104e8d0c0e8965b88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493401,
+            "locality_id":101732575,
+            "region_id":85688517,
+            "venue_id":740081009
+        }
+    ],
     "wof:id":740081009,
-    "wof:lastmodified":1472620818,
+    "wof:lastmodified":1492092378,
     "wof:name":"Dollar Saver Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

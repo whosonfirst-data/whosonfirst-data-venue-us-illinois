@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.875614,42.359421,-87.875614,42.359421",
     "geom:latitude":42.359421,
     "geom:longitude":-87.875614,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850431,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85850431
+        85688697
     ],
     "wof:brand_id":420575831,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"c1c5e1c94ee84510634e38943052db6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85850431,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203222123,
-    "wof:lastmodified":1472621134,
+    "wof:lastmodified":1492109612,
     "wof:name":"Penske",
     "wof:parent_id":85850431,
     "wof:placetype":"venue",

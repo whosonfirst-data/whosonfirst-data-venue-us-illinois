@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964855,42.196101,-87.964855,42.196101",
     "geom:latitude":42.196101,
     "geom:longitude":-87.964855,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890959,
+        102191575,
+        404498371,
         85633793,
         85938629,
         102086215,
-        85890959
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e10d5bf2b1cfa78a44b319ce3d74c809",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498371,
             "locality_id":85938629,
             "neighbourhood_id":85890959,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253423957,
-    "wof:lastmodified":1472621509,
+    "wof:lastmodified":1492089027,
     "wof:name":"Marcia S Dance Studio",
     "wof:parent_id":85890959,
     "wof:placetype":"venue",

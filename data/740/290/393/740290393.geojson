@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.022217,41.482084,-88.022217,41.482084",
     "geom:latitude":41.482084,
     "geom:longitude":-88.022217,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"http://www.ethanallen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uFGz1E2t2PWWg63sMZnVk_41.482084_-88.022217@1303262855"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953786,
     "wof:geomhash":"9a22229e89d2d3851708c4524cd1a5f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":740290393
+        }
+    ],
     "wof:id":740290393,
-    "wof:lastmodified":1472622013,
+    "wof:lastmodified":1492107886,
     "wof:name":"Morrison's Ethan Allen Gallery",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

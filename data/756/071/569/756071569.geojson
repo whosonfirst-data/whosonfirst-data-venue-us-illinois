@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.202453,41.709781,-88.202453,41.709781",
     "geom:latitude":41.709781,
     "geom:longitude":-88.202453,
@@ -39,11 +40,13 @@
     "sg:website":"http://www.menswearhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879067,
+        102191575,
+        404497655,
         85633793,
         85940205,
-        102080845,
-        85879067
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,8 +57,10 @@
     "wof:geomhash":"56fa47191b5b7aa92a6d7e5a37f505e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080845,
+            "county_id":102081257,
+            "localadmin_id":404497655,
             "locality_id":85940205,
             "neighbourhood_id":85879067,
             "region_id":85688697,
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":756071569,
-    "wof:lastmodified":1472621389,
+    "wof:lastmodified":1492089877,
     "wof:name":"Men's Wearhouse",
     "wof:parent_id":85879067,
     "wof:placetype":"venue",

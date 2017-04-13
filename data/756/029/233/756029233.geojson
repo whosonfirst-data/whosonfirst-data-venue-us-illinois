@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.310011,41.450847,-88.310011,41.450847",
     "geom:latitude":41.450847,
     "geom:longitude":-88.310011,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,10 @@
     "wof:geomhash":"c44a09788a322710c1bf27de5b81cd29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":756029233,
-    "wof:lastmodified":1472620830,
+    "wof:lastmodified":1492104370,
     "wof:name":"Mark Siegel",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

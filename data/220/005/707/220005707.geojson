@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.288754,41.743174,-88.288754,41.743174",
     "geom:latitude":41.743174,
     "geom:longitude":-88.288754,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847483,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85847483
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"e2153627c3d4983bbc6ce9b6266f26f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85847483,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":220005707,
-    "wof:lastmodified":1472620740,
+    "wof:lastmodified":1492088543,
     "wof:name":"Tiger Athletic Club",
     "wof:parent_id":85847483,
     "wof:placetype":"venue",

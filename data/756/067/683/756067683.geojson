@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.765266,41.703611,-88.765266,41.703611",
     "geom:latitude":41.703611,
     "geom:longitude":-88.765266,
@@ -22,7 +23,13 @@
     "sg:postcode":"60556",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496299,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K0VZBJ7M0edTNQFVJumCY_41.703611_-88.765266@1303262862"
@@ -30,9 +37,18 @@
     "wof:country":"US",
     "wof:created":1461954817,
     "wof:geomhash":"4fc00b7f4f551a83f35e6dfbd4dc1f99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404496299,
+            "region_id":85688697,
+            "venue_id":756067683
+        }
+    ],
     "wof:id":756067683,
-    "wof:lastmodified":1472621381,
+    "wof:lastmodified":1492097836,
     "wof:name":"Keith's Kustom Decks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

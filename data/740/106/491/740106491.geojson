@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078318,42.369298,-88.078318,42.369298",
     "geom:latitude":42.369298,
     "geom:longitude":-88.078318,
@@ -26,11 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +44,18 @@
     "wof:geomhash":"aa888866956b8cb0ed8d5f008113c0a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740106491
         }
     ],
     "wof:id":740106491,
-    "wof:lastmodified":1472621135,
+    "wof:lastmodified":1492103609,
     "wof:name":"Upscale Transducer",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

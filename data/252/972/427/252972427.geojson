@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964741,41.902161,-87.964741,41.902161",
     "geom:latitude":41.902161,
     "geom:longitude":-87.964741,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890967,
+        102191575,
+        404497661,
         85633793,
+        85940149,
         102081257,
-        85890967
+        85688697
     ],
     "wof:brand_id":420574117,
     "wof:breaches":[],
@@ -47,17 +51,18 @@
     "wof:geomhash":"9e04e44d9f5e5c7b2fa5d956313805e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940149,
             "neighbourhood_id":85890967,
             "region_id":85688697,
             "venue_id":252972427
         }
     ],
     "wof:id":252972427,
-    "wof:lastmodified":1472621121,
+    "wof:lastmodified":1492091883,
     "wof:name":"Bath & Body Works Inc",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",

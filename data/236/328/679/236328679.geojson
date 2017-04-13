@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.894087,41.124077,-87.894087,41.124077",
     "geom:latitude":41.124077,
     "geom:longitude":-87.894087,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519097,
+        102191575,
+        404498377,
         85633793,
         85939977,
-        102081259
+        102081259,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"984ef783196c3d7ad7765e4ee1991b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498377,
             "locality_id":85939977,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519097,
             "region_id":85688697,
             "venue_id":236328679
         }
     ],
     "wof:id":236328679,
-    "wof:lastmodified":1472621541,
+    "wof:lastmodified":1492092050,
     "wof:name":"Spanish Broadcasting Syst Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

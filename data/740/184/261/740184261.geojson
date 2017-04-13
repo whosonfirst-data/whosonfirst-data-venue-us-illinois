@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798077,42.087972,-87.798077,42.087972",
     "geom:latitude":42.087972,
     "geom:longitude":-87.798077,
@@ -50,7 +51,14 @@
     ],
     "sg:website":"http://www.countryfinancial.com/kevin.smith",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FNH88QzT8PZn9t6BQDD6d_42.087972_-87.798077@1303262842"
@@ -58,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461951530,
     "wof:geomhash":"8612f926041f02ef9b9aadc20669e80e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184261
+        }
+    ],
     "wof:id":740184261,
-    "wof:lastmodified":1472621838,
+    "wof:lastmodified":1492108601,
     "wof:name":"COUNTRY Financial Kevin Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

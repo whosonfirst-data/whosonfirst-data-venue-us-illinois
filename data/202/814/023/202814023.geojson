@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.968358,41.97637,-87.968358,41.97637",
     "geom:latitude":41.97637,
     "geom:longitude":-87.968358,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518939,
+        102191575,
+        404497761,
         85633793,
-        85940133,
-        102081257
+        85940201,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"d9129f8589e9a087965fcb4a2e7599b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940133,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497761,
+            "locality_id":85940201,
+            "neighbourhood_id":420518939,
             "region_id":85688697,
             "venue_id":202814023
         }
     ],
     "wof:id":202814023,
-    "wof:lastmodified":1472621282,
+    "wof:lastmodified":1492093346,
     "wof:name":"Apg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

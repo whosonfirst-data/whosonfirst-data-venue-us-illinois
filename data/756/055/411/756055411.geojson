@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068304,41.76654,-88.068304,41.76654",
     "geom:latitude":41.76654,
     "geom:longitude":-88.068304,
@@ -38,7 +39,10 @@
         "invitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GS5sIqDZ1xULOqWhW0PpN_41.766540_-88.068304@1303262860"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461954551,
     "wof:geomhash":"58c569cb97cea5314da2c74266d4ba7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055411
+        }
+    ],
     "wof:id":756055411,
-    "wof:lastmodified":1472621157,
+    "wof:lastmodified":1492093056,
     "wof:name":"You're Invited Too",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

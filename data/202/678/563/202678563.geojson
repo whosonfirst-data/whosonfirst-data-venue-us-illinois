@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.281974,42.225278,-88.281974,42.225278",
     "geom:latitude":42.225278,
     "geom:longitude":-88.281974,
@@ -30,10 +31,13 @@
     "sg:website":"www.officemax.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:brand_id":420574459,
     "wof:breaches":[],
@@ -44,17 +48,18 @@
     "wof:geomhash":"c729849dc94137fe7b241c835f4d256a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":202678563
         }
     ],
     "wof:id":202678563,
-    "wof:lastmodified":1472621202,
+    "wof:lastmodified":1492090419,
     "wof:name":"Office Max",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

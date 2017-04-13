@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.039302,42.134744,-88.039302,42.134744",
     "geom:latitude":42.134744,
     "geom:longitude":-88.039302,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867627,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85867627
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"774a40228fcb19c8f89bd3865219298e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85867627,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253055093,
-    "wof:lastmodified":1472620855,
+    "wof:lastmodified":1492091545,
     "wof:name":"Walt Halatek",
     "wof:parent_id":85867627,
     "wof:placetype":"venue",

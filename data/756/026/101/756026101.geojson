@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.751556,41.50732,-87.751556,41.50732",
     "geom:latitude":41.50732,
     "geom:longitude":-87.751556,
@@ -34,7 +35,14 @@
         "pension"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497581,
+        85633793,
+        85940549,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CA71JdsotlcHvyzmy883R_41.507320_-87.751556@1303262856"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461953928,
     "wof:geomhash":"c212f3f323ab7f98829632a4360c6452",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497581,
+            "locality_id":85940549,
+            "region_id":85688697,
+            "venue_id":756026101
+        }
+    ],
     "wof:id":756026101,
-    "wof:lastmodified":1472620824,
+    "wof:lastmodified":1492104788,
     "wof:name":"Matteson Fire Fighters Pension Fund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

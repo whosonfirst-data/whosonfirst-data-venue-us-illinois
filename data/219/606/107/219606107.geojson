@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.790818,42.136544,-87.790818,42.136544",
     "geom:latitude":42.136544,
     "geom:longitude":-87.790818,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85807027,
+        102191575,
+        404497633,
         85633793,
         85940841,
         102084317,
-        85807027
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"dd7026fde001e30cab8614cb41f41245",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940841,
             "neighbourhood_id":85807027,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219606107,
-    "wof:lastmodified":1472621508,
+    "wof:lastmodified":1492096754,
     "wof:name":"Universal Training Systems",
     "wof:parent_id":85807027,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.842101,42.171978,-87.842101,42.171978",
     "geom:latitude":42.171978,
     "geom:longitude":-87.842101,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867867,
+        102191575,
+        404499869,
         85633793,
         85938413,
         102086215,
-        85867867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b83d9f6ea7c307f8e58bf03a9b5ddc0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938413,
             "neighbourhood_id":85867867,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":252729741,
-    "wof:lastmodified":1472620791,
+    "wof:lastmodified":1492089960,
     "wof:name":"Windy City Decorating",
     "wof:parent_id":85867867,
     "wof:placetype":"venue",

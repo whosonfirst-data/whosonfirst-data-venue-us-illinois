@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865118,41.149001,-87.865118,41.149001",
     "geom:latitude":41.149001,
     "geom:longitude":-87.865118,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890745,
+        102191575,
+        404498243,
         85633793,
         85939993,
         102081259,
-        85890745
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d2b9e82b1836bf11b7813c75d75741b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498243,
             "locality_id":85939993,
             "neighbourhood_id":85890745,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269767603,
-    "wof:lastmodified":1472621334,
+    "wof:lastmodified":1492105450,
     "wof:name":"Eubanks Sewer Maintenance Rpr",
     "wof:parent_id":85890745,
     "wof:placetype":"venue",

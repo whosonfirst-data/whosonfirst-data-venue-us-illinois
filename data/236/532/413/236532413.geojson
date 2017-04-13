@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.768651,41.679638,-87.768651,41.679638",
     "geom:latitude":41.679638,
     "geom:longitude":-87.768651,
@@ -34,11 +35,12 @@
     "sg:website":"www.fascofasteners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890893,
+        102191575,
+        404497667,
         85633793,
-        85940749,
         102084317,
-        85890893
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,17 @@
     "wof:geomhash":"261acc9f867cb7aca185bc0437d35022",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940749,
+            "localadmin_id":404497667,
             "neighbourhood_id":85890893,
             "region_id":85688697,
             "venue_id":236532413
         }
     ],
     "wof:id":236532413,
-    "wof:lastmodified":1472621719,
+    "wof:lastmodified":1492098222,
     "wof:name":"Fasco Inc",
     "wof:parent_id":85890893,
     "wof:placetype":"venue",

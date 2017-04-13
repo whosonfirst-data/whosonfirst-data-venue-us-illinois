@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.858254,41.782981,-87.858254,41.782981",
     "geom:latitude":41.782981,
     "geom:longitude":-87.858254,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.cellularadvantage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940821,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iqzGjxbo8tY7AYfRMlTPd_41.782981_-87.858254@1303262860"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954594,
     "wof:geomhash":"032ffd3c1151bb56bbdedbb3f21d4f5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940821,
+            "region_id":85688697,
+            "venue_id":756057397
+        }
+    ],
     "wof:id":756057397,
-    "wof:lastmodified":1472621195,
+    "wof:lastmodified":1492089398,
     "wof:name":"Cellular Advantage-Hodgkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

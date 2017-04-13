@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.536835,41.584352,-87.536835,41.584352",
     "geom:latitude":41.584352,
     "geom:longitude":-87.536835,
@@ -28,7 +29,14 @@
     "sg:postcode":"60438",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SYH7ongPnnqneg4Oi6rID_41.584352_-87.536835@1303262856"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953858,
     "wof:geomhash":"eb22e2a8d5cd3d9a7139de8b3868ded4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740293703
+        }
+    ],
     "wof:id":740293703,
-    "wof:lastmodified":1472622031,
+    "wof:lastmodified":1492089825,
     "wof:name":"Board of Ed Lansing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

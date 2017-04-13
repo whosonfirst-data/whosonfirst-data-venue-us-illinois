@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.827992,42.010266,-87.827992,42.010266",
     "geom:latitude":42.010266,
     "geom:longitude":-87.827992,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497631,
         85633793,
         85940743,
-        102084317,
-        85867583
+        102084317
     ],
     "wof:brand_id":420573975,
     "wof:breaches":[],
@@ -44,19 +46,19 @@
     "wof:geomhash":"e9c023c56d11dbf709f2ebd7ad702ff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940743,
-            "neighbourhood_id":85867583,
             "region_id":85688697,
             "venue_id":269866551
         }
     ],
     "wof:id":269866551,
-    "wof:lastmodified":1472621383,
+    "wof:lastmodified":1492089107,
     "wof:name":"Bank One",
-    "wof:parent_id":85867583,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

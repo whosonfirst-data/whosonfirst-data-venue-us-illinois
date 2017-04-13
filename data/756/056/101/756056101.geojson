@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.91758,41.803481,-87.91758,41.803481",
     "geom:latitude":41.803481,
     "geom:longitude":-87.91758,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497649,
+        85633793,
+        85940187,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hCOkEHTAjRXDj5lMqmxgK_41.803481_-87.917580@1303262860"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954563,
     "wof:geomhash":"3520b4f1281439177f1251a07152ea94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940187,
+            "region_id":85688697,
+            "venue_id":756056101
+        }
+    ],
     "wof:id":756056101,
-    "wof:lastmodified":1472621186,
+    "wof:lastmodified":1492093531,
     "wof:name":"Kach Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

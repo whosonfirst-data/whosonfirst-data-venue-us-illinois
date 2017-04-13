@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.728985,40.91694,-87.728985,40.91694",
     "geom:latitude":40.91694,
     "geom:longitude":-87.728985,
@@ -33,7 +34,14 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498195,
+        85633793,
+        85938481,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RwmtraHhPbGNs99ko17lw_40.916940_-87.728985@1303262910"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461962954,
     "wof:geomhash":"b6a8e711fd4bf563437380da81125243",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498195,
+            "locality_id":85938481,
+            "region_id":85688697,
+            "venue_id":756427425
+        }
+    ],
     "wof:id":756427425,
-    "wof:lastmodified":1472622199,
+    "wof:lastmodified":1492088792,
     "wof:name":"Lundmark Electronics & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

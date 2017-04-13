@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.530197,41.564201,-87.530197,41.564201",
     "geom:latitude":41.564201,
     "geom:longitude":-87.530197,
@@ -38,7 +39,14 @@
     ],
     "sg:website":"www.bakerssquarerestaurants.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tgwMqw5BbW484EcVdmU7p_41.564201_-87.530197@1303262856"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953845,
     "wof:geomhash":"15d38a74d7e0c9e7d1b7049e1aa7e757",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740293123
+        }
+    ],
     "wof:id":740293123,
-    "wof:lastmodified":1472622009,
+    "wof:lastmodified":1492093554,
     "wof:name":"Bakers Square Restaurant & Pies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

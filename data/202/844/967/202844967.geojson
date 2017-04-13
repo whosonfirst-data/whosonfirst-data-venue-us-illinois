@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.3031,41.75449,-88.3031,41.75449",
     "geom:latitude":41.75449,
     "geom:longitude":-88.3031,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876055
     ],
     "wof:breaches":[],
@@ -44,18 +47,20 @@
     "wof:geomhash":"32d9c88daa758f79372b4746b25f625e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":202844967
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -63,9 +68,9 @@
         }
     ],
     "wof:id":202844967,
-    "wof:lastmodified":1472621293,
+    "wof:lastmodified":1492096649,
     "wof:name":"Northwest Insurance Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

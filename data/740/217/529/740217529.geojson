@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.115402,41.952301,-88.115402,41.952301",
     "geom:latitude":41.952301,
     "geom:longitude":-88.115402,
@@ -31,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wNxShSYF8DAGBtiZA7yHD_41.952301_-88.115402@1303262846"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952243,
     "wof:geomhash":"2235fe123e63892ab23131fc1343ed14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217529
+        }
+    ],
     "wof:id":740217529,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492089634,
     "wof:name":"Shamrock Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

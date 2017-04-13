@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061421,41.776066,-88.061421,41.776066",
     "geom:latitude":41.776066,
     "geom:longitude":-88.061421,
@@ -27,7 +28,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MAjkZ245gWUcmmHgTsQuv_41.776066_-88.061421@1294102059"
@@ -35,9 +39,15 @@
     "wof:country":"US",
     "wof:created":1461950518,
     "wof:geomhash":"7841c4052d02f23ff2e7585ea08b8278",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":740137999
+        }
+    ],
     "wof:id":740137999,
-    "wof:lastmodified":1472621598,
+    "wof:lastmodified":1492094889,
     "wof:name":"Carl Luebchow",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

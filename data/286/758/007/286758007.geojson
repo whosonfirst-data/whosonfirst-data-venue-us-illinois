@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.539492,41.578207,-87.539492,41.578207",
     "geom:latitude":41.578207,
     "geom:longitude":-87.539492,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805877,
+        102191575,
+        404497591,
         85633793,
         85940801,
         102084317,
-        85805877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"87a8b7008f33dcdc3d20ff4e2704eae5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940801,
             "neighbourhood_id":85805877,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":286758007,
-    "wof:lastmodified":1472621657,
+    "wof:lastmodified":1492101501,
     "wof:name":"Valade Heating & Cooling Inc",
     "wof:parent_id":85805877,
     "wof:placetype":"venue",

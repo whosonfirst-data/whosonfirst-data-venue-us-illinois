@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.751905,41.833737,-87.751905,41.833737",
     "geom:latitude":41.833737,
     "geom:longitude":-87.751905,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497617,
         85633793,
-        85940933,
-        102084317,
-        85867657
+        85940877,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"ef06736e36306bebfe927a938cac05cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940933,
-            "neighbourhood_id":85867657,
+            "localadmin_id":404497617,
+            "locality_id":85940877,
             "region_id":85688697,
             "venue_id":286746407
         }
     ],
     "wof:id":286746407,
-    "wof:lastmodified":1472621642,
+    "wof:lastmodified":1492096248,
     "wof:name":"A Plus Quality Cleaning Svc",
-    "wof:parent_id":85867657,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

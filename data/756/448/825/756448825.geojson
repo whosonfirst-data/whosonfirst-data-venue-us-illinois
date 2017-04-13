@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.609947,41.31411,-88.609947,41.31411",
     "geom:latitude":41.31411,
     "geom:longitude":-88.609947,
@@ -50,7 +51,14 @@
     ],
     "sg:website":"http://www.countryfinancial.com/bill.bernardoni",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498495,
+        85633793,
+        85938281,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BENNpRvvQacp0Iz72Jdta_41.314110_-88.609947@1303262913"
@@ -58,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461963469,
     "wof:geomhash":"74335dd8fe4b8ce76124d58fc38dc8e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498495,
+            "locality_id":85938281,
+            "region_id":85688697,
+            "venue_id":756448825
+        }
+    ],
     "wof:id":756448825,
-    "wof:lastmodified":1472622224,
+    "wof:lastmodified":1492092402,
     "wof:name":"COUNTRY Financial Bill Bernardoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

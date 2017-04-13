@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.015688,41.720458,-88.015688,41.720458",
     "geom:latitude":41.720458,
     "geom:longitude":-88.015688,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85855003,
+        102191575,
+        404497651,
         85633793,
         85940203,
-        102080845,
-        85855003
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a324da5a8586372341ee3725d77d85dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080845,
+            "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940203,
             "neighbourhood_id":85855003,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219555249,
-    "wof:lastmodified":1472621459,
+    "wof:lastmodified":1492104263,
     "wof:name":"Delta 5 Technology Partners",
     "wof:parent_id":85855003,
     "wof:placetype":"venue",

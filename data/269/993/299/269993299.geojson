@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.978833,41.903949,-87.978833,41.903949",
     "geom:latitude":41.903949,
     "geom:longitude":-87.978833,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890967,
+        102191575,
+        404497661,
         85633793,
+        85940149,
         102081257,
-        85890967
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"c1881a17d5d822ce0bfbf3476d4ac55b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940149,
             "neighbourhood_id":85890967,
             "region_id":85688697,
             "venue_id":269993299
         }
     ],
     "wof:id":269993299,
-    "wof:lastmodified":1472621426,
+    "wof:lastmodified":1492100070,
     "wof:name":"Try-Hard Inc",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",

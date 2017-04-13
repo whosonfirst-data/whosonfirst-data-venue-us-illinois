@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.631194,41.442862,-87.631194,41.442862",
     "geom:latitude":41.442862,
     "geom:longitude":-87.631194,
@@ -32,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5prLF0k3N5nnUHrMhTTt9P_41.442862_-87.631194@1303262854"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953623,
     "wof:geomhash":"19cab311bd25dc7b1b882e0640770227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":740282601
+        }
+    ],
     "wof:id":740282601,
-    "wof:lastmodified":1472622035,
+    "wof:lastmodified":1492089759,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

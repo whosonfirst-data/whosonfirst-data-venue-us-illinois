@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.030274,41.750852,-88.030274,41.750852",
     "geom:latitude":41.750852,
     "geom:longitude":-88.030274,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891083,
+        102191575,
+        404497649,
         85633793,
-        85940203,
+        85940165,
         102081257,
-        85891083
+        85688697
     ],
     "wof:brand_id":420574151,
     "wof:breaches":[],
@@ -44,17 +47,18 @@
     "wof:geomhash":"ecfaac1fa26c75125514c8ea36c0f7b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940203,
+            "localadmin_id":404497649,
+            "locality_id":85940165,
             "neighbourhood_id":85891083,
             "region_id":85688697,
             "venue_id":337398385
         }
     ],
     "wof:id":337398385,
-    "wof:lastmodified":1472620835,
+    "wof:lastmodified":1492101173,
     "wof:name":"Arby's",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",

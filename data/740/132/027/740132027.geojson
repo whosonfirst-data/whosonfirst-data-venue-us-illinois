@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.780155,42.197267,-88.780155,42.197267",
     "geom:latitude":42.197267,
     "geom:longitude":-88.780155,
@@ -26,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497357,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OcpNjXhYS7NRoQmXo4yGR_42.197267_-88.780155@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461950392,
     "wof:geomhash":"32b2c215c0cdcc4a0b7fd798d1853eb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497357,
+            "region_id":85688697,
+            "venue_id":740132027
+        }
+    ],
     "wof:id":740132027,
-    "wof:lastmodified":1472621379,
+    "wof:lastmodified":1492088647,
     "wof:name":"Black Crossing Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

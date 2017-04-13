@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158302,41.871399,-88.158302,41.871399",
     "geom:latitude":41.871399,
     "geom:longitude":-88.158302,
@@ -28,7 +29,10 @@
     "sg:postcode":"60190",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bB3voL8IuZRpuiOKVKZgE_41.871399_-88.158302@1303262852"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953215,
     "wof:geomhash":"218af8b3e23b7aa2bc8d9b6093da611f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740263007
+        }
+    ],
     "wof:id":740263007,
-    "wof:lastmodified":1472621973,
+    "wof:lastmodified":1492098051,
     "wof:name":"Bhatia Sonjai MD",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

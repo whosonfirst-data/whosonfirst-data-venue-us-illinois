@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.111353,41.957907,-88.111353,41.957907",
     "geom:latitude":41.957907,
     "geom:longitude":-88.111353,
@@ -40,7 +41,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n1lljVR49oYsp5CYe6b6D_41.957907_-88.111353@1303262846"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461952289,
     "wof:geomhash":"27d4b3937237564486e9c249e1cba6bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219847
+        }
+    ],
     "wof:id":740219847,
-    "wof:lastmodified":1472621930,
+    "wof:lastmodified":1492099050,
     "wof:name":"Optim Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

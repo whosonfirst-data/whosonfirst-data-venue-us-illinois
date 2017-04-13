@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.038853,41.881958,-88.038853,41.881958",
     "geom:latitude":41.881958,
     "geom:longitude":-88.038853,
@@ -34,11 +35,13 @@
     "sg:website":"www.aabel.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890833,
+        102191575,
+        404497661,
         85633793,
         85940153,
         102081257,
-        85890833
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"06a84f82c5cc4cd42d3f0c4fd7c9f9af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940153,
             "neighbourhood_id":85890833,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202759075,
-    "wof:lastmodified":1472621242,
+    "wof:lastmodified":1492104619,
     "wof:name":"A Abel Enterprise",
     "wof:parent_id":85890833,
     "wof:placetype":"venue",

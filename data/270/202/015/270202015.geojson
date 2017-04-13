@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.094754,41.787117,-88.094754,41.787117",
     "geom:latitude":41.787117,
     "geom:longitude":-88.094754,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890823,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"379b5551f3894d8d72e014d00e6217d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890823,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270202015,
-    "wof:lastmodified":1472621217,
+    "wof:lastmodified":1492100858,
     "wof:name":"Acorn Electric Inc",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",

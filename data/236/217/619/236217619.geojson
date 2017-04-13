@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.014834,41.756997,-88.014834,41.756997",
     "geom:latitude":41.756997,
     "geom:longitude":-88.014834,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519029,
+        102191575,
+        404497651,
         85633793,
-        85940165,
-        102081257
+        85940203,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"0f88f74787d5b8b9672e335803279c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940165,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497651,
+            "locality_id":85940203,
+            "neighbourhood_id":420519029,
             "region_id":85688697,
             "venue_id":236217619
         }
     ],
     "wof:id":236217619,
-    "wof:lastmodified":1472621339,
+    "wof:lastmodified":1492107739,
     "wof:name":"A Stones Throw Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

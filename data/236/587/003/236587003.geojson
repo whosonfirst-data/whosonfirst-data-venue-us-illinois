@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.140307,41.976697,-88.140307,41.976697",
     "geom:latitude":41.976697,
     "geom:longitude":-88.140307,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85839631,
+        102191575,
+        404497763,
         85633793,
         85940189,
-        102084317,
-        85839631
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5b7f60bb0de402083a6b84a06fc3682f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
+            "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85839631,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236587003,
-    "wof:lastmodified":1472621732,
+    "wof:lastmodified":1492105032,
     "wof:name":"3d Design Concepts",
     "wof:parent_id":85839631,
     "wof:placetype":"venue",

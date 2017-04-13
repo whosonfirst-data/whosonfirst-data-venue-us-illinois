@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.873539,42.093005,-87.873539,42.093005",
     "geom:latitude":42.093005,
     "geom:longitude":-87.873539,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838279,
+        102191575,
+        404497663,
         85633793,
-        85940839,
         102084317,
-        85838279
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,17 @@
     "wof:geomhash":"5dc7d4b480af406c47023a5a883cbcbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940839,
+            "localadmin_id":404497663,
             "neighbourhood_id":85838279,
             "region_id":85688697,
             "venue_id":219938327
         }
     ],
     "wof:id":219938327,
-    "wof:lastmodified":1472621607,
+    "wof:lastmodified":1492104237,
     "wof:name":"Peak Inc",
     "wof:parent_id":85838279,
     "wof:placetype":"venue",

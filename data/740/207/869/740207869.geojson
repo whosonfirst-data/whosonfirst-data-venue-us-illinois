@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825656,42.433747,-87.825656,42.433747",
     "geom:latitude":42.433747,
     "geom:longitude":-87.825656,
@@ -32,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499871,
+        85633793,
+        85938617,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GW97Xmg0SR8OxhCmegvKd_42.433747_-87.825656@1303262845"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952025,
     "wof:geomhash":"6c6c3d81bf78b1fc7c081ffc981d3ec0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404499871,
+            "locality_id":85938617,
+            "region_id":85688697,
+            "venue_id":740207869
+        }
+    ],
     "wof:id":740207869,
-    "wof:lastmodified":1472621902,
+    "wof:lastmodified":1492091339,
     "wof:name":"Family Pride Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

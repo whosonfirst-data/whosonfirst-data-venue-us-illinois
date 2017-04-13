@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.463699,41.892239,-88.463699,41.892239",
     "geom:latitude":41.892239,
     "geom:longitude":-88.463699,
@@ -31,7 +32,10 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13HLgh0Dy9LViGLnnN7cUA_41.892239_-88.463699@1303262847"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461952383,
     "wof:geomhash":"01299c5ecd11f7f8fc5790796671daf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224315
+        }
+    ],
     "wof:id":740224315,
-    "wof:lastmodified":1472621917,
+    "wof:lastmodified":1492098016,
     "wof:name":"S D S",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

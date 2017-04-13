@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.448019,41.6368,-88.448019,41.6368",
     "geom:latitude":41.6368,
     "geom:longitude":-88.448019,
@@ -53,7 +54,14 @@
     ],
     "sg:website":"http://www.amatoandsheenlaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jx2zoPrWoF93AXByD6AiM_41.636800_-88.448019@1303262862"
@@ -61,9 +69,19 @@
     "wof:country":"US",
     "wof:created":1461954849,
     "wof:geomhash":"79eae21c46cd20b4bf09b5625e2901a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756069015
+        }
+    ],
     "wof:id":756069015,
-    "wof:lastmodified":1472621359,
+    "wof:lastmodified":1492102602,
     "wof:name":"Amato & Sheen Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

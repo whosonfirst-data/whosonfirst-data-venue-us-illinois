@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.794103,41.682009,-88.794103,41.682009",
     "geom:latitude":41.682009,
     "geom:longitude":-88.794103,
@@ -28,7 +29,13 @@
     "sg:postcode":"60531",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496299,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lcTBuGdPQ8jerZoZ59MgH_41.682009_-88.794103@1303262861"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954631,
     "wof:geomhash":"9477186c7a7d57854d7451a7cf9b6fdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404496299,
+            "region_id":85688697,
+            "venue_id":756059385
+        }
+    ],
     "wof:id":756059385,
-    "wof:lastmodified":1472621278,
+    "wof:lastmodified":1492097874,
     "wof:name":"Kent Wesson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

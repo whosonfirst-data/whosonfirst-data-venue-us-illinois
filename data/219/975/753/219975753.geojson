@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.761431,42.034417,-87.761431,42.034417",
     "geom:latitude":42.034417,
     "geom:longitude":-87.761431,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
+        85940943,
         102084317,
-        85856393
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"b936226ca1c0c932f6f82264820e0e17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":219975753
         }
     ],
     "wof:id":219975753,
-    "wof:lastmodified":1472621638,
+    "wof:lastmodified":1492101293,
     "wof:name":"Town Management Corp",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.346482,41.72911,-88.346482,41.72911",
     "geom:latitude":41.72911,
     "geom:longitude":-88.346482,
@@ -55,11 +56,13 @@
     "sg:website":"http://www.schaefergreenhouses.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +73,10 @@
     "wof:geomhash":"eecfa32adaa690326248e5c0dafaf065",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":756061275,
-    "wof:lastmodified":1472621331,
+    "wof:lastmodified":1492092538,
     "wof:name":"Schaefer Greenhouses",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

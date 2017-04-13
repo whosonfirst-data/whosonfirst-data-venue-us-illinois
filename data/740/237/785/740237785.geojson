@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.501198,42.023399,-88.501198,42.023399",
     "geom:latitude":42.023399,
     "geom:longitude":-88.501198,
@@ -31,7 +32,13 @@
         "buddhist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496539,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7939dq6OtvgzFg2GE1kpjL_42.023399_-88.501198@1303262849"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461952689,
     "wof:geomhash":"23b445648abce7ca077ef1e21a622255",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404496539,
+            "region_id":85688697,
+            "venue_id":740237785
+        }
+    ],
     "wof:id":740237785,
-    "wof:lastmodified":1472621939,
+    "wof:lastmodified":1492093735,
     "wof:name":"Lao Buddhist Temple of Elgin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

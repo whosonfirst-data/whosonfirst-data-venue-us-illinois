@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.118713,42.182088,-88.118713,42.182088",
     "geom:latitude":42.182088,
     "geom:longitude":-88.118713,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867877,
+        102191575,
+        404498459,
         85633793,
-        85938411,
+        85938343,
         102086215,
-        85867877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"08113cab9264b2e14880499967840808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938411,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
             "neighbourhood_id":85867877,
             "region_id":85688697,
             "venue_id":270498953
         }
     ],
     "wof:id":270498953,
-    "wof:lastmodified":1472621497,
+    "wof:lastmodified":1492105870,
     "wof:name":"Gray Cat Enterprises Inc",
     "wof:parent_id":85867877,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.846859,42.279374,-87.846859,42.279374",
     "geom:latitude":42.279374,
     "geom:longitude":-87.846859,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85848877,
+        102191575,
+        404498369,
         85633793,
         85938357,
         102086215,
-        85848877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"52ffc4663c4998a03c2fa0f947c1935f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938357,
             "neighbourhood_id":85848877,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269529277,
-    "wof:lastmodified":1472620898,
+    "wof:lastmodified":1492106193,
     "wof:name":"Forest Bluff School Inc",
     "wof:parent_id":85848877,
     "wof:placetype":"venue",

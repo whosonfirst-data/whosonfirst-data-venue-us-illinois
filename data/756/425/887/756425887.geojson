@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.77421,41.192617,-87.77421,41.192617",
     "geom:latitude":41.192617,
     "geom:longitude":-87.77421,
@@ -38,7 +39,13 @@
     ],
     "sg:website":"http://www.stjudes.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496547,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AFrJ38df0Wmyj4BrnzGdx_41.192617_-87.774210@1303262909"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461962919,
     "wof:geomhash":"77f0ea027aec6e1424ef18db282a1cc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496547,
+            "region_id":85688697,
+            "venue_id":756425887
+        }
+    ],
     "wof:id":756425887,
-    "wof:lastmodified":1472622214,
+    "wof:lastmodified":1492088453,
     "wof:name":"St George Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

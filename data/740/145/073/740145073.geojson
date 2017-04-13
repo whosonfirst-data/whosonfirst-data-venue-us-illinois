@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.959175,42.287108,-87.959175,42.287108",
     "geom:latitude":42.287108,
     "geom:longitude":-87.959175,
@@ -27,7 +28,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OCw4XvqkwIbLXgaE4yCxo_42.287108_-87.959175@1294102059"
@@ -35,9 +39,15 @@
     "wof:country":"US",
     "wof:created":1461950670,
     "wof:geomhash":"82ba5077ef86b4a95307e7b264647427",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740145073
+        }
+    ],
     "wof:id":740145073,
-    "wof:lastmodified":1472621698,
+    "wof:lastmodified":1492090892,
     "wof:name":"Richard Salm",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

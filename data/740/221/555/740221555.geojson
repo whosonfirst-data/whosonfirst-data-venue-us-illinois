@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.754906,41.926288,-88.754906,41.926288",
     "geom:latitude":41.926288,
     "geom:longitude":-88.754906,
@@ -34,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MDzwxtpXs1bwnwbGWfvfq_41.926288_-88.754906@1303262847"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952327,
     "wof:geomhash":"8d4318c7c4505b110dea3831cdc5f8e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221555
+        }
+    ],
     "wof:id":740221555,
-    "wof:lastmodified":1472621922,
+    "wof:lastmodified":1492089492,
     "wof:name":"Allison Painting & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

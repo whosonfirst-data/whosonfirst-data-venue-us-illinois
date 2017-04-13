@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.560547,41.630217,-87.560547,41.630217",
     "geom:latitude":41.630217,
     "geom:longitude":-87.560547,
@@ -28,7 +29,14 @@
     "sg:postcode":"60633",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940889,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71WCQ31QsEcQy3tFm2VwKU_41.630217_-87.560547@1303262893"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461960254,
     "wof:geomhash":"490aa6b840f47836b30e591ec283f536",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940889,
+            "region_id":85688697,
+            "venue_id":756307873
+        }
+    ],
     "wof:id":756307873,
-    "wof:lastmodified":1472622098,
+    "wof:lastmodified":1492107986,
     "wof:name":"Hats Off Hair Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

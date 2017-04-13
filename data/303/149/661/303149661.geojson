@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.822144,42.243507,-88.822144,42.243507",
     "geom:latitude":42.243507,
     "geom:longitude":-88.822144,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
         85633793,
-        85688697
+        85938819,
+        102086197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +50,17 @@
     "wof:geomhash":"7fa50a30d9e5e66c07e8c35c22df9f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
             "region_id":85688697,
             "venue_id":303149661
         }
     ],
     "wof:id":303149661,
-    "wof:lastmodified":1472620969,
+    "wof:lastmodified":1492090759,
     "wof:name":"Robert G Lay CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988414,41.902814,-87.988414,41.902814",
     "geom:latitude":41.902814,
     "geom:longitude":-87.988414,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85849367,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85849367
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"e94d4968e9d16ef6bcb7a468733872b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85849367,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236640611,
-    "wof:lastmodified":1472621739,
+    "wof:lastmodified":1492103299,
     "wof:name":"Gyros Express Ltd",
     "wof:parent_id":85849367,
     "wof:placetype":"venue",

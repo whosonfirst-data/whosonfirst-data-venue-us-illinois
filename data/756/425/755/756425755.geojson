@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063264,41.146939,-88.063264,41.146939",
     "geom:latitude":41.146939,
     "geom:longitude":-88.063264,
@@ -55,7 +56,14 @@
         "fixtures"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496557,
+        85633793,
+        85939997,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35Zkxa1rHv0vXFtMvOPwSY_41.146939_-88.063264@1303262909"
@@ -63,9 +71,19 @@
     "wof:country":"US",
     "wof:created":1461962917,
     "wof:geomhash":"eb5cc7785e17303a9f6c685c3d9d314e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496557,
+            "locality_id":85939997,
+            "region_id":85688697,
+            "venue_id":756425755
+        }
+    ],
     "wof:id":756425755,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1492104374,
     "wof:name":"K RK Plumbing Heating & Air Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

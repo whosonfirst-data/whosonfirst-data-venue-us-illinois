@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.148241,41.932387,-88.148241,41.932387",
     "geom:latitude":41.932387,
     "geom:longitude":-88.148241,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847323,
+        102191575,
+        404497763,
         85633793,
         85940189,
         102081257,
-        85847323
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"8958864a0955d46e695ac1ee4106be4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85847323,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269899415,
-    "wof:lastmodified":1472621404,
+    "wof:lastmodified":1492091827,
     "wof:name":"AMP Machinery Systems Inc",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",

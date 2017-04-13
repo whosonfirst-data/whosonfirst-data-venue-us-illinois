@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.868919,41.994149,-87.868919,41.994149",
     "geom:latitude":41.994149,
     "geom:longitude":-87.868919,
@@ -36,10 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940743,
-        102084317,
-        85809035
+        85940947,
+        102084317
     ],
     "wof:brand_id":420574299,
     "wof:breaches":[],
@@ -50,19 +52,19 @@
     "wof:geomhash":"3c84b95720a759f9bb51c82fe856c3b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85809035,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
             "region_id":85688697,
             "venue_id":269771633
         }
     ],
     "wof:id":269771633,
-    "wof:lastmodified":1472621339,
+    "wof:lastmodified":1491896992,
     "wof:name":"Primerica",
-    "wof:parent_id":85809035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

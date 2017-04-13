@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.969806,41.894945,-87.969806,41.894945",
     "geom:latitude":41.894945,
     "geom:longitude":-87.969806,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890961,
+        102191575,
+        404497661,
         85633793,
         85940149,
         102081257,
-        85890961
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"72f1eab1f83926541a2256087525f2d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940149,
             "neighbourhood_id":85890961,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287296171,
-    "wof:lastmodified":1472621217,
+    "wof:lastmodified":1492102427,
     "wof:name":"A Complete Sherlock HM Insptn",
     "wof:parent_id":85890961,
     "wof:placetype":"venue",

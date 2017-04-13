@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807282,41.791652,-87.807282,41.791652",
     "geom:latitude":41.791652,
     "geom:longitude":-87.807282,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497627,
         85633793,
-        85940195,
-        102084317,
-        85869271
+        85940927,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"3097076c624c1f812b6173964c9de6ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869271,
+            "localadmin_id":404497627,
+            "locality_id":85940927,
             "region_id":85688697,
             "venue_id":270289635
         }
     ],
     "wof:id":270289635,
-    "wof:lastmodified":1472621354,
+    "wof:lastmodified":1492106834,
     "wof:name":"Family Pride",
-    "wof:parent_id":85869271,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

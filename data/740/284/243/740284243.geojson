@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.103374,41.406583,-88.103374,41.406583",
     "geom:latitude":41.406583,
     "geom:longitude":-88.103374,
@@ -28,7 +29,14 @@
     "sg:postcode":"60421",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497101,
+        85633793,
+        85940561,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kFJZ4kO0em1gGG0NrnQ1t_41.406583_-88.103374@1303262855"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953654,
     "wof:geomhash":"36cbfa2d1edfb9a8deb91570127eb56f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497101,
+            "locality_id":85940561,
+            "region_id":85688697,
+            "venue_id":740284243
+        }
+    ],
     "wof:id":740284243,
-    "wof:lastmodified":1472622012,
+    "wof:lastmodified":1492093571,
     "wof:name":"Bank of Elwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

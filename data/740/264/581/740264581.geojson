@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.079903,42.027962,-88.079903,42.027962",
     "geom:latitude":42.027962,
     "geom:longitude":-88.079903,
@@ -47,7 +48,14 @@
     ],
     "sg:website":"http://www.chelseatyler.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_436EEQnV3Ks02zV7n0G9A6_42.027962_-88.079903@1303262852"
@@ -55,9 +63,19 @@
     "wof:country":"US",
     "wof:created":1461953243,
     "wof:geomhash":"b8236249bb1bb6e00795a6aadfa60d95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740264581
+        }
+    ],
     "wof:id":740264581,
-    "wof:lastmodified":1472621994,
+    "wof:lastmodified":1492110195,
     "wof:name":"Chelsea Tyler Nail & Body Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

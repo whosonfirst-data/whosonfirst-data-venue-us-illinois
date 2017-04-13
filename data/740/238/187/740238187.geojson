@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.500374,42.088438,-88.500374,42.088438",
     "geom:latitude":42.088438,
     "geom:longitude":-88.500374,
@@ -28,7 +29,13 @@
     "sg:postcode":"60140",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496541,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2No33H9AZJtqlMFqq9Hdxv_42.088438_-88.500374@1303262849"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461952698,
     "wof:geomhash":"d979328c01b79b8d329c2cb58cdddae1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404496541,
+            "region_id":85688697,
+            "venue_id":740238187
+        }
+    ],
     "wof:id":740238187,
-    "wof:lastmodified":1472621939,
+    "wof:lastmodified":1492089695,
     "wof:name":"Norman Witt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

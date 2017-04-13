@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862296,42.146511,-87.862296,42.146511",
     "geom:latitude":42.146511,
     "geom:longitude":-87.862296,
@@ -31,7 +32,14 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u5biS3A12WCA1pWj1JlWp_42.146511_-87.862296@1303262843"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951750,
     "wof:geomhash":"6ada0c148fa57d186259a087567cefa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740195103
+        }
+    ],
     "wof:id":740195103,
-    "wof:lastmodified":1472621858,
+    "wof:lastmodified":1492094046,
     "wof:name":"National Deed Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

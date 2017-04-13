@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798386,41.846842,-87.798386,41.846842",
     "geom:latitude":41.846842,
     "geom:longitude":-87.798386,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890731,
+        102191575,
+        404497585,
         85633793,
-        85940849,
+        85940763,
         102084317,
-        85890731
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"a9e4a8c742fb7fb4b3e7bd31c44891c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497585,
+            "locality_id":85940763,
             "neighbourhood_id":85890731,
             "region_id":85688697,
             "venue_id":287152333
         }
     ],
     "wof:id":287152333,
-    "wof:lastmodified":1472621090,
+    "wof:lastmodified":1492096816,
     "wof:name":"All Chicago Floor Sanding",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.313073,41.872079,-88.313073,41.872079",
     "geom:latitude":41.872079,
     "geom:longitude":-88.313073,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867853,
+        102191575,
+        404498235,
         85633793,
-        85940215,
-        102086925,
-        85890729,
         85940213,
-        85867853
+        102086925,
+        85688697,
+        85890729,
+        404498227,
+        85939739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +52,30 @@
     "wof:geomhash":"0be0a3ba72ed82196d42992347334110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
-            "neighbourhood_id":85890729,
+            "localadmin_id":404498235,
+            "locality_id":85940213,
+            "neighbourhood_id":85867853,
             "region_id":85688697,
             "venue_id":270457561
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940213,
-            "neighbourhood_id":85867853,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
+            "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":270457561
         }
     ],
     "wof:id":270457561,
-    "wof:lastmodified":1472621501,
+    "wof:lastmodified":1492096677,
     "wof:name":"Waste Management of Arizona",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

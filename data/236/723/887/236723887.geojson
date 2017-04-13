@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.111451,41.858681,-88.111451,41.858681",
     "geom:latitude":41.858681,
     "geom:longitude":-88.111451,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891043,
+        102191575,
+        404497653,
         85633793,
         85940139,
         102081257,
-        85891043
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"bc01c45cdac7005d203da7924250570d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
             "neighbourhood_id":85891043,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236723887,
-    "wof:lastmodified":1472621765,
+    "wof:lastmodified":1492093316,
     "wof:name":"Wheaton Inn",
     "wof:parent_id":85891043,
     "wof:placetype":"venue",

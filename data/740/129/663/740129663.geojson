@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.87336,42.256337,-88.87336,42.256337",
     "geom:latitude":42.256337,
     "geom:longitude":-88.87336,
@@ -31,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fQXS0KsVG9pMXygT83oRi_42.256954_-88.873339@1293134755"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461950338,
     "wof:geomhash":"d60c3cc813d27ec4420277e0fc0651f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":740129663
+        }
+    ],
     "wof:id":740129663,
-    "wof:lastmodified":1472621420,
+    "wof:lastmodified":1492102188,
     "wof:name":"Caring Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

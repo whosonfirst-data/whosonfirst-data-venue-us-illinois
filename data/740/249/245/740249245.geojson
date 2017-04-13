@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075631,41.983692,-88.075631,41.983692",
     "geom:latitude":41.983692,
     "geom:longitude":-88.075631,
@@ -40,7 +41,14 @@
     ],
     "sg:website":"www.martuccilaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6upWd4No9knIKZ7UB3uHWH_41.983692_-88.075631@1303262850"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461952937,
     "wof:geomhash":"60dc51710de59d6b9f41c4f3d4f5df20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249245
+        }
+    ],
     "wof:id":740249245,
-    "wof:lastmodified":1472621965,
+    "wof:lastmodified":1492091289,
     "wof:name":"Law Office of Gregory J Martucci PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

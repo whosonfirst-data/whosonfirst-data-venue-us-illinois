@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.980433,42.079882,-87.980433,42.079882",
     "geom:latitude":42.079882,
     "geom:longitude":-87.980433,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8448ad367198a8af82def905aea11b03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270001691,
-    "wof:lastmodified":1472620746,
+    "wof:lastmodified":1492092607,
     "wof:name":"Summit Tutoring",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

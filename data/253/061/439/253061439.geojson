@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.040274,41.590902,-88.040274,41.590902",
     "geom:latitude":41.590902,
     "geom:longitude":-88.040274,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85844569,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85844569
+        85688697
     ],
     "wof:brand_id":420574853,
     "wof:breaches":[],
@@ -50,9 +53,10 @@
     "wof:geomhash":"19760a1b2644453e52ec045464fd7d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85844569,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":253061439,
-    "wof:lastmodified":1472620876,
+    "wof:lastmodified":1492090539,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",

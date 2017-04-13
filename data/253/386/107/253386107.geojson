@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.266581,42.058668,-88.266581,42.058668",
     "geom:latitude":42.058668,
     "geom:longitude":-88.266581,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85802887,
+        102191575,
+        404498225,
         85633793,
+        85939801,
         102086925,
-        85802887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"d3d6c825273afda0134aced473b61147",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":-1,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
             "neighbourhood_id":85802887,
             "region_id":85688697,
             "venue_id":253386107
         }
     ],
     "wof:id":253386107,
-    "wof:lastmodified":1472621465,
+    "wof:lastmodified":1492105048,
     "wof:name":"Northwest Treatment Associates",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",

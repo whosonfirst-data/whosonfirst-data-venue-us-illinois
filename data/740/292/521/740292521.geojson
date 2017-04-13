@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.124413,41.514389,-88.124413,41.514389",
     "geom:latitude":41.514389,
     "geom:longitude":-88.124413,
@@ -48,11 +49,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;223371278;47096201;d?http://www.holidayinn.com/redirect?path=hd&brandCode=hi&hotelCode=jotso&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-hi-_-jotso",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +66,10 @@
     "wof:geomhash":"731c42e8c211a22ffff2bc42172c46e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":740292521,
-    "wof:lastmodified":1472622024,
+    "wof:lastmodified":1492093453,
     "wof:name":"Holiday Inn Joliet - Conference Center",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

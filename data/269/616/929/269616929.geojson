@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.724865,42.089423,-87.724865,42.089423",
     "geom:latitude":42.089423,
     "geom:longitude":-87.724865,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891075,
+        102191575,
+        404497633,
         85633793,
-        85940915,
+        85940807,
         102084317,
-        85891075
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"f5b761d2d670be3ea91c2c4e5191616f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940915,
+            "localadmin_id":404497633,
+            "locality_id":85940807,
             "neighbourhood_id":85891075,
             "region_id":85688697,
             "venue_id":269616929
         }
     ],
     "wof:id":269616929,
-    "wof:lastmodified":1472621145,
+    "wof:lastmodified":1492091192,
     "wof:name":"Kenilworth Investors LP",
     "wof:parent_id":85891075,
     "wof:placetype":"venue",

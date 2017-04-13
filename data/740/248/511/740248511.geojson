@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.847,41.922501,-87.847,41.922501",
     "geom:latitude":41.922501,
     "geom:longitude":-87.847,
@@ -33,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940727,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kAdfk8qjXjsSRYLsdeifG_41.922501_-87.847000@1303262850"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952916,
     "wof:geomhash":"46caddf50bbf83d858f622050d55c61d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940727,
+            "region_id":85688697,
+            "venue_id":740248511
+        }
+    ],
     "wof:id":740248511,
-    "wof:lastmodified":1472621971,
+    "wof:lastmodified":1492110337,
     "wof:name":"Rhodes Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

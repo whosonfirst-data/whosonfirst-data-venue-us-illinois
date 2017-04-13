@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.782613,41.693961,-87.782613,41.693961",
     "geom:latitude":41.693961,
     "geom:longitude":-87.782613,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ae82495b9c7b98fae07f5bd7f31df3b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202614675,
-    "wof:lastmodified":1472621145,
+    "wof:lastmodified":1492090531,
     "wof:name":"BHS-Torin",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

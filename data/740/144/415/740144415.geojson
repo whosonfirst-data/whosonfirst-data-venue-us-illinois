@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.747153,42.310914,-88.747153,42.310914",
     "geom:latitude":42.310914,
     "geom:longitude":-88.747153,
@@ -29,7 +30,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497213,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KShglGA9OqmXCMWwU8alm_42.310914_-88.747153@1294102059"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461950655,
     "wof:geomhash":"c447a9f956adfbfc0dd4b62bddb9738b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497213,
+            "region_id":85688697,
+            "venue_id":740144415
+        }
+    ],
     "wof:id":740144415,
-    "wof:lastmodified":1472621703,
+    "wof:lastmodified":1492093837,
     "wof:name":"R & R Osterberg Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

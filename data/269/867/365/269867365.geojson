@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558767,41.589291,-87.558767,41.589291",
     "geom:latitude":41.589291,
     "geom:longitude":-87.558767,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518761,
+        102191575,
+        404497591,
         85633793,
-        85940801,
-        102084317
+        85940935,
+        102084317,
+        85688697
     ],
     "wof:brand_id":420573823,
     "wof:breaches":[],
@@ -43,19 +47,20 @@
     "wof:geomhash":"8b457058a43d0cba708de788c17631eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940801,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "neighbourhood_id":420518761,
             "region_id":85688697,
             "venue_id":269867365
         }
     ],
     "wof:id":269867365,
-    "wof:lastmodified":1472621372,
+    "wof:lastmodified":1492100972,
     "wof:name":"Dollar Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

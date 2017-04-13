@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.631271,41.443859,-87.631271,41.443859",
     "geom:latitude":41.443859,
     "geom:longitude":-87.631271,
@@ -28,7 +29,14 @@
     "sg:postcode":"60417",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jIRaY9PMsV0ZnyonlHzIN_41.443642_-87.631307@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461950507,
     "wof:geomhash":"2bef4e5206d0af2e01c1295bb4a65edd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":740137457
+        }
+    ],
     "wof:id":740137457,
-    "wof:lastmodified":1472621565,
+    "wof:lastmodified":1492091087,
     "wof:name":"Burrito Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

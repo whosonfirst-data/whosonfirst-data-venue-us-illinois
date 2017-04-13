@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.90347,41.843671,-87.90347,41.843671",
     "geom:latitude":41.843671,
     "geom:longitude":-87.90347,
@@ -35,7 +36,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940923,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nATuqsHYWTHTHrolTlVYB_41.843671_-87.903470@1303262849"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461952838,
     "wof:geomhash":"356fb6eed90969b026fabc251403f9ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940923,
+            "region_id":85688697,
+            "venue_id":740244261
+        }
+    ],
     "wof:id":740244261,
-    "wof:lastmodified":1472621956,
+    "wof:lastmodified":1492091516,
     "wof:name":"Vivek Gupta, M.D., S.C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

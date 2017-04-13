@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.339876,41.748551,-88.339876,41.748551",
     "geom:latitude":41.748551,
     "geom:longitude":-88.339876,
@@ -35,11 +36,13 @@
     "sg:website":"www.cableplusinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
+        85688697,
         85876057
     ],
     "wof:breaches":[],
@@ -50,18 +53,20 @@
     "wof:geomhash":"9225b9442eaeedd1e3692d65e6760546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":287098585
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -69,9 +74,9 @@
         }
     ],
     "wof:id":287098585,
-    "wof:lastmodified":1472621036,
+    "wof:lastmodified":1492105134,
     "wof:name":"Cable Plus Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

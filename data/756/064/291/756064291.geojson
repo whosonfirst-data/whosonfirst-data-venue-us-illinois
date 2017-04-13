@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.531854,41.672615,-88.531854,41.672615",
     "geom:latitude":41.672615,
     "geom:longitude":-88.531854,
@@ -44,7 +45,14 @@
     ],
     "sg:website":"http://www.donahuecleaning.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ACVuPAnisTP1hDzv9sbNu_41.672615_-88.531854@1303262861"
@@ -52,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461954730,
     "wof:geomhash":"4386c849d202314eb00d5d5e15665d9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064291
+        }
+    ],
     "wof:id":756064291,
-    "wof:lastmodified":1472621373,
+    "wof:lastmodified":1492088392,
     "wof:name":"Donahue's On-Site Drapery Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

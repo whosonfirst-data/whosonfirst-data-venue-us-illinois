@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.784758,41.588876,-87.784758,41.588876",
     "geom:latitude":41.588876,
     "geom:longitude":-87.784758,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890953,
+        102191575,
+        404497643,
         85633793,
+        85940515,
         102084317,
-        85890953
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"fd0bcdd7eff44652607e0b260ea625c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
             "neighbourhood_id":85890953,
             "region_id":85688697,
             "venue_id":219529213
         }
     ],
     "wof:id":219529213,
-    "wof:lastmodified":1472621421,
+    "wof:lastmodified":1492089821,
     "wof:name":"Donne Insurance Svc",
     "wof:parent_id":85890953,
     "wof:placetype":"venue",

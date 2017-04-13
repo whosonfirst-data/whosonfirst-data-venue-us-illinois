@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.809009,41.660649,-87.809009,41.660649",
     "geom:latitude":41.660649,
     "geom:longitude":-87.809009,
@@ -33,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497667,
+        85633793,
+        85940749,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CeefCpBFEFBavcWZyik98_41.660649_-87.809009@1303262859"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954284,
     "wof:geomhash":"e3bbf6c14f2a76393aa3d786a57ecb5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940749,
+            "region_id":85688697,
+            "venue_id":756042767
+        }
+    ],
     "wof:id":756042767,
-    "wof:lastmodified":1472621085,
+    "wof:lastmodified":1492090060,
     "wof:name":"Schools Public",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

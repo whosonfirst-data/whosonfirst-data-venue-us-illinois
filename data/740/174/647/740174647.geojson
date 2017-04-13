@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.962903,42.138886,-87.962903,42.138886",
     "geom:latitude":42.138886,
     "geom:longitude":-87.962903,
@@ -32,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498371,
+        85633793,
+        85938415,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51cVls3LSANvPSL6JlGMKy_42.138863_-87.962786@1294102059"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951314,
     "wof:geomhash":"ff56764d121714bed8a128f9f3fd49a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498371,
+            "locality_id":85938415,
+            "region_id":85688697,
+            "venue_id":740174647
+        }
+    ],
     "wof:id":740174647,
-    "wof:lastmodified":1472621836,
+    "wof:lastmodified":1492094044,
     "wof:name":"Capt'n Nemo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

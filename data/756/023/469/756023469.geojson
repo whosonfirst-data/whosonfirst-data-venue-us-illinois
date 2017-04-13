@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.529675,41.557541,-87.529675,41.557541",
     "geom:latitude":41.557541,
     "geom:longitude":-87.529675,
@@ -36,7 +37,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zowjXZvbPQS7WeBCPwRpp_41.557541_-87.529675@1303262856"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461953877,
     "wof:geomhash":"22d3cac503545d0ab7f4dd140c6f1b2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":756023469
+        }
+    ],
     "wof:id":756023469,
-    "wof:lastmodified":1472620771,
+    "wof:lastmodified":1492089953,
     "wof:name":"Prodigy Preparatory Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

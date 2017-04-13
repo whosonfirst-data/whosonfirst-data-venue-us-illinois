@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.254912,42.046669,-88.254912,42.046669",
     "geom:latitude":42.046669,
     "geom:longitude":-88.254912,
@@ -33,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498225,
+        85633793,
+        85939801,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uwHI1PtNdbx952bke92zt_42.046669_-88.254912@1299784598"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950805,
     "wof:geomhash":"83797bd8ddbc4618da98c1fd8905454f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
+            "region_id":85688697,
+            "venue_id":740151619
+        }
+    ],
     "wof:id":740151619,
-    "wof:lastmodified":1472621723,
+    "wof:lastmodified":1492105640,
     "wof:name":"Franko's Pizza Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.089723,41.929617,-88.089723,41.929617",
     "geom:latitude":41.929617,
     "geom:longitude":-88.089723,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"8389c78ec81c59845639319f6fcc76c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":236525689
         }
     ],
     "wof:id":236525689,
-    "wof:lastmodified":1472621719,
+    "wof:lastmodified":1492110328,
     "wof:name":"Casio Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.157814,41.521894,-88.157814,41.521894",
     "geom:latitude":41.521894,
     "geom:longitude":-88.157814,
@@ -33,11 +34,13 @@
     "sg:website":"www.educate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:brand_id":420574363,
     "wof:breaches":[],
@@ -48,9 +51,10 @@
     "wof:geomhash":"841e29c2e8c4b5f21250b53678f3bb17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":270116891,
-    "wof:lastmodified":1472621083,
+    "wof:lastmodified":1492104664,
     "wof:name":"Sylvan Learning Ctr",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

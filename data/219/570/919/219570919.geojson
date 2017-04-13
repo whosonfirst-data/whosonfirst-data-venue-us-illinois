@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.703069,41.721199,-87.703069,41.721199",
     "geom:latitude":41.721199,
     "geom:longitude":-87.703069,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497667,
         85633793,
-        85940195,
-        102084317,
-        85867495
+        85940855,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"e5d0d341735de840f7d516e109b0a51f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85867495,
+            "localadmin_id":404497667,
+            "locality_id":85940855,
             "region_id":85688697,
             "venue_id":219570919
         }
     ],
     "wof:id":219570919,
-    "wof:lastmodified":1472621478,
+    "wof:lastmodified":1492102044,
     "wof:name":"American Federation Teachers",
-    "wof:parent_id":85867495,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

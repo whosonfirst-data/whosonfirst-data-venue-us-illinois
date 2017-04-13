@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.43968,41.093774,-88.43968,41.093774",
     "geom:latitude":41.093774,
     "geom:longitude":-88.43968,
@@ -28,7 +29,14 @@
     "sg:postcode":"60420",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        85938295,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sl4xg9pnsDfFcvdNKw3fb_41.093762_-88.439774@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461949633,
     "wof:geomhash":"e86f5a09579b4921fe346894c5aa407c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "locality_id":85938295,
+            "region_id":85688697,
+            "venue_id":740100691
+        }
+    ],
     "wof:id":740100691,
-    "wof:lastmodified":1472620893,
+    "wof:lastmodified":1492088823,
     "wof:name":"Old Route 66 Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.968961,42.022212,-87.968961,42.022212",
     "geom:latitude":42.022212,
     "geom:longitude":-87.968961,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890725,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890725
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"24d7d9762e08164665c090006b181c8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890725,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286942593,
-    "wof:lastmodified":1472621708,
+    "wof:lastmodified":1492087989,
     "wof:name":"C & C All Services Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",

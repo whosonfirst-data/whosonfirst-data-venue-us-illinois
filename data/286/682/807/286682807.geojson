@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.803984,42.295354,-88.803984,42.295354",
     "geom:latitude":42.295354,
     "geom:longitude":-88.803984,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497213,
         85633793,
-        85688697
+        102086197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"198bfca20f3eda9af20f6413a225f14f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086197,
+            "localadmin_id":404497213,
             "region_id":85688697,
             "venue_id":286682807
         }
     ],
     "wof:id":286682807,
-    "wof:lastmodified":1472621593,
+    "wof:lastmodified":1492105773,
     "wof:name":"Digital Survey & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

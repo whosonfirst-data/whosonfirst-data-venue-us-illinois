@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.0513,41.982101,-88.0513,41.982101",
     "geom:latitude":41.982101,
     "geom:longitude":-88.0513,
@@ -33,7 +34,13 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eGgTQLIVC7JFu6qPiDocf_41.982101_-88.051300@1303262850"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461952868,
     "wof:geomhash":"6c64eef16d05e97cc06ce2bfcdc2ff42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740245897
+        }
+    ],
     "wof:id":740245897,
-    "wof:lastmodified":1472621981,
+    "wof:lastmodified":1492102235,
     "wof:name":"Medinah Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

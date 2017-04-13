@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.111141,42.189239,-88.111141,42.189239",
     "geom:latitude":42.189239,
     "geom:longitude":-88.111141,
@@ -30,11 +31,13 @@
     "sg:website":"www.capacciobros.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867915,
+        102191575,
+        404498459,
         85633793,
-        85938411,
+        85938343,
         102086215,
-        85867915
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"0a93f083bdf7da01a55f4db13d36f1c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938411,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
             "neighbourhood_id":85867915,
             "region_id":85688697,
             "venue_id":303127433
         }
     ],
     "wof:id":303127433,
-    "wof:lastmodified":1472620945,
+    "wof:lastmodified":1492090955,
     "wof:name":"Capaccio Brothers Inc",
     "wof:parent_id":85867915,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.843406,41.896854,-87.843406,41.896854",
     "geom:latitude":41.896854,
     "geom:longitude":-87.843406,
@@ -31,7 +32,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940787,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z7E6UcUO0ZjEeKluIPLe6_41.896854_-87.843406@1303262849"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952782,
     "wof:geomhash":"01ce10e27e97c363dddc61b0cd700403",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940787,
+            "region_id":85688697,
+            "venue_id":740242007
+        }
+    ],
     "wof:id":740242007,
-    "wof:lastmodified":1472621954,
+    "wof:lastmodified":1492093382,
     "wof:name":"Complete Carpet Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

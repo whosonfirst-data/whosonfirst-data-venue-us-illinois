@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825155,41.798728,-87.825155,41.798728",
     "geom:latitude":41.798728,
     "geom:longitude":-87.825155,
@@ -32,8 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
         85633793,
-        85688697
+        85940927,
+        102084317,
+        85940791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +49,26 @@
     "wof:geomhash":"b5915757d9805ad3a3690f1db1e01550",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940927,
+            "region_id":85688697,
+            "venue_id":253598791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940791,
             "region_id":85688697,
             "venue_id":253598791
         }
     ],
     "wof:id":253598791,
-    "wof:lastmodified":1472621620,
+    "wof:lastmodified":1492100106,
     "wof:name":"Fed Ex Freight East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

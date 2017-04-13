@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.278623,41.081559,-88.278623,41.081559",
     "geom:latitude":41.081559,
     "geom:longitude":-88.278623,
@@ -37,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498005,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EfLhexEPMlVdIIxcmpTod_41.081559_-88.278623@1303262910"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461962963,
     "wof:geomhash":"156bea253ee9c235bb2ce5c4b3cad4c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404498005,
+            "region_id":85688697,
+            "venue_id":756427891
+        }
+    ],
     "wof:id":756427891,
-    "wof:lastmodified":1472622209,
+    "wof:lastmodified":1492098926,
     "wof:name":"White Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

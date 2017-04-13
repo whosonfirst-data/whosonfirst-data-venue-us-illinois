@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.057631,41.109977,-88.057631,41.109977",
     "geom:latitude":41.109977,
     "geom:longitude":-88.057631,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496555,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72elZXlzCAsMA05Ue3XZLi_41.109977_-88.057631@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950598,
     "wof:geomhash":"8e93a9387fc3432f129dab6314c632c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496555,
+            "region_id":85688697,
+            "venue_id":740141473
+        }
+    ],
     "wof:id":740141473,
-    "wof:lastmodified":1472621601,
+    "wof:lastmodified":1492092062,
     "wof:name":"Chapman Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.204774,41.901748,-88.204774,41.901748",
     "geom:latitude":41.901748,
     "geom:longitude":-88.204774,
@@ -34,8 +35,13 @@
     "wof:belongsto":[
         85688697,
         85633793,
+        85891001,
+        102081257,
+        85890997,
+        102191575,
+        404497659,
         85940143,
-        102081257
+        85890999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,37 @@
     "wof:geomhash":"269d0f9beea209e1ebd4db7126e2d029",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081257,
+            "neighbourhood_id":85891001,
+            "region_id":85688697,
+            "venue_id":270239221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890997,
+            "region_id":85688697,
+            "venue_id":270239221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497659,
+            "locality_id":85940143,
+            "neighbourhood_id":85890999,
             "region_id":85688697,
             "venue_id":270239221
         }
     ],
     "wof:id":270239221,
-    "wof:lastmodified":1472621276,
+    "wof:lastmodified":1492096619,
     "wof:name":"Eric Schaaf",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

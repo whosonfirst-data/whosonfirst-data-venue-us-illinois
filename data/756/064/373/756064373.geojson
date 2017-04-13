@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.538256,41.665251,-88.538256,41.665251",
     "geom:latitude":41.665251,
     "geom:longitude":-88.538256,
@@ -35,7 +36,14 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uma0sIrRREzOA6tWNQbBM_41.665251_-88.538256@1303262861"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461954731,
     "wof:geomhash":"07a8968a6da961f3acdc5bc19d0b0d85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064373
+        }
+    ],
     "wof:id":756064373,
-    "wof:lastmodified":1472621379,
+    "wof:lastmodified":1492088391,
     "wof:name":"Skyward-Bound Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.086656,41.707723,-88.086656,41.707723",
     "geom:latitude":41.707723,
     "geom:longitude":-88.086656,
@@ -33,7 +34,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fHqt9SS1Bx0W6Vtz7YGyS_41.707723_-88.086656@1303262856"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461953888,
     "wof:geomhash":"00b489620a19424b9839e4a285a0d3c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024081
+        }
+    ],
     "wof:id":756024081,
-    "wof:lastmodified":1472620805,
+    "wof:lastmodified":1492089867,
     "wof:name":"Custom C P E Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

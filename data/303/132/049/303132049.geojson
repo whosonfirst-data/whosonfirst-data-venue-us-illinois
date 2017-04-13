@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.347766,41.022573,-88.347766,41.022573",
     "geom:latitude":41.022573,
     "geom:longitude":-88.347766,
@@ -29,8 +30,11 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498005,
         85633793,
-        85688697
+        102082873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,16 @@
     "wof:geomhash":"372a952d1b6aca3ffa50c757adccdbfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082873,
+            "localadmin_id":404498005,
             "region_id":85688697,
             "venue_id":303132049
         }
     ],
     "wof:id":303132049,
-    "wof:lastmodified":1472620941,
+    "wof:lastmodified":1492097047,
     "wof:name":"Agri-Search Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

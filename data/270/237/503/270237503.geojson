@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.359404,42.230957,-88.359404,42.230957",
     "geom:latitude":42.230957,
     "geom:longitude":-88.359404,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838041,
+        102191575,
+        404499077,
         85633793,
         85939009,
         102081661,
-        85838041
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"8ef8a08b528d0b8682d3b5ffc8ddffcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
+            "localadmin_id":404499077,
             "locality_id":85939009,
             "neighbourhood_id":85838041,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":270237503,
-    "wof:lastmodified":1472621293,
+    "wof:lastmodified":1492089242,
     "wof:name":"Glenco Inc",
     "wof:parent_id":85838041,
     "wof:placetype":"venue",

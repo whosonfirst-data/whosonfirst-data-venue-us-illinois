@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.003035,42.169302,-88.003035,42.169302",
     "geom:latitude":42.169302,
     "geom:longitude":-88.003035,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890883,
+        102191575,
+        404498459,
         85633793,
-        85938421,
-        102084317,
-        85890883
+        85938335,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"6258d1d3e3468c791125edcc20f5e74a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85938421,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938335,
             "neighbourhood_id":85890883,
             "region_id":85688697,
             "venue_id":253411737
         }
     ],
     "wof:id":253411737,
-    "wof:lastmodified":1472621508,
+    "wof:lastmodified":1492088292,
     "wof:name":"Nissei Denki America Inc",
     "wof:parent_id":85890883,
     "wof:placetype":"venue",

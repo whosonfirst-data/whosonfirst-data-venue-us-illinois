@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.589203,41.6007,-87.589203,41.6007",
     "geom:latitude":41.6007,
     "geom:longitude":-87.589203,
@@ -28,7 +29,14 @@
     "sg:postcode":"60473",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940935,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U5ID0GJ7bu6dPreFGxLjO_41.600700_-87.589203@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954354,
     "wof:geomhash":"0beb871586e4ad63d3f2aabc0b7b59b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "region_id":85688697,
+            "venue_id":756045741
+        }
+    ],
     "wof:id":756045741,
-    "wof:lastmodified":1472621172,
+    "wof:lastmodified":1492097575,
     "wof:name":"Cherry Lane Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

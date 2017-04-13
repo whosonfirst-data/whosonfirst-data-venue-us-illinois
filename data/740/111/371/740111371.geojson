@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.017764,41.014539,-88.017764,41.014539",
     "geom:latitude":41.014539,
     "geom:longitude":-88.017764,
@@ -28,7 +29,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496555,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iUN6K1goyVvh59QQ3yyo1_41.014539_-88.017764@1294102059"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461949863,
     "wof:geomhash":"bfe2b4cc689a73a8d426ac4057776255",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496555,
+            "region_id":85688697,
+            "venue_id":740111371
+        }
+    ],
     "wof:id":740111371,
-    "wof:lastmodified":1472621270,
+    "wof:lastmodified":1492094935,
     "wof:name":"Scott Frerichs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

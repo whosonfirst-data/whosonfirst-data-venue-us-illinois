@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.375488,41.787205,-88.375488,41.787205",
     "geom:latitude":41.787205,
     "geom:longitude":-88.375488,
@@ -43,11 +44,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;222817012;46581823;b?http://www.candlewoodsuites.com/redirect?path=hd&brandCode=cw&hotelCode=chiqa&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-cw-_-chiqa",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,10 @@
     "wof:geomhash":"e81c6075b18e1e9ceb73e4b181c91e3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":756051731,
-    "wof:lastmodified":1472621170,
+    "wof:lastmodified":1492093103,
     "wof:name":"Candlewood Suites Aurora-Naperville",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

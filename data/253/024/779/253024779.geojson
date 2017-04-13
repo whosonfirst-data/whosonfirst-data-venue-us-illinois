@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061065,42.219055,-88.061065,42.219055",
     "geom:latitude":42.219055,
     "geom:longitude":-88.061065,
@@ -35,11 +36,13 @@
     "sg:website":"www.stmatts.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867889,
+        102191575,
+        404498459,
         85633793,
-        85938343,
+        85938373,
         102086215,
-        85867889
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"89e4895e98a502393a5cf77c79607bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938343,
+            "localadmin_id":404498459,
+            "locality_id":85938373,
             "neighbourhood_id":85867889,
             "region_id":85688697,
             "venue_id":253024779
         }
     ],
     "wof:id":253024779,
-    "wof:lastmodified":1472620786,
+    "wof:lastmodified":1492088256,
     "wof:name":"St Matthew Luth Pre School",
     "wof:parent_id":85867889,
     "wof:placetype":"venue",

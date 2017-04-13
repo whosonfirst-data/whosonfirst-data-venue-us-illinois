@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.30157,41.86069,-88.30157,41.86069",
     "geom:latitude":41.86069,
     "geom:longitude":-88.30157,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7c70142c3b0e006fc94b3185874ac03b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286658951,
-    "wof:lastmodified":1472621563,
+    "wof:lastmodified":1492106814,
     "wof:name":"Jbl Designs",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807926,41.869322,-87.807926,41.869322",
     "geom:latitude":41.869322,
     "geom:longitude":-87.807926,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c5aeae2b005df6e34e94506649d400cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270306771,
-    "wof:lastmodified":1472621411,
+    "wof:lastmodified":1492090983,
     "wof:name":"Fay Furniture Svc",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

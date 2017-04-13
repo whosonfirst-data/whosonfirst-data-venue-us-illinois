@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.019588,41.576573,-88.019588,41.576573",
     "geom:latitude":41.576573,
     "geom:longitude":-88.019588,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85844569,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85844569
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5e87cddb42ea7fc2e3853c75a49d67e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85844569,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":287111773,
-    "wof:lastmodified":1472621056,
+    "wof:lastmodified":1492091485,
     "wof:name":"Rapid Sales & Mktng Assoc Inc",
     "wof:parent_id":85844569,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.213514,38.600284,-90.213514,38.600284",
     "geom:latitude":38.600284,
     "geom:longitude":-90.213514,
@@ -38,11 +39,13 @@
     "sg:website":"www.budweisertours.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867037,
+        102191575,
+        404518053,
         85633793,
-        85940687,
-        102084321,
-        85867037
+        85971343,
+        102080791,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"32388ecf828e7528108733b2ed02d700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084321,
-            "locality_id":85940687,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85867037,
-            "region_id":85688697,
+            "region_id":85688661,
             "venue_id":186376143
         }
     ],
     "wof:id":186376143,
-    "wof:lastmodified":1472620968,
+    "wof:lastmodified":1491905107,
     "wof:name":"Anheuser-Busch Brewery Tour & Gift Shop",
     "wof:parent_id":85867037,
     "wof:placetype":"venue",

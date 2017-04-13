@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.002367,41.961476,-88.002367,41.961476",
     "geom:latitude":41.961476,
     "geom:longitude":-88.002367,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890713,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85890713
+        85688697
     ],
     "wof:brand_id":420575397,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"f91a93cad5abead76dc7972c53ffa677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85890713,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253286653,
-    "wof:lastmodified":1472621367,
+    "wof:lastmodified":1492089424,
     "wof:name":"Jazzercise",
     "wof:parent_id":85890713,
     "wof:placetype":"venue",

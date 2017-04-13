@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.120714,41.94147,-88.120714,41.94147",
     "geom:latitude":41.94147,
     "geom:longitude":-88.120714,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EzzGuI6vV5l9KrmM4YtsS_41.941470_-88.120714@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952285,
     "wof:geomhash":"7856156753a766cfb1c27e8a71e692e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219583
+        }
+    ],
     "wof:id":740219583,
-    "wof:lastmodified":1472621923,
+    "wof:lastmodified":1492099331,
     "wof:name":"Bloomingdale School District 93",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

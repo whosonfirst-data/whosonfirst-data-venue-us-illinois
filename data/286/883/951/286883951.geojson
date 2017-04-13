@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.699417,42.064412,-87.699417,42.064412",
     "geom:latitude":42.064412,
     "geom:longitude":-87.699417,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867707,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85867707
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"c3aa35de306b1bd4eaa3fa13f0df2a73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85867707,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286883951,
-    "wof:lastmodified":1472621692,
+    "wof:lastmodified":1492105426,
     "wof:name":"G A Tremain & Co",
     "wof:parent_id":85867707,
     "wof:placetype":"venue",

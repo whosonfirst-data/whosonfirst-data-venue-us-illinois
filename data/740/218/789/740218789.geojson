@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.081001,41.9557,-88.081001,41.9557",
     "geom:latitude":41.9557,
     "geom:longitude":-88.081001,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bkRtuW7nNBkJ2XPl0q1f5_41.955700_-88.081001@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952270,
     "wof:geomhash":"b446b0266accae0022a3ee99826c25ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218789
+        }
+    ],
     "wof:id":740218789,
-    "wof:lastmodified":1472621940,
+    "wof:lastmodified":1492110070,
     "wof:name":"Keller John D & Associates Lwyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

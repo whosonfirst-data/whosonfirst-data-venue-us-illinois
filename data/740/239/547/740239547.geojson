@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.734885,42.047512,-88.734885,42.047512",
     "geom:latitude":42.047512,
     "geom:longitude":-88.734885,
@@ -33,7 +34,13 @@
     "sg:postcode":"60145",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496293,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HXl537saW9hgBOiBCrSbI_42.047512_-88.734885@1303262849"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461952734,
     "wof:geomhash":"c2ce331caee20a6b93fad04f43258787",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404496293,
+            "region_id":85688697,
+            "venue_id":740239547
+        }
+    ],
     "wof:id":740239547,
-    "wof:lastmodified":1472621946,
+    "wof:lastmodified":1492105378,
     "wof:name":"Lincoln Lands Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

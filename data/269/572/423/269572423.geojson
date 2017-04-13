@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063707,42.410884,-88.063707,42.410884",
     "geom:latitude":42.410884,
     "geom:longitude":-88.063707,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"46c360c9c6a9971f37833d090ec6eb9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":269572423
         }
     ],
     "wof:id":269572423,
-    "wof:lastmodified":1472621043,
+    "wof:lastmodified":1492090991,
     "wof:name":"AVL Management & Consulting",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

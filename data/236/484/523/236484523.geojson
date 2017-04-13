@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9655,42.305911,-87.9655,42.305911",
     "geom:latitude":42.305911,
     "geom:longitude":-87.9655,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
+        85938331,
         102086215,
-        85890821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"1297a3ea9cca0fdf76b071cdd54819bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
             "neighbourhood_id":85890821,
             "region_id":85688697,
             "venue_id":236484523
         }
     ],
     "wof:id":236484523,
-    "wof:lastmodified":1472621695,
+    "wof:lastmodified":1492104942,
     "wof:name":"Service Specialties Inc",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",

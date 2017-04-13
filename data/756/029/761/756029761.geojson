@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.28697,41.483717,-88.28697,41.483717",
     "geom:latitude":41.483717,
     "geom:longitude":-88.28697,
@@ -32,7 +33,13 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498413,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zlcuFPSRXV2CwOoTh7RK4_41.483717_-88.286970@1303262857"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954012,
     "wof:geomhash":"6f4da072d2e3fd0b2bfa844aa2be5bb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498413,
+            "region_id":85688697,
+            "venue_id":756029761
+        }
+    ],
     "wof:id":756029761,
-    "wof:lastmodified":1472620864,
+    "wof:lastmodified":1492089817,
     "wof:name":"Wunderlich Travel Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

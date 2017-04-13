@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.172102,41.88158,-88.172102,41.88158",
     "geom:latitude":41.88158,
     "geom:longitude":-88.172102,
@@ -32,7 +33,10 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l1ARMvzeDfVIXjD6rwptH_41.881580_-88.172102@1303262851"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953020,
     "wof:geomhash":"c38dc7c0a1ade1d171a3bd3223f6e81c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740253347
+        }
+    ],
     "wof:id":740253347,
-    "wof:lastmodified":1472621962,
+    "wof:lastmodified":1492093653,
     "wof:name":"Carpenter Property Management Services Llc",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

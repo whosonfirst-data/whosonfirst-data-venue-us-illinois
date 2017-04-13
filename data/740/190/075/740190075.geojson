@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94276,42.276032,-87.94276,42.276032",
     "geom:latitude":42.276032,
     "geom:longitude":-87.94276,
@@ -32,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dcBXPr2fQR7a9yyOmhGjf_42.276032_-87.942760@1303262842"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461951650,
     "wof:geomhash":"d94ff677f9a43436698ccfa5ae3e46e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190075
+        }
+    ],
     "wof:id":740190075,
-    "wof:lastmodified":1472621853,
+    "wof:lastmodified":1492096177,
     "wof:name":"Connquest",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

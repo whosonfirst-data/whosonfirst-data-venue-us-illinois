@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987366,41.424547,-87.987366,41.424547",
     "geom:latitude":41.424547,
     "geom:longitude":-87.987366,
@@ -32,7 +33,10 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CJSwYVwm1k10IbIku7vqf_41.424547_-87.987366@1303262856"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"30b98684e90e4ef35446a93fa6431be7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025773
+        }
+    ],
     "wof:id":756025773,
-    "wof:lastmodified":1472620880,
+    "wof:lastmodified":1492102126,
     "wof:name":"Quinn And Jacobs- Kecaley",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.886858,42.393064,-87.886858,42.393064",
     "geom:latitude":42.393064,
     "geom:longitude":-87.886858,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867879,
+        102191575,
+        404498373,
         85633793,
         85938389,
         102086215,
-        85867879
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"4831d723fbee888efe288fa6fa92810b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498373,
             "locality_id":85938389,
             "neighbourhood_id":85867879,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219767561,
-    "wof:lastmodified":1472621591,
+    "wof:lastmodified":1492088712,
     "wof:name":"Allied Van Lines",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",

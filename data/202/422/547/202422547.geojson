@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07168,41.924349,-88.07168,41.924349",
     "geom:latitude":41.924349,
     "geom:longitude":-88.07168,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"c0ad085cf291640f0a3a921cc60deb2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":202422547
         }
     ],
     "wof:id":202422547,
-    "wof:lastmodified":1472620820,
+    "wof:lastmodified":1492110313,
     "wof:name":"Bennett Door Svc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

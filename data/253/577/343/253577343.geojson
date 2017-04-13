@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.1537,41.609149,-88.1537,41.609149",
     "geom:latitude":41.609149,
     "geom:longitude":-88.1537,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85830493,
+        102191575,
+        404499219,
         85633793,
+        85940581,
         102080845,
-        85830493
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"b7fff1d12b4ef652d1fe1afabef3bf26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499219,
+            "locality_id":85940581,
             "neighbourhood_id":85830493,
             "region_id":85688697,
             "venue_id":253577343
         }
     ],
     "wof:id":253577343,
-    "wof:lastmodified":1472621597,
+    "wof:lastmodified":1492089066,
     "wof:name":"Sun Shine Food Mart",
     "wof:parent_id":85830493,
     "wof:placetype":"venue",

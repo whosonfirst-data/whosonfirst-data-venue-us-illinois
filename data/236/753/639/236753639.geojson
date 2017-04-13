@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061489,41.859298,-88.061489,41.859298",
     "geom:latitude":41.859298,
     "geom:longitude":-88.061489,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85819667,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85819667
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ee727142616065bdbc8d0fa1efea225f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85819667,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236753639,
-    "wof:lastmodified":1472621770,
+    "wof:lastmodified":1492093043,
     "wof:name":"John C Workman DDS",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",

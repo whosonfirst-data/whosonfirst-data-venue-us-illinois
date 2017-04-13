@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.858058,41.980763,-87.858058,41.980763",
     "geom:latitude":41.980763,
     "geom:longitude":-87.858058,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940743,
-        102084317,
-        85809035
+        85940947,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"0b7e46e23ee9d77d550f0dcef215a067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940743,
-            "neighbourhood_id":85809035,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
             "region_id":85688697,
             "venue_id":235997341
         }
     ],
     "wof:id":235997341,
-    "wof:lastmodified":1472620796,
+    "wof:lastmodified":1491896986,
     "wof:name":"Azriel Gross Kaplan & Osiol",
-    "wof:parent_id":85809035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

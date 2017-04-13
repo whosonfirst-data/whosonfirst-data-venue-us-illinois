@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.225218,41.794893,-88.225218,41.794893",
     "geom:latitude":41.794893,
     "geom:longitude":-88.225218,
@@ -42,11 +43,13 @@
     "sg:website":"http://www.soundinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879083,
+        102191575,
+        404497655,
         85633793,
-        85940221,
+        85940205,
         102081257,
-        85879083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,16 +60,18 @@
     "wof:geomhash":"90a866a05c28dc853338128a3fec5625",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940221,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
             "neighbourhood_id":85879083,
             "region_id":85688697,
             "venue_id":756069995
         }
     ],
     "wof:id":756069995,
-    "wof:lastmodified":1472621398,
+    "wof:lastmodified":1492090028,
     "wof:name":"Sound Incorporated",
     "wof:parent_id":85879083,
     "wof:placetype":"venue",

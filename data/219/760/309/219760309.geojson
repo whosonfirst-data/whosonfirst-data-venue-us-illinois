@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.936799,42.078306,-87.936799,42.078306",
     "geom:latitude":42.078306,
     "geom:longitude":-87.936799,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9e294d0b6ec69c8ed8e973c9275efbc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219760309,
-    "wof:lastmodified":1472621571,
+    "wof:lastmodified":1492101623,
     "wof:name":"Moose Fmly Ctr 660 - Prospect",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

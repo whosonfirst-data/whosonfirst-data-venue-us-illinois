@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.960678,42.283371,-87.960678,42.283371",
     "geom:latitude":42.283371,
     "geom:longitude":-87.960678,
@@ -48,7 +49,10 @@
         "churches-lutheran"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65G8QzpIlS72MqATc5EluP_42.283371_-87.960678@1303262843"
@@ -56,9 +60,15 @@
     "wof:country":"US",
     "wof:created":1461951676,
     "wof:geomhash":"ec71efc04f56936f862f055de18ab376",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191189
+        }
+    ],
     "wof:id":740191189,
-    "wof:lastmodified":1472621859,
+    "wof:lastmodified":1492100490,
     "wof:name":"Stjohns Lutheran School",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

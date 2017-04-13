@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.041338,41.597388,-88.041338,41.597388",
     "geom:latitude":41.597388,
     "geom:longitude":-88.041338,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"c102026731f89826c5b42615ca61f37c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":236386977
         }
     ],
     "wof:id":236386977,
-    "wof:lastmodified":1472621648,
+    "wof:lastmodified":1492107468,
     "wof:name":"First Baptist Church Lockport",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

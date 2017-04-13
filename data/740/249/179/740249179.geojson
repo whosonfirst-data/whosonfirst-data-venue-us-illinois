@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.106588,41.966112,-88.106588,41.966112",
     "geom:latitude":41.966112,
     "geom:longitude":-88.106588,
@@ -23,7 +24,14 @@
     "sg:province":"IL",
     "sg:website":"http://chicago.citysearch.com/profile/external/36651109/roselle_il/cinde_s_salon.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gVarZPLDaWpm2AnCCc5Nq_41.966112_-88.106588@1303262850"
@@ -31,9 +39,19 @@
     "wof:country":"US",
     "wof:created":1461952936,
     "wof:geomhash":"1f038b72fe6d20ee1e0bc54df7eabdfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249179
+        }
+    ],
     "wof:id":740249179,
-    "wof:lastmodified":1472621964,
+    "wof:lastmodified":1492093193,
     "wof:name":"Cinde's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

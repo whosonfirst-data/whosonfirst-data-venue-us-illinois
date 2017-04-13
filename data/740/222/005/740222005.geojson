@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.737244,41.947344,-88.737244,41.947344",
     "geom:latitude":41.947344,
     "geom:longitude":-88.737244,
@@ -42,7 +43,14 @@
         "stylist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75a6guXZJugQHhpmiXZiTd_41.947344_-88.737244@1303262847"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461952339,
     "wof:geomhash":"d393d057764d029bd22a4e467092f223",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740222005
+        }
+    ],
     "wof:id":740222005,
-    "wof:lastmodified":1472621906,
+    "wof:lastmodified":1492110334,
     "wof:name":"Imagine' Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

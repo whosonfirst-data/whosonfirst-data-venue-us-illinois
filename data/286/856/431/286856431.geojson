@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.791271,41.819897,-87.791271,41.819897",
     "geom:latitude":41.819897,
     "geom:longitude":-87.791271,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890737,
+        102191575,
+        404497589,
         85633793,
         85940933,
         102084317,
-        85890737
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"38f798d9e6543d89ae31a0429c23e855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497589,
             "locality_id":85940933,
             "neighbourhood_id":85890737,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286856431,
-    "wof:lastmodified":1472621685,
+    "wof:lastmodified":1492105675,
     "wof:name":"McNamara Motor Service",
     "wof:parent_id":85890737,
     "wof:placetype":"venue",

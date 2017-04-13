@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.324267,41.762039,-88.324267,41.762039",
     "geom:latitude":41.762039,
     "geom:longitude":-88.324267,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876051,
+        85876057,
         102191575,
         404498347,
         85633793,
         85940221,
         102086925,
         85688697,
-        85876057
+        85876051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,23 +56,25 @@
             "county_id":102086925,
             "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876051,
+            "neighbourhood_id":85876057,
             "region_id":85688697,
             "venue_id":756052759
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876057,
+            "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":756052759
         }
     ],
     "wof:id":756052759,
-    "wof:lastmodified":1472621177,
+    "wof:lastmodified":1492105794,
     "wof:name":"Frannie's Gift Shoppe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

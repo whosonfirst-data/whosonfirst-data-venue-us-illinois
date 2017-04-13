@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.146168,41.293233,-88.146168,41.293233",
     "geom:latitude":41.293233,
     "geom:longitude":-88.146168,
@@ -32,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497111,
+        85633793,
+        85940511,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fo7wKaPdvu6degLls93PB_41.293233_-88.146168@1303262859"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954380,
     "wof:geomhash":"4abf30a6774dfb1d55a7334ae554f0a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497111,
+            "locality_id":85940511,
+            "region_id":85688697,
+            "venue_id":756047209
+        }
+    ],
     "wof:id":756047209,
-    "wof:lastmodified":1472621146,
+    "wof:lastmodified":1492097177,
     "wof:name":"Sunnyside Home Health Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

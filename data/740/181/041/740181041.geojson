@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.177002,42.089901,-88.177002,42.089901",
     "geom:latitude":42.089901,
     "geom:longitude":-88.177002,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.valentinoelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497605,
+        85633793,
+        85940941,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IoKGivIAfhgQeB74Wrmi8_42.089901_-88.177002@1303262841"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951467,
     "wof:geomhash":"7c2daf66198d96dc5d1a198837cee970",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497605,
+            "locality_id":85940941,
+            "region_id":85688697,
+            "venue_id":740181041
+        }
+    ],
     "wof:id":740181041,
-    "wof:lastmodified":1472621829,
+    "wof:lastmodified":1492099363,
     "wof:name":"Valentino Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

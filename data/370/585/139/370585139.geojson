@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.646449,41.458631,-87.646449,41.458631",
     "geom:latitude":41.458631,
     "geom:longitude":-87.646449,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
         85633793,
-        85688697
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"2c22e20d70b667f049a3fbdc9968676e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499129,
             "region_id":85688697,
             "venue_id":370585139
         }
     ],
     "wof:id":370585139,
-    "wof:lastmodified":1472620772,
+    "wof:lastmodified":1492088584,
     "wof:name":"Bob's Low Cost Expert Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

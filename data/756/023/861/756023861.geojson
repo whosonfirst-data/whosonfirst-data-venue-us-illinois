@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958244,41.667175,-87.958244,41.667175",
     "geom:latitude":41.667175,
     "geom:longitude":-87.958244,
@@ -59,7 +60,14 @@
     ],
     "sg:website":"http://www.farmersagent.com/rhlavin",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dxGDt5TbQc47ZQV7OvCLn_41.667175_-87.958244@1303262856"
@@ -67,9 +75,19 @@
     "wof:country":"US",
     "wof:created":1461953884,
     "wof:geomhash":"97dd10f803a7818edf7bd8fd31b77c8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023861
+        }
+    ],
     "wof:id":756023861,
-    "wof:lastmodified":1472620798,
+    "wof:lastmodified":1492097093,
     "wof:name":"The Hlavin Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

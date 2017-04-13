@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.917511,41.906158,-87.917511,41.906158",
     "geom:latitude":41.906158,
     "geom:longitude":-87.917511,
@@ -35,7 +36,14 @@
     ],
     "sg:website":"http://www.midwestconf.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940765,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jvX4KdRLXOZlHLozKEFCy_41.906158_-87.917511@1303262850"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461952908,
     "wof:geomhash":"7ff1a7826fcb71663d80dfd704061615",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940765,
+            "region_id":85688697,
+            "venue_id":740248035
+        }
+    ],
     "wof:id":740248035,
-    "wof:lastmodified":1472621957,
+    "wof:lastmodified":1492093306,
     "wof:name":"Midwest Conference Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

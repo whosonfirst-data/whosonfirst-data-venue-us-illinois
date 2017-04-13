@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.799796,41.850495,-87.799796,41.850495",
     "geom:latitude":41.850495,
     "geom:longitude":-87.799796,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85837971,
+        102191575,
+        404497585,
         85633793,
         85940763,
         102084317,
-        85837971
+        85688697
     ],
     "wof:brand_id":420574461,
     "wof:breaches":[],
@@ -50,9 +53,10 @@
     "wof:geomhash":"95300063a8bb7516067a19689f11b270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497585,
             "locality_id":85940763,
             "neighbourhood_id":85837971,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219168239,
-    "wof:lastmodified":1472620776,
+    "wof:lastmodified":1492095033,
     "wof:name":"Circuit City",
     "wof:parent_id":85837971,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983054,41.66482,-87.983054,41.66482",
     "geom:latitude":41.66482,
     "geom:longitude":-87.983054,
@@ -38,7 +39,14 @@
         "cat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_638ufzvUFQckb5Vne1Rs9D_41.664820_-87.983054@1303262856"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953879,
     "wof:geomhash":"03a157828399fca30026cfbdeed9f048",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023583
+        }
+    ],
     "wof:id":756023583,
-    "wof:lastmodified":1472620776,
+    "wof:lastmodified":1492090003,
     "wof:name":"Pet Port Of Call, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

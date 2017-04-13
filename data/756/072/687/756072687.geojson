@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.240601,41.700312,-88.240601,41.700312",
     "geom:latitude":41.700312,
     "geom:longitude":-88.240601,
@@ -40,7 +41,13 @@
     ],
     "sg:website":"http://www.kensbeverage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3evGyT6lpNKnHhua8zUVg3_41.700312_-88.240601@1303262862"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461954921,
     "wof:geomhash":"72b89314e54399bfa3934e8f2a56f1b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756072687
+        }
+    ],
     "wof:id":756072687,
-    "wof:lastmodified":1472621411,
+    "wof:lastmodified":1492089854,
     "wof:name":"Ken's Beverage, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

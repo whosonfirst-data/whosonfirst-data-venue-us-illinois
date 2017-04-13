@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.96611,41.524778,-87.96611,41.524778",
     "geom:latitude":41.524778,
     "geom:longitude":-87.96611,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850979,
+        102191575,
+        404499217,
         85633793,
         85940543,
         102080845,
-        85850979
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"42684561e38aeae7024893c6cca38a1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499217,
             "locality_id":85940543,
             "neighbourhood_id":85850979,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":186629205,
-    "wof:lastmodified":1472620992,
+    "wof:lastmodified":1492090212,
     "wof:name":"Fentool Inc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",

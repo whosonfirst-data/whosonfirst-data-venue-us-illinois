@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075678,41.507477,-88.075678,41.507477",
     "geom:latitude":41.507477,
     "geom:longitude":-88.075678,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"fbd296f6c6610945f94d69621295c2c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":287144133,
-    "wof:lastmodified":1472621086,
+    "wof:lastmodified":1492093208,
     "wof:name":"Midwest Railroad Construction",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

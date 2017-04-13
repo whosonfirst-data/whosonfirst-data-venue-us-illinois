@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.904776,42.34766,-87.904776,42.34766",
     "geom:latitude":42.34766,
     "geom:longitude":-87.904776,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867879,
+        102191575,
+        404498373,
         85633793,
         85938389,
         102086215,
-        85867879
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"cd879ca1394d2c83661f4dab68f43fa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498373,
             "locality_id":85938389,
             "neighbourhood_id":85867879,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":236200231,
-    "wof:lastmodified":1472621313,
+    "wof:lastmodified":1492091011,
     "wof:name":"Wilson Railing & Metal Fabg",
     "wof:parent_id":85867879,
     "wof:placetype":"venue",

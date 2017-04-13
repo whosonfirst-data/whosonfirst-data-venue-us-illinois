@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.198453,42.480901,-88.198453,42.480901",
     "geom:latitude":42.480901,
     "geom:longitude":-88.198453,
@@ -34,7 +35,14 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498449,
+        85633793,
+        85938397,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l4jaW5S3ZjcL1JCZHMO8s_42.480901_-88.198453@1303262841"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461951405,
     "wof:geomhash":"db8e005db1a20f5874c16bbe8396e3db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498449,
+            "locality_id":85938397,
+            "region_id":85688697,
+            "venue_id":740178641
+        }
+    ],
     "wof:id":740178641,
-    "wof:lastmodified":1472621837,
+    "wof:lastmodified":1492091164,
     "wof:name":"Vern & Bunny Thelen Family Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207286,40.995715,-88.207286,40.995715",
     "geom:latitude":40.995715,
     "geom:longitude":-88.207286,
@@ -39,7 +40,14 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497769,
+        85633793,
+        85939133,
+        102082859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NhWbtDF7hkwSIKBDbNH6q_40.995715_-88.207286@1303262910"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461962937,
     "wof:geomhash":"3047193b422cb87c8ca024b9787f87a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082859,
+            "localadmin_id":404497769,
+            "locality_id":85939133,
+            "region_id":85688697,
+            "venue_id":756426561
+        }
+    ],
     "wof:id":756426561,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492102166,
     "wof:name":"Cabery Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

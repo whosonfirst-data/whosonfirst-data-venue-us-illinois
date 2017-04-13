@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687908,41.638233,-87.687908,41.638233",
     "geom:latitude":41.638233,
     "geom:longitude":-87.687908,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518687,
+        102191575,
+        404497667,
         85633793,
-        85940737,
-        102084317
+        85940899,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"7d0da539ea3f0c47b2a957ab9e10c47a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497667,
+            "locality_id":85940899,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":236650819
         }
     ],
     "wof:id":236650819,
-    "wof:lastmodified":1472621745,
+    "wof:lastmodified":1492090852,
     "wof:name":"A C Mechanical Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

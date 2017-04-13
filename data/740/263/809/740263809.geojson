@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.085032,42.004845,-88.085032,42.004845",
     "geom:latitude":42.004845,
     "geom:longitude":-88.085032,
@@ -32,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bjBMqIoQWHT8JJhKSMGxx_42.004845_-88.085032@1303262852"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953229,
     "wof:geomhash":"1dc09813c80c226f133c59c29cecb805",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740263809
+        }
+    ],
     "wof:id":740263809,
-    "wof:lastmodified":1472621997,
+    "wof:lastmodified":1492091814,
     "wof:name":"Genesis Small Business Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

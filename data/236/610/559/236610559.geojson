@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.86466,42.430853,-87.86466,42.430853",
     "geom:latitude":42.430853,
     "geom:longitude":-87.86466,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85804997,
+        102191575,
+        404498453,
         85633793,
         85938401,
         102086215,
-        85804997
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"08e52e8bfed0212cf3394cee021c940d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498453,
             "locality_id":85938401,
             "neighbourhood_id":85804997,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":236610559,
-    "wof:lastmodified":1472621735,
+    "wof:lastmodified":1492104892,
     "wof:name":"T Blacktopping Wallace Inc",
     "wof:parent_id":85804997,
     "wof:placetype":"venue",

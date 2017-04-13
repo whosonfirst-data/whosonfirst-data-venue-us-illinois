@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.040462,41.794286,-88.040462,41.794286",
     "geom:latitude":41.794286,
     "geom:longitude":-88.040462,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805589,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85805589
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"079e3a395aaea297459a74bbcc2afcfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85805589,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":286907789,
-    "wof:lastmodified":1472621698,
+    "wof:lastmodified":1492090023,
     "wof:name":"Laminall Fabricating Corp",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",

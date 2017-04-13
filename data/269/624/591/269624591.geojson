@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.970561,42.218079,-87.970561,42.218079",
     "geom:latitude":42.218079,
     "geom:longitude":-87.970561,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890959,
+        102191575,
+        404498371,
         85633793,
         85938629,
         102086215,
-        85890959
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fa596ad7d1ccdd0739219dda04535054",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498371,
             "locality_id":85938629,
             "neighbourhood_id":85890959,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269624591,
-    "wof:lastmodified":1472621142,
+    "wof:lastmodified":1492091899,
     "wof:name":"Richard Korsak LTD",
     "wof:parent_id":85890959,
     "wof:placetype":"venue",

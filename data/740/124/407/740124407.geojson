@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.540398,41.547901,-87.540398,41.547901",
     "geom:latitude":41.547901,
     "geom:longitude":-87.540398,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.whitehen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lHTbRvwdcN5vCOqsak5eb_41.547775_-87.540493@1293134755"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950180,
     "wof:geomhash":"8c9d6fb16a9d17ebe9e207cf9673fe88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740124407
+        }
+    ],
     "wof:id":740124407,
-    "wof:lastmodified":1472621358,
+    "wof:lastmodified":1492092307,
     "wof:name":"White Hen Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

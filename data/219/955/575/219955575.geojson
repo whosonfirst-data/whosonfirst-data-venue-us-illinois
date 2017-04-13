@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.272816,41.293877,-88.272816,41.293877",
     "geom:latitude":41.293877,
     "geom:longitude":-88.272816,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"3d09021d119b2acd0cf21cfc5dbcc43e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219955575,
-    "wof:lastmodified":1472621621,
+    "wof:lastmodified":1492097387,
     "wof:name":"Family Skate Ctr",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

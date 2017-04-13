@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.796004,41.512405,-88.796004,41.512405",
     "geom:latitude":41.512405,
     "geom:longitude":-88.796004,
@@ -38,7 +39,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498515,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rP7VxqsTOkYIdA5yH2yph_41.512405_-88.796004@1303262862"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461954806,
     "wof:geomhash":"493bbc401cd5e5aac999819be2d37c0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498515,
+            "region_id":85688697,
+            "venue_id":756067101
+        }
+    ],
     "wof:id":756067101,
-    "wof:lastmodified":1472621368,
+    "wof:lastmodified":1492107483,
     "wof:name":"Home Towne Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

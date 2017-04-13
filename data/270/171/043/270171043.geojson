@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.312057,41.887446,-88.312057,41.887446",
     "geom:latitude":41.887446,
     "geom:longitude":-88.312057,
@@ -40,11 +41,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420559817,
+        102191575,
+        404498227,
         85633793,
-        85940213,
+        85939739,
         102086925,
-        85867853
+        85688697,
+        85867853,
+        404498235,
+        85940213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +60,20 @@
     "wof:geomhash":"0d85f3c788c19a7ee7b1b0ad0b7d9561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
+            "neighbourhood_id":420559817,
+            "region_id":85688697,
+            "venue_id":270171043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498235,
             "locality_id":85940213,
             "neighbourhood_id":85867853,
             "region_id":85688697,
@@ -64,9 +81,9 @@
         }
     ],
     "wof:id":270171043,
-    "wof:lastmodified":1472621203,
+    "wof:lastmodified":1492091949,
     "wof:name":"Electrolysis Center",
-    "wof:parent_id":85867853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

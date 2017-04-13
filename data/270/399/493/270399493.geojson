@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.991166,41.786724,-87.991166,41.786724",
     "geom:latitude":41.786724,
     "geom:longitude":-87.991166,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518947,
+        102191575,
+        404497649,
         85633793,
-        85940165,
-        102081257
+        85940141,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"9fbae8ccdef542bbf2c403ab0f5e8916",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940165,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":420518947,
             "region_id":85688697,
             "venue_id":270399493
         }
     ],
     "wof:id":270399493,
-    "wof:lastmodified":1472621454,
+    "wof:lastmodified":1492093087,
     "wof:name":"Mehler Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

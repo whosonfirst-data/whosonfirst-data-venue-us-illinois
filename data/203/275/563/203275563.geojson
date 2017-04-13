@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.377693,42.10057,-88.377693,42.10057",
     "geom:latitude":42.10057,
     "geom:longitude":-88.377693,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85802887,
+        102191575,
+        404498225,
         85633793,
+        85939801,
         102086925,
-        85802887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"bd2de6cfffe5a7b32540fe4fb483faa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":-1,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
             "neighbourhood_id":85802887,
             "region_id":85688697,
             "venue_id":203275563
         }
     ],
     "wof:id":203275563,
-    "wof:lastmodified":1472621159,
+    "wof:lastmodified":1492089426,
     "wof:name":"AM Swiss Screw Machine Product",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",

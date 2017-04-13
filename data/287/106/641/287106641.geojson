@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.167204,41.652913,-88.167204,41.652913",
     "geom:latitude":41.652913,
     "geom:longitude":-88.167204,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a272459bb58e2dd798efd898ffb42ddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":287106641
         }
     ],
     "wof:id":287106641,
-    "wof:lastmodified":1472621045,
+    "wof:lastmodified":1492093106,
     "wof:name":"Solutions Consulting Group Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

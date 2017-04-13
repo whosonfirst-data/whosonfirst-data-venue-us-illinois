@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.815766,41.870891,-87.815766,41.870891",
     "geom:latitude":41.870891,
     "geom:longitude":-87.815766,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890847,
+        102191575,
+        404497579,
         85633793,
-        85940849,
+        85940787,
         102084317,
-        85890847
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"ee26b8082112e2e021494dc04996dd5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497579,
+            "locality_id":85940787,
             "neighbourhood_id":85890847,
             "region_id":85688697,
             "venue_id":253691779
         }
     ],
     "wof:id":253691779,
-    "wof:lastmodified":1472621645,
+    "wof:lastmodified":1492100159,
     "wof:name":"Vincent Scianna",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",

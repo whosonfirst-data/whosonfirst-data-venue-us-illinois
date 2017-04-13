@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.049906,41.926509,-88.049906,41.926509",
     "geom:latitude":41.926509,
     "geom:longitude":-88.049906,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.partytimeproductions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940175,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kC8KnMGtD30zrAztw2Bv7_41.926509_-88.049906@1303262845"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952062,
     "wof:geomhash":"6025dcaf38ebe33d340119a4f3a6f8bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940175,
+            "region_id":85688697,
+            "venue_id":740209427
+        }
+    ],
     "wof:id":740209427,
-    "wof:lastmodified":1472621887,
+    "wof:lastmodified":1492093038,
     "wof:name":"Partytime Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

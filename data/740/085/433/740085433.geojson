@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.970498,42.501887,-87.970498,42.501887",
     "geom:latitude":42.501887,
     "geom:longitude":-87.970498,
@@ -31,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eqyL09sR35C1PWZlSskXX_42.501887_-87.970498@1294102059"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461949166,
     "wof:geomhash":"9d1ca4e1f54ba64baa1c3d5443c60ace",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":740085433
+        }
+    ],
     "wof:id":740085433,
-    "wof:lastmodified":1472620835,
+    "wof:lastmodified":1492097079,
     "wof:name":"No Bullyon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

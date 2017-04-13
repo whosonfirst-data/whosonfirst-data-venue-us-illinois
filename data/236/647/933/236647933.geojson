@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.801806,41.488776,-87.801806,41.488776",
     "geom:latitude":41.488776,
     "geom:longitude":-87.801806,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890839,
+        102191575,
+        404499135,
         85633793,
         85940557,
         102080845,
-        85890839
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"006cdd9afb3a1020c2e7a17d075e22d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499135,
             "locality_id":85940557,
             "neighbourhood_id":85890839,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236647933,
-    "wof:lastmodified":1472621747,
+    "wof:lastmodified":1492102109,
     "wof:name":"Ekg Sales Assoc Inc",
     "wof:parent_id":85890839,
     "wof:placetype":"venue",

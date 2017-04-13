@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881204,41.305475,-87.881204,41.305475",
     "geom:latitude":41.305475,
     "geom:longitude":-87.881204,
@@ -30,8 +31,11 @@
     "sg:website":"www.continentalfarmsinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
         85633793,
-        85688697
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,16 @@
     "wof:geomhash":"7c2a4b14b05057d51908f00e3a57d403",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404497103,
             "region_id":85688697,
             "venue_id":337487947
         }
     ],
     "wof:id":337487947,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492105241,
     "wof:name":"Continental Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

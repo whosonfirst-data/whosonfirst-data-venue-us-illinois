@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.878542,42.365883,-87.878542,42.365883",
     "geom:latitude":42.365883,
     "geom:longitude":-87.878542,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850431,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85850431
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"215e69c7615cdd02aea17bbde58aafea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85850431,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286286371,
-    "wof:lastmodified":1472620811,
+    "wof:lastmodified":1492109610,
     "wof:name":"Markham M Jeep & Assoc PC",
     "wof:parent_id":85850431,
     "wof:placetype":"venue",

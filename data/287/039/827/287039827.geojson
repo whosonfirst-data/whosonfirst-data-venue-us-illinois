@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.607011,41.577868,-87.607011,41.577868",
     "geom:latitude":41.577868,
     "geom:longitude":-87.607011,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890921,
+        102191575,
+        404497591,
         85633793,
+        85940935,
         102084317,
-        85890921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"de5a1b3f957df0b99297e5962450964d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
             "neighbourhood_id":85890921,
             "region_id":85688697,
             "venue_id":287039827
         }
     ],
     "wof:id":287039827,
-    "wof:lastmodified":1472620826,
+    "wof:lastmodified":1492102438,
     "wof:name":"First Baptist Church S Holland",
     "wof:parent_id":85890921,
     "wof:placetype":"venue",

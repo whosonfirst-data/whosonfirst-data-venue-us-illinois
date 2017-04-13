@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.836255,41.133236,-87.836255,41.133236",
     "geom:latitude":41.133236,
     "geom:longitude":-87.836255,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
         85633793,
-        85688697
+        85939977,
+        102081259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +50,17 @@
     "wof:geomhash":"03ff6aa44732eece4773a8d5814169c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
             "region_id":85688697,
             "venue_id":270116365
         }
     ],
     "wof:id":270116365,
-    "wof:lastmodified":1472621083,
+    "wof:lastmodified":1492096279,
     "wof:name":"Village Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

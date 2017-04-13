@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.69373,41.517516,-87.69373,41.517516",
     "geom:latitude":41.517516,
     "geom:longitude":-87.69373,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85851443,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85851443
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1535098410b6e4c4deaf1743c9b9f01e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85851443,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286698617,
-    "wof:lastmodified":1472621617,
+    "wof:lastmodified":1492092125,
     "wof:name":"Home Theater Xperts",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",

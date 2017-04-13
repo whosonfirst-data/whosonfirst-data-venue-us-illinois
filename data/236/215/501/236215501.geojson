@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.724467,42.060041,-87.724467,42.060041",
     "geom:latitude":42.060041,
     "geom:longitude":-87.724467,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85823241,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85823241
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4cbcfefdbcdc5292e7c58435b8da1f65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85823241,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236215501,
-    "wof:lastmodified":1472621329,
+    "wof:lastmodified":1492088828,
     "wof:name":"Larson Builders Inc",
     "wof:parent_id":85823241,
     "wof:placetype":"venue",

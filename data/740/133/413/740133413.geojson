@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.225087,40.893283,-88.225087,40.893283",
     "geom:latitude":40.893283,
     "geom:longitude":-88.225087,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496363,
+        85633793,
+        102082859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ue7MKFrLgiQ3tiB3jOmiv_40.893283_-88.225087@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950422,
     "wof:geomhash":"89aa63469a1b9fca4df9707d39f89111",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082859,
+            "localadmin_id":404496363,
+            "region_id":85688697,
+            "venue_id":740133413
+        }
+    ],
     "wof:id":740133413,
-    "wof:lastmodified":1472621464,
+    "wof:lastmodified":1492093214,
     "wof:name":"Alvin Saathoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

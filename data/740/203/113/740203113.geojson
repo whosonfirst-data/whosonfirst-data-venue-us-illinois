@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835876,42.376766,-87.835876,42.376766",
     "geom:latitude":42.376766,
     "geom:longitude":-87.835876,
@@ -23,7 +24,10 @@
     "sg:province":"IL",
     "sg:website":"http://www.koscoflags.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eut3K2KvGmZThwydt5iWd_42.376766_-87.835876@1303262844"
@@ -31,9 +35,15 @@
     "wof:country":"US",
     "wof:created":1461951906,
     "wof:geomhash":"3afd8c88b45d3a75ba4f8de3c05337bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519115,
+            "venue_id":740203113
+        }
+    ],
     "wof:id":740203113,
-    "wof:lastmodified":1472621871,
+    "wof:lastmodified":1492103249,
     "wof:name":"Kosco Flags & Flagpoles LLC",
     "wof:parent_id":420519115,
     "wof:placetype":"venue",

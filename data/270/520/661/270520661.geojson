@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.103383,41.833305,-88.103383,41.833305",
     "geom:latitude":41.833305,
     "geom:longitude":-88.103383,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891061,
+        102191575,
+        404497653,
         85633793,
+        85940139,
         102081257,
-        85891061
+        85688697
     ],
     "wof:brand_id":420574567,
     "wof:breaches":[],
@@ -46,17 +50,18 @@
     "wof:geomhash":"401f8d6abcf594c8b1b4f18d4b2ad87c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497653,
+            "locality_id":85940139,
             "neighbourhood_id":85891061,
             "region_id":85688697,
             "venue_id":270520661
         }
     ],
     "wof:id":270520661,
-    "wof:lastmodified":1472621494,
+    "wof:lastmodified":1492093191,
     "wof:name":"Aldi",
     "wof:parent_id":85891061,
     "wof:placetype":"venue",

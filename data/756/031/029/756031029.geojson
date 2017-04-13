@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.746083,41.420266,-87.746083,41.420266",
     "geom:latitude":41.420266,
     "geom:longitude":-87.746083,
@@ -22,7 +23,14 @@
     "sg:postcode":"60449",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DCulVr5WZwp7myxi5PBQ3_41.420266_-87.746083@1303262857"
@@ -30,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1461954037,
     "wof:geomhash":"69c7f88a55e5fd0693762c8c115d9d4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756031029
+        }
+    ],
     "wof:id":756031029,
-    "wof:lastmodified":1472620813,
+    "wof:lastmodified":1492089765,
     "wof:name":"Cliff & Tommy's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

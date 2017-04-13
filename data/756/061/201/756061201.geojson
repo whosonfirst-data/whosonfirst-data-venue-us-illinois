@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.341597,41.706213,-88.341597,41.706213",
     "geom:latitude":41.706213,
     "geom:longitude":-88.341597,
@@ -28,7 +29,14 @@
     "sg:postcode":"60538",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941299,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nEiN2Gg9dxV0UtqVyZZm5_41.706213_-88.341597@1303262861"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954663,
     "wof:geomhash":"a23114f53a1dd985b838639239a473b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941299,
+            "region_id":85688697,
+            "venue_id":756061201
+        }
+    ],
     "wof:id":756061201,
-    "wof:lastmodified":1472621322,
+    "wof:lastmodified":1492108002,
     "wof:name":"Re/Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

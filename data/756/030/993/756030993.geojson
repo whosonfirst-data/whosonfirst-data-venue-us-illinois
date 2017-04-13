@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.739126,41.418859,-87.739126,41.418859",
     "geom:latitude":41.418859,
     "geom:longitude":-87.739126,
@@ -33,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52WpAtQAxuLwvLRlWlsjgn_41.418859_-87.739126@1303262857"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954035,
     "wof:geomhash":"134551aa3fc656b039c9f3977eeb7d30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030993
+        }
+    ],
     "wof:id":756030993,
-    "wof:lastmodified":1472620879,
+    "wof:lastmodified":1492089764,
     "wof:name":"Wc Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

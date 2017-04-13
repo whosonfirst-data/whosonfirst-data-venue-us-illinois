@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.96947,42.273155,-87.96947,42.273155",
     "geom:latitude":42.273155,
     "geom:longitude":-87.96947,
@@ -36,7 +37,10 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Uz5djnakaxdQjVt8LokCk_42.273155_-87.969470@1303262842"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461951642,
     "wof:geomhash":"027182ed01791053a345031a8608409e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740189649
+        }
+    ],
     "wof:id":740189649,
-    "wof:lastmodified":1472621856,
+    "wof:lastmodified":1492108424,
     "wof:name":"Cherry Pit Cafe",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

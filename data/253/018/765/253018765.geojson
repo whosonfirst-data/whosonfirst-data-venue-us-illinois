@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.789455,42.049577,-87.789455,42.049577",
     "geom:latitude":42.049577,
     "geom:longitude":-87.789455,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
+        85940943,
         102084317,
-        85856393
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"9f31e9a836f21b415dc1e7ae09252d8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":253018765
         }
     ],
     "wof:id":253018765,
-    "wof:lastmodified":1472620781,
+    "wof:lastmodified":1492109233,
     "wof:name":"Morrie Aron Agency",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",

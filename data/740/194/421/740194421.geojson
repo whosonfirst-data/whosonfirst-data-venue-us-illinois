@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862759,42.138359,-87.862759,42.138359",
     "geom:latitude":42.138359,
     "geom:longitude":-87.862759,
@@ -38,7 +39,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1unpj3NMAJgjpKP9qpXsfq_42.138359_-87.862759@1303262843"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951738,
     "wof:geomhash":"6c3ee2d1f0de9e5cc2da23ed803eb67c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740194421
+        }
+    ],
     "wof:id":740194421,
-    "wof:lastmodified":1472621868,
+    "wof:lastmodified":1492093362,
     "wof:name":"Financial Marketing Services Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

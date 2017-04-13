@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.285402,41.864399,-88.285402,41.864399",
     "geom:latitude":41.864399,
     "geom:longitude":-88.285402,
@@ -35,11 +36,13 @@
     "sg:website":"www.firstaccessmhs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"3ac7ded53a92a2d7bb891e08ccfe9cf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":286307021,
-    "wof:lastmodified":1472620843,
+    "wof:lastmodified":1492089802,
     "wof:name":"Atlas Toyota Material Handling",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

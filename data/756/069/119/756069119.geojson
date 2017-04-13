@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.441106,41.661943,-88.441106,41.661943",
     "geom:latitude":41.661943,
     "geom:longitude":-88.441106,
@@ -28,7 +29,14 @@
     "sg:postcode":"60560",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a9KQ4q9nOeqV9zGKZs4sU_41.661943_-88.441106@1303262862"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954851,
     "wof:geomhash":"a54fa9f10b4d48302461828ff80ac7d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756069119
+        }
+    ],
     "wof:id":756069119,
-    "wof:lastmodified":1472621372,
+    "wof:lastmodified":1492089573,
     "wof:name":"Sperlakis Michael OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

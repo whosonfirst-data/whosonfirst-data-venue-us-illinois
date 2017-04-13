@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.044366,41.720243,-88.044366,41.720243",
     "geom:latitude":41.720243,
     "geom:longitude":-88.044366,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519345,
+        102191575,
+        404499131,
         85633793,
         85940209,
-        102080845
+        102080845,
+        85688697
     ],
     "wof:brand_id":420574325,
     "wof:breaches":[],
@@ -49,19 +53,20 @@
     "wof:geomhash":"c79997eae28c5594c16e3441d16c0488",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499131,
             "locality_id":85940209,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519345,
             "region_id":85688697,
             "venue_id":236231427
         }
     ],
     "wof:id":236231427,
-    "wof:lastmodified":1472621352,
+    "wof:lastmodified":1492096655,
     "wof:name":"Public Storage Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.125791,41.688157,-88.125791,41.688157",
     "geom:latitude":41.688157,
     "geom:longitude":-88.125791,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"1720388bc41e7c9b5c71287e244a631e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":236321395
         }
     ],
     "wof:id":236321395,
-    "wof:lastmodified":1472621520,
+    "wof:lastmodified":1492090634,
     "wof:name":"Zale Jewelery Outlet",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

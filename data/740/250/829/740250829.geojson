@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104225,41.96534,-88.104225,41.96534",
     "geom:latitude":41.96534,
     "geom:longitude":-88.104225,
@@ -49,7 +50,13 @@
     ],
     "sg:website":"http://www.actionlockandkey.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LHv2OD83kMhx6jKJPV7N5_41.965340_-88.104225@1303262850"
@@ -57,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1461952966,
     "wof:geomhash":"cd1cc7f647175e7b8f4c6cbb2ccf668c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740250829
+        }
+    ],
     "wof:id":740250829,
-    "wof:lastmodified":1472621985,
+    "wof:lastmodified":1492093395,
     "wof:name":"Action Lock & Key, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

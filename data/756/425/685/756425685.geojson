@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.869242,41.119458,-87.869242,41.119458",
     "geom:latitude":41.119458,
     "geom:longitude":-87.869242,
@@ -50,7 +51,14 @@
     ],
     "sg:website":"http://www.countryfinancial.com/john.schimmel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        85939977,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xvIjEyscpkcu8IMrBu2jM_41.119458_-87.869242@1303262909"
@@ -58,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461962915,
     "wof:geomhash":"fd7154dea8511c3b3209de1bdbb35060",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
+            "region_id":85688697,
+            "venue_id":756425685
+        }
+    ],
     "wof:id":756425685,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1492092481,
     "wof:name":"COUNTRY Financial John Schimmel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

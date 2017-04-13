@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.632919,41.472339,-87.632919,41.472339",
     "geom:latitude":41.472339,
     "geom:longitude":-87.632919,
@@ -33,7 +34,14 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940519,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w2agGMgcVa0eAUlL7pu2B_41.472283_-87.633008@1293134755"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950260,
     "wof:geomhash":"fd043c5ea230e766f3919390c53890ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940519,
+            "region_id":85688697,
+            "venue_id":740126685
+        }
+    ],
     "wof:id":740126685,
-    "wof:lastmodified":1472621422,
+    "wof:lastmodified":1492105309,
     "wof:name":"Union Ave Auto Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

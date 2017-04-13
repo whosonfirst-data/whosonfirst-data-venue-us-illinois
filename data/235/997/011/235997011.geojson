@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.106402,41.833534,-88.106402,41.833534",
     "geom:latitude":41.833534,
     "geom:longitude":-88.106402,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891061,
+        102191575,
+        404497653,
         85633793,
+        85940139,
         102081257,
-        85891061
+        85688697
     ],
     "wof:brand_id":420574651,
     "wof:breaches":[],
@@ -47,17 +51,18 @@
     "wof:geomhash":"e8d431ab90f5179de1f99d6505115209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497653,
+            "locality_id":85940139,
             "neighbourhood_id":85891061,
             "region_id":85688697,
             "venue_id":235997011
         }
     ],
     "wof:id":235997011,
-    "wof:lastmodified":1472620800,
+    "wof:lastmodified":1492093190,
     "wof:name":"Claire's Boutique",
     "wof:parent_id":85891061,
     "wof:placetype":"venue",

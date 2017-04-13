@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.102557,42.002654,-88.102557,42.002654",
     "geom:latitude":42.002654,
     "geom:longitude":-88.102557,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.mtt21.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cnWAGJsBPM4C1kdbOtUD4_42.002724_-88.102445@1293134755"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461949977,
     "wof:geomhash":"c7aaa4ec5f4d4f4f562b43a22171e6dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740116549
+        }
+    ],
     "wof:id":740116549,
-    "wof:lastmodified":1472621255,
+    "wof:lastmodified":1492088136,
     "wof:name":"Machine Tool Technology-21",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062821,41.957013,-88.062821,41.957013",
     "geom:latitude":41.957013,
     "geom:longitude":-88.062821,
@@ -47,7 +48,14 @@
     ],
     "sg:website":"http://www.thealdennetwork.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lrm5rtZRaeHDNd4Al6cWh_41.957013_-88.062821@1303262846"
@@ -55,9 +63,19 @@
     "wof:country":"US",
     "wof:created":1461952226,
     "wof:geomhash":"b1d291c8513c961120f0d90b3cfdd381",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740216621
+        }
+    ],
     "wof:id":740216621,
-    "wof:lastmodified":1472621944,
+    "wof:lastmodified":1492097952,
     "wof:name":"Alden Village Health Facility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

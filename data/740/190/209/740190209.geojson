@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.907855,42.310591,-87.907855,42.310591",
     "geom:latitude":42.310591,
     "geom:longitude":-87.907855,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.farmhousecreationsonline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QDqTmlLNri7g0qZOacixI_42.310591_-87.907855@1303262842"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461951652,
     "wof:geomhash":"7adab8e8b37f945ae807b147ebb66980",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190209
+        }
+    ],
     "wof:id":740190209,
-    "wof:lastmodified":1472621854,
+    "wof:lastmodified":1492091203,
     "wof:name":"Farmhouse Creations",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

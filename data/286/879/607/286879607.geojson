@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.712896,41.485733,-87.712896,41.485733",
     "geom:latitude":41.485733,
     "geom:longitude":-87.712896,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890835,
+        102191575,
+        404497581,
         85633793,
         85940733,
         102084317,
-        85890835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"70e32cec6da63ee414f043c7397920b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940733,
             "neighbourhood_id":85890835,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286879607,
-    "wof:lastmodified":1472621693,
+    "wof:lastmodified":1492093210,
     "wof:name":"Charter One",
     "wof:parent_id":85890835,
     "wof:placetype":"venue",

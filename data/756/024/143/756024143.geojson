@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.055908,41.698769,-88.055908,41.698769",
     "geom:latitude":41.698769,
     "geom:longitude":-88.055908,
@@ -40,7 +41,14 @@
     ],
     "sg:website":"http://www.firstbaptistbolingbrook.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e6CSVQO4geRPA5qWXns80_41.698769_-88.055908@1303262856"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461953890,
     "wof:geomhash":"6d708b9f9419df7d73f20f2749bfa458",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024143
+        }
+    ],
     "wof:id":756024143,
-    "wof:lastmodified":1472620815,
+    "wof:lastmodified":1492088379,
     "wof:name":"First Baptist Church Of Bolingbrook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

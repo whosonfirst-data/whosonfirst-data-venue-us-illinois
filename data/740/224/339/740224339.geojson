@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.551189,41.828341,-88.551189,41.828341",
     "geom:latitude":41.828341,
     "geom:longitude":-88.551189,
@@ -32,7 +33,13 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498229,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OxJT3ObvCjOwJXJzatGcQ_41.828341_-88.551189@1303262847"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461952384,
     "wof:geomhash":"14d969bdaba8b21f6e0b6f81b1864bdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498229,
+            "region_id":85688697,
+            "venue_id":740224339
+        }
+    ],
     "wof:id":740224339,
-    "wof:lastmodified":1472621917,
+    "wof:lastmodified":1492093530,
     "wof:name":"Kaneville Veterinarian Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

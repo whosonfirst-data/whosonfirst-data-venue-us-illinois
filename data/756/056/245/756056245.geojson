@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919357,41.787496,-87.919357,41.787496",
     "geom:latitude":41.787496,
     "geom:longitude":-87.919357,
@@ -33,17 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420519001,
-        102191575,
-        404497649,
-        85633793,
-        85940187,
-        102081257,
-        85688697,
         420518893,
+        102191575,
         404497627,
+        85633793,
         85940921,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,16 +53,6 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "localadmin_id":404497649,
-            "locality_id":85940187,
-            "neighbourhood_id":420519001,
-            "region_id":85688697,
-            "venue_id":756056245
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404497627,
             "locality_id":85940921,
@@ -75,9 +62,9 @@
         }
     ],
     "wof:id":756056245,
-    "wof:lastmodified":1472621191,
+    "wof:lastmodified":1492091639,
     "wof:name":"Uehlein Painting & Decorating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

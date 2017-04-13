@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.851525,42.369288,-88.851525,42.369288",
     "geom:latitude":42.369288,
     "geom:longitude":-88.851525,
@@ -25,7 +26,14 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497223,
+        85633793,
+        85938825,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XU2n5ag9CE5OscVFlBrBn_42.369288_-88.851525@1294102059"
@@ -33,9 +41,19 @@
     "wof:country":"US",
     "wof:created":1461950274,
     "wof:geomhash":"c2fe2e334d31c75028fe5216468e499b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497223,
+            "locality_id":85938825,
+            "region_id":85688697,
+            "venue_id":740127057
+        }
+    ],
     "wof:id":740127057,
-    "wof:lastmodified":1472621392,
+    "wof:lastmodified":1492094104,
     "wof:name":"Conserv FS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

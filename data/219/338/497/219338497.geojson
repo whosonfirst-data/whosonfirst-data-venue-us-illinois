@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.228964,41.504104,-88.228964,41.504104",
     "geom:latitude":41.504104,
     "geom:longitude":-88.228964,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85809821,
+        102191575,
+        404499223,
         85633793,
+        85940583,
         102080845,
-        85809821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"7da6a771d356b5f20760bb54d4ee2c82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
             "neighbourhood_id":85809821,
             "region_id":85688697,
             "venue_id":219338497
         }
     ],
     "wof:id":219338497,
-    "wof:lastmodified":1472621246,
+    "wof:lastmodified":1492089807,
     "wof:name":"Kipling Development Constr",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",

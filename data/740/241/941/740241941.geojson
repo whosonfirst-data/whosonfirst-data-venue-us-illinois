@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.591356,42.241832,-88.591356,42.241832",
     "geom:latitude":42.241832,
     "geom:longitude":-88.591356,
@@ -41,7 +42,14 @@
     ],
     "sg:website":"http://www.selfstorage.com/HIGHWAY20",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499151,
+        85633793,
+        85938987,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20BSBd8dBIHJGt6IwsFJPt_42.241832_-88.591356@1303262849"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461952781,
     "wof:geomhash":"8e564cd6299c42cb1eca32669e9f3b0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499151,
+            "locality_id":85938987,
+            "region_id":85688697,
+            "venue_id":740241941
+        }
+    ],
     "wof:id":740241941,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492100798,
     "wof:name":"Highway 20 Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

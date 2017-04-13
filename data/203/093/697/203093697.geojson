@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.031443,42.409046,-88.031443,42.409046",
     "geom:latitude":42.409046,
     "geom:longitude":-88.031443,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85834325,
+        102191575,
+        404498361,
         85633793,
+        85938337,
         102086215,
-        85834325
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"c0ef36a9b929f5872a415fe2b9bdb83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498361,
+            "locality_id":85938337,
             "neighbourhood_id":85834325,
             "region_id":85688697,
             "venue_id":203093697
         }
     ],
     "wof:id":203093697,
-    "wof:lastmodified":1472620973,
+    "wof:lastmodified":1492095481,
     "wof:name":"Twisted Cow",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.290005,41.861729,-88.290005,41.861729",
     "geom:latitude":41.861729,
     "geom:longitude":-88.290005,
@@ -41,11 +42,13 @@
     "sg:website":"www.cfcwireforms.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"13fdb237450a379c0dcd36cdc58eae0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":236791855,
-    "wof:lastmodified":1472621790,
+    "wof:lastmodified":1492093342,
     "wof:name":"C F C Wire Forms Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

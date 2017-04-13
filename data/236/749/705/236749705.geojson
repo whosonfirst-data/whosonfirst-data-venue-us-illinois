@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.194932,41.512007,-88.194932,41.512007",
     "geom:latitude":41.512007,
     "geom:longitude":-88.194932,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5b655caaa0f5a91e98e77c074fdd7cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236749705,
-    "wof:lastmodified":1472621766,
+    "wof:lastmodified":1492092862,
     "wof:name":"Kiesow Electric",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

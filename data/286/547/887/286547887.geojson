@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.729051,42.06366,-87.729051,42.06366",
     "geom:latitude":42.06366,
     "geom:longitude":-87.729051,
@@ -34,11 +35,13 @@
     "sg:website":"www.calderlatour.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85823241,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85823241
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"f8264c96eb87e1e950b14a3388b4791f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85823241,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286547887,
-    "wof:lastmodified":1472621458,
+    "wof:lastmodified":1492106495,
     "wof:name":"Calder Latour Inc",
     "wof:parent_id":85823241,
     "wof:placetype":"venue",

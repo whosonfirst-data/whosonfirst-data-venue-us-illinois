@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.683578,42.037972,-87.683578,42.037972",
     "geom:latitude":42.037972,
     "geom:longitude":-87.683578,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890797,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890797
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"30e47d13e986d665abeae6daef14054f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890797,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287246831,
-    "wof:lastmodified":1472621233,
+    "wof:lastmodified":1491910502,
     "wof:name":"Goldman Phylis Lamb",
     "wof:parent_id":85890797,
     "wof:placetype":"venue",

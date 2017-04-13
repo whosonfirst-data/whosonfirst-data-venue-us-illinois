@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.771465,41.607964,-87.771465,41.607964",
     "geom:latitude":41.607964,
     "geom:longitude":-87.771465,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"05901d30345de9f641659b0870821aab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":286592817
         }
     ],
     "wof:id":286592817,
-    "wof:lastmodified":1472621514,
+    "wof:lastmodified":1492101344,
     "wof:name":"Berbera Painting & Decorating",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

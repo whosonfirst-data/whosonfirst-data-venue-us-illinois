@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.752788,41.821957,-87.752788,41.821957",
     "geom:latitude":41.821957,
     "geom:longitude":-87.752788,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497589,
         85633793,
         85940933,
-        102084317,
-        85867657
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +50,19 @@
     "wof:geomhash":"2b33588275ffbf0d96cefa2383018a11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497589,
             "locality_id":85940933,
-            "neighbourhood_id":85867657,
             "region_id":85688697,
             "venue_id":202640869
         }
     ],
     "wof:id":202640869,
-    "wof:lastmodified":1472621167,
+    "wof:lastmodified":1492106310,
     "wof:name":"Blue and Gray Trnsp LLC",
-    "wof:parent_id":85867657,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

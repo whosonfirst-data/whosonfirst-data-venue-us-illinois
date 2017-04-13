@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.833383,42.196177,-88.833383,42.196177",
     "geom:latitude":42.196177,
     "geom:longitude":-88.833383,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497219,
         85633793,
-        85688697
+        102086197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"ca08dbbd1abb117c6f328c8a3cb26e64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086197,
+            "localadmin_id":404497219,
             "region_id":85688697,
             "venue_id":253494953
         }
     ],
     "wof:id":253494953,
-    "wof:lastmodified":1472621552,
+    "wof:lastmodified":1492089021,
     "wof:name":"Morehead-Garman Alternators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

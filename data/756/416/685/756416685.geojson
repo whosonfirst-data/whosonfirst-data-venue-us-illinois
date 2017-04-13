@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.829662,42.04397,-87.829662,42.04397",
     "geom:latitude":42.04397,
     "geom:longitude":-87.829662,
@@ -50,7 +51,14 @@
     ],
     "sg:website":"http://www.ntb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497631,
+        85633793,
+        85940773,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bvi0E4zNYdpwWTm22gWfB_42.043970_-87.829662@1303262908"
@@ -58,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461962691,
     "wof:geomhash":"0c85fab57c74406e7c4b7f501f51a4cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940773,
+            "region_id":85688697,
+            "venue_id":756416685
+        }
+    ],
     "wof:id":756416685,
-    "wof:lastmodified":1472622194,
+    "wof:lastmodified":1492088219,
     "wof:name":"NTB - National Tire & Battery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

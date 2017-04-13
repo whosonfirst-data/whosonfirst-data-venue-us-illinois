@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.83621,41.734321,-87.83621,41.734321",
     "geom:latitude":41.734321,
     "geom:longitude":-87.83621,
@@ -36,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7INXJRVPRjF72lx9uzuFXb_41.734321_-87.836210@1303262858"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461954207,
     "wof:geomhash":"7546c71d3d611d0a5c3e165f2e83a1fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039133
+        }
+    ],
     "wof:id":756039133,
-    "wof:lastmodified":1472620988,
+    "wof:lastmodified":1492109018,
     "wof:name":"Walker Enterprizes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

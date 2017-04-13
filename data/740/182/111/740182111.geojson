@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.84428,42.152793,-87.84428,42.152793",
     "geom:latitude":42.152793,
     "geom:longitude":-87.84428,
@@ -38,7 +39,14 @@
         "saving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499869,
+        85633793,
+        85938413,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N2h7xIy5Rc6SJTQ0oyUZG_42.152793_-87.844280@1303262841"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951488,
     "wof:geomhash":"ca36c8b1296e48f73130da4931a86df0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404499869,
+            "locality_id":85938413,
+            "region_id":85688697,
+            "venue_id":740182111
+        }
+    ],
     "wof:id":740182111,
-    "wof:lastmodified":1472621824,
+    "wof:lastmodified":1492104938,
     "wof:name":"Harris National",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

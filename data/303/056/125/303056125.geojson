@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.767755,41.528161,-87.767755,41.528161",
     "geom:latitude":41.528161,
     "geom:longitude":-87.767755,
@@ -29,8 +30,11 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497581,
         85633793,
-        85688697
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,16 @@
     "wof:geomhash":"44383421f9499fa8b2691db87f4387f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497581,
             "region_id":85688697,
             "venue_id":303056125
         }
     ],
     "wof:id":303056125,
-    "wof:lastmodified":1472620783,
+    "wof:lastmodified":1492101333,
     "wof:name":"Saint Paul Luthern Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

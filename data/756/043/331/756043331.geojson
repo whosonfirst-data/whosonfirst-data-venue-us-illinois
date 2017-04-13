@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.842201,41.662498,-87.842201,41.662498",
     "geom:latitude":41.662498,
     "geom:longitude":-87.842201,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940745,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OmdKJHi3pqTr48HDpNAj2_41.662498_-87.842201@1303262859"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954294,
     "wof:geomhash":"7c52a1a3f5c1494caa64a25672ff6cb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940745,
+            "region_id":85688697,
+            "venue_id":756043331
+        }
+    ],
     "wof:id":756043331,
-    "wof:lastmodified":1472621150,
+    "wof:lastmodified":1492091850,
     "wof:name":"Jkd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

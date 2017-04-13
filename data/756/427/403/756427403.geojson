@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.836429,41.241718,-87.836429,41.241718",
     "geom:latitude":41.241718,
     "geom:longitude":-87.836429,
@@ -50,7 +51,14 @@
     ],
     "sg:website":"http://www.fireplacework.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496551,
+        85633793,
+        85939975,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XlRLObHsvxCh1mqTauTUW_41.241718_-87.836429@1303262910"
@@ -58,9 +66,19 @@
     "wof:country":"US",
     "wof:created":1461962954,
     "wof:geomhash":"884d27819bfb40bd8551a710faa5f333",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496551,
+            "locality_id":85939975,
+            "region_id":85688697,
+            "venue_id":756427403
+        }
+    ],
     "wof:id":756427403,
-    "wof:lastmodified":1472622199,
+    "wof:lastmodified":1492090321,
     "wof:name":"Fireplace Works & More Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

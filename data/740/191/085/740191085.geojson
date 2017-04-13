@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.921307,42.289988,-87.921307,42.289988",
     "geom:latitude":42.289988,
     "geom:longitude":-87.921307,
@@ -37,7 +38,10 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4juiLmslmCVxViHgyFdmOl_42.289988_-87.921307@1303262843"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461951675,
     "wof:geomhash":"a4ed27de3074e1a233eff1adc63adf7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191085
+        }
+    ],
     "wof:id":740191085,
-    "wof:lastmodified":1472621855,
+    "wof:lastmodified":1492101627,
     "wof:name":"Conquest Financial",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

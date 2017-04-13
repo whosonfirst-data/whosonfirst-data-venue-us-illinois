@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.999314,42.348826,-87.999314,42.348826",
     "geom:latitude":42.348826,
     "geom:longitude":-87.999314,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +53,18 @@
     "wof:geomhash":"1a7af0af1739e70dc78765567f468d5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740185799
         }
     ],
     "wof:id":740185799,
-    "wof:lastmodified":1472621849,
+    "wof:lastmodified":1492095485,
     "wof:name":"Home Max Logs LTD",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

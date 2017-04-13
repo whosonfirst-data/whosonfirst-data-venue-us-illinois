@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.480777,41.07898,-88.480777,41.07898",
     "geom:latitude":41.07898,
     "geom:longitude":-88.480777,
@@ -31,7 +32,13 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497991,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VbZ38MVi3g5QIkXnvH0aK_41.078980_-88.480777@1303262855"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461953651,
     "wof:geomhash":"c8a311215c0f0d9e33220aa3a27423d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497991,
+            "region_id":85688697,
+            "venue_id":740284133
+        }
+    ],
     "wof:id":740284133,
-    "wof:lastmodified":1472622008,
+    "wof:lastmodified":1492089786,
     "wof:name":"Michael Carpenter L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

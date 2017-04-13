@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.867104,41.779099,-87.867104,41.779099",
     "geom:latitude":41.779099,
     "geom:longitude":-87.867104,
@@ -28,7 +29,14 @@
     "sg:postcode":"60525",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VwI8f6Dn476SX4koXFjik_41.779099_-87.867104@1303262861"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954617,
     "wof:geomhash":"9352b9a5eed1af6b767b1d8d7d5e8530",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756058577
+        }
+    ],
     "wof:id":756058577,
-    "wof:lastmodified":1472621296,
+    "wof:lastmodified":1492091646,
     "wof:name":"U S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

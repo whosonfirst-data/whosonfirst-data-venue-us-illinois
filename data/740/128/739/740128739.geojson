@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.534381,41.564644,-87.534381,41.564644",
     "geom:latitude":41.564644,
     "geom:longitude":-87.534381,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://www.facebook.com/pages/Lansing-IL/Balloon-Break/195557287312",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bak9NoBqcVNSGBYePUwiF_41.564526_-87.534082@1293134755"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461950321,
     "wof:geomhash":"2f68799838ce05174656c8aff0907be3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740128739
+        }
+    ],
     "wof:id":740128739,
-    "wof:lastmodified":1472621420,
+    "wof:lastmodified":1492102090,
     "wof:name":"Balloon Break & Baskets Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

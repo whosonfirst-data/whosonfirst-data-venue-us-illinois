@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.301932,42.179774,-88.301932,42.179774",
     "geom:latitude":42.179774,
     "geom:longitude":-88.301932,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890719,
+        102191575,
+        404499077,
         85633793,
-        85938997,
+        85939019,
         102081661,
-        85890719
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"4ce7a643410022d2ac2bd9cadd1aff0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":85938997,
+            "localadmin_id":404499077,
+            "locality_id":85939019,
             "neighbourhood_id":85890719,
             "region_id":85688697,
             "venue_id":235986527
         }
     ],
     "wof:id":235986527,
-    "wof:lastmodified":1472620807,
+    "wof:lastmodified":1492103094,
     "wof:name":"Ambu Inc",
     "wof:parent_id":85890719,
     "wof:placetype":"venue",

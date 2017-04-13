@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.526853,41.341658,-87.526853,41.341658",
     "geom:latitude":41.341658,
     "geom:longitude":-87.526853,
@@ -27,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aOL3GGzIxnrM07uDAm8yf_41.341658_-87.526853@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949830,
     "wof:geomhash":"287bff9d2dc041f3197bf6ff08156647",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "region_id":85688697,
+            "venue_id":740109895
+        }
+    ],
     "wof:id":740109895,
-    "wof:lastmodified":1472621299,
+    "wof:lastmodified":1492095076,
     "wof:name":"Schweppe Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

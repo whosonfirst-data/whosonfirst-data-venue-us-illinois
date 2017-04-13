@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068573,41.7627,-88.068573,41.7627",
     "geom:latitude":41.7627,
     "geom:longitude":-88.068573,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.hobsonstorage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s4YzNHZDw73dHgIUKwfeb_41.762700_-88.068573@1303262860"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461954551,
     "wof:geomhash":"4f626ced81408cbbe98857e91593aeeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055425
+        }
+    ],
     "wof:id":756055425,
-    "wof:lastmodified":1472621160,
+    "wof:lastmodified":1492093056,
     "wof:name":"Hobson Valley Mini Storage",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

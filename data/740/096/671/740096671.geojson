@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.828162,40.96425,-87.828162,40.96425",
     "geom:latitude":40.96425,
     "geom:longitude":-87.828162,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498179,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aGpdfw7fadTarX1YaXAiQ_40.964250_-87.828162@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949547,
     "wof:geomhash":"ed753483ded4238ffe7b0e87ea4e7f40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498179,
+            "region_id":85688697,
+            "venue_id":740096671
+        }
+    ],
     "wof:id":740096671,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492095035,
     "wof:name":"Langham Creek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

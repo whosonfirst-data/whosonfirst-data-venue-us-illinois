@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.791753,41.876182,-87.791753,41.876182",
     "geom:latitude":41.876182,
     "geom:longitude":-87.791753,
@@ -34,11 +35,13 @@
     "sg:website":"www.c4si.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a4ebbb8a74472fe08d1cb8db73060b74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":253236697,
-    "wof:lastmodified":1472621311,
+    "wof:lastmodified":1492089036,
     "wof:name":"C4SI Inc",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

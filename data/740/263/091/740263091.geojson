@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158631,41.869761,-88.158631,41.869761",
     "geom:latitude":41.869761,
     "geom:longitude":-88.158631,
@@ -37,7 +38,10 @@
     ],
     "sg:website":"www.facebook.com/gianoriosdowntown",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_646FxnCdhFTR7feR0Nojcm_41.869761_-88.158631@1303262852"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461953216,
     "wof:geomhash":"ec3694254c4c6e839afb2aff30bbee3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740263091
+        }
+    ],
     "wof:id":740263091,
-    "wof:lastmodified":1472621977,
+    "wof:lastmodified":1492097402,
     "wof:name":"Gianorio's Downtown",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

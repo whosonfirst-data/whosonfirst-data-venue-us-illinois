@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.790962,41.33327,-87.790962,41.33327",
     "geom:latitude":41.33327,
     "geom:longitude":-87.790962,
@@ -37,7 +38,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        85940531,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K7zxaG1CoBl2CEQx4TdJ0_41.333270_-87.790962@1303262859"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954328,
     "wof:geomhash":"9351808ee1a78a004de7e686f4bec322",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "locality_id":85940531,
+            "region_id":85688697,
+            "venue_id":756044429
+        }
+    ],
     "wof:id":756044429,
-    "wof:lastmodified":1472621153,
+    "wof:lastmodified":1492092883,
     "wof:name":"Feddes Furniture And Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

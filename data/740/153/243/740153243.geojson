@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.263043,41.921154,-88.263043,41.921154",
     "geom:latitude":41.921154,
     "geom:longitude":-88.263043,
@@ -34,7 +35,14 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498235,
+        85633793,
+        85940213,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jsyUBxXXZb0ymRLcqjnK7_41.921154_-88.263043@1299784598"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461950835,
     "wof:geomhash":"46ebfd5158bc95093383ff6f3f52fe3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498235,
+            "locality_id":85940213,
+            "region_id":85688697,
+            "venue_id":740153243
+        }
+    ],
     "wof:id":740153243,
-    "wof:lastmodified":1472621742,
+    "wof:lastmodified":1492103356,
     "wof:name":"Portillo's Hot Dogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

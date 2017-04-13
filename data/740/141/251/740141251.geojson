@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070976,41.71022,-88.070976,41.71022",
     "geom:latitude":41.71022,
     "geom:longitude":-88.070976,
@@ -39,7 +40,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70alAXByKy3nFX8rMEWFgQ_41.710210_-88.070795@1293134755"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461950594,
     "wof:geomhash":"b0bcf649ff7f1a06afb5e46a4cba5677",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":740141251
+        }
+    ],
     "wof:id":740141251,
-    "wof:lastmodified":1472621601,
+    "wof:lastmodified":1492091305,
     "wof:name":"Five Star Mechanical Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

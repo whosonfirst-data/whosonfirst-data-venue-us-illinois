@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.826119,42.077138,-87.826119,42.077138",
     "geom:latitude":42.077138,
     "geom:longitude":-87.826119,
@@ -43,7 +44,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QOPUrHA11xCXRBedkA8rf_42.077138_-87.826119@1303262842"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461951532,
     "wof:geomhash":"7dc1957ce95e7bf9ee0c9f707794e92c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184391
+        }
+    ],
     "wof:id":740184391,
-    "wof:lastmodified":1472621841,
+    "wof:lastmodified":1492092905,
     "wof:name":"Glenview Plumbing & Mechanical, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

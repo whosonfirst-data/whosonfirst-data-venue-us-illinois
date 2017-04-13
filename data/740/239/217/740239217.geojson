@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.035599,41.973598,-88.035599,41.973598",
     "geom:latitude":41.973598,
     "geom:longitude":-88.035599,
@@ -32,7 +33,13 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x9FbJno8Xi7stI0QiVDfj_41.973598_-88.035599@1303262849"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461952723,
     "wof:geomhash":"c0bed649df4685516f9b6cfa76ed8dfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740239217
+        }
+    ],
     "wof:id":740239217,
-    "wof:lastmodified":1472621927,
+    "wof:lastmodified":1492089478,
     "wof:name":"Royal Pet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

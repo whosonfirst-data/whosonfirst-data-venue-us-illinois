@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.125198,41.924999,-88.125198,41.924999",
     "geom:latitude":41.924999,
     "geom:longitude":-88.125198,
@@ -31,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PU2SXOkPCIvcQJFmB5IqK_41.924999_-88.125198@1303262852"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953162,
     "wof:geomhash":"765cece53c8420b95c9b6962f1c9fb13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740260417
+        }
+    ],
     "wof:id":740260417,
-    "wof:lastmodified":1472621985,
+    "wof:lastmodified":1492097375,
     "wof:name":"Fromer Edwin E CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

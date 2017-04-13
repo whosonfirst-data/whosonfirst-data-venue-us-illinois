@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.255783,41.992391,-88.255783,41.992391",
     "geom:latitude":41.992391,
     "geom:longitude":-88.255783,
@@ -31,7 +32,14 @@
         "forwarding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C0uoenq2ZJQELh8g7zgDi_41.992391_-88.255783@1303262845"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952143,
     "wof:geomhash":"023dc66c159d653bc568364b25e01f6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740213023
+        }
+    ],
     "wof:id":740213023,
-    "wof:lastmodified":1472621906,
+    "wof:lastmodified":1492091286,
     "wof:name":"Brenda International, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

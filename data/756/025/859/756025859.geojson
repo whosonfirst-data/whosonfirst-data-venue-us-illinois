@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906695,41.453045,-87.906695,41.453045",
     "geom:latitude":41.453045,
     "geom:longitude":-87.906695,
@@ -31,7 +32,10 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XlRJCe2GXiaRtq8OL74wZ_41.453045_-87.906695@1303262856"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953924,
     "wof:geomhash":"e1e717c7c21338a8b05eb758df08ada3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025859
+        }
+    ],
     "wof:id":756025859,
-    "wof:lastmodified":1472620884,
+    "wof:lastmodified":1492097405,
     "wof:name":"Creative Woodworking",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

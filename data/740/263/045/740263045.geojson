@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.157993,41.871262,-88.157993,41.871262",
     "geom:latitude":41.871262,
     "geom:longitude":-88.157993,
@@ -28,7 +29,10 @@
     "sg:postcode":"60190",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58NXkP0Hy9ubRH0zDYD5eD_41.871262_-88.157993@1303262852"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953215,
     "wof:geomhash":"e5240dc3176e8bb996c323b30f630299",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740263045
+        }
+    ],
     "wof:id":740263045,
-    "wof:lastmodified":1472621974,
+    "wof:lastmodified":1492107823,
     "wof:name":"Brach's Service Center",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

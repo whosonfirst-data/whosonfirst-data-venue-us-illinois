@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.859827,42.42114,-87.859827,42.42114",
     "geom:latitude":42.42114,
     "geom:longitude":-87.859827,
@@ -39,11 +40,13 @@
     "sg:website":"www.waukeganwings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85804997,
+        102191575,
+        404498453,
         85633793,
         85938401,
         102086215,
-        85804997
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"c99fff586a9cb6ef5bf2516860e00689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498453,
             "locality_id":85938401,
             "neighbourhood_id":85804997,
             "region_id":85688697,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":219550543,
-    "wof:lastmodified":1472621462,
+    "wof:lastmodified":1492091905,
     "wof:name":"Waukegan Wings LLC",
     "wof:parent_id":85804997,
     "wof:placetype":"venue",

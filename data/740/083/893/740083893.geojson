@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.981318,42.513846,-87.981318,42.513846",
     "geom:latitude":42.513846,
     "geom:longitude":-87.981318,
@@ -34,7 +35,14 @@
         "devices"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493391,
+        85633793,
+        101732581,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25pQbCtPfiNOypUW0cdYyU_42.513846_-87.981318@1294102059"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461949112,
     "wof:geomhash":"9618d32b93003a87198ab29377da1d75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "region_id":85688517,
+            "venue_id":740083893
+        }
+    ],
     "wof:id":740083893,
-    "wof:lastmodified":1472620847,
+    "wof:lastmodified":1492091161,
     "wof:name":"Northern Door Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

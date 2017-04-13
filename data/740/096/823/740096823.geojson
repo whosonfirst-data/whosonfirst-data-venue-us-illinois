@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.878784,41.115058,-87.878784,41.115058",
     "geom:latitude":41.115058,
     "geom:longitude":-87.878784,
@@ -28,7 +29,14 @@
     "sg:postcode":"60901",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        85939977,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bfq9kAas0Nz44SoT80egL_41.115055_-87.878842@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461949549,
     "wof:geomhash":"97c3494a819b3f15eeb40f9da47b927c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
+            "region_id":85688697,
+            "venue_id":740096823
+        }
+    ],
     "wof:id":740096823,
-    "wof:lastmodified":1472620896,
+    "wof:lastmodified":1492088674,
     "wof:name":"Phyllis Mcdowell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

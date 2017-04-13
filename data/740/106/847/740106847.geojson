@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8339,41.880501,-87.8339,41.880501",
     "geom:latitude":41.880501,
     "geom:longitude":-87.8339,
@@ -33,7 +34,10 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q3kP0bnSLGaGYTt456rN5_41.879993_-87.833948@1293134755"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461949758,
     "wof:geomhash":"09bc2749f7629db00e76be4dec184c24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518725,
+            "venue_id":740106847
+        }
+    ],
     "wof:id":740106847,
-    "wof:lastmodified":1472621146,
+    "wof:lastmodified":1492093140,
     "wof:name":"Proviso East High School",
     "wof:parent_id":420518725,
     "wof:placetype":"venue",

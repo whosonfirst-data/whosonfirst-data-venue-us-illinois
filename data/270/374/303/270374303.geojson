@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051832,42.115036,-88.051832,42.115036",
     "geom:latitude":42.115036,
     "geom:longitude":-88.051832,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890877,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c54878418abdc6a0c774fa85fdfb354f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890877,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270374303,
-    "wof:lastmodified":1472621431,
+    "wof:lastmodified":1492097494,
     "wof:name":"Building Brighter Tomorrows",
     "wof:parent_id":85890877,
     "wof:placetype":"venue",

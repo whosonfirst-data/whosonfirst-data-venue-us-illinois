@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.99641,41.430508,-87.99641,41.430508",
     "geom:latitude":41.430508,
     "geom:longitude":-87.99641,
@@ -39,7 +40,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k7nI2azabmJHRvvGSe9Pg_41.430508_-87.996410@1303262856"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461953924,
     "wof:geomhash":"a531d6b54f93d813678450b9a3b31ac7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025853
+        }
+    ],
     "wof:id":756025853,
-    "wof:lastmodified":1472620883,
+    "wof:lastmodified":1492092889,
     "wof:name":"American Silt Fence And Land Clearing Inc",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

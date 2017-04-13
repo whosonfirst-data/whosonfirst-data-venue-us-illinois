@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.761882,42.122674,-87.761882,42.122674",
     "geom:latitude":42.122674,
     "geom:longitude":-87.761882,
@@ -38,7 +39,14 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497633,
+        85633793,
+        85940841,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2spX3WtLjYlCMNB5N95pBA_42.122674_-87.761882@1303262842"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951517,
     "wof:geomhash":"b91171a4577662caee2ab6fba8cfbe97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497633,
+            "locality_id":85940841,
+            "region_id":85688697,
+            "venue_id":740183653
+        }
+    ],
     "wof:id":740183653,
-    "wof:lastmodified":1472621850,
+    "wof:lastmodified":1492101293,
     "wof:name":"Richard & Patricia Cohn Family Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

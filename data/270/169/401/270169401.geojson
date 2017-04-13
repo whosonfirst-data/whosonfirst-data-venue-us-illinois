@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066685,41.875457,-88.066685,41.875457",
     "geom:latitude":41.875457,
     "geom:longitude":-88.066685,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867835,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85867835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"efd6dd09cc8f2eb1b0a33e5acd67ee5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85867835,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270169401,
-    "wof:lastmodified":1472621197,
+    "wof:lastmodified":1492090982,
     "wof:name":"Craig's Family Pharmacy Inc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",

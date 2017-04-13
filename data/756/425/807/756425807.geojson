@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880022,41.204012,-87.880022,41.204012",
     "geom:latitude":41.204012,
     "geom:longitude":-87.880022,
@@ -33,7 +34,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34DHlz5YoKLBgOdCXjFQOn_41.204012_-87.880022@1303262909"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461962917,
     "wof:geomhash":"7a047a425664c650a03669f3ee394773",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":756425807
+        }
+    ],
     "wof:id":756425807,
-    "wof:lastmodified":1472622213,
+    "wof:lastmodified":1492092484,
     "wof:name":"Endor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

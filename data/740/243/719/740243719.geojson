@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881638,41.849442,-87.881638,41.849442",
     "geom:latitude":41.849442,
     "geom:longitude":-87.881638,
@@ -31,7 +32,13 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35SR6x5joA68zGGs1NDZmW_41.849442_-87.881638@1303262849"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461952821,
     "wof:geomhash":"3d9a123aa509a6569a6ad12a478575ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "region_id":85688697,
+            "venue_id":740243719
+        }
+    ],
     "wof:id":740243719,
-    "wof:lastmodified":1472621969,
+    "wof:lastmodified":1492091456,
     "wof:name":"Super One Hour Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

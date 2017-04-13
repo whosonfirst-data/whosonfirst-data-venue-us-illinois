@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.60097,42.23826,-88.60097,42.23826",
     "geom:latitude":42.23826,
     "geom:longitude":-88.60097,
@@ -36,7 +37,14 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499151,
+        85633793,
+        85938987,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38KeUunTSuF0QJjWAibz2A_42.238260_-88.600970@1303262849"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461952781,
     "wof:geomhash":"628c6f4d50bda7540da793aba4ea7456",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499151,
+            "locality_id":85938987,
+            "region_id":85688697,
+            "venue_id":740241917
+        }
+    ],
     "wof:id":740241917,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492097849,
     "wof:name":"Mr Freeze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

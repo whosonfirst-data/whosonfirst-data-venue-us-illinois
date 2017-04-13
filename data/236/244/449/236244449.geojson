@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.22297,41.766856,-88.22297,41.766856",
     "geom:latitude":41.766856,
     "geom:longitude":-88.22297,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518945,
+        102191575,
+        404498347,
         85633793,
         85940221,
-        102086925
+        102086925,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"54ae9eaaa9ed339c549a4fb8095219b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518945,
             "region_id":85688697,
             "venue_id":236244449
         }
     ],
     "wof:id":236244449,
-    "wof:lastmodified":1472621386,
+    "wof:lastmodified":1492104391,
     "wof:name":"EDS2",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

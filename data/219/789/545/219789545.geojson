@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9271,42.429519,-87.9271,42.429519",
     "geom:latitude":42.429519,
     "geom:longitude":-87.9271,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"e67a82cce8a828f68d8c6a1fb77e4c5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":219789545
         }
     ],
     "wof:id":219789545,
-    "wof:lastmodified":1472621573,
+    "wof:lastmodified":1492090608,
     "wof:name":"US Post Office",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.903267,41.89267,-87.903267,41.89267",
     "geom:latitude":41.89267,
     "geom:longitude":-87.903267,
@@ -28,7 +29,14 @@
     "sg:postcode":"60163",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940905,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59mAmaSnZOC8UjM2QJn1nI_41.892670_-87.903267@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952903,
     "wof:geomhash":"df9f9c9c71464a1da38d0a3135217e8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940905,
+            "region_id":85688697,
+            "venue_id":740247771
+        }
+    ],
     "wof:id":740247771,
-    "wof:lastmodified":1472621977,
+    "wof:lastmodified":1492092806,
     "wof:name":"Berkeley Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

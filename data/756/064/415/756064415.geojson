@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.497657,41.652565,-88.497657,41.652565",
     "geom:latitude":41.652565,
     "geom:longitude":-88.497657,
@@ -31,7 +32,13 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DsGndHCSKSvWS1ZEQK3yX_41.652565_-88.497657@1303262861"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461954732,
     "wof:geomhash":"937dcaa73f980d277533ad75b0737226",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "region_id":85688697,
+            "venue_id":756064415
+        }
+    ],
     "wof:id":756064415,
-    "wof:lastmodified":1472621381,
+    "wof:lastmodified":1492101918,
     "wof:name":"St Andrews Carpentry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

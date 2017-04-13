@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.045594,42.112074,-88.045594,42.112074",
     "geom:latitude":42.112074,
     "geom:longitude":-88.045594,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890877,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"91a36be5df8b4e5ad9a43bdb78013004",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890877,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":252859209,
-    "wof:lastmodified":1472621055,
+    "wof:lastmodified":1492089309,
     "wof:name":"Whistle Stop Cafe",
     "wof:parent_id":85890877,
     "wof:placetype":"venue",

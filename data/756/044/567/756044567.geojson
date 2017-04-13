@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.853487,41.309502,-87.853487,41.309502",
     "geom:latitude":41.309502,
     "geom:longitude":-87.853487,
@@ -32,7 +33,13 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TIps8ifgJpzGXqBKaTe1M_41.309502_-87.853487@1303262859"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954330,
     "wof:geomhash":"46942ada4828add4d7b4212d23fc4149",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "region_id":85688697,
+            "venue_id":756044567
+        }
+    ],
     "wof:id":756044567,
-    "wof:lastmodified":1472621156,
+    "wof:lastmodified":1492092040,
     "wof:name":"J & J Rec's and Decks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

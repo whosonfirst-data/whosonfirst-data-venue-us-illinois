@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.794611,41.531433,-87.794611,41.531433",
     "geom:latitude":41.531433,
     "geom:longitude":-87.794611,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519355,
+        102191575,
+        404497643,
         85633793,
-        85941275,
-        102080845
+        85940515,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"79f0c1451bf70b8ae2666283a778b3fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080845,
-            "locality_id":85941275,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "neighbourhood_id":420519355,
             "region_id":85688697,
             "venue_id":220168839
         }
     ],
     "wof:id":220168839,
-    "wof:lastmodified":1472620981,
+    "wof:lastmodified":1492095102,
     "wof:name":"Star Video & Dvd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

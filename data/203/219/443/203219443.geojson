@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.794629,41.614461,-87.794629,41.614461",
     "geom:latitude":41.614461,
     "geom:longitude":-87.794629,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890941,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890941
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a587bafd1c374342a4a333ecd54d6dd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890941,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203219443,
-    "wof:lastmodified":1472621130,
+    "wof:lastmodified":1492090477,
     "wof:name":"Room To Room Solutions Inc",
     "wof:parent_id":85890941,
     "wof:placetype":"venue",

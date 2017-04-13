@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951533,42.274612,-87.951533,42.274612",
     "geom:latitude":42.274612,
     "geom:longitude":-87.951533,
@@ -39,7 +40,10 @@
     ],
     "sg:website":"http://national.citysearch.com/profile/external/650541040/libertyville_il/d_r_horton_cambridge_homes_chicago.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M6NP2by4pN9OG77qajMSX_42.274612_-87.951533@1303262843"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461951675,
     "wof:geomhash":"f0dfe093371a98632bd6b870157760e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191099
+        }
+    ],
     "wof:id":740191099,
-    "wof:lastmodified":1472621855,
+    "wof:lastmodified":1492088660,
     "wof:name":"D.R. Horton/Cambridge Homes Chicago",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

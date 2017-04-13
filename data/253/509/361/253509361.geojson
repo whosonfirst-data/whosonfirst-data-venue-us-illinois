@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.697007,42.030823,-87.697007,42.030823",
     "geom:latitude":42.030823,
     "geom:longitude":-87.697007,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890787,
+        102191575,
+        404497621,
         85633793,
-        85940943,
+        85940857,
         102084317,
-        85890787
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"c935777d54a09976a4fddfb441110ea8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940943,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "neighbourhood_id":85890787,
             "region_id":85688697,
             "venue_id":253509361
         }
     ],
     "wof:id":253509361,
-    "wof:lastmodified":1472621546,
+    "wof:lastmodified":1492100473,
     "wof:name":"Top Flight Limousine Service",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470482,42.414261,-88.470482,42.414261",
     "geom:latitude":42.414261,
     "geom:longitude":-88.470482,
@@ -31,7 +32,13 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499093,
+        85633793,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B3pcOVHnXuS6qGKtpsoZ2_42.414261_-88.470482@1303262842"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461951625,
     "wof:geomhash":"8e79473732e4e76c29bfe3ae3d69b898",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499093,
+            "region_id":85688697,
+            "venue_id":740188749
+        }
+    ],
     "wof:id":740188749,
-    "wof:lastmodified":1472621851,
+    "wof:lastmodified":1492088164,
     "wof:name":"American Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

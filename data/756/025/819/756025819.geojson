@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.993989,41.46815,-87.993989,41.46815",
     "geom:latitude":41.46815,
     "geom:longitude":-87.993989,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AjwrciaqTa6uABTOrEnqi_41.468150_-87.993989@1303262856"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953923,
     "wof:geomhash":"852565cb511d6f1e3fcd8ba0d77fdf59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025819
+        }
+    ],
     "wof:id":756025819,
-    "wof:lastmodified":1472620882,
+    "wof:lastmodified":1492097328,
     "wof:name":"Tures Construction Company Inc",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

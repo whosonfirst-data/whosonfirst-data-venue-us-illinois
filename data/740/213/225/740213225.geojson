@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.178192,42.002258,-88.178192,42.002258",
     "geom:latitude":42.002258,
     "geom:longitude":-88.178192,
@@ -28,7 +29,14 @@
     "sg:postcode":"60103",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HeYeRvmlV8L5zamyGwn0d_42.002258_-88.178192@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952151,
     "wof:geomhash":"6b829fc7a43244ac1bc73eb1281cac29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740213225
+        }
+    ],
     "wof:id":740213225,
-    "wof:lastmodified":1472621907,
+    "wof:lastmodified":1492110144,
     "wof:name":"Crest Motel Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

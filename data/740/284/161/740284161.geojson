@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.424259,41.086042,-88.424259,41.086042",
     "geom:latitude":41.086042,
     "geom:longitude":-88.424259,
@@ -36,7 +37,14 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        85938295,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24pPBDrLMgYUDRQP6OHWAN_41.086042_-88.424259@1303262855"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461953652,
     "wof:geomhash":"231bf20376b8901d35389f7992aa6758",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "locality_id":85938295,
+            "region_id":85688697,
+            "venue_id":740284161
+        }
+    ],
     "wof:id":740284161,
-    "wof:lastmodified":1472622008,
+    "wof:lastmodified":1492097053,
     "wof:name":"Robert Dornbierer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

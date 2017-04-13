@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09384,41.530775,-88.09384,41.530775",
     "geom:latitude":41.530775,
     "geom:longitude":-88.09384,
@@ -29,10 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
-        102080845
+        102080845,
+        85688697,
+        85826741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"fff32de5717c5b9506b4709af38e93a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816471,
+            "region_id":85688697,
+            "venue_id":252993795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
+            "neighbourhood_id":85826741,
             "region_id":85688697,
             "venue_id":252993795
         }
     ],
     "wof:id":252993795,
-    "wof:lastmodified":1472621142,
+    "wof:lastmodified":1492093577,
     "wof:name":"Gciu Local 471m Health & Welfa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

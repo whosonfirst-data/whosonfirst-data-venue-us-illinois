@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.753393,41.596402,-87.753393,41.596402",
     "geom:latitude":41.596402,
     "geom:longitude":-87.753393,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890953,
+        102191575,
+        404497643,
         85633793,
+        85940515,
         102084317,
-        85890953
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"e92eb6f299c4e7e9b2c92c088ac14cb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
             "neighbourhood_id":85890953,
             "region_id":85688697,
             "venue_id":236850053
         }
     ],
     "wof:id":236850053,
-    "wof:lastmodified":1472621769,
+    "wof:lastmodified":1492103370,
     "wof:name":"Busy Body Sportswear",
     "wof:parent_id":85890953,
     "wof:placetype":"venue",

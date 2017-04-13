@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.237289,41.240898,-88.237289,41.240898",
     "geom:latitude":41.240898,
     "geom:longitude":-88.237289,
@@ -31,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499221,
+        85633793,
+        85938353,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5elBq29Drxg13iPapICsdw_41.240898_-88.237289@1303262854"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953536,
     "wof:geomhash":"faf019ac0698702c36e72e016a07d48a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499221,
+            "locality_id":85938353,
+            "region_id":85688697,
+            "venue_id":740278657
+        }
+    ],
     "wof:id":740278657,
-    "wof:lastmodified":1472622018,
+    "wof:lastmodified":1492098006,
     "wof:name":"Kim's Gifts & Collectables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

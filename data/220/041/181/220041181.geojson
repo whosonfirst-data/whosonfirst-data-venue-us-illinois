@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.325936,41.761018,-88.325936,41.761018",
     "geom:latitude":41.761018,
     "geom:longitude":-88.325936,
@@ -29,12 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
-        85876057
+        85688697,
+        85876051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,30 @@
     "wof:geomhash":"79003c5d9f3cd466d8253f955e309028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876051,
+            "neighbourhood_id":85876057,
             "region_id":85688697,
             "venue_id":220041181
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876057,
+            "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":220041181
         }
     ],
     "wof:id":220041181,
-    "wof:lastmodified":1472620836,
+    "wof:lastmodified":1492107744,
     "wof:name":"Donald Dickinson PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

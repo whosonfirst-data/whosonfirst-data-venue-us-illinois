@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.226239,41.74543,-88.226239,41.74543",
     "geom:latitude":41.74543,
     "geom:longitude":-88.226239,
@@ -35,11 +36,13 @@
     "sg:website":"www.berninausa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85820771,
+        102191575,
+        404498347,
         85633793,
         85940221,
-        102081257,
-        85820771
+        102086925,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"05fd4dabc44c52a7c45b8c1d8b9c6842",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
+            "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85820771,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":253700915,
-    "wof:lastmodified":1472621655,
+    "wof:lastmodified":1492104114,
     "wof:name":"Bernina Of America Inc",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",

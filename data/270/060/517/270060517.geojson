@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.753963,41.603014,-87.753963,41.603014",
     "geom:latitude":41.603014,
     "geom:longitude":-87.753963,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"7c2f87dabaa6bb304ac93be2b84fe90a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":270060517
         }
     ],
     "wof:id":270060517,
-    "wof:lastmodified":1472620930,
+    "wof:lastmodified":1492098359,
     "wof:name":"Friendly Oaks Partnership",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

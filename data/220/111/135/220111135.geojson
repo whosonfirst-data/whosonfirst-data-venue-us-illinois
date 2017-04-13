@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.728838,42.06388,-87.728838,42.06388",
     "geom:latitude":42.06388,
     "geom:longitude":-87.728838,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85823241,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85823241
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"4a2d0457bd7c84668fcdbab0ddaf35c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85823241,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":220111135,
-    "wof:lastmodified":1472620964,
+    "wof:lastmodified":1492101780,
     "wof:name":"Berglund Animal Hospital Ltd",
     "wof:parent_id":85823241,
     "wof:placetype":"venue",

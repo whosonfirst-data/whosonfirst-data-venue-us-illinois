@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.92152,41.452201,-87.92152,41.452201",
     "geom:latitude":41.452201,
     "geom:longitude":-87.92152,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://letusdeckitout.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10iienNKFCm6bsfnnurxVw_41.452201_-87.921520@1303262856"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461953925,
     "wof:geomhash":"32604929db2c8b82c574cac09ddd2611",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025907
+        }
+    ],
     "wof:id":756025907,
-    "wof:lastmodified":1472620886,
+    "wof:lastmodified":1492093488,
     "wof:name":"Deck It Out",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

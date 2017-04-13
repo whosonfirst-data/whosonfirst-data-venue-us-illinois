@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.117995,41.939557,-88.117995,41.939557",
     "geom:latitude":41.939557,
     "geom:longitude":-88.117995,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40cMeqXgkZfxLMGDSs2wjX_41.939557_-88.117995@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952274,
     "wof:geomhash":"e7cc62ed95e425941caf56a9566f8770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218965
+        }
+    ],
     "wof:id":740218965,
-    "wof:lastmodified":1472621943,
+    "wof:lastmodified":1492097379,
     "wof:name":"St Isadore School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

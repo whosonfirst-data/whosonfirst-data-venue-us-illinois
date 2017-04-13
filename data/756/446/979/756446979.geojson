@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.705484,41.328686,-88.705484,41.328686",
     "geom:latitude":41.328686,
     "geom:longitude":-88.705484,
@@ -37,7 +38,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499873,
+        85633793,
+        85939095,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0avoo8EoFuohUOLIMxkJV7_41.328686_-88.705484@1303262912"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461963430,
     "wof:geomhash":"a5fc3cd58992d496f90729f5b0aa813d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404499873,
+            "locality_id":85939095,
+            "region_id":85688697,
+            "venue_id":756446979
+        }
+    ],
     "wof:id":756446979,
-    "wof:lastmodified":1472622220,
+    "wof:lastmodified":1492092041,
     "wof:name":"Sam's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.48912,41.093495,-88.48912,41.093495",
     "geom:latitude":41.093495,
     "geom:longitude":-88.48912,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497991,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NJoeluI2SP74f9KRoCyoc_41.093495_-88.489120@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950669,
     "wof:geomhash":"03f43619d26a8522feb9885f47d2971a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497991,
+            "region_id":85688697,
+            "venue_id":740144989
+        }
+    ],
     "wof:id":740144989,
-    "wof:lastmodified":1472621724,
+    "wof:lastmodified":1492104026,
     "wof:name":"Melvin Burger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

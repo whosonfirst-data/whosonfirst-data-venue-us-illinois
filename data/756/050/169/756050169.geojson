@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.261431,41.700309,-88.261431,41.700309",
     "geom:latitude":41.700309,
     "geom:longitude":-88.261431,
@@ -37,7 +38,14 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Off2hpbJGDMue8nZXiXkz_41.700309_-88.261431@1303262859"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954439,
     "wof:geomhash":"231f6fe140371ca5433268969bff9ba4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756050169
+        }
+    ],
     "wof:id":756050169,
-    "wof:lastmodified":1472621145,
+    "wof:lastmodified":1492097831,
     "wof:name":"Jankowski Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

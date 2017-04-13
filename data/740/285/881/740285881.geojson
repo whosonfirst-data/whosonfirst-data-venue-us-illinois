@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.615589,41.545001,-87.615589,41.545001",
     "geom:latitude":41.545001,
     "geom:longitude":-87.615589,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.imaginesalonanddayspa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940837,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zaKL3LBG5aC4EbHrfEUa4_41.545001_-87.615589@1303262855"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953688,
     "wof:geomhash":"13bfe0087d9464d8506b3cef05516fd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940837,
+            "region_id":85688697,
+            "venue_id":740285881
+        }
+    ],
     "wof:id":740285881,
-    "wof:lastmodified":1472622043,
+    "wof:lastmodified":1492102178,
     "wof:name":"Imagine Salon & Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

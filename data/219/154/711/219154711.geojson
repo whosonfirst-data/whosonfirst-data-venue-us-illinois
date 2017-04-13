@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.961113,42.306025,-87.961113,42.306025",
     "geom:latitude":42.306025,
     "geom:longitude":-87.961113,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
+        85938331,
         102086215,
-        85890821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"4a0a524be492642a4e43ee5eba468ab0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
             "neighbourhood_id":85890821,
             "region_id":85688697,
             "venue_id":219154711
         }
     ],
     "wof:id":219154711,
-    "wof:lastmodified":1472620743,
+    "wof:lastmodified":1492109312,
     "wof:name":"Geico Insurance",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",

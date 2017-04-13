@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.112704,41.918038,-88.112704,41.918038",
     "geom:latitude":41.918038,
     "geom:longitude":-88.112704,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"4c40d0a4c90ba6e41aa473f78cb471b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":252995761
         }
     ],
     "wof:id":252995761,
-    "wof:lastmodified":1472621130,
+    "wof:lastmodified":1492091815,
     "wof:name":"Northman Fluid Power Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

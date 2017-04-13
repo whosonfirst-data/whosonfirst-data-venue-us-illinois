@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.087771,41.783686,-88.087771,41.783686",
     "geom:latitude":41.783686,
     "geom:longitude":-88.087771,
@@ -31,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02n8OUG31B8NBCFKuzOD0n_41.783686_-88.087771@1303262861"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461954636,
     "wof:geomhash":"5a2f11b6ff091d18a1b894679665e02a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059685
+        }
+    ],
     "wof:id":756059685,
-    "wof:lastmodified":1472621295,
+    "wof:lastmodified":1492090027,
     "wof:name":"Queen Of Peace Center (Inc)",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

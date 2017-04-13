@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.793489,42.135416,-87.793489,42.135416",
     "geom:latitude":42.135416,
     "geom:longitude":-87.793489,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85807027,
+        102191575,
+        404497633,
         85633793,
         85940841,
         102084317,
-        85807027
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"90496fb5d1b5f05103359567b5f0aa73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940841,
             "neighbourhood_id":85807027,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303188435,
-    "wof:lastmodified":1472621003,
+    "wof:lastmodified":1492089315,
     "wof:name":"Clark Enterprises",
     "wof:parent_id":85807027,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.947642,42.240954,-87.947642,42.240954",
     "geom:latitude":42.240954,
     "geom:longitude":-87.947642,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890955,
+        102191575,
+        404498371,
         85633793,
         85938629,
         102086215,
-        85890955
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"688a42368f1bcd3fd9041278629c98d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498371,
             "locality_id":85938629,
             "neighbourhood_id":85890955,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286874249,
-    "wof:lastmodified":1472621689,
+    "wof:lastmodified":1492091893,
     "wof:name":"Bow Meow Grooming Inc",
     "wof:parent_id":85890955,
     "wof:placetype":"venue",

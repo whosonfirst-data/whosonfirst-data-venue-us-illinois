@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.408053,41.646078,-88.408053,41.646078",
     "geom:latitude":41.646078,
     "geom:longitude":-88.408053,
@@ -35,7 +36,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64reQWP19Tw41b1NTYzEw2_41.646078_-88.408053@1303262862"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461954845,
     "wof:geomhash":"a4e1b61c9e13b98d8abae4bbb0fdc4e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "region_id":85688697,
+            "venue_id":756068713
+        }
+    ],
     "wof:id":756068713,
-    "wof:lastmodified":1472621404,
+    "wof:lastmodified":1492102403,
     "wof:name":"Escalante Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

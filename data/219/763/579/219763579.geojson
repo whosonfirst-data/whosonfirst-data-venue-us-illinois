@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.933428,41.89647,-87.933428,41.89647",
     "geom:latitude":41.89647,
     "geom:longitude":-87.933428,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890779,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890779
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f26d5f27fbd393ce592e3c4a9ec6ebf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890779,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219763579,
-    "wof:lastmodified":1472621588,
+    "wof:lastmodified":1492098922,
     "wof:name":"John Pocius Design",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",

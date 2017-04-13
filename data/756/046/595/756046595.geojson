@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.636978,41.476042,-87.636978,41.476042",
     "geom:latitude":41.476042,
     "geom:longitude":-87.636978,
@@ -36,7 +37,14 @@
         "intestines"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940519,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02eJT5UK6iXTe6OljTS87c_41.476042_-87.636978@1303262859"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461954370,
     "wof:geomhash":"92ef4f08c580b9037fb521936e92a5ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940519,
+            "region_id":85688697,
+            "venue_id":756046595
+        }
+    ],
     "wof:id":756046595,
-    "wof:lastmodified":1472621163,
+    "wof:lastmodified":1492102949,
     "wof:name":"Fhyamal, Bosz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

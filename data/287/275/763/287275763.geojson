@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.323408,41.741761,-88.323408,41.741761",
     "geom:latitude":41.741761,
     "geom:longitude":-88.323408,
@@ -29,12 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876051,
-        85876057
+        85688697,
+        85876051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,30 @@
     "wof:geomhash":"389d310c5adc4605d6612959f2f3120c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876051,
+            "neighbourhood_id":85876057,
             "region_id":85688697,
             "venue_id":287275763
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876057,
+            "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":287275763
         }
     ],
     "wof:id":287275763,
-    "wof:lastmodified":1472621230,
+    "wof:lastmodified":1492093092,
     "wof:name":"Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

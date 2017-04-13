@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.318773,42.243275,-88.318773,42.243275",
     "geom:latitude":42.243275,
     "geom:longitude":-88.318773,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"a9d0596103f051d664fa79a72ef41425",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":286831367
         }
     ],
     "wof:id":286831367,
-    "wof:lastmodified":1472621682,
+    "wof:lastmodified":1492106539,
     "wof:name":"Design Exchange",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

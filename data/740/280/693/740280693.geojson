@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.238098,41.421101,-88.238098,41.421101",
     "geom:latitude":41.421101,
     "geom:longitude":-88.238098,
@@ -38,7 +39,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nNPN3wqvK6J9aLoaBYgT8_41.421101_-88.238098@1303262854"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953580,
     "wof:geomhash":"9adf6343ef742b0c18ea26ac8d12fe88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740280693
+        }
+    ],
     "wof:id":740280693,
-    "wof:lastmodified":1472622029,
+    "wof:lastmodified":1492096798,
     "wof:name":"Linda's Hallmark Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

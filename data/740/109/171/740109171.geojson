@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983585,41.033737,-87.983585,41.033737",
     "geom:latitude":41.033737,
     "geom:longitude":-87.983585,
@@ -28,7 +29,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498383,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23ed3LeqDs05KG9w0ORAGv_41.033737_-87.983585@1294102059"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461949813,
     "wof:geomhash":"127324955bee8b97555fc202a8b8f18c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498383,
+            "region_id":85688697,
+            "venue_id":740109171
+        }
+    ],
     "wof:id":740109171,
-    "wof:lastmodified":1472621248,
+    "wof:lastmodified":1492093875,
     "wof:name":"Raymond Clausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.837995,41.73619,-87.837995,41.73619",
     "geom:latitude":41.73619,
     "geom:longitude":-87.837995,
@@ -32,7 +33,14 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WiiU6rBM3KQff394hm0zM_41.736190_-87.837995@1303262858"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954220,
     "wof:geomhash":"af36a5d5d48b6e491807785ad898e215",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039473
+        }
+    ],
     "wof:id":756039473,
-    "wof:lastmodified":1472621016,
+    "wof:lastmodified":1492104064,
     "wof:name":"Jj Fish & Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

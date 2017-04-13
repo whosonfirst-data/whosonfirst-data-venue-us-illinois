@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.080074,42.417583,-88.080074,42.417583",
     "geom:latitude":42.417583,
     "geom:longitude":-88.080074,
@@ -35,8 +36,12 @@
     "wof:belongsto":[
         85688697,
         85633793,
-        85938347,
-        102086215
+        85831403,
+        102086215,
+        85845811,
+        102191575,
+        404498451,
+        85938261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,27 @@
     "wof:geomhash":"549cb2a37f5032ae40ab175a6608b9c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938347,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85831403,
+            "region_id":85688697,
+            "venue_id":269911767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
+            "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":269911767
         }
     ],
     "wof:id":269911767,
-    "wof:lastmodified":1472621417,
+    "wof:lastmodified":1492096843,
     "wof:name":"V Olsen Heating & Air Cond",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

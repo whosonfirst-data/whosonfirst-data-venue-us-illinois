@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048333,41.688996,-88.048333,41.688996",
     "geom:latitude":41.688996,
     "geom:longitude":-88.048333,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.midinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QB2za0UBMk9Lyk3DrCOQd_41.688996_-88.048333@1303262856"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461953894,
     "wof:geomhash":"975e30b361025fc9e841879687881ee7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024407
+        }
+    ],
     "wof:id":756024407,
-    "wof:lastmodified":1472620835,
+    "wof:lastmodified":1492094783,
     "wof:name":"Modular Installations & Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

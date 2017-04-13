@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.876198,41.775902,-87.876198,41.775902",
     "geom:latitude":41.775902,
     "geom:longitude":-87.876198,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.coolpcservices.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GhyPjWgowjjWphEVgx5wz_41.775902_-87.876198@1303262860"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954583,
     "wof:geomhash":"ff3d56ec81f42477b734221c57baa014",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756056955
+        }
+    ],
     "wof:id":756056955,
-    "wof:lastmodified":1472621243,
+    "wof:lastmodified":1492098094,
     "wof:name":"Cool PC Services Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

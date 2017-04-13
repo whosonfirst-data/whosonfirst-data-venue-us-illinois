@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798436,42.09874,-87.798436,42.09874",
     "geom:latitude":42.09874,
     "geom:longitude":-87.798436,
@@ -28,7 +29,14 @@
     "sg:postcode":"60093",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940767,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f4piE2CrXzvpCLZtkrTh1_42.098740_-87.798436@1303262845"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461951970,
     "wof:geomhash":"902b57a9839a731b19b4538b0d104a28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940767,
+            "region_id":85688697,
+            "venue_id":740205967
+        }
+    ],
     "wof:id":740205967,
-    "wof:lastmodified":1472621905,
+    "wof:lastmodified":1492090628,
     "wof:name":"The Dearborn-Buckingham Group, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.78548,41.605973,-87.78548,41.605973",
     "geom:latitude":41.605973,
     "geom:longitude":-87.78548,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"b188dce8223a7aa46b8d5de5eb2b8fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":236685815
         }
     ],
     "wof:id":236685815,
-    "wof:lastmodified":1472621763,
+    "wof:lastmodified":1492093184,
     "wof:name":"Sweet Street Desserts Inc",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

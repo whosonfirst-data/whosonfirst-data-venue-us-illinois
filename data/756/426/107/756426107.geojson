@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.863976,41.163924,-87.863976,41.163924",
     "geom:latitude":41.163924,
     "geom:longitude":-87.863976,
@@ -33,7 +34,14 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39r50y7dKbJKOW2dN3GntX_41.163924_-87.863976@1303262910"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461962924,
     "wof:geomhash":"213ea579559d70ba080c0e5a5cd6332b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":756426107
+        }
+    ],
     "wof:id":756426107,
-    "wof:lastmodified":1472622194,
+    "wof:lastmodified":1492092485,
     "wof:name":"Indoff Industry Office Equip.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

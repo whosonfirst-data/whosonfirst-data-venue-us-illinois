@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.433404,41.473694,-88.433404,41.473694",
     "geom:latitude":41.473694,
     "geom:longitude":-88.433404,
@@ -40,7 +41,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498405,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KIyLQQZ8B59A1GCIsuK6K_41.473694_-88.433404@1303262857"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461954049,
     "wof:geomhash":"f786627074e16e5ac7caf2dccefe4759",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498405,
+            "region_id":85688697,
+            "venue_id":756031479
+        }
+    ],
     "wof:id":756031479,
-    "wof:lastmodified":1472620850,
+    "wof:lastmodified":1492097931,
     "wof:name":"Central Limestone Company, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

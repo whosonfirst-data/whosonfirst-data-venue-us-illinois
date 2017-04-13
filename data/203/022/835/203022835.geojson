@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.79628,41.87973,-87.79628,41.87973",
     "geom:latitude":41.87973,
     "geom:longitude":-87.79628,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867585,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85867585
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"a533d5d7f3858533bd100d6dd3fbd59a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85867585,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203022835,
-    "wof:lastmodified":1472620776,
+    "wof:lastmodified":1492109230,
     "wof:name":"Offset Press Inc",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",

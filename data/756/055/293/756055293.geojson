@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066261,41.763411,-88.066261,41.763411",
     "geom:latitude":41.763411,
     "geom:longitude":-88.066261,
@@ -31,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2033ns7ORT7x6MQJ3KO2kT_41.763411_-88.066261@1303262860"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461954549,
     "wof:geomhash":"d079430fdb9f8aa7290eb2d35eea09d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055293
+        }
+    ],
     "wof:id":756055293,
-    "wof:lastmodified":1472621152,
+    "wof:lastmodified":1492106009,
     "wof:name":"Hobson Valley Animal Clinic",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

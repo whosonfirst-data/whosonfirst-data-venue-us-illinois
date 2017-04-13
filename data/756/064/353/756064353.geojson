@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.53732,41.662645,-88.53732,41.662645",
     "geom:latitude":41.662645,
     "geom:longitude":-88.53732,
@@ -39,7 +40,14 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2peK1aUiMaIoAJwlhkprNI_41.662645_-88.537320@1303262861"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954731,
     "wof:geomhash":"032e8d6907536e3259795d5032ceafdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064353
+        }
+    ],
     "wof:id":756064353,
-    "wof:lastmodified":1472621374,
+    "wof:lastmodified":1492102259,
     "wof:name":"Blackforest Cafe German Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.154266,40.952461,-88.154266,40.952461",
     "geom:latitude":40.952461,
     "geom:longitude":-88.154266,
@@ -33,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497769,
+        85633793,
+        102082859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jGosydu8JVUw5H6IpXvOd_40.952461_-88.154266@1303262910"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461962937,
     "wof:geomhash":"ba54d5df963adddfe23f25b46cbf4727",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082859,
+            "localadmin_id":404497769,
+            "region_id":85688697,
+            "venue_id":756426569
+        }
+    ],
     "wof:id":756426569,
-    "wof:lastmodified":1472622205,
+    "wof:lastmodified":1492091681,
     "wof:name":"Ken Fisher Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

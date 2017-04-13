@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.786295,41.863962,-87.786295,41.863962",
     "geom:latitude":41.863962,
     "geom:longitude":-87.786295,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a8daab552c4b25de834a5789e9971e20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236202269,
-    "wof:lastmodified":1472621306,
+    "wof:lastmodified":1492093397,
     "wof:name":"Avalon Custom Decorating",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

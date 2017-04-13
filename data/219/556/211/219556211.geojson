@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063347,42.200961,-88.063347,42.200961",
     "geom:latitude":42.200961,
     "geom:longitude":-88.063347,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867873,
+        102191575,
+        404498459,
         85633793,
         85938343,
         102086215,
-        85867873
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1df758f759b60c57267666dd5135b74e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938343,
             "neighbourhood_id":85867873,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219556211,
-    "wof:lastmodified":1472621456,
+    "wof:lastmodified":1492107852,
     "wof:name":"Mikron Designs",
     "wof:parent_id":85867873,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.37083,41.693989,-88.37083,41.693989",
     "geom:latitude":41.693989,
     "geom:longitude":-88.37083,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.kcdtech.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AB50bOXpBF3BLjrulPh7E_41.693989_-88.370830@1308186501"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461964424,
     "wof:geomhash":"95ad3a23a4f0771da378ac9d280584bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756486815
+        }
+    ],
     "wof:id":756486815,
-    "wof:lastmodified":1472622254,
+    "wof:lastmodified":1492104123,
     "wof:name":"KCD Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

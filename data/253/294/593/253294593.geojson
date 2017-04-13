@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.109597,41.546557,-88.109597,41.546557",
     "geom:latitude":41.546557,
     "geom:longitude":-88.109597,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85830465,
+        102191575,
+        404499145,
         85633793,
         85940565,
         102080845,
-        85830465
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"533a7fa43127f09cf3cd327e9af2924f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499145,
             "locality_id":85940565,
             "neighbourhood_id":85830465,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253294593,
-    "wof:lastmodified":1472621381,
+    "wof:lastmodified":1492090295,
     "wof:name":"Genesis School",
     "wof:parent_id":85830465,
     "wof:placetype":"venue",

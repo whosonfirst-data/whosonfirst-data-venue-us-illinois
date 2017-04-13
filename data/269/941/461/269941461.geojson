@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.872677,41.865084,-87.872677,41.865084",
     "geom:latitude":41.865084,
     "geom:longitude":-87.872677,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890851,
+        102191575,
+        404497579,
         85633793,
         85940923,
         102084317,
-        85890851
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"92c3e60ffbb556cab1ffc4bb048e2c7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940923,
             "neighbourhood_id":85890851,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269941461,
-    "wof:lastmodified":1472621435,
+    "wof:lastmodified":1492091801,
     "wof:name":"Distinctive Design",
     "wof:parent_id":85890851,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.773357,41.834671,-87.773357,41.834671",
     "geom:latitude":41.834671,
     "geom:longitude":-87.773357,
@@ -33,11 +34,13 @@
     "sg:website":"www.saporitofinishing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867557,
+        102191575,
+        404497617,
         85633793,
         85940877,
         102084317,
-        85867557
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"08710b6a677ec9fbfcd7d6262259b8cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
             "neighbourhood_id":85867557,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203166283,
-    "wof:lastmodified":1472621087,
+    "wof:lastmodified":1492096307,
     "wof:name":"Accurate Anodizing Corp",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",

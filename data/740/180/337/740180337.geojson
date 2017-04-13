@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.134814,42.153789,-88.134814,42.153789",
     "geom:latitude":42.153789,
     "geom:longitude":-88.134814,
@@ -32,7 +33,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497605,
+        85633793,
+        85938419,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YLn81HBOTP3xXZ6r7TLmQ_42.153789_-88.134814@1303262841"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951449,
     "wof:geomhash":"2a24bf4aa6cd18f5bb6bdb28e1ddaaa8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497605,
+            "locality_id":85938419,
+            "region_id":85688697,
+            "venue_id":740180337
+        }
+    ],
     "wof:id":740180337,
-    "wof:lastmodified":1472621836,
+    "wof:lastmodified":1492091418,
     "wof:name":"Digital Systems Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

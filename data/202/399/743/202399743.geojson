@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.15742,41.59346,-88.15742,41.59346",
     "geom:latitude":41.59346,
     "geom:longitude":-88.15742,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85830493,
+        102191575,
+        404499219,
         85633793,
-        85940583,
-        102080845
+        85940581,
+        102080845,
+        85688697,
+        85812671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,27 @@
     "wof:geomhash":"c49fb07b6deabb38e16c343568a77f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940583,
-            "neighbourhood_id":-1,
+            "localadmin_id":404499219,
+            "locality_id":85940581,
+            "neighbourhood_id":85830493,
+            "region_id":85688697,
+            "venue_id":202399743
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080845,
+            "neighbourhood_id":85812671,
             "region_id":85688697,
             "venue_id":202399743
         }
     ],
     "wof:id":202399743,
-    "wof:lastmodified":1472620785,
+    "wof:lastmodified":1492090270,
     "wof:name":"Malibu Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

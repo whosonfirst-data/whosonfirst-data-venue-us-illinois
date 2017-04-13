@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.200015,42.197082,-88.200015,42.197082",
     "geom:latitude":42.197082,
     "geom:longitude":-88.200015,
@@ -31,7 +32,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85938395,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22sevbpwhljMbFvPUOD2Al_42.197082_-88.200015@1303262842"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951511,
     "wof:geomhash":"42ed01f6e3d49f2f643eb37ce7aa22bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85938395,
+            "region_id":85688697,
+            "venue_id":740183321
+        }
+    ],
     "wof:id":740183321,
-    "wof:lastmodified":1472621839,
+    "wof:lastmodified":1492096333,
     "wof:name":"Magic Carpet Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

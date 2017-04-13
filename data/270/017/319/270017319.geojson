@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.801031,41.842794,-87.801031,41.842794",
     "geom:latitude":41.842794,
     "geom:longitude":-87.801031,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890739,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85890739
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"440174746ee7f9f30285b4ed430177c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85890739,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270017319,
-    "wof:lastmodified":1472620777,
+    "wof:lastmodified":1492088921,
     "wof:name":"Trankina & Associates",
     "wof:parent_id":85890739,
     "wof:placetype":"venue",

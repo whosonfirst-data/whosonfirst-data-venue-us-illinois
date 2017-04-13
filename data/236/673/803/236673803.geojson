@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042839,41.695679,-88.042839,41.695679",
     "geom:latitude":41.695679,
     "geom:longitude":-88.042839,
@@ -32,8 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497651,
         85633793,
-        85688697
+        85940203,
+        102081257,
+        404499131,
+        85940209,
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +51,26 @@
     "wof:geomhash":"a6df5755dc7a8f61237c452fbe32f16c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497651,
+            "locality_id":85940203,
+            "region_id":85688697,
+            "venue_id":236673803
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "region_id":85688697,
             "venue_id":236673803
         }
     ],
     "wof:id":236673803,
-    "wof:lastmodified":1472621753,
+    "wof:lastmodified":1492092685,
     "wof:name":"Sas Trans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

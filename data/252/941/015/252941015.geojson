@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.14392,42.227869,-88.14392,42.227869",
     "geom:latitude":42.227869,
     "geom:longitude":-88.14392,
@@ -30,11 +31,13 @@
     "sg:website":"www.lakebarringtonrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813157,
+        102191575,
+        404498455,
         85633793,
         85938359,
         102086215,
-        85813157
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"65e6db4af5b5dcfda6eaa2f1f1bbfe09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498455,
             "locality_id":85938359,
             "neighbourhood_id":85813157,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":252941015,
-    "wof:lastmodified":1472621114,
+    "wof:lastmodified":1492096563,
     "wof:name":"Lake Barrington Realty",
     "wof:parent_id":85813157,
     "wof:placetype":"venue",

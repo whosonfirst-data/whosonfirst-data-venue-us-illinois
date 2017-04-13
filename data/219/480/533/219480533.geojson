@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104002,41.797227,-88.104002,41.797227",
     "geom:latitude":41.797227,
     "geom:longitude":-88.104002,
@@ -30,11 +31,13 @@
     "sg:website":"www.classicinsservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890823,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890823
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3080f99070c16d438b35cf474eb72aa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890823,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":219480533,
-    "wof:lastmodified":1472621378,
+    "wof:lastmodified":1492108971,
     "wof:name":"Classic Insurance Svc",
     "wof:parent_id":85890823,
     "wof:placetype":"venue",

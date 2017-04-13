@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.29686,41.711979,-88.29686,41.711979",
     "geom:latitude":41.711979,
     "geom:longitude":-88.29686,
@@ -49,7 +50,14 @@
     ],
     "sg:website":"http://find.americanstandardair.com/customer-care-dealer-466524?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kgOAhZhUEj9f8djyuhdZf_41.711979_-88.296860@1303262861"
@@ -57,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1461954709,
     "wof:geomhash":"34140f909b5d70bc300596581ad37978",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756063415
+        }
+    ],
     "wof:id":756063415,
-    "wof:lastmodified":1472621328,
+    "wof:lastmodified":1492089853,
     "wof:name":"Beery Heating & Cooling Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

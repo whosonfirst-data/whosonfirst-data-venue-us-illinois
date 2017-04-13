@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.841877,42.240228,-88.841877,42.240228",
     "geom:latitude":42.240228,
     "geom:longitude":-88.841877,
@@ -44,7 +45,14 @@
     ],
     "sg:website":"http://www.prestigedentalsmiles.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3439mvYyvt71qeWhdxiwAZ_42.240228_-88.841877@1303262910"
@@ -52,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461962980,
     "wof:geomhash":"65c32562795b64f824057d7ea813125e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":756428851
+        }
+    ],
     "wof:id":756428851,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1492088451,
     "wof:name":"Confident Smile Dental Belviedre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

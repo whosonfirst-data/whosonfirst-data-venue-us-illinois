@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07061,41.760071,-88.07061,41.760071",
     "geom:latitude":41.760071,
     "geom:longitude":-88.07061,
@@ -37,7 +38,10 @@
     ],
     "sg:website":"http://www.morrisholmes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TgAZVCwiF1XpektmJPiHU_41.760071_-88.070610@1303262860"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461954554,
     "wof:geomhash":"246d11244cfe95ba526e2a065e730d2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055583
+        }
+    ],
     "wof:id":756055583,
-    "wof:lastmodified":1472621166,
+    "wof:lastmodified":1492110697,
     "wof:name":"Morris Holmes & Co, Inc",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

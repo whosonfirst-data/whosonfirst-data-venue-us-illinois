@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.728166,41.401655,-87.728166,41.401655",
     "geom:latitude":41.401655,
     "geom:longitude":-87.728166,
@@ -33,7 +34,13 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40ROa6uAypxKRdcgCsauyf_41.401655_-87.728166@1303262857"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461954034,
     "wof:geomhash":"aff7729a313526c44e07766e54471658",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "region_id":85688697,
+            "venue_id":756030963
+        }
+    ],
     "wof:id":756030963,
-    "wof:lastmodified":1472620876,
+    "wof:lastmodified":1492105313,
     "wof:name":"Hodor Heating Cooling & Rfrgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

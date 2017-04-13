@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.619712,41.635409,-87.619712,41.635409",
     "geom:latitude":41.635409,
     "geom:longitude":-87.619712,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518765,
+        102191575,
+        404497591,
         85633793,
-        85940731,
-        102084317
+        85940935,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"5d0b7a79a64578c43ec77cdfaddb33ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940731,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "neighbourhood_id":420518765,
             "region_id":85688697,
             "venue_id":202545557
         }
     ],
     "wof:id":202545557,
-    "wof:lastmodified":1472621058,
+    "wof:lastmodified":1492088184,
     "wof:name":"Glasshouse Entertainment",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.600414,41.651001,-88.600414,41.651001",
     "geom:latitude":41.651001,
     "geom:longitude":-88.600414,
@@ -56,7 +57,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497717,
+        85633793,
+        85939837,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ywx4dZPeRzha8GEPRqBR9_41.651001_-88.600414@1303262862"
@@ -64,9 +72,19 @@
     "wof:country":"US",
     "wof:created":1461954803,
     "wof:geomhash":"b70c0496c8c4a1a237e5b2bb40962c50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497717,
+            "locality_id":85939837,
+            "region_id":85688697,
+            "venue_id":756066873
+        }
+    ],
     "wof:id":756066873,
-    "wof:lastmodified":1472621402,
+    "wof:lastmodified":1492088627,
     "wof:name":"Designed Stairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

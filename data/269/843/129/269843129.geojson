@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.139732,41.99509,-88.139732,41.99509",
     "geom:latitude":41.99509,
     "geom:longitude":-88.139732,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518771,
+        102191575,
+        404497623,
         85633793,
-        85940189,
-        102081257
+        85940929,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"958e3fc970cbbbbe0eafaa7d824dbc82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940189,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497623,
+            "locality_id":85940929,
+            "neighbourhood_id":420518771,
             "region_id":85688697,
             "venue_id":269843129
         }
     ],
     "wof:id":269843129,
-    "wof:lastmodified":1472621384,
+    "wof:lastmodified":1492103746,
     "wof:name":"Chicago Limousine II Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

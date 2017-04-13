@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.83122,42.362123,-87.83122,42.362123",
     "geom:latitude":42.362123,
     "geom:longitude":-87.83122,
@@ -38,11 +39,13 @@
     "sg:website":"www.littlefortmedia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890989,
+        102191575,
+        404499867,
         85633793,
         85938621,
         102086215,
-        85890989
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"e6539f52997e247a585573078649b057",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499867,
             "locality_id":85938621,
             "neighbourhood_id":85890989,
             "region_id":85688697,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":236282289,
-    "wof:lastmodified":1472621439,
+    "wof:lastmodified":1492096969,
     "wof:name":"Little Fort Media Inc",
     "wof:parent_id":85890989,
     "wof:placetype":"venue",

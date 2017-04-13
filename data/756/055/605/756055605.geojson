@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066322,41.760529,-88.066322,41.760529",
     "geom:latitude":41.760529,
     "geom:longitude":-88.066322,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.delks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CGY7maNygdS2r00VUfSgd_41.760529_-88.066322@1303262860"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461954554,
     "wof:geomhash":"56029fd18cbbda6bdd84d00b3f7e1e5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055605
+        }
+    ],
     "wof:id":756055605,
-    "wof:lastmodified":1472621167,
+    "wof:lastmodified":1492089372,
     "wof:name":"Glaxosmithkline",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

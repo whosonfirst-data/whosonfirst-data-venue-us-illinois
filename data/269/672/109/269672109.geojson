@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.816679,41.876589,-87.816679,41.876589",
     "geom:latitude":41.876589,
     "geom:longitude":-87.816679,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890847,
+        102191575,
+        404497579,
         85633793,
-        85940849,
+        85940787,
         102084317,
-        85890847
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"1522c8f3aa21397a9167575a8c3b7c29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497579,
+            "locality_id":85940787,
             "neighbourhood_id":85890847,
             "region_id":85688697,
             "venue_id":269672109
         }
     ],
     "wof:id":269672109,
-    "wof:lastmodified":1472621216,
+    "wof:lastmodified":1492096366,
     "wof:name":"Sunny Chicago Corp",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",

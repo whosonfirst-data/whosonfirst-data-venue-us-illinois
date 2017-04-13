@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.056467,41.589056,-88.056467,41.589056",
     "geom:latitude":41.589056,
     "geom:longitude":-88.056467,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8068fc30fad1878e14f2da560c106a2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219221455,
-    "wof:lastmodified":1472620941,
+    "wof:lastmodified":1492091392,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

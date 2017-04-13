@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.033233,41.801398,-88.033233,41.801398",
     "geom:latitude":41.801398,
     "geom:longitude":-88.033233,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805589,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85805589
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"30d301f3fee20c1ba6f365012f31a9a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85805589,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203341375,
-    "wof:lastmodified":1472621190,
+    "wof:lastmodified":1492087980,
     "wof:name":"Alore Designs Inc",
     "wof:parent_id":85805589,
     "wof:placetype":"venue",

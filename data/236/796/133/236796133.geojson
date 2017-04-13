@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.753173,41.834634,-87.753173,41.834634",
     "geom:latitude":41.834634,
     "geom:longitude":-87.753173,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497617,
         85633793,
-        85940933,
-        102084317,
-        85867657
+        85940877,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"ee6036e800c517208eed2426380d6550",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940933,
-            "neighbourhood_id":85867657,
+            "localadmin_id":404497617,
+            "locality_id":85940877,
             "region_id":85688697,
             "venue_id":236796133
         }
     ],
     "wof:id":236796133,
-    "wof:lastmodified":1472621783,
+    "wof:lastmodified":1492091134,
     "wof:name":"Tastees",
-    "wof:parent_id":85867657,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

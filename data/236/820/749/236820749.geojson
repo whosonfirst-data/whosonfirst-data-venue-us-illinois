@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.944138,41.869947,-87.944138,41.869947",
     "geom:latitude":41.869947,
     "geom:longitude":-87.944138,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85859387,
+        102191575,
+        404497661,
         85633793,
+        85940185,
         102081257,
-        85859387
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"93ca2c6b33adfe5460dfff53be508456",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940185,
             "neighbourhood_id":85859387,
             "region_id":85688697,
             "venue_id":236820749
         }
     ],
     "wof:id":236820749,
-    "wof:lastmodified":1472621785,
+    "wof:lastmodified":1492093397,
     "wof:name":"All Tent Rentals & Supplies",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",

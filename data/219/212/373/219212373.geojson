@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.980405,42.081905,-87.980405,42.081905",
     "geom:latitude":42.081905,
     "geom:longitude":-87.980405,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b35cd93d3d9e448535e55c1309dc3783",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219212373,
-    "wof:lastmodified":1472620928,
+    "wof:lastmodified":1492104825,
     "wof:name":"Radisson Inn",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.154022,42.008165,-88.154022,42.008165",
     "geom:latitude":42.008165,
     "geom:longitude":-88.154022,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518875,
+        102191575,
+        404497587,
         85633793,
-        85940189,
-        102081257
+        85940179,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"27c2a5fc5bf45b169305d65a7eb6e0ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940189,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "neighbourhood_id":420518875,
             "region_id":85688697,
             "venue_id":235942909
         }
     ],
     "wof:id":235942909,
-    "wof:lastmodified":1472620759,
+    "wof:lastmodified":1492098242,
     "wof:name":"Printing Perfection Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

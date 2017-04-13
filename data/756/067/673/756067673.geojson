@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.736603,41.718228,-88.736603,41.718228",
     "geom:latitude":41.718228,
     "geom:longitude":-88.736603,
@@ -31,7 +32,13 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496299,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34hQ5qQXooIwEpjjBbjVK3_41.718228_-88.736603@1303262862"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461954816,
     "wof:geomhash":"50ac139d721f5e4fbb742476d89f6e98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404496299,
+            "region_id":85688697,
+            "venue_id":756067673
+        }
+    ],
     "wof:id":756067673,
-    "wof:lastmodified":1472621385,
+    "wof:lastmodified":1492108004,
     "wof:name":"Trattoria da Francesca Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

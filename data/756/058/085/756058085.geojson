@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839545,41.780242,-87.839545,41.780242",
     "geom:latitude":41.780242,
     "geom:longitude":-87.839545,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.lagrangecrane.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940821,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dq211ZTRpfTFybloKGmcf_41.780242_-87.839545@1303262860"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954608,
     "wof:geomhash":"57fc5a0f5e9787b893dafc5d946e29a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940821,
+            "region_id":85688697,
+            "venue_id":756058085
+        }
+    ],
     "wof:id":756058085,
-    "wof:lastmodified":1472621258,
+    "wof:lastmodified":1492102034,
     "wof:name":"La Grange Crane Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

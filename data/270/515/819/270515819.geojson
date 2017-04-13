@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.095661,42.37897,-88.095661,42.37897",
     "geom:latitude":42.37897,
     "geom:longitude":-88.095661,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"2f3ac2b323ac4229101e0c8ca58c4c5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":270515819
         }
     ],
     "wof:id":270515819,
-    "wof:lastmodified":1472621499,
+    "wof:lastmodified":1492089895,
     "wof:name":"Artistic Wave",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

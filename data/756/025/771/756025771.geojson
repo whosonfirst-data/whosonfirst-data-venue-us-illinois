@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994904,41.43074,-87.994904,41.43074",
     "geom:latitude":41.43074,
     "geom:longitude":-87.994904,
@@ -33,7 +34,10 @@
     "sg:postcode":"60442",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oqxvuxuu0SE8nZmkO25aM_41.430740_-87.994904@1303262856"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"cbc0e77f7763d0d519ab3fe4f27fbd16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025771
+        }
+    ],
     "wof:id":756025771,
-    "wof:lastmodified":1472620880,
+    "wof:lastmodified":1492092889,
     "wof:name":"H & T Nails",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

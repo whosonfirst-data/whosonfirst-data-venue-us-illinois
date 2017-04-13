@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.272009,41.763324,-88.272009,41.763324",
     "geom:latitude":41.763324,
     "geom:longitude":-88.272009,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
         85633793,
-        85688697
+        85940221,
+        102086925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +50,17 @@
     "wof:geomhash":"041caaddd9081c65946b158277d3e86a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
             "region_id":85688697,
             "venue_id":252815905
         }
     ],
     "wof:id":252815905,
-    "wof:lastmodified":1472621025,
+    "wof:lastmodified":1492104574,
     "wof:name":"Valley Electric Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

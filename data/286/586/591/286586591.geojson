@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.982239,41.894709,-87.982239,41.894709",
     "geom:latitude":41.894709,
     "geom:longitude":-87.982239,
@@ -29,10 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890967,
+        102191575,
+        404497661,
         85633793,
         85940149,
-        102081257
+        102081257,
+        85688697,
+        85890961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"55680905cb0b7cabc1886b0e36179507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890967,
+            "region_id":85688697,
+            "venue_id":286586591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497661,
+            "locality_id":85940149,
+            "neighbourhood_id":85890961,
             "region_id":85688697,
             "venue_id":286586591
         }
     ],
     "wof:id":286586591,
-    "wof:lastmodified":1472621511,
+    "wof:lastmodified":1492095346,
     "wof:name":"Midwest Business Performance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

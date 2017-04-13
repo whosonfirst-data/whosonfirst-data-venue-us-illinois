@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.715815,41.557197,-87.715815,41.557197",
     "geom:latitude":41.557197,
     "geom:longitude":-87.715815,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518827,
+        102191575,
+        404497613,
         85633793,
         85940875,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"95189d6a808170a5397d27ae574237e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497613,
             "locality_id":85940875,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518827,
             "region_id":85688697,
             "venue_id":219522473
         }
     ],
     "wof:id":219522473,
-    "wof:lastmodified":1472621419,
+    "wof:lastmodified":1492100474,
     "wof:name":"Four Star Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

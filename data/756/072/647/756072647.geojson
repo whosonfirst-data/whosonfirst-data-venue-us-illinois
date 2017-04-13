@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.240514,41.696589,-88.240514,41.696589",
     "geom:latitude":41.696589,
     "geom:longitude":-88.240514,
@@ -49,7 +50,13 @@
     ],
     "sg:website":"http://find.americanstandardair.com/customer-care-dealer-425381?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02hfiBAmIEtfAzzau6Zr69_41.696589_-88.240514@1303262862"
@@ -57,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1461954920,
     "wof:geomhash":"359389abaa73b7ce6ede0df31accb4f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756072647
+        }
+    ],
     "wof:id":756072647,
-    "wof:lastmodified":1472621397,
+    "wof:lastmodified":1492089854,
     "wof:name":"Affordable Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

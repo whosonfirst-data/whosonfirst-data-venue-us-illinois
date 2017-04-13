@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.916733,41.782212,-87.916733,41.782212",
     "geom:latitude":41.782212,
     "geom:longitude":-87.916733,
@@ -28,7 +29,14 @@
     "sg:postcode":"60521",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497649,
+        85633793,
+        85940187,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k9XM7eN0OxQeF4IvO2APo_41.782212_-87.916733@1303262860"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954577,
     "wof:geomhash":"f7963c4a61d5aebe6c908f01eb25b689",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940187,
+            "region_id":85688697,
+            "venue_id":756056567
+        }
+    ],
     "wof:id":756056567,
-    "wof:lastmodified":1472621215,
+    "wof:lastmodified":1492108973,
     "wof:name":"Hinsdale Community Consolidated School District No 181",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.13746,41.978662,-88.13746,41.978662",
     "geom:latitude":41.978662,
     "geom:longitude":-88.13746,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85839631,
+        102191575,
+        404497763,
         85633793,
         85940189,
-        102084317,
-        85839631
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dbfa4d578ea18fdd781162b6fdb0ef54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
+            "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85839631,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337412109,
-    "wof:lastmodified":1472620862,
+    "wof:lastmodified":1492096341,
     "wof:name":"Van Hoosier Michael Agency",
     "wof:parent_id":85839631,
     "wof:placetype":"venue",

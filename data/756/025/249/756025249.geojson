@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068674,41.709381,-88.068674,41.709381",
     "geom:latitude":41.709381,
     "geom:longitude":-88.068674,
@@ -28,7 +29,14 @@
     "sg:postcode":"60440",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4geyKbIu33sbAYMtHgbuRd_41.709381_-88.068674@1303262856"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953911,
     "wof:geomhash":"0973a42ee18783765098609c4d6c2ac4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756025249
+        }
+    ],
     "wof:id":756025249,
-    "wof:lastmodified":1472620837,
+    "wof:lastmodified":1492105904,
     "wof:name":"Glitz & Glammour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

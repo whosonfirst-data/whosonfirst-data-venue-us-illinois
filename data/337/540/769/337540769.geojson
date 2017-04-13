@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.827759,41.652926,-87.827759,41.652926",
     "geom:latitude":41.652926,
     "geom:longitude":-87.827759,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890895,
+        102191575,
+        404497643,
         85633793,
         85940535,
         102084317,
-        85890895
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"f86bf4f5178c5f1a0ddc40a5da8d8658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940535,
             "neighbourhood_id":85890895,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":337540769,
-    "wof:lastmodified":1472620902,
+    "wof:lastmodified":1492105191,
     "wof:name":"Basilian Father's Residence",
     "wof:parent_id":85890895,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.871597,41.776798,-87.871597,41.776798",
     "geom:latitude":41.776798,
     "geom:longitude":-87.871597,
@@ -31,7 +32,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o1Lkl7qX0XCgUrAJrzcy4_41.776798_-87.871597@1303262860"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954584,
     "wof:geomhash":"a269a6e65ecf1850510595eea05dd0eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756057013
+        }
+    ],
     "wof:id":756057013,
-    "wof:lastmodified":1472621183,
+    "wof:lastmodified":1492105683,
     "wof:name":"Autobarn Hyundai of Countryside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

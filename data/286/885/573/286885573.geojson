@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.803988,41.899416,-87.803988,41.899416",
     "geom:latitude":41.899416,
     "geom:longitude":-87.803988,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890869,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85890869
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"99320210c6725565c0e5b00fb8cf2bc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85890869,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286885573,
-    "wof:lastmodified":1472621693,
+    "wof:lastmodified":1492098486,
     "wof:name":"Books of Navarone",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",

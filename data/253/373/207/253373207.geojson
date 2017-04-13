@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.993953,41.470246,-87.993953,41.470246",
     "geom:latitude":41.470246,
     "geom:longitude":-87.993953,
@@ -33,10 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85940543,
-        102080845
+        420519341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +45,15 @@
     "wof:geomhash":"9de22944920cf114e46da4a74b2d1dcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102080845,
-            "locality_id":85940543,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420519341,
             "venue_id":253373207
         }
     ],
     "wof:id":253373207,
-    "wof:lastmodified":1472621467,
+    "wof:lastmodified":1492090562,
     "wof:name":"Simply Laminates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

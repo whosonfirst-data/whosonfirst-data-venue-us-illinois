@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.902432,42.439632,-87.902432,42.439632",
     "geom:latitude":42.439632,
     "geom:longitude":-87.902432,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85817271,
+        102191575,
+        404499871,
         85633793,
         85938617,
         102086215,
-        85817271
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3adde074b26d6e5d9ae4fc91c0d89118",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499871,
             "locality_id":85938617,
             "neighbourhood_id":85817271,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":219404217,
-    "wof:lastmodified":1472621302,
+    "wof:lastmodified":1492102451,
     "wof:name":"J&P Maintenance Inc",
     "wof:parent_id":85817271,
     "wof:placetype":"venue",

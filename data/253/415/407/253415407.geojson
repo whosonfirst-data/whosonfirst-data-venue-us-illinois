@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.366519,42.198023,-88.366519,42.198023",
     "geom:latitude":42.198023,
     "geom:longitude":-88.366519,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519191,
+        102191575,
+        404496541,
         85633793,
-        85939009,
-        102081661
+        85939735,
+        102086925,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"35d0c37d3cb70a33fc5367a37c534f65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081661,
-            "locality_id":85939009,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404496541,
+            "locality_id":85939735,
+            "neighbourhood_id":420519191,
             "region_id":85688697,
             "venue_id":253415407
         }
     ],
     "wof:id":253415407,
-    "wof:lastmodified":1472621493,
+    "wof:lastmodified":1492103098,
     "wof:name":"Velocity Auto Journal",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.098687,42.379015,-88.098687,42.379015",
     "geom:latitude":42.379015,
     "geom:longitude":-88.098687,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"9b21bc29d19717b8e362d0c9ddf16f8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":236030487
         }
     ],
     "wof:id":236030487,
-    "wof:lastmodified":1472620813,
+    "wof:lastmodified":1492089892,
     "wof:name":"Imperial Land Title Inc",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

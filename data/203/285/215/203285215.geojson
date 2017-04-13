@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.970867,42.305963,-87.970867,42.305963",
     "geom:latitude":42.305963,
     "geom:longitude":-87.970867,
@@ -39,10 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890821,
+        102191575,
+        404498461,
         85633793,
-        85938341,
-        102086215
+        85938331,
+        102086215,
+        85688697,
+        420519103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +57,25 @@
     "wof:geomhash":"2d6e88ed9fdba214707f5848d212d1d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938341,
-            "neighbourhood_id":-1,
+            "localadmin_id":404498461,
+            "locality_id":85938331,
+            "neighbourhood_id":85890821,
             "region_id":85688697,
+            "venue_id":203285215
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
             "venue_id":203285215
         }
     ],
     "wof:id":203285215,
-    "wof:lastmodified":1472621152,
+    "wof:lastmodified":1492090942,
     "wof:name":"Lance N Dahmer Cfp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

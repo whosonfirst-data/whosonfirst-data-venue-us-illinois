@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067001,41.981098,-88.067001,41.981098",
     "geom:latitude":41.981098,
     "geom:longitude":-88.067001,
@@ -41,7 +42,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qun4vja3MHv0kMlC5OvxN_41.981098_-88.067001@1303262850"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461952945,
     "wof:geomhash":"0d0e1e810d974eac5d4f11eedddcc1f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249659
+        }
+    ],
     "wof:id":740249659,
-    "wof:lastmodified":1472621976,
+    "wof:lastmodified":1492093351,
     "wof:name":"Dick Wickstrom Chevrolet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

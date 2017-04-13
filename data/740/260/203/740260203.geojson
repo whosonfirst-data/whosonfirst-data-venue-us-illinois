@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.127252,41.924858,-88.127252,41.924858",
     "geom:latitude":41.924858,
     "geom:longitude":-88.127252,
@@ -31,7 +32,14 @@
         "hair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mqbcr5g396IRouTeIU9D2_41.924858_-88.127252@1303262852"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953157,
     "wof:geomhash":"72b503788c400c4b86f6b18cc703df13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740260203
+        }
+    ],
     "wof:id":740260203,
-    "wof:lastmodified":1472621978,
+    "wof:lastmodified":1492090154,
     "wof:name":"Queens Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

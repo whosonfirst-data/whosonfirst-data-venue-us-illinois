@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.905926,41.87677,-87.905926,41.87677",
     "geom:latitude":41.87677,
     "geom:longitude":-87.905926,
@@ -32,7 +33,14 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940823,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tPmEUSERm27Fgv5UsJTA7_41.876770_-87.905926@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952896,
     "wof:geomhash":"aa7a5d12ab191748a9faf56dd604472d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940823,
+            "region_id":85688697,
+            "venue_id":740247343
+        }
+    ],
     "wof:id":740247343,
-    "wof:lastmodified":1472621960,
+    "wof:lastmodified":1492105521,
     "wof:name":"Puregas Equip. Corp. Division of General Cable Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

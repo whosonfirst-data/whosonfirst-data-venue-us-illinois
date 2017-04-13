@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.013199,42.139149,-88.013199,42.139149",
     "geom:latitude":42.139149,
     "geom:longitude":-88.013199,
@@ -40,7 +41,14 @@
     ],
     "sg:website":"http://www.jazzercise.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497645,
+        85633793,
+        85938407,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RlKxEXu3H5N5jEQbci0yX_42.139149_-88.013199@1303262844"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461951814,
     "wof:geomhash":"723aecb37b9931805e0cf4518c923062",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85938407,
+            "region_id":85688697,
+            "venue_id":740198379
+        }
+    ],
     "wof:id":740198379,
-    "wof:lastmodified":1472621865,
+    "wof:lastmodified":1492099547,
     "wof:name":"Jazzercise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

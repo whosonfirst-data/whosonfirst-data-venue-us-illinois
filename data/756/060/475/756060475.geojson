@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.823754,41.805943,-87.823754,41.805943",
     "geom:latitude":41.805943,
     "geom:longitude":-87.823754,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.pattcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940795,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0918YP1rY83vO4LkXOjo3E_41.805943_-87.823754@1303262861"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954650,
     "wof:geomhash":"89ea202bccbdcb2fb4f1c4c104eeae1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940795,
+            "region_id":85688697,
+            "venue_id":756060475
+        }
+    ],
     "wof:id":756060475,
-    "wof:lastmodified":1472621337,
+    "wof:lastmodified":1492107509,
     "wof:name":"Patt Supply Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

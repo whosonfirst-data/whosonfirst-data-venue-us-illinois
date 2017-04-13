@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.829829,41.382534,-87.829829,41.382534",
     "geom:latitude":41.382534,
     "geom:longitude":-87.829829,
@@ -29,7 +30,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ply1Si6lBXIKVbvkRWm8d_41.382613_-87.829445@1293134755"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461950397,
     "wof:geomhash":"f384052201fbd56c52ad1256a4363014",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "region_id":85688697,
+            "venue_id":740132299
+        }
+    ],
     "wof:id":740132299,
-    "wof:lastmodified":1472621405,
+    "wof:lastmodified":1492096798,
     "wof:name":"Clyde Schubbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

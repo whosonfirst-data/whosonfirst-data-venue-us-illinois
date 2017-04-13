@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.545956,41.945471,-88.545956,41.945471",
     "geom:latitude":41.945471,
     "geom:longitude":-88.545956,
@@ -33,7 +34,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496543,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0py8UB6G3X94V4FK9uMP4u_41.945471_-88.545956@1303262849"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461952775,
     "wof:geomhash":"acd5a3bf4e734a2f31e8e538cb94314b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404496543,
+            "region_id":85688697,
+            "venue_id":740241589
+        }
+    ],
     "wof:id":740241589,
-    "wof:lastmodified":1472621958,
+    "wof:lastmodified":1492110336,
     "wof:name":"Stover Woodworking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

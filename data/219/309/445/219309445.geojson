@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207984,42.281479,-88.207984,42.281479",
     "geom:latitude":42.281479,
     "geom:longitude":-88.207984,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85833271,
+        102191575,
+        404499149,
         85633793,
+        85938989,
         102081661,
-        85833271
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"3cffe78f870373e7bbb62625803724ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499149,
+            "locality_id":85938989,
             "neighbourhood_id":85833271,
             "region_id":85688697,
             "venue_id":219309445
         }
     ],
     "wof:id":219309445,
-    "wof:lastmodified":1472621179,
+    "wof:lastmodified":1492090748,
     "wof:name":"L A Tan",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",

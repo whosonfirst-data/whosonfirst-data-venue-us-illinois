@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.582507,41.608032,-87.582507,41.608032",
     "geom:latitude":41.608032,
     "geom:longitude":-87.582507,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867625,
+        102191575,
+        404497591,
         85633793,
-        85940863,
+        85940935,
         102084317,
-        85867625
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"e5b420eb3f3d8e67dc6a138ae74af958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940863,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
             "neighbourhood_id":85867625,
             "region_id":85688697,
             "venue_id":220086235
         }
     ],
     "wof:id":220086235,
-    "wof:lastmodified":1472620923,
+    "wof:lastmodified":1492110391,
     "wof:name":"L & H Trucking Co",
     "wof:parent_id":85867625,
     "wof:placetype":"venue",

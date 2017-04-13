@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.83039,41.66733,-87.83039,41.66733",
     "geom:latitude":41.66733,
     "geom:longitude":-87.83039,
@@ -38,7 +39,10 @@
     ],
     "sg:website":"www.theplushhorse.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NFfx94gqyyDm67l9SoBRh_41.667330_-87.830390@1303262859"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461954295,
     "wof:geomhash":"a74e881861c5871eb2e3d22f513027bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518847,
+            "venue_id":756043363
+        }
+    ],
     "wof:id":756043363,
-    "wof:lastmodified":1472621148,
+    "wof:lastmodified":1492107508,
     "wof:name":"The Plush Horse",
     "wof:parent_id":420518847,
     "wof:placetype":"venue",

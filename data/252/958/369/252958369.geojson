@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952606,41.863828,-87.952606,41.863828",
     "geom:latitude":41.863828,
     "geom:longitude":-87.952606,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85859387,
+        102191575,
+        404497661,
         85633793,
+        85940185,
         102081257,
-        85859387
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"82dc01c6d10e75131da050fd850bb6ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940185,
             "neighbourhood_id":85859387,
             "region_id":85688697,
             "venue_id":252958369
         }
     ],
     "wof:id":252958369,
-    "wof:lastmodified":1472621140,
+    "wof:lastmodified":1492097400,
     "wof:name":"Scissors Palace",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",

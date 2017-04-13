@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.864899,41.738602,-87.864899,41.738602",
     "geom:latitude":41.738602,
     "geom:longitude":-87.864899,
@@ -28,7 +29,14 @@
     "sg:postcode":"60480",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dn9zi7j4dtd6Y7TWyRsiR_41.738602_-87.864899@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954378,
     "wof:geomhash":"898f01ce9d5fb8f776965003a3f2bd38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047049
+        }
+    ],
     "wof:id":756047049,
-    "wof:lastmodified":1472621122,
+    "wof:lastmodified":1492098076,
     "wof:name":"Willow Springs Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.448459,41.079095,-88.448459,41.079095",
     "geom:latitude":41.079095,
     "geom:longitude":-88.448459,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v9feNsBOp0iQhiJuKDzag_41.079095_-88.448459@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950426,
     "wof:geomhash":"0344c6edef3e604c98106f901866a20f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "region_id":85688697,
+            "venue_id":740133607
+        }
+    ],
     "wof:id":740133607,
-    "wof:lastmodified":1472621476,
+    "wof:lastmodified":1492089783,
     "wof:name":"Robert Watters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

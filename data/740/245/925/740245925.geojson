@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.051449,41.978071,-88.051449,41.978071",
     "geom:latitude":41.978071,
     "geom:longitude":-88.051449,
@@ -43,7 +44,13 @@
     ],
     "sg:website":"http://apps.amfam.com/agentlocator/?sourceid=yp3",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JxVGnuQPZ3dCbJkLnNGiE_41.978071_-88.051449@1303262850"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461952869,
     "wof:geomhash":"2bc322f476ca276be7dd353b7beb7c98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740245925
+        }
+    ],
     "wof:id":740245925,
-    "wof:lastmodified":1472621987,
+    "wof:lastmodified":1492093312,
     "wof:name":"American Family Insuance- Ryan Andrews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.281513,41.807049,-88.281513,41.807049",
     "geom:latitude":41.807049,
     "geom:longitude":-88.281513,
@@ -38,7 +39,14 @@
     ],
     "sg:website":"http://www.healthypetaurora.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sp7ivXWpkHwoQHUaXzozt_41.807049_-88.281513@1303262859"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954437,
     "wof:geomhash":"5f0fb95d5b89bb84f5d5b3f53e7f35ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756050009
+        }
+    ],
     "wof:id":756050009,
-    "wof:lastmodified":1472621139,
+    "wof:lastmodified":1492090139,
     "wof:name":"Healthy Pet & Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

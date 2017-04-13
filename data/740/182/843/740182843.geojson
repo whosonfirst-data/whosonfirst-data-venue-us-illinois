@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.884537,41.998663,-87.884537,41.998663",
     "geom:latitude":41.998663,
     "geom:longitude":-87.884537,
@@ -42,7 +43,14 @@
     ],
     "sg:website":"http://ad.doubleclick.net/clk;222816988;46581822;v?http://www.hiexpress.com/redirect?path=hd&brandCode=ex&hotelCode=chiri&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-ex-_-chiri",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497631,
+        85633793,
+        85940869,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J8PxSmViQL6yJGacDiEh7_41.998663_-87.884537@1303262841"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461951503,
     "wof:geomhash":"9128030d75a62eb285692e30e37503e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940869,
+            "region_id":85688697,
+            "venue_id":740182843
+        }
+    ],
     "wof:id":740182843,
-    "wof:lastmodified":1472621848,
+    "wof:lastmodified":1492108343,
     "wof:name":"Holiday Inn Express Hotel & Suites Chicago O`hare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.678798,41.54358,-87.678798,41.54358",
     "geom:latitude":41.54358,
     "geom:longitude":-87.678798,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85851443,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85851443
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"14ddb5e248b0a2908e615ee118422673",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85851443,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236417327,
-    "wof:lastmodified":1472621674,
+    "wof:lastmodified":1492101757,
     "wof:name":"Diamond Point Travel",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",

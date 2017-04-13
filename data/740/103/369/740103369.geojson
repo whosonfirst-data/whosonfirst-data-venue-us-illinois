@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983147,41.017288,-87.983147,41.017288",
     "geom:latitude":41.017288,
     "geom:longitude":-87.983147,
@@ -27,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498383,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17XyZdqqzNilfyAmGuClL6_41.017288_-87.983147@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949687,
     "wof:geomhash":"80a96f080cf6a5891def0e1427665bdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498383,
+            "region_id":85688697,
+            "venue_id":740103369
+        }
+    ],
     "wof:id":740103369,
-    "wof:lastmodified":1472621063,
+    "wof:lastmodified":1492089780,
     "wof:name":"Vernon Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

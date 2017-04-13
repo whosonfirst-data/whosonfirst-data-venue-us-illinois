@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.681515,41.555509,-87.681515,41.555509",
     "geom:latitude":41.555509,
     "geom:longitude":-87.681515,
@@ -33,7 +34,14 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940817,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nMKzq2wmLvj8mXHH9u5uv_41.555754_-87.681563@1293134755"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950389,
     "wof:geomhash":"82dbbf40b55bee1e24478694fdc23569",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940817,
+            "region_id":85688697,
+            "venue_id":740131853
+        }
+    ],
     "wof:id":740131853,
-    "wof:lastmodified":1472621423,
+    "wof:lastmodified":1492090873,
     "wof:name":"Varsity Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

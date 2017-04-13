@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.535483,41.661295,-88.535483,41.661295",
     "geom:latitude":41.661295,
     "geom:longitude":-88.535483,
@@ -34,7 +35,14 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wULuZRFeBedTjmpEUPvex_41.661295_-88.535483@1303262861"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954731,
     "wof:geomhash":"d6eefc45f37e4cd3bacba6dd01e31fdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064387
+        }
+    ],
     "wof:id":756064387,
-    "wof:lastmodified":1472621379,
+    "wof:lastmodified":1492107328,
     "wof:name":"Rea Charles R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.986811,41.788268,-87.986811,41.788268",
     "geom:latitude":41.788268,
     "geom:longitude":-87.986811,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518947,
+        102191575,
+        404497649,
         85633793,
-        85940165,
-        102081257
+        85940141,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"dbd341da3cfd40b1fa1a5c1d6651913d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940165,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":420518947,
             "region_id":85688697,
             "venue_id":219702343
         }
     ],
     "wof:id":219702343,
-    "wof:lastmodified":1472621560,
+    "wof:lastmodified":1492090708,
     "wof:name":"Arnold Video and Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

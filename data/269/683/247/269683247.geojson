@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.173848,41.920812,-88.173848,41.920812",
     "geom:latitude":41.920812,
     "geom:longitude":-88.173848,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890999,
+        102191575,
+        404497659,
         85633793,
+        85940143,
         102081257,
-        85890999
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"f53644cc4c0bd75cbf1f1b823d46bbf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497659,
+            "locality_id":85940143,
             "neighbourhood_id":85890999,
             "region_id":85688697,
             "venue_id":269683247
         }
     ],
     "wof:id":269683247,
-    "wof:lastmodified":1472621238,
+    "wof:lastmodified":1492102179,
     "wof:name":"CMS Builders Inc",
     "wof:parent_id":85890999,
     "wof:placetype":"venue",

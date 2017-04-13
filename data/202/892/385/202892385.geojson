@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.309187,41.8804,-88.309187,41.8804",
     "geom:latitude":41.8804,
     "geom:longitude":-88.309187,
@@ -29,11 +30,16 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867853,
+        102191575,
+        404498235,
         85633793,
         85940213,
         102086925,
-        85867853
+        85688697,
+        420559817,
+        404498227,
+        85939739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,30 @@
     "wof:geomhash":"e70e619b23cc20e07c927fccc8d9491a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498235,
             "locality_id":85940213,
             "neighbourhood_id":85867853,
+            "region_id":85688697,
+            "venue_id":202892385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
+            "neighbourhood_id":420559817,
             "region_id":85688697,
             "venue_id":202892385
         }
     ],
     "wof:id":202892385,
-    "wof:lastmodified":1472621309,
+    "wof:lastmodified":1492096033,
     "wof:name":"KANE County Personnel Dept",
-    "wof:parent_id":85867853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

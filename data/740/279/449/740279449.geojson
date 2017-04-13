@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558998,41.6194,-87.558998,41.6194",
     "geom:latitude":41.6194,
     "geom:longitude":-87.558998,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.ZoomClean.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940887,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eYVSdw5NgCcu1UK7AO24a_41.619400_-87.558998@1303262854"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461953552,
     "wof:geomhash":"d43f49a9a5aeaded22354ba22123f45d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940887,
+            "region_id":85688697,
+            "venue_id":740279449
+        }
+    ],
     "wof:id":740279449,
-    "wof:lastmodified":1472622019,
+    "wof:lastmodified":1492107313,
     "wof:name":"Zoom Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

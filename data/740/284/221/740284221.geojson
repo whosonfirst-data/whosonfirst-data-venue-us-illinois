@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.41243,41.1129,-88.41243,41.1129",
     "geom:latitude":41.1129,
     "geom:longitude":-88.41243,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.circlek.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497977,
+        85633793,
+        85938295,
+        102082873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aUlOnpHjOWopyVxLpuYk5_41.112900_-88.412430@1303262855"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461953653,
     "wof:geomhash":"35adcf5e643fedf8866dfaf9a2e40fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082873,
+            "localadmin_id":404497977,
+            "locality_id":85938295,
+            "region_id":85688697,
+            "venue_id":740284221
+        }
+    ],
     "wof:id":740284221,
-    "wof:lastmodified":1472622011,
+    "wof:lastmodified":1492104026,
     "wof:name":"Circle K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

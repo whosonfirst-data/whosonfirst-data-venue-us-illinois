@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.546728,41.564664,-87.546728,41.564664",
     "geom:latitude":41.564664,
     "geom:longitude":-87.546728,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"eaec986fae52e10b159568976376e9fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":270138831
         }
     ],
     "wof:id":270138831,
-    "wof:lastmodified":1472621134,
+    "wof:lastmodified":1492104783,
     "wof:name":"Church Of Christ The King",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.149221,41.940667,-88.149221,41.940667",
     "geom:latitude":41.940667,
     "geom:longitude":-88.149221,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847323,
+        102191575,
+        404497763,
         85633793,
         85940189,
         102081257,
-        85847323
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"cd3d844f2489d36ab92e9e2c3f3a02e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85847323,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286265629,
-    "wof:lastmodified":1472620759,
+    "wof:lastmodified":1492096048,
     "wof:name":"Digital Lobster Co Inc",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",

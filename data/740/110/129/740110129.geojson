@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.185314,41.166939,-88.185314,41.166939",
     "geom:latitude":41.166939,
     "geom:longitude":-88.185314,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496545,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BS8p1OoL7fRhVSXzPIB9W_41.166939_-88.185314@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949834,
     "wof:geomhash":"202da0340636cafb1943f36bd6e72a40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496545,
+            "region_id":85688697,
+            "venue_id":740110129
+        }
+    ],
     "wof:id":740110129,
-    "wof:lastmodified":1472621248,
+    "wof:lastmodified":1492090658,
     "wof:name":"Robert Bossert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

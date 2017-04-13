@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.128175,42.20581,-88.128175,42.20581",
     "geom:latitude":42.20581,
     "geom:longitude":-88.128175,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867895,
+        102191575,
+        404498455,
         85633793,
         85938329,
         102086215,
-        85867895
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"08ff9ec32763afe1339330ce24ed3bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498455,
             "locality_id":85938329,
             "neighbourhood_id":85867895,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253138179,
-    "wof:lastmodified":1472621088,
+    "wof:lastmodified":1492107851,
     "wof:name":"Stoneleigh Foundation Inc",
     "wof:parent_id":85867895,
     "wof:placetype":"venue",

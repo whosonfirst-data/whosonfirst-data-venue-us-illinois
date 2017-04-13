@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.617081,41.30241,-88.617081,41.30241",
     "geom:latitude":41.30241,
     "geom:longitude":-88.617081,
@@ -38,7 +39,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498495,
+        85633793,
+        85938281,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l4sayL3qoAm0XEnTlfc4N_41.302410_-88.617081@1303262913"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461963470,
     "wof:geomhash":"1f1a5c11b1258d376464d1dab9cc870b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498495,
+            "locality_id":85938281,
+            "region_id":85688697,
+            "venue_id":756448833
+        }
+    ],
     "wof:id":756448833,
-    "wof:lastmodified":1472622224,
+    "wof:lastmodified":1492092402,
     "wof:name":"Studeman Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.833293,41.718097,-87.833293,41.718097",
     "geom:latitude":41.718097,
     "geom:longitude":-87.833293,
@@ -31,7 +32,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940825,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WqFGRTbomGyC8BRFGz0Zq_41.718097_-87.833293@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954194,
     "wof:geomhash":"a7e5454334d886ba65543bc81d15469d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940825,
+            "region_id":85688697,
+            "venue_id":756038381
+        }
+    ],
     "wof:id":756038381,
-    "wof:lastmodified":1472621014,
+    "wof:lastmodified":1492097427,
     "wof:name":"Stars Academy School of Phlebotomy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

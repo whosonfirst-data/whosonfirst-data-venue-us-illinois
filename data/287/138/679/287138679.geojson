@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047435,41.430545,-88.047435,41.430545",
     "geom:latitude":41.430545,
     "geom:longitude":-88.047435,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3701b61ceb433c2aebc108381d8c3b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":287138679,
-    "wof:lastmodified":1472621094,
+    "wof:lastmodified":1492090365,
     "wof:name":"J and R Security Guard Svc Co",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

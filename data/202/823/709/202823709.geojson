@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.978671,42.164525,-87.978671,42.164525",
     "geom:latitude":42.164525,
     "geom:longitude":-87.978671,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890883,
+        102191575,
+        404498459,
         85633793,
-        85938421,
-        102084317,
-        85890883
+        85938335,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"66d281501ec181d19a20e9aaf632dcd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85938421,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938335,
             "neighbourhood_id":85890883,
             "region_id":85688697,
             "venue_id":202823709
         }
     ],
     "wof:id":202823709,
-    "wof:lastmodified":1472621290,
+    "wof:lastmodified":1492089332,
     "wof:name":"Ajs Mailing Svc",
     "wof:parent_id":85890883,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.642792,41.36955,-87.642792,41.36955",
     "geom:latitude":41.36955,
     "geom:longitude":-87.642792,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YSTYeH7S3QsNoy75wOCTt_41.369550_-87.642792@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950286,
     "wof:geomhash":"0aaeb66d9a59dbb5973d06d619e9c951",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "region_id":85688697,
+            "venue_id":740127417
+        }
+    ],
     "wof:id":740127417,
-    "wof:lastmodified":1472621403,
+    "wof:lastmodified":1492091087,
     "wof:name":"Lester Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

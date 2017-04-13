@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.812336,42.201267,-87.812336,42.201267",
     "geom:latitude":42.201267,
     "geom:longitude":-87.812336,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890811,
+        102191575,
+        404498365,
         85633793,
         85938371,
         102086215,
-        85890811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"723d56a7f3e1b2246f4e85417cec6b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498365,
             "locality_id":85938371,
             "neighbourhood_id":85890811,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236388243,
-    "wof:lastmodified":1472621635,
+    "wof:lastmodified":1492089957,
     "wof:name":"D Peterson Construction",
     "wof:parent_id":85890811,
     "wof:placetype":"venue",

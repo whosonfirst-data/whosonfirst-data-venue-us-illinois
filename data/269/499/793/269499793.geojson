@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817419,41.706679,-87.817419,41.706679",
     "geom:latitude":41.706679,
     "geom:longitude":-87.817419,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890747,
+        102191575,
+        404497627,
         85633793,
-        85940747,
-        102084317
+        85940897,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"49f3a47038cfe8cc57700bd35705ec5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940747,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497627,
+            "locality_id":85940897,
+            "neighbourhood_id":85890747,
             "region_id":85688697,
             "venue_id":269499793
         }
     ],
     "wof:id":269499793,
-    "wof:lastmodified":1472620774,
+    "wof:lastmodified":1492096664,
     "wof:name":"Skender Construction Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

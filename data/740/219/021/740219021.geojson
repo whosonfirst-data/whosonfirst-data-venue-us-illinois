@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.1194,41.9491,-88.1194,41.9491",
     "geom:latitude":41.9491,
     "geom:longitude":-88.1194,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_006hVG7K1FORX3iB7Fj0vA_41.949100_-88.119400@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952275,
     "wof:geomhash":"425bdf15b42fab843f770cf752d13701",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219021
+        }
+    ],
     "wof:id":740219021,
-    "wof:lastmodified":1472621906,
+    "wof:lastmodified":1492099279,
     "wof:name":"Cameo Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

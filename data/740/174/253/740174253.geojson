@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.953998,42.287004,-87.953998,42.287004",
     "geom:latitude":42.287004,
     "geom:longitude":-87.953998,
@@ -39,7 +40,10 @@
         "pub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iJgyLxrx4I3CEpXLHw3x0_42.286944_-87.954080@1294102059"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461951304,
     "wof:geomhash":"ac5997a65966726ed604d28c96112baf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740174253
+        }
+    ],
     "wof:id":740174253,
-    "wof:lastmodified":1472621824,
+    "wof:lastmodified":1492091022,
     "wof:name":"Mickey Finn's Brewery",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

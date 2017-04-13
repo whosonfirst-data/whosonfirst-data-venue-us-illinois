@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.02409,42.109135,-88.02409,42.109135",
     "geom:latitude":42.109135,
     "geom:longitude":-88.02409,
@@ -33,11 +34,13 @@
     "sg:website":"www.christ.lutheran.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890885,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85890885
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"0433219a4ea5ad8ab292584e9e84bfa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85890885,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219342817,
-    "wof:lastmodified":1472621246,
+    "wof:lastmodified":1492092174,
     "wof:name":"Christ Lutheran Church",
     "wof:parent_id":85890885,
     "wof:placetype":"venue",

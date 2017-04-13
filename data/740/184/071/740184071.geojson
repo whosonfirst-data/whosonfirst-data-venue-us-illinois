@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798409,42.08098,-87.798409,42.08098",
     "geom:latitude":42.08098,
     "geom:longitude":-87.798409,
@@ -42,7 +43,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jeplpTxBhhzoJ0KVBAXnH_42.080980_-87.798409@1303262842"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461951527,
     "wof:geomhash":"b17eccebc7a922b61f361eb4bd381a25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184071
+        }
+    ],
     "wof:id":740184071,
-    "wof:lastmodified":1472621830,
+    "wof:lastmodified":1492106179,
     "wof:name":"La Belle Swimwear & Lingerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.413488,41.445076,-88.413488,41.445076",
     "geom:latitude":41.445076,
     "geom:longitude":-88.413488,
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +60,10 @@
     "wof:geomhash":"37a200d6c8baf0204be65d4d3aff1ec6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":756031119,
-    "wof:lastmodified":1472620825,
+    "wof:lastmodified":1492089818,
     "wof:name":"Designer Decks By Mj Inc",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

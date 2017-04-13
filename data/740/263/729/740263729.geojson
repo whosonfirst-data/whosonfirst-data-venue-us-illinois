@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.091835,41.990807,-88.091835,41.990807",
     "geom:latitude":41.990807,
     "geom:longitude":-88.091835,
@@ -40,7 +41,14 @@
     ],
     "sg:website":"http://www.toolmex.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UYCczpBUEE5vAJZvXrbDR_41.990807_-88.091835@1303262852"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461953227,
     "wof:geomhash":"63f89c1f64701453c51b27db8cee74f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740263729
+        }
+    ],
     "wof:id":740263729,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1492107833,
     "wof:name":"Toolmex Corp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

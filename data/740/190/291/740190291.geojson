@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.942164,42.282095,-87.942164,42.282095",
     "geom:latitude":42.282095,
     "geom:longitude":-87.942164,
@@ -41,7 +42,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SKIym1UwiNSkZ8QukSK1l_42.282095_-87.942164@1303262842"
@@ -49,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461951653,
     "wof:geomhash":"298d2e797ec1205bbb9a0a57b1ab80e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190291
+        }
+    ],
     "wof:id":740190291,
-    "wof:lastmodified":1472621857,
+    "wof:lastmodified":1492088945,
     "wof:name":"Ped Alt In Creative Thrpy Pact",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

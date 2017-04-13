@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.41556,41.360307,-88.41556,41.360307",
     "geom:latitude":41.360307,
     "geom:longitude":-88.41556,
@@ -55,11 +56,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +73,10 @@
     "wof:geomhash":"0de43cd30c6e1f513cda336606714f14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":756031397,
-    "wof:lastmodified":1472620847,
+    "wof:lastmodified":1492092883,
     "wof:name":"Resler Construction",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

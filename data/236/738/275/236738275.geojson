@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.081177,41.51826,-88.081177,41.51826",
     "geom:latitude":41.51826,
     "geom:longitude":-88.081177,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"96c31d679af1ff94f0b63762f51b18ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236738275,
-    "wof:lastmodified":1472621765,
+    "wof:lastmodified":1492091218,
     "wof:name":"Family Choice Restaurant",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.805665,42.067962,-87.805665,42.067962",
     "geom:latitude":42.067962,
     "geom:longitude":-87.805665,
@@ -32,7 +33,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kZwFQcrAuDr0hm7hq7FQV_42.067962_-87.805665@1303262842"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951525,
     "wof:geomhash":"092086d08b33152082485e0091db0aa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740183971
+        }
+    ],
     "wof:id":740183971,
-    "wof:lastmodified":1472621852,
+    "wof:lastmodified":1492092184,
     "wof:name":"Wesley Day Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

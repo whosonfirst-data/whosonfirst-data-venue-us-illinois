@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.986793,41.424679,-87.986793,41.424679",
     "geom:latitude":41.424679,
     "geom:longitude":-87.986793,
@@ -43,7 +44,10 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sLLh43LSowf2sALihIlfg_41.424679_-87.986793@1303262856"
@@ -51,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461953923,
     "wof:geomhash":"7634e01b166165fea9a61d0d230b44d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025807
+        }
+    ],
     "wof:id":756025807,
-    "wof:lastmodified":1472620882,
+    "wof:lastmodified":1492092889,
     "wof:name":"Gallagher's Pub",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

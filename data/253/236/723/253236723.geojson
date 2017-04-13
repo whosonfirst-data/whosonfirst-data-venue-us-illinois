@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.820752,41.864779,-87.820752,41.864779",
     "geom:latitude":41.864779,
     "geom:longitude":-87.820752,
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85837971,
+        102191575,
+        404497585,
         85633793,
         85940763,
         102084317,
-        85837971
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"17fa899c195e85fc0fe43b59dcdf8576",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497585,
             "locality_id":85940763,
             "neighbourhood_id":85837971,
             "region_id":85688697,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":253236723,
-    "wof:lastmodified":1472621317,
+    "wof:lastmodified":1492091496,
     "wof:name":"Drywall Master Tools Inc",
     "wof:parent_id":85837971,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.229797,41.722831,-88.229797,41.722831",
     "geom:latitude":41.722831,
     "geom:longitude":-88.229797,
@@ -32,7 +33,13 @@
         "erectors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xVpQ3UDFMrMZzYabuFtWq_41.722831_-88.229797@1303262862"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954890,
     "wof:geomhash":"b5ad58563fdf789662c28780c1569129",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756071357
+        }
+    ],
     "wof:id":756071357,
-    "wof:lastmodified":1472621378,
+    "wof:lastmodified":1492093466,
     "wof:name":"Conley Steel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

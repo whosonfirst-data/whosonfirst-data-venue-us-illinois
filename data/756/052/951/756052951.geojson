@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.329859,41.837802,-88.329859,41.837802",
     "geom:latitude":41.837802,
     "geom:longitude":-88.329859,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,16 +59,18 @@
     "wof:geomhash":"733d2aa1046375b79b3053f750e8fb1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":756052951
         }
     ],
     "wof:id":756052951,
-    "wof:lastmodified":1472621182,
+    "wof:lastmodified":1492108031,
     "wof:name":"St Chadles Custom Cabinetry",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

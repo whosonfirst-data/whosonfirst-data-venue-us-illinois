@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.779648,41.840352,-87.779648,41.840352",
     "geom:latitude":41.840352,
     "geom:longitude":-87.779648,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867655,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85867655
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9a801e41afa5a2bb65c2a9ef21efc681",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85867655,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253444055,
-    "wof:lastmodified":1472621523,
+    "wof:lastmodified":1492091136,
     "wof:name":"Cfu Sloboda Lodge 32",
     "wof:parent_id":85867655,
     "wof:placetype":"venue",

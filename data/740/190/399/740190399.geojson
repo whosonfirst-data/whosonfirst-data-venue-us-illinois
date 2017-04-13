@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951533,42.274612,-87.951533,42.274612",
     "geom:latitude":42.274612,
     "geom:longitude":-87.951533,
@@ -36,7 +37,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VH7OXwYMkiP4g9abA0XVI_42.274612_-87.951533@1303262842"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461951655,
     "wof:geomhash":"f0dfe093371a98632bd6b870157760e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190399
+        }
+    ],
     "wof:id":740190399,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492105187,
     "wof:name":"Queen Developers",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

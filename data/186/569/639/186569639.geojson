@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.109735,41.832814,-88.109735,41.832814",
     "geom:latitude":41.832814,
     "geom:longitude":-88.109735,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891061,
+        102191575,
+        404497653,
         85633793,
+        85940139,
         102081257,
-        85891061
+        85688697
     ],
     "wof:brand_id":420574701,
     "wof:breaches":[],
@@ -43,17 +47,18 @@
     "wof:geomhash":"89fe5298aae6b75d7d5adbf97a955255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497653,
+            "locality_id":85940139,
             "neighbourhood_id":85891061,
             "region_id":85688697,
             "venue_id":186569639
         }
     ],
     "wof:id":186569639,
-    "wof:lastmodified":1472620950,
+    "wof:lastmodified":1492106035,
     "wof:name":"HealthSouth",
     "wof:parent_id":85891061,
     "wof:placetype":"venue",

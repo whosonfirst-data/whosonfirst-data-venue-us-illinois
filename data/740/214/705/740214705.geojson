@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.883415,41.882504,-87.883415,41.882504",
     "geom:latitude":41.882504,
     "geom:longitude":-87.883415,
@@ -42,7 +43,14 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940907,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A85ngAc5qXZyz2fYNtFSk_41.882504_-87.883415@1303262846"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461952186,
     "wof:geomhash":"0778aebcf1d80c9e7930aad505791f66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940907,
+            "region_id":85688697,
+            "venue_id":740214705
+        }
+    ],
     "wof:id":740214705,
-    "wof:lastmodified":1472621930,
+    "wof:lastmodified":1492093141,
     "wof:name":"ARC Electro Refinishers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

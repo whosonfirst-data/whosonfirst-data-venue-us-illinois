@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558896,41.564405,-87.558896,41.564405",
     "geom:latitude":41.564405,
     "geom:longitude":-87.558896,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"6d46f94244dcde4385b2fdde71acbb3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":269900295
         }
     ],
     "wof:id":269900295,
-    "wof:lastmodified":1472621400,
+    "wof:lastmodified":1492101107,
     "wof:name":"Derick W Carter",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

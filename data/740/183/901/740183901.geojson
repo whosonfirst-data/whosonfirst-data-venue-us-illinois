@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.82235,42.054942,-87.82235,42.054942",
     "geom:latitude":42.054942,
     "geom:longitude":-87.82235,
@@ -38,7 +39,14 @@
         "merchandise-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497635,
+        85633793,
+        85940779,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qebgc6CrnxMuUPIPkcIg6_42.054942_-87.822350@1303262842"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951521,
     "wof:geomhash":"a2b379cd53852bc4c867306f30f0e012",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497635,
+            "locality_id":85940779,
+            "region_id":85688697,
+            "venue_id":740183901
+        }
+    ],
     "wof:id":740183901,
-    "wof:lastmodified":1472621852,
+    "wof:lastmodified":1492091272,
     "wof:name":"Alve Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

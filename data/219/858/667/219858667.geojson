@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061261,41.860457,-88.061261,41.860457",
     "geom:latitude":41.860457,
     "geom:longitude":-88.061261,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85819667,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85819667
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"4e23290714e87e2d18056f8aa3fd5c03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85819667,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219858667,
-    "wof:lastmodified":1472621602,
+    "wof:lastmodified":1492107734,
     "wof:name":"Jansco Inc",
     "wof:parent_id":85819667,
     "wof:placetype":"venue",

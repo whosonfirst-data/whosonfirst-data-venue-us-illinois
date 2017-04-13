@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028729,42.081478,-88.028729,42.081478",
     "geom:latitude":42.081478,
     "geom:longitude":-88.028729,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867567,
+        102191575,
+        404497587,
         85633793,
         85940179,
         102084317,
-        85867567
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"26348c2963c9da5efc0f88fe2876d7cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497587,
             "locality_id":85940179,
             "neighbourhood_id":85867567,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":252725037,
-    "wof:lastmodified":1472620774,
+    "wof:lastmodified":1492092605,
     "wof:name":"Express Care",
     "wof:parent_id":85867567,
     "wof:placetype":"venue",

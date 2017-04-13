@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.046004,41.936752,-88.046004,41.936752",
     "geom:latitude":41.936752,
     "geom:longitude":-88.046004,
@@ -31,7 +32,13 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gif75fliAqMZURO85MFYA_41.936752_-88.046004@1303262886"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461958986,
     "wof:geomhash":"c92cbf320af0dbbc1ece42fab40b7174",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":756252811
+        }
+    ],
     "wof:id":756252811,
-    "wof:lastmodified":1472622045,
+    "wof:lastmodified":1492107600,
     "wof:name":"Locksmith 1 Always",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.794499,41.885574,-87.794499,41.885574",
     "geom:latitude":41.885574,
     "geom:longitude":-87.794499,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867585,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85867585
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4b96d0f49389b0e596094289d1bbba70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85867585,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236303111,
-    "wof:lastmodified":1472621503,
+    "wof:lastmodified":1492093337,
     "wof:name":"Animal Care League Retail Shop",
     "wof:parent_id":85867585,
     "wof:placetype":"venue",

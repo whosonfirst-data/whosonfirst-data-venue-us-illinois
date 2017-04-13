@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.122323,42.477697,-88.122323,42.477697",
     "geom:latitude":42.477697,
     "geom:longitude":-88.122323,
@@ -39,8 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404498449,
         85633793,
-        85831403,
+        85938405,
         102086215
     ],
     "wof:breaches":[],
@@ -52,17 +55,19 @@
     "wof:geomhash":"105fe0926670de80b2d1b06b1c7d4840",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "neighbourhood_id":85831403,
+            "localadmin_id":404498449,
+            "locality_id":85938405,
             "region_id":85688697,
             "venue_id":740178857
         }
     ],
     "wof:id":740178857,
-    "wof:lastmodified":1472621841,
+    "wof:lastmodified":1492102456,
     "wof:name":"Northwest Transmission Rebuild",
-    "wof:parent_id":85831403,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

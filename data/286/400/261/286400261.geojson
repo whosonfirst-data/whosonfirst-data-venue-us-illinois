@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.105499,41.906681,-88.105499,41.906681",
     "geom:latitude":41.906681,
     "geom:longitude":-88.105499,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"20028758eabdd97d2c44c92b05b5cc6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":286400261
         }
     ],
     "wof:id":286400261,
-    "wof:lastmodified":1472621169,
+    "wof:lastmodified":1492105518,
     "wof:name":"Belcar Products Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

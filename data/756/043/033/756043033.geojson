@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.806976,41.660525,-87.806976,41.660525",
     "geom:latitude":41.660525,
     "geom:longitude":-87.806976,
@@ -32,7 +33,10 @@
         "brunch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w8SEm5yRAOEPelkGThpKK_41.660525_-87.806976@1303262859"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954289,
     "wof:geomhash":"6d56c01cb435055538542686e72590db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518847,
+            "venue_id":756043033
+        }
+    ],
     "wof:id":756043033,
-    "wof:lastmodified":1472621134,
+    "wof:lastmodified":1492090061,
     "wof:name":"Royalberry Waffle House",
     "wof:parent_id":420518847,
     "wof:placetype":"venue",

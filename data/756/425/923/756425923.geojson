@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.875912,41.162594,-87.875912,41.162594",
     "geom:latitude":41.162594,
     "geom:longitude":-87.875912,
@@ -64,7 +65,14 @@
     ],
     "sg:website":"http://www.tomtracker.com/redirect.cfm?bID=4837&hID=111353",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WXQNXzVkYnV10p6lhZETa_41.162594_-87.875912@1303262909"
@@ -72,9 +80,19 @@
     "wof:country":"US",
     "wof:created":1461962921,
     "wof:geomhash":"f995abd44b5336b6749fc69131e2428d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":756425923
+        }
+    ],
     "wof:id":756425923,
-    "wof:lastmodified":1472622217,
+    "wof:lastmodified":1492088453,
     "wof:name":"Meineke Car Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

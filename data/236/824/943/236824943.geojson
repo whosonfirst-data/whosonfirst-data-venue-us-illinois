@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.784521,41.57787,-87.784521,41.57787",
     "geom:latitude":41.57787,
     "geom:longitude":-87.784521,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890939,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890939
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"1868952f61372c2eb3dd29f8e03922f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890939,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":236824943,
-    "wof:lastmodified":1472621776,
+    "wof:lastmodified":1492093547,
     "wof:name":"Bear Track",
     "wof:parent_id":85890939,
     "wof:placetype":"venue",

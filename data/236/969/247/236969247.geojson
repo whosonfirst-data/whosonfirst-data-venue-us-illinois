@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.340542,41.858197,-88.340542,41.858197",
     "geom:latitude":41.858197,
     "geom:longitude":-88.340542,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"0864d4e0fb8552d2fb547f2441064dc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":236969247
         }
     ],
     "wof:id":236969247,
-    "wof:lastmodified":1472621795,
+    "wof:lastmodified":1492089669,
     "wof:name":"Bassett Furniture",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

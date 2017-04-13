@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.608994,41.568401,-87.608994,41.568401",
     "geom:latitude":41.568401,
     "geom:longitude":-87.608994,
@@ -39,7 +40,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940925,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T84UxruJRwAc0COpH6d5w_41.568401_-87.608994@1303262859"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954372,
     "wof:geomhash":"46a8b29927452758eaa38208cb40dfa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940925,
+            "region_id":85688697,
+            "venue_id":756046715
+        }
+    ],
     "wof:id":756046715,
-    "wof:lastmodified":1472621172,
+    "wof:lastmodified":1492093557,
     "wof:name":"Zenere Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

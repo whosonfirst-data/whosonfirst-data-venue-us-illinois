@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.727423,42.053785,-87.727423,42.053785",
     "geom:latitude":42.053785,
     "geom:longitude":-87.727423,
@@ -42,11 +43,13 @@
     "sg:website":"www.golfcrawfordauto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85940779,
+        85940943,
         102084317,
-        85856393
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +59,18 @@
     "wof:geomhash":"3151436f15a7a5bc83d641e21c0123e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940779,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "neighbourhood_id":85856393,
             "region_id":85688697,
             "venue_id":303061251
         }
     ],
     "wof:id":303061251,
-    "wof:lastmodified":1472620806,
+    "wof:lastmodified":1492089678,
     "wof:name":"Golf Crawford Auto Service",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",

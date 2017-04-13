@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.744574,41.713358,-87.744574,41.713358",
     "geom:latitude":41.713358,
     "geom:longitude":-87.744574,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1d3054bb497ab6a2e64d5db51e8bd53e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286817199,
-    "wof:lastmodified":1472621674,
+    "wof:lastmodified":1492090094,
     "wof:name":"Borchardt Trucking",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

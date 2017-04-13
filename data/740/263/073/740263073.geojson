@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.173472,41.855786,-88.173472,41.855786",
     "geom:latitude":41.855786,
     "geom:longitude":-88.173472,
@@ -32,7 +33,10 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14U63U8zHhxb2GZwVgzhLp_41.855786_-88.173472@1303262852"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953216,
     "wof:geomhash":"dc0aea0375087fc4baa1bb343cb45485",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740263073
+        }
+    ],
     "wof:id":740263073,
-    "wof:lastmodified":1472621976,
+    "wof:lastmodified":1492105523,
     "wof:name":"Interior Planning & Design",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

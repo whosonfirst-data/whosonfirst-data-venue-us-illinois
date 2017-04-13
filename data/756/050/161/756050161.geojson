@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.252581,41.71855,-88.252581,41.71855",
     "geom:latitude":41.71855,
     "geom:longitude":-88.252581,
@@ -38,7 +39,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UeaHgrQhOiX6R2sbkAcHC_41.718550_-88.252581@1303262859"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954439,
     "wof:geomhash":"e0697f55eff96149b6a6333de06ad19d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756050161
+        }
+    ],
     "wof:id":756050161,
-    "wof:lastmodified":1472621143,
+    "wof:lastmodified":1492107999,
     "wof:name":"Zgalindos Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

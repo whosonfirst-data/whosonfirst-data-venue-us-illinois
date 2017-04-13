@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.297579,41.714705,-88.297579,41.714705",
     "geom:latitude":41.714705,
     "geom:longitude":-88.297579,
@@ -38,7 +39,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lfuh2NUamgvstd0p7CDfw_41.714705_-88.297579@1303262861"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954710,
     "wof:geomhash":"1e0e322bbfad51542f5f165fb42fd118",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756063427
+        }
+    ],
     "wof:id":756063427,
-    "wof:lastmodified":1472621328,
+    "wof:lastmodified":1492108003,
     "wof:name":"Guoya Bamboo Usa, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

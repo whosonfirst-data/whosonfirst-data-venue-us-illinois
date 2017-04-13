@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.804836,41.894294,-87.804836,41.894294",
     "geom:latitude":41.894294,
     "geom:longitude":-87.804836,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890869,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85890869
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b9532ba0bffc175b8d684aa05dd1ab80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85890869,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202708889,
-    "wof:lastmodified":1472621233,
+    "wof:lastmodified":1492096289,
     "wof:name":"Casey Music",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",

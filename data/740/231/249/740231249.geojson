@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855103,41.9193,-87.855103,41.9193",
     "geom:latitude":41.9193,
     "geom:longitude":-87.855103,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"www.algelato.com/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940843,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U3rqnlUzIqO07G9oCx34Q_41.919300_-87.855103@1303262848"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461952528,
     "wof:geomhash":"05816a9be855015c94be455cece0d02b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940843,
+            "region_id":85688697,
+            "venue_id":740231249
+        }
+    ],
     "wof:id":740231249,
-    "wof:lastmodified":1472621918,
+    "wof:lastmodified":1492110335,
     "wof:name":"Al Gelato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.10286,42.187894,-88.10286,42.187894",
     "geom:latitude":42.187894,
     "geom:longitude":-88.10286,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867915,
+        102191575,
+        404498459,
         85633793,
-        85938411,
+        85938343,
         102086215,
-        85867915
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"18940e79a7e034647b341ffb49c25880",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938411,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
             "neighbourhood_id":85867915,
             "region_id":85688697,
             "venue_id":252809557
         }
     ],
     "wof:id":252809557,
-    "wof:lastmodified":1472621012,
+    "wof:lastmodified":1492106737,
     "wof:name":"Sparks Computerized Car Care",
     "wof:parent_id":85867915,
     "wof:placetype":"venue",

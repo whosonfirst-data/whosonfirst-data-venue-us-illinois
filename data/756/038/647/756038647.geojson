@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.841499,41.7328,-87.841499,41.7328",
     "geom:latitude":41.7328,
     "geom:longitude":-87.841499,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.verizonwireless.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940825,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H8dRIv93jHki9FdaTQYK0_41.732800_-87.841499@1303262858"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954199,
     "wof:geomhash":"8a084ec9e08adae4316350dcb2795468",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940825,
+            "region_id":85688697,
+            "venue_id":756038647
+        }
+    ],
     "wof:id":756038647,
-    "wof:lastmodified":1472621027,
+    "wof:lastmodified":1492088046,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

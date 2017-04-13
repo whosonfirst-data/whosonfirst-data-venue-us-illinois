@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.816,41.669872,-87.816,41.669872",
     "geom:latitude":41.669872,
     "geom:longitude":-87.816,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85890891,
+        102191575,
+        404496277,
         85633793,
+        85940747,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"8928d7ff693ee33dddf7b51f6f04cffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
+            "neighbourhood_id":85890891,
             "region_id":85688697,
             "venue_id":269685359
         }
     ],
     "wof:id":269685359,
-    "wof:lastmodified":1472621232,
+    "wof:lastmodified":1492097090,
     "wof:name":"Palos Park Main Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

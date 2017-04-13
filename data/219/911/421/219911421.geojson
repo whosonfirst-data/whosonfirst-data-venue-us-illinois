@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.281936,41.788329,-88.281936,41.788329",
     "geom:latitude":41.788329,
     "geom:longitude":-88.281936,
@@ -35,8 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
         85633793,
-        85688697
+        85940221,
+        102086925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +51,17 @@
     "wof:geomhash":"2a756872d6bfa691a77ab6eaf5e30353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
             "region_id":85688697,
             "venue_id":219911421
         }
     ],
     "wof:id":219911421,
-    "wof:lastmodified":1472621601,
+    "wof:lastmodified":1492089923,
     "wof:name":"Old Scond Bncorp Inc Aurora IL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

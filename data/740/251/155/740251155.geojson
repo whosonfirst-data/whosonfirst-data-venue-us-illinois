@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.077265,41.983031,-88.077265,41.983031",
     "geom:latitude":41.983031,
     "geom:longitude":-88.077265,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"vidaroselle.com/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vIsUn2tYSpsoK6wqtNvvi_41.983031_-88.077265@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952971,
     "wof:geomhash":"7276b59cce2db896a570cab3322d15e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740251155
+        }
+    ],
     "wof:id":740251155,
-    "wof:lastmodified":1472621959,
+    "wof:lastmodified":1492093354,
     "wof:name":"Vida Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

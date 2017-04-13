@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.825302,41.806,-87.825302,41.806",
     "geom:latitude":41.806,
     "geom:longitude":-87.825302,
@@ -28,7 +29,14 @@
     "sg:postcode":"60534",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940795,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZBZxaOpsMWXojshA7x0gL_41.806000_-87.825302@1303262861"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954655,
     "wof:geomhash":"d197d2733c666a04abc88c782fc35b2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940795,
+            "region_id":85688697,
+            "venue_id":756060727
+        }
+    ],
     "wof:id":756060727,
-    "wof:lastmodified":1472621349,
+    "wof:lastmodified":1492102036,
     "wof:name":"Bob & John's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

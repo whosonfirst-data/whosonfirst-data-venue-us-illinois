@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.076932,41.611073,-88.076932,41.611073",
     "geom:latitude":41.611073,
     "geom:longitude":-88.076932,
@@ -36,11 +37,13 @@
     "sg:website":"www.walcotool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"e2e99ae85d5f3d13a5d3d3607f1c8b74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":236372145
         }
     ],
     "wof:id":236372145,
-    "wof:lastmodified":1472621585,
+    "wof:lastmodified":1492093127,
     "wof:name":"Walco Tool & Engineering Corp",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.987273,41.903233,-87.987273,41.903233",
     "geom:latitude":41.903233,
     "geom:longitude":-87.987273,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85849367,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85849367
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"66212e0bd96c9383aba803eac112f51c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85849367,
             "region_id":85688697,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":236476787,
-    "wof:lastmodified":1472621689,
+    "wof:lastmodified":1492098744,
     "wof:name":"Comm World Of Chicago West",
     "wof:parent_id":85849367,
     "wof:placetype":"venue",

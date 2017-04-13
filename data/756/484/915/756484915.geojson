@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.771453,41.557323,-87.771453,41.557323",
     "geom:latitude":41.557323,
     "geom:longitude":-87.771453,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.panduit.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497643,
+        85633793,
+        85940515,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ibQgFKBP0l45U5i9iIrMy_41.557323_-87.771453@1308186497"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461964380,
     "wof:geomhash":"f77c3b8ed9fbe0cf36c1fadf4e537371",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "region_id":85688697,
+            "venue_id":756484915
+        }
+    ],
     "wof:id":756484915,
-    "wof:lastmodified":1472622256,
+    "wof:lastmodified":1492105114,
     "wof:name":"Panduit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

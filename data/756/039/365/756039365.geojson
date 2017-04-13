@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835892,41.734522,-87.835892,41.734522",
     "geom:latitude":41.734522,
     "geom:longitude":-87.835892,
@@ -39,7 +40,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l9zn0VyVN3vDh5gvO2dcu_41.734522_-87.835892@1303262858"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954218,
     "wof:geomhash":"357561205a5a3427e394abe1af4b4804",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039365
+        }
+    ],
     "wof:id":756039365,
-    "wof:lastmodified":1472621011,
+    "wof:lastmodified":1492101711,
     "wof:name":"D A Fencing And Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

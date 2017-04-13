@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.513199,41.9823,-88.513199,41.9823",
     "geom:latitude":41.9823,
     "geom:longitude":-88.513199,
@@ -28,7 +29,13 @@
     "sg:postcode":"60151",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496539,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v4EjWGq8oAlN3EzLZKgPr_41.982300_-88.513199@1303262849"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461952775,
     "wof:geomhash":"c40c3135f48ef53a7059d8ce9c193af5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404496539,
+            "region_id":85688697,
+            "venue_id":740241597
+        }
+    ],
     "wof:id":740241597,
-    "wof:lastmodified":1472621958,
+    "wof:lastmodified":1492088139,
     "wof:name":"Ron Clesens Ornamental Plants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

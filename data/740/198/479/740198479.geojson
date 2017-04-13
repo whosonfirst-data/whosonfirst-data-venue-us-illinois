@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062034,42.152589,-88.062034,42.152589",
     "geom:latitude":42.152589,
     "geom:longitude":-88.062034,
@@ -37,7 +38,14 @@
         "churches-pentecostal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498459,
+        85633793,
+        85938411,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YSAshRiJR1YOIvMwtwt5o_42.152589_-88.062034@1303262844"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461951817,
     "wof:geomhash":"ec7da0a9d38e5631d2de2c43c6b7f10b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938411,
+            "region_id":85688697,
+            "venue_id":740198479
+        }
+    ],
     "wof:id":740198479,
-    "wof:lastmodified":1472621874,
+    "wof:lastmodified":1492091420,
     "wof:name":"Iglesia Pentecostal Cristiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

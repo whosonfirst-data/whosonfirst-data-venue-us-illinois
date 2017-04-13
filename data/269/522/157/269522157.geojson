@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.48076,42.187991,-88.48076,42.187991",
     "geom:latitude":42.187991,
     "geom:longitude":-88.48076,
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420519191,
+        102191575,
+        404496541,
         85633793,
+        85939735,
+        102086925,
         85688697
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"9c0ecd82595b05ea8ecbbcf8fea84bc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404496541,
+            "locality_id":85939735,
+            "neighbourhood_id":420519191,
             "region_id":85688697,
             "venue_id":269522157
         }
     ],
     "wof:id":269522157,
-    "wof:lastmodified":1472620840,
+    "wof:lastmodified":1492091931,
     "wof:name":"John Degner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

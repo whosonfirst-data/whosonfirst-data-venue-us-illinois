@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.195033,41.862918,-88.195033,41.862918",
     "geom:latitude":41.862918,
     "geom:longitude":-88.195033,
@@ -33,7 +34,10 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75padSsrRd4lx2m4NvS1LS_41.862918_-88.195033@1303262851"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461953038,
     "wof:geomhash":"b32b138990a89a54bf6daef665bb6b0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740254309
+        }
+    ],
     "wof:id":740254309,
-    "wof:lastmodified":1472621968,
+    "wof:lastmodified":1492089804,
     "wof:name":"Mr A's Galleria Liquor",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.876297,41.774899,-87.876297,41.774899",
     "geom:latitude":41.774899,
     "geom:longitude":-87.876297,
@@ -31,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jd6FesWF8rkpNVPCTY4wk_41.774899_-87.876297@1303262860"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954611,
     "wof:geomhash":"2717e8cb09e6bcdb06cc1a8dde7c72cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756058265
+        }
+    ],
     "wof:id":756058265,
-    "wof:lastmodified":1472621266,
+    "wof:lastmodified":1492089939,
     "wof:name":"Countryside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

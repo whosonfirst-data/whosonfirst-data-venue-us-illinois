@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.018531,42.406934,-88.018531,42.406934",
     "geom:latitude":42.406934,
     "geom:longitude":-88.018531,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85834325,
+        102191575,
+        404498361,
         85633793,
+        85938337,
         102086215,
-        85834325
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"7169cde288a86e07c410880d2a196378",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498361,
+            "locality_id":85938337,
             "neighbourhood_id":85834325,
             "region_id":85688697,
             "venue_id":220120501
         }
     ],
     "wof:id":220120501,
-    "wof:lastmodified":1472620949,
+    "wof:lastmodified":1492092175,
     "wof:name":"Bachinger & Sons Inc",
     "wof:parent_id":85834325,
     "wof:placetype":"venue",

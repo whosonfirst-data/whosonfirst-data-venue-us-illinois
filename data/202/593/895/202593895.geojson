@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880353,42.209028,-87.880353,42.209028",
     "geom:latitude":42.209028,
     "geom:longitude":-87.880353,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867883,
+        102191575,
+        404498369,
         85633793,
         85938355,
         102086215,
-        85867883
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"db07cba4c848868d0ca213a84bb1e87f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938355,
             "neighbourhood_id":85867883,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202593895,
-    "wof:lastmodified":1472621141,
+    "wof:lastmodified":1492089088,
     "wof:name":"Zorro RE Appraiser & Conslt",
     "wof:parent_id":85867883,
     "wof:placetype":"venue",

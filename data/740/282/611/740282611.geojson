@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.645033,41.445385,-87.645033,41.445385",
     "geom:latitude":41.445385,
     "geom:longitude":-87.645033,
@@ -43,7 +44,14 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NjWaEx4a2MGTn3Os9sPk9_41.445385_-87.645033@1303262854"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461953623,
     "wof:geomhash":"9a0f5345787bd2b04a26444472137a1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":740282611
+        }
+    ],
     "wof:id":740282611,
-    "wof:lastmodified":1472622036,
+    "wof:lastmodified":1492089760,
     "wof:name":"Shadetree Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

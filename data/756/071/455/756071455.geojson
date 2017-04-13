@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.202015,41.72029,-88.202015,41.72029",
     "geom:latitude":41.72029,
     "geom:longitude":-88.202015,
@@ -31,7 +32,14 @@
         "actuary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497655,
+        85633793,
+        85940205,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sAaeBF71a7PaYvy6KtTFo_41.720290_-88.202015@1303262862"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954891,
     "wof:geomhash":"9eac85710789ced7f2f6be8d5cc53236",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "region_id":85688697,
+            "venue_id":756071455
+        }
+    ],
     "wof:id":756071455,
-    "wof:lastmodified":1472621383,
+    "wof:lastmodified":1492093466,
     "wof:name":"Steimla & Associates, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

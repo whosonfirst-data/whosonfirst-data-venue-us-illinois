@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.835696,41.888995,-87.835696,41.888995",
     "geom:latitude":41.888995,
     "geom:longitude":-87.835696,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890841,
+        102191575,
+        404497583,
         85633793,
-        85940787,
+        85940729,
         102084317,
-        85890841
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"d41c3d3e003bbffd489dcfe42d8ecb3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940787,
+            "localadmin_id":404497583,
+            "locality_id":85940729,
             "neighbourhood_id":85890841,
             "region_id":85688697,
             "venue_id":202636337
         }
     ],
     "wof:id":202636337,
-    "wof:lastmodified":1472621163,
+    "wof:lastmodified":1492100765,
     "wof:name":"Wigits Truck Center",
     "wof:parent_id":85890841,
     "wof:placetype":"venue",

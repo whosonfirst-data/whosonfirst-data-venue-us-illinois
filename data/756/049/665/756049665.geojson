@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.242867,41.788269,-88.242867,41.788269",
     "geom:latitude":41.788269,
     "geom:longitude":-88.242867,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879083,
+        102191575,
+        404497655,
         85633793,
-        85940221,
+        85940205,
         102081257,
-        85879083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +51,18 @@
     "wof:geomhash":"2bdf4a664a233ae5356c8080eccdd6f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940221,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
             "neighbourhood_id":85879083,
             "region_id":85688697,
             "venue_id":756049665
         }
     ],
     "wof:id":756049665,
-    "wof:lastmodified":1472621171,
+    "wof:lastmodified":1492111584,
     "wof:name":"Indian Seamless Inc",
     "wof:parent_id":85879083,
     "wof:placetype":"venue",

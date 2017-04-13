@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.609971,41.314598,-88.609971,41.314598",
     "geom:latitude":41.314598,
     "geom:longitude":-88.609971,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.caseys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498495,
+        85633793,
+        85938281,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mpe8RZRaRp6X2f6AFrBr2_41.314598_-88.609971@1303262913"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461963471,
     "wof:geomhash":"e1b88040726ec0348e28c7c24312c4bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498495,
+            "locality_id":85938281,
+            "region_id":85688697,
+            "venue_id":756448865
+        }
+    ],
     "wof:id":756448865,
-    "wof:lastmodified":1472622225,
+    "wof:lastmodified":1492092043,
     "wof:name":"Casey's General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

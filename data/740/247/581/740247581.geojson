@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.898838,41.846354,-87.898838,41.846354",
     "geom:latitude":41.846354,
     "geom:longitude":-87.898838,
@@ -39,7 +40,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940823,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a4PuNvq9xOhp3YB0qj5ul_41.846354_-87.898838@1303262850"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461952900,
     "wof:geomhash":"d98d29e10381211ee52b734c4cb24d9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940823,
+            "region_id":85688697,
+            "venue_id":740247581
+        }
+    ],
     "wof:id":740247581,
-    "wof:lastmodified":1472621971,
+    "wof:lastmodified":1492093343,
     "wof:name":"Cobra Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

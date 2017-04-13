@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.815243,42.205119,-87.815243,42.205119",
     "geom:latitude":42.205119,
     "geom:longitude":-87.815243,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825293,
+        102191575,
+        404498365,
         85633793,
         85938371,
         102086215,
-        85825293
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"081febc402c619eced54cf656146d1fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498365,
             "locality_id":85938371,
             "neighbourhood_id":85825293,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":303163005,
-    "wof:lastmodified":1472620970,
+    "wof:lastmodified":1492089956,
     "wof:name":"B C Heating & Cooling",
     "wof:parent_id":85825293,
     "wof:placetype":"venue",

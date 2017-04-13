@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.341316,41.789215,-88.341316,41.789215",
     "geom:latitude":41.789215,
     "geom:longitude":-88.341316,
@@ -41,11 +42,13 @@
     "sg:website":"www.thelabelprinters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85818385,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85818385
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"5e12ff919e665cb5c9df717641051b9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85818385,
             "region_id":85688697,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":253066647,
-    "wof:lastmodified":1472620892,
+    "wof:lastmodified":1492088884,
     "wof:name":"Label Printers LP",
     "wof:parent_id":85818385,
     "wof:placetype":"venue",

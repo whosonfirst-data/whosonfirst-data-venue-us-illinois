@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.473051,41.443713,-88.473051,41.443713",
     "geom:latitude":41.443713,
     "geom:longitude":-88.473051,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +55,10 @@
     "wof:geomhash":"5618fbee614b8af717002ec09e8e5bf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":756031109,
-    "wof:lastmodified":1472620830,
+    "wof:lastmodified":1492104372,
     "wof:name":"Dave Steffes",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

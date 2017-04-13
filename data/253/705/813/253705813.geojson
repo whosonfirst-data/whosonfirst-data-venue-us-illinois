@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839998,41.877109,-87.839998,41.877109",
     "geom:latitude":41.877109,
     "geom:longitude":-87.839998,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890847,
+        102191575,
+        404497579,
         85633793,
-        85940849,
+        85940787,
         102084317,
-        85890847
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b56b0ad62314fb4ee4dc6f4289342c1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497579,
+            "locality_id":85940787,
             "neighbourhood_id":85890847,
             "region_id":85688697,
             "venue_id":253705813
         }
     ],
     "wof:id":253705813,
-    "wof:lastmodified":1472621649,
+    "wof:lastmodified":1492100161,
     "wof:name":"Salem Tabernacle Church Inc",
     "wof:parent_id":85890847,
     "wof:placetype":"venue",

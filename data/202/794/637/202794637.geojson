@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.863175,41.124186,-87.863175,41.124186",
     "geom:latitude":41.124186,
     "geom:longitude":-87.863175,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890815,
+        102191575,
+        404498377,
         85633793,
         85939977,
-        102081259
+        102081259,
+        85688697
     ],
     "wof:brand_id":420574591,
     "wof:breaches":[],
@@ -43,19 +47,20 @@
     "wof:geomhash":"15493361e08f9cb688cd828acab25118",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498377,
             "locality_id":85939977,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890815,
             "region_id":85688697,
             "venue_id":202794637
         }
     ],
     "wof:id":202794637,
-    "wof:lastmodified":1472621255,
+    "wof:lastmodified":1492092316,
     "wof:name":"Northwestern Mutual Financial",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

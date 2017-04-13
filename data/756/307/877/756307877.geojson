@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.55542,41.631748,-87.55542,41.631748",
     "geom:latitude":41.631748,
     "geom:longitude":-87.55542,
@@ -35,7 +36,14 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940889,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BfhiUAEUuqSnOExE5UFCS_41.631748_-87.555420@1303262893"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1461960254,
     "wof:geomhash":"de658fe855aae20e99da7954ca940670",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940889,
+            "region_id":85688697,
+            "venue_id":756307877
+        }
+    ],
     "wof:id":756307877,
-    "wof:lastmodified":1472622098,
+    "wof:lastmodified":1492088395,
     "wof:name":"Real Local Pages - Nursing & Convalescent Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

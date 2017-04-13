@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.192902,41.861401,-88.192902,41.861401",
     "geom:latitude":41.861401,
     "geom:longitude":-88.192902,
@@ -28,7 +29,10 @@
     "sg:postcode":"60185",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TkoS8sSZmUWLj8u8Fzi3T_41.861401_-88.192902@1303262851"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953032,
     "wof:geomhash":"aa7c939e259a2827d9f5667803d8e2f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740253945
+        }
+    ],
     "wof:id":740253945,
-    "wof:lastmodified":1472621988,
+    "wof:lastmodified":1492091498,
     "wof:name":"Cortez Bakery",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.254501,42.046398,-88.254501,42.046398",
     "geom:latitude":42.046398,
     "geom:longitude":-88.254501,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.aipdocs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498225,
+        85633793,
+        85939801,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XwEzHZUhvcSz5QOZ5rgFs_42.046398_-88.254501@1303262847"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952397,
     "wof:geomhash":"88ac015c4ff7b30bbc39ea62ec283def",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
+            "region_id":85688697,
+            "venue_id":740224911
+        }
+    ],
     "wof:id":740224911,
-    "wof:lastmodified":1472621939,
+    "wof:lastmodified":1492102369,
     "wof:name":"Clingan Beth DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

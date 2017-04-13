@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860405,42.247099,-87.860405,42.247099",
     "geom:latitude":42.247099,
     "geom:longitude":-87.860405,
@@ -34,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85848877,
+        102191575,
+        404498369,
         85633793,
-        85938355,
-        102086215
+        85938357,
+        102086215,
+        85688697,
+        420519101,
+        404499869,
+        85938355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +54,30 @@
     "wof:geomhash":"ea33412730df2a762e1721bf479e2507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
+            "locality_id":85938357,
+            "neighbourhood_id":85848877,
+            "region_id":85688697,
+            "venue_id":203224429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519101,
             "region_id":85688697,
             "venue_id":203224429
         }
     ],
     "wof:id":203224429,
-    "wof:lastmodified":1472621125,
+    "wof:lastmodified":1492088728,
     "wof:name":"Deer Path Golf Course",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

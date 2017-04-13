@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.8302,41.667999,-87.8302,41.667999",
     "geom:latitude":41.667999,
     "geom:longitude":-87.8302,
@@ -43,7 +44,14 @@
     ],
     "sg:website":"www.palosdaycare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940745,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sthIsFAx0giYuBE6mRm7P_41.667999_-87.830200@1303262859"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461954296,
     "wof:geomhash":"12dc38867ceeebbacb955b5a39dc7a64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940745,
+            "region_id":85688697,
+            "venue_id":756043441
+        }
+    ],
     "wof:id":756043441,
-    "wof:lastmodified":1472621156,
+    "wof:lastmodified":1492090062,
     "wof:name":"Palos Park Episcopal Daycare & Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

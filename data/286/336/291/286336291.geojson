@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.853055,42.369416,-87.853055,42.369416",
     "geom:latitude":42.369416,
     "geom:longitude":-87.853055,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"18cc9d205696d089c54c4468f90f5546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":286336291
         }
     ],
     "wof:id":286336291,
-    "wof:lastmodified":1472620975,
+    "wof:lastmodified":1492098200,
     "wof:name":"Dos Palos Embroidery",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

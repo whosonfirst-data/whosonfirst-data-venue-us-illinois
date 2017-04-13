@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028041,42.210677,-88.028041,42.210677",
     "geom:latitude":42.210677,
     "geom:longitude":-88.028041,
@@ -39,11 +40,13 @@
     "sg:website":"www.neotoy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867887,
+        102191575,
+        404498459,
         85633793,
         85938335,
         102086215,
-        85867887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"492fd17d7ef1c347d86e226d21ec10fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938335,
             "neighbourhood_id":85867887,
             "region_id":85688697,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":253743047,
-    "wof:lastmodified":1472621625,
+    "wof:lastmodified":1492090187,
     "wof:name":"Neotoy",
     "wof:parent_id":85867887,
     "wof:placetype":"venue",

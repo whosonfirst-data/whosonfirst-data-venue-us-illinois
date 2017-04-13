@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.826239,42.131225,-87.826239,42.131225",
     "geom:latitude":42.131225,
     "geom:longitude":-87.826239,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867759,
+        102191575,
+        404497637,
         85633793,
         85940769,
         102084317,
-        85867759
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"9cb36ac3df0a8a22bb46c42182bc03ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497637,
             "locality_id":85940769,
             "neighbourhood_id":85867759,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269920731,
-    "wof:lastmodified":1472621442,
+    "wof:lastmodified":1492103815,
     "wof:name":"Kenneth G Busch MD",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",

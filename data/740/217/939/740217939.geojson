@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.115236,41.952678,-88.115236,41.952678",
     "geom:latitude":41.952678,
     "geom:longitude":-88.115236,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"www.vanityshops.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63SrhAJGR6Uk5vuxoE8WEh_41.952678_-88.115236@1303262846"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952252,
     "wof:geomhash":"1e7aa7f02d6d7f237f3e8bcb5c38548d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217939
+        }
+    ],
     "wof:id":740217939,
-    "wof:lastmodified":1472621935,
+    "wof:lastmodified":1492089635,
     "wof:name":"Vanity Shops of Grand Forks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

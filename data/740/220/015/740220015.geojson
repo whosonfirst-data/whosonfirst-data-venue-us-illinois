@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.286466,42.106119,-88.286466,42.106119",
     "geom:latitude":42.106119,
     "geom:longitude":-88.286466,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.mollymaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498221,
+        85633793,
+        85939769,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0midq5IzOOfIJdBnhj1ksb_42.106119_-88.286466@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952292,
     "wof:geomhash":"1eeb7e461c0908f642687cc76ac75495",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498221,
+            "locality_id":85939769,
+            "region_id":85688697,
+            "venue_id":740220015
+        }
+    ],
     "wof:id":740220015,
-    "wof:lastmodified":1472621906,
+    "wof:lastmodified":1492102394,
     "wof:name":"Molly Maid of Crystal Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

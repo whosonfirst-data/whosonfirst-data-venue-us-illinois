@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104717,41.808521,-88.104717,41.808521",
     "geom:latitude":41.808521,
     "geom:longitude":-88.104717,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879091,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85879091
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e1925859f79ac736d34bfa8ecd652877",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85879091,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":303107993,
-    "wof:lastmodified":1472620932,
+    "wof:lastmodified":1492091405,
     "wof:name":"EMNS Inc",
     "wof:parent_id":85879091,
     "wof:placetype":"venue",

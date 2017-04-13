@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.872768,42.089445,-87.872768,42.089445",
     "geom:latitude":42.089445,
     "geom:longitude":-87.872768,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838279,
+        102191575,
+        404497663,
         85633793,
-        85940839,
         102084317,
-        85838279
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"e00f0719a22ca89b60b8fbe2ee3537b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940839,
+            "localadmin_id":404497663,
             "neighbourhood_id":85838279,
             "region_id":85688697,
             "venue_id":203207491
         }
     ],
     "wof:id":203207491,
-    "wof:lastmodified":1472621127,
+    "wof:lastmodified":1492088959,
     "wof:name":"Hair Establishment",
     "wof:parent_id":85838279,
     "wof:placetype":"venue",

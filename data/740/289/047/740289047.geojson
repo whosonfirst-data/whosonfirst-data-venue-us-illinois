@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68965,41.557178,-87.68965,41.557178",
     "geom:latitude":41.557178,
     "geom:longitude":-87.68965,
@@ -48,7 +49,15 @@
     ],
     "sg:website":"http://www.fixit-1st.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518827,
+        102191575,
+        404497613,
+        85633793,
+        85940875,
+        102084317,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GszEQ2zb98JOElx9PQDC8_41.557178_-87.689650@1303262855"
@@ -56,9 +65,20 @@
     "wof:country":"US",
     "wof:created":1461953757,
     "wof:geomhash":"a449c2f51f070eea491ff7d45af7f07b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497613,
+            "locality_id":85940875,
+            "neighbourhood_id":420518827,
+            "region_id":85688697,
+            "venue_id":740289047
+        }
+    ],
     "wof:id":740289047,
-    "wof:lastmodified":1472622001,
+    "wof:lastmodified":1492089446,
     "wof:name":"Fix It 1st",
     "wof:parent_id":420518827,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.11075,41.939417,-88.11075,41.939417",
     "geom:latitude":41.939417,
     "geom:longitude":-88.11075,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SVqPyW4vrldgb2y02NHjJ_41.939417_-88.110750@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952243,
     "wof:geomhash":"04fb1d1d9823a031e726057240187681",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217503
+        }
+    ],
     "wof:id":740217503,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492104204,
     "wof:name":"Carlson Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

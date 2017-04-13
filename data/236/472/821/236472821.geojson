@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.742229,41.595935,-87.742229,41.595935",
     "geom:latitude":41.595935,
     "geom:longitude":-87.742229,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890863,
+        102191575,
+        404497613,
         85633793,
         85940761,
         102084317,
-        85890863
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f9a576e2b4fe09a63a122ddfe8fcfb3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497613,
             "locality_id":85940761,
             "neighbourhood_id":85890863,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236472821,
-    "wof:lastmodified":1472621688,
+    "wof:lastmodified":1492093124,
     "wof:name":"Sail4lesscom",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",

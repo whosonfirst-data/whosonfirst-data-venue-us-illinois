@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.23158,41.521124,-88.23158,41.521124",
     "geom:latitude":41.521124,
     "geom:longitude":-88.23158,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85809821,
+        102191575,
+        404499223,
         85633793,
+        85940583,
         102080845,
-        85809821
+        85688697
     ],
     "wof:brand_id":420575821,
     "wof:breaches":[],
@@ -47,17 +51,18 @@
     "wof:geomhash":"bb49f10e6dfac481fd8a8d056bd5a88c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
             "neighbourhood_id":85809821,
             "region_id":85688697,
             "venue_id":286441631
         }
     ],
     "wof:id":286441631,
-    "wof:lastmodified":1472621248,
+    "wof:lastmodified":1492095748,
     "wof:name":"Centex Homes",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",

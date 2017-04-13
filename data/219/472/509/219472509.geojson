@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.87176,42.250156,-87.87176,42.250156",
     "geom:latitude":42.250156,
     "geom:longitude":-87.87176,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519101,
+        102191575,
+        404499869,
         85633793,
         85938355,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"3671888007467db389ed9b9a2f2e538e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519101,
             "region_id":85688697,
             "venue_id":219472509
         }
     ],
     "wof:id":219472509,
-    "wof:lastmodified":1472621383,
+    "wof:lastmodified":1492100797,
     "wof:name":"Maroon Bells Capital",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919265,41.680213,-87.919265,41.680213",
     "geom:latitude":41.680213,
     "geom:longitude":-87.919265,
@@ -28,7 +29,13 @@
     "sg:postcode":"60439",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xn1P0lgT9Bs7LBqdePq8E_41.680213_-87.919265@1303262856"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461953880,
     "wof:geomhash":"b63685727c39fb2492f6e67aaec86d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "region_id":85688697,
+            "venue_id":756023639
+        }
+    ],
     "wof:id":756023639,
-    "wof:lastmodified":1472620782,
+    "wof:lastmodified":1492107324,
     "wof:name":"Kopping Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

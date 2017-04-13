@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.923821,42.303808,-87.923821,42.303808",
     "geom:latitude":42.303808,
     "geom:longitude":-87.923821,
@@ -31,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m93zLjuEcnWFPhnffNTtg_42.303808_-87.923821@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951649,
     "wof:geomhash":"252660e661199d5cacba1cbbccd61c82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190043
+        }
+    ],
     "wof:id":740190043,
-    "wof:lastmodified":1472621853,
+    "wof:lastmodified":1492090894,
     "wof:name":"Krafft Sdrug Store Inc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

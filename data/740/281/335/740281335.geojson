@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.55829,41.516896,-87.55829,41.516896",
     "geom:latitude":41.516896,
     "geom:longitude":-87.55829,
@@ -38,7 +39,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940797,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Oevgsbg9Yqu9jPk6RV7YN_41.516896_-87.558290@1303262854"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953596,
     "wof:geomhash":"c1d4223e993b7fb36686074e8b967030",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940797,
+            "region_id":85688697,
+            "venue_id":740281335
+        }
+    ],
     "wof:id":740281335,
-    "wof:lastmodified":1472622018,
+    "wof:lastmodified":1492105126,
     "wof:name":"County Cement Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

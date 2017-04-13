@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.97579,42.074557,-87.97579,42.074557",
     "geom:latitude":42.074557,
     "geom:longitude":-87.97579,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"0313cc0afbafbe775cccdfe9b0bfc30a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286381637,
-    "wof:lastmodified":1472621071,
+    "wof:lastmodified":1492090833,
     "wof:name":"E P A C O",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

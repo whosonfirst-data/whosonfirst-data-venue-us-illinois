@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.960269,41.785393,-87.960269,41.785393",
     "geom:latitude":41.785393,
     "geom:longitude":-87.960269,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420519017,
+        102191575,
+        404497649,
         85633793,
+        85940141,
+        102081257,
         85688697
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"6e0175f3e145cb47d26d87280bf5fed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":420519017,
             "region_id":85688697,
             "venue_id":286661941
         }
     ],
     "wof:id":286661941,
-    "wof:lastmodified":1472621565,
+    "wof:lastmodified":1492096184,
     "wof:name":"GPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

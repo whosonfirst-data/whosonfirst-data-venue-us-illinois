@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.76469,41.602832,-87.76469,41.602832",
     "geom:latitude":41.602832,
     "geom:longitude":-87.76469,
@@ -35,11 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,17 @@
     "wof:geomhash":"b1b9b55c78c7081428d6473157b71ff8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":286629395
         }
     ],
     "wof:id":286629395,
-    "wof:lastmodified":1472621542,
+    "wof:lastmodified":1492096249,
     "wof:name":"Merlins Muffler & Brake",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

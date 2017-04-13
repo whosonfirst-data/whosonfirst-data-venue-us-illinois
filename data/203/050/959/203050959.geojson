@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.202999,41.884413,-88.202999,41.884413",
     "geom:latitude":41.884413,
     "geom:longitude":-88.202999,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890997,
+        102191575,
+        404497659,
         85633793,
         85940143,
         102081257,
-        85890997
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"95bd78f69203701b0150dbedddf149cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
             "neighbourhood_id":85890997,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203050959,
-    "wof:lastmodified":1472620852,
+    "wof:lastmodified":1492100957,
     "wof:name":"Rj Industries Inc",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",

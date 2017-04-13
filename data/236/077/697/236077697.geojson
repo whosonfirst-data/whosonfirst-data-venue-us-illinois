@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.340418,41.864945,-88.340418,41.864945",
     "geom:latitude":41.864945,
     "geom:longitude":-88.340418,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"b51fd9db30c45143f64f170aaaaf213e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":236077697
         }
     ],
     "wof:id":236077697,
-    "wof:lastmodified":1472620980,
+    "wof:lastmodified":1492091495,
     "wof:name":"Algonquin Commons",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

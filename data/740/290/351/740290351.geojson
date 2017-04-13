@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.018546,41.49035,-88.018546,41.49035",
     "geom:latitude":41.49035,
     "geom:longitude":-88.018546,
@@ -40,7 +41,10 @@
     ],
     "sg:website":"http://ontrackohd.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39OkWsbs9mw2gIIFBSp84J_41.490350_-88.018546@1303262855"
@@ -48,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1461953785,
     "wof:geomhash":"d46f7ab48dae7b88c482632bc770ae16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":740290351
+        }
+    ],
     "wof:id":740290351,
-    "wof:lastmodified":1472622012,
+    "wof:lastmodified":1492104738,
     "wof:name":"On Track Overhead Doors Inc.",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.1091,41.967201,-88.1091,41.967201",
     "geom:latitude":41.967201,
     "geom:longitude":-88.1091,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.cousinspizzapub.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HQ1MexwRieQPvq2U2fNub_41.967201_-88.109100@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952948,
     "wof:geomhash":"6144111e4580f65e5ef95b09c0a080ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249889
+        }
+    ],
     "wof:id":740249889,
-    "wof:lastmodified":1472621983,
+    "wof:lastmodified":1492099243,
     "wof:name":"Cousins Pizza Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

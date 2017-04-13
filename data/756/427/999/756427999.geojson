@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.732695,40.769922,-87.732695,40.769922",
     "geom:latitude":40.769922,
     "geom:longitude":-87.732695,
@@ -28,7 +29,14 @@
     "sg:postcode":"60970",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498197,
+        85633793,
+        85938439,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jq8J5jyHFKshA0QobsBrp_40.769922_-87.732695@1303262910"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461962965,
     "wof:geomhash":"0dd6b85ec2ef1234d1012a03988b635c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498197,
+            "locality_id":85938439,
+            "region_id":85688697,
+            "venue_id":756427999
+        }
+    ],
     "wof:id":756427999,
-    "wof:lastmodified":1472622211,
+    "wof:lastmodified":1492088795,
     "wof:name":"Country Charm Beauty Salo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

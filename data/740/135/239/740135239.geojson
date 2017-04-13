@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.255859,42.050208,-88.255859,42.050208",
     "geom:latitude":42.050208,
     "geom:longitude":-88.255859,
@@ -25,7 +26,14 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498225,
+        85633793,
+        85939801,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67KQSIsz1dhRDtOxWgiYik_42.050208_-88.255859@1294102059"
@@ -33,9 +41,19 @@
     "wof:country":"US",
     "wof:created":1461950460,
     "wof:geomhash":"edc03f91e25772c8cd6b0a047ff82a55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
+            "region_id":85688697,
+            "venue_id":740135239
+        }
+    ],
     "wof:id":740135239,
-    "wof:lastmodified":1472621512,
+    "wof:lastmodified":1492088559,
     "wof:name":"Chris Heinrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

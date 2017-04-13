@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839606,42.328876,-87.839606,42.328876",
     "geom:latitude":42.328876,
     "geom:longitude":-87.839606,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519107,
+        102191575,
+        404498369,
         85633793,
         85938325,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"099e67a8dc5cf98e66b2fecc86b2b8b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938325,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519107,
             "region_id":85688697,
             "venue_id":269934079
         }
     ],
     "wof:id":269934079,
-    "wof:lastmodified":1472621429,
+    "wof:lastmodified":1492090952,
     "wof:name":"McAllister Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

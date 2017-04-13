@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.314995,41.700839,-88.314995,41.700839",
     "geom:latitude":41.700839,
     "geom:longitude":-88.314995,
@@ -33,7 +34,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZDUWR0hzrRY5kU0Oad0Tt_41.700839_-88.314995@1299784598"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950945,
     "wof:geomhash":"8e5d77fdd1aadba1d077a5fd8b563a8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":740158791
+        }
+    ],
     "wof:id":740158791,
-    "wof:lastmodified":1472621800,
+    "wof:lastmodified":1492095454,
     "wof:name":"Culver's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

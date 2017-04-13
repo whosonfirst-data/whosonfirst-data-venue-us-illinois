@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.844829,42.382006,-87.844829,42.382006",
     "geom:latitude":42.382006,
     "geom:longitude":-87.844829,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
-        85633793,
         85890983,
-        102086215
+        102191575,
+        404498453,
+        85633793,
+        85938401,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"9e0c4a72cd793d1051033b5faa3f2ed1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":740118955
         }
     ],
     "wof:id":740118955,
-    "wof:lastmodified":1472621329,
+    "wof:lastmodified":1492109981,
     "wof:name":"Enterprise Virtual Recruiters",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

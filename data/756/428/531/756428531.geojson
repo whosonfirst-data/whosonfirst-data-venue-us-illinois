@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.783511,42.292461,-88.783511,42.292461",
     "geom:latitude":42.292461,
     "geom:longitude":-88.783511,
@@ -32,7 +33,13 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497213,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sem4XDpY94mZb4Y04O9m2_42.292461_-88.783511@1303262910"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461962975,
     "wof:geomhash":"6cfdb382d9d94f883c877e84d1bef0e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497213,
+            "region_id":85688697,
+            "venue_id":756428531
+        }
+    ],
     "wof:id":756428531,
-    "wof:lastmodified":1472622207,
+    "wof:lastmodified":1492088117,
     "wof:name":"Cindy Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

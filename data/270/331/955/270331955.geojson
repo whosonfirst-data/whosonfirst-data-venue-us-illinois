@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.651351,41.665104,-87.651351,41.665104",
     "geom:latitude":41.665104,
     "geom:longitude":-87.651351,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497615,
         85633793,
         85940885,
-        102084317,
-        85856203
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"cdf17576bc36b238b1a969300ebbb3c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497615,
             "locality_id":85940885,
-            "neighbourhood_id":85856203,
             "region_id":85688697,
             "venue_id":270331955
         }
     ],
     "wof:id":270331955,
-    "wof:lastmodified":1472621416,
+    "wof:lastmodified":1492095671,
     "wof:name":"K & R Home Improvement Inc",
-    "wof:parent_id":85856203,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

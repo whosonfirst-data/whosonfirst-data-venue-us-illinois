@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.903853,42.429963,-87.903853,42.429963",
     "geom:latitude":42.429963,
     "geom:longitude":-87.903853,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"d0bb41b1a74f6d88eebcb75dc91efde1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":253730829
         }
     ],
     "wof:id":253730829,
-    "wof:lastmodified":1472621654,
+    "wof:lastmodified":1492089099,
     "wof:name":"Libertyville Martial Arts",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

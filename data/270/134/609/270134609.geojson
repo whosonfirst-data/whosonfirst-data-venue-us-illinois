@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.967433,42.029214,-87.967433,42.029214",
     "geom:latitude":42.029214,
     "geom:longitude":-87.967433,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890725,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890725
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"1dfe264992122b9ecb0a6530a4b66385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890725,
             "region_id":85688697,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":270134609,
-    "wof:lastmodified":1472621099,
+    "wof:lastmodified":1492109303,
     "wof:name":"Happ Controls Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.299922,41.89828,-88.299922,41.89828",
     "geom:latitude":41.89828,
     "geom:longitude":-88.299922,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420559817,
+        102191575,
+        404498227,
         85633793,
-        85688697
+        85939739,
+        102086925,
+        85688697,
+        85890903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,30 @@
     "wof:geomhash":"3a30e2ea34331b55afb8dd8b7a493db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
+            "neighbourhood_id":420559817,
+            "region_id":85688697,
+            "venue_id":219413321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
+            "neighbourhood_id":85890903,
             "region_id":85688697,
             "venue_id":219413321
         }
     ],
     "wof:id":219413321,
-    "wof:lastmodified":1472621312,
+    "wof:lastmodified":1492089602,
     "wof:name":"Magic Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.112497,40.939618,-88.112497,40.939618",
     "geom:latitude":40.939618,
     "geom:longitude":-88.112497,
@@ -28,7 +29,13 @@
     "sg:postcode":"60927",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498199,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PbWojGHZ5UOtIKiaZNcS9_40.939618_-88.112497@1303262910"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461962939,
     "wof:geomhash":"5abf8c5088be285a1ea6aa369bdb5b7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498199,
+            "region_id":85688697,
+            "venue_id":756426623
+        }
+    ],
     "wof:id":756426623,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492098256,
     "wof:name":"Kelch Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

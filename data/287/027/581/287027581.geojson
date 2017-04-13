@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.868796,42.22874,-87.868796,42.22874",
     "geom:latitude":42.22874,
     "geom:longitude":-87.868796,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85855787,
+        102191575,
+        404499869,
         85633793,
         85938355,
         102086215,
-        85855787
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"4be7ac3e44e9cb46bdbd5083f04b26cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
             "neighbourhood_id":85855787,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":287027581,
-    "wof:lastmodified":1472620820,
+    "wof:lastmodified":1492098164,
     "wof:name":"MTA Financial Svc Corp",
     "wof:parent_id":85855787,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.604266,41.311239,-88.604266,41.311239",
     "geom:latitude":41.311239,
     "geom:longitude":-88.604266,
@@ -31,7 +32,14 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498495,
+        85633793,
+        85938281,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RQwE4jg80wgVWrBdOWWbd_41.311239_-88.604266@1303262913"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461963471,
     "wof:geomhash":"2d2181f4ee7b9d43c07171bd49b42633",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498495,
+            "locality_id":85938281,
+            "region_id":85688697,
+            "venue_id":756448877
+        }
+    ],
     "wof:id":756448877,
-    "wof:lastmodified":1472622225,
+    "wof:lastmodified":1492092402,
     "wof:name":"Piano Instruction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

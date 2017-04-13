@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.142228,41.924532,-88.142228,41.924532",
     "geom:latitude":41.924532,
     "geom:longitude":-88.142228,
@@ -32,7 +33,14 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ea8hn0A6GXdSTZnjqmN9A_41.924532_-88.142228@1303262852"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953164,
     "wof:geomhash":"4598f9bf8dc8d0516908f37a6ce14434",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740260569
+        }
+    ],
     "wof:id":740260569,
-    "wof:lastmodified":1472621991,
+    "wof:lastmodified":1492110325,
     "wof:name":"Buyers Advocate Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

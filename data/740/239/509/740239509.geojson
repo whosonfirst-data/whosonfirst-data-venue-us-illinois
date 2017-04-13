@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.03974,41.980293,-88.03974,41.980293",
     "geom:latitude":41.980293,
     "geom:longitude":-88.03974,
@@ -54,7 +55,14 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940157,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mXu9E5yykcAo94uZwLxNh_41.980293_-88.039740@1303262849"
@@ -62,9 +70,19 @@
     "wof:country":"US",
     "wof:created":1461952732,
     "wof:geomhash":"c2d765469358e715b31dcb263025d56f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940157,
+            "region_id":85688697,
+            "venue_id":740239509
+        }
+    ],
     "wof:id":740239509,
-    "wof:lastmodified":1472621940,
+    "wof:lastmodified":1492093040,
     "wof:name":"Cp Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

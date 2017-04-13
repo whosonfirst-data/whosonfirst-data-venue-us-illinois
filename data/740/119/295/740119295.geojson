@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.837325,42.255138,-88.837325,42.255138",
     "geom:latitude":42.255138,
     "geom:longitude":-88.837325,
@@ -28,7 +29,14 @@
     "sg:postcode":"61008",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q4BS1zy0cKeNjT3AaeqRC_42.255050_-88.837552@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461950044,
     "wof:geomhash":"0c896097e2dd6e056abed4dcbbe96d56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":740119295
+        }
+    ],
     "wof:id":740119295,
-    "wof:lastmodified":1472621303,
+    "wof:lastmodified":1492088572,
     "wof:name":"Era",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

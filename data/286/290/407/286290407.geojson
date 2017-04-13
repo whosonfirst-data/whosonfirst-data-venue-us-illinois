@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.754356,41.613509,-87.754356,41.613509",
     "geom:latitude":41.613509,
     "geom:longitude":-87.754356,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"90ddd9309dccb475ffa5e1b76ab58c8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":286290407
         }
     ],
     "wof:id":286290407,
-    "wof:lastmodified":1472620812,
+    "wof:lastmodified":1492106698,
     "wof:name":"Secureone Inc",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

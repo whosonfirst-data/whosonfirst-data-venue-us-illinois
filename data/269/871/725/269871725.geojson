@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.08101,41.875342,-88.08101,41.875342",
     "geom:latitude":41.875342,
     "geom:longitude":-88.08101,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867835,
+        102191575,
+        404497653,
         85633793,
         85940159,
         102081257,
-        85867835
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"72db2c76e1cbb2e4660ba2826b41b564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940159,
             "neighbourhood_id":85867835,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269871725,
-    "wof:lastmodified":1472621384,
+    "wof:lastmodified":1492104414,
     "wof:name":"Repeat Boutique Center Inc",
     "wof:parent_id":85867835,
     "wof:placetype":"venue",

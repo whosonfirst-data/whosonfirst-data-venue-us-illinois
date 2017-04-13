@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.321347,41.771444,-88.321347,41.771444",
     "geom:latitude":41.771444,
     "geom:longitude":-88.321347,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876055,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876055
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2d8945cdc184a50451f3a59993014f5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287213645,
-    "wof:lastmodified":1472621195,
+    "wof:lastmodified":1492093092,
     "wof:name":"Willard's Cue Products Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",

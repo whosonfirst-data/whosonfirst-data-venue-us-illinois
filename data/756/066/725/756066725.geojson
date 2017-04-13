@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.650143,41.618176,-88.650143,41.618176",
     "geom:latitude":41.618176,
     "geom:longitude":-88.650143,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.tcpm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498503,
+        85633793,
+        85941205,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mz7XoIpxAxcrYmIPl6i6a_41.618176_-88.650143@1303262862"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954800,
     "wof:geomhash":"3cc6deae113721ea0e457d74263191ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498503,
+            "locality_id":85941205,
+            "region_id":85688697,
+            "venue_id":756066725
+        }
+    ],
     "wof:id":756066725,
-    "wof:lastmodified":1472621398,
+    "wof:lastmodified":1492093558,
     "wof:name":"Store All Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

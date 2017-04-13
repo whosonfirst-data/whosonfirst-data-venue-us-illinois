@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.19718,42.366266,-88.19718,42.366266",
     "geom:latitude":42.366266,
     "geom:longitude":-88.19718,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828395,
+        102191575,
+        404498449,
         85633793,
         85938397,
         102086215,
-        85828395
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1ee808d965294c918421a6ac23a17967",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498449,
             "locality_id":85938397,
             "neighbourhood_id":85828395,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269724561,
-    "wof:lastmodified":1472621291,
+    "wof:lastmodified":1492100963,
     "wof:name":"Tip Toes Nail Spa",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",

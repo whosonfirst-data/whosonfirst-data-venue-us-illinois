@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.763494,41.73421,-87.763494,41.73421",
     "geom:latitude":41.73421,
     "geom:longitude":-87.763494,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:brand_id":420573795,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"a6098fbea92ef81cb706ce4e7caa6e05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":202959097,
-    "wof:lastmodified":1472621315,
+    "wof:lastmodified":1492104394,
     "wof:name":"Farmers Insurance Group",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

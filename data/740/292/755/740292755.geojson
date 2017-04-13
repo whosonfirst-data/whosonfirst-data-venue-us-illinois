@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.578003,41.5616,-87.578003,41.5616",
     "geom:latitude":41.5616,
     "geom:longitude":-87.578003,
@@ -31,7 +32,13 @@
         "veggie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57QPs0UKSjJCyswqiKPN1Y_41.561600_-87.578003@1303262856"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461953833,
     "wof:geomhash":"736827e37e698ecc7ae7d5162b262c0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "region_id":85688697,
+            "venue_id":740292755
+        }
+    ],
     "wof:id":740292755,
-    "wof:lastmodified":1472622038,
+    "wof:lastmodified":1492105112,
     "wof:name":"De Jong Brothers Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

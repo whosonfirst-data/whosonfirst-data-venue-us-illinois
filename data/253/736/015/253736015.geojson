@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.689464,41.580852,-87.689464,41.580852",
     "geom:latitude":41.580852,
     "geom:longitude":-87.689464,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518703,
+        102191575,
+        404497613,
         85633793,
-        85940827,
-        102084317
+        85940789,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"81485f2c1250aa336851927cf12221a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497613,
+            "locality_id":85940789,
+            "neighbourhood_id":420518703,
             "region_id":85688697,
             "venue_id":253736015
         }
     ],
     "wof:id":253736015,
-    "wof:lastmodified":1472621625,
+    "wof:lastmodified":1492107901,
     "wof:name":"Mc Neal A M & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

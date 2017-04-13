@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.822899,42.252529,-88.822899,42.252529",
     "geom:latitude":42.252529,
     "geom:longitude":-88.822899,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.brspt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dtuDPyTSEEJICv9n6zwge_42.252529_-88.822899@1303262910"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461962971,
     "wof:geomhash":"ddbff40651e83c47a623ed553fefed75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":756428347
+        }
+    ],
     "wof:id":756428347,
-    "wof:lastmodified":1472622198,
+    "wof:lastmodified":1492108008,
     "wof:name":"Belvidere Rehab & Sports Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

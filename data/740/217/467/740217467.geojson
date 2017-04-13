@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.073511,41.957515,-88.073511,41.957515",
     "geom:latitude":41.957515,
     "geom:longitude":-88.073511,
@@ -23,7 +24,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.caputomarkets.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NLurlKPbgkNb0tTdUTNOi_41.957515_-88.073511@1303262846"
@@ -31,9 +39,19 @@
     "wof:country":"US",
     "wof:created":1461952242,
     "wof:geomhash":"ef28e6810df2ddc9a5bce3af63b0346a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217467
+        }
+    ],
     "wof:id":740217467,
-    "wof:lastmodified":1472621919,
+    "wof:lastmodified":1492092498,
     "wof:name":"Caputo's Fresh Markets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

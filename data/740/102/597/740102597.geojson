@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.621316,41.311017,-87.621316,41.311017",
     "geom:latitude":41.311017,
     "geom:longitude":-87.621316,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11ag54BJLT3a34oNoBex2q_41.311017_-87.621316@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949671,
     "wof:geomhash":"3e6b0577aefe88b4f8e8f5123b2b9657",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "region_id":85688697,
+            "venue_id":740102597
+        }
+    ],
     "wof:id":740102597,
-    "wof:lastmodified":1472620997,
+    "wof:lastmodified":1492092306,
     "wof:name":"Franklin Unruh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

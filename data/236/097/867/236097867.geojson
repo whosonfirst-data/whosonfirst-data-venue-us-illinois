@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.345254,41.752262,-88.345254,41.752262",
     "geom:latitude":41.752262,
     "geom:longitude":-88.345254,
@@ -30,11 +31,13 @@
     "sg:website":"www.westwaves.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"67850e57ae3e1e2474ab7f634fff21a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":236097867,
-    "wof:lastmodified":1472621064,
+    "wof:lastmodified":1492090719,
     "wof:name":"J D Satellite TV",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

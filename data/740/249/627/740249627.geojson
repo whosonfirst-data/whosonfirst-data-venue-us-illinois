@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.111603,41.9683,-88.111603,41.9683",
     "geom:latitude":41.9683,
     "geom:longitude":-88.111603,
@@ -28,7 +29,13 @@
     "sg:postcode":"60172",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oZv5GMueqSfdhegl55DRf_41.968300_-88.111603@1303262850"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461952944,
     "wof:geomhash":"9fc8f6f960482420a9eed8a75e62b663",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740249627
+        }
+    ],
     "wof:id":740249627,
-    "wof:lastmodified":1472621976,
+    "wof:lastmodified":1492099243,
     "wof:name":"Roselake Family Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

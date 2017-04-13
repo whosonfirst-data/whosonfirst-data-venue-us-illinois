@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.676312,42.032181,-87.676312,42.032181",
     "geom:latitude":42.032181,
     "geom:longitude":-87.676312,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890805,
+        102191575,
+        404497621,
         85633793,
+        85940857,
         102084317,
-        85890805
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"98a2e5a67ff13348f15d2043fd6c110f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "neighbourhood_id":85890805,
             "region_id":85688697,
             "venue_id":219961955
         }
     ],
     "wof:id":219961955,
-    "wof:lastmodified":1472621648,
+    "wof:lastmodified":1492106104,
     "wof:name":"Distinctive Journeys Intl Ltd",
     "wof:parent_id":85890805,
     "wof:placetype":"venue",

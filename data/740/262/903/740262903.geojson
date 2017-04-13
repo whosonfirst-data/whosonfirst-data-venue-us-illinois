@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158133,41.87142,-88.158133,41.87142",
     "geom:latitude":41.87142,
     "geom:longitude":-88.158133,
@@ -31,7 +32,10 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gVtD1mOnMIbjWORVWEVJa_41.871420_-88.158133@1303262852"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953213,
     "wof:geomhash":"3bd596bf361a540dd1d1331a12da5bb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740262903
+        }
+    ],
     "wof:id":740262903,
-    "wof:lastmodified":1472621997,
+    "wof:lastmodified":1492091333,
     "wof:name":"Kinn Robert",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.832149,42.147837,-87.832149,42.147837",
     "geom:latitude":42.147837,
     "geom:longitude":-87.832149,
@@ -41,7 +42,13 @@
         "steak"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cw6nBZADJhQZ3Zl7ccbLA_42.147837_-87.832149@1303262841"
@@ -49,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461951494,
     "wof:geomhash":"a81b4ef7dba999eff16fd779e666b012",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "region_id":85688697,
+            "venue_id":740182349
+        }
+    ],
     "wof:id":740182349,
-    "wof:lastmodified":1472621839,
+    "wof:lastmodified":1492089885,
     "wof:name":"George's Whats Cooking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

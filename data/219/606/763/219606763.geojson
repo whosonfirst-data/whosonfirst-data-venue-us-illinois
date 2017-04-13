@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.816988,41.695164,-87.816988,41.695164",
     "geom:latitude":41.695164,
     "geom:longitude":-87.816988,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890891,
+        102191575,
+        404496277,
         85633793,
-        85940745,
+        85940747,
         102084317,
-        85890891
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"7d6a071f0a6dc099d2fe90e78dacfa9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940745,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
             "neighbourhood_id":85890891,
             "region_id":85688697,
             "venue_id":219606763
         }
     ],
     "wof:id":219606763,
-    "wof:lastmodified":1472621511,
+    "wof:lastmodified":1492097775,
     "wof:name":"Mickeys Gyros",
     "wof:parent_id":85890891,
     "wof:placetype":"venue",

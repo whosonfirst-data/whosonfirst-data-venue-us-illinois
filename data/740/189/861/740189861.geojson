@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.963022,42.289896,-87.963022,42.289896",
     "geom:latitude":42.289896,
     "geom:longitude":-87.963022,
@@ -31,7 +32,10 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E3VqEZgnWYtdst3lHqF53_42.289896_-87.963022@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951646,
     "wof:geomhash":"0a88b55477c70608b9373bbba2042956",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740189861
+        }
+    ],
     "wof:id":740189861,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492105186,
     "wof:name":"Lakeside Cemetery",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

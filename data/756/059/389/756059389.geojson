@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.750379,41.587273,-88.750379,41.587273",
     "geom:latitude":41.587273,
     "geom:longitude":-88.750379,
@@ -58,7 +59,13 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496575,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hln2Mypkc1RBbmS8RKw46_41.587273_-88.750379@1303262861"
@@ -66,9 +73,18 @@
     "wof:country":"US",
     "wof:created":1461954631,
     "wof:geomhash":"83fba1fcd401014d72872fb81b193a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404496575,
+            "region_id":85688697,
+            "venue_id":756059389
+        }
+    ],
     "wof:id":756059389,
-    "wof:lastmodified":1472621278,
+    "wof:lastmodified":1492107905,
     "wof:name":"Country Pond Creative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

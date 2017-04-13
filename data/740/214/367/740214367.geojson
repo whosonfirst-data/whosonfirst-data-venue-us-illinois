@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.183829,41.994931,-88.183829,41.994931",
     "geom:latitude":41.994931,
     "geom:longitude":-88.183829,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.village.bartlett.il.us/schools.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u5xgEiwVgMYbEj2fHqQcu_41.994931_-88.183829@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952177,
     "wof:geomhash":"672fd7c7f13b9734050acb7323a76b22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740214367
+        }
+    ],
     "wof:id":740214367,
-    "wof:lastmodified":1472621920,
+    "wof:lastmodified":1492097855,
     "wof:name":"Bartlett Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

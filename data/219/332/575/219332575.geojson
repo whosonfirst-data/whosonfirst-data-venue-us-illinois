@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.24614,41.447377,-88.24614,41.447377",
     "geom:latitude":41.447377,
     "geom:longitude":-88.24614,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85809821,
+        102191575,
+        404499223,
         85633793,
+        85940583,
         102080845,
-        85809821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"1bedace90f06cbd8d9e44ae4aad57055",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
             "neighbourhood_id":85809821,
             "region_id":85688697,
             "venue_id":219332575
         }
     ],
     "wof:id":219332575,
-    "wof:lastmodified":1472621232,
+    "wof:lastmodified":1492107684,
     "wof:name":"Pizzas By Marchelloni",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",

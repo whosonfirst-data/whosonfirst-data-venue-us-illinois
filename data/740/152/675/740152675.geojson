@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.86093,41.907838,-87.86093,41.907838",
     "geom:latitude":41.907838,
     "geom:longitude":-87.86093,
@@ -32,7 +33,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940785,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44mHHELwV4HNYZg4q2TaWT_41.907838_-87.860930@1299784598"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950826,
     "wof:geomhash":"861a5b12c0edeb893e1eebd0c0489eab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940785,
+            "region_id":85688697,
+            "venue_id":740152675
+        }
+    ],
     "wof:id":740152675,
-    "wof:lastmodified":1472621727,
+    "wof:lastmodified":1492097046,
     "wof:name":"Bacci Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

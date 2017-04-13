@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.472523,41.877304,-88.472523,41.877304",
     "geom:latitude":41.877304,
     "geom:longitude":-88.472523,
@@ -28,7 +29,13 @@
     "sg:postcode":"60119",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498355,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WcAeWYZtyqvkEhCnW46Ni_41.877304_-88.472523@1303262847"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461952380,
     "wof:geomhash":"67f382c0e13b71362bf1e6c8ae676b6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498355,
+            "region_id":85688697,
+            "venue_id":740224167
+        }
+    ],
     "wof:id":740224167,
-    "wof:lastmodified":1472621910,
+    "wof:lastmodified":1492090667,
     "wof:name":"Akina's Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

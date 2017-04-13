@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.991493,40.76382,-87.991493,40.76382",
     "geom:latitude":40.76382,
     "geom:longitude":-87.991493,
@@ -33,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498185,
+        85633793,
+        85938509,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ri34lRd1wxcWzmr0KAuLS_40.763822_-87.991595@1293134755"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461950676,
     "wof:geomhash":"9cddc3c7869673e3fddf026ffaf11a1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498185,
+            "locality_id":85938509,
+            "region_id":85688697,
+            "venue_id":740145439
+        }
+    ],
     "wof:id":740145439,
-    "wof:lastmodified":1472621707,
+    "wof:lastmodified":1492110395,
     "wof:name":"Dave's Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

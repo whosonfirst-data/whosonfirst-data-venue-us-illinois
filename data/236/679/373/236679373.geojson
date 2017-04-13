@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.624799,41.641738,-87.624799,41.641738",
     "geom:latitude":41.641738,
     "geom:longitude":-87.624799,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497591,
         85633793,
-        85940195,
-        102084317,
-        85844893
+        85940731,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"d4279495d1103a8ecb6ae369aa209358",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85844893,
+            "localadmin_id":404497591,
+            "locality_id":85940731,
             "region_id":85688697,
             "venue_id":236679373
         }
     ],
     "wof:id":236679373,
-    "wof:lastmodified":1472621754,
+    "wof:lastmodified":1492102439,
     "wof:name":"Hagars Center For Women",
-    "wof:parent_id":85844893,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

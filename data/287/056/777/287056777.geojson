@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.55881,41.570142,-87.55881,41.570142",
     "geom:latitude":41.570142,
     "geom:longitude":-87.55881,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"779fc36a2f56eac472614f4760a3c993",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":287056777
         }
     ],
     "wof:id":287056777,
-    "wof:lastmodified":1472620882,
+    "wof:lastmodified":1492093546,
     "wof:name":"Brentway Co",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

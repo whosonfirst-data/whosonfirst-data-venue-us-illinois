@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.785483,42.099484,-87.785483,42.099484",
     "geom:latitude":42.099484,
     "geom:longitude":-87.785483,
@@ -45,7 +46,14 @@
         "pension"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940767,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jg8mrNPR57XN1Rsgdr7ev_42.099484_-87.785483@1303262845"
@@ -53,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1461951985,
     "wof:geomhash":"65d49e6425155a1cee0884c581375204",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940767,
+            "region_id":85688697,
+            "venue_id":740206463
+        }
+    ],
     "wof:id":740206463,
-    "wof:lastmodified":1472621889,
+    "wof:lastmodified":1492091530,
     "wof:name":"Grey Investment Planning Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

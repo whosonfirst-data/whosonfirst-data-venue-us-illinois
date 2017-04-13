@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.751733,41.857022,-87.751733,41.857022",
     "geom:latitude":41.857022,
     "geom:longitude":-87.751733,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867557,
+        102191575,
+        404497617,
         85633793,
         85940877,
         102084317,
-        85867557
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c129dd817cc0d57b0520fe30bb48ae68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
             "neighbourhood_id":85867557,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269993113,
-    "wof:lastmodified":1472621424,
+    "wof:lastmodified":1492095437,
     "wof:name":"Domitilo Pantaleon",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",

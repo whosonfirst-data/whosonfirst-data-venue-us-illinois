@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860072,42.053255,-87.860072,42.053255",
     "geom:latitude":42.053255,
     "geom:longitude":-87.860072,
@@ -29,11 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890775,
+        102191575,
+        404497631,
         85633793,
-        85940869,
         102084317,
-        85890775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,17 @@
     "wof:geomhash":"62c4f436dc92c65ba426182ce889eaa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940869,
+            "localadmin_id":404497631,
             "neighbourhood_id":85890775,
             "region_id":85688697,
             "venue_id":253119893
         }
     ],
     "wof:id":253119893,
-    "wof:lastmodified":1472621048,
+    "wof:lastmodified":1492089290,
     "wof:name":"Caruso's Pizza",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.166282,42.374208,-88.166282,42.374208",
     "geom:latitude":42.374208,
     "geom:longitude":-88.166282,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828395,
+        102191575,
+        404498449,
         85633793,
         85938397,
         102086215,
-        85828395
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d4c54ad0ca0d94cc0fc533c65ca6c69b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498449,
             "locality_id":85938397,
             "neighbourhood_id":85828395,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286491351,
-    "wof:lastmodified":1472621330,
+    "wof:lastmodified":1492106545,
     "wof:name":"Kuhl Construction",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",

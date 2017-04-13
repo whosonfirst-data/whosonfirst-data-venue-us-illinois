@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954779,42.289446,-87.954779,42.289446",
     "geom:latitude":42.289446,
     "geom:longitude":-87.954779,
@@ -51,7 +52,10 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fDMY2XnOwhqFGTfFUWgdv_42.289446_-87.954779@1303262842"
@@ -59,9 +63,15 @@
     "wof:country":"US",
     "wof:created":1461951655,
     "wof:geomhash":"0c4f25a16a6905e317f1691f1bc96341",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190369
+        }
+    ],
     "wof:id":740190369,
-    "wof:lastmodified":1472621859,
+    "wof:lastmodified":1492097002,
     "wof:name":"Allstate Insurance Company - Rose Sheldon",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

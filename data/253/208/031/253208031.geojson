@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.421715,41.360172,-88.421715,41.360172",
     "geom:latitude":41.360172,
     "geom:longitude":-88.421715,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3546b1cb96235c27283fcf991f317821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":253208031,
-    "wof:lastmodified":1472621259,
+    "wof:lastmodified":1492096178,
     "wof:name":"La Mex Corporation",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

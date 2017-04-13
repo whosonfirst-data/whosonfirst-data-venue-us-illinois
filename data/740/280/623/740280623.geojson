@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.224518,41.432298,-88.224518,41.432298",
     "geom:latitude":41.432298,
     "geom:longitude":-88.224518,
@@ -32,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xoiNheu9cEHwxkTTSXHBc_41.432298_-88.224518@1303262854"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953577,
     "wof:geomhash":"5f32390523b0ba336f7fc0ac59fc5423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740280623
+        }
+    ],
     "wof:id":740280623,
-    "wof:lastmodified":1472622028,
+    "wof:lastmodified":1492089809,
     "wof:name":"Colonial Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

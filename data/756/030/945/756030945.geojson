@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.760118,41.424373,-87.760118,41.424373",
     "geom:latitude":41.424373,
     "geom:longitude":-87.760118,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.theconnexions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Mk9rWPpHEMbsLeKwpLwNL_41.424373_-87.760118@1303262857"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954034,
     "wof:geomhash":"7bb2cde9785887cc8269fa59be6bc201",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030945
+        }
+    ],
     "wof:id":756030945,
-    "wof:lastmodified":1472620876,
+    "wof:lastmodified":1492104789,
     "wof:name":"Clean Car Connexion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

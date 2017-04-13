@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.773103,41.941877,-88.773103,41.941877",
     "geom:latitude":41.941877,
     "geom:longitude":-88.773103,
@@ -34,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gTGWKznXHruv7Uby4sFdD_41.941877_-88.773103@1303262847"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952322,
     "wof:geomhash":"e6fdc95f4703b0376b933b18d14074fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221253
+        }
+    ],
     "wof:id":740221253,
-    "wof:lastmodified":1472621910,
+    "wof:lastmodified":1492088466,
     "wof:name":"Truckenbrod Painting & Decor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.795129,41.690108,-87.795129,41.690108",
     "geom:latitude":41.690108,
     "geom:longitude":-87.795129,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:brand_id":420573769,
     "wof:breaches":[],
@@ -49,9 +52,10 @@
     "wof:geomhash":"5923d42ba37cff348401c6d402fe2c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":286297709,
-    "wof:lastmodified":1472620825,
+    "wof:lastmodified":1492091227,
     "wof:name":"Curves For Women",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

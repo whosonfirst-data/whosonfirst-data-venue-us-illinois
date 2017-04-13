@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.292859,41.860793,-88.292859,41.860793",
     "geom:latitude":41.860793,
     "geom:longitude":-88.292859,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ae089553c2d24449c39984d33d50c06e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253719449,
-    "wof:lastmodified":1472621640,
+    "wof:lastmodified":1492092840,
     "wof:name":"Advanced Displays In Plastic",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

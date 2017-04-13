@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.053403,42.24189,-88.053403,42.24189",
     "geom:latitude":42.24189,
     "geom:longitude":-88.053403,
@@ -35,8 +36,12 @@
     "wof:belongsto":[
         85688697,
         85633793,
-        85938373,
-        102086215
+        85867909,
+        102086215,
+        420519167,
+        102191575,
+        404498459,
+        85938373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,27 @@
     "wof:geomhash":"5475c1dabdeab7ca667ef17064210975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086215,
+            "neighbourhood_id":85867909,
+            "region_id":85688697,
+            "venue_id":219406471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938373,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519167,
             "region_id":85688697,
             "venue_id":219406471
         }
     ],
     "wof:id":219406471,
-    "wof:lastmodified":1472621304,
+    "wof:lastmodified":1492100797,
     "wof:name":"Welding Consultant Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

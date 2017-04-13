@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070688,41.981275,-88.070688,41.981275",
     "geom:latitude":41.981275,
     "geom:longitude":-88.070688,
@@ -27,7 +28,14 @@
     "sg:postcode":"60172",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CaoSpHCUgFyrxsGDKMhol_41.981275_-88.070688@1303262850"
@@ -35,9 +43,19 @@
     "wof:country":"US",
     "wof:created":1461952942,
     "wof:geomhash":"c498e604516ec7b5b36c11a8a2816d0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249493
+        }
+    ],
     "wof:id":740249493,
-    "wof:lastmodified":1472621973,
+    "wof:lastmodified":1492089482,
     "wof:name":"Roselle Skatepark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

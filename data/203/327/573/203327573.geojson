@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.986928,42.2247,-87.986928,42.2247",
     "geom:latitude":42.2247,
     "geom:longitude":-87.986928,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826793,
+        102191575,
+        404498371,
         85633793,
         85938629,
         102086215,
-        85826793
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"0d7f3ebbe16020b1691f5ff13c342a15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498371,
             "locality_id":85938629,
             "neighbourhood_id":85826793,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203327573,
-    "wof:lastmodified":1472621186,
+    "wof:lastmodified":1492091893,
     "wof:name":"Capture Moment Cds",
     "wof:parent_id":85826793,
     "wof:placetype":"venue",

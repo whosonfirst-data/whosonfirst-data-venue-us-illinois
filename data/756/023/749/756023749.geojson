@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.005863,41.650595,-88.005863,41.650595",
     "geom:latitude":41.650595,
     "geom:longitude":-88.005863,
@@ -38,7 +39,13 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pCCLwW74GPDfVwf6f8xxp_41.650595_-88.005863@1303262856"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461953882,
     "wof:geomhash":"6934230fa93188c4259500aeeb9e7064",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "region_id":85688697,
+            "venue_id":756023749
+        }
+    ],
     "wof:id":756023749,
-    "wof:lastmodified":1472620783,
+    "wof:lastmodified":1492097870,
     "wof:name":"Jennys & John's Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

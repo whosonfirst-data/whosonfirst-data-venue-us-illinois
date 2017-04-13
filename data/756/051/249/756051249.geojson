@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.28246,41.772033,-88.28246,41.772033",
     "geom:latitude":41.772033,
     "geom:longitude":-88.28246,
@@ -31,7 +32,13 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mGd2TOCMLAkH1j8XWnOey_41.772033_-88.282460@1303262860"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461954461,
     "wof:geomhash":"2eef11899c66e7fe09cd7244b264dfe4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "region_id":85688697,
+            "venue_id":756051249
+        }
+    ],
     "wof:id":756051249,
-    "wof:lastmodified":1472621149,
+    "wof:lastmodified":1492105793,
     "wof:name":"Colt Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.472142,41.901746,-88.472142,41.901746",
     "geom:latitude":41.901746,
     "geom:longitude":-88.472142,
@@ -33,7 +34,10 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EbD8vb7sAEncHtgppebO9_41.901746_-88.472142@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461950804,
     "wof:geomhash":"e8f40abe35c00e917aca1cb328121cf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740151615
+        }
+    ],
     "wof:id":740151615,
-    "wof:lastmodified":1472621724,
+    "wof:lastmodified":1492093324,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

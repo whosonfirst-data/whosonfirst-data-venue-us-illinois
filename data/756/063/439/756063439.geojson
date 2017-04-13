@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.304832,41.657074,-88.304832,41.657074",
     "geom:latitude":41.657074,
     "geom:longitude":-88.304832,
@@ -28,7 +29,13 @@
     "sg:postcode":"60543",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08Nmbz2uymsXwwoMmMBo0g_41.657074_-88.304832@1303262861"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954710,
     "wof:geomhash":"9ef763e9263ecbe91a9c0d2915ca929d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "region_id":85688697,
+            "venue_id":756063439
+        }
+    ],
     "wof:id":756063439,
-    "wof:lastmodified":1472621329,
+    "wof:lastmodified":1492089571,
     "wof:name":"Kitchen Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.270585,42.237889,-88.270585,42.237889",
     "geom:latitude":42.237889,
     "geom:longitude":-88.270585,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"6b1ecf274dee3528ac0612d87438e0e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":252823525
         }
     ],
     "wof:id":252823525,
-    "wof:lastmodified":1472621047,
+    "wof:lastmodified":1492090412,
     "wof:name":"Illinois Motor Sales Inc",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

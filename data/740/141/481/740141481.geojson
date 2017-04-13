@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.124227,42.482364,-88.124227,42.482364",
     "geom:latitude":42.482364,
     "geom:longitude":-88.124227,
@@ -28,7 +29,14 @@
     "sg:postcode":"60002",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498449,
+        85633793,
+        85941165,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72Fy77b49xRVfQwtXhDSH6_42.482640_-88.124293@1293134755"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461950598,
     "wof:geomhash":"94efd2f2479a97f90fb210b7939f46c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498449,
+            "locality_id":85941165,
+            "region_id":85688697,
+            "venue_id":740141481
+        }
+    ],
     "wof:id":740141481,
-    "wof:lastmodified":1472621612,
+    "wof:lastmodified":1492091162,
     "wof:name":"City Wolf Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.867267,42.050053,-87.867267,42.050053",
     "geom:latitude":42.050053,
     "geom:longitude":-87.867267,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890775,
+        102191575,
+        404497631,
         85633793,
-        85940869,
         102084317,
-        85890775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"1f10f47fafc35562135a5242e1538b01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940869,
+            "localadmin_id":404497631,
             "neighbourhood_id":85890775,
             "region_id":85688697,
             "venue_id":219518407
         }
     ],
     "wof:id":219518407,
-    "wof:lastmodified":1472621412,
+    "wof:lastmodified":1492088597,
     "wof:name":"K P Enterprises",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",

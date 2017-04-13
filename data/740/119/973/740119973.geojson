@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.900472,41.158073,-87.900472,41.158073",
     "geom:latitude":41.158073,
     "geom:longitude":-87.900472,
@@ -32,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T8pt7zxsa5vDbNo0oq1E6_41.157904_-87.900643@1293134755"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950056,
     "wof:geomhash":"7b07c607e2b4cbf00ab220be6d97a9cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":740119973
+        }
+    ],
     "wof:id":740119973,
-    "wof:lastmodified":1472621326,
+    "wof:lastmodified":1492089782,
     "wof:name":"Giroux Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

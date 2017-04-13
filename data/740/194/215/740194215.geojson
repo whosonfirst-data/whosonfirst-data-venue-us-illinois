@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.811973,42.148517,-87.811973,42.148517",
     "geom:latitude":42.148517,
     "geom:longitude":-87.811973,
@@ -31,7 +32,14 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tw1LIHBPkECh1dl9XAMjq_42.148517_-87.811973@1303262843"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951735,
     "wof:geomhash":"14fb5973fa5f9b5dfc89e1feb89d670d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740194215
+        }
+    ],
     "wof:id":740194215,
-    "wof:lastmodified":1472621859,
+    "wof:lastmodified":1492104231,
     "wof:name":"Investors Funding Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

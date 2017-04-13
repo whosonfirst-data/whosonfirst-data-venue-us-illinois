@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.894853,42.080495,-87.894853,42.080495",
     "geom:latitude":42.080495,
     "geom:longitude":-87.894853,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838279,
+        102191575,
+        404497663,
         85633793,
-        85940839,
         102084317,
-        85838279
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"4142e0c2967179572053a4a29a521771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940839,
+            "localadmin_id":404497663,
             "neighbourhood_id":85838279,
             "region_id":85688697,
             "venue_id":269998349
         }
     ],
     "wof:id":269998349,
-    "wof:lastmodified":1472621429,
+    "wof:lastmodified":1492088971,
     "wof:name":"River Trails School Dst 26",
     "wof:parent_id":85838279,
     "wof:placetype":"venue",

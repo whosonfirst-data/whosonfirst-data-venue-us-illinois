@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.330151,41.482514,-88.330151,41.482514",
     "geom:latitude":41.482514,
     "geom:longitude":-88.330151,
@@ -32,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498413,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RHV6QQ36hxsB11WZbRwdW_41.482514_-88.330151@1303262857"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954001,
     "wof:geomhash":"b16b7fa2f0a4d3aa835013e0bf7725b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498413,
+            "region_id":85688697,
+            "venue_id":756029269
+        }
+    ],
     "wof:id":756029269,
-    "wof:lastmodified":1472620832,
+    "wof:lastmodified":1492097929,
     "wof:name":"Employee Benefits Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.973666,42.280866,-87.973666,42.280866",
     "geom:latitude":42.280866,
     "geom:longitude":-87.973666,
@@ -33,7 +34,10 @@
     "sg:postcode":"60048",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oMpnwwQIsOlyGFBPqh4Zi_42.280866_-87.973666@1303262842"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461951648,
     "wof:geomhash":"8bf2b76ee1967f975957fa6720f17940",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740189977
+        }
+    ],
     "wof:id":740189977,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492108424,
     "wof:name":"Eve Nails",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

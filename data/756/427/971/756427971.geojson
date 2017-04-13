@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.565012,40.770274,-87.565012,40.770274",
     "geom:latitude":40.770274,
     "geom:longitude":-87.565012,
@@ -33,7 +34,14 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        85938443,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ycbX70y7GeomRTRhMO6af_40.770274_-87.565012@1303262910"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461962965,
     "wof:geomhash":"2e3128465967a0c057697673666cb41c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "locality_id":85938443,
+            "region_id":85688697,
+            "venue_id":756427971
+        }
+    ],
     "wof:id":756427971,
-    "wof:lastmodified":1472622211,
+    "wof:lastmodified":1492091685,
     "wof:name":"Richard J Sygulla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

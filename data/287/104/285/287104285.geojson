@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.867029,41.849701,-87.867029,41.849701",
     "geom:latitude":41.849701,
     "geom:longitude":-87.867029,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518729,
+        102191575,
+        404497579,
         85633793,
         85940895,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"31008bb46241e47997670d0321ec8b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518729,
             "region_id":85688697,
             "venue_id":287104285
         }
     ],
     "wof:id":287104285,
-    "wof:lastmodified":1472621031,
+    "wof:lastmodified":1492089199,
     "wof:name":"Wagner Excello Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

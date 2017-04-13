@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.11543,41.95291,-88.11543,41.95291",
     "geom:latitude":41.95291,
     "geom:longitude":-88.11543,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.steveandbarrys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZXM6W4CtHqgdAm3z4AorO_41.952910_-88.115430@1303262847"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952340,
     "wof:geomhash":"fb3bab082012547b5b58ce0bc83e3aa6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740222065
+        }
+    ],
     "wof:id":740222065,
-    "wof:lastmodified":1472621907,
+    "wof:lastmodified":1492104506,
     "wof:name":"Steve & Barry's University Sportswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

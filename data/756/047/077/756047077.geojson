@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.861836,41.740579,-87.861836,41.740579",
     "geom:latitude":41.740579,
     "geom:longitude":-87.861836,
@@ -28,7 +29,14 @@
     "sg:postcode":"60480",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ivuFVQzNHh6De3Ar0hL5q_41.740579_-87.861836@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954378,
     "wof:geomhash":"0e956fbb078ffe22137e80a0d1390425",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047077
+        }
+    ],
     "wof:id":756047077,
-    "wof:lastmodified":1472621129,
+    "wof:lastmodified":1492093849,
     "wof:name":"Judy's Friendly Tap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

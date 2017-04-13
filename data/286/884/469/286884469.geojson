@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.958739,41.803004,-87.958739,41.803004",
     "geom:latitude":41.803004,
     "geom:longitude":-87.958739,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519009,
+        102191575,
+        404497649,
         85633793,
         85940169,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"3027837439a16265cc3bf1257f0040ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519009,
             "region_id":85688697,
             "venue_id":286884469
         }
     ],
     "wof:id":286884469,
-    "wof:lastmodified":1472621686,
+    "wof:lastmodified":1492098766,
     "wof:name":"Clarendon Hills Middle School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

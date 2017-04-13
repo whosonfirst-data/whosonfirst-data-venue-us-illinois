@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.155349,41.521938,-88.155349,41.521938",
     "geom:latitude":41.521938,
     "geom:longitude":-88.155349,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:brand_id":420573797,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"e13856ab461b68914a3e736a32949ed3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":269536877,
-    "wof:lastmodified":1472620962,
+    "wof:lastmodified":1492088681,
     "wof:name":"Walgreens",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

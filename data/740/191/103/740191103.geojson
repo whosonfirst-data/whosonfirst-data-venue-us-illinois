@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.951431,42.28283,-87.951431,42.28283",
     "geom:latitude":42.28283,
     "geom:longitude":-87.951431,
@@ -34,7 +35,10 @@
     ],
     "sg:website":"http://www.glawards.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wUJ4DdLmbv2iidrN7qZ6T_42.282830_-87.951431@1303262843"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461951675,
     "wof:geomhash":"319fffaea6256766cff21c103714383d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191103
+        }
+    ],
     "wof:id":740191103,
-    "wof:lastmodified":1472621855,
+    "wof:lastmodified":1492088659,
     "wof:name":"Great Lakes Awards Inc.",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

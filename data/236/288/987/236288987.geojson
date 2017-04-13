@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.821261,42.133058,-87.821261,42.133058",
     "geom:latitude":42.133058,
     "geom:longitude":-87.821261,
@@ -45,11 +46,13 @@
     "sg:website":"www.artexpressionsusa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867759,
+        102191575,
+        404497637,
         85633793,
         85940769,
         102084317,
-        85867759
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"52d66a048dd90dd6585aa3e1149d2c9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497637,
             "locality_id":85940769,
             "neighbourhood_id":85867759,
             "region_id":85688697,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":236288987,
-    "wof:lastmodified":1472621466,
+    "wof:lastmodified":1492088769,
     "wof:name":"Art Expressions Inc",
     "wof:parent_id":85867759,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.571987,41.579254,-87.571987,41.579254",
     "geom:latitude":41.579254,
     "geom:longitude":-87.571987,
@@ -33,8 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
         85633793,
-        85688697
+        85940801,
+        102084317,
+        85890927,
+        420518761,
+        102191575,
+        404497591,
+        85940935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +52,28 @@
     "wof:geomhash":"f98bf0a96e3411ed27e9c0d89d7795bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "locality_id":85940801,
+            "neighbourhood_id":85890927,
+            "region_id":85688697,
+            "venue_id":253665609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
+            "neighbourhood_id":420518761,
             "region_id":85688697,
             "venue_id":253665609
         }
     ],
     "wof:id":253665609,
-    "wof:lastmodified":1472621640,
+    "wof:lastmodified":1492102088,
     "wof:name":"C Alexander Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

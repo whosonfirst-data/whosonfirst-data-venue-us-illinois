@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881221,41.997447,-87.881221,41.997447",
     "geom:latitude":41.997447,
     "geom:longitude":-87.881221,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
         85633793,
-        85688697
+        85940947,
+        102084317,
+        404497631,
+        85940869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +51,26 @@
     "wof:geomhash":"45c53a0b050db9537df86ef0eff9d858",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940947,
+            "region_id":85688697,
+            "venue_id":203145925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940869,
             "region_id":85688697,
             "venue_id":203145925
         }
     ],
     "wof:id":203145925,
-    "wof:lastmodified":1472621061,
+    "wof:lastmodified":1492092894,
     "wof:name":"Sapphire Technology North Amer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

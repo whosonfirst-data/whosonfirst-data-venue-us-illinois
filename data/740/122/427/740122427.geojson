@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.953041,42.281448,-87.953041,42.281448",
     "geom:latitude":42.281448,
     "geom:longitude":-87.953041,
@@ -31,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ayRWVroYstqnrS8bWkGIM_42.280907_-87.952920@1293134755"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461950112,
     "wof:geomhash":"2484cf31cc74ecc522669dd010c06fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740122427
+        }
+    ],
     "wof:id":740122427,
-    "wof:lastmodified":1472621355,
+    "wof:lastmodified":1492092931,
     "wof:name":"Lovely Nail",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

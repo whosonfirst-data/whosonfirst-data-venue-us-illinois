@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.620204,42.248943,-88.620204,42.248943",
     "geom:latitude":42.248943,
     "geom:longitude":-88.620204,
@@ -45,7 +46,14 @@
     ],
     "sg:website":"http://www.marengoautogroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499151,
+        85633793,
+        85938987,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WLWJpyin19kHt4BXP2f9C_42.248943_-88.620204@1303262849"
@@ -53,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1461952780,
     "wof:geomhash":"a777afe3f00c6966a3716750af5cc850",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499151,
+            "locality_id":85938987,
+            "region_id":85688697,
+            "venue_id":740241841
+        }
+    ],
     "wof:id":740241841,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492106098,
     "wof:name":"Marengo Auto Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

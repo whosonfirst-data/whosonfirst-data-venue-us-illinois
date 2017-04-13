@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.319934,41.830909,-88.319934,41.830909",
     "geom:latitude":41.830909,
     "geom:longitude":-88.319934,
@@ -33,13 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
-        85939729,
-        102086925,
-        85867851,
         85940215,
-        85858729
+        102086925,
+        85688697
     ],
     "wof:brand_id":420574125,
     "wof:breaches":[],
@@ -50,18 +51,10 @@
     "wof:geomhash":"849466c56e5b7597b687cd1219d10a42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85939729,
-            "neighbourhood_id":85867851,
-            "region_id":85688697,
-            "venue_id":202621703
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -69,9 +62,9 @@
         }
     ],
     "wof:id":202621703,
-    "wof:lastmodified":1472621149,
+    "wof:lastmodified":1492090509,
     "wof:name":"Loyal Order Of Moose",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

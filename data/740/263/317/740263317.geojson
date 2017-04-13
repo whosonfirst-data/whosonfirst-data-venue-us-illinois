@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158555,41.871056,-88.158555,41.871056",
     "geom:latitude":41.871056,
     "geom:longitude":-88.158555,
@@ -32,7 +33,10 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29TaYyAPB6f7W2IwR1QBuz_41.871056_-88.158555@1303262852"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461953220,
     "wof:geomhash":"4a6ba2dd4045a1aa9dfe9d828648d29f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518993,
+            "venue_id":740263317
+        }
+    ],
     "wof:id":740263317,
-    "wof:lastmodified":1472621987,
+    "wof:lastmodified":1492101838,
     "wof:name":"Ati Physical Therapy",
     "wof:parent_id":420518993,
     "wof:placetype":"venue",

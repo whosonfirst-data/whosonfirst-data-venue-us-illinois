@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.879408,41.309242,-87.879408,41.309242",
     "geom:latitude":41.309242,
     "geom:longitude":-87.879408,
@@ -26,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oTmYMlvXR3TxlJCcHKNPP_41.309242_-87.879408@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461950039,
     "wof:geomhash":"1215da3073bd42fcbe84ab4f71b06752",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "region_id":85688697,
+            "venue_id":740119025
+        }
+    ],
     "wof:id":740119025,
-    "wof:lastmodified":1472621288,
+    "wof:lastmodified":1492091070,
     "wof:name":"Leon Issert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

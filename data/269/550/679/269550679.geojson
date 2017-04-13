@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.967722,41.976385,-87.967722,41.976385",
     "geom:latitude":41.976385,
     "geom:longitude":-87.967722,
@@ -36,10 +37,13 @@
     "sg:website":"www.damencarbide.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518939,
+        102191575,
+        404497761,
         85633793,
-        85940133,
-        102081257
+        85940201,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"0c022bb77368cce4e71dc54dc000d4fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940133,
-            "neighbourhood_id":-1,
+            "localadmin_id":404497761,
+            "locality_id":85940201,
+            "neighbourhood_id":420518939,
             "region_id":85688697,
             "venue_id":269550679
         }
     ],
     "wof:id":269550679,
-    "wof:lastmodified":1472621008,
+    "wof:lastmodified":1492109249,
     "wof:name":"Damen Carbide Tool Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

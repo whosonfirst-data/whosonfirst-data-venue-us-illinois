@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.925373,41.459317,-87.925373,41.459317",
     "geom:latitude":41.459317,
     "geom:longitude":-87.925373,
@@ -36,7 +37,10 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GMhty0agkjSkhEvQBrN17_41.459317_-87.925373@1303262856"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461953925,
     "wof:geomhash":"4baa360b78061161431561b264a87f5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025899
+        }
+    ],
     "wof:id":756025899,
-    "wof:lastmodified":1472620885,
+    "wof:lastmodified":1492087995,
     "wof:name":"Edison Mission Energy",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.838402,41.737499,-87.838402,41.737499",
     "geom:latitude":41.737499,
     "geom:longitude":-87.838402,
@@ -31,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zLLAdR3MK8TnARLZjgwPz_41.737499_-87.838402@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954218,
     "wof:geomhash":"afa6e7ce163f06590003f7e34247ccdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039355
+        }
+    ],
     "wof:id":756039355,
-    "wof:lastmodified":1472620988,
+    "wof:lastmodified":1492101711,
     "wof:name":"John Gino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

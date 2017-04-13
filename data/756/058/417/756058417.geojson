@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.868316,41.782654,-87.868316,41.782654",
     "geom:latitude":41.782654,
     "geom:longitude":-87.868316,
@@ -48,7 +49,14 @@
     ],
     "sg:website":"www.ballyfitness.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JHN9jzjF2ZuZJ63eHA4Ie_41.782654_-87.868316@1303262861"
@@ -56,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1461954614,
     "wof:geomhash":"0678f5504bb065fe11e5bb5654151f2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756058417
+        }
+    ],
     "wof:id":756058417,
-    "wof:lastmodified":1472621289,
+    "wof:lastmodified":1492089403,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9506,42.269683,-87.9506,42.269683",
     "geom:latitude":42.269683,
     "geom:longitude":-87.9506,
@@ -39,7 +40,10 @@
     ],
     "sg:website":"http://www.libertyvillechevrolet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EzcWHjSd7FLgUABdPEqWr_42.269683_-87.950600@1303262843"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461951667,
     "wof:geomhash":"ded006486c8017e362756279e987485e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190975
+        }
+    ],
     "wof:id":740190975,
-    "wof:lastmodified":1472621875,
+    "wof:lastmodified":1492091022,
     "wof:name":"Libertyville Chevrolet",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

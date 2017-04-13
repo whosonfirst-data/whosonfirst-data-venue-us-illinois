@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.305581,41.74766,-88.305581,41.74766",
     "geom:latitude":41.74766,
     "geom:longitude":-88.305581,
@@ -29,12 +30,14 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876051,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85847483,
-        85876051
+        85688697,
+        85847483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,30 @@
     "wof:geomhash":"058d6f4016f8c72337a1e16103742253",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85847483,
+            "neighbourhood_id":85876051,
             "region_id":85688697,
             "venue_id":202724751
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
-            "neighbourhood_id":85876051,
+            "neighbourhood_id":85847483,
             "region_id":85688697,
             "venue_id":202724751
         }
     ],
     "wof:id":202724751,
-    "wof:lastmodified":1472621239,
+    "wof:lastmodified":1492095452,
     "wof:name":"Linda's Shoe Bontique",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

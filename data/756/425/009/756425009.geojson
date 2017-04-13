@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.87444,41.093861,-87.87444,41.093861",
     "geom:latitude":41.093861,
     "geom:longitude":-87.87444,
@@ -39,7 +40,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20WllNSkXLLhp8QVcKHV9k_41.093861_-87.874440@1303262909"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461962897,
     "wof:geomhash":"7cdc1af79577085e263c43d6fbe02085",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "region_id":85688697,
+            "venue_id":756425009
+        }
+    ],
     "wof:id":756425009,
-    "wof:lastmodified":1472622191,
+    "wof:lastmodified":1492092481,
     "wof:name":"Kankakee Township Fire Protection District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

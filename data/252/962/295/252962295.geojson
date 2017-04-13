@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061137,41.762363,-88.061137,41.762363",
     "geom:latitude":41.762363,
     "geom:longitude":-88.061137,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891083,
+        102191575,
+        404497649,
         85633793,
-        85940203,
+        85940165,
         102081257,
-        85891083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"9bbf66c6c2f0dff8d5033833621758aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940203,
+            "localadmin_id":404497649,
+            "locality_id":85940165,
             "neighbourhood_id":85891083,
             "region_id":85688697,
             "venue_id":252962295
         }
     ],
     "wof:id":252962295,
-    "wof:lastmodified":1472621121,
+    "wof:lastmodified":1492096419,
     "wof:name":"Laurie S Landscape",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",

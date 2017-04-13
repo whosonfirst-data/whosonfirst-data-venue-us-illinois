@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.996802,41.965449,-87.996802,41.965449",
     "geom:latitude":41.965449,
     "geom:longitude":-87.996802,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890713,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85890713
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e86eeb955dddbda78ef9fa18c19eb68f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85890713,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202497265,
-    "wof:lastmodified":1472620995,
+    "wof:lastmodified":1492089151,
     "wof:name":"Bathliners Direct Corp",
     "wof:parent_id":85890713,
     "wof:placetype":"venue",

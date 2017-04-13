@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.091445,41.911842,-88.091445,41.911842",
     "geom:latitude":41.911842,
     "geom:longitude":-88.091445,
@@ -40,10 +41,13 @@
     "sg:website":"www.globalcolorsinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"f242ad634c652eaed888c6b4c0dff834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":236012099
         }
     ],
     "wof:id":236012099,
-    "wof:lastmodified":1472620756,
+    "wof:lastmodified":1492093242,
     "wof:name":"Global Colors  Inc",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

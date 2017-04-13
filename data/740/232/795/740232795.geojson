@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.689031,42.09482,-88.689031,42.09482",
     "geom:latitude":42.09482,
     "geom:longitude":-88.689031,
@@ -38,7 +39,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497705,
+        85633793,
+        85939831,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LkmqV0rWTltNGQYb9WLuu_42.094820_-88.689031@1303262848"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461952570,
     "wof:geomhash":"3ad2bf1e869042cdfa4896d17d658a07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497705,
+            "locality_id":85939831,
+            "region_id":85688697,
+            "venue_id":740232795
+        }
+    ],
     "wof:id":740232795,
-    "wof:lastmodified":1472621948,
+    "wof:lastmodified":1492093813,
     "wof:name":"Vosburgh Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.698566,42.007631,-88.698566,42.007631",
     "geom:latitude":42.007631,
     "geom:longitude":-88.698566,
@@ -37,7 +38,13 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497727,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wz1fGfCXztkNJBgR5Lkh5_42.007631_-88.698566@1303262851"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461953002,
     "wof:geomhash":"eb3612f924f3a41b8a0f75776949b541",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497727,
+            "region_id":85688697,
+            "venue_id":740252541
+        }
+    ],
     "wof:id":740252541,
-    "wof:lastmodified":1472621988,
+    "wof:lastmodified":1492093428,
     "wof:name":"Lann Rader Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

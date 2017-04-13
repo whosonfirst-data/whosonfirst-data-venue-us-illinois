@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.683184,41.633714,-88.683184,41.633714",
     "geom:latitude":41.633714,
     "geom:longitude":-88.683184,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://www.countrykitchenrestaurants.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497721,
+        85633793,
+        85939067,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16h1Ir1Po6BwR353cD7phx_41.633714_-88.683184@1303262862"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954809,
     "wof:geomhash":"6b1d52055f792eef7e1de79c4ae14b34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497721,
+            "locality_id":85939067,
+            "region_id":85688697,
+            "venue_id":756067233
+        }
+    ],
     "wof:id":756067233,
-    "wof:lastmodified":1472621370,
+    "wof:lastmodified":1492098031,
     "wof:name":"Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

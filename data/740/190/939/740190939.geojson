@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.949303,42.263676,-87.949303,42.263676",
     "geom:latitude":42.263676,
     "geom:longitude":-87.949303,
@@ -42,7 +43,10 @@
     ],
     "sg:website":"https://www.chase.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w443cXbE7zK8ezoOLEIw6_42.263676_-87.949303@1303262843"
@@ -50,9 +54,15 @@
     "wof:country":"US",
     "wof:created":1461951666,
     "wof:geomhash":"02d567eaff3967b1779ec444ced47686",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190939
+        }
+    ],
     "wof:id":740190939,
-    "wof:lastmodified":1472621868,
+    "wof:lastmodified":1492106097,
     "wof:name":"Chase -Libertyville Milwaukee",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.067682,41.988351,-88.067682,41.988351",
     "geom:latitude":41.988351,
     "geom:longitude":-88.067682,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bnVC1R159IbYuJnSK1QJF_41.988351_-88.067682@1303262850"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461952941,
     "wof:geomhash":"0e745e1e87509aa3240b0d7663f0d9c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249441
+        }
+    ],
     "wof:id":740249441,
-    "wof:lastmodified":1472621970,
+    "wof:lastmodified":1492093426,
     "wof:name":"Jdfm Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.334147,41.88625,-88.334147,41.88625",
     "geom:latitude":41.88625,
     "geom:longitude":-88.334147,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890919,
+        102191575,
+        404498227,
         85633793,
         85939739,
         102086925,
-        85890919
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"da5aeb19df03dfaa3760e4362649fbb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498227,
             "locality_id":85939739,
             "neighbourhood_id":85890919,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236595975,
-    "wof:lastmodified":1472621733,
+    "wof:lastmodified":1492097023,
     "wof:name":"ABC Limousine Svc",
     "wof:parent_id":85890919,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042763,42.135693,-88.042763,42.135693",
     "geom:latitude":42.135693,
     "geom:longitude":-88.042763,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867627,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85867627
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d9c3b7af8704bc4eb24145d59dbc0298",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85867627,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269736353,
-    "wof:lastmodified":1472621305,
+    "wof:lastmodified":1492092251,
     "wof:name":"Ischer Jeffery B",
     "wof:parent_id":85867627,
     "wof:placetype":"venue",

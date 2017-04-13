@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.422012,41.37434,-88.422012,41.37434",
     "geom:latitude":41.37434,
     "geom:longitude":-88.422012,
@@ -34,11 +35,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,10 @@
     "wof:geomhash":"fc19e19467054b91a4a45ddb89f0888d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":756031249,
-    "wof:lastmodified":1472620837,
+    "wof:lastmodified":1492093574,
     "wof:name":"The Tropical Tikki Hut",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

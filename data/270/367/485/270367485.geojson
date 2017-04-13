@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.710943,42.035799,-87.710943,42.035799",
     "geom:latitude":42.035799,
     "geom:longitude":-87.710943,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890787,
+        102191575,
+        404497621,
         85633793,
-        85940943,
+        85940857,
         102084317,
-        85890787
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a37723d8a37349363bbdd0d555051bcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940943,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "neighbourhood_id":85890787,
             "region_id":85688697,
             "venue_id":270367485
         }
     ],
     "wof:id":270367485,
-    "wof:lastmodified":1472621434,
+    "wof:lastmodified":1492102395,
     "wof:name":"Fine Art Travel",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",

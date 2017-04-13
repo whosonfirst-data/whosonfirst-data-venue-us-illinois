@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207446,41.75455,-88.207446,41.75455",
     "geom:latitude":41.75455,
     "geom:longitude":-88.207446,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85820771,
+        102191575,
+        404498347,
         85633793,
         85940221,
-        102081257,
-        85820771
+        102086925,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7cf0b941f80d4434a53c40e82931d7b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
+            "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85820771,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269684169,
-    "wof:lastmodified":1472621221,
+    "wof:lastmodified":1492089164,
     "wof:name":"Mini Indi Raceway",
     "wof:parent_id":85820771,
     "wof:placetype":"venue",

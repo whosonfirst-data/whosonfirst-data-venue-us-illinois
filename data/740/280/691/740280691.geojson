@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.176111,41.457984,-88.176111,41.457984",
     "geom:latitude":41.457984,
     "geom:longitude":-88.176111,
@@ -34,11 +35,13 @@
     "sg:website":"http://www.blueplanetgas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,10 @@
     "wof:geomhash":"c9d8a0912ad2f31102611dd23d5b837e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":740280691,
-    "wof:lastmodified":1472622034,
+    "wof:lastmodified":1492097915,
     "wof:name":"Fhr Chemical",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

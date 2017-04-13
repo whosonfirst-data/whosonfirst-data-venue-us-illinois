@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.243084,41.694937,-88.243084,41.694937",
     "geom:latitude":41.694937,
     "geom:longitude":-88.243084,
@@ -38,7 +39,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NNW909QEpdyFjZb0Ypxy5_41.694937_-88.243084@1303262862"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461954918,
     "wof:geomhash":"4250123bd528576c9dca6ec3155312a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756072541
+        }
+    ],
     "wof:id":756072541,
-    "wof:lastmodified":1472621397,
+    "wof:lastmodified":1492097837,
     "wof:name":"Woodland Imports Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.399366,41.62687,-88.399366,41.62687",
     "geom:latitude":41.62687,
     "geom:longitude":-88.399366,
@@ -32,7 +33,13 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bIbLPyQA4kXDCHz0knXLb_41.626870_-88.399366@1303262862"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954845,
     "wof:geomhash":"b242f54793ae101b1d5a4d35de4facc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "region_id":85688697,
+            "venue_id":756068759
+        }
+    ],
     "wof:id":756068759,
-    "wof:lastmodified":1472621406,
+    "wof:lastmodified":1492089970,
     "wof:name":"Bulldog Disposal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

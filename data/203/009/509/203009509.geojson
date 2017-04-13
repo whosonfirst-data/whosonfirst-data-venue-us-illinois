@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.199744,41.514937,-88.199744,41.514937",
     "geom:latitude":41.514937,
     "geom:longitude":-88.199744,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85809821,
+        102191575,
+        404499223,
         85633793,
+        85940583,
         102080845,
-        85809821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"94a230b2e7c406214e94445d7de5bf32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":-1,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
             "neighbourhood_id":85809821,
             "region_id":85688697,
             "venue_id":203009509
         }
     ],
     "wof:id":203009509,
-    "wof:lastmodified":1472620747,
+    "wof:lastmodified":1492090939,
     "wof:name":"The ADS",
     "wof:parent_id":85809821,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.859621,41.77525,-87.859621,41.77525",
     "geom:latitude":41.77525,
     "geom:longitude":-87.859621,
@@ -28,7 +29,14 @@
     "sg:postcode":"60525",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940821,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sFiIQNP40f2XhO2jgyqQJ_41.775250_-87.859621@1303262860"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954597,
     "wof:geomhash":"6ff29ac67e76ed804eb110363bd8ec05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940821,
+            "region_id":85688697,
+            "venue_id":756057629
+        }
+    ],
     "wof:id":756057629,
-    "wof:lastmodified":1472621217,
+    "wof:lastmodified":1492089938,
     "wof:name":"Arlington Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

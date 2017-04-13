@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.083128,41.775735,-88.083128,41.775735",
     "geom:latitude":41.775735,
     "geom:longitude":-88.083128,
@@ -31,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t0MMVBPsanHTBgMCv79IW_41.775735_-88.083128@1303262861"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461954639,
     "wof:geomhash":"598ed64cb449231b2c77853ef4b4c6d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059867
+        }
+    ],
     "wof:id":756059867,
-    "wof:lastmodified":1472621298,
+    "wof:lastmodified":1492089926,
     "wof:name":"Four Lakes Village",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

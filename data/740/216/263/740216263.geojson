@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.14048,42.03508,-88.14048,42.03508",
     "geom:latitude":42.03508,
     "geom:longitude":-88.14048,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.skysoaring.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497623,
+        85633793,
+        85940929,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GMmqFw5qEIWzwmidZbmr9_42.035080_-88.140480@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952217,
     "wof:geomhash":"5b885ca25d8323f329f9dd8e71e3172c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497623,
+            "locality_id":85940929,
+            "region_id":85688697,
+            "venue_id":740216263
+        }
+    ],
     "wof:id":740216263,
-    "wof:lastmodified":1472621913,
+    "wof:lastmodified":1492093411,
     "wof:name":"Sky Soaring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

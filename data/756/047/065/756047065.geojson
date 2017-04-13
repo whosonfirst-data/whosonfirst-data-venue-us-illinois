@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862297,41.740002,-87.862297,41.740002",
     "geom:latitude":41.740002,
     "geom:longitude":-87.862297,
@@ -28,7 +29,14 @@
     "sg:postcode":"60480",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cr2n5XPQwvkMMvWGl2YLZ_41.740002_-87.862297@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954378,
     "wof:geomhash":"b38e082f3f9c51d05464927915c40cb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047065
+        }
+    ],
     "wof:id":756047065,
-    "wof:lastmodified":1472621126,
+    "wof:lastmodified":1492102148,
     "wof:name":"Garand Carrie State Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

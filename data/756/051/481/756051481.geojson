@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.281988,41.792823,-88.281988,41.792823",
     "geom:latitude":41.792823,
     "geom:longitude":-88.281988,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.earthmovercu.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PJ3LF35Yv0DuSzr4X72U2_41.792823_-88.281988@1303262860"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954469,
     "wof:geomhash":"b4ef17e064726d2bf15a59456b826784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756051481
+        }
+    ],
     "wof:id":756051481,
-    "wof:lastmodified":1472621157,
+    "wof:lastmodified":1492093102,
     "wof:name":"Earthmover Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

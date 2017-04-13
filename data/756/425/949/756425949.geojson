@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.882247,41.156961,-87.882247,41.156961",
     "geom:latitude":41.156961,
     "geom:longitude":-87.882247,
@@ -32,7 +33,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ogIUOzOAdk1q4cojyKfFl_41.156961_-87.882247@1303262910"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461962921,
     "wof:geomhash":"7c55355ac6623b72f0e3df832392b955",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":756425949
+        }
+    ],
     "wof:id":756425949,
-    "wof:lastmodified":1472622215,
+    "wof:lastmodified":1492095803,
     "wof:name":"Peoples Bank Of Kankakee County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

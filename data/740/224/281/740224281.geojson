@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.470585,41.892224,-88.470585,41.892224",
     "geom:latitude":41.892224,
     "geom:longitude":-88.470585,
@@ -28,7 +29,10 @@
     "sg:postcode":"60119",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PdMw6sMG9EyMPtfdzC58a_41.892224_-88.470585@1303262847"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461952382,
     "wof:geomhash":"4f3436554a896a41aa69ab259ba72a41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224281
+        }
+    ],
     "wof:id":740224281,
-    "wof:lastmodified":1472621916,
+    "wof:lastmodified":1492093650,
     "wof:name":"Town & Country Public Library",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954855,42.288201,-87.954855,42.288201",
     "geom:latitude":42.288201,
     "geom:longitude":-87.954855,
@@ -33,7 +34,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HI7Sv4J04pnrhpEeCtbQs_42.288201_-87.954855@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461950746,
     "wof:geomhash":"c4fbc7ced0c2bdc47838e7243a852862",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740148627
+        }
+    ],
     "wof:id":740148627,
-    "wof:lastmodified":1472621722,
+    "wof:lastmodified":1492088658,
     "wof:name":"The Tavern",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

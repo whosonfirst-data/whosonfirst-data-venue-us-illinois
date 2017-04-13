@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.830132,42.375191,-87.830132,42.375191",
     "geom:latitude":42.375191,
     "geom:longitude":-87.830132,
@@ -34,7 +35,10 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BeG91xrDHb94jF09mYONZ_42.375191_-87.830132@1303262844"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461951889,
     "wof:geomhash":"464505e99fdadb61d9e35c6889a6fef1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519115,
+            "venue_id":740202303
+        }
+    ],
     "wof:id":740202303,
-    "wof:lastmodified":1472621867,
+    "wof:lastmodified":1492091338,
     "wof:name":"Pier Electric Corporation",
     "wof:parent_id":420519115,
     "wof:placetype":"venue",

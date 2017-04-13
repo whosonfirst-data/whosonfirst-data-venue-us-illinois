@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.188026,41.879129,-88.188026,41.879129",
     "geom:latitude":41.879129,
     "geom:longitude":-88.188026,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"www.tjmaintenance.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mg6Dstg0icO8dVD000UGy_41.879129_-88.188026@1303262851"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461953034,
     "wof:geomhash":"a292b441386c2db8c0a4e3f1e5cccdd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518999,
+            "venue_id":740254063
+        }
+    ],
     "wof:id":740254063,
-    "wof:lastmodified":1472621958,
+    "wof:lastmodified":1492093400,
     "wof:name":"T J Maintenance Inc",
     "wof:parent_id":420518999,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.114357,41.832495,-88.114357,41.832495",
     "geom:latitude":41.832495,
     "geom:longitude":-88.114357,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891061,
+        102191575,
+        404497653,
         85633793,
+        85940139,
         102081257,
-        85891061
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"b35d54410648d3ff4c8580dbba83330e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497653,
+            "locality_id":85940139,
             "neighbourhood_id":85891061,
             "region_id":85688697,
             "venue_id":286500233
         }
     ],
     "wof:id":286500233,
-    "wof:lastmodified":1472621356,
+    "wof:lastmodified":1492106029,
     "wof:name":"Abigail Press",
     "wof:parent_id":85891061,
     "wof:placetype":"venue",

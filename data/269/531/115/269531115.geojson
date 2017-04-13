@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.918953,42.060355,-87.918953,42.060355",
     "geom:latitude":42.060355,
     "geom:longitude":-87.918953,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890855,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890855
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"72d96de7213dd36b907b24b73a7820df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890855,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269531115,
-    "wof:lastmodified":1472620906,
+    "wof:lastmodified":1492090842,
     "wof:name":"Angelucci Stev",
     "wof:parent_id":85890855,
     "wof:placetype":"venue",

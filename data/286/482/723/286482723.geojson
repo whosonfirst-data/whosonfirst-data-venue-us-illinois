@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.316766,41.780664,-88.316766,41.780664",
     "geom:latitude":41.780664,
     "geom:longitude":-88.316766,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876055,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876055
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"b3adb4435f87d4d9fff3021c32ac6cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":286482723,
-    "wof:lastmodified":1472621344,
+    "wof:lastmodified":1492105792,
     "wof:name":"Aurora Fruit Market Inc",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",

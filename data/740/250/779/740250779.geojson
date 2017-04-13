@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070848,41.981243,-88.070848,41.981243",
     "geom:latitude":41.981243,
     "geom:longitude":-88.070848,
@@ -33,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Eq8ts2aB3r4w9JuvmI75_41.981243_-88.070848@1303262850"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952965,
     "wof:geomhash":"d7eaad1479999fea8998a9681d1a9f55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740250779
+        }
+    ],
     "wof:id":740250779,
-    "wof:lastmodified":1472621984,
+    "wof:lastmodified":1492093054,
     "wof:name":"A & L Pro Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

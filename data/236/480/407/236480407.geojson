@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.544192,41.597236,-87.544192,41.597236",
     "geom:latitude":41.597236,
     "geom:longitude":-87.544192,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847347,
+        102191575,
+        404497591,
         85633793,
         85940887,
         102084317,
-        85847347
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c728c758c91139e04387387205ba7fa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940887,
             "neighbourhood_id":85847347,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":236480407,
-    "wof:lastmodified":1472621682,
+    "wof:lastmodified":1492106641,
     "wof:name":"Calumet City Bible Church Inc",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",

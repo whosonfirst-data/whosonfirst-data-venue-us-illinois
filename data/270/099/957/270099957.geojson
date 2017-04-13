@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158805,42.008886,-88.158805,42.008886",
     "geom:latitude":42.008886,
     "geom:longitude":-88.158805,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518875,
+        102191575,
+        404497587,
         85633793,
-        85940189,
-        102081257
+        85940179,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"a1cd580e9af22665a3c968aeabf7b1be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940189,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "neighbourhood_id":420518875,
             "region_id":85688697,
             "venue_id":270099957
         }
     ],
     "wof:id":270099957,
-    "wof:lastmodified":1472621062,
+    "wof:lastmodified":1492088042,
     "wof:name":"Bit-N-Bridle Saddlery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

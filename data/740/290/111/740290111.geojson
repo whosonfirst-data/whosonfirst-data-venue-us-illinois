@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.01784,41.490382,-88.01784,41.490382",
     "geom:latitude":41.490382,
     "geom:longitude":-88.01784,
@@ -54,7 +55,10 @@
     ],
     "sg:website":"http://www.ritterservices.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uSnEAbooeRPrGDrouS1rS_41.490382_-88.017840@1303262855"
@@ -62,9 +66,15 @@
     "wof:country":"US",
     "wof:created":1461953780,
     "wof:geomhash":"cc1a4450054b99d7eb5605e999f68d31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":740290111
+        }
+    ],
     "wof:id":740290111,
-    "wof:lastmodified":1472622004,
+    "wof:lastmodified":1492092887,
     "wof:name":"Ritter Services Inc",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

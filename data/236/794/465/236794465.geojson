@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9863,41.7476,-87.9863,41.7476",
     "geom:latitude":41.7476,
     "geom:longitude":-87.9863,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828963,
+        102191575,
+        404497649,
         85633793,
         85940167,
         102081257,
-        85828963
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"724ab384e75c7a6d657c5a09d19593ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940167,
             "neighbourhood_id":85828963,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":236794465,
-    "wof:lastmodified":1472621770,
+    "wof:lastmodified":1492106648,
     "wof:name":"Paul St Peter Orthodox Church",
     "wof:parent_id":85828963,
     "wof:placetype":"venue",

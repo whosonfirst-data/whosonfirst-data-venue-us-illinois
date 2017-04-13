@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.275906,42.308064,-88.275906,42.308064",
     "geom:latitude":42.308064,
     "geom:longitude":-88.275906,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85833271,
+        102191575,
+        404499149,
         85633793,
+        85938989,
         102081661,
-        85833271
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"27e69879404533822e8e2799ed09abbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499149,
+            "locality_id":85938989,
             "neighbourhood_id":85833271,
             "region_id":85688697,
             "venue_id":270490339
         }
     ],
     "wof:id":270490339,
-    "wof:lastmodified":1472621506,
+    "wof:lastmodified":1492090940,
     "wof:name":"Nike Hydraulics Inc",
     "wof:parent_id":85833271,
     "wof:placetype":"venue",

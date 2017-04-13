@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.034761,40.837548,-88.034761,40.837548",
     "geom:latitude":40.837548,
     "geom:longitude":-88.034761,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498183,
         85633793,
-        85688697
+        102086209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,16 @@
     "wof:geomhash":"b14739249655e1ec58a23b7bab515807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086209,
+            "localadmin_id":404498183,
             "region_id":85688697,
             "venue_id":253484961
         }
     ],
     "wof:id":253484961,
-    "wof:lastmodified":1472621556,
+    "wof:lastmodified":1492095939,
     "wof:name":"Walter Wilken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

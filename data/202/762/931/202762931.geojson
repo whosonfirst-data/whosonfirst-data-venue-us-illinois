@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.681156,41.662645,-87.681156,41.662645",
     "geom:latitude":41.662645,
     "geom:longitude":-87.681156,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518687,
+        102191575,
+        404497667,
         85633793,
         85940899,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"28d49e15fc286322c7fbbdc2aa77d231",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940899,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":202762931
         }
     ],
     "wof:id":202762931,
-    "wof:lastmodified":1472621245,
+    "wof:lastmodified":1492090530,
     "wof:name":"Blue Island Nursing Home Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

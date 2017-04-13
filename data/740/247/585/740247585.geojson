@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.90242,41.871391,-87.90242,41.871391",
     "geom:latitude":41.871391,
     "geom:longitude":-87.90242,
@@ -53,7 +54,14 @@
     ],
     "sg:website":"http://www.filitrac.com/Click.aspx?tid=F3439D2876F09282898A01E63FD68B19&FiliAff=15016&sid=yellowpages&sid=yellowpages&mwnid=local-directory&mwpid=yellowpages&utm_source=yellowpages&utm_medium=cpc&utm_campaign=Beds-Bedroom",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940823,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cKFHMhJvcPyCHgjOaxYNu_41.871391_-87.902420@1303262850"
@@ -61,9 +69,19 @@
     "wof:country":"US",
     "wof:created":1461952900,
     "wof:geomhash":"4ea952c4598ee8b2d914626d45b4eec6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940823,
+            "region_id":85688697,
+            "venue_id":740247585
+        }
+    ],
     "wof:id":740247585,
-    "wof:lastmodified":1472621971,
+    "wof:lastmodified":1492107821,
     "wof:name":"The RoomPlace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

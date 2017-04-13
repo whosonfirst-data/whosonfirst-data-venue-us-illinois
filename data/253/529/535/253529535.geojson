@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.821089,41.691926,-87.821089,41.691926",
     "geom:latitude":41.691926,
     "geom:longitude":-87.821089,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890891,
+        102191575,
+        404496277,
         85633793,
-        85940745,
+        85940747,
         102084317,
-        85890891
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"f32a062a802b51e63291027eccccfadf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940745,
+            "localadmin_id":404496277,
+            "locality_id":85940747,
             "neighbourhood_id":85890891,
             "region_id":85688697,
             "venue_id":253529535
         }
     ],
     "wof:id":253529535,
-    "wof:lastmodified":1472621572,
+    "wof:lastmodified":1492103911,
     "wof:name":"Five Brother 2 Food Mart Inc",
     "wof:parent_id":85890891,
     "wof:placetype":"venue",

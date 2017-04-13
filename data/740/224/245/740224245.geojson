@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.469668,41.901149,-88.469668,41.901149",
     "geom:latitude":41.901149,
     "geom:longitude":-88.469668,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.prairieviewmed.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZOZPv9pNiwhdbReJBwora_41.901149_-88.469668@1303262847"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461952381,
     "wof:geomhash":"7794e58e7c991960e07df54e970df18c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224245
+        }
+    ],
     "wof:id":740224245,
-    "wof:lastmodified":1472621912,
+    "wof:lastmodified":1492093324,
     "wof:name":"Prairieview Medicine",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

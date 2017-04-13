@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.784746,41.586431,-87.784746,41.586431",
     "geom:latitude":41.586431,
     "geom:longitude":-87.784746,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890953,
+        102191575,
+        404497643,
         85633793,
+        85940515,
         102084317,
-        85890953
+        85688697
     ],
     "wof:brand_id":420574163,
     "wof:breaches":[],
@@ -46,17 +50,18 @@
     "wof:geomhash":"e522df703ff14c213385488902df78fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
             "neighbourhood_id":85890953,
             "region_id":85688697,
             "venue_id":287188581
         }
     ],
     "wof:id":287188581,
-    "wof:lastmodified":1472621162,
+    "wof:lastmodified":1492105584,
     "wof:name":"Ryder",
     "wof:parent_id":85890953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.112679,41.23407,-88.112679,41.23407",
     "geom:latitude":41.23407,
     "geom:longitude":-88.112679,
@@ -33,7 +34,13 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497099,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aEnOORHtJ3f5Hc2b2AL7d_41.234006_-88.112619@1293134755"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461949969,
     "wof:geomhash":"d6d00a0b61ca269380bb64ec13b69d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497099,
+            "region_id":85688697,
+            "venue_id":740116085
+        }
+    ],
     "wof:id":740116085,
-    "wof:lastmodified":1472621244,
+    "wof:lastmodified":1492090658,
     "wof:name":"R&R Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

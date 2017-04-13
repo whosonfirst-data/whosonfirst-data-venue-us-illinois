@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.872036,41.65795,-88.872036,41.65795",
     "geom:latitude":41.65795,
     "geom:longitude":-88.872036,
@@ -26,7 +27,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497713,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j4e5H6jA6tJayi34YjRvG_41.657950_-88.872036@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461950649,
     "wof:geomhash":"bac05adb97b0f564ed8eaf56c7579227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497713,
+            "region_id":85688697,
+            "venue_id":740144059
+        }
+    ],
     "wof:id":740144059,
-    "wof:lastmodified":1472621695,
+    "wof:lastmodified":1492088574,
     "wof:name":"Stephen R Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

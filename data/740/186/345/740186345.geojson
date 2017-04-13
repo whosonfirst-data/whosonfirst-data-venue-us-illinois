@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.087547,42.340992,-88.087547,42.340992",
     "geom:latitude":42.340992,
     "geom:longitude":-88.087547,
@@ -50,11 +51,13 @@
     "sg:website":"http://www.techstarcorp.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,16 +68,18 @@
     "wof:geomhash":"ed227cee3f53d1470900d36603cd8fe0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740186345
         }
     ],
     "wof:id":740186345,
-    "wof:lastmodified":1472621833,
+    "wof:lastmodified":1492109981,
     "wof:name":"Techstar America",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

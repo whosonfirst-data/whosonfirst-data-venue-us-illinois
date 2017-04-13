@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.010968,41.833408,-88.010968,41.833408",
     "geom:latitude":41.833408,
     "geom:longitude":-88.010968,
@@ -30,11 +31,13 @@
     "sg:website":"www.corvel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825105,
+        102191575,
+        404497661,
         85633793,
         85940153,
         102081257,
-        85825105
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"570862b6e83e889e4e09a43ff12302f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940153,
             "neighbourhood_id":85825105,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286753787,
-    "wof:lastmodified":1472621658,
+    "wof:lastmodified":1492109313,
     "wof:name":"Cor Vel Corp",
     "wof:parent_id":85825105,
     "wof:placetype":"venue",

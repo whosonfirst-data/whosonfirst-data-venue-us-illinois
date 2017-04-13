@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.091955,41.852159,-88.091955,41.852159",
     "geom:latitude":41.852159,
     "geom:longitude":-88.091955,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891049,
+        102191575,
+        404497653,
         85633793,
         85940139,
         102081257,
-        85891049
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cea5b4409b4e4879027a9b5c2c785d64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
             "neighbourhood_id":85891049,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269622653,
-    "wof:lastmodified":1472621132,
+    "wof:lastmodified":1492088923,
     "wof:name":"Wheaton Wesleyan Church",
     "wof:parent_id":85891049,
     "wof:placetype":"venue",

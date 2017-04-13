@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.447836,41.648837,-88.447836,41.648837",
     "geom:latitude":41.648837,
     "geom:longitude":-88.447836,
@@ -31,7 +32,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K3AQhKc2g5YrUfmD7IErf_41.648837_-88.447836@1303262862"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954844,
     "wof:geomhash":"b9b17594242174aa38c3c77a004a4641",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756068689
+        }
+    ],
     "wof:id":756068689,
-    "wof:lastmodified":1472621394,
+    "wof:lastmodified":1492107492,
     "wof:name":"Yorkville Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

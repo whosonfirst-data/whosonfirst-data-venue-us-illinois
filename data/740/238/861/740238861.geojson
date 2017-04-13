@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042223,41.977826,-88.042223,41.977826",
     "geom:latitude":41.977826,
     "geom:longitude":-88.042223,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.benchmarkdoor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BskvjPnzAhkPV8HwHcwcD_41.977826_-88.042223@1303262849"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461952716,
     "wof:geomhash":"c4a2f58a0daa95e7c58c3e1f2cf8625a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740238861
+        }
+    ],
     "wof:id":740238861,
-    "wof:lastmodified":1472621954,
+    "wof:lastmodified":1492104242,
     "wof:name":"Benchmark Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.279198,41.76733,-88.279198,41.76733",
     "geom:latitude":41.76733,
     "geom:longitude":-88.279198,
@@ -34,7 +35,13 @@
         "pressure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b8VNBmFSdDGPxyNqkhgp4_41.767330_-88.279198@1303262860"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461954471,
     "wof:geomhash":"a1fb31f67606f9e26998092b41e67afa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "region_id":85688697,
+            "venue_id":756051537
+        }
+    ],
     "wof:id":756051537,
-    "wof:lastmodified":1472621152,
+    "wof:lastmodified":1492089838,
     "wof:name":"All Molding Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

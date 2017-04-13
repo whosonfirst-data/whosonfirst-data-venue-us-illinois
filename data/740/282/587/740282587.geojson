@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.544412,41.443553,-87.544412,41.443553",
     "geom:latitude":41.443553,
     "geom:longitude":-87.544412,
@@ -38,7 +39,14 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85941267,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76nsu1cMo5696nhK6DCmTR_41.443553_-87.544412@1303262854"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953623,
     "wof:geomhash":"5d4068f249f834ae964df037025f1430",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85941267,
+            "region_id":85688697,
+            "venue_id":740282587
+        }
+    ],
     "wof:id":740282587,
-    "wof:lastmodified":1472622035,
+    "wof:lastmodified":1492102125,
     "wof:name":"Laird Appraisals Tr Laird Dba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558747,41.570771,-87.558747,41.570771",
     "geom:latitude":41.570771,
     "geom:longitude":-87.558747,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"67da27c7bdb33cca7bcc17d299637791",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":219381515
         }
     ],
     "wof:id":219381515,
-    "wof:lastmodified":1472621282,
+    "wof:lastmodified":1492090411,
     "wof:name":"Bumper To Bumper",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

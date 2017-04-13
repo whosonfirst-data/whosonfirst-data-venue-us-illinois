@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078551,41.984251,-88.078551,41.984251",
     "geom:latitude":41.984251,
     "geom:longitude":-88.078551,
@@ -31,7 +32,14 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yvFJe7daobzen4SIM1dDk_41.984251_-88.078551@1303262850"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952943,
     "wof:geomhash":"266dc06fa6b90ac8cb05689f3f8e0d89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249605
+        }
+    ],
     "wof:id":740249605,
-    "wof:lastmodified":1472621975,
+    "wof:lastmodified":1492092435,
     "wof:name":"Tia Maria's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

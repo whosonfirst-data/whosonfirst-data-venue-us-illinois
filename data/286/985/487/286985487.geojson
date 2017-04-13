@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.040582,41.748516,-88.040582,41.748516",
     "geom:latitude":41.748516,
     "geom:longitude":-88.040582,
@@ -34,10 +35,13 @@
     "sg:website":"www.53.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519029,
+        102191575,
+        404497651,
         85633793,
         85940203,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:brand_id":420574119,
     "wof:breaches":[],
@@ -48,19 +52,20 @@
     "wof:geomhash":"462c286bcc87e22cc17693402f8c4fba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940203,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519029,
             "region_id":85688697,
             "venue_id":286985487
         }
     ],
     "wof:id":286985487,
-    "wof:lastmodified":1472621710,
+    "wof:lastmodified":1492090492,
     "wof:name":"Fifth Third Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

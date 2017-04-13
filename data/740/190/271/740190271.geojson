@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.94979,42.2827,-87.94979,42.2827",
     "geom:latitude":42.2827,
     "geom:longitude":-87.94979,
@@ -47,7 +48,10 @@
     ],
     "sg:website":"http://www.toptec.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WYCqKeHzjepBBzN5zzcjJ_42.282700_-87.949790@1303262842"
@@ -55,9 +59,15 @@
     "wof:country":"US",
     "wof:created":1461951653,
     "wof:geomhash":"0feaf95b4bff3f8ef663123a27edf7c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190271
+        }
+    ],
     "wof:id":740190271,
-    "wof:lastmodified":1472621856,
+    "wof:lastmodified":1492088659,
     "wof:name":"TopTec Parts & Supplies",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

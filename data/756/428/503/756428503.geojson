@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.899434,42.251007,-88.899434,42.251007",
     "geom:latitude":42.251007,
     "geom:longitude":-88.899434,
@@ -39,7 +40,13 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ocCZqwbYcaDxcDDeJWWFu_42.251007_-88.899434@1303262910"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461962974,
     "wof:geomhash":"11211cc6b58b35cac3279585851c599c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "region_id":85688697,
+            "venue_id":756428503
+        }
+    ],
     "wof:id":756428503,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492094823,
     "wof:name":"A B C Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

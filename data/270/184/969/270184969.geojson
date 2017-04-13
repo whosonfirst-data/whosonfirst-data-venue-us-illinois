@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.54794,41.550569,-87.54794,41.550569",
     "geom:latitude":41.550569,
     "geom:longitude":-87.54794,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"751d96890baaaf98b9688cdbefd677cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":270184969
         }
     ],
     "wof:id":270184969,
-    "wof:lastmodified":1472621214,
+    "wof:lastmodified":1492105325,
     "wof:name":"Aquamist Plumbing & Lawn Inc",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

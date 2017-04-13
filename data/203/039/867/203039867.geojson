@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.139264,41.527486,-88.139264,41.527486",
     "geom:latitude":41.527486,
     "geom:longitude":-88.139264,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"095d542177f1edc0e082866866434a1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203039867,
-    "wof:lastmodified":1472620824,
+    "wof:lastmodified":1492092128,
     "wof:name":"Duke's Catering",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

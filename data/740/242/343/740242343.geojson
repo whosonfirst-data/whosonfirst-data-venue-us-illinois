@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.833504,41.879101,-87.833504,41.879101",
     "geom:latitude":41.879101,
     "geom:longitude":-87.833504,
@@ -28,7 +29,10 @@
     "sg:postcode":"60153",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TYdWjPjFhxqNomzBha4nD_41.879101_-87.833504@1303262849"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461952788,
     "wof:geomhash":"b14b0366f4c1db3746f1d1a60db25601",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518725,
+            "venue_id":740242343
+        }
+    ],
     "wof:id":740242343,
-    "wof:lastmodified":1472621960,
+    "wof:lastmodified":1492092798,
     "wof:name":"Al's Drive In Inc",
     "wof:parent_id":420518725,
     "wof:placetype":"venue",

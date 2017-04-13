@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.330367,42.18517,-88.330367,42.18517",
     "geom:latitude":42.18517,
     "geom:longitude":-88.330367,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519185,
+        102191575,
+        404499077,
         85633793,
-        85938997,
-        102081661
+        85939019,
+        102081661,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"afe23da4bd3404967f5682bb308de20b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":85938997,
-            "neighbourhood_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939019,
+            "neighbourhood_id":420519185,
             "region_id":85688697,
             "venue_id":269573253
         }
     ],
     "wof:id":269573253,
-    "wof:lastmodified":1472621030,
+    "wof:lastmodified":1492102359,
     "wof:name":"Future Horizons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

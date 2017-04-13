@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.850744,41.630463,-87.850744,41.630463",
     "geom:latitude":41.630463,
     "geom:longitude":-87.850744,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890895,
+        102191575,
+        404497643,
         85633793,
         85940535,
         102084317,
-        85890895
+        85688697
     ],
     "wof:brand_id":420573865,
     "wof:breaches":[],
@@ -44,9 +47,10 @@
     "wof:geomhash":"a1a015578f290b49319cfca767c88139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940535,
             "neighbourhood_id":85890895,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":287175129,
-    "wof:lastmodified":1472621116,
+    "wof:lastmodified":1492093108,
     "wof:name":"Century 21",
     "wof:parent_id":85890895,
     "wof:placetype":"venue",

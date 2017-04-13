@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.809303,41.660599,-87.809303,41.660599",
     "geom:latitude":41.660599,
     "geom:longitude":-87.809303,
@@ -31,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497667,
+        85633793,
+        85940749,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pkWy47cQ51yKok9iB98Tn_41.660599_-87.809303@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954270,
     "wof:geomhash":"612e291d31b035b25d8a38a7f7c9c802",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940749,
+            "region_id":85688697,
+            "venue_id":756042023
+        }
+    ],
     "wof:id":756042023,
-    "wof:lastmodified":1472621046,
+    "wof:lastmodified":1492102106,
     "wof:name":"Medallion School Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

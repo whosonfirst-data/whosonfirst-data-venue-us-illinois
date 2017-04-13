@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.072903,41.95532,-88.072903,41.95532",
     "geom:latitude":41.95532,
     "geom:longitude":-88.072903,
@@ -34,7 +35,14 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XNQLrA325cgjIAIerwYTB_41.955320_-88.072903@1303262846"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952242,
     "wof:geomhash":"35727d40e6eeb8f82ce51afc3614edae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217435
+        }
+    ],
     "wof:id":740217435,
-    "wof:lastmodified":1472621918,
+    "wof:lastmodified":1492089635,
     "wof:name":"Tnt Super Steel Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

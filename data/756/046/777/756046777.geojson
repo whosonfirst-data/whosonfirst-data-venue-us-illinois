@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.609016,41.571004,-87.609016,41.571004",
     "geom:latitude":41.571004,
     "geom:longitude":-87.609016,
@@ -42,7 +43,14 @@
     ],
     "sg:website":"http://www.tomboone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940925,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x55IaMFGvopmNUU9dSQEk_41.571004_-87.609016@1303262859"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461954373,
     "wof:geomhash":"7c428f9abf8a4934af3a63868a321322",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940925,
+            "region_id":85688697,
+            "venue_id":756046777
+        }
+    ],
     "wof:id":756046777,
-    "wof:lastmodified":1472621175,
+    "wof:lastmodified":1492089954,
     "wof:name":"Tom Houts Telephone Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

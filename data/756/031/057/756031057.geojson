@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.424774,41.388674,-88.424774,41.388674",
     "geom:latitude":41.388674,
     "geom:longitude":-88.424774,
@@ -43,11 +44,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;222816988;46581822;v?http://www.hiexpress.com/redirect?path=hd&brandCode=ex&hotelCode=mrims&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-ex-_-mrims",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867849,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85867849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +61,10 @@
     "wof:geomhash":"ff2c94b4df7b953781f10e7f53a21170",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85867849,
             "region_id":85688697,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":756031057,
-    "wof:lastmodified":1472620819,
+    "wof:lastmodified":1492097939,
     "wof:name":"Holiday Inn Express Hotel & Suites Morris",
     "wof:parent_id":85867849,
     "wof:placetype":"venue",

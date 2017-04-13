@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.738612,42.026167,-87.738612,42.026167",
     "geom:latitude":42.026167,
     "geom:longitude":-87.738612,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497635,
         85633793,
-        85940195,
-        102084317,
-        85869249
+        85940943,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"e6d999c526456065ea8be7dcd1aa446c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869249,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
             "region_id":85688697,
             "venue_id":219744237
         }
     ],
     "wof:id":219744237,
-    "wof:lastmodified":1472621584,
+    "wof:lastmodified":1492106312,
     "wof:name":"Gold Blatts Home Improvement",
-    "wof:parent_id":85869249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

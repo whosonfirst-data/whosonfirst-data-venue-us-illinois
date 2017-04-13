@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.865238,41.797528,-87.865238,41.797528",
     "geom:latitude":41.797528,
     "geom:longitude":-87.865238,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940805,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bloOXpKKVDSzYO6XRSp3A_41.797528_-87.865238@1303262860"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954604,
     "wof:geomhash":"84a89e3bb84f0089dc3b80e2708c0378",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940805,
+            "region_id":85688697,
+            "venue_id":756057943
+        }
+    ],
     "wof:id":756057943,
-    "wof:lastmodified":1472621236,
+    "wof:lastmodified":1492089984,
     "wof:name":"Copot Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

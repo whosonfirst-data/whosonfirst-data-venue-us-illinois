@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.752542,41.930292,-88.752542,41.930292",
     "geom:latitude":41.930292,
     "geom:longitude":-88.752542,
@@ -44,7 +45,14 @@
     ],
     "sg:website":"http://www.eduardosdekalb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p6E1yyRDoEN9w3PheDifR_41.930292_-88.752542@1303262847"
@@ -52,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461952325,
     "wof:geomhash":"a0b6a397efa345f4f507d4afac72b4bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221455
+        }
+    ],
     "wof:id":740221455,
-    "wof:lastmodified":1472621919,
+    "wof:lastmodified":1492089491,
     "wof:name":"Eduardo's Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

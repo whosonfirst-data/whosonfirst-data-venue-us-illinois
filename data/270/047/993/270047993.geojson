@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.699144,41.677063,-87.699144,41.677063",
     "geom:latitude":41.677063,
     "geom:longitude":-87.699144,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497667,
         85633793,
-        85940195,
-        102084317,
-        85866783
+        85940783,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"ccac7fa0a0e24d3f45cd317d4d5f6e1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85866783,
+            "localadmin_id":404497667,
+            "locality_id":85940783,
             "region_id":85688697,
             "venue_id":270047993
         }
     ],
     "wof:id":270047993,
-    "wof:lastmodified":1472620903,
+    "wof:lastmodified":1492091373,
     "wof:name":"Courts Management",
-    "wof:parent_id":85866783,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

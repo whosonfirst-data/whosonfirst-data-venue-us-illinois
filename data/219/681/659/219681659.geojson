@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.767078,41.719761,-87.767078,41.719761",
     "geom:latitude":41.719761,
     "geom:longitude":-87.767078,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:brand_id":420574273,
     "wof:breaches":[],
@@ -49,9 +52,10 @@
     "wof:geomhash":"1666b6af608ace74fc37fe41546554a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":219681659,
-    "wof:lastmodified":1472621547,
+    "wof:lastmodified":1492097787,
     "wof:name":"Amoco",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.830498,41.666599,-87.830498,41.666599",
     "geom:latitude":41.666599,
     "geom:longitude":-87.830498,
@@ -28,7 +29,14 @@
     "sg:postcode":"60464",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496277,
+        85633793,
+        85940745,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01uhrezsicW2mfruecQUJ7_41.666599_-87.830498@1303262859"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954297,
     "wof:geomhash":"38920a248200d5aef2f1be19544e2fa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496277,
+            "locality_id":85940745,
+            "region_id":85688697,
+            "venue_id":756043477
+        }
+    ],
     "wof:id":756043477,
-    "wof:lastmodified":1472621157,
+    "wof:lastmodified":1492092688,
     "wof:name":"O'malley Patrick J Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

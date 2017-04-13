@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.679293,41.542659,-87.679293,41.542659",
     "geom:latitude":41.542659,
     "geom:longitude":-87.679293,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85851443,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85851443
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d13b6d8e0234b3517c944bc54b2e509d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85851443,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253285079,
-    "wof:lastmodified":1472621353,
+    "wof:lastmodified":1492090357,
     "wof:name":"Nancys Hallmark",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.292528,41.753723,-88.292528,41.753723",
     "geom:latitude":41.753723,
     "geom:longitude":-88.292528,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://plsloan.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E7U41hSOxhPMxfvQCzIbS_41.753723_-88.292528@1303262860"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954460,
     "wof:geomhash":"33af89626862d972f748d6c0670716ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756051151
+        }
+    ],
     "wof:id":756051151,
-    "wof:lastmodified":1472621146,
+    "wof:lastmodified":1492089838,
     "wof:name":"PLS Loan Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

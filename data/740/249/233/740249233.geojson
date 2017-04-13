@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066152,41.980843,-88.066152,41.980843",
     "geom:latitude":41.980843,
     "geom:longitude":-88.066152,
@@ -32,7 +33,14 @@
         "brunch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67QusqgMR7eer3EXJRjy9P_41.980843_-88.066152@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952937,
     "wof:geomhash":"8dbedad287c865d6bfe2ff4e71ebab3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249233
+        }
+    ],
     "wof:id":740249233,
-    "wof:lastmodified":1472621965,
+    "wof:lastmodified":1492102235,
     "wof:name":"Davi's Pancake House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

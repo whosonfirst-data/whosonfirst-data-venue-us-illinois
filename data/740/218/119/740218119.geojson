@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.083227,41.95768,-88.083227,41.95768",
     "geom:latitude":41.95768,
     "geom:longitude":-88.083227,
@@ -37,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ax3uZQugExTVJzvPkvCbx_41.957680_-88.083227@1303262846"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461952255,
     "wof:geomhash":"79c90b25a073a5af2c227851ea2e5dd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218119
+        }
+    ],
     "wof:id":740218119,
-    "wof:lastmodified":1472621908,
+    "wof:lastmodified":1492099304,
     "wof:name":"Old Town Realty Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

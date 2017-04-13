@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075203,41.983799,-88.075203,41.983799",
     "geom:latitude":41.983799,
     "geom:longitude":-88.075203,
@@ -28,7 +29,14 @@
     "sg:postcode":"60172",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FbQKJ39ytpcl2J8P8KCpW_41.983799_-88.075203@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952941,
     "wof:geomhash":"e30d2d4ce7b1073fef56d735a9711aa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249475
+        }
+    ],
     "wof:id":740249475,
-    "wof:lastmodified":1472621973,
+    "wof:lastmodified":1492097991,
     "wof:name":"Village Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

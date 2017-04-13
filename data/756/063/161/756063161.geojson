@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.307877,41.646049,-88.307877,41.646049",
     "geom:latitude":41.646049,
     "geom:longitude":-88.307877,
@@ -36,7 +37,13 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54mXgpqBVrVZBPkk1Mf1rs_41.646049_-88.307877@1303262861"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461954705,
     "wof:geomhash":"a9d47e5d3a77147d1040c2707b0b2734",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "region_id":85688697,
+            "venue_id":756063161
+        }
+    ],
     "wof:id":756063161,
-    "wof:lastmodified":1472621320,
+    "wof:lastmodified":1492089381,
     "wof:name":"Dymondee Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

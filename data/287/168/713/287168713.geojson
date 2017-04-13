@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.304674,41.833235,-88.304674,41.833235",
     "geom:latitude":41.833235,
     "geom:longitude":-88.304674,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"0c058bc0b23bbfe10ad9f0bb1db38241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":287168713,
-    "wof:lastmodified":1472621134,
+    "wof:lastmodified":1492097596,
     "wof:name":"Gordon Food Service Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

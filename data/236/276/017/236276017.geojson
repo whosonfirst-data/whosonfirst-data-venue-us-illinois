@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.722469,41.695838,-87.722469,41.695838",
     "geom:latitude":41.695838,
     "geom:longitude":-87.722469,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497667,
         85633793,
-        85940195,
-        102084317,
-        85866783
+        85940759,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"9b8213acd64b22a77987434498656de9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85866783,
+            "localadmin_id":404497667,
+            "locality_id":85940759,
             "region_id":85688697,
             "venue_id":236276017
         }
     ],
     "wof:id":236276017,
-    "wof:lastmodified":1472621438,
+    "wof:lastmodified":1492091298,
     "wof:name":"2oseph A Murray & Assoc",
-    "wof:parent_id":85866783,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

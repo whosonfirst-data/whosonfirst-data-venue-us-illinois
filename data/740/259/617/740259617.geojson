@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.140342,41.917627,-88.140342,41.917627",
     "geom:latitude":41.917627,
     "geom:longitude":-88.140342,
@@ -28,7 +29,14 @@
     "sg:postcode":"60188",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wvTlQ1FNePYPMC0OC80z9_41.917627_-88.140342@1303262851"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953147,
     "wof:geomhash":"395ffb28cee6bc0c92543dc8ee0a1aac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740259617
+        }
+    ],
     "wof:id":740259617,
-    "wof:lastmodified":1472621986,
+    "wof:lastmodified":1492091265,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

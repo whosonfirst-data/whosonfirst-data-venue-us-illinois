@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.122967,41.83707,-88.122967,41.83707",
     "geom:latitude":41.83707,
     "geom:longitude":-88.122967,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519025,
+        102191575,
+        404497653,
         85633793,
         85940139,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"77a7873541d17dfdc09f4aee70c7dbbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519025,
             "region_id":85688697,
             "venue_id":286954265
         }
     ],
     "wof:id":286954265,
-    "wof:lastmodified":1472621713,
+    "wof:lastmodified":1492088922,
     "wof:name":"Page S Custom Stringing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

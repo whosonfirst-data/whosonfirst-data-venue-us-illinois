@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042621,41.511191,-88.042621,41.511191",
     "geom:latitude":41.511191,
     "geom:longitude":-88.042621,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85843113,
+        102191575,
+        404499223,
         85633793,
-        85688697
+        85940583,
+        102080845,
+        85688697,
+        85816471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,30 @@
     "wof:geomhash":"ef9da813b50ec6c8913faed0198a4e17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
+            "neighbourhood_id":85843113,
+            "region_id":85688697,
+            "venue_id":252917009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
+            "neighbourhood_id":85816471,
             "region_id":85688697,
             "venue_id":252917009
         }
     ],
     "wof:id":252917009,
-    "wof:lastmodified":1472621087,
+    "wof:lastmodified":1492091219,
     "wof:name":"E Z Lube 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

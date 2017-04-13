@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.244751,42.037989,-88.244751,42.037989",
     "geom:latitude":42.037989,
     "geom:longitude":-88.244751,
@@ -38,7 +39,14 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498225,
+        85633793,
+        85939801,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15atGOfeH7t8mRPmVIIhjI_42.037989_-88.244751@1303262847"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461952415,
     "wof:geomhash":"d1869ffd4586d1c3c7a7fa4e500af433",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
+            "region_id":85688697,
+            "venue_id":740225865
+        }
+    ],
     "wof:id":740225865,
-    "wof:lastmodified":1472621926,
+    "wof:lastmodified":1492088215,
     "wof:name":"Kingdom Hall Of Jehovahs Witnesses Kingdom Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

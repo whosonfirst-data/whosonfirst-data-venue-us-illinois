@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.780115,41.733449,-87.780115,41.733449",
     "geom:latitude":41.733449,
     "geom:longitude":-87.780115,
@@ -30,11 +31,13 @@
     "sg:website":"www.dollartree.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890747,
+        102191575,
+        404497627,
         85633793,
         85940897,
         102084317,
-        85890747
+        85688697
     ],
     "wof:brand_id":420573823,
     "wof:breaches":[],
@@ -45,9 +48,10 @@
     "wof:geomhash":"34891d10f757431e79c96e6082373f8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497627,
             "locality_id":85940897,
             "neighbourhood_id":85890747,
             "region_id":85688697,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":219469027,
-    "wof:lastmodified":1472621376,
+    "wof:lastmodified":1492095102,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.104266,42.013075,-88.104266,42.013075",
     "geom:latitude":42.013075,
     "geom:longitude":-88.104266,
@@ -38,7 +39,14 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497587,
+        85633793,
+        85940179,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Lyrdj3pr2BTvR332smHgf_42.013075_-88.104266@1303262852"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461953226,
     "wof:geomhash":"a04563d2c64d7d700d68a89814b67b55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "region_id":85688697,
+            "venue_id":740263673
+        }
+    ],
     "wof:id":740263673,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1492095509,
     "wof:name":"Joel Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

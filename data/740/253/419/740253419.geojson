@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.193398,41.8615,-88.193398,41.8615",
     "geom:latitude":41.8615,
     "geom:longitude":-88.193398,
@@ -33,7 +34,10 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k9AwSayvWpTpnbGAEWybv_41.861500_-88.193398@1303262851"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461953023,
     "wof:geomhash":"479bcf21a4633c0d27cbbd42321b5d35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740253419
+        }
+    ],
     "wof:id":740253419,
-    "wof:lastmodified":1472621967,
+    "wof:lastmodified":1492108029,
     "wof:name":"Villita Liquors",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

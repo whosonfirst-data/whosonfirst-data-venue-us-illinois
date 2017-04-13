@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.00331,41.514985,-88.00331,41.514985",
     "geom:latitude":41.514985,
     "geom:longitude":-88.00331,
@@ -35,11 +36,13 @@
     "sg:website":"www.nutecmfg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850979,
+        102191575,
+        404499217,
         85633793,
         85940543,
         102080845,
-        85850979
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"39a0a27c44dc7b663f97b16d6726573d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499217,
             "locality_id":85940543,
             "neighbourhood_id":85850979,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":286799867,
-    "wof:lastmodified":1472621669,
+    "wof:lastmodified":1492090207,
     "wof:name":"Nutec Manufacturing Inc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",

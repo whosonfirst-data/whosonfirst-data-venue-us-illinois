@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.305897,41.791816,-88.305897,41.791816",
     "geom:latitude":41.791816,
     "geom:longitude":-88.305897,
@@ -48,7 +49,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Of2XKd1oojB4W7aJYYTkM_41.791816_-88.305897@1303262860"
@@ -56,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1461954473,
     "wof:geomhash":"1ce02ea0192029916597e6b3450295b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":756051689
+        }
+    ],
     "wof:id":756051689,
-    "wof:lastmodified":1472621168,
+    "wof:lastmodified":1492098093,
     "wof:name":"Aldrich Machine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

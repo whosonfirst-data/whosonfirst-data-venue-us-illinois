@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.119797,41.944599,-88.119797,41.944599",
     "geom:latitude":41.944599,
     "geom:longitude":-88.119797,
@@ -34,7 +35,14 @@
         "surgeons"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69RolyjHkeUrz34wFrPHyQ_41.944599_-88.119797@1303262846"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461952278,
     "wof:geomhash":"f946c075557cbe5cdc005679b55c3173",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740219209
+        }
+    ],
     "wof:id":740219209,
-    "wof:lastmodified":1472621910,
+    "wof:lastmodified":1492095645,
     "wof:name":"Stratford Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

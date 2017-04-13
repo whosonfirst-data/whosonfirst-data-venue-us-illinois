@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.75029,41.608911,-87.75029,41.608911",
     "geom:latitude":41.608911,
     "geom:longitude":-87.75029,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,17 @@
     "wof:geomhash":"a620c9afd15924f4185586c0b4033525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":253648477
         }
     ],
     "wof:id":253648477,
-    "wof:lastmodified":1472621634,
+    "wof:lastmodified":1492089063,
     "wof:name":"Jillybeans",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

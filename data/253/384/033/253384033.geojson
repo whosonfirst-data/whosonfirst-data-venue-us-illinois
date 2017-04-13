@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.389326,41.751457,-88.389326,41.751457",
     "geom:latitude":41.751457,
     "geom:longitude":-88.389326,
@@ -30,11 +31,13 @@
     "sg:website":"www.labragroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"5297ca814c6b4b3d7e73c9f98b29726f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253384033,
-    "wof:lastmodified":1472621462,
+    "wof:lastmodified":1492090598,
     "wof:name":"Labra Group Realtors",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

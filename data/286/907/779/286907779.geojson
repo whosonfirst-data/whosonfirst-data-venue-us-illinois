@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.954624,41.793344,-87.954624,41.793344",
     "geom:latitude":41.793344,
     "geom:longitude":-87.954624,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519009,
+        102191575,
+        404497649,
         85633793,
         85940169,
-        102081257
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"460f155d81a2564138b662c47035a6b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519009,
             "region_id":85688697,
             "venue_id":286907779
         }
     ],
     "wof:id":286907779,
-    "wof:lastmodified":1472621693,
+    "wof:lastmodified":1492088964,
     "wof:name":"Walker Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

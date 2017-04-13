@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.045128,41.687969,-88.045128,41.687969",
     "geom:latitude":41.687969,
     "geom:longitude":-88.045128,
@@ -53,7 +54,14 @@
     ],
     "sg:website":"http://www.filitrac.com/Click.aspx?tid=F3439D2876F09282898A01E63FD68B19&FiliAff=15016&sid=yellowpages&sid=yellowpages&mwnid=local-directory&mwpid=yellowpages&utm_source=yellowpages&utm_medium=cpc&utm_campaign=Chairs",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497651,
+        85633793,
+        85940203,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aNLYPG8RU5HdeZNPAzXE9_41.687969_-88.045128@1303262860"
@@ -61,9 +69,19 @@
     "wof:country":"US",
     "wof:created":1461954551,
     "wof:geomhash":"768c11c698fd49ba9b0848f8ab88aba1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497651,
+            "locality_id":85940203,
+            "region_id":85688697,
+            "venue_id":756055415
+        }
+    ],
     "wof:id":756055415,
-    "wof:lastmodified":1472621158,
+    "wof:lastmodified":1492089860,
     "wof:name":"The Room Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

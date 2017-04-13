@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.352692,41.683472,-88.352692,41.683472",
     "geom:latitude":41.683472,
     "geom:longitude":-88.352692,
@@ -39,7 +40,14 @@
         "cat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_368wwWbSyduq2UBLCZ8tR1_41.683472_-88.352692@1303262861"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954704,
     "wof:geomhash":"c5e7f486e7b060e994ac27b5a17a5012",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756063133
+        }
+    ],
     "wof:id":756063133,
-    "wof:lastmodified":1472621321,
+    "wof:lastmodified":1492102619,
     "wof:name":"Go Dog Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

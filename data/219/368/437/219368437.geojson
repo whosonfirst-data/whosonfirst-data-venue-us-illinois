@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.328877,42.226607,-88.328877,42.226607",
     "geom:latitude":42.226607,
     "geom:longitude":-88.328877,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"db8afc62f2eda3ab097708b330693094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":219368437
         }
     ],
     "wof:id":219368437,
-    "wof:lastmodified":1472621267,
+    "wof:lastmodified":1492088445,
     "wof:name":"Main Street Displays",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

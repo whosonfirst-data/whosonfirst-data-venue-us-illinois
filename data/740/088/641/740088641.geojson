@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.870934,42.520038,-87.870934,42.520038",
     "geom:latitude":42.520038,
     "geom:longitude":-87.870934,
@@ -31,7 +32,14 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493401,
+        85633793,
+        101732575,
+        102081309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZtYx4Is6ZCEW9yfXQapCa_42.520038_-87.870934@1294102059"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461949286,
     "wof:geomhash":"369ccc06eab27ecead3bb029a31c59f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081309,
+            "localadmin_id":404493401,
+            "locality_id":101732575,
+            "region_id":85688517,
+            "venue_id":740088641
+        }
+    ],
     "wof:id":740088641,
-    "wof:lastmodified":1472620849,
+    "wof:lastmodified":1492102452,
     "wof:name":"Emerge Jazz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

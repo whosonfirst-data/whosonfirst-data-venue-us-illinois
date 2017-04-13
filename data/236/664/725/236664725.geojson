@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.125568,41.703285,-88.125568,41.703285",
     "geom:latitude":41.703285,
     "geom:longitude":-88.125568,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85879109,
+        102191575,
+        404497655,
         85633793,
-        85940209,
-        102080845
+        85940205,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"6aaefdbf4b5f970aed9b5e5d6fa8b1e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080845,
-            "locality_id":85940209,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "neighbourhood_id":85879109,
             "region_id":85688697,
             "venue_id":236664725
         }
     ],
     "wof:id":236664725,
-    "wof:lastmodified":1472621750,
+    "wof:lastmodified":1492091370,
     "wof:name":"Jamaica-Me-Crazy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

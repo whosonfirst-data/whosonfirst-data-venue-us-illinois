@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.001028,41.673794,-88.001028,41.673794",
     "geom:latitude":41.673794,
     "geom:longitude":-88.001028,
@@ -41,7 +42,14 @@
     ],
     "sg:website":"http://midwest-refinishers.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J8QprzTYQd8EDDui6H5um_41.673794_-88.001028@1303262856"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461953881,
     "wof:geomhash":"847b0fd94c5e938a4724ffb0fad53632",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023723
+        }
+    ],
     "wof:id":756023723,
-    "wof:lastmodified":1472620791,
+    "wof:lastmodified":1492090056,
     "wof:name":"Midwest Refinishing & Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

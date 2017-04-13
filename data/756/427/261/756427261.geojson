@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.760549,41.222012,-87.760549,41.222012",
     "geom:latitude":41.222012,
     "geom:longitude":-87.760549,
@@ -28,7 +29,13 @@
     "sg:postcode":"60950",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498393,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hVYuFyr4qksVYd1bzpqSs_41.222012_-87.760549@1303262910"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461962950,
     "wof:geomhash":"501c6ce846fcf2451521f6ba9fe06349",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498393,
+            "region_id":85688697,
+            "venue_id":756427261
+        }
+    ],
     "wof:id":756427261,
-    "wof:lastmodified":1472622197,
+    "wof:lastmodified":1492088458,
     "wof:name":"Evans Custom Lettering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

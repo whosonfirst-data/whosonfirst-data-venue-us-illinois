@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.736709,41.607145,-87.736709,41.607145",
     "geom:latitude":41.607145,
     "geom:longitude":-87.736709,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890863,
+        102191575,
+        404497613,
         85633793,
         85940761,
         102084317,
-        85890863
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"76f3a4da9e320b9ba8e3e0d785cf79d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497613,
             "locality_id":85940761,
             "neighbourhood_id":85890863,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270423993,
-    "wof:lastmodified":1472621476,
+    "wof:lastmodified":1492102624,
     "wof:name":"Magna Electric Supply Co Inc",
     "wof:parent_id":85890863,
     "wof:placetype":"venue",

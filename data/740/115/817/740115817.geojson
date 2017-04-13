@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.031751,41.434462,-88.031751,41.434462",
     "geom:latitude":41.434462,
     "geom:longitude":-88.031751,
@@ -31,7 +32,13 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497101,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38YjVcVUwj4s75zS1ESS4S_41.434548_-88.031862@1293134755"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461949961,
     "wof:geomhash":"3f1c48ef3c160747c614a819a3ed9688",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497101,
+            "region_id":85688697,
+            "venue_id":740115817
+        }
+    ],
     "wof:id":740115817,
-    "wof:lastmodified":1472621296,
+    "wof:lastmodified":1492104702,
     "wof:name":"Helays Carpets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

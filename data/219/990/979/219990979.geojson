@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.048331,42.215166,-88.048331,42.215166",
     "geom:latitude":42.215166,
     "geom:longitude":-88.048331,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867903,
+        102191575,
+        404498459,
         85633793,
         85938373,
         102086215,
-        85867903
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c600191e5b5b33ff530aa89177c619bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938373,
             "neighbourhood_id":85867903,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219990979,
-    "wof:lastmodified":1472621627,
+    "wof:lastmodified":1492090916,
     "wof:name":"Seasonal Solutions",
     "wof:parent_id":85867903,
     "wof:placetype":"venue",

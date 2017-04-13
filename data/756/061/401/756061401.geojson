@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.394424,41.714298,-88.394424,41.714298",
     "geom:latitude":41.714298,
     "geom:longitude":-88.394424,
@@ -31,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85939797,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4syx6U0xrT2tinllD19p4O_41.714298_-88.394424@1303262861"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954667,
     "wof:geomhash":"a4f55f4dfe271d122a2fa149e0c5d026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85939797,
+            "region_id":85688697,
+            "venue_id":756061401
+        }
+    ],
     "wof:id":756061401,
-    "wof:lastmodified":1472621333,
+    "wof:lastmodified":1492089849,
     "wof:name":"Anderson, Arne M Ad Ed Bciac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.060431,42.118728,-88.060431,42.118728",
     "geom:latitude":42.118728,
     "geom:longitude":-88.060431,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867627,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85867627
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4dd329a399568d98046194d8e8c59f9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85867627,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287055735,
-    "wof:lastmodified":1472620884,
+    "wof:lastmodified":1492091410,
     "wof:name":"Quality Upholstery",
     "wof:parent_id":85867627,
     "wof:placetype":"venue",

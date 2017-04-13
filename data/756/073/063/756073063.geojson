@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.258009,41.564493,-88.258009,41.564493",
     "geom:latitude":41.564493,
     "geom:longitude":-88.258009,
@@ -28,7 +29,14 @@
     "sg:postcode":"60586",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499223,
+        85633793,
+        85940583,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ORBqAc1WKZu7yj7YdPCnD_41.564493_-88.258009@1303262862"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954927,
     "wof:geomhash":"bc1997a849f9ffb894ec0c6c354b41d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499223,
+            "locality_id":85940583,
+            "region_id":85688697,
+            "venue_id":756073063
+        }
+    ],
     "wof:id":756073063,
-    "wof:lastmodified":1472621371,
+    "wof:lastmodified":1492101770,
     "wof:name":"Better Image Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

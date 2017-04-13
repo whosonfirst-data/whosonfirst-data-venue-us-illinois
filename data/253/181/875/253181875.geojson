@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.840095,42.25135,-87.840095,42.25135",
     "geom:latitude":42.25135,
     "geom:longitude":-87.840095,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890819,
+        102191575,
+        404499869,
         85633793,
         85938355,
         102086215,
-        85890819
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"c629af7d6ca083aadae505b933874095",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
             "neighbourhood_id":85890819,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253181875,
-    "wof:lastmodified":1472621206,
+    "wof:lastmodified":1492088860,
     "wof:name":"Trident Capital Inc",
     "wof:parent_id":85890819,
     "wof:placetype":"venue",

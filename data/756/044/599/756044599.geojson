@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.786036,41.328661,-87.786036,41.328661",
     "geom:latitude":41.328661,
     "geom:longitude":-87.786036,
@@ -32,7 +33,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497103,
+        85633793,
+        85940531,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H4TC02tL96NvGVgTDcZiU_41.328661_-87.786036@1303262859"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954330,
     "wof:geomhash":"b1bcb36de9588124633bb499d4d4a296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497103,
+            "locality_id":85940531,
+            "region_id":85688697,
+            "venue_id":756044599
+        }
+    ],
     "wof:id":756044599,
-    "wof:lastmodified":1472621156,
+    "wof:lastmodified":1492092884,
     "wof:name":"Ms. Nicki's Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

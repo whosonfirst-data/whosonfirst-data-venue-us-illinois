@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.536697,41.5648,-87.536697,41.5648",
     "geom:latitude":41.5648,
     "geom:longitude":-87.536697,
@@ -47,7 +48,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HHVG1bCgFonO6PwaNP9f8_41.564800_-87.536697@1303262856"
@@ -55,9 +63,19 @@
     "wof:country":"US",
     "wof:created":1461953833,
     "wof:geomhash":"f0252cf3b415c6079315569343f392d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740292749
+        }
+    ],
     "wof:id":740292749,
-    "wof:lastmodified":1472622038,
+    "wof:lastmodified":1492093554,
     "wof:name":"Lansing Sport Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

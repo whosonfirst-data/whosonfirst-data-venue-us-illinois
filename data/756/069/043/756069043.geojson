@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.443835,41.628102,-88.443835,41.628102",
     "geom:latitude":41.628102,
     "geom:longitude":-88.443835,
@@ -38,7 +39,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aAW58YGlVKuAqtQtwGvgs_41.628102_-88.443835@1303262862"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954850,
     "wof:geomhash":"ec15f95f33bf7918f19cfa5d2f856efa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756069043
+        }
+    ],
     "wof:id":756069043,
-    "wof:lastmodified":1472621368,
+    "wof:lastmodified":1492098032,
     "wof:name":"Miro Mold Tool & Duplicating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

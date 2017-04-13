@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.114177,41.939348,-88.114177,41.939348",
     "geom:latitude":41.939348,
     "geom:longitude":-88.114177,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.qdoba.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g4QSYlwhwN5IyH2Oo9TAS_41.939348_-88.114177@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952254,
     "wof:geomhash":"6aba4636c43508a5942f888a366f676d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218055
+        }
+    ],
     "wof:id":740218055,
-    "wof:lastmodified":1472621907,
+    "wof:lastmodified":1492107593,
     "wof:name":"Qdoba Mexican Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

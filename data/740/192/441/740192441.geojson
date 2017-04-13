@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.230522,42.387238,-88.230522,42.387238",
     "geom:latitude":42.387238,
     "geom:longitude":-88.230522,
@@ -28,7 +29,14 @@
     "sg:postcode":"60051",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499149,
+        85633793,
+        85938999,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZNa1R57viX5MPOOsYtpfu_42.387238_-88.230522@1303262843"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461951700,
     "wof:geomhash":"8c67f6781be620214f7c756c94fbb396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499149,
+            "locality_id":85938999,
+            "region_id":85688697,
+            "venue_id":740192441
+        }
+    ],
     "wof:id":740192441,
-    "wof:lastmodified":1472621864,
+    "wof:lastmodified":1492092974,
     "wof:name":"Mazeski, Conrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

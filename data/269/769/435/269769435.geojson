@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.108358,41.88809,-88.108358,41.88809",
     "geom:latitude":41.88809,
     "geom:longitude":-88.108358,
@@ -34,8 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85891051,
+        102191575,
+        404497653,
         85633793,
-        85688697
+        85940139,
+        102081257,
+        85688697,
+        85891053,
+        404497763,
+        85940171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +54,30 @@
     "wof:geomhash":"4f114ab4c1a94a350103e5c5611f4bf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497653,
+            "locality_id":85940139,
+            "neighbourhood_id":85891051,
+            "region_id":85688697,
+            "venue_id":269769435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "neighbourhood_id":85891053,
             "region_id":85688697,
             "venue_id":269769435
         }
     ],
     "wof:id":269769435,
-    "wof:lastmodified":1472621333,
+    "wof:lastmodified":1492098920,
     "wof:name":"Shell",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

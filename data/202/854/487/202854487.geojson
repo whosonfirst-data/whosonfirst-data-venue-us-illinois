@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.283607,41.847185,-88.283607,41.847185",
     "geom:latitude":41.847185,
     "geom:longitude":-88.283607,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"5ea65bdf2e6f4f7d5fad7dbe4b0a574a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":202854487,
-    "wof:lastmodified":1472621281,
+    "wof:lastmodified":1492089180,
     "wof:name":"Distinctive Desktop Designs",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

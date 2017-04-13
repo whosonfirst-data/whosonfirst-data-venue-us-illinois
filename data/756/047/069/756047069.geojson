@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.876999,41.732101,-87.876999,41.732101",
     "geom:latitude":41.732101,
     "geom:longitude":-87.876999,
@@ -33,7 +34,14 @@
     "sg:postcode":"60480",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PuxnsCxdYhWQkzORn8xoD_41.732101_-87.876999@1303262859"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954378,
     "wof:geomhash":"11ab37394e7f3f54b623440d85871393",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047069
+        }
+    ],
     "wof:id":756047069,
-    "wof:lastmodified":1472621128,
+    "wof:lastmodified":1492104539,
     "wof:name":"Advantage Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.269804,41.776574,-88.269804,41.776574",
     "geom:latitude":41.776574,
     "geom:longitude":-88.269804,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
         85633793,
-        85688697
+        85940221,
+        102086925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +48,17 @@
     "wof:geomhash":"0ab3a9a0c2aaa3da88ba638008d9b32b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
             "region_id":85688697,
             "venue_id":202860121
         }
     ],
     "wof:id":202860121,
-    "wof:lastmodified":1472621285,
+    "wof:lastmodified":1492090502,
     "wof:name":"Fidler S S Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

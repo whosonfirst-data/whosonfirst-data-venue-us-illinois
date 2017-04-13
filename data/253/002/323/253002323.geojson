@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.863485,42.247191,-87.863485,42.247191",
     "geom:latitude":42.247191,
     "geom:longitude":-87.863485,
@@ -35,10 +36,13 @@
     "sg:website":"www.faithlakeforest.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519101,
+        102191575,
+        404499869,
         85633793,
         85938355,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"f53c106655a886380dc832df87f097bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519101,
             "region_id":85688697,
             "venue_id":253002323
         }
     ],
     "wof:id":253002323,
-    "wof:lastmodified":1472620744,
+    "wof:lastmodified":1492088861,
     "wof:name":"Faith Lutheran Pre-School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.877434,41.135636,-87.877434,41.135636",
     "geom:latitude":41.135636,
     "geom:longitude":-87.877434,
@@ -28,7 +29,14 @@
     "sg:postcode":"60915",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939993,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JJHeKD5gqTx60LYzk5YYC_41.135636_-87.877434@1303262910"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461962935,
     "wof:geomhash":"2c83d49c7d94997c5b150a6dc4286414",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939993,
+            "region_id":85688697,
+            "venue_id":756426473
+        }
+    ],
     "wof:id":756426473,
-    "wof:lastmodified":1472622201,
+    "wof:lastmodified":1492088790,
     "wof:name":"Bill's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

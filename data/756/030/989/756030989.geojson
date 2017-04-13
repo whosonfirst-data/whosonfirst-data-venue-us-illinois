@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.738713,41.425515,-87.738713,41.425515",
     "geom:latitude":41.425515,
     "geom:longitude":-87.738713,
@@ -32,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WKqROX6qeOM8natufmfr7_41.425515_-87.738713@1303262857"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954035,
     "wof:geomhash":"60968115adff7eb7c76536ef84c91ff9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030989
+        }
+    ],
     "wof:id":756030989,
-    "wof:lastmodified":1472620873,
+    "wof:lastmodified":1492092865,
     "wof:name":"Ganzales Administrative Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.028933,41.759462,-88.028933,41.759462",
     "geom:latitude":41.759462,
     "geom:longitude":-88.028933,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891083,
+        102191575,
+        404497649,
         85633793,
-        85940203,
+        85940165,
         102081257,
-        85891083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"fd7a14192b013f78554794377235176b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940203,
+            "localadmin_id":404497649,
+            "locality_id":85940165,
             "neighbourhood_id":85891083,
             "region_id":85688697,
             "venue_id":287059479
         }
     ],
     "wof:id":287059479,
-    "wof:lastmodified":1472620888,
+    "wof:lastmodified":1492091437,
     "wof:name":"Division Beverage Distributors",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",

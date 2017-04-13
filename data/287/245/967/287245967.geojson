@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.145597,41.941599,-88.145597,41.941599",
     "geom:latitude":41.941599,
     "geom:longitude":-88.145597,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847323,
+        102191575,
+        404497763,
         85633793,
         85940189,
         102081257,
-        85847323
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"c66d8ef88f983a738e3a792d79c18e1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85847323,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":287245967,
-    "wof:lastmodified":1472621232,
+    "wof:lastmodified":1492103293,
     "wof:name":"Alpine Heating & Air Cond Co",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",

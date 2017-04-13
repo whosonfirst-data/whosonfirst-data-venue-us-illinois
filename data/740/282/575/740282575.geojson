@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.626273,41.394569,-87.626273,41.394569",
     "geom:latitude":41.394569,
     "geom:longitude":-87.626273,
@@ -42,7 +43,13 @@
     ],
     "sg:website":"http://www.providencelifeservices.com/communities/villagewoods/index.php",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28EVNBJ5cuTG60kU6WW4mn_41.394569_-87.626273@1303262854"
@@ -50,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1461953623,
     "wof:geomhash":"21ff020d0aeebef9f86be28f0577e04a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":740282575
+        }
+    ],
     "wof:id":740282575,
-    "wof:lastmodified":1472622035,
+    "wof:lastmodified":1492097678,
     "wof:name":"Village Woods Independent & Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

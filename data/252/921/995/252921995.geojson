@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.063036,42.123358,-88.063036,42.123358",
     "geom:latitude":42.123358,
     "geom:longitude":-88.063036,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867627,
+        102191575,
+        404497645,
         85633793,
         85938407,
         102084317,
-        85867627
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4a1c821a88d78e83e43ef98a28bb37c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
             "neighbourhood_id":85867627,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":252921995,
-    "wof:lastmodified":1472621108,
+    "wof:lastmodified":1492105743,
     "wof:name":"Drake Paint & Wallpaper Inc",
     "wof:parent_id":85867627,
     "wof:placetype":"venue",

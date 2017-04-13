@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.966232,41.527332,-87.966232,41.527332",
     "geom:latitude":41.527332,
     "geom:longitude":-87.966232,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85850979,
+        102191575,
+        404499217,
         85633793,
         85940543,
         102080845,
-        85850979
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fe1de7b0fcf7ab9a634d774eb7c37dc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499217,
             "locality_id":85940543,
             "neighbourhood_id":85850979,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219274833,
-    "wof:lastmodified":1472621085,
+    "wof:lastmodified":1492090221,
     "wof:name":"Ceasar's Gas & Pantry Inc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",

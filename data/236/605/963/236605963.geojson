@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.821665,41.889548,-87.821665,41.889548",
     "geom:latitude":41.889548,
     "geom:longitude":-87.821665,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890841,
+        102191575,
+        404497583,
         85633793,
-        85940787,
+        85940729,
         102084317,
-        85890841
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b7fc9f4b031b7758d42c9a02a0db8e1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940787,
+            "localadmin_id":404497583,
+            "locality_id":85940729,
             "neighbourhood_id":85890841,
             "region_id":85688697,
             "venue_id":236605963
         }
     ],
     "wof:id":236605963,
-    "wof:lastmodified":1472621734,
+    "wof:lastmodified":1492088069,
     "wof:name":"Innovative Logistics",
     "wof:parent_id":85890841,
     "wof:placetype":"venue",

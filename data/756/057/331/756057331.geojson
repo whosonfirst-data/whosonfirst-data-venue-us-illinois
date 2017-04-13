@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862811,41.796064,-87.862811,41.796064",
     "geom:latitude":41.796064,
     "geom:longitude":-87.862811,
@@ -39,7 +40,14 @@
         "resume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aXM8yhSJboggljHW9nPxt_41.796064_-87.862811@1303262860"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954592,
     "wof:geomhash":"473407162b5eae6f26cc40c87ba4defd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756057331
+        }
+    ],
     "wof:id":756057331,
-    "wof:lastmodified":1472621198,
+    "wof:lastmodified":1492097412,
     "wof:name":"Consumer Insurance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

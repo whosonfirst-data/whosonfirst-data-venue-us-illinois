@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.843388,42.262162,-87.843388,42.262162",
     "geom:latitude":42.262162,
     "geom:longitude":-87.843388,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85848877,
+        102191575,
+        404498369,
         85633793,
         85938357,
         102086215,
-        85848877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"c9a5da75616380bef4ec61bcc595a243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938357,
             "neighbourhood_id":85848877,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219183319,
-    "wof:lastmodified":1472620842,
+    "wof:lastmodified":1492091344,
     "wof:name":"Shaggy Dog Shop Inc",
     "wof:parent_id":85848877,
     "wof:placetype":"venue",

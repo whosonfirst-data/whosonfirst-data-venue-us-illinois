@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.877985,42.121679,-87.877985,42.121679",
     "geom:latitude":42.121679,
     "geom:longitude":-87.877985,
@@ -29,7 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420518733,
+        102191575,
+        404497637,
         85633793,
+        85940769,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"fb15250d381ee9b6d766b83fb9bfab43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":420518733,
             "region_id":85688697,
             "venue_id":253744059
         }
     ],
     "wof:id":253744059,
-    "wof:lastmodified":1472621632,
+    "wof:lastmodified":1492103271,
     "wof:name":"Miller Melvin & Malvin Insur",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

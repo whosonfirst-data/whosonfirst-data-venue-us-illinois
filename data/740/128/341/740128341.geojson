@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.819966,41.598864,-87.819966,41.598864",
     "geom:latitude":41.598864,
     "geom:longitude":-87.819966,
@@ -27,7 +28,14 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497643,
+        85633793,
+        85940515,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_575JdKvrdXIvLoY25jt5db_41.598864_-87.819966@1294102059"
@@ -35,9 +43,19 @@
     "wof:country":"US",
     "wof:created":1461950310,
     "wof:geomhash":"54ee9f4e4b3ec1437202bb33a75f7fe0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "region_id":85688697,
+            "venue_id":740128341
+        }
+    ],
     "wof:id":740128341,
-    "wof:lastmodified":1472621400,
+    "wof:lastmodified":1492089822,
     "wof:name":"Jean Rosstedt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

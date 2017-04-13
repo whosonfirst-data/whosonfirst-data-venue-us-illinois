@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.032478,42.106148,-88.032478,42.106148",
     "geom:latitude":42.106148,
     "geom:longitude":-88.032478,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890885,
+        102191575,
+        404497645,
         85633793,
         85938407,
-        102084317
+        102084317,
+        85688697,
+        85890877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"93bff66615e21cca5693a41e8ef1ed84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497645,
             "locality_id":85938407,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890885,
+            "region_id":85688697,
+            "venue_id":252720671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85938407,
+            "neighbourhood_id":85890877,
             "region_id":85688697,
             "venue_id":252720671
         }
     ],
     "wof:id":252720671,
-    "wof:lastmodified":1472620764,
+    "wof:lastmodified":1492088952,
     "wof:name":"Expert Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

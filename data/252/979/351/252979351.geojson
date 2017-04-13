@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.705454,42.034035,-87.705454,42.034035",
     "geom:latitude":42.034035,
     "geom:longitude":-87.705454,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890787,
+        102191575,
+        404497621,
         85633793,
-        85940943,
+        85940857,
         102084317,
-        85890787
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"6afa4cfdd75035639d58e01d4217bfb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940943,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "neighbourhood_id":85890787,
             "region_id":85688697,
             "venue_id":252979351
         }
     ],
     "wof:id":252979351,
-    "wof:lastmodified":1472621119,
+    "wof:lastmodified":1492094635,
     "wof:name":"Df Goldsmith",
     "wof:parent_id":85890787,
     "wof:placetype":"venue",

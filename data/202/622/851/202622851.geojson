@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.674348,41.491902,-87.674348,41.491902",
     "geom:latitude":41.491902,
     "geom:longitude":-87.674348,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890899,
+        102191575,
+        404497581,
         85633793,
         85940533,
         102084317,
-        85890899
+        85688697
     ],
     "wof:brand_id":420575835,
     "wof:breaches":[],
@@ -48,9 +51,10 @@
     "wof:geomhash":"aa7e0b611937b5a88c52cac4970b5712",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940533,
             "neighbourhood_id":85890899,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202622851,
-    "wof:lastmodified":1472621150,
+    "wof:lastmodified":1492091778,
     "wof:name":"Public Works Dept",
     "wof:parent_id":85890899,
     "wof:placetype":"venue",

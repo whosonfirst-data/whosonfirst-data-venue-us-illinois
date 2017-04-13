@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.898819,41.908225,-87.898819,41.908225",
     "geom:latitude":41.908225,
     "geom:longitude":-87.898819,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.northlakecity.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940765,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xe4ZYhawuRj4SIpYxlAMK_41.908225_-87.898819@1303262850"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952905,
     "wof:geomhash":"d7e2406748174c6e78cd669b6bf2afa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940765,
+            "region_id":85688697,
+            "venue_id":740247881
+        }
+    ],
     "wof:id":740247881,
-    "wof:lastmodified":1472621980,
+    "wof:lastmodified":1492091263,
     "wof:name":"Northlake Fire Protection Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.621384,41.344663,-87.621384,41.344663",
     "geom:latitude":41.344663,
     "geom:longitude":-87.621384,
@@ -41,7 +42,14 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        85940579,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00RdaE0cv9mVx4zX63ww9J_41.344663_-87.621384@1303262853"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461953423,
     "wof:geomhash":"26e38f2e41e66e6fd7d93cf22242d753",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "locality_id":85940579,
+            "region_id":85688697,
+            "venue_id":740273333
+        }
+    ],
     "wof:id":740273333,
-    "wof:lastmodified":1472622012,
+    "wof:lastmodified":1492092880,
     "wof:name":"St James Community Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

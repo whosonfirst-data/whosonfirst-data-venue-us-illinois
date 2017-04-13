@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.813454,42.147858,-87.813454,42.147858",
     "geom:latitude":42.147858,
     "geom:longitude":-87.813454,
@@ -31,7 +32,14 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ofss4mC8oCc24n8UcBd6d_42.147858_-87.813454@1303262843"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951731,
     "wof:geomhash":"6ff82feea43e7944f5b9f267101451c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740193999
+        }
+    ],
     "wof:id":740193999,
-    "wof:lastmodified":1472621893,
+    "wof:lastmodified":1492088005,
     "wof:name":"Chicago Drapery & Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

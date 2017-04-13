@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.649967,41.462486,-87.649967,41.462486",
     "geom:latitude":41.462486,
     "geom:longitude":-87.649967,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
         85633793,
-        85688697
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,16 @@
     "wof:geomhash":"e854af8b72676df411dec531c83b589c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499129,
             "region_id":85688697,
             "venue_id":219859581
         }
     ],
     "wof:id":219859581,
-    "wof:lastmodified":1472621600,
+    "wof:lastmodified":1492088586,
     "wof:name":"Your Pets Best Friend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

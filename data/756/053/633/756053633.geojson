@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.432156,41.689334,-88.432156,41.689334",
     "geom:latitude":41.689334,
     "geom:longitude":-88.432156,
@@ -28,7 +29,13 @@
     "sg:postcode":"60512",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498399,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_764Z1QxxLUHAp0z48QAgob_41.689334_-88.432156@1303262860"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461954516,
     "wof:geomhash":"8db09a58a5dcd0c702901febefa95d8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498399,
+            "region_id":85688697,
+            "venue_id":756053633
+        }
+    ],
     "wof:id":756053633,
-    "wof:lastmodified":1472621164,
+    "wof:lastmodified":1492097831,
     "wof:name":"Low Vision Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

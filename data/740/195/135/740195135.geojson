@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.806344,42.152072,-87.806344,42.152072",
     "geom:latitude":42.152072,
     "geom:longitude":-87.806344,
@@ -31,7 +32,14 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940769,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HJHqDefh5BFipztQMUUC2_42.152072_-87.806344@1303262843"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461951751,
     "wof:geomhash":"67cf741a59b476fcd4f0cbf7a2ecc2e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "region_id":85688697,
+            "venue_id":740195135
+        }
+    ],
     "wof:id":740195135,
-    "wof:lastmodified":1472621861,
+    "wof:lastmodified":1492089887,
     "wof:name":"Morris Jeri PhD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

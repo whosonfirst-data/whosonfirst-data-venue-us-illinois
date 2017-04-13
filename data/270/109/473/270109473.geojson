@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.802802,41.860251,-87.802802,41.860251",
     "geom:latitude":41.860251,
     "geom:longitude":-87.802802,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"d771a24792d8c2ba22db51069455260a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270109473,
-    "wof:lastmodified":1472621062,
+    "wof:lastmodified":1492095626,
     "wof:name":"Combined Veterans Assoc Ill",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

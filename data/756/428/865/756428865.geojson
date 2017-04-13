@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.842923,42.242573,-88.842923,42.242573",
     "geom:latitude":42.242573,
     "geom:longitude":-88.842923,
@@ -42,7 +43,14 @@
     ],
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=133767",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497211,
+        85633793,
+        85938819,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FI8Pz3o1F2bMWM1LJbPPU_42.242573_-88.842923@1303262910"
@@ -50,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1461962981,
     "wof:geomhash":"1e5836e3d212d0786181d0ddca1a955f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497211,
+            "locality_id":85938819,
+            "region_id":85688697,
+            "venue_id":756428865
+        }
+    ],
     "wof:id":756428865,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1492088450,
     "wof:name":"Brooks, Gwen Lynn - State Farm Insurance Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.237758,41.886112,-88.237758,41.886112",
     "geom:latitude":41.886112,
     "geom:longitude":-88.237758,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890995,
+        102191575,
+        404497659,
         85633793,
         85940143,
         102081257,
-        85890995
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"62fc7f567b1c4ff8b869da9543a19169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
             "neighbourhood_id":85890995,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":252807799,
-    "wof:lastmodified":1472621012,
+    "wof:lastmodified":1492107733,
     "wof:name":"Leggett & Platt Incorporated",
     "wof:parent_id":85890995,
     "wof:placetype":"venue",

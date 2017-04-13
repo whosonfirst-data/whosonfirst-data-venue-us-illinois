@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078924,41.656592,-88.078924,41.656592",
     "geom:latitude":41.656592,
     "geom:longitude":-88.078924,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"f36c1c157c611d2b06e88383353998f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":270383677
         }
     ],
     "wof:id":270383677,
-    "wof:lastmodified":1472621452,
+    "wof:lastmodified":1492092236,
     "wof:name":"Bonanza Bingo & Raffle",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

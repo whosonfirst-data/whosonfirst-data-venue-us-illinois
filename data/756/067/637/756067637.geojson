@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.157646,41.813911,-88.157646,41.813911",
     "geom:latitude":41.813911,
     "geom:longitude":-88.157646,
@@ -32,7 +33,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420559819,
+        102191575,
+        404497659,
+        85633793,
+        85940147,
+        102081257,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wm0gNIt3KkOz6WNqIHWKe_41.813911_-88.157646@1303262862"
@@ -40,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1461954816,
     "wof:geomhash":"a35840d9110af4ec88dbba9189779425",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497659,
+            "locality_id":85940147,
+            "neighbourhood_id":420559819,
+            "region_id":85688697,
+            "venue_id":756067637
+        }
+    ],
     "wof:id":756067637,
-    "wof:lastmodified":1472621376,
+    "wof:lastmodified":1492097413,
     "wof:name":"Kathy's Daycare",
     "wof:parent_id":420559819,
     "wof:placetype":"venue",

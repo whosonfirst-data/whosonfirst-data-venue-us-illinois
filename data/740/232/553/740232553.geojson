@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.329149,41.8735,-88.329149,41.8735",
     "geom:latitude":41.8735,
     "geom:longitude":-88.329149,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +47,18 @@
     "wof:geomhash":"3dcf170aec0e395a64914f966499f776",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":740232553
         }
     ],
     "wof:id":740232553,
-    "wof:lastmodified":1472621941,
+    "wof:lastmodified":1492107819,
     "wof:name":"My Pr Agency Co",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

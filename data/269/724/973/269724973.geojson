@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.605645,41.574223,-87.605645,41.574223",
     "geom:latitude":41.574223,
     "geom:longitude":-87.605645,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890921,
+        102191575,
+        404497591,
         85633793,
+        85940935,
         102084317,
-        85890921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"ecbd607597f716a287010e5fde0ec8a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940935,
             "neighbourhood_id":85890921,
             "region_id":85688697,
             "venue_id":269724973
         }
     ],
     "wof:id":269724973,
-    "wof:lastmodified":1472621297,
+    "wof:lastmodified":1492091947,
     "wof:name":"Central Overhead Door",
     "wof:parent_id":85890921,
     "wof:placetype":"venue",

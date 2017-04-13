@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68789,41.641111,-87.68789,41.641111",
     "geom:latitude":41.641111,
     "geom:longitude":-87.68789,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518687,
+        102191575,
+        404497667,
         85633793,
         85940899,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"131ca6518c19f6c7b402a7869c01dc3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940899,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":219709013
         }
     ],
     "wof:id":219709013,
-    "wof:lastmodified":1472621538,
+    "wof:lastmodified":1492106302,
     "wof:name":"Kinsella Landscape Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

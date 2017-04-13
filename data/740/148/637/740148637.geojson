@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.957349,42.300231,-87.957349,42.300231",
     "geom:latitude":42.300231,
     "geom:longitude":-87.957349,
@@ -32,7 +33,10 @@
         "french"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cfwRZewx9C0K1b0huMP3Q_42.300231_-87.957349@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461950746,
     "wof:geomhash":"01d854763466933187340975fdbc17a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740148637
+        }
+    ],
     "wof:id":740148637,
-    "wof:lastmodified":1472621722,
+    "wof:lastmodified":1492090893,
     "wof:name":"Cafe Pyrenees",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.422694,41.695913,-88.422694,41.695913",
     "geom:latitude":41.695913,
     "geom:longitude":-88.422694,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.laycomland.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WWI2JJfcKMKofowIjs355_41.695913_-88.422694@1303262860"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954516,
     "wof:geomhash":"a2f5f74aa76f2bb8ca5ee219820fb360",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756053627
+        }
+    ],
     "wof:id":756053627,
-    "wof:lastmodified":1472621165,
+    "wof:lastmodified":1492108001,
     "wof:name":"Cannonball Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.941524,41.901895,-87.941524,41.901895",
     "geom:latitude":41.901895,
     "geom:longitude":-87.941524,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890779,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890779
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"489b4d647ec314c4c0b4973753d33aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890779,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303186259,
-    "wof:lastmodified":1472620995,
+    "wof:lastmodified":1492104401,
     "wof:name":"Art In Soul",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",

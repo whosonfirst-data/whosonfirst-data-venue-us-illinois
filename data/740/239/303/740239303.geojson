@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.033699,41.973499,-88.033699,41.973499",
     "geom:latitude":41.973499,
     "geom:longitude":-88.033699,
@@ -28,7 +29,13 @@
     "sg:postcode":"60143",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M1Bh9iueP1FsC5g1IKNNX_41.973499_-88.033699@1303262849"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461952725,
     "wof:geomhash":"33e9b26e7a51e51096b305a922abcd9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740239303
+        }
+    ],
     "wof:id":740239303,
-    "wof:lastmodified":1472621934,
+    "wof:lastmodified":1492089479,
     "wof:name":"Mobil Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

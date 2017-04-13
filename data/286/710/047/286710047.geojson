@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.984806,42.174017,-87.984806,42.174017",
     "geom:latitude":42.174017,
     "geom:longitude":-87.984806,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890883,
+        102191575,
+        404498459,
         85633793,
-        85938421,
-        102084317,
-        85890883
+        85938335,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b681e207b10e1828a4c0854e6d31e21d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85938421,
+            "county_id":102086215,
+            "localadmin_id":404498459,
+            "locality_id":85938335,
             "neighbourhood_id":85890883,
             "region_id":85688697,
             "venue_id":286710047
         }
     ],
     "wof:id":286710047,
-    "wof:lastmodified":1472621602,
+    "wof:lastmodified":1492089022,
     "wof:name":"ZS Martial Arts Academy Inc",
     "wof:parent_id":85890883,
     "wof:placetype":"venue",

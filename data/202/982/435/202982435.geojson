@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.985845,41.845044,-87.985845,41.845044",
     "geom:latitude":41.845044,
     "geom:longitude":-87.985845,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85825105,
+        102191575,
+        404497661,
         85633793,
-        85940185,
-        102081257
+        85940153,
+        102081257,
+        85688697,
+        85853309,
+        85940185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,30 @@
     "wof:geomhash":"0e9f6d18ce9d7ebbed10a808968331b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
+            "locality_id":85940153,
+            "neighbourhood_id":85825105,
+            "region_id":85688697,
+            "venue_id":202982435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85853309,
             "region_id":85688697,
             "venue_id":202982435
         }
     ],
     "wof:id":202982435,
-    "wof:lastmodified":1472621331,
+    "wof:lastmodified":1492089178,
     "wof:name":"Rosetta-Wireless Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

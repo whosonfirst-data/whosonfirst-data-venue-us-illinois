@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.994904,41.43074,-87.994904,41.43074",
     "geom:latitude":41.43074,
     "geom:longitude":-87.994904,
@@ -57,7 +58,10 @@
     ],
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=133825",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VVreA83h4tTRjvAQairii_41.430740_-87.994904@1303262856"
@@ -65,9 +69,15 @@
     "wof:country":"US",
     "wof:created":1461953923,
     "wof:geomhash":"cbc0e77f7763d0d519ab3fe4f27fbd16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025815
+        }
+    ],
     "wof:id":756025815,
-    "wof:lastmodified":1472620882,
+    "wof:lastmodified":1492092889,
     "wof:name":"McCormack, James M - State Farm Insurance Agent",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

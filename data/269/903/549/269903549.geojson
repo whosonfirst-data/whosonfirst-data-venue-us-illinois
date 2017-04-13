@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68038,41.469514,-87.68038,41.469514",
     "geom:latitude":41.469514,
     "geom:longitude":-87.68038,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
         85633793,
-        85688697
+        102080845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"663f575b44a0b9e5658d56f243d05575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080845,
+            "localadmin_id":404499215,
             "region_id":85688697,
             "venue_id":269903549
         }
     ],
     "wof:id":269903549,
-    "wof:lastmodified":1472621405,
+    "wof:lastmodified":1492104784,
     "wof:name":"GP Financial & Development Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

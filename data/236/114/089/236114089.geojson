@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.078801,41.640079,-88.078801,41.640079",
     "geom:latitude":41.640079,
     "geom:longitude":-88.078801,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a6aba5bcf50596546f7ea2e7ef604291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":236114089
         }
     ],
     "wof:id":236114089,
-    "wof:lastmodified":1472621108,
+    "wof:lastmodified":1492093111,
     "wof:name":"Enerfab Co",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

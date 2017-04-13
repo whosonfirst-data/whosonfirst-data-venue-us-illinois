@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.927195,42.061083,-87.927195,42.061083",
     "geom:latitude":42.061083,
     "geom:longitude":-87.927195,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890855,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890855
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"35692cb5c209969780320b2c9e70c4f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890855,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252986899,
-    "wof:lastmodified":1472621133,
+    "wof:lastmodified":1492089680,
     "wof:name":"Johns Carpet Furniture & Blin",
     "wof:parent_id":85890855,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.962784,41.783933,-87.962784,41.783933",
     "geom:latitude":41.783933,
     "geom:longitude":-87.962784,
@@ -32,8 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85891029,
+        102191575,
+        404497649,
         85633793,
-        85688697
+        85940141,
+        102081257,
+        85688697,
+        420519017,
+        420518947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +51,40 @@
     "wof:geomhash":"70a5201468e218eee8d3c1dc2a925422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":85891029,
+            "region_id":85688697,
+            "venue_id":286838011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":420519017,
+            "region_id":85688697,
+            "venue_id":286838011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497649,
+            "locality_id":85940141,
+            "neighbourhood_id":420518947,
             "region_id":85688697,
             "venue_id":286838011
         }
     ],
     "wof:id":286838011,
-    "wof:lastmodified":1472621681,
+    "wof:lastmodified":1492106835,
     "wof:name":"Caprice Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

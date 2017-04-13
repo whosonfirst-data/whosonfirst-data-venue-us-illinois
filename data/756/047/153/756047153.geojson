@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.881077,41.728573,-87.881077,41.728573",
     "geom:latitude":41.728573,
     "geom:longitude":-87.881077,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.grecos.ws",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940177,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TNEWZVWvSwwqWgss9RJ1V_41.728573_-87.881077@1303262859"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954380,
     "wof:geomhash":"dcfec5f938d9ce5cb1262c69fb986de3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940177,
+            "region_id":85688697,
+            "venue_id":756047153
+        }
+    ],
     "wof:id":756047153,
-    "wof:lastmodified":1472621146,
+    "wof:lastmodified":1492111526,
     "wof:name":"Greco's of Willow Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

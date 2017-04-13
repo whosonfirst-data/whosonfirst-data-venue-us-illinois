@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.19948,41.883702,-88.19948,41.883702",
     "geom:latitude":41.883702,
     "geom:longitude":-88.19948,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890997,
+        102191575,
+        404497659,
         85633793,
         85940143,
         102081257,
-        85890997
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"884dd5a0deaaa2259f86ccf21b4134a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
             "neighbourhood_id":85890997,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219898315,
-    "wof:lastmodified":1472621609,
+    "wof:lastmodified":1492090126,
     "wof:name":"Colorado Baking Co Inc",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",

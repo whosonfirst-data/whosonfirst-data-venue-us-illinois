@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.184117,41.992445,-88.184117,41.992445",
     "geom:latitude":41.992445,
     "geom:longitude":-88.184117,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.acutabovehair.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XtioNjZnMTHdxNZcSl8qx_41.992445_-88.184117@1303262846"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952173,
     "wof:geomhash":"25aa078b5ded74835ef25a6aa069092b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740214287
+        }
+    ],
     "wof:id":740214287,
-    "wof:lastmodified":1472621912,
+    "wof:lastmodified":1492093425,
     "wof:name":"A Cut Above",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.571059,41.562025,-87.571059,41.562025",
     "geom:latitude":41.562025,
     "geom:longitude":-87.571059,
@@ -37,7 +38,14 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yfKmYJfAYjYUrnIXgO0I1_41.562025_-87.571059@1303262856"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461953877,
     "wof:geomhash":"e48c4de3c3f77f68f94497554313a6dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":756023475
+        }
+    ],
     "wof:id":756023475,
-    "wof:lastmodified":1472620772,
+    "wof:lastmodified":1492097191,
     "wof:name":"C&K Maintenance Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

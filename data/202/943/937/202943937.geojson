@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.791154,41.612493,-87.791154,41.612493",
     "geom:latitude":41.612493,
     "geom:longitude":-87.791154,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890865,
+        102191575,
+        404497613,
         85633793,
-        85940761,
         102084317,
-        85890865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,17 @@
     "wof:geomhash":"5ef0fa4e1c5e93cd6162c57fa3a54e25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940761,
+            "localadmin_id":404497613,
             "neighbourhood_id":85890865,
             "region_id":85688697,
             "venue_id":202943937
         }
     ],
     "wof:id":202943937,
-    "wof:lastmodified":1472621307,
+    "wof:lastmodified":1492096310,
     "wof:name":"K Mechanical Inc",
     "wof:parent_id":85890865,
     "wof:placetype":"venue",

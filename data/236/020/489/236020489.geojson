@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.974585,41.872752,-87.974585,41.872752",
     "geom:latitude":41.872752,
     "geom:longitude":-87.974585,
@@ -33,11 +34,13 @@
     "sg:website":"www.crashelex.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890965,
+        102191575,
+        404497661,
         85633793,
         85940153,
         102081257,
-        85890965
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ad33c74d1bda843f6a0ec59832bc7c0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940153,
             "neighbourhood_id":85890965,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236020489,
-    "wof:lastmodified":1472620785,
+    "wof:lastmodified":1492091330,
     "wof:name":"Crash Electronics Inc",
     "wof:parent_id":85890965,
     "wof:placetype":"venue",

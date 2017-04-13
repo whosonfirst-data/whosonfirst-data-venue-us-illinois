@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.915122,42.14956,-87.915122,42.14956",
     "geom:latitude":42.14956,
     "geom:longitude":-87.915122,
@@ -32,7 +33,14 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497663,
+        85633793,
+        85938409,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F6mt5YHdDMl8gEiH3TUPo_42.149560_-87.915122@1303262844"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951919,
     "wof:geomhash":"4529460b264b82c592edf242a559135b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497663,
+            "locality_id":85938409,
+            "region_id":85688697,
+            "venue_id":740203859
+        }
+    ],
     "wof:id":740203859,
-    "wof:lastmodified":1472621899,
+    "wof:lastmodified":1492092735,
     "wof:name":"Bravo Ballroom Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.950556,42.269447,-87.950556,42.269447",
     "geom:latitude":42.269447,
     "geom:longitude":-87.950556,
@@ -31,7 +32,10 @@
         "dentists-endodontists"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cKYAkzHlrfSv8jLaohXSQ_42.269447_-87.950556@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951656,
     "wof:geomhash":"c6da31cfc8a28c09a11476af42a5a8b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190413
+        }
+    ],
     "wof:id":740190413,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492090894,
     "wof:name":"Showers, Paul F, Dds - Paul F Showers Pc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

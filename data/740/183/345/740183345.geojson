@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.206493,42.191692,-88.206493,42.191692",
     "geom:latitude":42.191692,
     "geom:longitude":-88.206493,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.riverpointedental.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85938395,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UDn6f8sQseHdAZOaanlgi_42.191692_-88.206493@1303262842"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461951511,
     "wof:geomhash":"75beea2e75e931ef37fa42a42f611f8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85938395,
+            "region_id":85688697,
+            "venue_id":740183345
+        }
+    ],
     "wof:id":740183345,
-    "wof:lastmodified":1472621841,
+    "wof:lastmodified":1492107774,
     "wof:name":"Hardy Rachelle DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

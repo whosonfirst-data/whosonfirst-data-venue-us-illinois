@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.675649,42.031951,-87.675649,42.031951",
     "geom:latitude":42.031951,
     "geom:longitude":-87.675649,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890805,
+        102191575,
+        404497621,
         85633793,
+        85940857,
         102084317,
-        85890805
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"569c85a94eabd94198c2ce78a96bb9c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
             "neighbourhood_id":85890805,
             "region_id":85688697,
             "venue_id":269555855
         }
     ],
     "wof:id":269555855,
-    "wof:lastmodified":1472621016,
+    "wof:lastmodified":1492100024,
     "wof:name":"Friedman Kate Design",
     "wof:parent_id":85890805,
     "wof:placetype":"venue",

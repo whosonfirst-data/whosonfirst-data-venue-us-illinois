@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.007351,42.122446,-88.007351,42.122446",
     "geom:latitude":42.122446,
     "geom:longitude":-88.007351,
@@ -32,7 +33,14 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497645,
+        85633793,
+        85938407,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iQ0GiJ6DnrInAI8vZz1vA_42.122446_-88.007351@1303262844"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951817,
     "wof:geomhash":"74288615c0aee849e656e25a294e9b9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85938407,
+            "region_id":85688697,
+            "venue_id":740198483
+        }
+    ],
     "wof:id":740198483,
-    "wof:lastmodified":1472621875,
+    "wof:lastmodified":1492095659,
     "wof:name":"Dorene's Dancexpress School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

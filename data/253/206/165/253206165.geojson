@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.745522,41.720069,-87.745522,41.720069",
     "geom:latitude":41.720069,
     "geom:longitude":-87.745522,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e76c1eb054c685ab3dfa6ed398df3654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":253206165,
-    "wof:lastmodified":1472621266,
+    "wof:lastmodified":1492090108,
     "wof:name":"Smith Furrier",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

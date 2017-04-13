@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.796035,41.534389,-87.796035,41.534389",
     "geom:latitude":41.534389,
     "geom:longitude":-87.796035,
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519355,
+        102191575,
+        404497643,
         85633793,
-        85941275,
-        102080845
+        85940515,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"473c93cf323fd3a57f5d88e129ff921c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080845,
-            "locality_id":85941275,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "neighbourhood_id":420519355,
             "region_id":85688697,
             "venue_id":236828603
         }
     ],
     "wof:id":236828603,
-    "wof:lastmodified":1472621776,
+    "wof:lastmodified":1492101334,
     "wof:name":"Lanlyn Consulting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

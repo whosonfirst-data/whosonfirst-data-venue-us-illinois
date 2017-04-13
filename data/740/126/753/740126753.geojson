@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.934575,42.276236,-87.934575,42.276236",
     "geom:latitude":42.276236,
     "geom:longitude":-87.934575,
@@ -36,7 +37,10 @@
     ],
     "sg:website":"http://www.potenz.dictionarweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WiCOymwvXJufEzKCXfVK4_42.276294_-87.935158@1293134755"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461950262,
     "wof:geomhash":"a6e0db43addb3d781a75314040496986",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740126753
+        }
+    ],
     "wof:id":740126753,
-    "wof:lastmodified":1472621435,
+    "wof:lastmodified":1492090892,
     "wof:name":"Potenz Corporation",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

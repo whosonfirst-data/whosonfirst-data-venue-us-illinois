@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.680482,42.040991,-87.680482,42.040991",
     "geom:latitude":42.040991,
     "geom:longitude":-87.680482,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890797,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890797
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"9fc0ca35ed7dea03cbe30e7a797d0f1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890797,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":220142629,
-    "wof:lastmodified":1472620950,
+    "wof:lastmodified":1491910513,
     "wof:name":"Blockbuster",
     "wof:parent_id":85890797,
     "wof:placetype":"venue",

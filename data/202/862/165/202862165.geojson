@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.34251,41.882267,-88.34251,41.882267",
     "geom:latitude":41.882267,
     "geom:longitude":-88.34251,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"a1126bc116d0941f6a3cd0b01503baf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":202862165
         }
     ],
     "wof:id":202862165,
-    "wof:lastmodified":1472621277,
+    "wof:lastmodified":1492096034,
     "wof:name":"Stevens Automotive Repair",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

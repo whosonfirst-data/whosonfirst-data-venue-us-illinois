@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.840324,42.384643,-87.840324,42.384643",
     "geom:latitude":42.384643,
     "geom:longitude":-87.840324,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"ee5fd6fb44ee857ce293c52154960e17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":202801585
         }
     ],
     "wof:id":202801585,
-    "wof:lastmodified":1472621268,
+    "wof:lastmodified":1492106199,
     "wof:name":"Creative Braids Hair Design",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

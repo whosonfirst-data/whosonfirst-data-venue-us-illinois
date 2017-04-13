@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.000047,40.875009,-88.000047,40.875009",
     "geom:latitude":40.875009,
     "geom:longitude":-88.000047,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498173,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sELlfogfedJWb9x3Evdsd_40.875009_-88.000047@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949771,
     "wof:geomhash":"29312fefdb1552acfac2212b607cb8d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498173,
+            "region_id":85688697,
+            "venue_id":740107283
+        }
+    ],
     "wof:id":740107283,
-    "wof:lastmodified":1472621175,
+    "wof:lastmodified":1492097052,
     "wof:name":"Louis Quinn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

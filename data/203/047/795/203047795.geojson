@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.552853,41.615441,-87.552853,41.615441",
     "geom:latitude":41.615441,
     "geom:longitude":-87.552853,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
         85633793,
-        85688697
+        85940887,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +48,17 @@
     "wof:geomhash":"dddcacfb2b99b93dc77e4f1f3312d69a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940887,
             "region_id":85688697,
             "venue_id":203047795
         }
     ],
     "wof:id":203047795,
-    "wof:lastmodified":1472620832,
+    "wof:lastmodified":1492090362,
     "wof:name":"Triple A Cable Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

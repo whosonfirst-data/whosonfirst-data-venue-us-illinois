@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.538002,41.56375,-87.538002,41.56375",
     "geom:latitude":41.56375,
     "geom:longitude":-87.538002,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838921,
+        102191575,
+        404497591,
         85633793,
+        85940801,
         102084317,
-        85838921
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"7d6381fc222c407b74dd27c51856ca3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":-1,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
             "neighbourhood_id":85838921,
             "region_id":85688697,
             "venue_id":253437127
         }
     ],
     "wof:id":253437127,
-    "wof:lastmodified":1472621520,
+    "wof:lastmodified":1492095072,
     "wof:name":"Midwest Guitar Products",
     "wof:parent_id":85838921,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.794872,41.587679,-88.794872,41.587679",
     "geom:latitude":41.587679,
     "geom:longitude":-88.794872,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496575,
+        85633793,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SIOLkamWSDLHofHUUIzEi_41.587679_-88.794872@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950678,
     "wof:geomhash":"da0644bfeb6376cfcf9ebd82e02e5327",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404496575,
+            "region_id":85688697,
+            "venue_id":740145531
+        }
+    ],
     "wof:id":740145531,
-    "wof:lastmodified":1472621706,
+    "wof:lastmodified":1492088574,
     "wof:name":"Randall Larson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

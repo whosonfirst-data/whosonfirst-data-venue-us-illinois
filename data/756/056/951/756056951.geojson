@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.862297,41.790699,-87.862297,41.790699",
     "geom:latitude":41.790699,
     "geom:longitude":-87.862297,
@@ -40,7 +41,14 @@
     ],
     "sg:website":"www.johnsonfloor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A0rvel96b65OR5BvGVWpT_41.790699_-87.862297@1303262860"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461954583,
     "wof:geomhash":"8dd5da4af922599e134e69e7732f3f3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756056951
+        }
+    ],
     "wof:id":756056951,
-    "wof:lastmodified":1472621243,
+    "wof:lastmodified":1492103109,
     "wof:name":"Johnson Floor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.045825,42.214169,-88.045825,42.214169",
     "geom:latitude":42.214169,
     "geom:longitude":-88.045825,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867903,
+        102191575,
+        404498459,
         85633793,
         85938373,
         102086215,
-        85867903
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"652f59c142ae25e53f9c70723d01a61b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938373,
             "neighbourhood_id":85867903,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":303115691,
-    "wof:lastmodified":1472620950,
+    "wof:lastmodified":1492089253,
     "wof:name":"Lake Zurich Heating & Air Cond",
     "wof:parent_id":85867903,
     "wof:placetype":"venue",

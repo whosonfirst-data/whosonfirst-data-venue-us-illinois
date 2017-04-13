@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.08699,42.367247,-88.08699,42.367247",
     "geom:latitude":42.367247,
     "geom:longitude":-88.08699,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"a8e9dd6868ce4c029a85bfba0a87abd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":219530013
         }
     ],
     "wof:id":219530013,
-    "wof:lastmodified":1472621424,
+    "wof:lastmodified":1492103604,
     "wof:name":"Exchange Mail Order Catal",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

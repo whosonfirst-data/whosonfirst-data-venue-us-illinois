@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.681764,42.046729,-87.681764,42.046729",
     "geom:latitude":42.046729,
     "geom:longitude":-87.681764,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890791,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890791
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"626c7c2ee153d5fa1d772d886c00dd1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890791,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253445891,
-    "wof:lastmodified":1472621527,
+    "wof:lastmodified":1492090087,
     "wof:name":"Cabo Grill",
     "wof:parent_id":85890791,
     "wof:placetype":"venue",

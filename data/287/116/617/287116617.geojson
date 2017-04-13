@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855008,42.411552,-87.855008,42.411552",
     "geom:latitude":42.411552,
     "geom:longitude":-87.855008,
@@ -29,7 +30,12 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
+        102086215,
         85688697
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"cd1474c74588105b1fdf2141fbc0208a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086215,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
+            "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":287116617
         }
     ],
     "wof:id":287116617,
-    "wof:lastmodified":1472621053,
+    "wof:lastmodified":1492105699,
     "wof:name":"Jerrys Amoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

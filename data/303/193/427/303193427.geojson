@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.894348,42.025896,-87.894348,42.025896",
     "geom:latitude":42.025896,
     "geom:longitude":-87.894348,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518695,
+        102191575,
+        404497631,
         85633793,
         85940869,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:brand_id":420573919,
     "wof:breaches":[],
@@ -47,19 +51,20 @@
     "wof:geomhash":"48314571781b853e328640d8c53d6467",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518695,
             "region_id":85688697,
             "venue_id":303193427
         }
     ],
     "wof:id":303193427,
-    "wof:lastmodified":1472621003,
+    "wof:lastmodified":1492089899,
     "wof:name":"Sally Beauty Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.766368,41.516765,-87.766368,41.516765",
     "geom:latitude":41.516765,
     "geom:longitude":-87.766368,
@@ -33,7 +34,14 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497581,
+        85633793,
+        85940549,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o6kn2CQveLFGAQs7Xi0O0_41.516765_-87.766368@1303262856"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461953937,
     "wof:geomhash":"078ba2ecdb1db8d023a6f0a6c27e559f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497581,
+            "locality_id":85940549,
+            "region_id":85688697,
+            "venue_id":756026303
+        }
+    ],
     "wof:id":756026303,
-    "wof:lastmodified":1472620845,
+    "wof:lastmodified":1492090042,
     "wof:name":"James Fragale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

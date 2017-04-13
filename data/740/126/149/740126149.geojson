@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855103,41.919498,-87.855103,41.919498",
     "geom:latitude":41.919498,
     "geom:longitude":-87.855103,
@@ -37,7 +38,14 @@
     ],
     "sg:website":"www.mintmasters.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940843,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sy95EtWOky0LbbisADFpc_41.919548_-87.855469@1293134755"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461950248,
     "wof:geomhash":"e526eb21990eac3599f7bedbc4bd7690",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940843,
+            "region_id":85688697,
+            "venue_id":740126149
+        }
+    ],
     "wof:id":740126149,
-    "wof:lastmodified":1472621393,
+    "wof:lastmodified":1492090149,
     "wof:name":"Mint Masters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

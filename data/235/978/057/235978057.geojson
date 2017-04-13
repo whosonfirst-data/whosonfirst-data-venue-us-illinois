@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.356183,41.889112,-88.356183,41.889112",
     "geom:latitude":41.889112,
     "geom:longitude":-88.356183,
@@ -29,10 +30,15 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
         85939739,
-        102086925
+        102086925,
+        85688697,
+        85940213,
+        85890911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,28 @@
     "wof:geomhash":"1a55ef9474730f0eb96e2c6d54a79a29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498227,
             "locality_id":85939739,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890729,
+            "region_id":85688697,
+            "venue_id":235978057
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086925,
+            "locality_id":85940213,
+            "neighbourhood_id":85890911,
             "region_id":85688697,
             "venue_id":235978057
         }
     ],
     "wof:id":235978057,
-    "wof:lastmodified":1472620786,
+    "wof:lastmodified":1492089501,
     "wof:name":"Midwest Fire Fabrication LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

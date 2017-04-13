@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.882443,41.888703,-87.882443,41.888703",
     "geom:latitude":41.888703,
     "geom:longitude":-87.882443,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"http://www.danleys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940907,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nvrfG0muwN1licuPdprZa_41.888703_-87.882443@1303262846"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952178,
     "wof:geomhash":"7a030f2f8450fa560d08f1fb71257895",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940907,
+            "region_id":85688697,
+            "venue_id":740214465
+        }
+    ],
     "wof:id":740214465,
-    "wof:lastmodified":1472621922,
+    "wof:lastmodified":1492093525,
     "wof:name":"Danley's Garage World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

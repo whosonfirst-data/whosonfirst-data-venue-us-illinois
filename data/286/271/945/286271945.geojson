@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.961801,41.906905,-87.961801,41.906905",
     "geom:latitude":41.906905,
     "geom:longitude":-87.961801,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890967,
+        102191575,
+        404497661,
         85633793,
+        85940149,
         102081257,
-        85890967
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"aa60e2d63301ed99c01b4fdf1e9e31db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940149,
             "neighbourhood_id":85890967,
             "region_id":85688697,
             "venue_id":286271945
         }
     ],
     "wof:id":286271945,
-    "wof:lastmodified":1472620791,
+    "wof:lastmodified":1492088929,
     "wof:name":"Carrera Concrete Construction",
     "wof:parent_id":85890967,
     "wof:placetype":"venue",

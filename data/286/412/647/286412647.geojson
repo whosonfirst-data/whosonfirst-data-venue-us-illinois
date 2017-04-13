@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.750573,41.737009,-87.750573,41.737009",
     "geom:latitude":41.737009,
     "geom:longitude":-87.750573,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497589,
         85633793,
-        85940195,
-        102084317,
-        85869643
+        85940891,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"b086439f550eef8b86107bc033b0d9bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85869643,
+            "localadmin_id":404497589,
+            "locality_id":85940891,
             "region_id":85688697,
             "venue_id":286412647
         }
     ],
     "wof:id":286412647,
-    "wof:lastmodified":1472621213,
+    "wof:lastmodified":1492103965,
     "wof:name":"Newcastle Construction Inc",
-    "wof:parent_id":85869643,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

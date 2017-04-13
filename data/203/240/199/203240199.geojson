@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.149519,41.97677,-88.149519,41.97677",
     "geom:latitude":41.97677,
     "geom:longitude":-88.149519,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85847323,
+        102191575,
+        404497763,
         85633793,
         85940189,
         102081257,
-        85847323
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"67c146237d9445a489c487d74a8d1806",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497763,
             "locality_id":85940189,
             "neighbourhood_id":85847323,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203240199,
-    "wof:lastmodified":1472621116,
+    "wof:lastmodified":1492087979,
     "wof:name":"Sam Carbone",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",

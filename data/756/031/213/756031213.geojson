@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.325179,41.350412,-88.325179,41.350412",
     "geom:latitude":41.350412,
     "geom:longitude":-88.325179,
@@ -35,11 +36,13 @@
     "sg:website":"http://www.il.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890853,
+        102191575,
+        404497247,
         85633793,
         85938283,
         102086193,
-        85890853
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,10 @@
     "wof:geomhash":"8edd0c25b2fa9b930c0a06b60cb1c2d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086193,
+            "localadmin_id":404497247,
             "locality_id":85938283,
             "neighbourhood_id":85890853,
             "region_id":85688697,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":756031213,
-    "wof:lastmodified":1472620828,
+    "wof:lastmodified":1492093544,
     "wof:name":"Heidecke Lk State Fsh & Wldlf",
     "wof:parent_id":85890853,
     "wof:placetype":"venue",

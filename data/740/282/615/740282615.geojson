@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.547091,41.419521,-87.547091,41.419521",
     "geom:latitude":41.419521,
     "geom:longitude":-87.547091,
@@ -36,7 +37,13 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55dCERlywddYkbgLh4iGsP_41.419521_-87.547091@1303262854"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461953624,
     "wof:geomhash":"07f28890bbbcd70074565b31ab23452d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":740282615
+        }
+    ],
     "wof:id":740282615,
-    "wof:lastmodified":1472622036,
+    "wof:lastmodified":1492089760,
     "wof:name":"Rush Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

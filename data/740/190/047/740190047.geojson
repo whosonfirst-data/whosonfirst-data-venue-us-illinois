@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.973937,42.279467,-87.973937,42.279467",
     "geom:latitude":42.279467,
     "geom:longitude":-87.973937,
@@ -31,7 +32,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hkJ3czj0iEvNdc5YLva7w_42.279467_-87.973937@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951649,
     "wof:geomhash":"e0f96b32c74fe4dd6e02d05ca5129c9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190047
+        }
+    ],
     "wof:id":740190047,
-    "wof:lastmodified":1472621853,
+    "wof:lastmodified":1492108424,
     "wof:name":"Susan C White",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

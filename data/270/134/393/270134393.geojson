@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.939604,41.915772,-87.939604,41.915772",
     "geom:latitude":41.915772,
     "geom:longitude":-87.939604,
@@ -34,11 +35,13 @@
     "sg:website":"www.elmhurstwireless.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890779,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890779
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"728667876e8fa877b2aef5033b1e278b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890779,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":270134393,
-    "wof:lastmodified":1472621094,
+    "wof:lastmodified":1492093016,
     "wof:name":"ELMHURSTWIRELESS.COM",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",

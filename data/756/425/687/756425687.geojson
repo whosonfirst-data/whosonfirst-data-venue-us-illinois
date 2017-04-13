@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817918,41.086191,-87.817918,41.086191",
     "geom:latitude":41.086191,
     "geom:longitude":-87.817918,
@@ -31,7 +32,13 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498239,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6icMh03Ms8M8mbiePOxl0L_41.086191_-87.817918@1303262909"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461962915,
     "wof:geomhash":"078f00fe55c32b7a7dac4f0d542a4cd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498239,
+            "region_id":85688697,
+            "venue_id":756425687
+        }
+    ],
     "wof:id":756425687,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1492091742,
     "wof:name":"Nelson Capital Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

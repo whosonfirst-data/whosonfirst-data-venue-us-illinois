@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.469625,41.897903,-88.469625,41.897903",
     "geom:latitude":41.897903,
     "geom:longitude":-88.469625,
@@ -33,7 +34,10 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18EGhVHefGmQprjfS6Cro1_41.897903_-88.469625@1303262847"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461952383,
     "wof:geomhash":"d7c637e4264ac72b338d3afe4adb23f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224299
+        }
+    ],
     "wof:id":740224299,
-    "wof:lastmodified":1472621916,
+    "wof:lastmodified":1492089606,
     "wof:name":"Imperial Plumbing",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

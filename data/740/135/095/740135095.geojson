@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.727013,42.186147,-88.727013,42.186147",
     "geom:latitude":42.186147,
     "geom:longitude":-88.727013,
@@ -29,7 +30,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497357,
+        85633793,
+        102086197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65RQxRnRTPt2ewyBeBKiip_42.186147_-88.727013@1294102059"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461950457,
     "wof:geomhash":"5200b2f825b04181fb4f9d5b1c9c65d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086197,
+            "localadmin_id":404497357,
+            "region_id":85688697,
+            "venue_id":740135095
+        }
+    ],
     "wof:id":740135095,
-    "wof:lastmodified":1472621510,
+    "wof:lastmodified":1492090777,
     "wof:name":"Lemke Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

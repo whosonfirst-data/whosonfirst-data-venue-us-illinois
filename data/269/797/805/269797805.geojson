@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.565504,41.574774,-87.565504,41.574774",
     "geom:latitude":41.574774,
     "geom:longitude":-87.565504,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805877,
+        102191575,
+        404497591,
         85633793,
         85940801,
         102084317,
-        85805877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"6505f18278a5025493e53caf6e621d5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940801,
             "neighbourhood_id":85805877,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269797805,
-    "wof:lastmodified":1472621361,
+    "wof:lastmodified":1492095070,
     "wof:name":"Another Level Management Inc",
     "wof:parent_id":85805877,
     "wof:placetype":"venue",

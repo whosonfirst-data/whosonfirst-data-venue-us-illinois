@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.163235,41.993731,-88.163235,41.993731",
     "geom:latitude":41.993731,
     "geom:longitude":-88.163235,
@@ -40,7 +41,14 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940189,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CnkRijAeu8IiaxYoeOQlC_41.993731_-88.163235@1303262846"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461952156,
     "wof:geomhash":"7a64e65fde1db7492e7e4f30cc9ab87b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940189,
+            "region_id":85688697,
+            "venue_id":740213431
+        }
+    ],
     "wof:id":740213431,
-    "wof:lastmodified":1472621909,
+    "wof:lastmodified":1492089653,
     "wof:name":"Iglesia Bautista Betel In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

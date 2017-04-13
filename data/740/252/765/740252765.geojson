@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.714359,41.977173,-88.714359,41.977173",
     "geom:latitude":41.977173,
     "geom:longitude":-88.714359,
@@ -51,7 +52,14 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497727,
+        85633793,
+        85939743,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jfi3WJ0wG5pwfKOKuSc44_41.977173_-88.714359@1303262851"
@@ -59,9 +67,19 @@
     "wof:country":"US",
     "wof:created":1461953009,
     "wof:geomhash":"ad571a358cdcbb0de9e63fc8c817317a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497727,
+            "locality_id":85939743,
+            "region_id":85688697,
+            "venue_id":740252765
+        }
+    ],
     "wof:id":740252765,
-    "wof:lastmodified":1472621994,
+    "wof:lastmodified":1492089496,
     "wof:name":"Allstate Insurance Company - Jill Craig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

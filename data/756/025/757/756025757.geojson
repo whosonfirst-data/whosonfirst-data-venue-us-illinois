@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.919454,41.45173,-87.919454,41.45173",
     "geom:latitude":41.45173,
     "geom:longitude":-87.919454,
@@ -41,7 +42,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NuzyFhpSqB60Q9LvpdN1S_41.451730_-87.919454@1303262856"
@@ -49,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"659f1db7462f64136c114786c0ebccf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025757
+        }
+    ],
     "wof:id":756025757,
-    "wof:lastmodified":1472620880,
+    "wof:lastmodified":1492098928,
     "wof:name":"Chief Construction Inc",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

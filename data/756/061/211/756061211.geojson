@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.326315,41.722036,-88.326315,41.722036",
     "geom:latitude":41.722036,
     "geom:longitude":-88.326315,
@@ -33,7 +34,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85939797,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FedI4dZYu44WltL1UWDgP_41.722036_-88.326315@1303262861"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954663,
     "wof:geomhash":"ed21d0c0f96664195e09f169ce86e722",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85939797,
+            "region_id":85688697,
+            "venue_id":756061211
+        }
+    ],
     "wof:id":756061211,
-    "wof:lastmodified":1472621324,
+    "wof:lastmodified":1492093465,
     "wof:name":"Babcock Heating Ac & Rfrgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

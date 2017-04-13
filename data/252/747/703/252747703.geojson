@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.293236,41.863151,-88.293236,41.863151",
     "geom:latitude":41.863151,
     "geom:longitude":-88.293236,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"f4b901059532035a144d40a117c3e1a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":252747703,
-    "wof:lastmodified":1472620841,
+    "wof:lastmodified":1492089671,
     "wof:name":"Headin' For Home Sports Emp",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

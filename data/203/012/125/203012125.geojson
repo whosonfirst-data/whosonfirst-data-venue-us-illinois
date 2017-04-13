@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.314924,42.247301,-88.314924,42.247301",
     "geom:latitude":42.247301,
     "geom:longitude":-88.314924,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85813129,
+        102191575,
+        404499077,
         85633793,
+        85939009,
         102081661,
-        85813129
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"1a076f8deac2236cb978def10a6ca09a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939009,
             "neighbourhood_id":85813129,
             "region_id":85688697,
             "venue_id":203012125
         }
     ],
     "wof:id":203012125,
-    "wof:lastmodified":1472620762,
+    "wof:lastmodified":1492097351,
     "wof:name":"A & L Construction",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",

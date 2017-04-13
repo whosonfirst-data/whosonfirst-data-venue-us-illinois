@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.118491,41.951716,-88.118491,41.951716",
     "geom:latitude":41.951716,
     "geom:longitude":-88.118491,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.la-z-boy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AW2xKgdHW23nz3EZnr4Et_41.951716_-88.118491@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952247,
     "wof:geomhash":"6297dce453a0885a45d8b0a1c6fb643c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217679
+        }
+    ],
     "wof:id":740217679,
-    "wof:lastmodified":1472621933,
+    "wof:lastmodified":1492089665,
     "wof:name":"La-Z-Boy Furniture Galleries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

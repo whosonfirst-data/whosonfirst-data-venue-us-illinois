@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.879799,41.782902,-87.879799,41.782902",
     "geom:latitude":41.782902,
     "geom:longitude":-87.879799,
@@ -31,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CA3Q8CQOzM9BdlcV9i7u7_41.782902_-87.879799@1303262860"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461954596,
     "wof:geomhash":"03c7e5b6c248066d7e6853034cd507f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "region_id":85688697,
+            "venue_id":756057533
+        }
+    ],
     "wof:id":756057533,
-    "wof:lastmodified":1472621214,
+    "wof:lastmodified":1492091645,
     "wof:name":"Primo Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

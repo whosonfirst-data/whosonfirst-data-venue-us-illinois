@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.055209,40.822934,-88.055209,40.822934",
     "geom:latitude":40.822934,
     "geom:longitude":-88.055209,
@@ -26,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498183,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QpyXmiOjJHV5z6EJgk1lC_40.822934_-88.055209@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461949898,
     "wof:geomhash":"2977e809088704539b3366541d27b83b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498183,
+            "region_id":85688697,
+            "venue_id":740113141
+        }
+    ],
     "wof:id":740113141,
-    "wof:lastmodified":1472621248,
+    "wof:lastmodified":1492093834,
     "wof:name":"Marvin Zeedyk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

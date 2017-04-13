@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.054182,42.204687,-88.054182,42.204687",
     "geom:latitude":42.204687,
     "geom:longitude":-88.054182,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867865,
+        102191575,
+        404498459,
         85633793,
         85938361,
         102086215,
-        85867865
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f207e40be0c231b819506f10103939ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498459,
             "locality_id":85938361,
             "neighbourhood_id":85867865,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270112027,
-    "wof:lastmodified":1472621063,
+    "wof:lastmodified":1492089258,
     "wof:name":"M & B Systems",
     "wof:parent_id":85867865,
     "wof:placetype":"venue",

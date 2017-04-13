@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.659697,41.561501,-87.659697,41.561501",
     "geom:latitude":41.561501,
     "geom:longitude":-87.659697,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890809,
+        102191575,
+        404497591,
         85633793,
         85940817,
         102084317,
-        85890809
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"44c643071aa19636f7202998471ec8c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940817,
             "neighbourhood_id":85890809,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":219941589,
-    "wof:lastmodified":1472621618,
+    "wof:lastmodified":1492097190,
     "wof:name":"Art Glass & More",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",

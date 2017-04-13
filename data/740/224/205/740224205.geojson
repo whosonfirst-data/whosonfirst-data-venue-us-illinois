@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.464295,41.89904,-88.464295,41.89904",
     "geom:latitude":41.89904,
     "geom:longitude":-88.464295,
@@ -31,7 +32,10 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11zZ4fULbDo495bjhzuEcI_41.899040_-88.464295@1303262847"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461952380,
     "wof:geomhash":"d99e56c0980b7770c1f437607b336578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224205
+        }
+    ],
     "wof:id":740224205,
-    "wof:lastmodified":1472621911,
+    "wof:lastmodified":1492105520,
     "wof:name":"Johanna Weigand",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

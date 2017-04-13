@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.75536,41.851257,-87.75536,41.851257",
     "geom:latitude":41.851257,
     "geom:longitude":-87.75536,
@@ -43,11 +44,13 @@
     "sg:website":"www.algorphs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867557,
+        102191575,
+        404497617,
         85633793,
         85940877,
         102084317,
-        85867557
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"2677deaeb654ab028bc5dce4264a6e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
             "neighbourhood_id":85867557,
             "region_id":85688697,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":253037711,
-    "wof:lastmodified":1472620819,
+    "wof:lastmodified":1492094895,
     "wof:name":"Allied Plumbing & Heating Supl",
     "wof:parent_id":85867557,
     "wof:placetype":"venue",

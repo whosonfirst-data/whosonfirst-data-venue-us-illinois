@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880501,41.155991,-87.880501,41.155991",
     "geom:latitude":41.155991,
     "geom:longitude":-87.880501,
@@ -52,7 +53,14 @@
     ],
     "sg:website":"http://www.kankakeeareachiropractor.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498243,
+        85633793,
+        85939995,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mNy5UA5fnMawl8qBbV4kS_41.155991_-87.880501@1303262910"
@@ -60,9 +68,19 @@
     "wof:country":"US",
     "wof:created":1461962921,
     "wof:geomhash":"cb0eb8ebb8fe472f1e721795577c5ce3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498243,
+            "locality_id":85939995,
+            "region_id":85688697,
+            "venue_id":756425947
+        }
+    ],
     "wof:id":756425947,
-    "wof:lastmodified":1472622215,
+    "wof:lastmodified":1492090319,
     "wof:name":"Koehler Sports & Spinal Rehab Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

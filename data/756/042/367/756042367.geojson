@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.801201,41.6688,-87.801201,41.6688",
     "geom:latitude":41.6688,
     "geom:longitude":-87.801201,
@@ -28,7 +29,14 @@
     "sg:postcode":"60463",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497667,
+        85633793,
+        85940749,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cQ83WhgtvqbyIB6ABl4Ts_41.668800_-87.801201@1303262858"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954277,
     "wof:geomhash":"193d816d967ef8c57732686a9a81ffd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940749,
+            "region_id":85688697,
+            "venue_id":756042367
+        }
+    ],
     "wof:id":756042367,
-    "wof:lastmodified":1472621055,
+    "wof:lastmodified":1492089857,
     "wof:name":"Taylor Joseph H Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

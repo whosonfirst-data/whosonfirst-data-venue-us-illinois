@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.08024,41.991199,-88.08024,41.991199",
     "geom:latitude":41.991199,
     "geom:longitude":-88.08024,
@@ -36,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iLlk7lKqaR6QJ6b0XKXKc_41.991199_-88.080240@1303262850"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461952942,
     "wof:geomhash":"c309d2e493bac258a7516530f928e983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249479
+        }
+    ],
     "wof:id":740249479,
-    "wof:lastmodified":1472621972,
+    "wof:lastmodified":1492093426,
     "wof:name":"Hale Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

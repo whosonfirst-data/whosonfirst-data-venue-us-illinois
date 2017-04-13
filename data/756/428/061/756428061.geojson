@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.744049,40.816509,-87.744049,40.816509",
     "geom:latitude":40.816509,
     "geom:longitude":-87.744049,
@@ -28,7 +29,13 @@
     "sg:postcode":"60970",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498197,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZqkG8rZOyKFQIpsgSoTnU_40.816509_-87.744049@1303262910"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461962966,
     "wof:geomhash":"aca6c4b669665232de6b723e8912a727",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498197,
+            "region_id":85688697,
+            "venue_id":756428061
+        }
+    ],
     "wof:id":756428061,
-    "wof:lastmodified":1472622191,
+    "wof:lastmodified":1492088387,
     "wof:name":"Witmat Development Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

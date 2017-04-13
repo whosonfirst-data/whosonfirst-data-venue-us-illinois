@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.098244,41.832887,-88.098244,41.832887",
     "geom:latitude":41.832887,
     "geom:longitude":-88.098244,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891047,
+        102191575,
+        404497653,
         85633793,
         85940139,
         102081257,
-        85891047
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"214591f2872bf1d1660c908085624f78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497653,
             "locality_id":85940139,
             "neighbourhood_id":85891047,
             "region_id":85688697,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":236207895,
-    "wof:lastmodified":1472621339,
+    "wof:lastmodified":1492091490,
     "wof:name":"Newsom & Mc Coloughan Pt Ctr",
     "wof:parent_id":85891047,
     "wof:placetype":"venue",

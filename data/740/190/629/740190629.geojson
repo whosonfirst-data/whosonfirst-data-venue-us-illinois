@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.906368,42.306664,-87.906368,42.306664",
     "geom:latitude":42.306664,
     "geom:longitude":-87.906368,
@@ -32,7 +33,10 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E0T14I33lHwRjjTKAs66Q_42.306664_-87.906368@1303262843"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461951659,
     "wof:geomhash":"1465ad93265eac77875fe32833a3d081",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190629
+        }
+    ],
     "wof:id":740190629,
-    "wof:lastmodified":1472621865,
+    "wof:lastmodified":1492109982,
     "wof:name":"Diabetes Education And Resources",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

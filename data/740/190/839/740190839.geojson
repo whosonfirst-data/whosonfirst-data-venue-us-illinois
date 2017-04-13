@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952959,42.291409,-87.952959,42.291409",
     "geom:latitude":42.291409,
     "geom:longitude":-87.952959,
@@ -31,7 +32,10 @@
         "genealogist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27BExRmw2AallSErS2bh36_42.291409_-87.952959@1303262843"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951664,
     "wof:geomhash":"d997bb98ba61cf39722229e88ed305b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190839
+        }
+    ],
     "wof:id":740190839,
-    "wof:lastmodified":1472621871,
+    "wof:lastmodified":1492107846,
     "wof:name":"Kathy Bradyblake Genealogist",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

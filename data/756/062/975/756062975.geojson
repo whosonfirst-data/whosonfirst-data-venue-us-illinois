@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.294501,41.713293,-88.294501,41.713293",
     "geom:latitude":41.713293,
     "geom:longitude":-88.294501,
@@ -40,7 +41,14 @@
         "package"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941079,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aCBlW0arUEoxteoe23x8L_41.713293_-88.294501@1303262861"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461954701,
     "wof:geomhash":"90c3895af5878565e969b30e0954948e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941079,
+            "region_id":85688697,
+            "venue_id":756062975
+        }
+    ],
     "wof:id":756062975,
-    "wof:lastmodified":1472621353,
+    "wof:lastmodified":1492097794,
     "wof:name":"Precision Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

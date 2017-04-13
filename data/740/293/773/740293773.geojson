@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.563217,41.563206,-87.563217,41.563206",
     "geom:latitude":41.563206,
     "geom:longitude":-87.563217,
@@ -44,7 +45,14 @@
     ],
     "sg:website":"www.plantkeepers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KLpG3n9hfSzZIbtQuncPh_41.563206_-87.563217@1303262856"
@@ -52,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461953859,
     "wof:geomhash":"35f7fb6cac0aeb1221555b10c0349ea3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740293773
+        }
+    ],
     "wof:id":740293773,
-    "wof:lastmodified":1472622036,
+    "wof:lastmodified":1492093500,
     "wof:name":"Plant Keepers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

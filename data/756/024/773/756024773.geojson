@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068489,41.704281,-88.068489,41.704281",
     "geom:latitude":41.704281,
     "geom:longitude":-88.068489,
@@ -43,7 +44,14 @@
     ],
     "sg:website":"http://www.jiffylube.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s57QwXwMhCgoFjGB9n67m_41.704281_-88.068489@1303262856"
@@ -51,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1461953902,
     "wof:geomhash":"eb1a23e814b0f98415417864b13622eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024773
+        }
+    ],
     "wof:id":756024773,
-    "wof:lastmodified":1472620850,
+    "wof:lastmodified":1492089871,
     "wof:name":"Jiffy Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.106755,41.889655,-88.106755,41.889655",
     "geom:latitude":41.889655,
     "geom:longitude":-88.106755,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891053,
+        102191575,
+        404497763,
         85633793,
+        85940171,
         102081257,
-        85891053
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"5c81549dac84bea3784a5dac8aa7d8de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
             "neighbourhood_id":85891053,
             "region_id":85688697,
             "venue_id":287281609
         }
     ],
     "wof:id":287281609,
-    "wof:lastmodified":1472621223,
+    "wof:lastmodified":1492093321,
     "wof:name":"Dimares Wilton Manor",
     "wof:parent_id":85891053,
     "wof:placetype":"venue",

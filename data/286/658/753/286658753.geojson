@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.335358,42.179035,-88.335358,42.179035",
     "geom:latitude":42.179035,
     "geom:longitude":-88.335358,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519185,
+        102191575,
+        404499077,
         85633793,
-        85938997,
-        102081661
+        85939019,
+        102081661,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"6c219d3118a64d925717e6e112c7d91d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081661,
-            "locality_id":85938997,
-            "neighbourhood_id":-1,
+            "localadmin_id":404499077,
+            "locality_id":85939019,
+            "neighbourhood_id":420519185,
             "region_id":85688697,
             "venue_id":286658753
         }
     ],
     "wof:id":286658753,
-    "wof:lastmodified":1472621562,
+    "wof:lastmodified":1492088891,
     "wof:name":"Z's Martial Arts Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

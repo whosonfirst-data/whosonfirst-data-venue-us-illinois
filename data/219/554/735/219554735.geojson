@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.782217,41.660056,-88.782217,41.660056",
     "geom:latitude":41.660056,
     "geom:longitude":-88.782217,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404496299,
         85633793,
-        85688697
+        102082847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"cfd96ddf5a2a35d54081cad02251c4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082847,
+            "localadmin_id":404496299,
             "region_id":85688697,
             "venue_id":219554735
         }
     ],
     "wof:id":219554735,
-    "wof:lastmodified":1472621465,
+    "wof:lastmodified":1492088565,
     "wof:name":"Victor Twp Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

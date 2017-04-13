@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.123695,41.624251,-88.123695,41.624251",
     "geom:latitude":41.624251,
     "geom:longitude":-88.123695,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:brand_id":420573995,
     "wof:breaches":[],
@@ -44,17 +47,18 @@
     "wof:geomhash":"9c50cac1c6640f06dccdb88e763575fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":202553769
         }
     ],
     "wof:id":202553769,
-    "wof:lastmodified":1472621078,
+    "wof:lastmodified":1492088183,
     "wof:name":"Washington Mutual",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

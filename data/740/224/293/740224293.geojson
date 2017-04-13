@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.46887,41.893347,-88.46887,41.893347",
     "geom:latitude":41.893347,
     "geom:longitude":-88.46887,
@@ -36,7 +37,10 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CnWMY29XlGhB766UpQlDr_41.893347_-88.468870@1303262847"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461952383,
     "wof:geomhash":"933c5b21e47aa74f491c33cf87aa24c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224293
+        }
+    ],
     "wof:id":740224293,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492093650,
     "wof:name":"Albright Kennels",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

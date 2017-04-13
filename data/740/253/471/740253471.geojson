@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.193219,41.861432,-88.193219,41.861432",
     "geom:latitude":41.861432,
     "geom:longitude":-88.193219,
@@ -31,7 +32,10 @@
         "orthodontist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZDhqjupI9gpHrbe8F723i_41.861432_-88.193219@1303262851"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461953023,
     "wof:geomhash":"1c1b5ed77e5bb07f0b1109417e6481a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740253471
+        }
+    ],
     "wof:id":740253471,
-    "wof:lastmodified":1472621974,
+    "wof:lastmodified":1492091498,
     "wof:name":"Doyle David A",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

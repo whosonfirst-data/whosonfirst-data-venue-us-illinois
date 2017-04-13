@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.56847,41.576414,-87.56847,41.576414",
     "geom:latitude":41.576414,
     "geom:longitude":-87.56847,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805877,
+        102191575,
+        404497591,
         85633793,
         85940801,
         102084317,
-        85805877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"2c67835475866da4c8e839f7bf52d019",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940801,
             "neighbourhood_id":85805877,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":252727185,
-    "wof:lastmodified":1472620782,
+    "wof:lastmodified":1492102079,
     "wof:name":"A & R Trnsp & Whsng LLC",
     "wof:parent_id":85805877,
     "wof:placetype":"venue",

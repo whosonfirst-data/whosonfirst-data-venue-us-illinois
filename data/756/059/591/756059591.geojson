@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.084213,41.785099,-88.084213,41.785099",
     "geom:latitude":41.785099,
     "geom:longitude":-88.084213,
@@ -32,7 +33,10 @@
         "stylist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09aoxMJig1cnhQVRV7OFxb_41.785099_-88.084213@1303262861"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954635,
     "wof:geomhash":"79ccdcaf5fd50c778237b33ee1a7eef5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059591
+        }
+    ],
     "wof:id":756059591,
-    "wof:lastmodified":1472621291,
+    "wof:lastmodified":1492106837,
     "wof:name":"Rocky's Hair Studio",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

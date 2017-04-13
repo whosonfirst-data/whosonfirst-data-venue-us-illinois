@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.852303,41.905701,-87.852303,41.905701",
     "geom:latitude":41.905701,
     "geom:longitude":-87.852303,
@@ -28,7 +29,14 @@
     "sg:postcode":"60160",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940785,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10a91Rwuf0mJCtLUq5eNPL_41.905701_-87.852303@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952891,
     "wof:geomhash":"78de5e711a3a4ae731c3b76e8e7c4d2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940785,
+            "region_id":85688697,
+            "venue_id":740247051
+        }
+    ],
     "wof:id":740247051,
-    "wof:lastmodified":1472621957,
+    "wof:lastmodified":1492094851,
     "wof:name":"Larry's Plumbing & Sewer Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

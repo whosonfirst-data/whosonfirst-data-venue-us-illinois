@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.985475,41.880056,-87.985475,41.880056",
     "geom:latitude":41.880056,
     "geom:longitude":-87.985475,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890961,
+        102191575,
+        404497661,
         85633793,
         85940149,
         102081257,
-        85890961
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d9267acfa47f47acb31e4c662bbdd3a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940149,
             "neighbourhood_id":85890961,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286738765,
-    "wof:lastmodified":1472621655,
+    "wof:lastmodified":1492108411,
     "wof:name":"Prairie Path Painting Services",
     "wof:parent_id":85890961,
     "wof:placetype":"venue",

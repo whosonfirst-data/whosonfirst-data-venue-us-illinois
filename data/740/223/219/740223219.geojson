@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.277636,42.098065,-88.277636,42.098065",
     "geom:latitude":42.098065,
     "geom:longitude":-88.277636,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.steeplejackbooks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498221,
+        85633793,
+        85939707,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PERlr4nbCmwvj8XuRhS98_42.098065_-88.277636@1303262847"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952360,
     "wof:geomhash":"e91d5cab281619f25c35f4d31a2aec9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498221,
+            "locality_id":85939707,
+            "region_id":85688697,
+            "venue_id":740223219
+        }
+    ],
     "wof:id":740223219,
-    "wof:lastmodified":1472621910,
+    "wof:lastmodified":1492093799,
     "wof:name":"Steeplejack Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

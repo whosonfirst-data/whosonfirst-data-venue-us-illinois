@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.156403,41.535847,-88.156403,41.535847",
     "geom:latitude":41.535847,
     "geom:longitude":-88.156403,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"8072425d61f4f3c46690c7c96379d335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":202795667,
-    "wof:lastmodified":1472621259,
+    "wof:lastmodified":1492105880,
     "wof:name":"Nichols Ldscpg & Brick Barn",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

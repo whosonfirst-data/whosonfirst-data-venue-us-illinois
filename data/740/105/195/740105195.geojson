@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.003173,41.482864,-88.003173,41.482864",
     "geom:latitude":41.482864,
     "geom:longitude":-88.003173,
@@ -27,7 +28,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hLBDpCkvhio14ezExXag4_41.482864_-88.003173@1294102059"
@@ -35,9 +39,15 @@
     "wof:country":"US",
     "wof:created":1461949726,
     "wof:geomhash":"fb55dc11e5c1e48a185c12bda34d9713",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":740105195
+        }
+    ],
     "wof:id":740105195,
-    "wof:lastmodified":1472621050,
+    "wof:lastmodified":1492092886,
     "wof:name":"Fritz Farms",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

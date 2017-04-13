@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.746616,42.06473,-87.746616,42.06473",
     "geom:latitude":42.06473,
     "geom:longitude":-87.746616,
@@ -29,8 +30,16 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85856393,
+        102191575,
+        404497635,
         85633793,
-        85688697
+        85940943,
+        102084317,
+        85688697,
+        85823241,
+        404497633,
+        85940917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +49,30 @@
     "wof:geomhash":"99212ff9f4898a9851cc91a2b6055616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497635,
+            "locality_id":85940943,
+            "neighbourhood_id":85856393,
+            "region_id":85688697,
+            "venue_id":220028741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497633,
+            "locality_id":85940917,
+            "neighbourhood_id":85823241,
             "region_id":85688697,
             "venue_id":220028741
         }
     ],
     "wof:id":220028741,
-    "wof:lastmodified":1472620802,
+    "wof:lastmodified":1492106313,
     "wof:name":"Bedrooms For Kids",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

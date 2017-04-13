@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.185276,42.203465,-88.185276,42.203465",
     "geom:latitude":42.203465,
     "geom:longitude":-88.185276,
@@ -33,8 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85813157,
+        102191575,
+        404498455,
         85633793,
-        85688697
+        85938359,
+        102086215,
+        85688697,
+        85938395,
+        102081661,
+        85848869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +53,28 @@
     "wof:geomhash":"db4793c2852d8adc8eda85f1477232f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086215,
+            "localadmin_id":404498455,
+            "locality_id":85938359,
+            "neighbourhood_id":85813157,
+            "region_id":85688697,
+            "venue_id":286968319
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081661,
+            "locality_id":85938395,
+            "neighbourhood_id":85848869,
             "region_id":85688697,
             "venue_id":286968319
         }
     ],
     "wof:id":286968319,
-    "wof:lastmodified":1472621714,
+    "wof:lastmodified":1492104143,
     "wof:name":"Lake Barrington Community",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

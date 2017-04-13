@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.133443,41.512185,-88.133443,41.512185",
     "geom:latitude":41.512185,
     "geom:longitude":-88.133443,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85826741,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85826741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,10 @@
     "wof:geomhash":"6c6ab6931661c22d0fd03f051c32d96d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85826741,
             "region_id":85688697,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":740292441,
-    "wof:lastmodified":1472622018,
+    "wof:lastmodified":1492107481,
     "wof:name":"Tec",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",

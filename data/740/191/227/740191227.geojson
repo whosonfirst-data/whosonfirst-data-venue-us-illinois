@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.927021,42.280183,-87.927021,42.280183",
     "geom:latitude":42.280183,
     "geom:longitude":-87.927021,
@@ -37,7 +38,10 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fonOWnTtm2Lk8AcsbRWLt_42.280183_-87.927021@1303262843"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461951677,
     "wof:geomhash":"da4404b8e34a70c7703ceaad6a3c07d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740191227
+        }
+    ],
     "wof:id":740191227,
-    "wof:lastmodified":1472621859,
+    "wof:lastmodified":1492096741,
     "wof:name":"Bedford Financial Group",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

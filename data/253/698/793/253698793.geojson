@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.747099,41.840894,-87.747099,41.840894",
     "geom:latitude":41.840894,
     "geom:longitude":-87.747099,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497617,
         85633793,
-        85940195,
-        102084317,
-        85867565
+        85940877,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"71cb008467d0c1628623b7c6d8da9bac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85867565,
+            "localadmin_id":404497617,
+            "locality_id":85940877,
             "region_id":85688697,
             "venue_id":253698793
         }
     ],
     "wof:id":253698793,
-    "wof:lastmodified":1472621640,
+    "wof:lastmodified":1491935497,
     "wof:name":"Early Childhood Center",
-    "wof:parent_id":85867565,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

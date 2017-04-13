@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.066067,41.771312,-88.066067,41.771312",
     "geom:latitude":41.771312,
     "geom:longitude":-88.066067,
@@ -39,7 +40,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n2nhg8S3jrJ8EGGhyI7ie_41.771312_-88.066067@1303262860"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461954552,
     "wof:geomhash":"03761759a8ca91d244c173e89fe5aa32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055469
+        }
+    ],
     "wof:id":756055469,
-    "wof:lastmodified":1472621154,
+    "wof:lastmodified":1492104400,
     "wof:name":"Compway Electronics",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

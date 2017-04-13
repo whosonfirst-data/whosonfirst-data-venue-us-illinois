@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.613092,41.36219,-87.613092,41.36219",
     "geom:latitude":41.36219,
     "geom:longitude":-87.613092,
@@ -31,7 +32,14 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        85940579,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pg6mEFSP8YmaIEAu8PMMN_41.362190_-87.613092@1303262853"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953421,
     "wof:geomhash":"5d26f2fc907c2fe973b1acef5e0d7f31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "locality_id":85940579,
+            "region_id":85688697,
+            "venue_id":740273257
+        }
+    ],
     "wof:id":740273257,
-    "wof:lastmodified":1472622008,
+    "wof:lastmodified":1492097935,
     "wof:name":"South Suburban Sweeps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

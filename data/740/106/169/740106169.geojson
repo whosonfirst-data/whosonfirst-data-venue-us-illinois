@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.988084,41.197728,-87.988084,41.197728",
     "geom:latitude":41.197728,
     "geom:longitude":-87.988084,
@@ -26,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498379,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mpVTeCSSCTYPyYhj7VfAK_41.197728_-87.988084@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461949745,
     "wof:geomhash":"b70250d734beb3867bc2330580b101c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498379,
+            "region_id":85688697,
+            "venue_id":740106169
+        }
+    ],
     "wof:id":740106169,
-    "wof:lastmodified":1472621111,
+    "wof:lastmodified":1492088658,
     "wof:name":"Dale Dumas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

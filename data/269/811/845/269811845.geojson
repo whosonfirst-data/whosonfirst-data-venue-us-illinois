@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.680252,41.665656,-87.680252,41.665656",
     "geom:latitude":41.665656,
     "geom:longitude":-87.680252,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518687,
+        102191575,
+        404497667,
         85633793,
         85940899,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"dc0e312f12786f5c35da63cb7a1cceb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940899,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518687,
             "region_id":85688697,
             "venue_id":269811845
         }
     ],
     "wof:id":269811845,
-    "wof:lastmodified":1472621368,
+    "wof:lastmodified":1492097089,
     "wof:name":"Becker Foods Restaurant Supl",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

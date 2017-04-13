@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047821,41.747433,-88.047821,41.747433",
     "geom:latitude":41.747433,
     "geom:longitude":-88.047821,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891083,
+        102191575,
+        404497649,
         85633793,
-        85940203,
+        85940165,
         102081257,
-        85891083
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"fad44c8d19857ae7b0725729b68d65d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":85940203,
+            "localadmin_id":404497649,
+            "locality_id":85940165,
             "neighbourhood_id":85891083,
             "region_id":85688697,
             "venue_id":253274387
         }
     ],
     "wof:id":253274387,
-    "wof:lastmodified":1472621331,
+    "wof:lastmodified":1492101707,
     "wof:name":"Hinkle Bros Inc",
     "wof:parent_id":85891083,
     "wof:placetype":"venue",

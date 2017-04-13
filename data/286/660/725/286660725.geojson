@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.173873,42.375797,-88.173873,42.375797",
     "geom:latitude":42.375797,
     "geom:longitude":-88.173873,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828395,
+        102191575,
+        404498449,
         85633793,
         85938397,
         102086215,
-        85828395
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ffb2c4462f8283e161ae7b7ea9d14e1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498449,
             "locality_id":85938397,
             "neighbourhood_id":85828395,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286660725,
-    "wof:lastmodified":1472621561,
+    "wof:lastmodified":1492100962,
     "wof:name":"American Seamless Aluminum",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",

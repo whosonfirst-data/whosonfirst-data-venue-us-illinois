@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07705,41.898464,-88.07705,41.898464",
     "geom:latitude":41.898464,
     "geom:longitude":-88.07705,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"f6c8f85917f4b58199f4b41e1e870471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":236423473
         }
     ],
     "wof:id":236423473,
-    "wof:lastmodified":1472621667,
+    "wof:lastmodified":1492093338,
     "wof:name":"Bladedel & Sons Decorating",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

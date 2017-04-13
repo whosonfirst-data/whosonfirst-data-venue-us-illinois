@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.527802,41.407001,-87.527802,41.407001",
     "geom:latitude":41.407001,
     "geom:longitude":-87.527802,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70rLr4paFPGriMkNegQIQ2_41.407001_-87.527802@1303262854"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461953627,
     "wof:geomhash":"3e7262e58e64e685edc389d2b9c9b7a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":740282839
+        }
+    ],
     "wof:id":740282839,
-    "wof:lastmodified":1472622041,
+    "wof:lastmodified":1492089762,
     "wof:name":"Gervais Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.225353,41.715096,-88.225353,41.715096",
     "geom:latitude":41.715096,
     "geom:longitude":-88.225353,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"http://www.GREENMACHINETOWING.COM",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497655,
+        85633793,
+        85940205,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JQSz6YF2uqDf0YVNGcojd_41.715096_-88.225353@1303262862"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954896,
     "wof:geomhash":"40d183386968c4a3e5eb430955f9ebcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "region_id":85688697,
+            "venue_id":756071665
+        }
+    ],
     "wof:id":756071665,
-    "wof:lastmodified":1472621393,
+    "wof:lastmodified":1492097207,
     "wof:name":"Green Machine Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

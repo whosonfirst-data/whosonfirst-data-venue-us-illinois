@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.853622,42.375523,-87.853622,42.375523",
     "geom:latitude":42.375523,
     "geom:longitude":-87.853622,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"9131801c58f5f419210287cd0fe9fa04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":219521635
         }
     ],
     "wof:id":219521635,
-    "wof:lastmodified":1472621419,
+    "wof:lastmodified":1492088736,
     "wof:name":"Rubens Landscaping Ltd",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

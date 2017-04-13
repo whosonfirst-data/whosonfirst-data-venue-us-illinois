@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.123076,41.557197,-88.123076,41.557197",
     "geom:latitude":41.557197,
     "geom:longitude":-88.123076,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845453,
+        102191575,
+        404499145,
         85633793,
         85940565,
         102080845,
-        85845453
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"f61a26c11355147e628cd7cab639efc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499145,
             "locality_id":85940565,
             "neighbourhood_id":85845453,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202534703,
-    "wof:lastmodified":1472621076,
+    "wof:lastmodified":1492090291,
     "wof:name":"Extra Space Storage-Crest Hl",
     "wof:parent_id":85845453,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.237256,41.421561,-88.237256,41.421561",
     "geom:latitude":41.421561,
     "geom:longitude":-88.237256,
@@ -28,7 +29,14 @@
     "sg:postcode":"60410",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hRu2X0CWo1xVN0JjTJrCz_41.421561_-88.237256@1303262854"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461953586,
     "wof:geomhash":"6fbe2095cde2802296ec9d65fabeca9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740280871
+        }
+    ],
     "wof:id":740280871,
-    "wof:lastmodified":1472622041,
+    "wof:lastmodified":1492093568,
     "wof:name":"Sun Spot Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

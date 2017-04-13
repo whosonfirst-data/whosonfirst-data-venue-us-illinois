@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.14853,42.009108,-88.14853,42.009108",
     "geom:latitude":42.009108,
     "geom:longitude":-88.14853,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518875,
+        102191575,
+        404497587,
         85633793,
-        85940189,
-        102081257
+        85940179,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"7c8abbd5cf6a14b0a770abaeac0ede29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940189,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "neighbourhood_id":420518875,
             "region_id":85688697,
             "venue_id":236861263
         }
     ],
     "wof:id":236861263,
-    "wof:lastmodified":1472621784,
+    "wof:lastmodified":1492100675,
     "wof:name":"Efmark",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

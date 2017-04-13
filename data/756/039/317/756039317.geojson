@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.832497,41.747299,-87.832497,41.747299",
     "geom:latitude":41.747299,
     "geom:longitude":-87.832497,
@@ -32,7 +33,14 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A2opkm0Ar4ONRER6IM39m_41.747299_-87.832497@1303262858"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461954217,
     "wof:geomhash":"3bc765a407d99d38e04ddb641ddcd883",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039317
+        }
+    ],
     "wof:id":756039317,
-    "wof:lastmodified":1472621006,
+    "wof:lastmodified":1492089366,
     "wof:name":"Miserendino Robert T DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

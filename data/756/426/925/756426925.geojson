@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.131951,40.998059,-88.131951,40.998059",
     "geom:latitude":40.998059,
     "geom:longitude":-88.131951,
@@ -37,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496553,
+        85633793,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28Bjr8vyxwGlqZFkp3sLsq_40.998059_-88.131951@1303262910"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461962945,
     "wof:geomhash":"28b409752d5ea0363c102c41d7ee13bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404496553,
+            "region_id":85688697,
+            "venue_id":756426925
+        }
+    ],
     "wof:id":756426925,
-    "wof:lastmodified":1472622209,
+    "wof:lastmodified":1492091683,
     "wof:name":"Roger Johnston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

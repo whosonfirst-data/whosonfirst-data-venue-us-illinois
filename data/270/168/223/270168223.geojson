@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.878309,41.143628,-87.878309,41.143628",
     "geom:latitude":41.143628,
     "geom:longitude":-87.878309,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890745,
+        102191575,
+        404498243,
         85633793,
         85939993,
         102081259,
-        85890745
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d1939f8d291c90373c2dfcb1d0102e13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081259,
+            "localadmin_id":404498243,
             "locality_id":85939993,
             "neighbourhood_id":85890745,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270168223,
-    "wof:lastmodified":1472621199,
+    "wof:lastmodified":1492091758,
     "wof:name":"Subhendu Sinhamahapatra Inc",
     "wof:parent_id":85890745,
     "wof:placetype":"venue",

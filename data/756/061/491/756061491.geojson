@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.328256,41.718351,-88.328256,41.718351",
     "geom:latitude":41.718351,
     "geom:longitude":-88.328256,
@@ -38,7 +39,14 @@
         "label"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498411,
+        85633793,
+        85941299,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pnf1tPVK8VWSVTGeyvpKr_41.718351_-88.328256@1303262861"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461954669,
     "wof:geomhash":"000f99a32265f8c311b019eec97514db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498411,
+            "locality_id":85941299,
+            "region_id":85688697,
+            "venue_id":756061491
+        }
+    ],
     "wof:id":756061491,
-    "wof:lastmodified":1472621347,
+    "wof:lastmodified":1492104478,
     "wof:name":"Compass Entertainment Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

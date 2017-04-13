@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.47258,41.69614,-88.47258,41.69614",
     "geom:latitude":41.69614,
     "geom:longitude":-88.47258,
@@ -38,7 +39,13 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498399,
+        85633793,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RQwmEEHbusZxFjNSV1Mvc_41.696140_-88.472580@1303262861"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461954731,
     "wof:geomhash":"ab4249ef959c5b3a1191562c13fe46ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498399,
+            "region_id":85688697,
+            "venue_id":756064351
+        }
+    ],
     "wof:id":756064351,
-    "wof:lastmodified":1472621373,
+    "wof:lastmodified":1492088380,
     "wof:name":"Cozy Corner Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

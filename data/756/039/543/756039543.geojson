@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.83249,41.746927,-87.83249,41.746927",
     "geom:latitude":41.746927,
     "geom:longitude":-87.83249,
@@ -31,7 +32,14 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33bUTjqTblqsUGH1lI4M8D_41.746927_-87.832490@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954221,
     "wof:geomhash":"02a61ad426996c6ebf6ee2c7c00aa211",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039543
+        }
+    ],
     "wof:id":756039543,
-    "wof:lastmodified":1472621018,
+    "wof:lastmodified":1492106147,
     "wof:name":"Humbolt Investment & Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

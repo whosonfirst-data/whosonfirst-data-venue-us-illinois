@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.143798,42.154714,-88.143798,42.154714",
     "geom:latitude":42.154714,
     "geom:longitude":-88.143798,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867885,
+        102191575,
+        404497605,
         85633793,
         85938419,
         102084317,
-        85867885
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"2ae94b711b580cb551a6bc0c30bdf670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497605,
             "locality_id":85938419,
             "neighbourhood_id":85867885,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":269961239,
-    "wof:lastmodified":1472621426,
+    "wof:lastmodified":1492090818,
     "wof:name":"New Outlook",
     "wof:parent_id":85867885,
     "wof:placetype":"venue",

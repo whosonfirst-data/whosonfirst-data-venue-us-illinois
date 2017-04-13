@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.911058,41.906868,-87.911058,41.906868",
     "geom:latitude":41.906868,
     "geom:longitude":-87.911058,
@@ -47,7 +48,14 @@
     ],
     "sg:website":"http://www.samsclub.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497625,
+        85633793,
+        85940765,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pR3xLQUC5vYyghD9Buj3n_41.906868_-87.911058@1303262850"
@@ -55,9 +63,19 @@
     "wof:country":"US",
     "wof:created":1461952905,
     "wof:geomhash":"8fe72a581a8daaad57d173a40eefeb1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497625,
+            "locality_id":85940765,
+            "region_id":85688697,
+            "venue_id":740247893
+        }
+    ],
     "wof:id":740247893,
-    "wof:lastmodified":1472621979,
+    "wof:lastmodified":1492104351,
     "wof:name":"Sam's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

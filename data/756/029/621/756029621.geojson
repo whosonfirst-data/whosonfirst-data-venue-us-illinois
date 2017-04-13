@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.278247,41.478616,-88.278247,41.478616",
     "geom:latitude":41.478616,
     "geom:longitude":-88.278247,
@@ -28,7 +29,14 @@
     "sg:postcode":"60447",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497225,
+        85633793,
+        85938387,
+        102086193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RLGnJLjqXHGroWghwBav4_41.478616_-88.278247@1303262857"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461954009,
     "wof:geomhash":"69e546ec995fd65237f4140c3ae8b2a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086193,
+            "localadmin_id":404497225,
+            "locality_id":85938387,
+            "region_id":85688697,
+            "venue_id":756029621
+        }
+    ],
     "wof:id":756029621,
-    "wof:lastmodified":1472620858,
+    "wof:lastmodified":1492107886,
     "wof:name":"Little Monster Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

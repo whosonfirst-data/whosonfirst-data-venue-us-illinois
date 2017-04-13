@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807079,41.554722,-87.807079,41.554722",
     "geom:latitude":41.554722,
     "geom:longitude":-87.807079,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890937,
+        102191575,
+        404497643,
         85633793,
         85940515,
-        102084317
+        102084317,
+        85688697,
+        420519355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"2581fb2a95ef9abce8974f938c0cebac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85890937,
+            "region_id":85688697,
+            "venue_id":303156313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497643,
+            "locality_id":85940515,
+            "neighbourhood_id":420519355,
             "region_id":85688697,
             "venue_id":303156313
         }
     ],
     "wof:id":303156313,
-    "wof:lastmodified":1472620969,
+    "wof:lastmodified":1492093254,
     "wof:name":"Amfotek",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

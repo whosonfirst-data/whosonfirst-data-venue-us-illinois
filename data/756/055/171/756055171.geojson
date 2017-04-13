@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061094,41.769817,-88.061094,41.769817",
     "geom:latitude":41.769817,
     "geom:longitude":-88.061094,
@@ -32,7 +33,10 @@
         "tours-operators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tCxQnqRqgOc2fzl9qywXo_41.769817_-88.061094@1303262860"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954546,
     "wof:geomhash":"39213a9acbf1ca7436ab09f3e80582bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055171
+        }
+    ],
     "wof:id":756055171,
-    "wof:lastmodified":1472621141,
+    "wof:lastmodified":1492089371,
     "wof:name":"King Of Road",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

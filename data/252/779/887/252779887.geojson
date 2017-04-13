@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839152,42.248965,-87.839152,42.248965",
     "geom:latitude":42.248965,
     "geom:longitude":-87.839152,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890819,
+        102191575,
+        404499869,
         85633793,
         85938355,
         102086215,
-        85890819
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"817e5654a07f700c7625ba368f6351e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
             "neighbourhood_id":85890819,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":252779887,
-    "wof:lastmodified":1472620942,
+    "wof:lastmodified":1492088853,
     "wof:name":"Mered Corp",
     "wof:parent_id":85890819,
     "wof:placetype":"venue",

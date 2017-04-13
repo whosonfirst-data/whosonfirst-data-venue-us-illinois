@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.861118,41.135057,-87.861118,41.135057",
     "geom:latitude":41.135057,
     "geom:longitude":-87.861118,
@@ -47,7 +48,14 @@
     ],
     "sg:website":"http://www.friendlysignsinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        85939977,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o6OXu0a2ByrNx0DQHsPLM_41.135057_-87.861118@1303262909"
@@ -55,9 +63,19 @@
     "wof:country":"US",
     "wof:created":1461962907,
     "wof:geomhash":"a5404f7bd07606559fac13ea2116ea0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
+            "region_id":85688697,
+            "venue_id":756425315
+        }
+    ],
     "wof:id":756425315,
-    "wof:lastmodified":1472622197,
+    "wof:lastmodified":1492102163,
     "wof:name":"Friendly Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

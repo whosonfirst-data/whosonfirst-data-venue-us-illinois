@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.680135,42.037322,-87.680135,42.037322",
     "geom:latitude":42.037322,
     "geom:longitude":-87.680135,
@@ -34,11 +35,13 @@
     "sg:website":"www.theautobarn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890797,
+        102191575,
+        404497621,
         85633793,
         85940857,
         102084317,
-        85890797
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"6945e854cbcc28dc1eafcf885ce8d3b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497621,
             "locality_id":85940857,
             "neighbourhood_id":85890797,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":269528159,
-    "wof:lastmodified":1472620879,
+    "wof:lastmodified":1491910505,
     "wof:name":"Frank Mauro Oldsmobile",
     "wof:parent_id":85890797,
     "wof:placetype":"venue",

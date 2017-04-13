@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.792114,41.850577,-87.792114,41.850577",
     "geom:latitude":41.850577,
     "geom:longitude":-87.792114,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890741,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85890741
+        85688697
     ],
     "wof:brand_id":420574569,
     "wof:breaches":[],
@@ -47,9 +50,10 @@
     "wof:geomhash":"6d741372338101f832563bf4d01f20af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85890741,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":235948225,
-    "wof:lastmodified":1472620766,
+    "wof:lastmodified":1492103251,
     "wof:name":"Goodyear",
     "wof:parent_id":85890741,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.071334,42.481407,-88.071334,42.481407",
     "geom:latitude":42.481407,
     "geom:longitude":-88.071334,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420550001,
+        102191575,
+        404493391,
         85633793,
-        85938405,
-        102086215
+        101732581,
+        102081309,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"680e62148e479a1e3607142ec34fcc4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938405,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "neighbourhood_id":420550001,
+            "region_id":85688517,
             "venue_id":286640159
         }
     ],
     "wof:id":286640159,
-    "wof:lastmodified":1472621556,
+    "wof:lastmodified":1492090182,
     "wof:name":"Danali Futures LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

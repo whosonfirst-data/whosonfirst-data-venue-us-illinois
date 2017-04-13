@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.644711,41.670493,-87.644711,41.670493",
     "geom:latitude":41.670493,
     "geom:longitude":-87.644711,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497615,
         85633793,
         85940885,
-        102084317,
-        85856203
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"72c2cfb4f39fb92f60fe862887ba8a53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497615,
             "locality_id":85940885,
-            "neighbourhood_id":85856203,
             "region_id":85688697,
             "venue_id":253751737
         }
     ],
     "wof:id":253751737,
-    "wof:lastmodified":1472621659,
+    "wof:lastmodified":1492090531,
     "wof:name":"D & L Den",
-    "wof:parent_id":85856203,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

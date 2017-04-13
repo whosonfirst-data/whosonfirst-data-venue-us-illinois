@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.107399,41.9664,-88.107399,41.9664",
     "geom:latitude":41.9664,
     "geom:longitude":-88.107399,
@@ -31,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_009vfR7XoGdQdk4L0tGHLp_41.966400_-88.107399@1303262850"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952957,
     "wof:geomhash":"159785b5dc9253ddf4beb2bbd3705486",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740250317
+        }
+    ],
     "wof:id":740250317,
-    "wof:lastmodified":1472621969,
+    "wof:lastmodified":1492106158,
     "wof:name":"Cgfs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

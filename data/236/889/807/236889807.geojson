@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.144914,42.30357,-88.144914,42.30357",
     "geom:latitude":42.30357,
     "geom:longitude":-88.144914,
@@ -39,8 +40,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
         85633793,
-        85688697
+        85867869,
+        102086215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +53,17 @@
     "wof:geomhash":"534fc988b430a78c9bcb146dc1d4c01a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086215,
+            "neighbourhood_id":85867869,
             "region_id":85688697,
             "venue_id":236889807
         }
     ],
     "wof:id":236889807,
-    "wof:lastmodified":1472621787,
+    "wof:lastmodified":1492096998,
     "wof:name":"P L Electric & Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

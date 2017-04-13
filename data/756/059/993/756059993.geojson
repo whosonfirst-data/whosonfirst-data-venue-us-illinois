@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.069918,41.777165,-88.069918,41.777165",
     "geom:latitude":41.777165,
     "geom:longitude":-88.069918,
@@ -35,7 +36,10 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qI4WABaKc0kf6HWpHtLyQ_41.777165_-88.069918@1303262861"
@@ -43,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461954642,
     "wof:geomhash":"5337484072ccbaa4f17f1b080e799e89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059993
+        }
+    ],
     "wof:id":756059993,
-    "wof:lastmodified":1472621307,
+    "wof:lastmodified":1492108974,
     "wof:name":"Lzt Filliung Architect",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

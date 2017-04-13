@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.119778,42.185264,-88.119778,42.185264",
     "geom:latitude":42.185264,
     "geom:longitude":-88.119778,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867915,
+        102191575,
+        404498459,
         85633793,
-        85938411,
+        85938343,
         102086215,
-        85867915
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"37434c19411a3f12e7b6a965e543ab21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938411,
+            "localadmin_id":404498459,
+            "locality_id":85938343,
             "neighbourhood_id":85867915,
             "region_id":85688697,
             "venue_id":236941015
         }
     ],
     "wof:id":236941015,
-    "wof:lastmodified":1472621796,
+    "wof:lastmodified":1492094717,
     "wof:name":"Infosec Inc",
     "wof:parent_id":85867915,
     "wof:placetype":"venue",

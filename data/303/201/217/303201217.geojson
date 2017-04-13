@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.788229,41.84568,-87.788229,41.84568",
     "geom:latitude":41.84568,
     "geom:longitude":-87.788229,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890741,
+        102191575,
+        404497607,
         85633793,
         85940903,
         102084317,
-        85890741
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"6d092f374b8aca7c18c0f64487a1c44f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497607,
             "locality_id":85940903,
             "neighbourhood_id":85890741,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":303201217,
-    "wof:lastmodified":1472620996,
+    "wof:lastmodified":1492093315,
     "wof:name":"Frank's Sales",
     "wof:parent_id":85890741,
     "wof:placetype":"venue",

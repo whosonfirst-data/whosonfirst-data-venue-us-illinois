@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09781,41.768611,-88.09781,41.768611",
     "geom:latitude":41.768611,
     "geom:longitude":-88.09781,
@@ -40,11 +41,13 @@
     "sg:website":"http://www.zanosalons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890829,
+        102191575,
+        404497651,
         85633793,
         85940155,
         102081257,
-        85890829
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +58,10 @@
     "wof:geomhash":"1198123463af897fcb595b9e58069e7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497651,
             "locality_id":85940155,
             "neighbourhood_id":85890829,
             "region_id":85688697,
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":756059581,
-    "wof:lastmodified":1472621280,
+    "wof:lastmodified":1492102937,
     "wof:name":"Zano Salon & Nail Spa",
     "wof:parent_id":85890829,
     "wof:placetype":"venue",

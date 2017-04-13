@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.686798,41.608949,-88.686798,41.608949",
     "geom:latitude":41.608949,
     "geom:longitude":-88.686798,
@@ -37,7 +38,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498503,
+        85633793,
+        85941205,
+        102081255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JTl6yvraSzSGD7QWiBNPR_41.608949_-88.686798@1303262862"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461954809,
     "wof:geomhash":"d7a2c979875106da15c0019d7832aca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081255,
+            "localadmin_id":404498503,
+            "locality_id":85941205,
+            "region_id":85688697,
+            "venue_id":756067245
+        }
+    ],
     "wof:id":756067245,
-    "wof:lastmodified":1472621371,
+    "wof:lastmodified":1492092243,
     "wof:name":"Sandwich Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

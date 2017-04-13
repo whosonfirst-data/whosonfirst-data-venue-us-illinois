@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.807655,41.859477,-87.807655,41.859477",
     "geom:latitude":41.859477,
     "geom:longitude":-87.807655,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890731,
+        102191575,
+        404497585,
         85633793,
-        85940849,
+        85940763,
         102084317,
-        85890731
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"743082829328770fafb80e0142c7a026",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940849,
+            "localadmin_id":404497585,
+            "locality_id":85940763,
             "neighbourhood_id":85890731,
             "region_id":85688697,
             "venue_id":219978047
         }
     ],
     "wof:id":219978047,
-    "wof:lastmodified":1472621651,
+    "wof:lastmodified":1492088611,
     "wof:name":"Borden Chemical Inc",
     "wof:parent_id":85890731,
     "wof:placetype":"venue",

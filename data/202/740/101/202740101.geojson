@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.316173,41.779334,-88.316173,41.779334",
     "geom:latitude":41.779334,
     "geom:longitude":-88.316173,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876055,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876055
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"85b102bb2c5b4a296518357ffd255c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202740101,
-    "wof:lastmodified":1472621221,
+    "wof:lastmodified":1492088966,
     "wof:name":"Royal Display Co",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",

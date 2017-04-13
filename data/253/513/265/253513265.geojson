@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.097009,41.911237,-88.097009,41.911237",
     "geom:latitude":41.911237,
     "geom:longitude":-88.097009,
@@ -29,10 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867837,
+        102191575,
+        404497763,
         85633793,
+        85940161,
         102081257,
-        85867837
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"537b9d81850db2841d6ba27162aaec18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940161,
             "neighbourhood_id":85867837,
             "region_id":85688697,
             "venue_id":253513265
         }
     ],
     "wof:id":253513265,
-    "wof:lastmodified":1472621549,
+    "wof:lastmodified":1492103600,
     "wof:name":"Covenant Retirement Communitie",
     "wof:parent_id":85867837,
     "wof:placetype":"venue",

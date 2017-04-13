@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.081914,41.534973,-88.081914,41.534973",
     "geom:latitude":41.534973,
     "geom:longitude":-88.081914,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85816471,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85816471
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5aaf9c73d37c1e19fd4d42e0db733d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85816471,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269644937,
-    "wof:lastmodified":1472621178,
+    "wof:lastmodified":1492096320,
     "wof:name":"Joliet Marine & Drydock Inc",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",

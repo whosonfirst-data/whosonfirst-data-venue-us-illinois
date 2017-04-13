@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.679209,41.773757,-88.679209,41.773757",
     "geom:latitude":41.773757,
     "geom:longitude":-88.679209,
@@ -48,7 +49,13 @@
     ],
     "sg:website":"http://www.diggingaround.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497725,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eWeQ4V7EQx3eqi0ZYXUdt_41.773757_-88.679209@1303262860"
@@ -56,9 +63,18 @@
     "wof:country":"US",
     "wof:created":1461954556,
     "wof:geomhash":"2542a700eaf2f9f7ed91211197b8e070",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497725,
+            "region_id":85688697,
+            "venue_id":756055725
+        }
+    ],
     "wof:id":756055725,
-    "wof:lastmodified":1472621169,
+    "wof:lastmodified":1492110697,
     "wof:name":"Niles Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.778107,41.748574,-87.778107,41.748574",
     "geom:latitude":41.748574,
     "geom:longitude":-87.778107,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890867,
+        102191575,
+        404497667,
         85633793,
         85940759,
         102084317,
-        85890867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d03932a520e650f0e3f5665933d2e2ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497667,
             "locality_id":85940759,
             "neighbourhood_id":85890867,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":186609853,
-    "wof:lastmodified":1472620983,
+    "wof:lastmodified":1492095098,
     "wof:name":"Bradmor Dental Laboratory",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",

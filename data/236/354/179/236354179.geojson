@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.952165,41.860858,-87.952165,41.860858",
     "geom:latitude":41.860858,
     "geom:longitude":-87.952165,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85859387,
+        102191575,
+        404497661,
         85633793,
+        85940185,
         102081257,
-        85859387
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"b73ee0da7259d402b8fff25169755e5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497661,
+            "locality_id":85940185,
             "neighbourhood_id":85859387,
             "region_id":85688697,
             "venue_id":236354179
         }
     ],
     "wof:id":236354179,
-    "wof:lastmodified":1472621567,
+    "wof:lastmodified":1492096818,
     "wof:name":"Celaya Video",
     "wof:parent_id":85859387,
     "wof:placetype":"venue",

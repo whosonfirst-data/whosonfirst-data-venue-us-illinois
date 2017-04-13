@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.760792,41.42692,-87.760792,41.42692",
     "geom:latitude":41.42692,
     "geom:longitude":-87.760792,
@@ -34,7 +35,14 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499215,
+        85633793,
+        85940545,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UayFn7wBw3kG5pR7GqkZ6_41.426920_-87.760792@1303262857"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954033,
     "wof:geomhash":"fd57ca0f04995dff9ad4fa3a2241fcdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499215,
+            "locality_id":85940545,
+            "region_id":85688697,
+            "venue_id":756030909
+        }
+    ],
     "wof:id":756030909,
-    "wof:lastmodified":1472620876,
+    "wof:lastmodified":1492093572,
     "wof:name":"Premium Lawn Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

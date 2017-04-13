@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.57113,41.620026,-87.57113,41.620026",
     "geom:latitude":41.620026,
     "geom:longitude":-87.57113,
@@ -31,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940887,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DfQFeO4f3T0Oci1AGeuQg_41.620026_-87.571130@1303262885"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461958907,
     "wof:geomhash":"7ddd14c38b0662771793600defcc6d8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940887,
+            "region_id":85688697,
+            "venue_id":756248965
+        }
+    ],
     "wof:id":756248965,
-    "wof:lastmodified":1472622045,
+    "wof:lastmodified":1492097880,
     "wof:name":"Best Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

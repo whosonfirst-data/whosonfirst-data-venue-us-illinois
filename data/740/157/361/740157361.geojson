@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.265545,41.736497,-88.265545,41.736497",
     "geom:latitude":41.736497,
     "geom:longitude":-88.265545,
@@ -32,7 +33,14 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        85940221,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NkIVovDUqRIM2Q6PeRc70_41.736497_-88.265545@1299784598"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461950917,
     "wof:geomhash":"b897e819b820ac9d66f4fdbff5cc1a23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "locality_id":85940221,
+            "region_id":85688697,
+            "venue_id":740157361
+        }
+    ],
     "wof:id":740157361,
-    "wof:lastmodified":1472621791,
+    "wof:lastmodified":1492091363,
     "wof:name":"Cocina Barro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

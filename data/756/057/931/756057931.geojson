@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860603,41.781898,-87.860603,41.781898",
     "geom:latitude":41.781898,
     "geom:longitude":-87.860603,
@@ -33,7 +34,14 @@
         "women's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940821,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z0jAhSwFeCFyg3cZAdzrG_41.781898_-87.860603@1303262860"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461954604,
     "wof:geomhash":"244006aef8a71f9d7596fa9b279819ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940821,
+            "region_id":85688697,
+            "venue_id":756057931
+        }
+    ],
     "wof:id":756057931,
-    "wof:lastmodified":1472621241,
+    "wof:lastmodified":1492091645,
     "wof:name":"Dress Barn the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

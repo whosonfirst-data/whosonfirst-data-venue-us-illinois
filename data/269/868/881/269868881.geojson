@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.691897,42.064179,-87.691897,42.064179",
     "geom:latitude":42.064179,
     "geom:longitude":-87.691897,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867707,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85867707
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7ad4e203270e5bea4662d7e6480f17d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85867707,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269868881,
-    "wof:lastmodified":1472621388,
+    "wof:lastmodified":1492096295,
     "wof:name":"Gavin Studio",
     "wof:parent_id":85867707,
     "wof:placetype":"venue",

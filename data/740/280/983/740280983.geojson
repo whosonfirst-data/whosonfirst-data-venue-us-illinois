@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.234065,41.424661,-88.234065,41.424661",
     "geom:latitude":41.424661,
     "geom:longitude":-88.234065,
@@ -41,7 +42,14 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499127,
+        85633793,
+        85938383,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HtKFqDnAqr6MRyLTi4jTf_41.424661_-88.234065@1303262854"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461953589,
     "wof:geomhash":"b98c875058eaa18b43228d685c5d63cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499127,
+            "locality_id":85938383,
+            "region_id":85688697,
+            "venue_id":740280983
+        }
+    ],
     "wof:id":740280983,
-    "wof:lastmodified":1472622044,
+    "wof:lastmodified":1492093568,
     "wof:name":"Maxwell Tank Lines, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

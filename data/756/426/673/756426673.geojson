@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.934813,40.933501,-87.934813,40.933501",
     "geom:latitude":40.933501,
     "geom:longitude":-87.934813,
@@ -31,7 +32,14 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498179,
+        85633793,
+        85938517,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XDoleCWWjfCJnhZk9IbLr_40.933501_-87.934813@1303262910"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461962940,
     "wof:geomhash":"99450154444a130816b6b2a6419f2abe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498179,
+            "locality_id":85938517,
+            "region_id":85688697,
+            "venue_id":756426673
+        }
+    ],
     "wof:id":756426673,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492091224,
     "wof:name":"Curves Of Clifton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

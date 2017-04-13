@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.845568,41.859435,-87.845568,41.859435",
     "geom:latitude":41.859435,
     "geom:longitude":-87.845568,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518729,
+        102191575,
+        404497579,
         85633793,
         85940895,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"1887ae08bcf597f1b0e0bb8c5238a5b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497579,
             "locality_id":85940895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518729,
             "region_id":85688697,
             "venue_id":235937827
         }
     ],
     "wof:id":235937827,
-    "wof:lastmodified":1472620747,
+    "wof:lastmodified":1492100818,
     "wof:name":"A J ORourke Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

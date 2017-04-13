@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.22037,42.40558,-88.22037,42.40558",
     "geom:latitude":42.40558,
     "geom:longitude":-88.22037,
@@ -38,7 +39,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499149,
+        85633793,
+        85938999,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JP6ZjOG37HIKGPT938xav_42.405580_-88.220370@1303262843"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461951704,
     "wof:geomhash":"dfe5300943755b88de2da88213212ebf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499149,
+            "locality_id":85938999,
+            "region_id":85688697,
+            "venue_id":740192653
+        }
+    ],
     "wof:id":740192653,
-    "wof:lastmodified":1472621882,
+    "wof:lastmodified":1492103249,
     "wof:name":"Graszer Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

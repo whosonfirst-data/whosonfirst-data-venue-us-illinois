@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.894492,42.173974,-87.894492,42.173974",
     "geom:latitude":42.173974,
     "geom:longitude":-87.894492,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867883,
+        102191575,
+        404498369,
         85633793,
         85938355,
         102086215,
-        85867883
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"201752b57a63e617d0a3f4da4a3be0b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938355,
             "neighbourhood_id":85867883,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":202610249,
-    "wof:lastmodified":1472621137,
+    "wof:lastmodified":1492089963,
     "wof:name":"Amy R Perlman",
     "wof:parent_id":85867883,
     "wof:placetype":"venue",

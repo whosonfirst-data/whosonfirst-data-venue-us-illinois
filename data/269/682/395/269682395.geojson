@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.793789,41.484331,-87.793789,41.484331",
     "geom:latitude":41.484331,
     "geom:longitude":-87.793789,
@@ -30,11 +31,13 @@
     "sg:website":"www.rwc4ins.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890839,
+        102191575,
+        404499135,
         85633793,
         85940557,
         102080845,
-        85890839
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"8b3fffbd3c5418c0d098e1390d316e03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499135,
             "locality_id":85940557,
             "neighbourhood_id":85890839,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":269682395,
-    "wof:lastmodified":1472621241,
+    "wof:lastmodified":1492092863,
     "wof:name":"Ray Weidenaar & Co Inc",
     "wof:parent_id":85890839,
     "wof:placetype":"venue",

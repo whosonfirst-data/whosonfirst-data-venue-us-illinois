@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.733015,41.946548,-88.733015,41.946548",
     "geom:latitude":41.946548,
     "geom:longitude":-88.733015,
@@ -38,7 +39,14 @@
     ],
     "sg:website":"http://citi.bridgetrack.com/citifi/_redir.htm?BTData=302177C736961705A55424AB8BEBEABA298948493FBFBF6E9EAC5C2DECE67BE2&BT_TRF=10467&RedirectID=YLLWPGS_US_CTGRY_TRD_LNK_FNCL_SRVCS_CPC&creativeID=YP_Link",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SE8SPMbNUoS66TNvEQeVu_41.946548_-88.733015@1303262847"
@@ -46,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461952324,
     "wof:geomhash":"f1b2585b92190e05279ac320a2c3dce9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221367
+        }
+    ],
     "wof:id":740221367,
-    "wof:lastmodified":1472621915,
+    "wof:lastmodified":1492098263,
     "wof:name":"CitiFinancial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

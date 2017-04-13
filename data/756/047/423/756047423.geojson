@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.138199,41.310478,-88.138199,41.310478",
     "geom:latitude":41.310478,
     "geom:longitude":-88.138199,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.lombardichevy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497111,
+        85633793,
+        85940511,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DTKgoXKpvNs4GF9GNOvEb_41.310478_-88.138199@1303262859"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461954387,
     "wof:geomhash":"0a066350a34d36faaf12d17915fef3cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497111,
+            "locality_id":85940511,
+            "region_id":85688697,
+            "venue_id":756047423
+        }
+    ],
     "wof:id":756047423,
-    "wof:lastmodified":1472621152,
+    "wof:lastmodified":1492089790,
     "wof:name":"Lombardi Chevrolet & Buick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

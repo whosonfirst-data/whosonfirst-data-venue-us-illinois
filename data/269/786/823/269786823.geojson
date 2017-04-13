@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.886438,42.16582,-87.886438,42.16582",
     "geom:latitude":42.16582,
     "geom:longitude":-87.886438,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85837867,
+        102191575,
+        404497637,
         85633793,
         85940769,
         102084317,
-        85837867
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"32c3c159b457ec096608b5a13f5c0e42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497637,
             "locality_id":85940769,
             "neighbourhood_id":85837867,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269786823,
-    "wof:lastmodified":1472621348,
+    "wof:lastmodified":1492096239,
     "wof:name":"Jazz Real Leather Inc",
     "wof:parent_id":85837867,
     "wof:placetype":"venue",

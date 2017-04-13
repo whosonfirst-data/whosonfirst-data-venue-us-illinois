@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.07223,41.957569,-88.07223,41.957569",
     "geom:latitude":41.957569,
     "geom:longitude":-88.07223,
@@ -28,7 +29,14 @@
     "sg:postcode":"60108",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qIynmA6yKmNMTelYf5B33_41.957569_-88.072230@1303262846"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952272,
     "wof:geomhash":"3d6aa849142b66b7b4442f2f1ed0a57a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218819
+        }
+    ],
     "wof:id":740218819,
-    "wof:lastmodified":1472621937,
+    "wof:lastmodified":1492097057,
     "wof:name":"Individual Advocacy Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

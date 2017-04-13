@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.841822,42.252578,-87.841822,42.252578",
     "geom:latitude":42.252578,
     "geom:longitude":-87.841822,
@@ -30,11 +31,13 @@
     "sg:website":"www.maroonbells.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890819,
+        102191575,
+        404499869,
         85633793,
         85938355,
         102086215,
-        85890819
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"0ea9c5ca105998c134fe0eae268f128e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499869,
             "locality_id":85938355,
             "neighbourhood_id":85890819,
             "region_id":85688697,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286891387,
-    "wof:lastmodified":1472621694,
+    "wof:lastmodified":1492090177,
     "wof:name":"Maroon Bells Capital",
     "wof:parent_id":85890819,
     "wof:placetype":"venue",

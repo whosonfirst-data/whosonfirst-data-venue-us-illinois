@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075015,41.957459,-88.075015,41.957459",
     "geom:latitude":41.957459,
     "geom:longitude":-88.075015,
@@ -31,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dzfHesG1VeDll35F7hzzC_41.957459_-88.075015@1303262846"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952274,
     "wof:geomhash":"a2d13bd57c3c4670e2f98fdff9a4d08e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740218949
+        }
+    ],
     "wof:id":740218949,
-    "wof:lastmodified":1472621943,
+    "wof:lastmodified":1492093249,
     "wof:name":"Expressions 2000 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

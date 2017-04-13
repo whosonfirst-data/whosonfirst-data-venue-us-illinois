@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.866875,42.122547,-87.866875,42.122547",
     "geom:latitude":42.122547,
     "geom:longitude":-87.866875,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420518733,
+        102191575,
+        404497637,
         85633793,
+        85940769,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"b33b7dab38d767d74ac6244fb09c7d81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940769,
+            "neighbourhood_id":420518733,
             "region_id":85688697,
             "venue_id":203213627
         }
     ],
     "wof:id":203213627,
-    "wof:lastmodified":1472621126,
+    "wof:lastmodified":1492090068,
     "wof:name":"EMC Billing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

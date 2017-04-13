@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.177682,42.478939,-88.177682,42.478939",
     "geom:latitude":42.478939,
     "geom:longitude":-88.177682,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688697,
+        102191575,
+        404498449,
         85633793,
-        85688697
+        102086215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"63ce46af901332c545e4faf6c046728d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086215,
+            "localadmin_id":404498449,
             "region_id":85688697,
             "venue_id":286404163
         }
     ],
     "wof:id":286404163,
-    "wof:lastmodified":1472621191,
+    "wof:lastmodified":1492098540,
     "wof:name":"Fox River Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

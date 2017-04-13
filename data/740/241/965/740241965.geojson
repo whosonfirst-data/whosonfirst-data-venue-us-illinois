@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.583114,42.255107,-88.583114,42.255107",
     "geom:latitude":42.255107,
     "geom:longitude":-88.583114,
@@ -31,7 +32,13 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499157,
+        85633793,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ebki9vbScp4nO4KpzOipb_42.255107_-88.583114@1303262849"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461952782,
     "wof:geomhash":"d0043fdbc093a62a77968502f25d1264",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499157,
+            "region_id":85688697,
+            "venue_id":740241965
+        }
+    ],
     "wof:id":740241965,
-    "wof:lastmodified":1472621963,
+    "wof:lastmodified":1492092997,
     "wof:name":"Electric Masters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

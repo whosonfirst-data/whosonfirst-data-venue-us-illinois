@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.843376,41.138637,-87.843376,41.138637",
     "geom:latitude":41.138637,
     "geom:longitude":-87.843376,
@@ -41,7 +42,14 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498377,
+        85633793,
+        85939977,
+        102081259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZGGPqkTw8FkbsJ4RM9dVz_41.138637_-87.843376@1303262909"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461962912,
     "wof:geomhash":"f5fd29ddf5113562d2f425499f4b14d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081259,
+            "localadmin_id":404498377,
+            "locality_id":85939977,
+            "region_id":85688697,
+            "venue_id":756425451
+        }
+    ],
     "wof:id":756425451,
-    "wof:lastmodified":1472622201,
+    "wof:lastmodified":1492097448,
     "wof:name":"Palmer Tolly Elizabeth M.A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

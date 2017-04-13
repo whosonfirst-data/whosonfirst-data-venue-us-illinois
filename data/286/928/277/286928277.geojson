@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062094,41.516343,-88.062094,41.516343",
     "geom:latitude":41.516343,
     "geom:longitude":-88.062094,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85843113,
+        102191575,
+        404499223,
         85633793,
         85940583,
         102080845,
-        85843113
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"30979f118b2a4e95c236223874b32d25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
+            "localadmin_id":404499223,
             "locality_id":85940583,
             "neighbourhood_id":85843113,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286928277,
-    "wof:lastmodified":1472621702,
+    "wof:lastmodified":1492096316,
     "wof:name":"A & L Xpress",
     "wof:parent_id":85843113,
     "wof:placetype":"venue",

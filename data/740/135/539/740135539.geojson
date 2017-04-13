@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.158172,41.290599,-88.158172,41.290599",
     "geom:latitude":41.290599,
     "geom:longitude":-88.158172,
@@ -26,7 +27,14 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497111,
+        85633793,
+        85940511,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AeIl4LYNcmimuwFTyLDLf_41.290599_-88.158172@1294102059"
@@ -34,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1461950465,
     "wof:geomhash":"692abcf86861ee83c8030669f9a18f75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497111,
+            "locality_id":85940511,
+            "region_id":85688697,
+            "venue_id":740135539
+        }
+    ],
     "wof:id":740135539,
-    "wof:lastmodified":1472621517,
+    "wof:lastmodified":1492098005,
     "wof:name":"J James Plese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

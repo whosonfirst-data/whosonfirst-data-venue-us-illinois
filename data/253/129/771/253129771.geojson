@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.817348,41.867814,-87.817348,41.867814",
     "geom:latitude":41.867814,
     "geom:longitude":-87.817348,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85838811,
+        102191575,
+        404497641,
         85633793,
         85940755,
         102084317,
-        85838811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"005f64b9bc45dba33f6c7798ffdad199",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497641,
             "locality_id":85940755,
             "neighbourhood_id":85838811,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253129771,
-    "wof:lastmodified":1472621068,
+    "wof:lastmodified":1492088608,
     "wof:name":"American Wilbert Vault Corp",
     "wof:parent_id":85838811,
     "wof:placetype":"venue",

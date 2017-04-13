@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.966212,42.175227,-87.966212,42.175227",
     "geom:latitude":42.175227,
     "geom:longitude":-87.966212,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891069,
+        102191575,
+        404498371,
         85633793,
-        85938409,
-        102084317,
-        85891069
+        85938415,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a24469f7aef1d021a7b72985271aef38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084317,
-            "locality_id":85938409,
+            "county_id":102086215,
+            "localadmin_id":404498371,
+            "locality_id":85938415,
             "neighbourhood_id":85891069,
             "region_id":85688697,
             "venue_id":202661565
         }
     ],
     "wof:id":202661565,
-    "wof:lastmodified":1472621182,
+    "wof:lastmodified":1492089027,
     "wof:name":"One Zero One Express Taxi",
     "wof:parent_id":85891069,
     "wof:placetype":"venue",

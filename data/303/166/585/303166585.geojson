@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.340468,41.85418,-88.340468,41.85418",
     "geom:latitude":41.85418,
     "geom:longitude":-88.340468,
@@ -33,11 +34,13 @@
     "sg:website":"www.bp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890729,
+        102191575,
+        404498227,
         85633793,
-        85940215,
+        85939739,
         102086925,
-        85890729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"d4fb349126f1c2a364b7bd67d3aa6006",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":85940215,
+            "localadmin_id":404498227,
+            "locality_id":85939739,
             "neighbourhood_id":85890729,
             "region_id":85688697,
             "venue_id":303166585
         }
     ],
     "wof:id":303166585,
-    "wof:lastmodified":1472620981,
+    "wof:lastmodified":1492089668,
     "wof:name":"Bp Connect",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.000594,42.116868,-88.000594,42.116868",
     "geom:latitude":42.116868,
     "geom:longitude":-88.000594,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890857,
+        102191575,
+        404497619,
         85633793,
         85940777,
         102084317,
-        85890857
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"5b9491f57cadebfc5fe242b133458dae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497619,
             "locality_id":85940777,
             "neighbourhood_id":85890857,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270222977,
-    "wof:lastmodified":1472621267,
+    "wof:lastmodified":1492103268,
     "wof:name":"Nancy A Loessy",
     "wof:parent_id":85890857,
     "wof:placetype":"venue",

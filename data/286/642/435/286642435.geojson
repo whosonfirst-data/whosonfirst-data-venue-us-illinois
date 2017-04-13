@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.718784,41.651704,-87.718784,41.651704",
     "geom:latitude":41.651704,
     "geom:longitude":-87.718784,
@@ -35,7 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420518683,
+        102191575,
+        404497667,
         85633793,
+        85940911,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -46,18 +52,20 @@
     "wof:geomhash":"0c9a2fe7702156fcdca017dd14be8f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497667,
+            "locality_id":85940911,
+            "neighbourhood_id":420518683,
             "region_id":85688697,
             "venue_id":286642435
         }
     ],
     "wof:id":286642435,
-    "wof:lastmodified":1472621550,
+    "wof:lastmodified":1492106697,
     "wof:name":"Madison Ppr Co Alsip Location",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

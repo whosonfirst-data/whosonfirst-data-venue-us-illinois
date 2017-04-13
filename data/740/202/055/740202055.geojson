@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.154618,42.277906,-88.154618,42.277906",
     "geom:latitude":42.277906,
     "geom:longitude":-88.154618,
@@ -46,7 +47,14 @@
     ],
     "sg:website":"http://www.coopertire.com/html/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498375,
+        85633793,
+        85938623,
+        102086215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2njGev5tZp3rcwOrbGkGzx_42.277906_-88.154618@1303262844"
@@ -54,9 +62,19 @@
     "wof:country":"US",
     "wof:created":1461951885,
     "wof:geomhash":"985d5ac8a32c2688ac74b5162727996f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086215,
+            "localadmin_id":404498375,
+            "locality_id":85938623,
+            "region_id":85688697,
+            "venue_id":740202055
+        }
+    ],
     "wof:id":740202055,
-    "wof:lastmodified":1472621863,
+    "wof:lastmodified":1492088231,
     "wof:name":"Tredroc Tire Services - Wauconda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

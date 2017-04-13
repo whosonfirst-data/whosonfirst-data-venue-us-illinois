@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.540703,41.547901,-87.540703,41.547901",
     "geom:latitude":41.547901,
     "geom:longitude":-87.540703,
@@ -31,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497591,
+        85633793,
+        85940801,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WM5xXnjsMTVyB3slABT0O_41.547901_-87.540703@1303262856"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953869,
     "wof:geomhash":"4eee8ddb42b82e0bfd16c5e7e7a42f73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497591,
+            "locality_id":85940801,
+            "region_id":85688697,
+            "venue_id":740294369
+        }
+    ],
     "wof:id":740294369,
-    "wof:lastmodified":1472622018,
+    "wof:lastmodified":1492089448,
     "wof:name":"Greco Nut & Candy Outlets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

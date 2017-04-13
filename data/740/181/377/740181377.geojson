@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.26217,42.21661,-88.26217,42.21661",
     "geom:latitude":42.21661,
     "geom:longitude":-88.26217,
@@ -32,7 +33,14 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85939013,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42XmwTDBgCDWq4Wwsb6rcr_42.216610_-88.262170@1303262841"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951473,
     "wof:geomhash":"fe8a898e7f6677731561df27cf6824bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85939013,
+            "region_id":85688697,
+            "venue_id":740181377
+        }
+    ],
     "wof:id":740181377,
-    "wof:lastmodified":1472621835,
+    "wof:lastmodified":1492088647,
     "wof:name":"A S M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

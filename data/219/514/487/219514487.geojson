@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.864886,42.399367,-87.864886,42.399367",
     "geom:latitude":42.399367,
     "geom:longitude":-87.864886,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890983,
+        102191575,
+        404498453,
         85633793,
+        85938401,
         102086215,
-        85890983
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"8189556524a9a63045d9ca60369aa869",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":-1,
+            "localadmin_id":404498453,
+            "locality_id":85938401,
             "neighbourhood_id":85890983,
             "region_id":85688697,
             "venue_id":219514487
         }
     ],
     "wof:id":219514487,
-    "wof:lastmodified":1472621401,
+    "wof:lastmodified":1492105766,
     "wof:name":"Corcoran Pat Plbg & Contg Inc",
     "wof:parent_id":85890983,
     "wof:placetype":"venue",

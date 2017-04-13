@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.140478,42.015656,-88.140478,42.015656",
     "geom:latitude":42.015656,
     "geom:longitude":-88.140478,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518875,
+        102191575,
+        404497587,
         85633793,
-        85940189,
-        102081257
+        85940179,
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"9c0cae6be66a054be7c2c182b3fda65b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081257,
-            "locality_id":85940189,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497587,
+            "locality_id":85940179,
+            "neighbourhood_id":420518875,
             "region_id":85688697,
             "venue_id":286497231
         }
     ],
     "wof:id":286497231,
-    "wof:lastmodified":1472621364,
+    "wof:lastmodified":1492102907,
     "wof:name":"Cila",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

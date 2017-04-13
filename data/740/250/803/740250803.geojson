@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.075104,41.983101,-88.075104,41.983101",
     "geom:latitude":41.983101,
     "geom:longitude":-88.075104,
@@ -31,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Emm08H8bHjEEGdXXx1m9K_41.983101_-88.075104@1303262850"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952965,
     "wof:geomhash":"5ad4d156f1b916bccc2fce070910cf7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740250803
+        }
+    ],
     "wof:id":740250803,
-    "wof:lastmodified":1472621980,
+    "wof:lastmodified":1492102236,
     "wof:name":"Peters & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

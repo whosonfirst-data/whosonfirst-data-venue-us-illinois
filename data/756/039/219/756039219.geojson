@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.844968,41.747783,-87.844968,41.747783",
     "geom:latitude":41.747783,
     "geom:longitude":-87.844968,
@@ -31,7 +32,14 @@
         "upholsterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940809,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KjtOuArXYP8BX53G2iQn4_41.747783_-87.844968@1303262858"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461954209,
     "wof:geomhash":"aa46df1faf2092c524278c72bfe64149",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940809,
+            "region_id":85688697,
+            "venue_id":756039219
+        }
+    ],
     "wof:id":756039219,
-    "wof:lastmodified":1472620989,
+    "wof:lastmodified":1492089365,
     "wof:name":"Little Joes Canvas & Upholstery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

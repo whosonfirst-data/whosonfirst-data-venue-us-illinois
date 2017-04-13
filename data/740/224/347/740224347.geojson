@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.445702,41.885235,-88.445702,41.885235",
     "geom:latitude":41.885235,
     "geom:longitude":-88.445702,
@@ -34,7 +35,10 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wCAgnbJHsTz8Vwna2qPNj_41.885235_-88.445702@1303262847"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461952384,
     "wof:geomhash":"cd103b7bab605de6f6e4530243e25335",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519075,
+            "venue_id":740224347
+        }
+    ],
     "wof:id":740224347,
-    "wof:lastmodified":1472621917,
+    "wof:lastmodified":1492093398,
     "wof:name":"Holmgren Electric, Inc.",
     "wof:parent_id":420519075,
     "wof:placetype":"venue",

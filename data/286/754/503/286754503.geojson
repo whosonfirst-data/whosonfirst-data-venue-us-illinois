@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.810468,41.587452,-87.810468,41.587452",
     "geom:latitude":41.587452,
     "geom:longitude":-87.810468,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890945,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890945
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ad1fb755acc289a87094b24083e34093",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890945,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286754503,
-    "wof:lastmodified":1472621658,
+    "wof:lastmodified":1492101344,
     "wof:name":"Christopher Holwell Law Office",
     "wof:parent_id":85890945,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.743586,41.865838,-87.743586,41.865838",
     "geom:latitude":41.865838,
     "geom:longitude":-87.743586,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497617,
         85633793,
         85940877,
-        102084317,
-        85867673
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"ab06e5e9c3927b3875913fa057f5c4c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497617,
             "locality_id":85940877,
-            "neighbourhood_id":85867673,
             "region_id":85688697,
             "venue_id":236040855
         }
     ],
     "wof:id":236040855,
-    "wof:lastmodified":1472620854,
+    "wof:lastmodified":1492106308,
     "wof:name":"Bus Station",
-    "wof:parent_id":85867673,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

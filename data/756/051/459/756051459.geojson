@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.28797,41.793633,-88.28797,41.793633",
     "geom:latitude":41.793633,
     "geom:longitude":-88.28797,
@@ -32,7 +33,13 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498347,
+        85633793,
+        102086925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tTTq8MFUNjvnrGKceETMf_41.793633_-88.287970@1303262860"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461954469,
     "wof:geomhash":"29ca221006016ca85a916f726dcdb6cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086925,
+            "localadmin_id":404498347,
+            "region_id":85688697,
+            "venue_id":756051459
+        }
+    ],
     "wof:id":756051459,
-    "wof:lastmodified":1472621156,
+    "wof:lastmodified":1492103109,
     "wof:name":"Bedford Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

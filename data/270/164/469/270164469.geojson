@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.810899,42.201875,-87.810899,42.201875",
     "geom:latitude":42.201875,
     "geom:longitude":-87.810899,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890811,
+        102191575,
+        404498365,
         85633793,
         85938371,
         102086215,
-        85890811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"96812fb695ca41d4c57f8503581e1f3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498365,
             "locality_id":85938371,
             "neighbourhood_id":85890811,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270164469,
-    "wof:lastmodified":1472621176,
+    "wof:lastmodified":1492089961,
     "wof:name":"Brookside Cleaners",
     "wof:parent_id":85890811,
     "wof:placetype":"venue",

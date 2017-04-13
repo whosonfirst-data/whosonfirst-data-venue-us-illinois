@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.95292,42.280904,-87.95292,42.280904",
     "geom:latitude":42.280904,
     "geom:longitude":-87.95292,
@@ -43,7 +44,10 @@
     ],
     "sg:website":"http://www.carxchicago.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49PJP5dGAU2cLugRL1miuY_42.280904_-87.952920@1303262842"
@@ -51,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461951650,
     "wof:geomhash":"33df756d0f5e6ddf6a24e9d9d2eeaffc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190117
+        }
+    ],
     "wof:id":740190117,
-    "wof:lastmodified":1472621854,
+    "wof:lastmodified":1492097847,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

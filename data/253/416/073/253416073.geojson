@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.971713,42.281544,-87.971713,42.281544",
     "geom:latitude":42.281544,
     "geom:longitude":-87.971713,
@@ -37,10 +38,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85938341,
-        102086215
+        420519103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +49,15 @@
     "wof:geomhash":"084044c7f374b6214f09fd8c91d593af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938341,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420519103,
             "venue_id":253416073
         }
     ],
     "wof:id":253416073,
-    "wof:lastmodified":1472621490,
+    "wof:lastmodified":1492089029,
     "wof:name":"Midland Glass Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

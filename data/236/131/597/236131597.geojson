@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.784517,41.577733,-87.784517,41.577733",
     "geom:latitude":41.577733,
     "geom:longitude":-87.784517,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890939,
+        102191575,
+        404497643,
         85633793,
         85940515,
         102084317,
-        85890939
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1f3a6f0b30c3957a54c061ac0f17a959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497643,
             "locality_id":85940515,
             "neighbourhood_id":85890939,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":236131597,
-    "wof:lastmodified":1472621162,
+    "wof:lastmodified":1492102077,
     "wof:name":"Editing Techniques",
     "wof:parent_id":85890939,
     "wof:placetype":"venue",

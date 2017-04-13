@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09978,41.88467,-88.09978,41.88467",
     "geom:latitude":41.88467,
     "geom:longitude":-88.09978,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85891053,
+        102191575,
+        404497763,
         85633793,
+        85940171,
         102081257,
-        85891053
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"5d2a1cdb216755c737684df40eef0d7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
-            "locality_id":-1,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
             "neighbourhood_id":85891053,
             "region_id":85688697,
             "venue_id":253160143
         }
     ],
     "wof:id":253160143,
-    "wof:lastmodified":1472621124,
+    "wof:lastmodified":1492090296,
     "wof:name":"Carol Eldon",
     "wof:parent_id":85891053,
     "wof:placetype":"venue",

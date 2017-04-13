@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.110199,41.967701,-88.110199,41.967701",
     "geom:latitude":41.967701,
     "geom:longitude":-88.110199,
@@ -28,7 +29,14 @@
     "sg:postcode":"60172",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940183,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Kk6lW8XLCj0pDlLmj1Ii_41.967701_-88.110199@1303262850"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461952936,
     "wof:geomhash":"e881889266bdb16a88ea48369e4914c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940183,
+            "region_id":85688697,
+            "venue_id":740249147
+        }
+    ],
     "wof:id":740249147,
-    "wof:lastmodified":1472621962,
+    "wof:lastmodified":1492089481,
     "wof:name":"P & K Auto Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

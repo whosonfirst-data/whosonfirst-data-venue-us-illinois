@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.308328,41.847284,-88.308328,41.847284",
     "geom:latitude":41.847284,
     "geom:longitude":-88.308328,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"cff6940129e6ae2a336e4d59f37a71f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202600743,
-    "wof:lastmodified":1472621128,
+    "wof:lastmodified":1492089178,
     "wof:name":"Pamarco Inc",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

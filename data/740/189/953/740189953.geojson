@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.953584,42.289944,-87.953584,42.289944",
     "geom:latitude":42.289944,
     "geom:longitude":-87.953584,
@@ -31,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zajhSS54NuQR9opEPGaMv_42.289944_-87.953584@1303262842"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461951648,
     "wof:geomhash":"0c08d2655828d64654c0350aa9a3229c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740189953
+        }
+    ],
     "wof:id":740189953,
-    "wof:lastmodified":1472621860,
+    "wof:lastmodified":1492088659,
     "wof:name":"Henrichs Tree Service",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

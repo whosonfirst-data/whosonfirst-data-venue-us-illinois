@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.660298,41.325951,-87.660298,41.325951",
     "geom:latitude":41.325951,
     "geom:longitude":-87.660298,
@@ -31,7 +32,13 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fd8Rc75ahNKIJASlZvBv4_41.325951_-87.660298@1303262853"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461953423,
     "wof:geomhash":"08c6d2399283e553f5bb9a7144f27885",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "region_id":85688697,
+            "venue_id":740273371
+        }
+    ],
     "wof:id":740273371,
-    "wof:lastmodified":1472622014,
+    "wof:lastmodified":1492092881,
     "wof:name":"Nejted Midwest Investment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

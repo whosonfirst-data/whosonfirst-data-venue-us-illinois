@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.83961,42.328112,-87.83961,42.328112",
     "geom:latitude":42.328112,
     "geom:longitude":-87.83961,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519107,
+        102191575,
+        404498369,
         85633793,
         85938325,
-        102086215
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"d9e9ac21fff0e1c00c6dceb6648d5191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498369,
             "locality_id":85938325,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519107,
             "region_id":85688697,
             "venue_id":286572013
         }
     ],
     "wof:id":286572013,
-    "wof:lastmodified":1472621503,
+    "wof:lastmodified":1492088998,
     "wof:name":"Mary Smith Typing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

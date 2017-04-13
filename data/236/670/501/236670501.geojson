@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.618469,41.644505,-87.618469,41.644505",
     "geom:latitude":41.644505,
     "geom:longitude":-87.618469,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497591,
         85633793,
-        85940195,
-        102084317,
-        85844893
+        85940731,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"23f666d1e90028f3b3bdb88b8c57728d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85844893,
+            "localadmin_id":404497591,
+            "locality_id":85940731,
             "region_id":85688697,
             "venue_id":236670501
         }
     ],
     "wof:id":236670501,
-    "wof:lastmodified":1472621747,
+    "wof:lastmodified":1492096265,
     "wof:name":"Enlightened Word Church",
-    "wof:parent_id":85844893,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.042715,41.932597,-88.042715,41.932597",
     "geom:latitude":41.932597,
     "geom:longitude":-88.042715,
@@ -32,7 +33,14 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940175,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wSpSdqg3lFrEI7b8hRTpe_41.932597_-88.042715@1303262845"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952052,
     "wof:geomhash":"d3a4bf963716c6189881a983c1a94024",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940175,
+            "region_id":85688697,
+            "venue_id":740208903
+        }
+    ],
     "wof:id":740208903,
-    "wof:lastmodified":1472621905,
+    "wof:lastmodified":1492104034,
     "wof:name":"United Mortgage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.126961,42.178802,-88.126961,42.178802",
     "geom:latitude":42.178802,
     "geom:longitude":-88.126961,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867885,
+        102191575,
+        404497605,
         85633793,
         85938419,
         102084317,
-        85867885
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ae9d4c282af2a99b281faf3750aa4b10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497605,
             "locality_id":85938419,
             "neighbourhood_id":85867885,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269996005,
-    "wof:lastmodified":1472621422,
+    "wof:lastmodified":1492105877,
     "wof:name":"Balance Financial Services",
     "wof:parent_id":85867885,
     "wof:placetype":"venue",

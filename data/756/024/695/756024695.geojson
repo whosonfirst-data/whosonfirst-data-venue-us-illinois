@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.061175,41.710611,-88.061175,41.710611",
     "geom:latitude":41.710611,
     "geom:longitude":-88.061175,
@@ -37,7 +38,14 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wcST7iGqd6eOKizebUuZF_41.710611_-88.061175@1303262856"
@@ -45,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1461953900,
     "wof:geomhash":"b65119ce516d29c1aac48ca0d67d25d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024695
+        }
+    ],
     "wof:id":756024695,
-    "wof:lastmodified":1472620847,
+    "wof:lastmodified":1492088625,
     "wof:name":"Poe Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

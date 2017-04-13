@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.665494,41.562589,-87.665494,41.562589",
     "geom:latitude":41.562589,
     "geom:longitude":-87.665494,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890809,
+        102191575,
+        404497591,
         85633793,
         85940817,
         102084317,
-        85890809
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"8b94d6e26a5578e4b087cc971b556155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940817,
             "neighbourhood_id":85890809,
             "region_id":85688697,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":252992281,
-    "wof:lastmodified":1472621119,
+    "wof:lastmodified":1492095676,
     "wof:name":"Homewood Police Department",
     "wof:parent_id":85890809,
     "wof:placetype":"venue",

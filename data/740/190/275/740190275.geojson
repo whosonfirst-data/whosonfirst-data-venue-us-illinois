@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.953035,42.281419,-87.953035,42.281419",
     "geom:latitude":42.281419,
     "geom:longitude":-87.953035,
@@ -41,7 +42,10 @@
     ],
     "sg:website":"http://www.carquest.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xiv65ASN9k7NHHI4KgQav_42.281419_-87.953035@1303262842"
@@ -49,9 +53,15 @@
     "wof:country":"US",
     "wof:created":1461951653,
     "wof:geomhash":"9feaa727ce80530b27c67745110da56b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190275
+        }
+    ],
     "wof:id":740190275,
-    "wof:lastmodified":1472621856,
+    "wof:lastmodified":1492088659,
     "wof:name":"Aps Inc",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

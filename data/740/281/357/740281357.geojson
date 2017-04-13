@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.541029,41.530577,-87.541029,41.530577",
     "geom:latitude":41.530577,
     "geom:longitude":-87.541029,
@@ -32,7 +33,14 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497609,
+        85633793,
+        85940797,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XxPhiFjWK2hV8R8bUCNhu_41.530577_-87.541029@1303262854"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461953597,
     "wof:geomhash":"cc10a4829ed55bfbad5038d7ef87ff4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497609,
+            "locality_id":85940797,
+            "region_id":85688697,
+            "venue_id":740281357
+        }
+    ],
     "wof:id":740281357,
-    "wof:lastmodified":1472622014,
+    "wof:lastmodified":1492089973,
     "wof:name":"Journeys Of You Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

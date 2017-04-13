@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.699553,42.064414,-87.699553,42.064414",
     "geom:latitude":42.064414,
     "geom:longitude":-87.699553,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867707,
+        102191575,
+        404497633,
         85633793,
         85940917,
         102084317,
-        85867707
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9b17f828cc61c0f09a4e3ac26fbf6b56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497633,
             "locality_id":85940917,
             "neighbourhood_id":85867707,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202830979,
-    "wof:lastmodified":1472621289,
+    "wof:lastmodified":1492109515,
     "wof:name":"Rouzati Oriental Rugs Inc",
     "wof:parent_id":85867707,
     "wof:placetype":"venue",

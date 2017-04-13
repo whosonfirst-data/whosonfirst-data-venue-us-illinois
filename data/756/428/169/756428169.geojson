@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.736282,40.781231,-87.736282,40.781231",
     "geom:latitude":40.781231,
     "geom:longitude":-87.736282,
@@ -36,7 +37,14 @@
         "ranch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498197,
+        85633793,
+        85938439,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06KSt6kURrNvdyIyD9xu3T_40.781231_-87.736282@1303262910"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461962969,
     "wof:geomhash":"be33d17cfbac4c17eb4c42d7dadf97e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498197,
+            "locality_id":85938439,
+            "region_id":85688697,
+            "venue_id":756428169
+        }
+    ],
     "wof:id":756428169,
-    "wof:lastmodified":1472622194,
+    "wof:lastmodified":1492091687,
     "wof:name":"Wilbert Koester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

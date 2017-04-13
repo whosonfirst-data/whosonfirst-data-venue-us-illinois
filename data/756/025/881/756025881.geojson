@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.982562,41.4377,-87.982562,41.4377",
     "geom:latitude":41.4377,
     "geom:longitude":-87.982562,
@@ -40,7 +41,10 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EIgnG9OaxdZ1BcKOzCC2U_41.437700_-87.982562@1303262856"
@@ -48,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1461953925,
     "wof:geomhash":"b0a5e1a23320212efe125eeea3311666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025881
+        }
+    ],
     "wof:id":756025881,
-    "wof:lastmodified":1472620877,
+    "wof:lastmodified":1492087995,
     "wof:name":"Village Of Manhattan Of Illinois",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.748611,41.917351,-88.748611,41.917351",
     "geom:latitude":41.917351,
     "geom:longitude":-88.748611,
@@ -39,7 +40,14 @@
     ],
     "sg:website":"http://www.southmoorestates.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497703,
+        85633793,
+        85939833,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HJmDBlrDihm1HZgruTOIn_41.917351_-88.748611@1303262847"
@@ -47,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1461952327,
     "wof:geomhash":"f5474f68baa63b12af0855bb0d64db65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497703,
+            "locality_id":85939833,
+            "region_id":85688697,
+            "venue_id":740221529
+        }
+    ],
     "wof:id":740221529,
-    "wof:lastmodified":1472621921,
+    "wof:lastmodified":1492092016,
     "wof:name":"Southmoor Estates Manufactured Home Community & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

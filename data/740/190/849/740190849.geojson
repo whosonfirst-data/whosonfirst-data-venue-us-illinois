@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.931258,42.303346,-87.931258,42.303346",
     "geom:latitude":42.303346,
     "geom:longitude":-87.931258,
@@ -38,7 +39,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gl3WjTvuhZt8JkebPxVqw_42.303346_-87.931258@1303262843"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461951665,
     "wof:geomhash":"027c2cbd9ef1b1e06c100ac270872e0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519103,
+            "venue_id":740190849
+        }
+    ],
     "wof:id":740190849,
-    "wof:lastmodified":1472621871,
+    "wof:lastmodified":1492101627,
     "wof:name":"Ashley Concrete",
     "wof:parent_id":420519103,
     "wof:placetype":"venue",

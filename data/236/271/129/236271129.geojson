@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.547306,41.578289,-87.547306,41.578289",
     "geom:latitude":41.578289,
     "geom:longitude":-87.547306,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85805877,
+        102191575,
+        404497591,
         85633793,
         85940801,
         102084317,
-        85805877
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a1d56c6af1bcb454950cc615dbe98e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940801,
             "neighbourhood_id":85805877,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":236271129,
-    "wof:lastmodified":1472621424,
+    "wof:lastmodified":1492091386,
     "wof:name":"Pavement Maintenance Sup Whse",
     "wof:parent_id":85805877,
     "wof:placetype":"venue",

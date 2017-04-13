@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.860764,42.039383,-87.860764,42.039383",
     "geom:latitude":42.039383,
     "geom:longitude":-87.860764,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890775,
+        102191575,
+        404497631,
         85633793,
-        85940869,
         102084317,
-        85890775
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,17 @@
     "wof:geomhash":"3e4c161fe473f955d381d4a2c5ea0013",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940869,
+            "localadmin_id":404497631,
             "neighbourhood_id":85890775,
             "region_id":85688697,
             "venue_id":286876103
         }
     ],
     "wof:id":286876103,
-    "wof:lastmodified":1472621689,
+    "wof:lastmodified":1492097146,
     "wof:name":"Polish-American Video Rental",
     "wof:parent_id":85890775,
     "wof:placetype":"venue",

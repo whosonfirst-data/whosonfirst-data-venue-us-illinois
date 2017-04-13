@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.094512,42.493076,-88.094512,42.493076",
     "geom:latitude":42.493076,
     "geom:longitude":-88.094512,
@@ -34,10 +35,13 @@
     "sg:website":"www.meyermachine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420550001,
+        102191575,
+        404493391,
         85633793,
-        85938405,
-        102086215
+        101732581,
+        102081309,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"5afe84af6e1e7e3ac4ac3e827ef5d045",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938405,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "county_id":102081309,
+            "localadmin_id":404493391,
+            "locality_id":101732581,
+            "neighbourhood_id":420550001,
+            "region_id":85688517,
             "venue_id":270004187
         }
     ],
     "wof:id":270004187,
-    "wof:lastmodified":1472620754,
+    "wof:lastmodified":1492097079,
     "wof:name":"Meyer Machine & Equipment Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

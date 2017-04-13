@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.995473,41.96035,-87.995473,41.96035",
     "geom:latitude":41.96035,
     "geom:longitude":-87.995473,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890713,
+        102191575,
+        404497761,
         85633793,
         85940175,
         102081257,
-        85890713
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9d6ea05709c93ab741f3bcbd2620e9ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497761,
             "locality_id":85940175,
             "neighbourhood_id":85890713,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":219561213,
-    "wof:lastmodified":1472621461,
+    "wof:lastmodified":1492094953,
     "wof:name":"Golden Years Inc",
     "wof:parent_id":85890713,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.855175,42.133232,-87.855175,42.133232",
     "geom:latitude":42.133232,
     "geom:longitude":-87.855175,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420518733,
+        102191575,
+        404497637,
         85633793,
         85940769,
-        102084317
+        102084317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"41e1564ead49407ecf7c46d2995684bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497637,
             "locality_id":85940769,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420518733,
             "region_id":85688697,
             "venue_id":236931123
         }
     ],
     "wof:id":236931123,
-    "wof:lastmodified":1472621786,
+    "wof:lastmodified":1492104913,
     "wof:name":"Chocolate Artistry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

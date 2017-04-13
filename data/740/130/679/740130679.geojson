@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.885363,40.937855,-87.885363,40.937855",
     "geom:latitude":40.937855,
     "geom:longitude":-87.885363,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498179,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JDb7n6v4SOUyvRb9mXDTL_40.937855_-87.885363@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950366,
     "wof:geomhash":"d7f07d173b3376669aee4cc3a0c0d6e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498179,
+            "region_id":85688697,
+            "venue_id":740130679
+        }
+    ],
     "wof:id":740130679,
-    "wof:lastmodified":1472621433,
+    "wof:lastmodified":1492089930,
     "wof:name":"Gerald Nakaerts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.320875,42.072297,-88.320875,42.072297",
     "geom:latitude":42.072297,
     "geom:longitude":-88.320875,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85802887,
+        102191575,
+        404498225,
         85633793,
+        85939801,
         102086925,
-        85802887
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"1413faeb17431cc05816b41fa2ed36a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
-            "locality_id":-1,
+            "localadmin_id":404498225,
+            "locality_id":85939801,
             "neighbourhood_id":85802887,
             "region_id":85688697,
             "venue_id":270005005
         }
     ],
     "wof:id":270005005,
-    "wof:lastmodified":1472620749,
+    "wof:lastmodified":1492096541,
     "wof:name":"In Color Graphics Coml Prtg",
     "wof:parent_id":85802887,
     "wof:placetype":"venue",

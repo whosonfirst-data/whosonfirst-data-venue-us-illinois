@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.002573,41.735037,-88.002573,41.735037",
     "geom:latitude":41.735037,
     "geom:longitude":-88.002573,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828963,
+        102191575,
+        404497649,
         85633793,
         85940167,
         102081257,
-        85828963
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"8ebc9ea7bca650c1b5082f7e7bca6be5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940167,
             "neighbourhood_id":85828963,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":202627145,
-    "wof:lastmodified":1472621144,
+    "wof:lastmodified":1492095476,
     "wof:name":"Surgeons 1st Assist Inc",
     "wof:parent_id":85828963,
     "wof:placetype":"venue",

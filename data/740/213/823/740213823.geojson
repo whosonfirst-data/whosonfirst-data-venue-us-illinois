@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.174054,41.988344,-88.174054,41.988344",
     "geom:latitude":41.988344,
     "geom:longitude":-88.174054,
@@ -51,7 +52,14 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BMmTszPcTg03Yfsdd1Iwz_41.988344_-88.174054@1303262846"
@@ -59,9 +67,19 @@
     "wof:country":"US",
     "wof:created":1461952163,
     "wof:geomhash":"a7be36076487706070bca9da6f335356",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740213823
+        }
+    ],
     "wof:id":740213823,
-    "wof:lastmodified":1472621918,
+    "wof:lastmodified":1492091286,
     "wof:name":"Allstate Insurance Company - James Semonchik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

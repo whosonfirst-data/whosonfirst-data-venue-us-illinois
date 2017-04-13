@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798412,42.080791,-87.798412,42.080791",
     "geom:latitude":42.080791,
     "geom:longitude":-87.798412,
@@ -33,7 +34,14 @@
         "barbecue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ri2sV7owshWHJrZ3FsYU_42.080791_-87.798412@1303262842"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461951530,
     "wof:geomhash":"082884a75a299f580b92fb7b423507e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184283
+        }
+    ],
     "wof:id":740184283,
-    "wof:lastmodified":1472621839,
+    "wof:lastmodified":1492090189,
     "wof:name":"Rail Good Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

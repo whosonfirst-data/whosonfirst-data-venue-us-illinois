@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.799258,41.382935,-87.799258,41.382935",
     "geom:latitude":41.382935,
     "geom:longitude":-87.799258,
@@ -37,7 +38,13 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499137,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gi6At8MpDmQJ0mOf2CTjF_41.382935_-87.799258@1303262859"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461954328,
     "wof:geomhash":"4ee51f33e7e2dd96de35687bf8dcd68a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499137,
+            "region_id":85688697,
+            "venue_id":756044425
+        }
+    ],
     "wof:id":756044425,
-    "wof:lastmodified":1472621152,
+    "wof:lastmodified":1492097679,
     "wof:name":"Schubbe Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.047384,40.970095,-88.047384,40.970095",
     "geom:latitude":40.970095,
     "geom:longitude":-88.047384,
@@ -28,7 +29,13 @@
     "sg:postcode":"60927",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498199,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vV3AMZTD0yLV9yJfcmYMm_40.970095_-88.047384@1303262910"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461962939,
     "wof:geomhash":"979226f1e9e584f3d42c49eb52ec5f29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498199,
+            "region_id":85688697,
+            "venue_id":756426647
+        }
+    ],
     "wof:id":756426647,
-    "wof:lastmodified":1472622206,
+    "wof:lastmodified":1492091683,
     "wof:name":"Steven Joseph Mclaughlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

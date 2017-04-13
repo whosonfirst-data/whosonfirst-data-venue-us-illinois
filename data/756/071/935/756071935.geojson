@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.164765,41.747569,-88.164765,41.747569",
     "geom:latitude":41.747569,
     "geom:longitude":-88.164765,
@@ -47,10 +48,13 @@
     "sg:website":"http://www.ilsos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
-        85633793,
         85879111,
-        102081257
+        102191575,
+        404497655,
+        85633793,
+        85940205,
+        102081257,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +65,18 @@
     "wof:geomhash":"90d6cc935cc7e7b29b8c0a34e4aa1c50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
             "neighbourhood_id":85879111,
             "region_id":85688697,
             "venue_id":756071935
         }
     ],
     "wof:id":756071935,
-    "wof:lastmodified":1472621397,
+    "wof:lastmodified":1492105795,
     "wof:name":"Secretary Of State, Illinois",
     "wof:parent_id":85879111,
     "wof:placetype":"venue",

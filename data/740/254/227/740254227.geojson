@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.194532,41.86353,-88.194532,41.86353",
     "geom:latitude":41.86353,
     "geom:longitude":-88.194532,
@@ -28,7 +29,10 @@
     "sg:postcode":"60185",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gu9COw753Or7c1rnDdelb_41.863530_-88.194532@1303262851"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461953036,
     "wof:geomhash":"b5d7196d8b7637ed8ee3707c69a6542c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518987,
+            "venue_id":740254227
+        }
+    ],
     "wof:id":740254227,
-    "wof:lastmodified":1472621964,
+    "wof:lastmodified":1492096676,
     "wof:name":"Koita Amir & Associates Llc DDS",
     "wof:parent_id":420518987,
     "wof:placetype":"venue",

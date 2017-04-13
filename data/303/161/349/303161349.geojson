@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.696778,41.527915,-87.696778,41.527915",
     "geom:latitude":41.527915,
     "geom:longitude":-87.696778,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85851443,
+        102191575,
+        404497581,
         85633793,
         85940853,
         102084317,
-        85851443
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"890ea8e0e0f56759fa1e6674d1787773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497581,
             "locality_id":85940853,
             "neighbourhood_id":85851443,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303161349,
-    "wof:lastmodified":1472620982,
+    "wof:lastmodified":1492100179,
     "wof:name":"Custom Touch Boutique Inc",
     "wof:parent_id":85851443,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.961821,42.272094,-87.961821,42.272094",
     "geom:latitude":42.272094,
     "geom:longitude":-87.961821,
@@ -33,10 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85938341,
-        102086215
+        420519103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +45,15 @@
     "wof:geomhash":"4637225262c2fdf680d47def221b5afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938341,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420519103,
             "venue_id":236597665
         }
     ],
     "wof:id":236597665,
-    "wof:lastmodified":1472621733,
+    "wof:lastmodified":1492100739,
     "wof:name":"Northern Illinois Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.344551,41.745622,-88.344551,41.745622",
     "geom:latitude":41.745622,
     "geom:longitude":-88.344551,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876057,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876057
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,10 @@
     "wof:geomhash":"62681b051e749f3ee613ed56246663f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876057,
             "region_id":85688697,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":756052249,
-    "wof:lastmodified":1472621151,
+    "wof:lastmodified":1492089847,
     "wof:name":"L And D Auto Repair",
     "wof:parent_id":85876057,
     "wof:placetype":"venue",

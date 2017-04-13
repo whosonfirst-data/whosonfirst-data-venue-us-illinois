@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.23742,41.701333,-88.23742,41.701333",
     "geom:latitude":41.701333,
     "geom:longitude":-88.23742,
@@ -40,7 +41,13 @@
     ],
     "sg:website":"http://www.petstainremoval.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499227,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V2gmJonM8rOe09Hii2yyE_41.701333_-88.237420@1303262862"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461954917,
     "wof:geomhash":"f23cd768822d3c59e0897fa78bea704f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499227,
+            "region_id":85688697,
+            "venue_id":756072499
+        }
+    ],
     "wof:id":756072499,
-    "wof:lastmodified":1472621395,
+    "wof:lastmodified":1492089880,
     "wof:name":"Speedy Vac Carpet Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.983452,41.426449,-87.983452,41.426449",
     "geom:latitude":41.426449,
     "geom:longitude":-87.983452,
@@ -38,7 +39,10 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12aKDEr36k4wHvCuKxt6ds_41.426449_-87.983452@1303262856"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461953922,
     "wof:geomhash":"a2854daafda9b0be1d098bf24866bbe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519341,
+            "venue_id":756025741
+        }
+    ],
     "wof:id":756025741,
-    "wof:lastmodified":1472620878,
+    "wof:lastmodified":1492092889,
     "wof:name":"Fine Line Embroidery",
     "wof:parent_id":420519341,
     "wof:placetype":"venue",

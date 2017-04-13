@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.099432,41.679737,-88.099432,41.679737",
     "geom:latitude":41.679737,
     "geom:longitude":-88.099432,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890743,
+        102191575,
+        404499131,
         85633793,
-        85940527,
+        85940209,
         102080845,
-        85890743
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"557d5ddc8d8003b7dfd08eec43284217",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080845,
-            "locality_id":85940527,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
             "neighbourhood_id":85890743,
             "region_id":85688697,
             "venue_id":286938177
         }
     ],
     "wof:id":286938177,
-    "wof:lastmodified":1472621707,
+    "wof:lastmodified":1492102252,
     "wof:name":"Fine Art Connection Inc",
     "wof:parent_id":85890743,
     "wof:placetype":"venue",

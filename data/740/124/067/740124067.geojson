@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.09132,40.874283,-88.09132,40.874283",
     "geom:latitude":40.874283,
     "geom:longitude":-88.09132,
@@ -27,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498173,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JxrZQO95xSIFEEHlkIlNV_40.874283_-88.091320@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461950173,
     "wof:geomhash":"72bbc0df00e311c9245622b3770b8b75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498173,
+            "region_id":85688697,
+            "venue_id":740124067
+        }
+    ],
     "wof:id":740124067,
-    "wof:lastmodified":1472621350,
+    "wof:lastmodified":1492089929,
     "wof:name":"Monk Harmon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

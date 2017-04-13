@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.826833,42.394509,-87.826833,42.394509",
     "geom:latitude":42.394509,
     "geom:longitude":-87.826833,
@@ -63,7 +64,10 @@
     ],
     "sg:website":"http://www.ice-guys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QX7sFL880mmnVZk5uZgbc_42.394509_-87.826833@1303262844"
@@ -71,9 +75,15 @@
     "wof:country":"US",
     "wof:created":1461951913,
     "wof:geomhash":"1dc0559060711ea4d9f0c6caaa602b4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519115,
+            "venue_id":740203539
+        }
+    ],
     "wof:id":740203539,
-    "wof:lastmodified":1472621892,
+    "wof:lastmodified":1492102492,
     "wof:name":"Indoor Climate Experts",
     "wof:parent_id":420519115,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.020668,41.799751,-88.020668,41.799751",
     "geom:latitude":41.799751,
     "geom:longitude":-88.020668,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890777,
+        102191575,
+        404497649,
         85633793,
         85940165,
         102081257,
-        85890777
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a29150f665f7a58f07926abe634c2eb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497649,
             "locality_id":85940165,
             "neighbourhood_id":85890777,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269923647,
-    "wof:lastmodified":1472621423,
+    "wof:lastmodified":1492100868,
     "wof:name":"Board Of Education District 58",
     "wof:parent_id":85890777,
     "wof:placetype":"venue",

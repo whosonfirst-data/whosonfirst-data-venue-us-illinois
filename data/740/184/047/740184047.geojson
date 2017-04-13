@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.812943,42.099947,-87.812943,42.099947",
     "geom:latitude":42.099947,
     "geom:longitude":-87.812943,
@@ -49,7 +50,14 @@
     ],
     "sg:website":"http://www.renewalbyandersen.com/default.aspx?engName=PdSchYPOrganic",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497637,
+        85633793,
+        85940839,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01BNrAHKrjVceJY37csRQk_42.099947_-87.812943@1303262842"
@@ -57,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1461951526,
     "wof:geomhash":"df31d75163972d4bedb0405072c79fcb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497637,
+            "locality_id":85940839,
+            "region_id":85688697,
+            "venue_id":740184047
+        }
+    ],
     "wof:id":740184047,
-    "wof:lastmodified":1472621829,
+    "wof:lastmodified":1492091528,
     "wof:name":"Renewal by Andersen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

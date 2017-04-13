@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.080902,41.957001,-88.080902,41.957001",
     "geom:latitude":41.957001,
     "geom:longitude":-88.080902,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"www.fourseasonsamusements.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w3bzDxNTzi2xzHNwf0cUL_41.957001_-88.080902@1303262846"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461952228,
     "wof:geomhash":"0a2cae3c3945953250018d3431a5b3b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740216721
+        }
+    ],
     "wof:id":740216721,
-    "wof:lastmodified":1472621945,
+    "wof:lastmodified":1492110066,
     "wof:name":"Four Seasons Amusements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

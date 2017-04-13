@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.540264,41.660314,-88.540264,41.660314",
     "geom:latitude":41.660314,
     "geom:longitude":-88.540264,
@@ -34,7 +35,14 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498407,
+        85633793,
+        85941077,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7enLeHS3gKhuKGj59ZhDsh_41.660314_-88.540264@1303262861"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461954731,
     "wof:geomhash":"45b137ef58612c46e9c54c1df7a24a16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404498407,
+            "locality_id":85941077,
+            "region_id":85688697,
+            "venue_id":756064347
+        }
+    ],
     "wof:id":756064347,
-    "wof:lastmodified":1472621374,
+    "wof:lastmodified":1492107327,
     "wof:name":"Hatcher Appliances Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

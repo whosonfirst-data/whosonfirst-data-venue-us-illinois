@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.139819,42.365695,-88.139819,42.365695",
     "geom:latitude":42.365695,
     "geom:longitude":-88.139819,
@@ -34,11 +35,13 @@
     "sg:website":"www.intl-star-registry.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85828395,
+        102191575,
+        404498449,
         85633793,
         85938397,
         102086215,
-        85828395
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"37340162ecf0e5eeeeb5a28a35fa3299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404498449,
             "locality_id":85938397,
             "neighbourhood_id":85828395,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":203005613,
-    "wof:lastmodified":1472620741,
+    "wof:lastmodified":1492104944,
     "wof:name":"International Star Registry",
     "wof:parent_id":85828395,
     "wof:placetype":"venue",

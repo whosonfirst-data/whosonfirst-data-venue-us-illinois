@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.068035,41.779607,-88.068035,41.779607",
     "geom:latitude":41.779607,
     "geom:longitude":-88.068035,
@@ -32,7 +33,10 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6La5GRj6USUKciIT2JZuee_41.779607_-88.068035@1303262861"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461954632,
     "wof:geomhash":"ce9725b4c07b4596043a683ef9c2e58a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756059443
+        }
+    ],
     "wof:id":756059443,
-    "wof:lastmodified":1472621280,
+    "wof:lastmodified":1492108974,
     "wof:name":"Emmys Pancake H",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

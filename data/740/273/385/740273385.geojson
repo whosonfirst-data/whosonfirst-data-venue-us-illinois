@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.62133,41.33978,-87.62133,41.33978",
     "geom:latitude":41.33978,
     "geom:longitude":-87.62133,
@@ -22,7 +23,14 @@
     "sg:postcode":"60401",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497105,
+        85633793,
+        85940579,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0afXVQVPwvD9ZNHAsgopVc_41.339780_-87.621330@1303262853"
@@ -30,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1461953423,
     "wof:geomhash":"0ce12187f773ee493dbd9942f4a74faa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404497105,
+            "locality_id":85940579,
+            "region_id":85688697,
+            "venue_id":740273385
+        }
+    ],
     "wof:id":740273385,
-    "wof:lastmodified":1472622013,
+    "wof:lastmodified":1492105144,
     "wof:name":"Aurelio's Pizza of Beecher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

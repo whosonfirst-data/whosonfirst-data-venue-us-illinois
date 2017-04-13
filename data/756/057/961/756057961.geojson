@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.874919,41.77552,-87.874919,41.77552",
     "geom:latitude":41.77552,
     "geom:longitude":-87.874919,
@@ -41,7 +42,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497627,
+        85633793,
+        85940873,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ii07GUsr5cf3tIemBducm_41.775520_-87.874919@1303262860"
@@ -49,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461954605,
     "wof:geomhash":"7cb9dd551632fbc2b73baf53a8442d39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497627,
+            "locality_id":85940873,
+            "region_id":85688697,
+            "venue_id":756057961
+        }
+    ],
     "wof:id":756057961,
-    "wof:lastmodified":1472621239,
+    "wof:lastmodified":1492105958,
     "wof:name":"Ron's Proshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.310308,41.848851,-88.310308,41.848851",
     "geom:latitude":41.848851,
     "geom:longitude":-88.310308,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"55bf9bae4ae850158ba39c840a5af5c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270342611,
-    "wof:lastmodified":1472621440,
+    "wof:lastmodified":1492106501,
     "wof:name":"Hansen-Furnace Foundation",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

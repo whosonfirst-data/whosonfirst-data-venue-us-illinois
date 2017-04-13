@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.183502,41.988201,-88.183502,41.988201",
     "geom:latitude":41.988201,
     "geom:longitude":-88.183502,
@@ -32,7 +33,14 @@
         "internal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497657,
+        85633793,
+        85940219,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hZ4Yof8Xs8s4jjqSUGtmI_41.988201_-88.183502@1303262846"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461952177,
     "wof:geomhash":"f150c7f5558f35839449ccf563807be7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497657,
+            "locality_id":85940219,
+            "region_id":85688697,
+            "venue_id":740214397
+        }
+    ],
     "wof:id":740214397,
-    "wof:lastmodified":1472621920,
+    "wof:lastmodified":1492102398,
     "wof:name":"Patel Raj MD Sc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

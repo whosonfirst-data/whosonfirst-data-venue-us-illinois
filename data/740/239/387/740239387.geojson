@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.032937,41.973407,-88.032937,41.973407",
     "geom:latitude":41.973407,
     "geom:longitude":-88.032937,
@@ -31,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497761,
+        85633793,
+        85940157,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S11I1OTjvtnTdCSnMaQcJ_41.973407_-88.032937@1303262849"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461952726,
     "wof:geomhash":"10665494e20574d8c9bebfd22451de52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497761,
+            "locality_id":85940157,
+            "region_id":85688697,
+            "venue_id":740239387
+        }
+    ],
     "wof:id":740239387,
-    "wof:lastmodified":1472621937,
+    "wof:lastmodified":1492089478,
     "wof:name":"Tobacco Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

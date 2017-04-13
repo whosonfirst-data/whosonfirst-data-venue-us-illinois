@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.665604,41.579328,-87.665604,41.579328",
     "geom:latitude":41.579328,
     "geom:longitude":-87.665604,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85867709,
+        102191575,
+        404497591,
         85633793,
         85940833,
         102084317,
-        85867709
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"42f17c5b906dca3248fa23a97b41bccb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497591,
             "locality_id":85940833,
             "neighbourhood_id":85867709,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":286890693,
-    "wof:lastmodified":1472621684,
+    "wof:lastmodified":1492092121,
     "wof:name":"Pro Dry Cleaners",
     "wof:parent_id":85867709,
     "wof:placetype":"venue",

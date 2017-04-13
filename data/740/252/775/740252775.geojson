@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.689377,41.998662,-88.689377,41.998662",
     "geom:latitude":41.998662,
     "geom:longitude":-88.689377,
@@ -50,7 +51,13 @@
         "salvage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497727,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HHi9dmXD50qCAVH3a8rSo_41.998662_-88.689377@1303262851"
@@ -58,9 +65,18 @@
     "wof:country":"US",
     "wof:created":1461953009,
     "wof:geomhash":"b530da63d99287d0b3c017d578f5f996",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497727,
+            "region_id":85688697,
+            "venue_id":740252775
+        }
+    ],
     "wof:id":740252775,
-    "wof:lastmodified":1472621993,
+    "wof:lastmodified":1492104243,
     "wof:name":"B & O Used Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

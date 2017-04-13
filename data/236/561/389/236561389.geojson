@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.955664,42.236845,-87.955664,42.236845",
     "geom:latitude":42.236845,
     "geom:longitude":-87.955664,
@@ -30,10 +31,13 @@
     "sg:website":"www.glacierskate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        420519111,
+        102191575,
+        404498363,
         85633793,
-        85938629,
-        102086215
+        85938333,
+        102086215,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"322eff84270c3a5b77180d2d2de8eabc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938629,
-            "neighbourhood_id":-1,
+            "localadmin_id":404498363,
+            "locality_id":85938333,
+            "neighbourhood_id":420519111,
             "region_id":85688697,
             "venue_id":236561389
         }
     ],
     "wof:id":236561389,
-    "wof:lastmodified":1472621726,
+    "wof:lastmodified":1492097067,
     "wof:name":"Glacier Ice Arena",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

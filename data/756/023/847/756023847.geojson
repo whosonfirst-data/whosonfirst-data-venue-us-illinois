@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.001183,41.67374,-88.001183,41.67374",
     "geom:latitude":41.67374,
     "geom:longitude":-88.001183,
@@ -31,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496275,
+        85633793,
+        85940207,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gO9y2l7Ym7YENUb6kbyKg_41.673740_-88.001183@1303262856"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461953884,
     "wof:geomhash":"d2dc6a8e234e6d1968bbfd893e78ebd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496275,
+            "locality_id":85940207,
+            "region_id":85688697,
+            "venue_id":756023847
+        }
+    ],
     "wof:id":756023847,
-    "wof:lastmodified":1472620799,
+    "wof:lastmodified":1492102257,
     "wof:name":"Avalon Db",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

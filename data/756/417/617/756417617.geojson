@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.839956,42.050381,-87.839956,42.050381",
     "geom:latitude":42.050381,
     "geom:longitude":-87.839956,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"http://www.northgatesport.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497631,
+        85633793,
+        85940773,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MkU41aOgTZPNZ9f96w66O_42.050381_-87.839956@1303262908"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461962716,
     "wof:geomhash":"98c00f7654f34e950a5646fddf1f8536",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497631,
+            "locality_id":85940773,
+            "region_id":85688697,
+            "venue_id":756417617
+        }
+    ],
     "wof:id":756417617,
-    "wof:lastmodified":1472622196,
+    "wof:lastmodified":1492104876,
     "wof:name":"Northgate Fashion Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

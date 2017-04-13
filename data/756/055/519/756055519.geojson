@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.070646,41.769907,-88.070646,41.769907",
     "geom:latitude":41.769907,
     "geom:longitude":-88.070646,
@@ -34,7 +35,10 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420518941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dbBIJ0osFytiHgq3q1Lnb_41.769907_-88.070646@1303262860"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461954553,
     "wof:geomhash":"53435abcc47f11cd39db90d81c3336e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420518941,
+            "venue_id":756055519
+        }
+    ],
     "wof:id":756055519,
-    "wof:lastmodified":1472621164,
+    "wof:lastmodified":1492099124,
     "wof:name":"Signature Room Grille",
     "wof:parent_id":420518941,
     "wof:placetype":"venue",

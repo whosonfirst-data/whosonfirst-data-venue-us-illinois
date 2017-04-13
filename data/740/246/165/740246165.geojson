@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.849602,41.902802,-87.849602,41.902802",
     "geom:latitude":41.902802,
     "geom:longitude":-87.849602,
@@ -33,7 +34,14 @@
     "sg:postcode":"60160",
     "sg:province":"IL",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940785,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7glysZ5hvV727KlagG9jBv_41.902802_-87.849602@1303262850"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952873,
     "wof:geomhash":"49d176c3703f1df6445824b9773d7c17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940785,
+            "region_id":85688697,
+            "venue_id":740246165
+        }
+    ],
     "wof:id":740246165,
-    "wof:lastmodified":1472621956,
+    "wof:lastmodified":1492097719,
     "wof:name":"Giacchino Joseph L MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

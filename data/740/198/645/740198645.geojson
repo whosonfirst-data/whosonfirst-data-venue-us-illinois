@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.01166,42.125563,-88.01166,42.125563",
     "geom:latitude":42.125563,
     "geom:longitude":-88.01166,
@@ -32,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497645,
+        85633793,
+        85938407,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NJDHTvbwntxA4ou0JgLSb_42.125563_-88.011660@1303262844"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461951823,
     "wof:geomhash":"1bf5fa095b38785c46db5ddc52f053d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497645,
+            "locality_id":85938407,
+            "region_id":85688697,
+            "venue_id":740198645
+        }
+    ],
     "wof:id":740198645,
-    "wof:lastmodified":1472621877,
+    "wof:lastmodified":1492091537,
     "wof:name":"Millennium Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

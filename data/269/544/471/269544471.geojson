@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.859719,41.936897,-87.859719,41.936897",
     "geom:latitude":41.936897,
     "geom:longitude":-87.859719,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688697,
+        102191575,
+        404497625,
         85633793,
-        85940195,
-        102084317,
-        85867815
+        85940843,
+        102084317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"512dacedea857287f3301cd0d4b4959c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
-            "locality_id":85940195,
-            "neighbourhood_id":85867815,
+            "localadmin_id":404497625,
+            "locality_id":85940843,
             "region_id":85688697,
             "venue_id":269544471
         }
     ],
     "wof:id":269544471,
-    "wof:lastmodified":1472620976,
+    "wof:lastmodified":1491897764,
     "wof:name":"Advanced Cabinets Inc",
-    "wof:parent_id":85867815,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

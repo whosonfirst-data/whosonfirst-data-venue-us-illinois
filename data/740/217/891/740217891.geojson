@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.109796,41.952975,-88.109796,41.952975",
     "geom:latitude":41.952975,
     "geom:longitude":-88.109796,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.pastabellapizza.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940173,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PQqEmVb1nw0bKCsUb7q4J_41.952975_-88.109796@1303262846"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461952251,
     "wof:geomhash":"68b7e6dd4a58f6e03fa4a308edb1c661",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940173,
+            "region_id":85688697,
+            "venue_id":740217891
+        }
+    ],
     "wof:id":740217891,
-    "wof:lastmodified":1472621939,
+    "wof:lastmodified":1492093783,
     "wof:name":"Pasta Bella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

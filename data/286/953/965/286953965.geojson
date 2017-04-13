@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.314861,41.77557,-88.314861,41.77557",
     "geom:latitude":41.77557,
     "geom:longitude":-88.314861,
@@ -29,11 +30,13 @@
     "sg:province":"IL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85876055,
+        102191575,
+        404498347,
         85633793,
         85940221,
         102086925,
-        85876055
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c6b6ea3f09cf37149c4b01f561bbdf15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498347,
             "locality_id":85940221,
             "neighbourhood_id":85876055,
             "region_id":85688697,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286953965,
-    "wof:lastmodified":1472621720,
+    "wof:lastmodified":1492103350,
     "wof:name":"J & J Fish",
     "wof:parent_id":85876055,
     "wof:placetype":"venue",

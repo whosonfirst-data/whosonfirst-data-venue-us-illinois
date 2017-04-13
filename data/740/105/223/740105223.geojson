@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.750682,42.124695,-88.750682,42.124695",
     "geom:latitude":42.124695,
     "geom:longitude":-88.750682,
@@ -27,7 +28,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497707,
+        85633793,
+        102082847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hRlTF3mEnZYYmhqk0JJSO_42.124695_-88.750682@1294102059"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461949727,
     "wof:geomhash":"8d732f2ffb0889113a5c7e1f93d797d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082847,
+            "localadmin_id":404497707,
+            "region_id":85688697,
+            "venue_id":740105223
+        }
+    ],
     "wof:id":740105223,
-    "wof:lastmodified":1472621050,
+    "wof:lastmodified":1492088570,
     "wof:name":"Nancy Corey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

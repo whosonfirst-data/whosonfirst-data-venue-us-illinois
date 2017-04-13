@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.123675,41.931593,-88.123675,41.931593",
     "geom:latitude":41.931593,
     "geom:longitude":-88.123675,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"www.pizzacarolstream.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        85940171,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qnXcscsbrPJb4TycAImsM_41.931593_-88.123675@1303262852"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461953153,
     "wof:geomhash":"62c0396a67d110b56fb2d489f3d52000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "locality_id":85940171,
+            "region_id":85688697,
+            "venue_id":740259971
+        }
+    ],
     "wof:id":740259971,
-    "wof:lastmodified":1472621992,
+    "wof:lastmodified":1492096455,
     "wof:name":"Baja Italiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

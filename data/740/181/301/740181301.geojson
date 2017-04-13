@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.239541,42.224585,-88.239541,42.224585",
     "geom:latitude":42.224585,
     "geom:longitude":-88.239541,
@@ -33,7 +34,14 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499077,
+        85633793,
+        85939013,
+        102081661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15gzv4lrMZg5ld9Ty2fmmh_42.224585_-88.239541@1303262841"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461951472,
     "wof:geomhash":"d82be38a53031b40e0296cc110133cdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081661,
+            "localadmin_id":404499077,
+            "locality_id":85939013,
+            "region_id":85688697,
+            "venue_id":740181301
+        }
+    ],
     "wof:id":740181301,
-    "wof:lastmodified":1472621834,
+    "wof:lastmodified":1492089542,
     "wof:name":"Moonlight Slumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.965459,42.275957,-87.965459,42.275957",
     "geom:latitude":42.275957,
     "geom:longitude":-87.965459,
@@ -33,10 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
         85633793,
-        85938341,
-        102086215
+        420519103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +45,15 @@
     "wof:geomhash":"8c92a067c0bd40bff6cecc25bc7b5f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086215,
-            "locality_id":85938341,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
+            "neighbourhood_id":420519103,
             "venue_id":253197971
         }
     ],
     "wof:id":253197971,
-    "wof:lastmodified":1472621267,
+    "wof:lastmodified":1492092928,
     "wof:name":"Bob Jackson Individual Income",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],

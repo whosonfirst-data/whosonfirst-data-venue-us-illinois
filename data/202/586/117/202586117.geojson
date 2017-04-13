@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.880036,42.458011,-87.880036,42.458011",
     "geom:latitude":42.458011,
     "geom:longitude":-87.880036,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85817271,
+        102191575,
+        404499871,
         85633793,
         85938617,
         102086215,
-        85817271
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4a3e13bf94d86e21e637445c24fd6b19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
+            "localadmin_id":404499871,
             "locality_id":85938617,
             "neighbourhood_id":85817271,
             "region_id":85688697,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202586117,
-    "wof:lastmodified":1472621111,
+    "wof:lastmodified":1492089097,
     "wof:name":"Allen Concrete Specialities",
     "wof:parent_id":85817271,
     "wof:placetype":"venue",

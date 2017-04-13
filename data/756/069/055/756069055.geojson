@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.448563,41.660972,-88.448563,41.660972",
     "geom:latitude":41.660972,
     "geom:longitude":-88.448563,
@@ -29,7 +30,14 @@
     "sg:province":"IL",
     "sg:website":"http://www.vwch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496559,
+        85633793,
+        85941075,
+        102083533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ddlCILiELprKb2Ib2x5Ss_41.660972_-88.448563@1303262862"
@@ -37,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1461954850,
     "wof:geomhash":"61ac7194bd0ade3e4e90b08e8354b25a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083533,
+            "localadmin_id":404496559,
+            "locality_id":85941075,
+            "region_id":85688697,
+            "venue_id":756069055
+        }
+    ],
     "wof:id":756069055,
-    "wof:lastmodified":1472621369,
+    "wof:lastmodified":1492107985,
     "wof:name":"Valley West Community Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.937303,41.916425,-87.937303,41.916425",
     "geom:latitude":41.916425,
     "geom:longitude":-87.937303,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890779,
+        102191575,
+        404497661,
         85633793,
         85940191,
         102081257,
-        85890779
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"6cb0711f620a52c08a04fbf1d23c5bd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497661,
             "locality_id":85940191,
             "neighbourhood_id":85890779,
             "region_id":85688697,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":270421891,
-    "wof:lastmodified":1472621475,
+    "wof:lastmodified":1492098374,
     "wof:name":"A Couple of Clowns",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",

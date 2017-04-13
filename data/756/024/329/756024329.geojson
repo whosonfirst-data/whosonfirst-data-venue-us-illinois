@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.095022,41.706678,-88.095022,41.706678",
     "geom:latitude":41.706678,
     "geom:longitude":-88.095022,
@@ -36,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499131,
+        85633793,
+        85940209,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B6CtHEROcRsLlejZOA2uu_41.706678_-88.095022@1303262856"
@@ -44,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461953893,
     "wof:geomhash":"95b1aa6acfdde74cb7e06aae51d82e2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499131,
+            "locality_id":85940209,
+            "region_id":85688697,
+            "venue_id":756024329
+        }
+    ],
     "wof:id":756024329,
-    "wof:lastmodified":1472620831,
+    "wof:lastmodified":1492089868,
     "wof:name":"R.E. C. Real Estate Development Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

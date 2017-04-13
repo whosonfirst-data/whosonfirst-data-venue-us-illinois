@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.035506,40.882463,-88.035506,40.882463",
     "geom:latitude":40.882463,
     "geom:longitude":-88.035506,
@@ -26,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498173,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iIfGlF6lPwJnwNWHoc2me_40.882463_-88.035506@1294102059"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461949729,
     "wof:geomhash":"0b17e11ce00e3f15c3dc3516056aba2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498173,
+            "region_id":85688697,
+            "venue_id":740105313
+        }
+    ],
     "wof:id":740105313,
-    "wof:lastmodified":1472621053,
+    "wof:lastmodified":1492093213,
     "wof:name":"Richard Schoolman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

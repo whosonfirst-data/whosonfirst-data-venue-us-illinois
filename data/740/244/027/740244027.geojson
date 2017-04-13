@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.882038,41.855012,-87.882038,41.855012",
     "geom:latitude":41.855012,
     "geom:longitude":-87.882038,
@@ -44,7 +45,14 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497579,
+        85633793,
+        85940923,
+        102084317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RzbBREeQzICriOSk4naxC_41.855012_-87.882038@1303262849"
@@ -52,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1461952831,
     "wof:geomhash":"5d3e35bddf286f529cfcad7ab04098aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940923,
+            "region_id":85688697,
+            "venue_id":740244027
+        }
+    ],
     "wof:id":740244027,
-    "wof:lastmodified":1472621955,
+    "wof:lastmodified":1492093525,
     "wof:name":"Alpha Montessori School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

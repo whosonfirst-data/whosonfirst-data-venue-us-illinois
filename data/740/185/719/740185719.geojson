@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.033218,42.346522,-88.033218,42.346522",
     "geom:latitude":42.346522,
     "geom:longitude":-88.033218,
@@ -40,11 +41,13 @@
     "sg:website":"http://www.dustbunnies-usa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +58,18 @@
     "wof:geomhash":"72b20d847864b868b76e4b1519557459",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740185719
         }
     ],
     "wof:id":740185719,
-    "wof:lastmodified":1472621849,
+    "wof:lastmodified":1492094879,
     "wof:name":"D's Dust Bunnies Inc.",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.062374,41.962414,-88.062374,41.962414",
     "geom:latitude":41.962414,
     "geom:longitude":-88.062374,
@@ -35,7 +36,13 @@
         "copyright"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497763,
+        85633793,
+        102081257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UKcuLvJ5BmiJsUgCbfG6z_41.962414_-88.062374@1303262850"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461952868,
     "wof:geomhash":"c865ab8ff11050dfaf513dc77e1eec16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497763,
+            "region_id":85688697,
+            "venue_id":740245873
+        }
+    ],
     "wof:id":740245873,
-    "wof:lastmodified":1472621986,
+    "wof:lastmodified":1492093393,
     "wof:name":"Euro Patent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

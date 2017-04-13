@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.291407,41.861714,-88.291407,41.861714",
     "geom:latitude":41.861714,
     "geom:longitude":-88.291407,
@@ -36,11 +37,13 @@
     "sg:website":"www.incontech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85858729,
+        102191575,
+        404498351,
         85633793,
         85940215,
         102086925,
-        85858729
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"1861c47174d3d8b019fefe56c2d30a2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404498351,
             "locality_id":85940215,
             "neighbourhood_id":85858729,
             "region_id":85688697,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":219799679,
-    "wof:lastmodified":1472621579,
+    "wof:lastmodified":1492087983,
     "wof:name":"Incon Technologies",
     "wof:parent_id":85858729,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.043758,42.355305,-88.043758,42.355305",
     "geom:latitude":42.355305,
     "geom:longitude":-88.043758,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85845811,
+        102191575,
+        404498451,
         85633793,
-        85938393,
+        85938261,
         102086215,
-        85845811
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +51,18 @@
     "wof:geomhash":"baa2a012cd67bf93e9a2f2c4844b9893",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086215,
-            "locality_id":85938393,
+            "localadmin_id":404498451,
+            "locality_id":85938261,
             "neighbourhood_id":85845811,
             "region_id":85688697,
             "venue_id":740185571
         }
     ],
     "wof:id":740185571,
-    "wof:lastmodified":1472621846,
+    "wof:lastmodified":1492094890,
     "wof:name":"Welmed Inc.",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",

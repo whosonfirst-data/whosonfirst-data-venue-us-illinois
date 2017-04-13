@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.200819,41.882774,-88.200819,41.882774",
     "geom:latitude":41.882774,
     "geom:longitude":-88.200819,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890997,
+        102191575,
+        404497659,
         85633793,
         85940143,
         102081257,
-        85890997
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"f8a4433c24d8ff67f7a9c75b16d7e2ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081257,
+            "localadmin_id":404497659,
             "locality_id":85940143,
             "neighbourhood_id":85890997,
             "region_id":85688697,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":219971787,
-    "wof:lastmodified":1472621642,
+    "wof:lastmodified":1492089605,
     "wof:name":"Mary Christopher & Associates",
     "wof:parent_id":85890997,
     "wof:placetype":"venue",
