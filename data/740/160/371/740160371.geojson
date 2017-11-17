@@ -7,6 +7,7 @@
     "addr:postcode":"60613",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.64838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3702 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950981,
-    "wof:geomhash":"6ea80e8c62f4dfd42bc0172660e0b1d8",
+    "wof:geomhash":"299748d4b3d597aa6d652ac9b1070015",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":740160371,
-    "wof:lastmodified":1491372831,
+    "wof:lastmodified":1510941768,
     "wof:name":"Panino's Pizzeria",
     "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756210965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

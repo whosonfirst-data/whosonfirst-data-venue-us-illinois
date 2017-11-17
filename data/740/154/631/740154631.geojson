@@ -7,13 +7,16 @@
     "addr:postcode":"60202",
     "addr:street":"Howard St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68787,42.019662,-87.68787,42.019662",
     "geom:latitude":42.019662,
     "geom:longitude":-87.68787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1117 Howard St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950860,
-    "wof:geomhash":"1a5a56ef0f80760147b6b3dc08867ae0",
+    "wof:geomhash":"cb42e2d4f62348d1d802a376cea89eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":740154631,
-    "wof:lastmodified":1472621767,
+    "wof:lastmodified":1510942875,
     "wof:name":"McDonald's",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236582653
+    ],
+    "wof:supersedes":[
+        236582653
+    ],
     "wof:tags":[
         "burger",
         "american"

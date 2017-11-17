@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"N Michigan Ave Suite 2600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 N Michigan Ave Suite 2600",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954961,
-    "wof:geomhash":"99aeb113f86dbac3f807897bdb981e26",
+    "wof:geomhash":"13e298a86a40e8a95ed2a6c81f878b6a",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756074849,
-    "wof:lastmodified":1491593844,
+    "wof:lastmodified":1510941260,
     "wof:name":"Sawyier & Williams LLP",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756084477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

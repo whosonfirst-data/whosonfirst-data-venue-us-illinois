@@ -7,6 +7,7 @@
     "addr:postcode":"60134",
     "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.308863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"477 S 3rd St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
         "sg:id":"SG_1jM83v9LPraAVf79wwxQlC_41.883528_-88.308863@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9b2eb936a55a868099f8a7a204ce87f",
+    "wof:geomhash":"b53372de7be4ad1bc0e26c8c7f02012b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":236462827,
-    "wof:lastmodified":1492093397,
+    "wof:lastmodified":1510942806,
     "wof:name":"Michaelangelo's Deli",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740231899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"

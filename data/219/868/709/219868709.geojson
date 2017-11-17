@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Ashland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.668461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2834 N Ashland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_3EUi7I5a73bNv3mbwDPEtq_41.934226_-87.668461@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c576a2c6e976f4d66a203d083452516",
+    "wof:geomhash":"79ae8d2092c1719bbdcc3fc8a02a3b75",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":219868709,
-    "wof:lastmodified":1491366720,
+    "wof:lastmodified":1510942181,
     "wof:name":"McDonalds",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756393433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

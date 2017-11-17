@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.62424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nordstrom - The Shops at North Bridge 520 N Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957402,
-    "wof:geomhash":"8d8013b1d4852358b0be8c4e5165947a",
+    "wof:geomhash":"a74bc88dc64a7f453065ebca7766e427",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":756183839,
-    "wof:lastmodified":1491369192,
+    "wof:lastmodified":1510943153,
     "wof:name":"Cafe Nordstrom",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756410113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60007",
     "addr:street":"Midway Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.964075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 Midway Ct",
     "sg:city":"Elk Grove Village",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_3KmVbOFiAwnKun1VYmuvVV_42.025510_-87.964075@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b3f51dcde63e7373d1f4efcf851153a",
+    "wof:geomhash":"bb938d7b6a8c1c437df67e79306e30dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":270144005,
-    "wof:lastmodified":1492105827,
+    "wof:lastmodified":1510942441,
     "wof:name":"Aries International Inc",
     "wof:parent_id":85890725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219890563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"

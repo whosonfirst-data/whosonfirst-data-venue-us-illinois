@@ -7,6 +7,7 @@
     "addr:postcode":"60638",
     "addr:street":"W Archer Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.795564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6944 W Archer Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960600,
-    "wof:geomhash":"03b119d14a4eac62dbe22d0ad4335301",
+    "wof:geomhash":"f0ebf384982294c69d29993160fbde5b",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":756323729,
-    "wof:lastmodified":1491370277,
+    "wof:lastmodified":1510942370,
     "wof:name":"Taco Bell",
     "wof:parent_id":85869271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740162435
+    ],
+    "wof:supersedes":[
+        740162435
+    ],
     "wof:tags":[
         "mexican"
     ]

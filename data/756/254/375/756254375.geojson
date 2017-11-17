@@ -7,6 +7,7 @@
     "addr:postcode":"60620",
     "addr:street":"S Lafayette Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.625603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8522 S Lafayette Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959021,
-    "wof:geomhash":"c9f0b5e0e1a4a54776d3662432dc5e26",
+    "wof:geomhash":"8229619f795305af28827c3c4b6a2fba",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756254375,
-    "wof:lastmodified":1491372475,
+    "wof:lastmodified":1510943655,
     "wof:name":"Soft Sheen-Carson",
     "wof:parent_id":1024496979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756254909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"

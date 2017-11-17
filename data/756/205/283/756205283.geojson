@@ -7,6 +7,7 @@
     "addr:postcode":"60612",
     "addr:street":"S California Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.69616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"338 S California Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957914,
-    "wof:geomhash":"5ac640023b738e42390b34dd4c3a5ef1",
+    "wof:geomhash":"3b516b06bf3c9cd5ba1f89620b7d2097",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756205283,
-    "wof:lastmodified":1491369219,
+    "wof:lastmodified":1510941878,
     "wof:name":"Shark's Fish and Chicken",
     "wof:parent_id":85866927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756204573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

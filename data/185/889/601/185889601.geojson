@@ -7,13 +7,16 @@
     "addr:postcode":"62801",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.148726,38.529584,-89.148726,38.529584",
     "geom:latitude":38.529584,
     "geom:longitude":-89.148726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"920 W Broadway",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -49,10 +52,11 @@
     "wof:brand_id":420573903,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":190785788,
         "sg:id":"SG_5fD47NCysO2d7fHMjpMAm4_38.529584_-89.148726@1303262923"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bf4858803b5f9ced0ddd9f788da6d1f",
+    "wof:geomhash":"28e1a89f100e1b37828c6da9e9077525",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,13 +69,17 @@
         }
     ],
     "wof:id":185889601,
-    "wof:lastmodified":1472621003,
+    "wof:lastmodified":1510943456,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286509041
+    ],
+    "wof:supersedes":[
+        286509041
+    ],
     "wof:tags":[
         "american",
         "hot",

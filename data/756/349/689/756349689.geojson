@@ -7,6 +7,7 @@
     "addr:postcode":"60643",
     "addr:street":"S Western Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.681854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9956 S Western Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961167,
-    "wof:geomhash":"345bc9c11b393247157363617fece6cf",
+    "wof:geomhash":"4236d4883720796c41a2f15267ec7da2",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756349689,
-    "wof:lastmodified":1491372142,
+    "wof:lastmodified":1510942891,
     "wof:name":"Beverly Pizza House",
     "wof:parent_id":420783627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756347563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

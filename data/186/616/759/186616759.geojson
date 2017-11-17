@@ -7,6 +7,7 @@
     "addr:postcode":"60301",
     "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.800929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1011 Lake St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_0L1WeV80FgSvLPGzgr168R_41.888583_-87.800929@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5cbb4c60d72011a47eea0772a24102b",
+    "wof:geomhash":"5ff6a9e93466f7342f4dc85a465f61a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":186616759,
-    "wof:lastmodified":1492103153,
+    "wof:lastmodified":1510942141,
     "wof:name":"Mount Sinai Medical Group",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740267249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

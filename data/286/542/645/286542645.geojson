@@ -7,13 +7,16 @@
     "addr:postcode":"60060",
     "addr:street":"W Maple Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.021566,42.275815,-88.021566,42.275815",
     "geom:latitude":42.275815,
     "geom:longitude":-88.021566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1186 W Maple Ave",
     "sg:city":"Mundelein",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_11IsoPcVUXMOxohegB6Hd5_42.275815_-88.021566@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa3ae8818955ca2e656c94d6460a48f2",
+    "wof:geomhash":"0e16d854ccf8227334c0adbc61ae715a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":286542645,
-    "wof:lastmodified":1472621444,
+    "wof:lastmodified":1510941991,
     "wof:name":"Wendys",
     "wof:parent_id":85890821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740193465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

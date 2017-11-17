@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Fullerton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.661893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1335 W Fullerton Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958073,
-    "wof:geomhash":"c5d1a16dd47fa777153952ca472f2553",
+    "wof:geomhash":"cfd1c41f32c871fa412c5a8b541030f3",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756212737,
-    "wof:lastmodified":1491372487,
+    "wof:lastmodified":1510942478,
     "wof:name":"L A Tan",
     "wof:parent_id":1024496983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756218309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

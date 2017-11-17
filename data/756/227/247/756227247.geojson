@@ -7,6 +7,7 @@
     "addr:postcode":"60616",
     "addr:street":"S State Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Illinois Institute of Technology 3201 S State Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958394,
-    "wof:geomhash":"c9588efdceef0996d60cd83c38111f0d",
+    "wof:geomhash":"6994954265ded1ab13e243926e7c9af8",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756227247,
-    "wof:lastmodified":1491369646,
+    "wof:lastmodified":1510941354,
     "wof:name":"Pritzker Club",
     "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756227791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

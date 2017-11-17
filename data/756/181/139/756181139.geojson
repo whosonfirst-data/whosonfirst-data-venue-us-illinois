@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"N Clark Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.631006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"321 N Clark Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957305,
-    "wof:geomhash":"1b04564711568aa3429bc582b39de559",
+    "wof:geomhash":"fb88c2bcc257bce99cd5646ddad75e63",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756181139,
-    "wof:lastmodified":1491367789,
+    "wof:lastmodified":1510942202,
     "wof:name":"Spathis George J",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756381221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

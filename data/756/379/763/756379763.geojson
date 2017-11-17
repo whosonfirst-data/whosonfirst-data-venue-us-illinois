@@ -7,6 +7,7 @@
     "addr:postcode":"60654",
     "addr:street":"W Grand Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.634254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"213 W Grand Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961843,
-    "wof:geomhash":"738922fc688d85603e202d3983a0040b",
+    "wof:geomhash":"c55642543a511fb191ad3e7bda9ef8a5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":756379763,
-    "wof:lastmodified":1491372765,
+    "wof:lastmodified":1510942842,
     "wof:name":"Binny's Beverage Depot",
     "wof:parent_id":957760607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756180717
+    ],
+    "wof:supersedes":[
+        756180717
+    ],
     "wof:tags":[]
 },
   "bbox": [

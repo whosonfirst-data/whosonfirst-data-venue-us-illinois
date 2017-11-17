@@ -7,6 +7,7 @@
     "addr:postcode":"60603",
     "addr:street":"S Wabash Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19 S Wabash Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955723,
-    "wof:geomhash":"4a029fb11022e0948e5adb7fbcef0d41",
+    "wof:geomhash":"efc48ecad853b2213126998f724a1efe",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":756109045,
-    "wof:lastmodified":1491593616,
+    "wof:lastmodified":1510943923,
     "wof:name":"Iwan Ries & Co",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756111921
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cigar",

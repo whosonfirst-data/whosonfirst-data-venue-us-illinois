@@ -7,6 +7,7 @@
     "addr:postcode":"60656",
     "addr:street":"N Harlem Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.807057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5472 N Harlem Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_1VsNSLR8vhGE6AM5d3hkHS_41.979409_-87.807057@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b15dee0179636abe79c20b7ba4f4de0a",
+    "wof:geomhash":"1b0df987c10226e1d3f49cfd9f23d2ca",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":286756531,
-    "wof:lastmodified":1491372672,
+    "wof:lastmodified":1510941701,
     "wof:name":"Wendys",
     "wof:parent_id":1024497007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756383487
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

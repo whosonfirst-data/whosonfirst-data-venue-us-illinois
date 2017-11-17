@@ -7,6 +7,7 @@
     "addr:postcode":"60624",
     "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.727699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4048 W Madison St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959617,
-    "wof:geomhash":"c433f627271db4c73169468db00bf080",
+    "wof:geomhash":"6195ae1edcd870922fc0e0bdd53f8929",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756276177,
-    "wof:lastmodified":1491370951,
+    "wof:lastmodified":1510944047,
     "wof:name":"McDonald's",
     "wof:parent_id":420518823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756275863
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"

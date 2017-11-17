@@ -7,6 +7,7 @@
     "addr:postcode":"60620",
     "addr:street":"W 79Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.671303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1914 W 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -36,11 +38,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":209633474,
         "sg:id":"SG_2LXQNaD0zFjQfO1TCHrYwn_41.750246_-87.671303@1303262886"
     },
     "wof:country":"US",
     "wof:created":1461959091,
-    "wof:geomhash":"7a75fb8034c3585bdf5f9b809e3b4b65",
+    "wof:geomhash":"dd854de592e7d1a357b7136e143bae90",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":756257637,
-    "wof:lastmodified":1491370142,
+    "wof:lastmodified":1510943653,
     "wof:name":"KFC",
     "wof:parent_id":85869095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756255811
+    ],
+    "wof:supersedes":[
+        756255811
+    ],
     "wof:tags":[]
 },
   "bbox": [

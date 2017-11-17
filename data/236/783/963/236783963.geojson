@@ -7,6 +7,7 @@
     "addr:postcode":"60120",
     "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.259777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"860 Summit St",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6yjd7KIZ5gWbgY6Am3Otht_42.046475_-88.259777@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1b14e4b906b3bf229e085ca43f0aed6",
+    "wof:geomhash":"747e7dd33d2c9c4334b7bf0ac4adc5da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":236783963,
-    "wof:lastmodified":1492104424,
+    "wof:lastmodified":1510941823,
     "wof:name":"Elgin Dental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740224399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Fullerton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.671554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1745 W Fullerton Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958126,
-    "wof:geomhash":"00cf2f63c6ff37c24db8fec7f598e9bd",
+    "wof:geomhash":"3ef0248f60f9284792ad070ec717f1d2",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756214739,
-    "wof:lastmodified":1491372504,
+    "wof:lastmodified":1510942105,
     "wof:name":"T.J. Maxx",
     "wof:parent_id":1024496983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756220925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

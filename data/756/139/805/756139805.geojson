@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"N Wacker Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.636998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"180 N Wacker Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -80,7 +82,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956384,
-    "wof:geomhash":"61a1b73eb3c29829517ac83028a5536b",
+    "wof:geomhash":"69a1d70273d83ac95863b566b9ead3c0",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -95,12 +97,14 @@
         }
     ],
     "wof:id":756139805,
-    "wof:lastmodified":1491600551,
+    "wof:lastmodified":1510943053,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756133891
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lettering",

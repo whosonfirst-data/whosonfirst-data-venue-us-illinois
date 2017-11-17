@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E Erie Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.621308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"259 E Erie Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957592,
-    "wof:geomhash":"99a2fdc1b7e34bdc6e80ce54d99c10f2",
+    "wof:geomhash":"ef953393f9686a19eccb303c8f8040d0",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756191341,
-    "wof:lastmodified":1491368385,
+    "wof:lastmodified":1510942839,
     "wof:name":"Northwestern Memorial Hospital",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756198579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

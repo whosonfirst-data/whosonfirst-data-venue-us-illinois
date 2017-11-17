@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"E Wacker Dr Ste 23",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.623596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 E Wacker Dr Ste 23",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955137,
-    "wof:geomhash":"5b1d51a0f66465711f22c66b7b84d638",
+    "wof:geomhash":"cad93a15aaf4969e9427f919a8333fca",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756083131,
-    "wof:lastmodified":1491594290,
+    "wof:lastmodified":1510941751,
     "wof:name":"One Illinois Center Dental Assocs",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756083517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60612",
     "addr:street":"W Harrison Street Suite 717",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.669987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1725 W Harrison Street Suite 717",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957827,
-    "wof:geomhash":"8bf12ea695aa601c9e08eefebc36ddb7",
+    "wof:geomhash":"6660ba0f9cec5a02e9b24ae6b76b461a",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756201913,
-    "wof:lastmodified":1491371042,
+    "wof:lastmodified":1510943721,
     "wof:name":"Dental Group Ltd",
     "wof:parent_id":420518855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756204181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

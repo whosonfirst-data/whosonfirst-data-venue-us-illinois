@@ -7,6 +7,7 @@
     "addr:postcode":"60154",
     "addr:street":"31St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.900166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11110 31st St",
     "sg:city":"Westchester",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_2vT7bak8Rx7bTymcrrnMpW_41.833619_-87.900166@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"62e833fec554f0a9511d59c4d56b0da3",
+    "wof:geomhash":"5b1201efcd5341a6612dfaea7609bf2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":286472471,
-    "wof:lastmodified":1492091738,
+    "wof:lastmodified":1510942056,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740152587
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,6 +7,7 @@
     "addr:postcode":"60613",
     "addr:street":"N Southport Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.663875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3811 N Southport Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950984,
-    "wof:geomhash":"b585fdcf058ee26ee5d80d8d1c239356",
+    "wof:geomhash":"bef06c2347d2c4600357e0d27e09a563",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":740160485,
-    "wof:lastmodified":1491366781,
+    "wof:lastmodified":1510941558,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756209451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

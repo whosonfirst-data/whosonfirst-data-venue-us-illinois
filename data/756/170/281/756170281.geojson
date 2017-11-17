@@ -7,6 +7,7 @@
     "addr:postcode":"60609",
     "addr:street":"W 43Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.653096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1104 W 43rd St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957077,
-    "wof:geomhash":"25c2f4a0775755d981df2656c5682572",
+    "wof:geomhash":"0929ba5b13f8da10f2b3ef8fb3d6f84e",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":756170281,
-    "wof:lastmodified":1491372816,
+    "wof:lastmodified":1510941396,
     "wof:name":"Luster Products, Inc.",
     "wof:parent_id":957777805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756170477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

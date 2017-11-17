@@ -7,13 +7,16 @@
     "addr:postcode":"62801",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.146977,38.529488,-89.146977,38.529488",
     "geom:latitude":38.529488,
     "geom:longitude":-89.146977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"750 W Broadway",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4x3Igtc5wFW41XTktazEaC_38.529488_-89.146977@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"452e37913ff3149e912d719f483ae199",
+    "wof:geomhash":"1775d13a9e9e7bbbaa25a32ac4ad7dc1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":202713753,
-    "wof:lastmodified":1472621229,
+    "wof:lastmodified":1510942168,
     "wof:name":"Hardees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740177041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

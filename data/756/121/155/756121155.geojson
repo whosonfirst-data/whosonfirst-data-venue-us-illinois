@@ -15,6 +15,7 @@
     "geom:longitude":-87.626873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 E Jackson Blvd Rm 1750",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":28292665,
         "sg:id":"SG_5hjVWfAbLkwyXuWvHxoxFX_41.878223_-87.626873@1303262868"
     },
     "wof:country":"US",
     "wof:created":1461955980,
-    "wof:geomhash":"5d7461404b581aa2bebe54d916cba648",
+    "wof:geomhash":"5190d76f61738f5807dc28542e26927d",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":756121155,
-    "wof:lastmodified":1491367175,
+    "wof:lastmodified":1510942474,
     "wof:name":"De Paul University",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756119005
+    ],
     "wof:tags":[
         "college"
     ]

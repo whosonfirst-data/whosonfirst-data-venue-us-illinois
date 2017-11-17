@@ -7,13 +7,16 @@
     "addr:postcode":"60455",
     "addr:street":"S Harlem Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.798834,41.728037,-87.798834,41.728037",
     "geom:latitude":41.728037,
     "geom:longitude":-87.798834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8944 S Harlem Ave",
     "sg:city":"Bridgeview",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2WGwAc6DUC3HIvMppxRrhH_41.728037_-87.798834@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"50d4adfd6c131206215f3a8069d87c5d",
+    "wof:geomhash":"c111641b060c6797b3eb3af9817eaf85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":253109405,
-    "wof:lastmodified":1472621042,
+    "wof:lastmodified":1510942759,
     "wof:name":"KFC",
     "wof:parent_id":85890747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756036969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

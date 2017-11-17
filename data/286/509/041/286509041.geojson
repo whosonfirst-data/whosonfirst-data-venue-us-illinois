@@ -7,13 +7,16 @@
     "addr:postcode":"62801",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.147747,38.529524,-89.147747,38.529524",
     "geom:latitude":38.529524,
     "geom:longitude":-89.147747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"920 W Broadway",
     "sg:city":"Centralia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1G1DYs6kRltcb2OIYM1jXj_38.529524_-89.147747@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fa14f0520859e399f2b03256f1b5611",
+    "wof:geomhash":"c1f0fec01ce91416e847ecf762ad732b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":286509041,
-    "wof:lastmodified":1472621381,
+    "wof:lastmodified":1510943456,
     "wof:name":"Wendys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185889601
+    ],
+    "wof:supersedes":[
+        185889601
+    ],
     "wof:tags":[
         "eating"
     ]

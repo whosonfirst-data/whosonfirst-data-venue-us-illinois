@@ -7,13 +7,16 @@
     "addr:postcode":"61820",
     "addr:street":"N Prospect Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.257894,40.130814,-88.257894,40.130814",
     "geom:latitude":40.130814,
     "geom:longitude":-88.257894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1502 N Prospect Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -42,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":244908507,
         "sg:id":"SG_7jLjHCd1QoutwUyYAI9cZn_40.130814_-88.257894@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461951191,
-    "wof:geomhash":"6674124d5a7a078ee597dc67ab7464d7",
+    "wof:geomhash":"cbb5bfb5ca5331f55180248124abdae8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +62,17 @@
         }
     ],
     "wof:id":740168803,
-    "wof:lastmodified":1472621834,
+    "wof:lastmodified":1510943327,
     "wof:name":"Arby's",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219943075
+    ],
+    "wof:supersedes":[
+        219943075
+    ],
     "wof:tags":[
         "burger",
         "american"

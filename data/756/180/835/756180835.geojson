@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"W Chestnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.62825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 W Chestnut St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957299,
-    "wof:geomhash":"c76ef28194d6be692f8fcad214fd1a18",
+    "wof:geomhash":"7abd22f679b823cc4f775b9e3acefa3d",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756180835,
-    "wof:lastmodified":1491367799,
+    "wof:lastmodified":1510941918,
     "wof:name":"Harry's Gold Coast Shoe Repair",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756377661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60805",
     "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.688698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2707 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_2Ti0YLCrwGBnpvA4DSJxv2_41.720876_-87.688698@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"959b059641f3e172fcf5657994e99af9",
+    "wof:geomhash":"c5f3e8d1fce5a3f2ea094a31f64892c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":203092797,
-    "wof:lastmodified":1492104260,
+    "wof:lastmodified":1510941738,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756423647
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"

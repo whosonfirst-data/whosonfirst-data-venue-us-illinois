@@ -7,13 +7,16 @@
     "addr:postcode":"61283",
     "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.788648,41.631291,-89.788648,41.631291",
     "geom:latitude":41.631291,
     "geom:longitude":-89.788648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 W Market St",
     "sg:city":"Tampico",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5MTe68x4nY4Wp16cCubJkq_41.631291_-89.788648@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf4a7845c03df3585a4367668dbb0f2b",
+    "wof:geomhash":"3e217a4308370c5ffe6ec0e62b3d5aa4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":270265787,
-    "wof:lastmodified":1472621338,
+    "wof:lastmodified":1510944149,
     "wof:name":"Poppy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269869381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

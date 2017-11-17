@@ -7,13 +7,16 @@
     "addr:postcode":"61520",
     "addr:street":"E Sycamore St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.033572,40.566353,-90.033572,40.566353",
     "geom:latitude":40.566353,
     "geom:longitude":-90.033572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10 E Sycamore St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3pznRqutdcujTcQEcn2Pau_40.566353_-90.033572@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"53fec13bdba326ec98ffa41f658c65c7",
+    "wof:geomhash":"a09ade8b1429a291f73ff9efde7d8af0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":286653667,
-    "wof:lastmodified":1472621561,
+    "wof:lastmodified":1510944070,
     "wof:name":"McDonalds",
     "wof:parent_id":85867845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740167009
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

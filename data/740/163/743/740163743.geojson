@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Clark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.652796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3335 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951072,
-    "wof:geomhash":"21da8262651d1d6f212d6a430161bef0",
+    "wof:geomhash":"8d8ef247b016b8d8455f0d622591c133",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740163743,
-    "wof:lastmodified":1491366807,
+    "wof:lastmodified":1510942188,
     "wof:name":"El Jardin Restaurant",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756390385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

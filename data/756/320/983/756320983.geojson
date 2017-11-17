@@ -7,6 +7,7 @@
     "addr:postcode":"60638",
     "addr:street":"S Cicero Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.742206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6430 S Cicero Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":162230011,
         "sg:id":"SG_1in1ZqsodgQolP9pQQ98Lv_41.775094_-87.742206@1303262895"
     },
     "wof:country":"US",
     "wof:created":1461960539,
-    "wof:geomhash":"94786b9ef89b42457350071ec45e48cc",
+    "wof:geomhash":"0ce182af8aaceda363f6d8e78aef4ca9",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":756320983,
-    "wof:lastmodified":1491372229,
+    "wof:lastmodified":1510943740,
     "wof:name":"McDonald's",
     "wof:parent_id":1024496903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756322493
+    ],
+    "wof:supersedes":[
+        756322493
+    ],
     "wof:tags":[]
 },
   "bbox": [

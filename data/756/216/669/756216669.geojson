@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.628325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"626 N State St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2622823033,
         "sg:id":"SG_5nLdMGT2RwvSBAfNjsEO2i_41.893433_-87.628325@1303262881"
     },
     "wof:country":"US",
     "wof:created":1461958163,
-    "wof:geomhash":"48498d10028f7588a5e94a3c9bd06f39",
+    "wof:geomhash":"61121e111a4cc27196bb29b4fcc9e12a",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -71,13 +74,17 @@
         }
     ],
     "wof:id":756216669,
-    "wof:lastmodified":1491367785,
+    "wof:lastmodified":1510943318,
     "wof:name":"Quartino",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756381131
+    ],
+    "wof:supersedes":[
+        756381131
+    ],
     "wof:tags":[
         "tapa",
         "italian",

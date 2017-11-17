@@ -7,13 +7,16 @@
     "addr:postcode":"62234",
     "addr:street":"Eastport Plaza Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.011101,38.684101,-90.011101,38.684101",
     "geom:latitude":38.684101,
     "geom:longitude":-90.011101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8 Eastport Plaza Dr",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1EkCjSFerNak4tghuNoIrO_38.684101_-90.011101@1303262920"
     },
     "wof:country":"US",
-    "wof:geomhash":"266b6393fa12142a9caec76e09be6950",
+    "wof:geomhash":"0ce15101eecaab496e9db30f2783afa8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169861135,
-    "wof:lastmodified":1472620914,
+    "wof:lastmodified":1510943966,
     "wof:name":"Zapata's Mexican Restaurant",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169862241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

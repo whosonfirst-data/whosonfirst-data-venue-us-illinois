@@ -7,13 +7,16 @@
     "addr:postcode":"2260;63101",
     "addr:street":"Olive St Ste",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.192076,38.628421,-90.192076,38.628421",
     "geom:latitude":38.628421,
     "geom:longitude":-90.192076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 Olive St, Ste 2260",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_12ZwlmxYxrv5hkP06ewkUT_38.628421_-90.192076@1303262926"
     },
     "wof:country":"US",
-    "wof:geomhash":"309513644be6dfc78175c909b8453348",
+    "wof:geomhash":"97555f8e34ad71395925e799ee93eea7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":186221435,
-    "wof:lastmodified":1472620914,
+    "wof:lastmodified":1510942828,
     "wof:name":"Faerber & Anderson, PC",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790577643
+    ],
+    "wof:supersedes":[
+        186214709
+    ],
     "wof:tags":[
         "personal",
         "injury"

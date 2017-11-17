@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"W Randolph St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.63092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 W Randolph St 4-300",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954935,
-    "wof:geomhash":"f737cec12991034c978357c3b2cf87cb",
+    "wof:geomhash":"fc2d33676e68c9c8f252672a029f1ced",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,13 +66,17 @@
         }
     ],
     "wof:id":756073491,
-    "wof:lastmodified":1491600547,
+    "wof:lastmodified":1510944004,
     "wof:name":"James R Thompson Center",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756086855
+    ],
+    "wof:supersedes":[
+        756086855
+    ],
     "wof:tags":[
         "government-state"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"60603",
     "addr:street":"S La Salle St Ste 260",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.632279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"135 S La Salle St Ste 260",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1631359640,
         "sg:id":"SG_0Q3INAg0MGnTd3ADMaCkpI_41.880369_-87.632279@1303262868"
     },
     "wof:country":"US",
     "wof:created":1461955881,
-    "wof:geomhash":"0b750158c6968caa5111e0dc0a9af01b",
+    "wof:geomhash":"5e567a975d0c225d1375e3edab88400e",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -70,13 +73,17 @@
         }
     ],
     "wof:id":756116767,
-    "wof:lastmodified":1491367727,
+    "wof:lastmodified":1510943972,
     "wof:name":"Bank of America",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756116385
+    ],
+    "wof:supersedes":[
+        756116385
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

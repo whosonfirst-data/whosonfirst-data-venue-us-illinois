@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"W Chicago Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.636174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"324 W Chicago Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957202,
-    "wof:geomhash":"2a5fe740333f5c02270d3ab0ce3dfb2e",
+    "wof:geomhash":"8dd5a76bf22456261a57453c4db12907",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756175917,
-    "wof:lastmodified":1491367794,
+    "wof:lastmodified":1510943922,
     "wof:name":"Climax Lounge",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756376313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"

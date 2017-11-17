@@ -7,13 +7,16 @@
     "addr:postcode":"60477",
     "addr:street":"Sayre Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.788356,41.559367,-87.788356,41.559367",
     "geom:latitude":41.559367,
     "geom:longitude":-87.788356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18248 Sayre Ave",
     "sg:city":"Tinley Park",
     "sg:classifiers":[
@@ -36,10 +39,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":102923782,
         "sg:id":"SG_5Kb6XAmW5UCjDrK1ffvwK5_41.559367_-87.788356@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"eac2bf34bfa41b77851d1ef3abf736bb",
+    "wof:geomhash":"31a2bdb6ccdba1e56cfe4ab93c1daa9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":286657779,
-    "wof:lastmodified":1472621557,
+    "wof:lastmodified":1510943632,
     "wof:name":"Culvers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740175195
+    ],
+    "wof:supersedes":[
+        740175195
+    ],
     "wof:tags":[]
 },
   "bbox": [

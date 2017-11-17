@@ -7,6 +7,7 @@
     "addr:postcode":"60604",
     "addr:street":"E. Jackson Blvd. Suite 2150",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"55 E. Jackson Blvd. Suite 2150",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956001,
-    "wof:geomhash":"9dd0f43e423ecdd9411cbac237dabb84",
+    "wof:geomhash":"38bf2c811064872664f962e2762afb2f",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756122261,
-    "wof:lastmodified":1491367237,
+    "wof:lastmodified":1510941826,
     "wof:name":"First Associates, Ltd.",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756123585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

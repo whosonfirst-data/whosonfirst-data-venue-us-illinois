@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"S State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.627184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1906 S State St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956171,
-    "wof:geomhash":"06927ff5d1cdc40df7f9f75fb4d551b0",
+    "wof:geomhash":"4dcccbf39a617be1bdc2f12fd540d7e8",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756130085,
-    "wof:lastmodified":1491368246,
+    "wof:lastmodified":1510942554,
     "wof:name":"Opart Thai House",
     "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756232869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"

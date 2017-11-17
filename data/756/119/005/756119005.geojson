@@ -7,6 +7,7 @@
     "addr:postcode":"60604",
     "addr:street":"E Jackson Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25 E Jackson Boulevard",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955932,
-    "wof:geomhash":"ff7289a0e599d14c601838e898bec553",
+    "wof:geomhash":"90e5cb3eeab3f92ba2a0d27f1f48a3ea",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756119005,
-    "wof:lastmodified":1491367156,
+    "wof:lastmodified":1510942474,
     "wof:name":"Depaul University",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756121155
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

@@ -7,6 +7,7 @@
     "addr:postcode":"60604",
     "addr:street":"S Michigan Ave Ste 300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"332 S Michigan Ave Ste 300",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955940,
-    "wof:geomhash":"b4b38e0951bf43ed1f7c5a513a127ac0",
+    "wof:geomhash":"134dadbb1891df5f87def7e5a8c2bba5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756119401,
-    "wof:lastmodified":1491366964,
+    "wof:lastmodified":1510943687,
     "wof:name":"American Academy of Art.",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756124005
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

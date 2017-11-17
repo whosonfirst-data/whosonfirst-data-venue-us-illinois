@@ -7,13 +7,16 @@
     "addr:postcode":"61820",
     "addr:street":"N Prospect Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.257903,40.132125,-88.257903,40.132125",
     "geom:latitude":40.132125,
     "geom:longitude":-88.257903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1502 N Prospect Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3QUfRZkDrWqMt9HOhwbsvc_40.132125_-88.257903@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9eae68982fdb5bd8fc96eb9721fadf1",
+    "wof:geomhash":"2775d363012c60e58ce05fd3a630d03a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":219943075,
-    "wof:lastmodified":1472621604,
+    "wof:lastmodified":1510943327,
     "wof:name":"Arbys",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740168803
+    ],
+    "wof:supersedes":[
+        740168803
+    ],
     "wof:tags":[
         "eating"
     ]

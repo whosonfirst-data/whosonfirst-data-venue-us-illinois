@@ -7,13 +7,16 @@
     "addr:postcode":"61821",
     "addr:street":"W Kirby Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.294517,40.098375,-88.294517,40.098375",
     "geom:latitude":40.098375,
     "geom:longitude":-88.294517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2909 W Kirby Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3tjgmSryXzoAnjWUivACOQ_40.098375_-88.294517@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a5cce6b031687c474ea71a88664aed9",
+    "wof:geomhash":"a8c6137670eacd6a6afe189904d3d76c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236297435,
-    "wof:lastmodified":1472621492,
+    "wof:lastmodified":1510944051,
     "wof:name":"McDonalds",
     "wof:parent_id":85828151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740168975
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

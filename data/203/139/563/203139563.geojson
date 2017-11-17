@@ -7,6 +7,7 @@
     "addr:postcode":"60660",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.660459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6231 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_7fJkNjo5Cxa55Z75ZBf7Ck_41.996373_-87.660459@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0a561953c2e2385fe1c2345cd0b4c09",
+    "wof:geomhash":"83f4944969bd523a80c2d9cffd639d82",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":203139563,
-    "wof:lastmodified":1491369031,
+    "wof:lastmodified":1510942368,
     "wof:name":"McDonalds",
     "wof:parent_id":85865775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756400903
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

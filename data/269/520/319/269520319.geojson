@@ -7,13 +7,16 @@
     "addr:postcode":"60481",
     "addr:street":"S Water St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.14242,41.299333,-88.14242,41.299333",
     "geom:latitude":41.299333,
     "geom:longitude":-88.14242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"924 S Water St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5GirXtkWA0vYle6qJXAThD_41.299333_-88.142420@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"30ff6fc699f1732ab55ab91930adeee3",
+    "wof:geomhash":"17928a9f50593bb21ffe2c4ee3fe8511",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":269520319,
-    "wof:lastmodified":1472620825,
+    "wof:lastmodified":1510944027,
     "wof:name":"AAI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269814023
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

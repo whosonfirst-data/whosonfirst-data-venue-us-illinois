@@ -7,6 +7,7 @@
     "addr:postcode":"61820",
     "addr:street":"N Neil St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.244904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2000 N Neil St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -54,13 +55,17 @@
     "wof:geomhash":"e05e637e028e20838782d26744b8c6f1",
     "wof:hierarchy":[],
     "wof:id":756470665,
-    "wof:lastmodified":1510876139,
+    "wof:lastmodified":1510944048,
     "wof:name":"U.S. Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756470725
+    ],
+    "wof:supersedes":[
+        253204109
+    ],
     "wof:tags":[
         "supply",
         "communication",

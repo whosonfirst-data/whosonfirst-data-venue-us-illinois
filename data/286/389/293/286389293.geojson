@@ -7,13 +7,16 @@
     "addr:postcode":"60084",
     "addr:street":"N Rand Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.154478,42.274621,-88.154478,42.274621",
     "geom:latitude":42.274621,
     "geom:longitude":-88.154478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 N Rand Rd",
     "sg:city":"Wauconda",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6OgkPXQgeWwgBkAhFPEtq9_42.274621_-88.154478@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"5af731063e0ef663703a9d0a09d41bb4",
+    "wof:geomhash":"a5b25d391e21cd88c47190898aef2d43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":286389293,
-    "wof:lastmodified":1472621097,
+    "wof:lastmodified":1510942577,
     "wof:name":"A C-D C Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286683315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical",

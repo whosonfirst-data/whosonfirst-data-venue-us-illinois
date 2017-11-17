@@ -7,6 +7,7 @@
     "addr:postcode":"60649",
     "addr:street":"E 79Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.5661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2425 E 79th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":211303567,
         "sg:id":"SG_2wPPOvIrHwWOJW6XYu4uon_41.751653_-87.566100@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"907ab8e03ebad4e561bc0dfff57ff355",
+    "wof:geomhash":"ff2522f48420b26001000640f78a96cc",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":203207061,
-    "wof:lastmodified":1491367933,
+    "wof:lastmodified":1510943237,
     "wof:name":"McDonalds",
     "wof:parent_id":85849559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756366935
+    ],
+    "wof:supersedes":[
+        756366935
+    ],
     "wof:tags":[
         "eating"
     ]

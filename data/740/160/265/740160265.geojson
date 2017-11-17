@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E Ontario St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.623702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"155 E Ontario St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950978,
-    "wof:geomhash":"50e6278768fc484d02f3693753876f7c",
+    "wof:geomhash":"42ca8e845e98e86eb6a2769a7fd73061",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":740160265,
-    "wof:lastmodified":1491369206,
+    "wof:lastmodified":1510941276,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756408757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

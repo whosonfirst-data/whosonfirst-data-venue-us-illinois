@@ -7,6 +7,7 @@
     "addr:postcode":"60193",
     "addr:street":"S Roselle Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.079995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 S Roselle Rd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":245020911,
         "sg:id":"SG_6LFxrtpQfGzsR7QXpGH0sU_42.008526_-88.079995@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461950850,
-    "wof:geomhash":"c260a2442128f229e194b9c0f631f679",
+    "wof:geomhash":"df5a0bb26f94cbc54b0df6d83ba5c3bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":740154083,
-    "wof:lastmodified":1492092286,
+    "wof:lastmodified":1510943385,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740264091
+    ],
+    "wof:supersedes":[
+        740264091
+    ],
     "wof:tags":[
         "burger",
         "american"

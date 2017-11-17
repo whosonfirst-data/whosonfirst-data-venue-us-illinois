@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"W Belmont Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.674382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1823 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950634,
-    "wof:geomhash":"513689079e421c413e6f561655977068",
+    "wof:geomhash":"7eceea42f5ac32dbbafeb38e462d7fbd",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":740143281,
-    "wof:lastmodified":1491372288,
+    "wof:lastmodified":1510942278,
     "wof:name":"Williams Stoker & Heating Co",
     "wof:parent_id":1024496915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756386013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "heater",

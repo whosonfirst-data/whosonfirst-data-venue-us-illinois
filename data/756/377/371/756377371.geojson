@@ -7,6 +7,7 @@
     "addr:postcode":"60654",
     "addr:street":"W Hubbard St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.633164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"162 W Hubbard St Fl 3",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961780,
-    "wof:geomhash":"fe81555e6efeaa0e929f746ffa24ecc0",
+    "wof:geomhash":"05a7ec33ebf48fe88648ff881acd2cd5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756377371,
-    "wof:lastmodified":1491372792,
+    "wof:lastmodified":1510941268,
     "wof:name":"Chicagobroker.Com, Inc.",
     "wof:parent_id":957760607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756376467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"

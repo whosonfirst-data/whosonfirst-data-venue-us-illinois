@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"N Wells St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.633685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"431 N Wells St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957240,
-    "wof:geomhash":"87d9f5d81a2b8cd82741e028ef00b43b",
+    "wof:geomhash":"dc937338fee2cf1d67cbfd737c83d27d",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756177689,
-    "wof:lastmodified":1491372797,
+    "wof:lastmodified":1510942818,
     "wof:name":"Bull & Bear",
     "wof:parent_id":957760607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756378897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

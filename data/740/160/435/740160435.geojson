@@ -7,6 +7,7 @@
     "addr:postcode":"60613",
     "addr:street":"N Lincoln Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.677925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3925 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950983,
-    "wof:geomhash":"5b44b2977bbb7625627d31b9e2f80c7e",
+    "wof:geomhash":"9d8e05964fbde2e6a8ff122b64f3248b",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":740160435,
-    "wof:lastmodified":1491370703,
+    "wof:lastmodified":1510943783,
     "wof:name":"T-Spot Sushi & Tea Bar",
     "wof:parent_id":85890759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756209845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sushi",

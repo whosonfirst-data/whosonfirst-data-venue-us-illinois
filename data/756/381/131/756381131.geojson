@@ -7,6 +7,7 @@
     "addr:postcode":"60654",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.628113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"626 N State St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961878,
-    "wof:geomhash":"8c59d42b94bd7656a0aa02b22c7d0722",
+    "wof:geomhash":"64ee22778a2f599be9a657216c2bd5d5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -54,13 +56,17 @@
         }
     ],
     "wof:id":756381131,
-    "wof:lastmodified":1491367771,
+    "wof:lastmodified":1510943318,
     "wof:name":"Quartino",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756216669
+    ],
+    "wof:supersedes":[
+        756216669
+    ],
     "wof:tags":[]
 },
   "bbox": [

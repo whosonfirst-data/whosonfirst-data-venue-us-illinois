@@ -7,6 +7,7 @@
     "addr:postcode":"60641",
     "addr:street":"N Cicero Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.746893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3435 N Cicero Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_5uy2FU6AFtOSRIJHWOecvL_41.942615_-87.746893@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"abbf2abf8af2bc94fd444aa4efa259b4",
+    "wof:geomhash":"0d7d20b1c51351dcd5ae5e8faa8e85e7",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":253306695,
-    "wof:lastmodified":1491372251,
+    "wof:lastmodified":1510941553,
     "wof:name":"Niko Credit Services",
     "wof:parent_id":1024496913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756342183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

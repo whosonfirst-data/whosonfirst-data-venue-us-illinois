@@ -7,6 +7,7 @@
     "addr:postcode":"60641",
     "addr:street":"W Irving Park Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.74349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4612 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_30Ey4E9ZNB3JOvZ9COvt7i_41.953546_-87.743490@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc3a705083f86beeec8239894ad77d7b",
+    "wof:geomhash":"76f943e90c69aaf31c8c1b457aefb5b8",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":270418519,
-    "wof:lastmodified":1491372523,
+    "wof:lastmodified":1510942210,
     "wof:name":"Marshalls",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756338187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

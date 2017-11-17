@@ -7,6 +7,7 @@
     "addr:postcode":"60654",
     "addr:street":"Merchandise Mart Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.635421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 Merchandise Mart Plz",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2274005137,
         "sg:id":"SG_7Yw1hDDUGTh2JoSYpDbyQ8_41.887919_-87.635421@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461951069,
-    "wof:geomhash":"bbec96c8f0700e02823dec35ea0cab73",
+    "wof:geomhash":"0769c7807f2e75a9fe30e61ca15b004d",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,13 +67,17 @@
         }
     ],
     "wof:id":740163659,
-    "wof:lastmodified":1491369340,
+    "wof:lastmodified":1510943121,
     "wof:name":"McDonald's",
     "wof:parent_id":85866931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756376007
+    ],
+    "wof:supersedes":[
+        756376007
+    ],
     "wof:tags":[
         "burger",
         "american"

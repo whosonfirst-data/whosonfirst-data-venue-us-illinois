@@ -7,13 +7,16 @@
     "addr:postcode":"61270",
     "addr:street":"N Base St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.967531,41.810143,-89.967531,41.810143",
     "geom:latitude":41.810143,
     "geom:longitude":-89.967531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 N Base St",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1imPhIlcb7HU4isvvyNUbn_41.810143_-89.967531@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"1bddfbbb2f3f9870b061be21eb8a5969",
+    "wof:geomhash":"d4913aa8699bb7d94a3beec853937dff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219401007,
-    "wof:lastmodified":1472621299,
+    "wof:lastmodified":1510944165,
     "wof:name":"Hardees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740166443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

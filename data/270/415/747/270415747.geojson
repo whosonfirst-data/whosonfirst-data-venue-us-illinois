@@ -7,6 +7,7 @@
     "addr:postcode":"60134",
     "addr:street":"W State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.303758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 W State St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
         "sg:id":"SG_4A7wIFw79YsW4bzi6koGpZ_41.887378_-88.303758@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"79bdf10f1d737be3d41ac69e9d3fd8de",
+    "wof:geomhash":"aa0f524a81d69d2b086783e290f2cad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":270415747,
-    "wof:lastmodified":1492100954,
+    "wof:lastmodified":1510941950,
     "wof:name":"2 Couture Salon Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740232465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"W Huron St Ste 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.629204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"33 W Huron St Ste 1",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957249,
-    "wof:geomhash":"a72dd19b6881aae795d5d47fd8f130fa",
+    "wof:geomhash":"609ab0bf78b2d686e690369d65eac0d8",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756178115,
-    "wof:lastmodified":1491367799,
+    "wof:lastmodified":1510942467,
     "wof:name":"Supercuts",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756377759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

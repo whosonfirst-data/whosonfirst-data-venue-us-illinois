@@ -7,6 +7,7 @@
     "addr:postcode":"60202",
     "addr:street":"Howard St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.686702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1117 Howard St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -44,10 +46,11 @@
     "wof:brand_id":420573827,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":448759266,
         "sg:id":"SG_6pElK7JJEYb8PXFLAdgOsT_42.019583_-87.686702@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"d83db4fe609a22f76a4d8342bed1a941",
+    "wof:geomhash":"2c73ab30b38f289413524abf119830d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":236582653,
-    "wof:lastmodified":1491370764,
+    "wof:lastmodified":1510942875,
     "wof:name":"McDonalds",
     "wof:parent_id":85890785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740154631
+    ],
+    "wof:supersedes":[
+        740154631
+    ],
     "wof:tags":[
         "eating"
     ]

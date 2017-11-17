@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E Delaware Place",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.628256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 E Delaware Place Ofc",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -56,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957555,
-    "wof:geomhash":"a17af0cae7da679822b15752a4efb820",
+    "wof:geomhash":"27c1bece01dde2211a1d174f1c3393af",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":756189325,
-    "wof:lastmodified":1491368610,
+    "wof:lastmodified":1510942594,
     "wof:name":"One East Delaware",
     "wof:parent_id":85865745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756198235
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment",

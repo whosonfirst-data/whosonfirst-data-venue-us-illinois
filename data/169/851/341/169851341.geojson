@@ -7,13 +7,16 @@
     "addr:postcode":"62234",
     "addr:street":"Ramada Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.011398,38.678501,-90.011398,38.678501",
     "geom:latitude":38.678501,
     "geom:longitude":-90.011398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 Ramada Blvd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6tD8mhJSPmiN7fn4rVey9M_38.678501_-90.011398@1303262919"
     },
     "wof:country":"US",
-    "wof:geomhash":"d71928cdc4576ef3d283372312222132",
+    "wof:geomhash":"ed368e5a6e87e427229942c75504b3d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169851341,
-    "wof:lastmodified":1472620894,
+    "wof:lastmodified":1510943504,
     "wof:name":"McDonald's",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286728109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

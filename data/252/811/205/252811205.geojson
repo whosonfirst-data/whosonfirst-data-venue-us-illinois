@@ -7,6 +7,7 @@
     "addr:postcode":"60643",
     "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.681447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10437 S Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_2E77KNDFYPXvr8EPzQeIPQ_41.703403_-87.681447@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"74f55b46a8b01f07ffdea533d7e53b47",
+    "wof:geomhash":"08566a3255acfbbeb50e3eba88d123d9",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":252811205,
-    "wof:lastmodified":1491369604,
+    "wof:lastmodified":1510942255,
     "wof:name":"KFC",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756349889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

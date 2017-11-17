@@ -7,13 +7,16 @@
     "addr:postcode":"60805",
     "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.687907,41.72087,-87.687907,41.72087",
     "geom:latitude":41.72087,
     "geom:longitude":-87.687907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2620 W 95th St Fl 1",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962875,
-    "wof:geomhash":"78486955a4726a1c1d52ea14b5064af7",
+    "wof:geomhash":"4beb9fb5f3ce779f0d2bf5a49d5d30ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":756423957,
-    "wof:lastmodified":1472622208,
+    "wof:lastmodified":1510943638,
     "wof:name":"McDonald's",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236226587
+    ],
+    "wof:supersedes":[
+        236226587,
+        740164507
+    ],
     "wof:tags":[
         "burger"
     ]

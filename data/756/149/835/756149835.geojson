@@ -7,6 +7,7 @@
     "addr:postcode":"60607",
     "addr:street":"W Randolph St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.659872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1335 W Randolph St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956616,
-    "wof:geomhash":"6ec71c2154939afa8694a273ddb56e72",
+    "wof:geomhash":"aa508b63aacd1fc1b21ac34d1969f063",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":756149835,
-    "wof:lastmodified":1491372864,
+    "wof:lastmodified":1510942726,
     "wof:name":"Ideacast Inc.",
     "wof:parent_id":974522607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756149187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency",

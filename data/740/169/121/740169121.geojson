@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.636253,40.118613,-87.636253,40.118613",
     "geom:latitude":40.118613,
     "geom:longitude":-87.636253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"143 S Gilbert St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":409137362,
         "sg:id":"SG_2VKINg5Jz1y1aPxT5xnUVR_40.118613_-87.636253@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461951197,
-    "wof:geomhash":"cf0c67a29cc0d8ba18107a28ce26eb38",
+    "wof:geomhash":"760b629c0cf78e521b6fe81cc6e0f593",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +65,15 @@
         }
     ],
     "wof:id":740169121,
-    "wof:lastmodified":1472621808,
+    "wof:lastmodified":1510941574,
     "wof:name":"Arby's",
     "wof:parent_id":420519335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286601817
+    ],
     "wof:tags":[
         "burger",
         "american"

@@ -7,6 +7,7 @@
     "addr:postcode":"60431",
     "addr:street":"Mall Loop Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.164134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3340 Mall Loop Dr",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":269805899,
-    "wof:lastmodified":1510693981,
+    "wof:lastmodified":1510942078,
     "wof:name":"TGI Friday's",
     "wof:parent_id":85812671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740155367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

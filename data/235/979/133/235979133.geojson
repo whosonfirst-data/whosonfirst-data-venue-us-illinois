@@ -7,13 +7,16 @@
     "addr:postcode":"61462",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.648064,40.923688,-90.648064,40.923688",
     "geom:latitude":40.923688,
     "geom:longitude":-90.648064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1134 N Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2F1LabTOWHx8H5r75XYMfc_40.923688_-90.648064@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c640b10cb25c1ceeee511ceb9c38d00",
+    "wof:geomhash":"eea0c5eb276b9d6bec9978d2b3309321",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":235979133,
-    "wof:lastmodified":1472620786,
+    "wof:lastmodified":1510941928,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740166963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

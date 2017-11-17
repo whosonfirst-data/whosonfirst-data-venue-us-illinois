@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"W Summerdale Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.667999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1478 W Summerdale Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960864,
-    "wof:geomhash":"2d87fdf3db4d44042f06c5ea631a0e12",
+    "wof:geomhash":"5732ae5193c935599120587802400f65",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756335627,
-    "wof:lastmodified":1491370464,
+    "wof:lastmodified":1510943965,
     "wof:name":"Scrub A Dub Dub",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756336183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "boarding/pet",

@@ -7,13 +7,16 @@
     "addr:postcode":"60546",
     "addr:street":"W Cermak Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.809967,41.850204,-87.809967,41.850204",
     "geom:latitude":41.850204,
     "geom:longitude":-87.809967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7501 W Cermak Rd",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -68,7 +71,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954775,
-    "wof:geomhash":"dbc447998ede4c4ba4002cb3fa9953c6",
+    "wof:geomhash":"5c66e53049076175554984c175a2cb18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,13 +85,18 @@
         }
     ],
     "wof:id":756065641,
-    "wof:lastmodified":1472621394,
+    "wof:lastmodified":1510943670,
     "wof:name":"T-Mobile",
     "wof:parent_id":85837971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756064783
+    ],
+    "wof:supersedes":[
+        756064601,
+        756065235
+    ],
     "wof:tags":[
         "telecommunication",
         "supply",

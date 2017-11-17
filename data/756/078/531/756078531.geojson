@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"N Michigan Ave # 1200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"150 N Michigan Ave #1200",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955038,
-    "wof:geomhash":"20ad6a9b786df6754f3c95150a7ed516",
+    "wof:geomhash":"f902a692854f3d1c8734028804ef0493",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756078531,
-    "wof:lastmodified":1491372704,
+    "wof:lastmodified":1510944069,
     "wof:name":"Pinski Dermatology & Cosmetic Surgery SC",
     "wof:parent_id":1024497035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756081749
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatology",

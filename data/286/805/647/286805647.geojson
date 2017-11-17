@@ -7,13 +7,16 @@
     "addr:postcode":"62901",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.193536,37.730649,-89.193536,37.730649",
     "geom:latitude":37.730649,
     "geom:longitude":-89.193536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1232 E Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_7j7aanBCOX9UvdMU5NC1ua_37.730649_-89.193536@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f21a62ce11d03beaf84045ae7951110",
+    "wof:geomhash":"a03e5e33e18df29415344d2fd336c9e7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":286805647,
-    "wof:lastmodified":1472621675,
+    "wof:lastmodified":1510944048,
     "wof:name":"Ponderosa Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740173565
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

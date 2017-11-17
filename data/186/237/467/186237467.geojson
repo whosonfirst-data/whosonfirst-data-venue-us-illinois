@@ -7,13 +7,16 @@
     "addr:postcode":"63101",
     "addr:street":"Olive St Ste 1800",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.192108,38.628344,-90.192108,38.628344",
     "geom:latitude":38.628344,
     "geom:longitude":-90.192108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 Olive St Ste 1800",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_0mStzBpvgowTyjWwxVOFyq_38.628344_-90.192108@1303262927"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0ef072f2a87eea67db958a6895bd7ef",
+    "wof:geomhash":"8b959fcfd9f207a43b51f9b3b9cf46b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":186237467,
-    "wof:lastmodified":1472620913,
+    "wof:lastmodified":1510943437,
     "wof:name":"Brown & Crouppen, P.C.",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806475049
+    ],
+    "wof:supersedes":[
+        186232559
+    ],
     "wof:tags":[
         "personal",
         "injury"

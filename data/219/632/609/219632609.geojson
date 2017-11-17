@@ -7,13 +7,16 @@
     "addr:postcode":"60439",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9999,41.656679,-87.9999,41.656679",
     "geom:latitude":41.656679,
     "geom:longitude":-87.9999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1152 State St",
     "sg:city":"Lemont",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1PBSRQuKWYMASoJnQpAZkN_41.656679_-87.999900@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f929e23b5856d4cb6d77966bdbb0fc4",
+    "wof:geomhash":"bdb9875d337909aec0a9df1f2397eeb9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219632609,
-    "wof:lastmodified":1472621530,
+    "wof:lastmodified":1510943964,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740155661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

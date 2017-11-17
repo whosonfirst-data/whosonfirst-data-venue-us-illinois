@@ -7,6 +7,7 @@
     "addr:postcode":"60445",
     "addr:street":"Pulaski Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.717773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14601 Pulaski Rd",
     "sg:city":"Midlothian",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953944,
-    "wof:geomhash":"1a89aff07af6ae5ff0be505214a61275",
+    "wof:geomhash":"83c0667ffb96caea1639c63c4230162a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":756026603,
-    "wof:lastmodified":1491370799,
+    "wof:lastmodified":1510943415,
     "wof:name":"McDonald's",
     "wof:parent_id":420518731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270332859
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hamburger",

@@ -7,6 +7,7 @@
     "addr:postcode":"60620",
     "addr:street":"W 79Th Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.670982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1914 W 79th Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959053,
-    "wof:geomhash":"042c744394f6231f1fffdf029cab7cc6",
+    "wof:geomhash":"d1f571f61f3b1175e793e1d3ca651859",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -61,13 +63,17 @@
         }
     ],
     "wof:id":756255811,
-    "wof:lastmodified":1491370145,
+    "wof:lastmodified":1510943653,
     "wof:name":"Kentucky Fried Chicken",
     "wof:parent_id":85869095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756257637
+    ],
+    "wof:supersedes":[
+        756257637
+    ],
     "wof:tags":[]
 },
   "bbox": [

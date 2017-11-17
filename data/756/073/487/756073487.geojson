@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"North Michigan Avenue Suite 1300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"225 North Michigan Avenue Suite 1300",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954935,
-    "wof:geomhash":"b16703887cef640a470347399e9adf35",
+    "wof:geomhash":"de16c499e65ffcff922afcf546a56610",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756073487,
-    "wof:lastmodified":1491593399,
+    "wof:lastmodified":1510941399,
     "wof:name":"Argosy University Chicago",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756083687
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

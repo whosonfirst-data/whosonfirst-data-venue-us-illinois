@@ -7,6 +7,7 @@
     "addr:postcode":"60603",
     "addr:street":"S Clark Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.63099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"48 S Clark Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955694,
-    "wof:geomhash":"7df77176b52227a2e866f35b8361e23f",
+    "wof:geomhash":"8f6c652b7efdad08dedf9ef77c516634",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756108105,
-    "wof:lastmodified":1491593856,
+    "wof:lastmodified":1510943395,
     "wof:name":"US Cellular",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756112637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"N Clark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.668407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5203 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960782,
-    "wof:geomhash":"122a7e31e7f4618a645a124ac4dbf589",
+    "wof:geomhash":"efc047a82a3633a716bfdecbcd0f5116",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756332041,
-    "wof:lastmodified":1491370456,
+    "wof:lastmodified":1510943100,
     "wof:name":"Jin Ju",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756334745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

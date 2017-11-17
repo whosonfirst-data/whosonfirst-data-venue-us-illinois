@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"N Riverside",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.638741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 N Riverside Plz",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956369,
-    "wof:geomhash":"f1a0da1236de3808d9999ce82c8b8d6c",
+    "wof:geomhash":"0f0a96f2880fc8246e4736078180b5be",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":756139057,
-    "wof:lastmodified":1491368317,
+    "wof:lastmodified":1510943167,
     "wof:name":"Bank Of America",
     "wof:parent_id":85865741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756408263
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "saving",

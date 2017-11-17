@@ -7,6 +7,7 @@
     "addr:postcode":"60631",
     "addr:street":"N Oliphant Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.817271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6645 N Oliphant Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960092,
-    "wof:geomhash":"27305d032b075bbc6c58712c4ac6c5b5",
+    "wof:geomhash":"d46d3042bee23d8645fe355bb46e43dd",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756300001,
-    "wof:lastmodified":1491371296,
+    "wof:lastmodified":1510943850,
     "wof:name":"Bona Co.",
     "wof:parent_id":420518891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756301839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

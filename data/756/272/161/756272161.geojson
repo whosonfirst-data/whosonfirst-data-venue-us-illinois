@@ -7,6 +7,7 @@
     "addr:postcode":"60623",
     "addr:street":"W 31St Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.726131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4055 W 31st Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959530,
-    "wof:geomhash":"0097e210d9963fd16019fe7beb33a8ad",
+    "wof:geomhash":"cede57fb2381a5a5c896897f9fc7b304",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756272161,
-    "wof:lastmodified":1491370033,
+    "wof:lastmodified":1510943207,
     "wof:name":"Panchos Ice Cream",
     "wof:parent_id":85867775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756271303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

@@ -7,13 +7,16 @@
     "addr:postcode":"60805",
     "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.68847,41.720954,-87.68847,41.720954",
     "geom:latitude":41.720954,
     "geom:longitude":-87.68847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2620 W 95th St",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     "wof:brand_id":420573827,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":426954988,
         "sg:id":"SG_0zbuswqaxB5LIND2I0gXGZ_41.720954_-87.688470@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"68c722b9159b188521ae608f4a575078",
+    "wof:geomhash":"2d1a045e8bd441ca9b5a017f85bf596f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +61,19 @@
         }
     ],
     "wof:id":236226587,
-    "wof:lastmodified":1472621367,
+    "wof:lastmodified":1510943638,
     "wof:name":"McDonalds",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756423957,
+        740164507
+    ],
+    "wof:supersedes":[
+        740164507,
+        756423957
+    ],
     "wof:tags":[
         "eating"
     ]

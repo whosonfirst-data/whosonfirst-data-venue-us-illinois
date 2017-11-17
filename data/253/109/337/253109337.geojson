@@ -7,6 +7,7 @@
     "addr:postcode":"60435",
     "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.134517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"330 Madison St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_0tMuXEbluIE9Hrv9zFHuPB_41.526472_-88.134517@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"4094e835f0f468d6aa0ec317cfe5f7e5",
+    "wof:geomhash":"a4dcc0fd01d61d92c7a20eb060c8e234",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":253109337,
-    "wof:lastmodified":1492104511,
+    "wof:lastmodified":1510943303,
     "wof:name":"Joliet Pulmonary-Critical Care",
     "wof:parent_id":85826741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740291789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

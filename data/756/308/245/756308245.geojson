@@ -7,6 +7,7 @@
     "addr:postcode":"60634",
     "addr:street":"W. Irving Park Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.7892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6500 W. Irving Park Road",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960262,
-    "wof:geomhash":"0e7f9f5a9340085efcdb2e654668bbca",
+    "wof:geomhash":"f6015f05adffdffa0e18d3c4a48d44fa",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756308245,
-    "wof:lastmodified":1491366600,
+    "wof:lastmodified":1510941285,
     "wof:name":"Gallery of Hair",
     "wof:parent_id":85815517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756311735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
