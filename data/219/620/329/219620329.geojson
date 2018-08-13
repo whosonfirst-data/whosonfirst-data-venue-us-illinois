@@ -2,18 +2,24 @@
   "id": 219620329,
   "type": "Feature",
   "properties": {
-    "addr:full":"202 W Locust Ave Atwood IL 61913",
+    "addr:city":"Atwood",
+    "addr:full":"202 W Locust Ave Atwood, Il 61913",
+    "addr:house_number":"202",
     "addr:housenumber":"202",
+    "addr:phone":"+1 217-578-2231",
     "addr:postcode":"61913",
+    "addr:road":"W Locust Ave",
+    "addr:state":"IL",
     "addr:street":"W Locust Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.465592,39.805323,-88.465592,39.805323",
-    "geom:latitude":39.805323,
-    "geom:longitude":-88.465592,
+    "geom:bbox":"-88.45374,39.80812,-88.45374,39.80812",
+    "geom:latitude":39.80812,
+    "geom:longitude":-88.45374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"202 W Locust Ave",
     "sg:city":"Atwood",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 217 578 2231",
     "sg:postcode":"61913",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700184,
         "sg:id":"SG_7kVBH1wIvYXtkAsuXYLYA5_39.805323_-88.465592@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e3b8f4a189348ecddd8719798c3dd1d",
+    "wof:geomhash":"ba31c275cbfb30bae9ac4ce20df08974",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219620329,
-    "wof:lastmodified":1472621523,
+    "wof:lastmodified":1534185119,
     "wof:name":"Harris Agriculture Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.465592,
-    39.805323,
-    -88.465592,
-    39.805323
+    -88.45374,
+    39.80812,
+    -88.45374,
+    39.80812
 ],
-  "geometry": {"coordinates":[-88.465592,39.805323],"type":"Point"}
+  "geometry": {"coordinates":[-88.45374,39.80812],"type":"Point"}
 }

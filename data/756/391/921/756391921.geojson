@@ -2,19 +2,25 @@
   "id": 756391921,
   "type": "Feature",
   "properties": {
-    "addr:full":"448 W Barry Ave Chicago IL 60657",
+    "addr:city":"Chicago",
+    "addr:full":"448 W Barry Ave Chicago, Il 60657-5541",
+    "addr:house_number":"448",
     "addr:housenumber":"448",
-    "addr:postcode":"60657",
+    "addr:phone":"+1 773-770-5572",
+    "addr:postcode":"60657-5541",
+    "addr:road":"W Barry Ave",
+    "addr:state":"IL",
     "addr:street":"W Barry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.639603,41.937801,-87.639603,41.937801",
-    "geom:latitude":41.937801,
-    "geom:longitude":-87.639603,
+    "geom:bbox":"-87.6417,41.93779,-87.6417,41.93779",
+    "geom:latitude":41.93779,
+    "geom:longitude":-87.6417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"448 W Barry Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -38,7 +44,10 @@
         "venue"
     ],
     "sg:website":"stsavachicago.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85882181,
         102191575,
@@ -51,11 +60,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700569,
         "sg:id":"SG_0fifx3QLqTz1PdHRAsapNd_41.937801_-87.639603@1303262905"
     },
     "wof:country":"US",
     "wof:created":1461962152,
-    "wof:geomhash":"b2271ec30eb77dd8ad0ba97468db1fae",
+    "wof:geomhash":"dae5b5ab5474e635da1a975f7968c7d4",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -70,8 +80,8 @@
         }
     ],
     "wof:id":756391921,
-    "wof:lastmodified":1491370506,
-    "wof:name":"St. Sava Serbian Cultural and Arts Center",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Serbian-American Museum - St Sava",
     "wof:parent_id":85882181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -83,10 +93,10 @@
     ]
 },
   "bbox": [
-    -87.639603,
-    41.937801,
-    -87.639603,
-    41.937801
+    -87.6417,
+    41.93779,
+    -87.6417,
+    41.93779
 ],
-  "geometry": {"coordinates":[-87.63960299999999,41.937801],"type":"Point"}
+  "geometry": {"coordinates":[-87.6417,41.93779],"type":"Point"}
 }

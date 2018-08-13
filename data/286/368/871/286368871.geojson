@@ -7,6 +7,7 @@
     "addr:postcode":"61846",
     "addr:street":"Huffman St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63623,39.980119,-87.63623,39.980119",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.63623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 Huffman St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_5MzpbKeLzFxSNKyTQtzhjP_39.980119_-87.636230@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"35eb2785fb8ea855c02d0f5efd586d47",
+    "wof:geomhash":"6344322ee8f488ab1eaf7b7531ab159c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":286368871,
-    "wof:lastmodified":1472621072,
+    "wof:lastmodified":1534185148,
     "wof:name":"Main Stream Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756480863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

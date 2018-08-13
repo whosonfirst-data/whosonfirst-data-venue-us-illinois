@@ -7,6 +7,7 @@
     "addr:postcode":"61342",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.119432,41.554025,-89.119432,41.554025",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.119432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1103 Main St",
     "sg:city":"Mendota",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_0I8AOBr4DACqBrcx1JsOkn_41.554025_-89.119432@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ef6627073e12a5c68d311fb8de4ce83",
+    "wof:geomhash":"611601c609d070d9f807ec3da172d929",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":286404825,
-    "wof:lastmodified":1472621211,
+    "wof:lastmodified":1534185147,
     "wof:name":"Bruno Kurt State Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756447305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

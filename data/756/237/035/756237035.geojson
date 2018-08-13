@@ -2,17 +2,22 @@
   "id": 756237035,
   "type": "Feature",
   "properties": {
-    "addr:full":"9301 S Stony Island Ave Chicago IL 60617",
+    "addr:city":"Chicago",
+    "addr:full":"9301 S Stony Island Ave Chicago, Il 60617-3644",
+    "addr:house_number":"9301",
     "addr:housenumber":"9301",
-    "addr:postcode":"60617",
+    "addr:phone":"+1 773-721-9301",
+    "addr:postcode":"60617-3644",
+    "addr:road":"S Stony Island Ave",
+    "addr:state":"IL",
     "addr:street":"S Stony Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.584786,41.725992,-87.584786,41.725992",
-    "geom:latitude":41.725992,
-    "geom:longitude":-87.584786,
+    "geom:bbox":"-87.58532,41.72598,-87.58532,41.72598",
+    "geom:latitude":41.72598,
+    "geom:longitude":-87.58532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,11 @@
     "sg:phone":"+1 773 721 9301",
     "sg:postcode":"60617",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102530699
+    ],
     "wof:belongsto":[
         85867531,
         102191575,
@@ -42,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700787,
         "osm:way":300590195,
         "sg:id":"SG_4AMRG1hRuYDMrTFVXTh1we_41.725992_-87.584786@1303262884"
     },
     "wof:country":"US",
     "wof:created":1461958630,
-    "wof:geomhash":"c744b0ea595b394384afb0c59f7c16a2",
+    "wof:geomhash":"a100cdc2da02f6257410ce1fe248c041",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":756237035,
-    "wof:lastmodified":1510943659,
-    "wof:name":"Bronzeville Childrens Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Bronzeville Children'S Museum",
     "wof:parent_id":85867531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -72,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.584786,
-    41.725992,
-    -87.584786,
-    41.725992
+    -87.58532,
+    41.72598,
+    -87.58532,
+    41.72598
 ],
-  "geometry": {"coordinates":[-87.58478599999999,41.725992],"type":"Point"}
+  "geometry": {"coordinates":[-87.58532,41.72598],"type":"Point"}
 }

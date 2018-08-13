@@ -7,6 +7,7 @@
     "addr:postcode":"60103",
     "addr:street":"W Army Trail Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.157101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1099 W Army Trail Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":740213131,
-    "wof:lastmodified":1512142651,
+    "wof:lastmodified":1534185137,
     "wof:name":"Cvs Pharmacy",
     "wof:parent_id":85847323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740213877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"North Lake Shore Drive",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.615303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"644 North Lake Shore Drive",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957483,
-    "wof:geomhash":"f019dc45fac02c2d6a50a8f7ddd8ad5e",
+    "wof:geomhash":"3cf5d5a45ffbd8f9d7c8f840a19613b9",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756186281,
-    "wof:lastmodified":1491368481,
+    "wof:lastmodified":1534185139,
     "wof:name":"Wave Restaurant",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756189061
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mediterranean"

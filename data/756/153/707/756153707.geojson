@@ -2,19 +2,25 @@
   "id": 756153707,
   "type": "Feature",
   "properties": {
-    "addr:full":"1155 E 58th St Chicago IL 60607",
+    "addr:city":"Chicago",
+    "addr:full":"1155 East 58Th Street Chicago, Il 60637",
+    "addr:house_number":"1155",
     "addr:housenumber":"1155",
-    "addr:postcode":"60607",
+    "addr:phone":"+1 773-702-9520",
+    "addr:postcode":"60637",
+    "addr:road":"East 58Th Street",
+    "addr:state":"IL",
     "addr:street":"E 58Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.597514,41.789574,-87.597514,41.789574",
-    "geom:latitude":41.789574,
-    "geom:longitude":-87.597514,
+    "geom:bbox":"-87.60447,41.78279,-87.60447,41.78279",
+    "geom:latitude":41.78279,
+    "geom:longitude":-87.60447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1155 E 58th St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"60607",
     "sg:province":"IL",
     "sg:website":"oi.uchicago.edu/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85826681,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501710,
         "sg:id":"SG_4Viu3dMRk28xWYjQpXXRNd_41.789574_-87.597514@1303262872"
     },
     "wof:country":"US",
     "wof:created":1461956695,
-    "wof:geomhash":"f3048f629c97e9befb0b0768966d78db",
+    "wof:geomhash":"bff345a5a2278c9c58488677a725d9d7",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":756153707,
-    "wof:lastmodified":1491366692,
+    "wof:lastmodified":1534185149,
     "wof:name":"Oriental Institute Museum",
     "wof:parent_id":85826681,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.597514,
-    41.789574,
-    -87.597514,
-    41.789574
+    -87.60447,
+    41.78279,
+    -87.60447,
+    41.78279
 ],
-  "geometry": {"coordinates":[-87.597514,41.789574],"type":"Point"}
+  "geometry": {"coordinates":[-87.60447000000001,41.78279],"type":"Point"}
 }

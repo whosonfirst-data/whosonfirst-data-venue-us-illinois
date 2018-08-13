@@ -2,18 +2,24 @@
   "id": 756467375,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 S Gregory St Urbana IL 61801",
+    "addr:city":"Urbana",
+    "addr:full":"600 South Gregory Street Urbana, Il 61801",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
+    "addr:phone":"+1 217-333-2360",
     "addr:postcode":"61801",
+    "addr:road":"South Gregory Street",
+    "addr:state":"IL",
     "addr:street":"S Gregory St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.221571,40.108046,-88.221571,40.108046",
-    "geom:latitude":40.108046,
-    "geom:longitude":-88.221571,
+    "geom:bbox":"-88.22875,40.11685,-88.22875,40.11685",
+    "geom:latitude":40.11685,
+    "geom:longitude":-88.22875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"600 S Gregory St",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:postcode":"61801",
     "sg:province":"IL",
     "sg:website":"www.spurlock.uiuc.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527887
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501896,
         "sg:id":"SG_73zh4aRHZw28KJB7xcA6mC_40.108046_-88.221571@1303262915"
     },
     "wof:country":"US",
     "wof:created":1461963923,
-    "wof:geomhash":"be431c1e6dadf114e415c1e49c4e601a",
+    "wof:geomhash":"cc13ae3f007088c5a5a5aa8c77899b0d",
     "wof:hierarchy":[],
     "wof:id":756467375,
-    "wof:lastmodified":1472622235,
-    "wof:name":"The William R and Clarice V Spurlock Museum",
+    "wof:lastmodified":1534185149,
+    "wof:name":"William R. And Clarice V. Spurlock Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.221571,
-    40.108046,
-    -88.221571,
-    40.108046
+    -88.22875,
+    40.11685,
+    -88.22875,
+    40.11685
 ],
-  "geometry": {"coordinates":[-88.221571,40.108046],"type":"Point"}
+  "geometry": {"coordinates":[-88.22875000000001,40.11685],"type":"Point"}
 }

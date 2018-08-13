@@ -7,6 +7,7 @@
     "addr:postcode":"60419",
     "addr:street":"E Sibley Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.58308,41.622684,-87.58308,41.622684",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.58308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 E Sibley Blvd",
     "sg:city":"Dolton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953631,
-    "wof:geomhash":"92cf350918ee391c248debb9da741d92",
+    "wof:geomhash":"0e8c73523fad483e6e342fd08aa9ccce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":740283067,
-    "wof:lastmodified":1472622000,
+    "wof:lastmodified":1534185140,
     "wof:name":"Lafrance Service Center",
     "wof:parent_id":85805823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740283243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

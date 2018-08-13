@@ -7,6 +7,7 @@
     "addr:postcode":"60609",
     "addr:street":"W 51St Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.644612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"737 W 51st Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957017,
-    "wof:geomhash":"20169404d29afc99ffad241284ddc473",
+    "wof:geomhash":"c58377f22fd30db5a8e372ad5f43439e",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756167541,
-    "wof:lastmodified":1491369559,
+    "wof:lastmodified":1534185138,
     "wof:name":"Shamsan Food and Liquor",
     "wof:parent_id":85867501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756169977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beer",

@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.646103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 W North Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957269,
-    "wof:geomhash":"61d6b7b7060146fdb629bb25d1678eed",
+    "wof:geomhash":"a47cae07c87a9252b66c45b99b2bf6b5",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756179259,
-    "wof:lastmodified":1491370312,
+    "wof:lastmodified":1534185138,
     "wof:name":"Slotten Ross A MD",
     "wof:parent_id":85869277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756181099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

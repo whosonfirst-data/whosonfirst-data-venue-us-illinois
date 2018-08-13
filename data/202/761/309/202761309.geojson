@@ -2,18 +2,23 @@
   "id": 202761309,
   "type": "Feature",
   "properties": {
-    "addr:full":"2400 W Bradley Ave Champaign IL 61821",
+    "addr:city":"Champaign",
+    "addr:full":"2400 W Bradley Ave Champaign, Il 61821",
+    "addr:house_number":"2400",
     "addr:housenumber":"2400",
     "addr:postcode":"61821",
+    "addr:road":"W Bradley Ave",
+    "addr:state":"IL",
     "addr:street":"W Bradley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.282041,40.127483,-88.282041,40.127483",
-    "geom:latitude":40.127483,
-    "geom:longitude":-88.282041,
+    "geom:bbox":"-88.28677,40.12752,-88.28677,40.12752",
+    "geom:latitude":40.12752,
+    "geom:longitude":-88.28677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2400 W Bradley Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -30,7 +35,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527887
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501082,
         "sg:id":"SG_0BbCZJpEKmXLiXsWjY5BeQ_40.127483_-88.282041@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"7651ac7ecfd5bd1cafd5f5a1be4cadf7",
+    "wof:geomhash":"bac9893b41ba2dd7fc31fe052483a594",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":202761309,
-    "wof:lastmodified":1472621245,
-    "wof:name":"Staekle Planetarium",
+    "wof:lastmodified":1534185149,
+    "wof:name":"William M. Staerkel Planetarium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +76,10 @@
     ]
 },
   "bbox": [
-    -88.282041,
-    40.127483,
-    -88.282041,
-    40.127483
+    -88.28677,
+    40.12752,
+    -88.28677,
+    40.12752
 ],
-  "geometry": {"coordinates":[-88.28204100000001,40.127483],"type":"Point"}
+  "geometry": {"coordinates":[-88.28677,40.12752],"type":"Point"}
 }

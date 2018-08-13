@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"N Clinton St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.641226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"French Market 131 N Clinton St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956481,
-    "wof:geomhash":"54f83d7afc9a1293a4c5f7cd58d48b5d",
+    "wof:geomhash":"9a1bfa6345a78c3d335a322619a81a6b",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756144049,
-    "wof:lastmodified":1491368334,
+    "wof:lastmodified":1534185146,
     "wof:name":"Buen Apetito",
     "wof:parent_id":85865741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756404895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

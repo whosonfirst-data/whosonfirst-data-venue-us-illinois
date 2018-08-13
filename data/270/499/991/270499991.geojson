@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Lincoln Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.673048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3536 N Lincoln Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_44MKkrVZCPLWXoCV6YyjDJ_41.945677_-87.673048@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e6c62e9aa44a2d623a23d615bf7b59a",
+    "wof:geomhash":"af781a15400077f2b6f1c2381d324f75",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":270499991,
-    "wof:lastmodified":1491372289,
+    "wof:lastmodified":1534185145,
     "wof:name":"Mike Panek Chiropractor",
     "wof:parent_id":1024496915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756389665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

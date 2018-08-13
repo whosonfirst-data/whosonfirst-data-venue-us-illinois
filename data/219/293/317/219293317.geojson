@@ -2,18 +2,24 @@
   "id": 219293317,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 E College Ave Eureka IL 61530",
+    "addr:city":"Eureka",
+    "addr:full":"300 E College Ave Eureka, Il 61530",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
+    "addr:phone":"+1 309-467-6407",
     "addr:postcode":"61530",
+    "addr:road":"E College Ave",
+    "addr:state":"IL",
     "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.26914,40.714448,-89.26914,40.714448",
-    "geom:latitude":40.714448,
-    "geom:longitude":-89.26914,
+    "geom:bbox":"-89.26849,40.71436,-89.26849,40.71436",
+    "geom:latitude":40.71436,
+    "geom:longitude":-89.26849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 E College Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 309 467 6407",
     "sg:postcode":"61530",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700084,
         "sg:id":"SG_7QBwNpYRwGCIwCkkXnL8LC_40.714448_-89.269140@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddb76824655d81e8423bca3424d2a309",
+    "wof:geomhash":"386fd9bfbb152ccbd4b3a35b05f19170",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219293317,
-    "wof:lastmodified":1472621118,
+    "wof:lastmodified":1534185149,
     "wof:name":"Ronald Reagan Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.26914,
-    40.714448,
-    -89.26914,
-    40.714448
+    -89.26849,
+    40.71436,
+    -89.26849,
+    40.71436
 ],
-  "geometry": {"coordinates":[-89.26913999999999,40.714448],"type":"Point"}
+  "geometry": {"coordinates":[-89.26849,40.71436],"type":"Point"}
 }

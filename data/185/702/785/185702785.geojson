@@ -7,6 +7,7 @@
     "addr:postcode":"62401",
     "addr:street":"N Keller Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.560543,39.130714,-88.560543,39.130714",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.560543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1308 N Keller Dr",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
         "sg:id":"SG_7K3irbmnKvdzvYP3uqcctX_39.130714_-88.560543@1303262921"
     },
     "wof:country":"US",
-    "wof:geomhash":"458891baf608dfaecb6a70336fa2eaaa",
+    "wof:geomhash":"d917c91f8fb26ea325fcfa7c0d964aa0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":185702785,
-    "wof:lastmodified":1472620891,
+    "wof:lastmodified":1534185131,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740171629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

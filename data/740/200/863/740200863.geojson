@@ -2,18 +2,24 @@
   "id": 740200863,
   "type": "Feature",
   "properties": {
-    "addr:full":"8031 Floral Ave Skokie IL 60077",
+    "addr:city":"Skokie",
+    "addr:full":"8031 Floral Ave Skokie, Il 60077",
+    "addr:house_number":"8031",
     "addr:housenumber":"8031",
+    "addr:phone":"+1 847-677-6672",
     "addr:postcode":"60077",
+    "addr:road":"Floral Ave",
+    "addr:state":"IL",
     "addr:street":"Floral Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.755932,42.027216,-87.755932,42.027216",
-    "geom:latitude":42.027216,
-    "geom:longitude":-87.755932,
+    "geom:bbox":"-87.75586,42.02752,-87.75586,42.02752",
+    "geom:latitude":42.02752,
+    "geom:longitude":-87.75586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8031 Floral Ave",
     "sg:city":"Skokie",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"60077",
     "sg:province":"IL",
     "sg:website":"http://www.skokieparkdistrict.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85856393,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700034,
         "sg:id":"SG_4olUi0tMP1scb1c3PyXFFb_42.027216_-87.755932@1303262844"
     },
     "wof:country":"US",
     "wof:created":1461951864,
-    "wof:geomhash":"d0ff751bab88b5bb87a23531a75be15e",
+    "wof:geomhash":"6ff6f1483aebe17542fada74827f17cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +69,7 @@
         }
     ],
     "wof:id":740200863,
-    "wof:lastmodified":1472621891,
+    "wof:lastmodified":1534185148,
     "wof:name":"Skokie Heritage Museum",
     "wof:parent_id":85856393,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.755932,
-    42.027216,
-    -87.755932,
-    42.027216
+    -87.75586,
+    42.02752,
+    -87.75586,
+    42.02752
 ],
-  "geometry": {"coordinates":[-87.755932,42.027216],"type":"Point"}
+  "geometry": {"coordinates":[-87.75586,42.02752],"type":"Point"}
 }

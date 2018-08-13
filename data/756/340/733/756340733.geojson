@@ -7,6 +7,7 @@
     "addr:postcode":"60641",
     "addr:street":"W Irving Pk Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.752609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5007 W Irving Pk Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960969,
-    "wof:geomhash":"d3d2f72309899229cd78dca3989d436c",
+    "wof:geomhash":"4fbf0231fbe192a70a8d06ecd7da3cb4",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -81,12 +83,15 @@
         }
     ],
     "wof:id":756340733,
-    "wof:lastmodified":1492098813,
+    "wof:lastmodified":1534185143,
     "wof:name":"Nite Cap Lounge",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252746047,
+        756338349
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"

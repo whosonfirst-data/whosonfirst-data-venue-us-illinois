@@ -7,6 +7,7 @@
     "addr:postcode":"62918",
     "addr:street":"Hafer Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.049464,37.780557,-89.049464,37.780557",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.049464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12559 Hafer Rd",
     "sg:city":"Carterville",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_7GD1nJc0fFfYaWImt8NKrw_37.780557_-89.049464@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"14d8b8c26dfec28483057f119b5a09dc",
+    "wof:geomhash":"f9c1c481bbbb7148002f7d7f233ce4e4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":236831853,
-    "wof:lastmodified":1472621784,
+    "wof:lastmodified":1534185127,
     "wof:name":"Hafer Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186016045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

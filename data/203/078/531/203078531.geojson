@@ -2,19 +2,25 @@
   "id": 203078531,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 S Cottage Hill Ave Elmhurst IL 60126",
+    "addr:city":"Elmhurst",
+    "addr:full":"150 S Cottage Hl Ave Elmhurst, Il 60126-3329",
+    "addr:house_number":"150",
     "addr:housenumber":"150",
-    "addr:postcode":"60126",
+    "addr:phone":"+1 630-834-0202",
+    "addr:postcode":"60126-3329",
+    "addr:road":"S Cottage Hl Ave",
+    "addr:state":"IL",
     "addr:street":"S Cottage Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.942462,41.896055,-87.942462,41.896055",
-    "geom:latitude":41.896055,
-    "geom:longitude":-87.942462,
+    "geom:bbox":"-87.94253,41.89762,-87.94253,41.89762",
+    "geom:latitude":41.89762,
+    "geom:longitude":-87.94253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"150 S Cottage Hill Ave",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -34,7 +40,11 @@
         "dealer"
     ],
     "sg:website":"www.elmhurstartmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85890779,
         102191575,
@@ -46,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700813,
         "sg:id":"SG_4gda2mN2JUCUNc9HAbQ7YW_41.896055_-87.942462@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a68d0eeb5aa07806ef4abd0dd96d2abb",
+    "wof:geomhash":"f7b83f15e68e0429e09ea3719a75eea1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":203078531,
-    "wof:lastmodified":1492095349,
+    "wof:lastmodified":1534185149,
     "wof:name":"Elmhurst Art Museum",
     "wof:parent_id":85890779,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -87.942462,
-    41.896055,
-    -87.942462,
-    41.896055
+    -87.94253,
+    41.89762,
+    -87.94253,
+    41.89762
 ],
-  "geometry": {"coordinates":[-87.94246200000001,41.896055],"type":"Point"}
+  "geometry": {"coordinates":[-87.94253,41.89762],"type":"Point"}
 }

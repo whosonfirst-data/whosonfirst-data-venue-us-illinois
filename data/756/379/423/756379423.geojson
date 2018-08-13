@@ -7,6 +7,7 @@
     "addr:postcode":"60654",
     "addr:street":"W Ontario St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.633099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"157 W Ontario St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961831,
-    "wof:geomhash":"823d1ea42c6f89d92b822334c08429f2",
+    "wof:geomhash":"a29fb8cc773c1b2dddcb17d089d05869",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756379423,
-    "wof:lastmodified":1491372807,
+    "wof:lastmodified":1534185146,
     "wof:name":"Ontourage Nightclub",
     "wof:parent_id":957760607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756380741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

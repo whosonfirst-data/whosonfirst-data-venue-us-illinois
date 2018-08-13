@@ -7,6 +7,7 @@
     "addr:postcode":"60620",
     "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.682098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9033 S Western Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959061,
-    "wof:geomhash":"2e7fc30bad2350dd6d4c58033804fe0d",
+    "wof:geomhash":"497e1c7347232d7bebc724246c430286",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756256135,
-    "wof:lastmodified":1491369579,
+    "wof:lastmodified":1534185143,
     "wof:name":"Patterson John E III MD",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756346903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

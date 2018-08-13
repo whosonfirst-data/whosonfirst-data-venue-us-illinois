@@ -2,18 +2,24 @@
   "id": 756046437,
   "type": "Feature",
   "properties": {
-    "addr:full":"16236 Vincennes Ave South Holland IL 60473",
+    "addr:city":"South Holland",
+    "addr:full":"16236 Vincennes Ave South Holland, Il 60473",
+    "addr:house_number":"16236",
     "addr:housenumber":"16236",
+    "addr:phone":"+1 708-331-6011",
     "addr:postcode":"60473",
+    "addr:road":"Vincennes Ave",
+    "addr:state":"IL",
     "addr:street":"Vincennes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.627098,41.5975,-87.627098,41.5975",
-    "geom:latitude":41.5975,
-    "geom:longitude":-87.627098,
+    "geom:bbox":"-87.62884,41.60067,-87.62884,41.60067",
+    "geom:latitude":41.60067,
+    "geom:longitude":-87.62884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16236 Vincennes Ave",
     "sg:city":"South Holland",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 708 331 6011",
     "sg:postcode":"60473",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102530699
+    ],
     "wof:belongsto":[
         85890925,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700121,
         "sg:id":"SG_57RZERmHTtXBL66ld4CnQT_41.597500_-87.627098@1303262859"
     },
     "wof:country":"US",
     "wof:created":1461954367,
-    "wof:geomhash":"86f7afd52d8a0ee399a49bc42cce279a",
+    "wof:geomhash":"a54ba166d0df926b7449d2dd58efb5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":756046437,
-    "wof:lastmodified":1472621158,
+    "wof:lastmodified":1534185148,
     "wof:name":"Midwest Carvers Museum",
     "wof:parent_id":85890925,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.627098,
-    41.5975,
-    -87.627098,
-    41.5975
+    -87.62884,
+    41.60067,
+    -87.62884,
+    41.60067
 ],
-  "geometry": {"coordinates":[-87.627098,41.5975],"type":"Point"}
+  "geometry": {"coordinates":[-87.62884,41.60067],"type":"Point"}
 }

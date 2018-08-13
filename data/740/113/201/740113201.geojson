@@ -2,19 +2,25 @@
   "id": 740113201,
   "type": "Feature",
   "properties": {
-    "addr:full":"5358 N Ashland Ave Chicago IL 60640",
+    "addr:city":"Chicago",
+    "addr:full":"5358 N Ashland Ave Chicago, Il 60640-2023",
+    "addr:house_number":"5358",
     "addr:housenumber":"5358",
-    "addr:postcode":"60640",
+    "addr:phone":"+1 773-506-4849",
+    "addr:postcode":"60640-2023",
+    "addr:road":"N Ashland Ave",
+    "addr:state":"IL",
     "addr:street":"N Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.669706,41.979291,-87.669706,41.979291",
-    "geom:latitude":41.979291,
-    "geom:longitude":-87.669706,
+    "geom:bbox":"-87.66978,41.97915,-87.66978,41.97915",
+    "geom:latitude":41.97915,
+    "geom:longitude":-87.66978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5358 N Ashland Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "historical"
     ],
     "sg:website":"http://www.edgewaterhistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85882139,
         102191575,
@@ -46,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700725,
         "sg:id":"SG_2QWyjuswXZ8wNYQEH24KlI_41.979446_-87.669781@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461949899,
-    "wof:geomhash":"79e2cdd8ac97487923eaa32952522e73",
+    "wof:geomhash":"40174fa5264118bc0819b029cbb16dd7",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -65,7 +76,7 @@
         }
     ],
     "wof:id":740113201,
-    "wof:lastmodified":1491370449,
+    "wof:lastmodified":1534185149,
     "wof:name":"Edgewater Historical Society",
     "wof:parent_id":85882139,
     "wof:placetype":"venue",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -87.669706,
-    41.979291,
-    -87.669706,
-    41.979291
+    -87.66978,
+    41.97915,
+    -87.66978,
+    41.97915
 ],
-  "geometry": {"coordinates":[-87.66970600000001,41.979291],"type":"Point"}
+  "geometry": {"coordinates":[-87.66978,41.97915],"type":"Point"}
 }

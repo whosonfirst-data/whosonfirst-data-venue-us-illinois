@@ -2,19 +2,25 @@
   "id": 756346741,
   "type": "Feature",
   "properties": {
-    "addr:full":"10621 S Seeley Ave Chicago IL 60643",
+    "addr:city":"Chicago",
+    "addr:full":"10621 S Seeley Ave Chicago, Il 60643-2618",
+    "addr:house_number":"10621",
     "addr:housenumber":"10621",
-    "addr:postcode":"60643",
+    "addr:phone":"+1 773-881-1675",
+    "addr:postcode":"60643-2618",
+    "addr:road":"S Seeley Ave",
+    "addr:state":"IL",
     "addr:street":"S Seeley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.6726,41.700401,-87.6726,41.700401",
-    "geom:latitude":41.700401,
-    "geom:longitude":-87.6726,
+    "geom:bbox":"-87.67275,41.70067,-87.67275,41.70067",
+    "geom:latitude":41.70067,
+    "geom:longitude":-87.67275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10621 S Seeley Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85867511,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700390,
         "sg:id":"SG_1O9xvorq2wNQb2poRMZuZz_41.700401_-87.672600@1303262899"
     },
     "wof:country":"US",
     "wof:created":1461961101,
-    "wof:geomhash":"ed5a8c063f7f508fc1103d6548620458",
+    "wof:geomhash":"331d0902e42463d30a8ca19a075d5fbb",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":756346741,
-    "wof:lastmodified":1491369605,
-    "wof:name":"Ridge Historical Soc the",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Ridge Historical Society",
     "wof:parent_id":85867511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -87.6726,
-    41.700401,
-    -87.6726,
-    41.700401
+    -87.67275,
+    41.70067,
+    -87.67275,
+    41.70067
 ],
-  "geometry": {"coordinates":[-87.6726,41.700401],"type":"Point"}
+  "geometry": {"coordinates":[-87.67274999999999,41.70067],"type":"Point"}
 }

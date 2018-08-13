@@ -2,18 +2,24 @@
   "id": 219204131,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 N Center St Gridley IL 61744",
+    "addr:city":"Gridley",
+    "addr:full":"318 N Center St Gridley, Il 61744",
+    "addr:house_number":"318",
     "addr:housenumber":"318",
+    "addr:phone":"+1 309-747-3177",
     "addr:postcode":"61744",
+    "addr:road":"N Center St",
+    "addr:state":"IL",
     "addr:street":"N Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.8813,40.743198,-88.8813,40.743198",
-    "geom:latitude":40.743198,
-    "geom:longitude":-88.8813,
+    "geom:bbox":"-88.88109,40.73874,-88.88109,40.73874",
+    "geom:latitude":40.73874,
+    "geom:longitude":-88.88109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"318 N Center St",
     "sg:city":"Gridley",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 309 747 3177",
     "sg:postcode":"61744",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -37,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700052,
         "sg:id":"SG_7UVwMfWbOdoiXu2jR5MADp_40.743198_-88.881300@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b54262746d37e85f98969f96812029b4",
+    "wof:geomhash":"69d9873f22fcad6524a8a1194145c8da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":219204131,
-    "wof:lastmodified":1472620893,
-    "wof:name":"Telephone Museum Gridley",
+    "wof:lastmodified":1534185116,
+    "wof:name":"Telephone Museum Of Gridley",
     "wof:parent_id":85867921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.8813,
-    40.743198,
-    -88.8813,
-    40.743198
+    -88.88109,
+    40.73874,
+    -88.88109,
+    40.73874
 ],
-  "geometry": {"coordinates":[-88.8813,40.743198],"type":"Point"}
+  "geometry": {"coordinates":[-88.88109,40.73874],"type":"Point"}
 }

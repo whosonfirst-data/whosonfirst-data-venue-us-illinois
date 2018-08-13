@@ -7,6 +7,7 @@
     "addr:postcode":"60618",
     "addr:street":"W Belmont Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.725205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3927 W Belmont Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958694,
-    "wof:geomhash":"a1565f353d44502eb271ffc9b2473561",
+    "wof:geomhash":"c01da4f4c6ca8de606a8b4827a786776",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756240371,
-    "wof:lastmodified":1491368731,
+    "wof:lastmodified":1534185141,
     "wof:name":"Cardinal Fitness",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756241505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

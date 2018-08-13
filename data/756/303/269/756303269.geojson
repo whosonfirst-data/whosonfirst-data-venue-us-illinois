@@ -7,6 +7,7 @@
     "addr:postcode":"60632",
     "addr:street":"S Archer Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.698968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4192 S Archer Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960157,
-    "wof:geomhash":"23556ea5c4295a1c9c950362480aa559",
+    "wof:geomhash":"b00e65d1809daad97db514f7fed11784",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756303269,
-    "wof:lastmodified":1491371550,
+    "wof:lastmodified":1534185143,
     "wof:name":"TCF BRIGHTON PARK",
     "wof:parent_id":420518915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756304259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

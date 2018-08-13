@@ -7,6 +7,7 @@
     "addr:postcode":"60647",
     "addr:street":"N Damen Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.677498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2119 N Damen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961385,
-    "wof:geomhash":"7c6f72278649b9d7f304445c1367b2a3",
+    "wof:geomhash":"0a43022b29ef7ae2678c664a086e32b7",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756359287,
-    "wof:lastmodified":1491370243,
+    "wof:lastmodified":1534185144,
     "wof:name":"Gro Salon",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756361535
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

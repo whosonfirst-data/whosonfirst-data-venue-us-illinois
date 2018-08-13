@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Shakespeare Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.663803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1415 W Shakespeare Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958239,
-    "wof:geomhash":"592c88d32226040a26176a6085c0919c",
+    "wof:geomhash":"3b7c92f3290b3459744265e8d2c2845e",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":756220631,
-    "wof:lastmodified":1491372502,
+    "wof:lastmodified":1534185139,
     "wof:name":"White Glove Car Wash & Auto Appearance Center",
     "wof:parent_id":1024496983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756222189
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

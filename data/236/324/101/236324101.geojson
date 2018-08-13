@@ -2,18 +2,24 @@
   "id": 236324101,
   "type": "Feature",
   "properties": {
-    "addr:full":"3826 N Taylor Rd Hanna City IL 61536",
+    "addr:city":"Peoria",
+    "addr:full":"3826 N Taylor Rd Peoria, Il 61615-9617",
+    "addr:house_number":"3826",
     "addr:housenumber":"3826",
-    "addr:postcode":"61536",
+    "addr:phone":"+1 309-688-6631",
+    "addr:postcode":"61615-9617",
+    "addr:road":"N Taylor Rd",
+    "addr:state":"IL",
     "addr:street":"N Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.747312,40.73168,-89.747312,40.73168",
-    "geom:latitude":40.73168,
-    "geom:longitude":-89.747312,
+    "geom:bbox":"-89.74725,40.73274,-89.74725,40.73274",
+    "geom:latitude":40.73274,
+    "geom:longitude":-89.74725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3826 N Taylor Rd",
     "sg:city":"Hanna City",
     "sg:classifiers":[
@@ -28,17 +34,21 @@
     "sg:postcode":"61536",
     "sg:province":"IL",
     "sg:website":"www.wildlifeprairiestatepark.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528311
+    ],
     "wof:belongsto":[
         85633793,
         85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700026,
         "sg:id":"SG_2Y3T8ZfjtQG5S0xLisnaex_40.731680_-89.747312@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1cc614fa70fcde9f3f28f5725337e55",
+    "wof:geomhash":"99e6235a8d8c171a3f8348f83c072ffb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,8 +60,8 @@
         }
     ],
     "wof:id":236324101,
-    "wof:lastmodified":1472621544,
-    "wof:name":"Wildlife Prairie State Park",
+    "wof:lastmodified":1534185121,
+    "wof:name":"Wildlife Prairie Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -60,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.747312,
-    40.73168,
-    -89.747312,
-    40.73168
+    -89.74725,
+    40.73274,
+    -89.74725,
+    40.73274
 ],
-  "geometry": {"coordinates":[-89.74731199999999,40.73168],"type":"Point"}
+  "geometry": {"coordinates":[-89.74724999999999,40.73274],"type":"Point"}
 }

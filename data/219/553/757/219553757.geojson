@@ -2,18 +2,24 @@
   "id": 219553757,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 W Winter Ave Greenville IL 62246",
+    "addr:city":"Greenville",
+    "addr:full":"318 W Winter Ave Greenville, Il 62246",
+    "addr:house_number":"318",
     "addr:housenumber":"318",
+    "addr:phone":"+1 618-664-1590",
     "addr:postcode":"62246",
+    "addr:road":"W Winter Ave",
+    "addr:state":"IL",
     "addr:street":"W Winter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.413598,38.889596,-89.413598,38.889596",
-    "geom:latitude":38.889596,
-    "geom:longitude":-89.413598,
+    "geom:bbox":"-89.4138,38.88957,-89.4138,38.88957",
+    "geom:latitude":38.88957,
+    "geom:longitude":-89.4138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"318 W Winter Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529763
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700127,
         "sg:id":"SG_6CdALwehNVFj8ztjvWdKHV_38.889596_-89.413598@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cb6b7447858a26dd0331e0f97e778dd",
+    "wof:geomhash":"8d13b4e19f6793b6e6a989753d19371a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":219553757,
-    "wof:lastmodified":1472621473,
-    "wof:name":"Davis Hoiles Museum",
+    "wof:lastmodified":1534185118,
+    "wof:name":"Hoiles-Davis Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -89.413598,
-    38.889596,
-    -89.413598,
-    38.889596
+    -89.4138,
+    38.88957,
+    -89.4138,
+    38.88957
 ],
-  "geometry": {"coordinates":[-89.41359799999999,38.889596],"type":"Point"}
+  "geometry": {"coordinates":[-89.41379999999999,38.88957],"type":"Point"}
 }

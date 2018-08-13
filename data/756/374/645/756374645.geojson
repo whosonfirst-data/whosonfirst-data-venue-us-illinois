@@ -7,6 +7,7 @@
     "addr:postcode":"60653",
     "addr:street":"S Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.623398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3510 S Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961719,
-    "wof:geomhash":"7efdc6bf77d881fbfa325db00cca1a02",
+    "wof:geomhash":"568abf9afc183eac3157e48d263cb345",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756374645,
-    "wof:lastmodified":1491369680,
+    "wof:lastmodified":1534185126,
     "wof:name":"Chicago Patrolmen's Federl",
     "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269724929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

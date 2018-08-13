@@ -7,6 +7,7 @@
     "addr:postcode":"60607",
     "addr:street":"W Randolph St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.647426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"844 W Randolph St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956740,
-    "wof:geomhash":"ed070a5c6662edaf729b356aabe74c1f",
+    "wof:geomhash":"f6536e68cb70755310024eb880cd1ccc",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756155451,
-    "wof:lastmodified":1491372884,
+    "wof:lastmodified":1534185138,
     "wof:name":"Veerasway",
     "wof:parent_id":974522607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756153977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"

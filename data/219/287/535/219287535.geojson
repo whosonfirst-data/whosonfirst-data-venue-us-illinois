@@ -2,18 +2,24 @@
   "id": 219287535,
   "type": "Feature",
   "properties": {
-    "addr:full":"109 Park Ave W Princeton IL 61356",
+    "addr:city":"Princeton",
+    "addr:full":"109 Park Ave W Princeton, Il 61356-1927",
+    "addr:house_number":"109",
     "addr:housenumber":"109",
-    "addr:postcode":"61356",
+    "addr:phone":"+1 815-875-2184",
+    "addr:postcode":"61356-1927",
+    "addr:road":"Park Ave W",
+    "addr:state":"IL",
     "addr:street":"Park Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.466947,41.368154,-89.466947,41.368154",
-    "geom:latitude":41.368154,
-    "geom:longitude":-89.466947,
+    "geom:bbox":"-89.46702,41.36807,-89.46702,41.36807",
+    "geom:latitude":41.36807,
+    "geom:longitude":-89.46702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"109 Park Ave W",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 815 875 2184",
     "sg:postcode":"61356",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700563,
         "sg:id":"SG_0wYrZEeZBPf1QFmU336Plr_41.368154_-89.466947@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d9696dab55f13894151520cf6bba268",
+    "wof:geomhash":"9e0bbea5b8e899a63e08f56bac96d179",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":219287535,
-    "wof:lastmodified":1472621093,
-    "wof:name":"Bureau Cnty Historical Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Bureau County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.466947,
-    41.368154,
-    -89.466947,
-    41.368154
+    -89.46702,
+    41.36807,
+    -89.46702,
+    41.36807
 ],
-  "geometry": {"coordinates":[-89.466947,41.368154],"type":"Point"}
+  "geometry": {"coordinates":[-89.46702000000001,41.36807],"type":"Point"}
 }

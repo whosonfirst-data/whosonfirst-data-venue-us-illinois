@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Fullerton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.660039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1237 W Fullerton Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958059,
-    "wof:geomhash":"28bc2ef85dfcde95f163be84c0459548",
+    "wof:geomhash":"164b45384dc469457d4f7e1f43478758",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756212115,
-    "wof:lastmodified":1491372505,
+    "wof:lastmodified":1534185141,
     "wof:name":"1237 West",
     "wof:parent_id":1024496983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756213077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

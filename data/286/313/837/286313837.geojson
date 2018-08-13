@@ -7,6 +7,7 @@
     "addr:postcode":"60067",
     "addr:street":"Plum Grove Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.043908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1921 Plum Grove Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_76Urct6Yb8cjnHnBiylEcW_42.088783_-88.043908@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e52e24e1d66e89582b656569e161f85",
+    "wof:geomhash":"16b7e5c72842532eef0d80660f5eb15e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":286313837,
-    "wof:lastmodified":1492106494,
+    "wof:lastmodified":1534185129,
     "wof:name":"Subway",
     "wof:parent_id":85890881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740149437
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

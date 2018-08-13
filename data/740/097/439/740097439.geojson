@@ -2,18 +2,24 @@
   "id": 740097439,
   "type": "Feature",
   "properties": {
-    "addr:full":"13018 Maple Ave Blue Island IL 60406",
+    "addr:city":"Blue Island",
+    "addr:full":"13018 Maple Ave Blue Island, Il 60406-2318",
+    "addr:house_number":"13018",
     "addr:housenumber":"13018",
-    "addr:postcode":"60406",
+    "addr:phone":"+1 708-371-8546",
+    "addr:postcode":"60406-2318",
+    "addr:road":"Maple Ave",
+    "addr:state":"IL",
     "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.684849,41.656494,-87.684849,41.656494",
-    "geom:latitude":41.656494,
-    "geom:longitude":-87.684849,
+    "geom:bbox":"-87.68495,41.65652,-87.68495,41.65652",
+    "geom:latitude":41.65652,
+    "geom:longitude":-87.68495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"13018 Maple Ave",
     "sg:city":"Blue Island",
     "sg:classifiers":[
@@ -33,7 +39,10 @@
         "historical"
     ],
     "sg:website":"www.blueisland.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         420518687,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700605,
         "sg:id":"SG_0ehijd1d2RnajQUI25o5Kp_41.656396_-87.684932@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461949560,
-    "wof:geomhash":"6ffe3ac5cd86d28413ae4fe494dbddde",
+    "wof:geomhash":"eca86618a8bb8e5e5b02ca4c8143df9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":740097439,
-    "wof:lastmodified":1472620898,
+    "wof:lastmodified":1534185148,
     "wof:name":"Blue Island Historical Society",
     "wof:parent_id":420518687,
     "wof:placetype":"venue",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -87.684849,
-    41.656494,
-    -87.684849,
-    41.656494
+    -87.68495,
+    41.65652,
+    -87.68495,
+    41.65652
 ],
-  "geometry": {"coordinates":[-87.684849,41.656494],"type":"Point"}
+  "geometry": {"coordinates":[-87.68495,41.65652],"type":"Point"}
 }

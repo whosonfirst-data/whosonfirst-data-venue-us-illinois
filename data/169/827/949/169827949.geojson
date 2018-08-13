@@ -7,6 +7,7 @@
     "addr:postcode":"62226",
     "addr:street":"N Illinois St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984832,38.570899,-89.984832,38.570899",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.984832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4590 N Illinois St",
     "sg:city":"Swansea",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_4GkloMV6SC9mQVha0zQCl5_38.570899_-89.984832@1303262919"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ba99ea4123b2964c1cc89c0a5bcc5e8",
+    "wof:geomhash":"a00564d1ebb243801ac32a9250778fc9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":169827949,
-    "wof:lastmodified":1472620877,
+    "wof:lastmodified":1534185128,
     "wof:name":"Hucks",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169833869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

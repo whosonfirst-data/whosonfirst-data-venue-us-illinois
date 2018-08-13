@@ -7,6 +7,7 @@
     "addr:postcode":"60660",
     "addr:street":"W Bryn Mawr Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.658374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1105 W Bryn Mawr Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_3tE8UCFrim7mYUVxmR0Lur_41.983578_-87.658374@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fc35ceb21f5e4826b9b746c93de213d",
+    "wof:geomhash":"cb4e450d2d6123f6d2bf433a9735bd56",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":270139595,
-    "wof:lastmodified":1491371809,
+    "wof:lastmodified":1534185146,
     "wof:name":"Pantry The",
     "wof:parent_id":420783511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756402429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"

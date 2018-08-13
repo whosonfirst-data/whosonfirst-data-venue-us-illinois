@@ -7,6 +7,7 @@
     "addr:postcode":"60604",
     "addr:street":"S Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.62441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"220 S Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956002,
-    "wof:geomhash":"f3ca47ba46a422a1e5b0422e8481afee",
+    "wof:geomhash":"03c2939a35bb8557c430e766799907c8",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,13 +66,17 @@
         }
     ],
     "wof:id":756122345,
-    "wof:lastmodified":1491367237,
+    "wof:lastmodified":1534185136,
     "wof:name":"Symphony Center",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756122491
+    ],
+    "wof:supersedes":[
+        756119359
+    ],
     "wof:tags":[
         "venue"
     ]

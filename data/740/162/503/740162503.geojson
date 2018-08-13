@@ -7,6 +7,7 @@
     "addr:postcode":"60639",
     "addr:street":"N Narragansett Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.785746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"2754 N Narragansett Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -67,12 +68,14 @@
         }
     ],
     "wof:id":740162503,
-    "wof:lastmodified":1512142984,
+    "wof:lastmodified":1534185142,
     "wof:name":"McDonald's",
     "wof:parent_id":85867689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756330371
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

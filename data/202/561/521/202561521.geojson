@@ -7,6 +7,7 @@
     "addr:postcode":"60014",
     "addr:street":"E Prairie St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.309154,42.244904,-88.309154,42.244904",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.309154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"370 E Prairie St",
     "sg:city":"Crystal Lake",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5PmjnIoMdsKmzglYR9psnQ_42.244904_-88.309154@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b17bca97b8cac5c06a5fd1d994f83cb",
+    "wof:geomhash":"ceda2df17882a44ecfce21497bd7ea5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":202561521,
-    "wof:lastmodified":1472621073,
+    "wof:lastmodified":1534185119,
     "wof:name":"Howells Carpet Sales",
     "wof:parent_id":85813129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219569845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"

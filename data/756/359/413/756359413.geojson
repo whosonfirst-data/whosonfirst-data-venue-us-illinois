@@ -7,6 +7,7 @@
     "addr:postcode":"60647",
     "addr:street":"N Campbell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.689211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2061 N Campbell Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961391,
-    "wof:geomhash":"cc879afc435e49ed407ee4645602ecdd",
+    "wof:geomhash":"082fab78c41336cfa461cd7fb0c22c66",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756359413,
-    "wof:lastmodified":1491368682,
+    "wof:lastmodified":1534185144,
     "wof:name":"Campbell Terrace Apts.",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756359601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

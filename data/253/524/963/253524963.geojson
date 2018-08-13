@@ -2,18 +2,24 @@
   "id": 253524963,
   "type": "Feature",
   "properties": {
-    "addr:full":"2701 Clifton Ave Rockford IL 61102",
+    "addr:city":"Rockford",
+    "addr:full":"2701 Clifton Avenue Rockford, Il 61102-3537",
+    "addr:house_number":"2701",
     "addr:housenumber":"2701",
-    "addr:postcode":"61102",
+    "addr:phone":"+1 815-965-8146",
+    "addr:postcode":"61102-3537",
+    "addr:road":"Clifton Avenue",
+    "addr:state":"IL",
     "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.109935,42.245045,-89.109935,42.245045",
-    "geom:latitude":42.245045,
-    "geom:longitude":-89.109935,
+    "geom:bbox":"-89.11005,42.2441,-89.11005,42.2441",
+    "geom:latitude":42.2441,
+    "geom:longitude":-89.11005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2701 Clifton Ave",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -38,7 +44,10 @@
         "arboretum"
     ],
     "sg:website":"www.klehm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528325
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -48,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700091,
         "sg:id":"SG_23YMvqJXjx8PssqSBd4aT3_42.245045_-89.109935@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"4825036e2a28dbce91b3afd3c05a2369",
+    "wof:geomhash":"9a203ec62ccafae10a187df441e5e9ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":253524963,
-    "wof:lastmodified":1472621564,
-    "wof:name":"Klehm Arboretum & Botanic Grdn",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Klehm Arboretum & Botanic Garden",
     "wof:parent_id":85880443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -78,10 +88,10 @@
     ]
 },
   "bbox": [
-    -89.109935,
-    42.245045,
-    -89.109935,
-    42.245045
+    -89.11005,
+    42.2441,
+    -89.11005,
+    42.2441
 ],
-  "geometry": {"coordinates":[-89.10993499999999,42.245045],"type":"Point"}
+  "geometry": {"coordinates":[-89.11005,42.2441],"type":"Point"}
 }

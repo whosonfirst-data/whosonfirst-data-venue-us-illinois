@@ -2,19 +2,25 @@
   "id": 236625991,
   "type": "Feature",
   "properties": {
-    "addr:full":"22718 S Wirth Ln Frankfort IL 60423",
+    "addr:city":"Frankfort",
+    "addr:full":"22718 S Wirth Ln Frankfort, Il 60423-8743",
+    "addr:house_number":"22718",
     "addr:housenumber":"22718",
-    "addr:postcode":"60423",
+    "addr:phone":"+1 815-464-7395",
+    "addr:postcode":"60423-8743",
+    "addr:road":"S Wirth Ln",
+    "addr:state":"IL",
     "addr:street":"S Wirth Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.802314,41.476174,-87.802314,41.476174",
-    "geom:latitude":41.476174,
-    "geom:longitude":-87.802314,
+    "geom:bbox":"-87.80226,41.47017,-87.80226,41.47017",
+    "geom:latitude":41.47017,
+    "geom:longitude":-87.80226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"22718 S Wirth Ln",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 815 464 7395",
     "sg:postcode":"60423",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85890839,
         102191575,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700822,
         "sg:id":"SG_6I7MTb7qXQVrFnJpdhEm9e_41.476174_-87.802314@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a18fbbbb267b7b338a2e284bb97c07a",
+    "wof:geomhash":"6f82cee5dc33cb18b9f0a480b4e8232d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":236625991,
-    "wof:lastmodified":1492105309,
-    "wof:name":"Schaff Truck & Tractor Museum",
+    "wof:lastmodified":1534185125,
+    "wof:name":"Schaaf Truck And Tractor Museum",
     "wof:parent_id":85890839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.802314,
-    41.476174,
-    -87.802314,
-    41.476174
+    -87.80226,
+    41.47017,
+    -87.80226,
+    41.47017
 ],
-  "geometry": {"coordinates":[-87.802314,41.476174],"type":"Point"}
+  "geometry": {"coordinates":[-87.80226,41.47017],"type":"Point"}
 }

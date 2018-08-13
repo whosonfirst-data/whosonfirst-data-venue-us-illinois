@@ -7,6 +7,7 @@
     "addr:postcode":"60608",
     "addr:street":"S Morgan St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.650841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3101 S Morgan St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956832,
-    "wof:geomhash":"9d46f0758eca0a5a60105119cd67ac70",
+    "wof:geomhash":"b370405dd17233caacf06f3081b9dfee",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":756159963,
-    "wof:lastmodified":1491368128,
+    "wof:lastmodified":1534185138,
     "wof:name":"Bridgeport Coffee Company",
     "wof:parent_id":85865729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756163867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

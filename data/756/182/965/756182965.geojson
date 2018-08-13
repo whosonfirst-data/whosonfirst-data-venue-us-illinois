@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E. Ontario Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.623596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"155 E. Ontario Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957376,
-    "wof:geomhash":"52ee7255f664f773d169f2dd2fd32f2b",
+    "wof:geomhash":"acfab9c16f991a968f719e59c06c6b7f",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -83,12 +85,14 @@
         }
     ],
     "wof:id":756182965,
-    "wof:lastmodified":1491369164,
+    "wof:lastmodified":1534185139,
     "wof:name":"VIAND \u00a0Bar and Kitchen",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756194025
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

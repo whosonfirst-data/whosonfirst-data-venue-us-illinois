@@ -7,6 +7,7 @@
     "addr:postcode":"60002",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-88.096298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Main St",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951394,
-    "wof:geomhash":"13fa58a682530af97f3e0b2e6736c92b",
+    "wof:geomhash":"8335da3494114b1b16f2a012854a8ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":740178149,
-    "wof:lastmodified":1492104250,
+    "wof:lastmodified":1534185133,
     "wof:name":"Boarini John H DDS",
     "wof:parent_id":420550001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740178879
+    ],
+    "wof:supersedes":[
+        740177175
+    ],
     "wof:tags":[
         "surgeon",
         "oral"

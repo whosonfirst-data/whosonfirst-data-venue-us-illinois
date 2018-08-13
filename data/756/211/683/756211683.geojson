@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Belden Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.648794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"804 W Belden Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958051,
-    "wof:geomhash":"62517db925580374d5601a7367b389eb",
+    "wof:geomhash":"4ee536c3694d7c6325ef21be338ec83a",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756211683,
-    "wof:lastmodified":1491372511,
+    "wof:lastmodified":1534185141,
     "wof:name":"Depaul University",
     "wof:parent_id":1024496983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756217543
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

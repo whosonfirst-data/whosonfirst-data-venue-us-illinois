@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"N La Salle St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.632512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"180 N la Salle St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955062,
-    "wof:geomhash":"88be295847eafb2e8c0d2a3714bcf0b0",
+    "wof:geomhash":"d627370d0a610a80ba14fe71f47a4ee5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -54,13 +56,18 @@
         }
     ],
     "wof:id":756079919,
-    "wof:lastmodified":1491593912,
+    "wof:lastmodified":1534185129,
     "wof:name":"Marc J Lane Law Office",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756082127,
+        756080771
+    ],
+    "wof:supersedes":[
+        756073617
+    ],
     "wof:tags":[]
 },
   "bbox": [

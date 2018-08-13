@@ -7,6 +7,7 @@
     "addr:postcode":"61801",
     "addr:street":"Springfield Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.213533,40.112248,-88.213533,40.112248",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.213533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"609 Springfield Ave",
     "sg:city":"Urbana",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6LSlY6qqUSg0DZaDl5pHLs_40.112248_-88.213533@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"47ec939bf6b2df82716e31ae2b1654a9",
+    "wof:geomhash":"891d486b97fad00fc3c9f71b68ab5e83",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":286559053,
-    "wof:lastmodified":1472621466,
+    "wof:lastmodified":1534185147,
     "wof:name":"Glenn Poor's TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756466889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

@@ -7,6 +7,7 @@
     "addr:postcode":"60451",
     "addr:street":"W Maple St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.973283,41.515377,-87.973283,41.515377",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.973283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 W Maple St",
     "sg:city":"New Lenox",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2KfI0WVOzsSCJtD32uYOz5_41.515377_-87.973283@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"feacd9a05dd7a738ee4b9c7aa9116431",
+    "wof:geomhash":"46e9fedbb8757d927cf1b92f66460e32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":203127339,
-    "wof:lastmodified":1472621036,
+    "wof:lastmodified":1534185130,
     "wof:name":"Aurelios Pizza Inc",
     "wof:parent_id":85850979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740156307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

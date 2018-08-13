@@ -7,6 +7,7 @@
     "addr:postcode":"60652",
     "addr:street":"S Cicero Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.741019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8057 S Cicero Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961691,
-    "wof:geomhash":"c386f87eb2c5cf48df977f1655116979",
+    "wof:geomhash":"54b955d0a9262bc1d1f47282c9b34274",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756373283,
-    "wof:lastmodified":1491370439,
+    "wof:lastmodified":1534185145,
     "wof:name":"Pet Luv Pet Center",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756371659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

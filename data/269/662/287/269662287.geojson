@@ -2,18 +2,24 @@
   "id": 269662287,
   "type": "Feature",
   "properties": {
-    "addr:full":"202 S Main St Brighton IL 62012",
+    "addr:city":"Brighton",
+    "addr:full":"202 S Main St Brighton, Il 62012-1150",
+    "addr:house_number":"202",
     "addr:housenumber":"202",
-    "addr:postcode":"62012",
+    "addr:phone":"+1 618-372-3536",
+    "addr:postcode":"62012-1150",
+    "addr:road":"S Main St",
+    "addr:state":"IL",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.141237,39.037943,-90.141237,39.037943",
-    "geom:latitude":39.037943,
-    "geom:longitude":-90.141237,
+    "geom:bbox":"-90.14122,39.03756,-90.14122,39.03756",
+    "geom:latitude":39.03756,
+    "geom:longitude":-90.14122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"202 S Main St",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533457
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701072,
         "sg:id":"SG_3AoyddtKr50m9L5P5dCuwc_39.037943_-90.141237@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9dfd661c5a3a3368d2c21c0d889b9e1",
+    "wof:geomhash":"1fee57345df5fc53ec373ac5f92a7997",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":269662287,
-    "wof:lastmodified":1472621196,
+    "wof:lastmodified":1534185124,
     "wof:name":"Brighton Heritage Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -90.141237,
-    39.037943,
-    -90.141237,
-    39.037943
+    -90.14122,
+    39.03756,
+    -90.14122,
+    39.03756
 ],
-  "geometry": {"coordinates":[-90.141237,39.037943],"type":"Point"}
+  "geometry": {"coordinates":[-90.14122,39.03756],"type":"Point"}
 }

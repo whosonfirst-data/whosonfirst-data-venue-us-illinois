@@ -2,18 +2,24 @@
   "id": 286322953,
   "type": "Feature",
   "properties": {
-    "addr:full":"712 18th Ave Moline IL 61265",
+    "addr:city":"Moline",
+    "addr:full":"712 18Th Ave Moline, Il 61265",
+    "addr:house_number":"712",
     "addr:housenumber":"712",
+    "addr:phone":"+1 309-762-0167",
     "addr:postcode":"61265",
+    "addr:road":"18Th Ave",
+    "addr:state":"IL",
     "addr:street":"18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.526261,41.494998,-90.526261,41.494998",
-    "geom:latitude":41.494998,
-    "geom:longitude":-90.526261,
+    "geom:bbox":"-90.52769,41.49691,-90.52769,41.49691",
+    "geom:latitude":41.49691,
+    "geom:longitude":-90.52769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"712 18th Ave",
     "sg:city":"Moline",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525797,
+        102528149
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700259,
         "sg:id":"SG_6MRMlvu5GKNw6JaTb3Uiqx_41.494998_-90.526261@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"02d0e8daf8be1f1d2cf73fb2320cb9f6",
+    "wof:geomhash":"e735a885e98f3eac2b1404f5ea6fe239",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":286322953,
-    "wof:lastmodified":1472620902,
-    "wof:name":"Center For Belgian Culture",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Belgian Culture Center",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +78,10 @@
     ]
 },
   "bbox": [
-    -90.526261,
-    41.494998,
-    -90.526261,
-    41.494998
+    -90.52769,
+    41.49691,
+    -90.52769,
+    41.49691
 ],
-  "geometry": {"coordinates":[-90.52626100000001,41.494998],"type":"Point"}
+  "geometry": {"coordinates":[-90.52769000000001,41.49691],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"W Monroe Street Suite 250",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.634259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"230 W Monroe Street Suite 250",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956388,
-    "wof:geomhash":"38c903a0f2f6ad1688e4d1a676dd3eed",
+    "wof:geomhash":"4d6168687236603e681411edd1503df6",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756140019,
-    "wof:lastmodified":1491366931,
+    "wof:lastmodified":1534185136,
     "wof:name":"Carponelli & Krug",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756131983
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "litigation"

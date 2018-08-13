@@ -2,18 +2,24 @@
   "id": 253720767,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 N Paris St Catlin IL 61817",
+    "addr:city":"Catlin",
+    "addr:full":"210 N Paris St Catlin, Il 61817",
+    "addr:house_number":"210",
     "addr:housenumber":"210",
+    "addr:phone":"+1 217-427-5766",
     "addr:postcode":"61817",
+    "addr:road":"N Paris St",
+    "addr:state":"IL",
     "addr:street":"N Paris St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.700634,40.069245,-87.700634,40.069245",
-    "geom:latitude":40.069245,
-    "geom:longitude":-87.700634,
+    "geom:bbox":"-87.70081,40.06818,-87.70081,40.06818",
+    "geom:latitude":40.06818,
+    "geom:longitude":-87.70081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"210 N Paris St",
     "sg:city":"Catlin",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 217 427 5766",
     "sg:postcode":"61817",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527889
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700267,
         "sg:id":"SG_7KKwCJLspp54CBhxtUFAbL_40.069245_-87.700634@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"30fa5230ff3ab04efb70218ed496c0a9",
+    "wof:geomhash":"f62fd363f9dc0eca870de7ba63bf8278",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":253720767,
-    "wof:lastmodified":1472621647,
+    "wof:lastmodified":1534185149,
     "wof:name":"Catlin Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.700634,
-    40.069245,
-    -87.700634,
-    40.069245
+    -87.70081,
+    40.06818,
+    -87.70081,
+    40.06818
 ],
-  "geometry": {"coordinates":[-87.70063399999999,40.069245],"type":"Point"}
+  "geometry": {"coordinates":[-87.70081,40.06818],"type":"Point"}
 }

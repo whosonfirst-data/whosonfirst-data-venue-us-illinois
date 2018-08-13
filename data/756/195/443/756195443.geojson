@@ -2,19 +2,25 @@
   "id": 756195443,
   "type": "Feature",
   "properties": {
-    "addr:full":"820 N. Michigan Avenue Chicago IL 60611",
+    "addr:city":"Chicago",
+    "addr:full":"820 North Michigan Avenue Chicago, Il 60611",
+    "addr:house_number":"820",
     "addr:housenumber":"820",
+    "addr:phone":"+1 312-915-7600",
     "addr:postcode":"60611",
+    "addr:road":"North Michigan Avenue",
+    "addr:state":"IL",
     "addr:street":"N. Michigan Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.625099,41.897499,-87.625099,41.897499",
-    "geom:latitude":41.897499,
-    "geom:longitude":-87.625099,
+    "geom:bbox":"-87.62332,41.89756,-87.62332,41.89756",
+    "geom:latitude":41.89756,
+    "geom:longitude":-87.62332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"820 N. Michigan Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
     "sg:postcode":"60611",
     "sg:province":"IL",
     "sg:website":"www.luc.edu/luma",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85866925,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503614,
         "sg:id":"SG_0Y132E2DN8rEjZwCiA3tKH_41.897499_-87.625099@1303262878"
     },
     "wof:country":"US",
     "wof:created":1461957681,
-    "wof:geomhash":"a045e8c63c99d7821bee5ac177150e36",
+    "wof:geomhash":"d6da185fc0db1a10426a4eeba2786e9b",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -78,8 +88,8 @@
         }
     ],
     "wof:id":756195443,
-    "wof:lastmodified":1491369190,
-    "wof:name":"Loyola University Museum of Art",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Loyola University Museum Of Art",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -88,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.625099,
-    41.897499,
-    -87.625099,
-    41.897499
+    -87.62332,
+    41.89756,
+    -87.62332,
+    41.89756
 ],
-  "geometry": {"coordinates":[-87.62509900000001,41.897499],"type":"Point"}
+  "geometry": {"coordinates":[-87.62332000000001,41.89756],"type":"Point"}
 }

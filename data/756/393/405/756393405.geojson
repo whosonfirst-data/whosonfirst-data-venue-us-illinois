@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Halsted Street Suite 623",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.649201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3000 N Halsted Street Suite 623",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962191,
-    "wof:geomhash":"b0899a8e59ac864e501956c02f11f7a0",
+    "wof:geomhash":"e47b45d5e154f4d8d7c7a10ddd8e232f",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":756393405,
-    "wof:lastmodified":1491366736,
+    "wof:lastmodified":1534185146,
     "wof:name":"Arturo Olivera Jr, MD",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756392313
+    ],
+    "wof:supersedes":[
+        756386841
+    ],
     "wof:tags":[
         "nutritionist"
     ]

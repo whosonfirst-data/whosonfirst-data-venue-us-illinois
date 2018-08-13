@@ -7,6 +7,7 @@
     "addr:postcode":"60517",
     "addr:street":"W 75Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.031374,41.750657,-88.031374,41.750657",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.031374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2015 W 75th St",
     "sg:city":"Woodridge",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6qA37bVq8RJ4hsuiUZOlvn_41.750657_-88.031374@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"548797329ecdf27d7d0ac6b28c5ed061",
+    "wof:geomhash":"1edb1c004fb2531522617b3e828f30ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":287005535,
-    "wof:lastmodified":1472620756,
+    "wof:lastmodified":1534185130,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740157967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating",

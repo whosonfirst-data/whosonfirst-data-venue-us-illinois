@@ -7,6 +7,7 @@
     "addr:postcode":"60805",
     "addr:street":"S Pulaski Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.721358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9401 S Pulaski Rd",
     "sg:city":"Evergreen Park",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_5EMyg79yat4D9ecFBV7dSC_41.720462_-87.721358@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"629bdd718ba73d125f7d297cb1eabc6d",
+    "wof:geomhash":"8d29b09ab4258df070dbcdf9186841c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":203063927,
-    "wof:lastmodified":1492096382,
+    "wof:lastmodified":1534185145,
     "wof:name":"Robert R Blanco MD",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756423043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

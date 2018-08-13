@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"N Clark Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.667215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4758 N Clark Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960793,
-    "wof:geomhash":"67641517f441650f8d2a57158a6b1a9e",
+    "wof:geomhash":"faf1c3ec7166cb4f906e2aa09f9187b8",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,15 @@
         }
     ],
     "wof:id":756332655,
-    "wof:lastmodified":1491371841,
+    "wof:lastmodified":1534185144,
     "wof:name":"Denitsa Shoes",
     "wof:parent_id":420783523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252877267,
+        756334501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

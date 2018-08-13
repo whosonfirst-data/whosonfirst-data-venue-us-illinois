@@ -7,6 +7,7 @@
     "addr:postcode":"60085",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.864477,42.359548,-87.864477,42.359548",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.864477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2504 Washington St",
     "sg:city":"Waukegan",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7j5pTk4MlKjfvjxOAjUL6A_42.359548_-87.864477@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"0dde0d7d455a8d1df81bb4f28210b498",
+    "wof:geomhash":"64042e0f2ec0545e73849b2738e9f626",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":286349583,
-    "wof:lastmodified":1472621022,
+    "wof:lastmodified":1534185127,
     "wof:name":"Kumar Yoginder",
     "wof:parent_id":85850431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286537223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

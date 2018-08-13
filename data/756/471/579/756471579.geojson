@@ -7,6 +7,7 @@
     "addr:postcode":"61820",
     "addr:street":"N Neil St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.243698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2000 N Neil St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756471579,
-    "wof:lastmodified":1511319834,
+    "wof:lastmodified":1534185120,
     "wof:name":"Hot Topic",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252959511
+    ],
     "wof:supersedes":[
         756473451
     ],

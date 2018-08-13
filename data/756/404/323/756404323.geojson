@@ -7,6 +7,7 @@
     "addr:postcode":"60661",
     "addr:street":"W Adams Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.643097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"566 W Adams Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962410,
-    "wof:geomhash":"c3e6ac472233b5367e1ca69cc0b20294",
+    "wof:geomhash":"564d530e5f47ead05fcf1e64abb83b83",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756404323,
-    "wof:lastmodified":1491368323,
+    "wof:lastmodified":1534185146,
     "wof:name":"Faier and Faier",
     "wof:parent_id":85865741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        269696271
+    ],
+    "wof:supersedes":[
+        253445133
+    ],
     "wof:tags":[]
 },
   "bbox": [

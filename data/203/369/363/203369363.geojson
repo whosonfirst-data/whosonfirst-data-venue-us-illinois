@@ -7,6 +7,7 @@
     "addr:postcode":"60201",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679037,42.047846,-87.679037,42.047846",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.679037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"636 Church St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_4lzYEbR73bhySP7oOtHzx0_42.047846_-87.679037@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1201ab71e13cf34e7b542172d6ea840",
+    "wof:geomhash":"599e21044c0c275ae667826a451f7dfe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":203369363,
-    "wof:lastmodified":1472621204,
+    "wof:lastmodified":1534185125,
     "wof:name":"Jane Fulton Alt",
     "wof:parent_id":85890791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236614575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

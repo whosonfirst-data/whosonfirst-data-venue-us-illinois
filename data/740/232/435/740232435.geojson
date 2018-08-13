@@ -2,19 +2,25 @@
   "id": 740232435,
   "type": "Feature",
   "properties": {
-    "addr:full":"4038 Kaneville Rd Geneva IL 60134",
+    "addr:city":"Geneva",
+    "addr:full":"4038 Kaneville Rd Geneva, Il 60134",
+    "addr:house_number":"4038",
     "addr:housenumber":"4038",
+    "addr:phone":"+1 630-262-8244",
     "addr:postcode":"60134",
+    "addr:road":"Kaneville Rd",
+    "addr:state":"IL",
     "addr:street":"Kaneville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.344418,41.878546,-88.344418,41.878546",
-    "geom:latitude":41.878546,
-    "geom:longitude":-88.344418,
+    "geom:bbox":"-88.3341,41.88335,-88.3341,41.88335",
+    "geom:latitude":41.88335,
+    "geom:longitude":-88.3341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4038 Kaneville Rd",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "arcade",
         "amusement"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529559,
+        102528701
+    ],
     "wof:belongsto":[
         85890729,
         102191575,
@@ -45,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701406,
         "sg:id":"SG_1Ow95nNWEEw83YoGGtPJP0_41.878546_-88.344418@1303262848"
     },
     "wof:country":"US",
     "wof:created":1461952558,
-    "wof:geomhash":"ec5e6c30a03d7da3dee7dfbf902e22e0",
+    "wof:geomhash":"74b93aca2a63694b5cea9e5d4da859ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":740232435,
-    "wof:lastmodified":1492107819,
+    "wof:lastmodified":1534185149,
     "wof:name":"Peck Farm Park",
     "wof:parent_id":85890729,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -88.344418,
-    41.878546,
-    -88.344418,
-    41.878546
+    -88.3341,
+    41.88335,
+    -88.3341,
+    41.88335
 ],
-  "geometry": {"coordinates":[-88.344418,41.878546],"type":"Point"}
+  "geometry": {"coordinates":[-88.33410000000001,41.88335],"type":"Point"}
 }

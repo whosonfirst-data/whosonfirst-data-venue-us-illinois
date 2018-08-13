@@ -7,6 +7,7 @@
     "addr:postcode":"60618",
     "addr:street":"N. Lincoln Ave.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.679589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4040 N. Lincoln Ave.",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958711,
-    "wof:geomhash":"351cad4561d2eeefcfeb3bf80c8b7b00",
+    "wof:geomhash":"bd3a71faf42e5253037b16abe0914ceb",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756241341,
-    "wof:lastmodified":1491370686,
+    "wof:lastmodified":1534185141,
     "wof:name":"Baird & Warner",
     "wof:parent_id":85890759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756244549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

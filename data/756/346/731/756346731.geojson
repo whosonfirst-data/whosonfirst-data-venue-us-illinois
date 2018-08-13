@@ -7,6 +7,7 @@
     "addr:postcode":"60643",
     "addr:street":"S Western",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.681297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11136 S Western",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961101,
-    "wof:geomhash":"0ce26b346c00b6aaac08b78648a3a877",
+    "wof:geomhash":"559415330df2b1250d9a0d543bb40e3c",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756346731,
-    "wof:lastmodified":1491372126,
+    "wof:lastmodified":1534185119,
     "wof:name":"McNally's",
     "wof:parent_id":420783623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202868405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

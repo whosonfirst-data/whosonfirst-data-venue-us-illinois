@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"S Wacker Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.636955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"150 S Wacker Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -79,7 +81,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956280,
-    "wof:geomhash":"1ab6d372a8d5b6d15531bf67f7b69f5d",
+    "wof:geomhash":"64c0b996aaee78361aea35534ae962b2",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -94,12 +96,14 @@
         }
     ],
     "wof:id":756135143,
-    "wof:lastmodified":1491594165,
+    "wof:lastmodified":1534185136,
     "wof:name":"Potbelly Sandwich Shop - Wacker & Adams",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756147055
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

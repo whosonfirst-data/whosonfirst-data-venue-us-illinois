@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Armitage Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.637947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"350 W Armitage Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -60,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958250,
-    "wof:geomhash":"e7faf7282c279ac2774a0377640b5032",
+    "wof:geomhash":"32501ff5ab88f0e6d1a5390c054493cd",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":756221217,
-    "wof:lastmodified":1491372926,
+    "wof:lastmodified":1534185141,
     "wof:name":"The Dog Joint",
     "wof:parent_id":975150325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756218719
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hot",

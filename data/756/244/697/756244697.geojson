@@ -7,6 +7,7 @@
     "addr:postcode":"60618",
     "addr:street":"N Sawyer Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.709009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2826 N Sawyer Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958795,
-    "wof:geomhash":"aea8b9cf3abef8179744d8d85d9adf65",
+    "wof:geomhash":"4095fae7bc4472ec93f2dc44902ae055",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756244697,
-    "wof:lastmodified":1491368654,
+    "wof:lastmodified":1534185142,
     "wof:name":"Errand Runner3",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756248365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

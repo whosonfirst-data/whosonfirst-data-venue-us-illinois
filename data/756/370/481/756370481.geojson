@@ -7,6 +7,7 @@
     "addr:postcode":"60651",
     "addr:street":"N Central Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.765396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1206 N Central Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961632,
-    "wof:geomhash":"792aa66434420668a6189b22020dbe70",
+    "wof:geomhash":"211ed70132dfa8e5f544937e1fcdd113",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756370481,
-    "wof:lastmodified":1491372172,
+    "wof:lastmodified":1534185120,
     "wof:name":"Papa Charles Restaurant",
     "wof:parent_id":1024496881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252947005
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

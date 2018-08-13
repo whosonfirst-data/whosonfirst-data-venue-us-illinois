@@ -7,6 +7,7 @@
     "addr:postcode":"62208",
     "addr:street":"Lincoln Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.991665,38.592777,-89.991665,38.592777",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.991665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10840 Lincoln Trl",
     "sg:city":"Fairview Heights",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4CHcxPa1Yefzk7q7m2QBG8_38.592777_-89.991665@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a382726380b7f7052f789cb7d9cdb1e6",
+    "wof:geomhash":"5dffa6d91b7d7e15a7e7405fa982e321",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":286310183,
-    "wof:lastmodified":1472620874,
+    "wof:lastmodified":1534185127,
     "wof:name":"Americas Best Cntcts Eyglasses",
     "wof:parent_id":85842695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169789475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

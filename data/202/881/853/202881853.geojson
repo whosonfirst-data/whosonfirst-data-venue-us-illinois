@@ -2,19 +2,25 @@
   "id": 202881853,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 College Ave Wheaton IL 60187",
+    "addr:city":"Wheaton",
+    "addr:full":"500 College Ave Wheaton, Il 60187",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
+    "addr:phone":"+1 630-752-5909",
     "addr:postcode":"60187",
+    "addr:road":"College Ave",
+    "addr:state":"IL",
     "addr:street":"College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.099478,41.867154,-88.099478,41.867154",
-    "geom:latitude":41.867154,
-    "geom:longitude":-88.099478,
+    "geom:bbox":"-88.09879,41.8674,-88.09879,41.8674",
+    "geom:latitude":41.8674,
+    "geom:longitude":-88.09879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 College Ave",
     "sg:city":"Wheaton",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 630 752 5909",
     "sg:postcode":"60187",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528701,
+        102533631
+    ],
     "wof:belongsto":[
         85891051,
         102191575,
@@ -40,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501350,
         "sg:id":"SG_2bXieCISuQG7FcYNDLB5g6_41.867154_-88.099478@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"9380ce10d7d688daad0ab96b3793148d",
+    "wof:geomhash":"b1c742bc5d338373a7289d1ef9cbb1fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":202881853,
-    "wof:lastmodified":1492104879,
-    "wof:name":"Billy Graham Ctr Museum",
+    "wof:lastmodified":1534185119,
+    "wof:name":"Billy Graham Center Museum",
     "wof:parent_id":85891051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.099478,
-    41.867154,
-    -88.099478,
-    41.867154
+    -88.09879,
+    41.8674,
+    -88.09879,
+    41.8674
 ],
-  "geometry": {"coordinates":[-88.099478,41.867154],"type":"Point"}
+  "geometry": {"coordinates":[-88.09878999999999,41.8674],"type":"Point"}
 }

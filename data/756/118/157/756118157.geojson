@@ -7,6 +7,7 @@
     "addr:postcode":"60603",
     "addr:street":"S Clark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.630997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20 S Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955913,
-    "wof:geomhash":"0de3aa290327c9c9a59af75b0c15d36c",
+    "wof:geomhash":"6089a3e04c4bcd7c50d7e1f136f17a65",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756118157,
-    "wof:lastmodified":1491593858,
+    "wof:lastmodified":1534185133,
     "wof:name":"Karaba Thomas F Atty",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756110521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -7,6 +7,7 @@
     "addr:postcode":"60610",
     "addr:street":"N Wells Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.63439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 N Wells Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957193,
-    "wof:geomhash":"c55a2962f95453e3aa1ced2c1fbc0729",
+    "wof:geomhash":"243621e3c9007c4d5a89011ab9902a62",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756175485,
-    "wof:lastmodified":1491367798,
+    "wof:lastmodified":1534185146,
     "wof:name":"Macada Furniture Company",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756378759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

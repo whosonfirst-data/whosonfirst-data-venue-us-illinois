@@ -2,18 +2,24 @@
   "id": 169855673,
   "type": "Feature",
   "properties": {
-    "addr:full":"406 W Main St Collinsville IL 62234",
+    "addr:city":"Collinsville",
+    "addr:full":"406 W Main St Collinsville, Il 62234-3018",
+    "addr:house_number":"406",
     "addr:housenumber":"406",
-    "addr:postcode":"62234",
+    "addr:phone":"+1 618-344-1834",
+    "addr:postcode":"62234-3018",
+    "addr:road":"W Main St",
+    "addr:state":"IL",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.989971,38.668601,-89.989971,38.668601",
-    "geom:latitude":38.668601,
-    "geom:longitude":-89.989971,
+    "geom:bbox":"-89.99012,38.66863,-89.99012,38.66863",
+    "geom:latitude":38.66863,
+    "geom:longitude":-89.99012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"406 W Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -27,7 +33,12 @@
     "sg:phone":"+1 618 344 1834",
     "sg:postcode":"62234",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527419,
+        102533437,
+        102533457
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -37,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701310,
         "sg:id":"SG_4DTuPePmHE9u6iT1h7NSSk_38.668601_-89.989971@1303262919"
     },
     "wof:country":"US",
-    "wof:geomhash":"d67a85be29e6f643319f289b4a7ec496",
+    "wof:geomhash":"8b27dedd24b43ad84cda7b0b573288e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":169855673,
-    "wof:lastmodified":1472620904,
+    "wof:lastmodified":1534185149,
     "wof:name":"Collinsville Historical Museum",
     "wof:parent_id":85833381,
     "wof:placetype":"venue",
@@ -63,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.989971,
-    38.668601,
-    -89.989971,
-    38.668601
+    -89.99012,
+    38.66863,
+    -89.99012,
+    38.66863
 ],
-  "geometry": {"coordinates":[-89.989971,38.668601],"type":"Point"}
+  "geometry": {"coordinates":[-89.99012,38.66863],"type":"Point"}
 }

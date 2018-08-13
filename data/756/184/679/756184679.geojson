@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E Ontario St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.619901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 E Ontario St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957430,
-    "wof:geomhash":"fe355f4437b56df9aff334bbe5243404",
+    "wof:geomhash":"fdc32b19e60dcfab3acb1b38ccb92909",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756184679,
-    "wof:lastmodified":1491368418,
+    "wof:lastmodified":1534185139,
     "wof:name":"Nielsen, Arthur C Md Sc Inc",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756189217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

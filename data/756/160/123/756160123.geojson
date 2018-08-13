@@ -2,17 +2,22 @@
   "id": 756160123,
   "type": "Feature",
   "properties": {
-    "addr:full":"1852 W 19th St Chicago IL 60608",
+    "addr:city":"Chicago",
+    "addr:full":"1852 W 19Th St Chicago, Il 60608-2706",
+    "addr:house_number":"1852",
     "addr:housenumber":"1852",
-    "addr:postcode":"60608",
+    "addr:phone":"+1 312-738-1503",
+    "addr:postcode":"60608-2706",
+    "addr:road":"W 19Th St",
+    "addr:state":"IL",
     "addr:street":"W 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.672203,41.8559,-87.672203,41.8559",
-    "geom:latitude":41.8559,
-    "geom:longitude":-87.672203,
+    "geom:bbox":"-87.67234,41.85597,-87.67234,41.85597",
+    "geom:latitude":41.85597,
+    "geom:longitude":-87.67234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"60608",
     "sg:province":"IL",
     "sg:website":"www.nationalmuseumofmexicanart.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         420783545,
         102191575,
@@ -43,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700659,
         "osm:way":202372249,
         "sg:id":"SG_6g0eOi4qS2ssOKmZzwjOYK_41.855900_-87.672203@1303262873"
     },
     "wof:country":"US",
     "wof:created":1461956836,
-    "wof:geomhash":"fc9e014b00b7ac4ba3481eaac15decc5",
+    "wof:geomhash":"22e408b6481df39f592d062654b211c7",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":756160123,
-    "wof:lastmodified":1510943819,
-    "wof:name":"National Museum of Mexican Art",
+    "wof:lastmodified":1534185148,
+    "wof:name":"National Museum Of Mexican Art",
     "wof:parent_id":420783545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -73,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.672203,
-    41.8559,
-    -87.672203,
-    41.8559
+    -87.67234,
+    41.85597,
+    -87.67234,
+    41.85597
 ],
-  "geometry": {"coordinates":[-87.672203,41.8559],"type":"Point"}
+  "geometry": {"coordinates":[-87.67234000000001,41.85597],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60622",
     "addr:street":"W Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.691299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2558 W Division St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959494,
-    "wof:geomhash":"3832d5dfa267bc69437908cac3ebca5b",
+    "wof:geomhash":"a4dafd2fc56e443521a65389d765a3c1",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756270485,
-    "wof:lastmodified":1491371111,
+    "wof:lastmodified":1534185144,
     "wof:name":"Paco's Vino Fino Liquors",
     "wof:parent_id":420518861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756269333
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beer",

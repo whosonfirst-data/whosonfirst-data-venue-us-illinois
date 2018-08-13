@@ -7,6 +7,7 @@
     "addr:postcode":"60602",
     "addr:street":"E Washington Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25 E Washington Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955380,
-    "wof:geomhash":"f466f4402583e4c0de6f30875daea95c",
+    "wof:geomhash":"c1b40e9cd7e8447a04681d0e850e65cf",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756094245,
-    "wof:lastmodified":1491367641,
+    "wof:lastmodified":1534185132,
     "wof:name":"White & Company Barbara",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756100391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

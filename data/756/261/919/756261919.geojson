@@ -7,6 +7,7 @@
     "addr:postcode":"60622",
     "addr:street":"W Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.680801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2145 W Division St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959211,
-    "wof:geomhash":"8298f25f8a016919de295d2a2f126360",
+    "wof:geomhash":"8478256f4dc333fbe9c78704e9ceba60",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756261919,
-    "wof:lastmodified":1491371703,
+    "wof:lastmodified":1534185142,
     "wof:name":"Moon Market",
     "wof:parent_id":420783487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756269243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

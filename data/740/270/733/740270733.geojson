@@ -7,6 +7,7 @@
     "addr:postcode":"60302",
     "addr:street":"N Harlem Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.805496,41.9072,-87.805496,41.9072",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.805496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1515 N Harlem Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953377,
-    "wof:geomhash":"ed93b14e354ebd288db031c50fb2d3d3",
+    "wof:geomhash":"c901ec66474d55b26c1a4ab22ecfacc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,17 @@
         }
     ],
     "wof:id":740270733,
-    "wof:lastmodified":1472622036,
+    "wof:lastmodified":1534185139,
     "wof:name":"Burbick Joseph M DDS",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        269488273
+    ],
+    "wof:supersedes":[
+        253693627
+    ],
     "wof:tags":[
         "surgeon",
         "oral"

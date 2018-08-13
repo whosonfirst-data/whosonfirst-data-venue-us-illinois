@@ -2,18 +2,24 @@
   "id": 740269087,
   "type": "Feature",
   "properties": {
-    "addr:full":"720 Chicago Ave Oak Park IL 60302",
+    "addr:city":"Oak Park",
+    "addr:full":"720 Chicago Avenue Oak Park, Il 60302",
+    "addr:house_number":"720",
     "addr:housenumber":"720",
+    "addr:phone":"+1 708-386-9853",
     "addr:postcode":"60302",
+    "addr:road":"Chicago Avenue",
+    "addr:state":"IL",
     "addr:street":"Chicago Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.794502,41.894402,-87.794502,41.894402",
-    "geom:latitude":41.894402,
-    "geom:longitude":-87.794502,
+    "geom:bbox":"-87.79295,41.89452,-87.79295,41.89452",
+    "geom:latitude":41.89452,
+    "geom:longitude":-87.79295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"720 Chicago Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "school"
     ],
     "sg:website":"www.opal-art.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85890869,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700942,
         "sg:id":"SG_5mO7DavQB9b4D3CRUqYQWC_41.894402_-87.794502@1303262853"
     },
     "wof:country":"US",
     "wof:created":1461953347,
-    "wof:geomhash":"37627a8b732e308691ae8d11096ee327",
+    "wof:geomhash":"29182196d1a0396fa63a61a9de263b09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +77,7 @@
         }
     ],
     "wof:id":740269087,
-    "wof:lastmodified":1472622000,
+    "wof:lastmodified":1534185148,
     "wof:name":"Oak Park Art League",
     "wof:parent_id":85890869,
     "wof:placetype":"venue",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -87.794502,
-    41.894402,
-    -87.794502,
-    41.894402
+    -87.79295,
+    41.89452,
+    -87.79295,
+    41.89452
 ],
-  "geometry": {"coordinates":[-87.79450199999999,41.894402],"type":"Point"}
+  "geometry": {"coordinates":[-87.79295,41.89452],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Halsted St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.649101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3000 N Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962071,
-    "wof:geomhash":"d276307b7617bd44a1c38eff4fe778aa",
+    "wof:geomhash":"6cf274f36964b6fe7a2e07fc65e335c5",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756389041,
-    "wof:lastmodified":1491372833,
+    "wof:lastmodified":1534185145,
     "wof:name":"Pietz Charles DPM",
     "wof:parent_id":974518243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756391601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"

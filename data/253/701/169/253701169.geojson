@@ -7,6 +7,7 @@
     "addr:postcode":"61822",
     "addr:street":"W Town Center Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.252334,40.142498,-88.252334,40.142498",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.252334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"620 W Town Center Blvd",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_2u3vMiPVZexoBiDWSPxCUd_40.142498_-88.252334@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"61d7a3b47532a6abf9a16bb1c3e77596",
+    "wof:geomhash":"aa23aacc9bd237845c8c6fd30ec1e5f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":253701169,
-    "wof:lastmodified":1472621629,
+    "wof:lastmodified":1534185148,
     "wof:name":"Menard Inc",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756479263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

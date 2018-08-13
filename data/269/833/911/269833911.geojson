@@ -7,6 +7,7 @@
     "addr:postcode":"60660",
     "addr:street":"W Granville Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.658876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 W Granville Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2lS6ZPk5zTmn22iGGWZB0V_41.994569_-87.658876@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2966025498f5d4e904a8b1fdf87e3bd",
+    "wof:geomhash":"1032c8aa1c6a8a0c33d558bac7afd2f7",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":269833911,
-    "wof:lastmodified":1491371793,
+    "wof:lastmodified":1534185116,
     "wof:name":"Grandville Liquor & Food Inc",
     "wof:parent_id":420783511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220024205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

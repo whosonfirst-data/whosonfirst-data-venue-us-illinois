@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"S Wacker Drive",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.637023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 S Wacker Drive",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956515,
-    "wof:geomhash":"ae6a9e816359ba55de7f15d8b5683ad4",
+    "wof:geomhash":"1cb95474e3c57819bc2d2369b44b07c5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756145217,
-    "wof:lastmodified":1491593887,
+    "wof:lastmodified":1534185137,
     "wof:name":"Hill Thomas E Pat Lwyr",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756144629
+    ],
+    "wof:supersedes":[
+        756139789
+    ],
     "wof:tags":[]
 },
   "bbox": [

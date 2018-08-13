@@ -2,18 +2,24 @@
   "id": 740119921,
   "type": "Feature",
   "properties": {
-    "addr:full":"760 Wentworth Ave Calumet City IL 60409",
+    "addr:city":"Calumet City",
+    "addr:full":"760 Wentworth Ave Calumet City, Il 60409",
+    "addr:house_number":"760",
     "addr:housenumber":"760",
+    "addr:phone":"+1 708-832-9390",
     "addr:postcode":"60409",
+    "addr:road":"Wentworth Ave",
+    "addr:state":"IL",
     "addr:street":"Wentworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.529999,41.612999,-87.529999,41.612999",
-    "geom:latitude":41.612999,
-    "geom:longitude":-87.529999,
+    "geom:bbox":"-87.53043,41.61303,-87.53043,41.61303",
+    "geom:latitude":41.61303,
+    "geom:longitude":-87.53043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"760 Wentworth Ave",
     "sg:city":"Calumet City",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 708 832 9390",
     "sg:postcode":"60409",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530699
+    ],
     "wof:belongsto":[
         85847347,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700240,
         "sg:id":"SG_3sxUgOKFKorXvNjHynp5cz_41.613384_-87.529885@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461950056,
-    "wof:geomhash":"dbc441ca37d5204e1475210b9f1835dd",
+    "wof:geomhash":"ca61f19e74c187eaa57b0675f36c71a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":740119921,
-    "wof:lastmodified":1472621327,
+    "wof:lastmodified":1534185149,
     "wof:name":"Calumet City Historical Society",
     "wof:parent_id":85847347,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.529999,
-    41.612999,
-    -87.529999,
-    41.612999
+    -87.53043,
+    41.61303,
+    -87.53043,
+    41.61303
 ],
-  "geometry": {"coordinates":[-87.529999,41.612999],"type":"Point"}
+  "geometry": {"coordinates":[-87.53043,41.61303],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"N Saint Clair Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.622763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"676 N Saint Clair Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957620,
-    "wof:geomhash":"27feed57c62af9d6347d3390577bf2fe",
+    "wof:geomhash":"9848a7fd4cb0958af810277d53e68604",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756192373,
-    "wof:lastmodified":1491368572,
+    "wof:lastmodified":1534185139,
     "wof:name":"Northwestern Memorial Hospital",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756192791
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

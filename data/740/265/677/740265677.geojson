@@ -2,18 +2,24 @@
   "id": 740265677,
   "type": "Feature",
   "properties": {
-    "addr:full":"2024 Mccormick Blvd Evanston IL 60201",
+    "addr:city":"Evanston",
+    "addr:full":"2024 Mccormick Blvd Evanston, Il 60201-3055",
+    "addr:house_number":"2024",
     "addr:housenumber":"2024",
-    "addr:postcode":"60201",
+    "addr:phone":"+1 847-448-8256",
+    "addr:postcode":"60201-3055",
+    "addr:road":"Mccormick Blvd",
+    "addr:state":"IL",
     "addr:street":"Mccormick Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.702432,42.056216,-87.702432,42.056216",
-    "geom:latitude":42.056216,
-    "geom:longitude":-87.702432,
+    "geom:bbox":"-87.70118,42.05692,-87.70118,42.05692",
+    "geom:latitude":42.05692,
+    "geom:longitude":-87.70118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2024 Mccormick Blvd",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -33,7 +39,10 @@
         "conservation"
     ],
     "sg:website":"http://www.laddarboretum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533631
+    ],
     "wof:belongsto":[
         85867707,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700943,
         "sg:id":"SG_686kEBVZKBpVjqUZ1mT7iB_42.056216_-87.702432@1303262852"
     },
     "wof:country":"US",
     "wof:created":1461953273,
-    "wof:geomhash":"3e703bc96d054d583c32f3f07b8a41f3",
+    "wof:geomhash":"e5cd76e608171305323df8f7e06f0f08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +73,8 @@
         }
     ],
     "wof:id":740265677,
-    "wof:lastmodified":1472621995,
-    "wof:name":"Eea",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Evanston Environmental Association",
     "wof:parent_id":85867707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -87.702432,
-    42.056216,
-    -87.702432,
-    42.056216
+    -87.70118,
+    42.05692,
+    -87.70118,
+    42.05692
 ],
-  "geometry": {"coordinates":[-87.702432,42.056216],"type":"Point"}
+  "geometry": {"coordinates":[-87.70117999999999,42.05692],"type":"Point"}
 }

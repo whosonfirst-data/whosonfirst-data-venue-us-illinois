@@ -7,6 +7,7 @@
     "addr:postcode":"60193",
     "addr:street":"W Irving Park Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.120059,41.997842,-88.120059,41.997842",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.120059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"905 W Irving Park Rd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_70LUVTIXFm62WPGkgoldga_41.997842_-88.120059@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"1818c92756d56f265113fe636958e8e7",
+    "wof:geomhash":"d43560dffdb1fbd7b23d96123aa65c35",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":253456733,
-    "wof:lastmodified":1472621530,
+    "wof:lastmodified":1534185139,
     "wof:name":"Northwest Flyers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740264277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "flying",

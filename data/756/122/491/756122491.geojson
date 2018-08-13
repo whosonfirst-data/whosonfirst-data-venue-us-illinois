@@ -2,19 +2,25 @@
   "id": 756122491,
   "type": "Feature",
   "properties": {
-    "addr:full":"Symphony Center 220 S Michigan Ave Chicago IL 60604",
+    "addr:city":"Chicago",
+    "addr:full":"220 S Michigan Ave Chicago, Il 60604-2596",
+    "addr:house_number":"220",
     "addr:housenumber":"220",
-    "addr:postcode":"60604",
+    "addr:phone":"+1 312-294-3000",
+    "addr:postcode":"60604-2596",
+    "addr:road":"S Michigan Ave",
+    "addr:state":"IL",
     "addr:street":"S Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.62441,41.879267,-87.62441,41.879267",
-    "geom:latitude":41.879267,
-    "geom:longitude":-87.62441,
+    "geom:bbox":"-87.62437,41.87928,-87.62437,41.87928",
+    "geom:latitude":41.87928,
+    "geom:longitude":-87.62437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Symphony Center 220 S Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "performing"
     ],
     "sg:website":"www.cso.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85831409,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700556,
         "sg:id":"SG_4fTLFRMG17HIsTuHPo5zQE_41.879267_-87.624410@1303262868"
     },
     "wof:country":"US",
     "wof:created":1461956005,
-    "wof:geomhash":"f3ca47ba46a422a1e5b0422e8481afee",
+    "wof:geomhash":"ee70129982a8db75503f890d849729ab",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,22 +74,25 @@
         }
     ],
     "wof:id":756122491,
-    "wof:lastmodified":1491366964,
+    "wof:lastmodified":1534185148,
     "wof:name":"Chicago Symphony Orchestra",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756119359,
+        756122345
+    ],
     "wof:tags":[
         "performing"
     ]
 },
   "bbox": [
-    -87.62441,
-    41.879267,
-    -87.62441,
-    41.879267
+    -87.62437,
+    41.87928,
+    -87.62437,
+    41.87928
 ],
-  "geometry": {"coordinates":[-87.62441,41.879267],"type":"Point"}
+  "geometry": {"coordinates":[-87.62437,41.87928],"type":"Point"}
 }

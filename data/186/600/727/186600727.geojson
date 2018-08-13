@@ -2,18 +2,24 @@
   "id": 186600727,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 W Douglas Ave Jacksonville IL 62650",
+    "addr:city":"Jacksonville",
+    "addr:full":"200 W Douglas Ave Jacksonville, Il 62650",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 217-243-7488",
     "addr:postcode":"62650",
+    "addr:road":"W Douglas Ave",
+    "addr:state":"IL",
     "addr:street":"W Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.229942,39.736081,-90.229942,39.736081",
-    "geom:latitude":39.736081,
-    "geom:longitude":-90.229942,
+    "geom:bbox":"-90.22912,39.73616,-90.22912,39.73616",
+    "geom:latitude":39.73616,
+    "geom:longitude":-90.22912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 W Douglas Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700188,
         "sg:id":"SG_0Nt215wSOAJCTGm3g9kzmq_39.736081_-90.229942@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e43f6a0312f8a2c9128cb139f681e95",
+    "wof:geomhash":"0ef62e9b54526666f9a34a5dfd1322c1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":186600727,
-    "wof:lastmodified":1472620981,
-    "wof:name":"Heritage Cultural Center Inc",
+    "wof:lastmodified":1534185116,
+    "wof:name":"Heritage Cultural Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -90.229942,
-    39.736081,
-    -90.229942,
-    39.736081
+    -90.22912,
+    39.73616,
+    -90.22912,
+    39.73616
 ],
-  "geometry": {"coordinates":[-90.22994199999999,39.736081],"type":"Point"}
+  "geometry": {"coordinates":[-90.22911999999999,39.73616],"type":"Point"}
 }

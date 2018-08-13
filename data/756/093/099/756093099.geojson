@@ -7,6 +7,7 @@
     "addr:postcode":"60602",
     "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.62449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30 N Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955338,
-    "wof:geomhash":"d061a1f2106850d5d1464bfc39a0ef1b",
+    "wof:geomhash":"dc5dd0567d890311172f311ff82a7a1b",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756093099,
-    "wof:lastmodified":1491367323,
+    "wof:lastmodified":1534185131,
     "wof:name":"Mary Merlo Murison Dds",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756099785
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-cosmetic",

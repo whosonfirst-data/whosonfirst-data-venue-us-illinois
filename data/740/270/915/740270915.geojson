@@ -2,18 +2,24 @@
   "id": 740270915,
   "type": "Feature",
   "properties": {
-    "addr:full":"6445 North Ave Oak Park IL 60302",
+    "addr:city":"Oak Park",
+    "addr:full":"6445 North Ave Oak Park, Il 60302-1009",
+    "addr:house_number":"6445",
     "addr:housenumber":"6445",
-    "addr:postcode":"60302",
+    "addr:phone":"+1 708-383-4815",
+    "addr:postcode":"60302-1009",
+    "addr:road":"North Ave",
+    "addr:state":"IL",
     "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.809215,41.909132,-87.809215,41.909132",
-    "geom:latitude":41.909132,
-    "geom:longitude":-87.809215,
+    "geom:bbox":"-87.7862,41.90904,-87.7862,41.90904",
+    "geom:latitude":41.90904,
+    "geom:longitude":-87.7862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6445 North Ave",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"60302",
     "sg:province":"IL",
     "sg:website":"www.wonder-works.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85867607,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700758,
         "sg:id":"SG_5rFWlSw1pzKhY792BvDJsp_41.909132_-87.809215@1303262853"
     },
     "wof:country":"US",
     "wof:created":1461953380,
-    "wof:geomhash":"2e507c124da38e7df285d65bc1e94896",
+    "wof:geomhash":"8112d8112f4e95b80d6daf7364b4dbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,20 +69,22 @@
         }
     ],
     "wof:id":740270915,
-    "wof:lastmodified":1472622042,
-    "wof:name":"Wonder Works Childrens Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Wonder Works - A Children'S Museum In Oak Park",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740270777
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -87.809215,
-    41.909132,
-    -87.809215,
-    41.909132
+    -87.7862,
+    41.90904,
+    -87.7862,
+    41.90904
 ],
-  "geometry": {"coordinates":[-87.80921499999999,41.909132],"type":"Point"}
+  "geometry": {"coordinates":[-87.78619999999999,41.90904],"type":"Point"}
 }

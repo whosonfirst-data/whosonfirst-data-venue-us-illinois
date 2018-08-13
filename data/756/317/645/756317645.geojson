@@ -2,19 +2,26 @@
   "id": 756317645,
   "type": "Feature",
   "properties": {
-    "addr:full":"740 E 56th Pl Chicago IL 60637",
+    "addr:city":"Chicago",
+    "addr:full":"740 E 56Th Pl Chicago, Il 60637-1408",
+    "addr:house_number":"740",
     "addr:housenumber":"740",
-    "addr:postcode":"60637",
+    "addr:phone":"+1 312-947-0600",
+    "addr:postcode":"60637-1408",
+    "addr:road":"E 56Th Pl",
+    "addr:state":"IL",
     "addr:street":"E 56Th Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.6036,41.792099,-87.6036,41.792099",
-    "geom:latitude":41.792099,
-    "geom:longitude":-87.6036,
+    "geom:bbox":"-87.60681,41.79217,-87.60681,41.79217",
+    "geom:latitude":41.79217,
+    "geom:longitude":-87.60681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"740 E 56th Pl",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -38,7 +45,10 @@
         "historical"
     ],
     "sg:website":"www.dusablemuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85826681,
         102191575,
@@ -51,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700575,
         "sg:id":"SG_2aey1PQj61AbCfVkP8oYBp_41.792099_-87.603600@1303262895"
     },
     "wof:country":"US",
     "wof:created":1461960466,
-    "wof:geomhash":"4740459889713395cc945f250591f475",
+    "wof:geomhash":"3c79f19ff40a908d22877fc3a65bdafa",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -70,12 +81,14 @@
         }
     ],
     "wof:id":756317645,
-    "wof:lastmodified":1491366671,
-    "wof:name":"Dusable Museum of African American History",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Dusable Museum Of African American History",
     "wof:parent_id":85826681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756318093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",
@@ -83,10 +96,10 @@
     ]
 },
   "bbox": [
-    -87.6036,
-    41.792099,
-    -87.6036,
-    41.792099
+    -87.60681,
+    41.79217,
+    -87.60681,
+    41.79217
 ],
-  "geometry": {"coordinates":[-87.6036,41.792099],"type":"Point"}
+  "geometry": {"coordinates":[-87.60681,41.79217],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.624664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"300 N Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -127,12 +128,14 @@
         }
     ],
     "wof:id":756078089,
-    "wof:lastmodified":1512001062,
+    "wof:lastmodified":1534185129,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756078851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical",

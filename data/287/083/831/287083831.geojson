@@ -2,19 +2,25 @@
   "id": 287083831,
   "type": "Feature",
   "properties": {
-    "addr:full":"789 Pearson St Des Plaines IL 60016",
+    "addr:city":"Des Plaines",
+    "addr:full":"789 Pearson St Des Plaines, Il 60016-4506",
+    "addr:house_number":"789",
     "addr:housenumber":"789",
-    "addr:postcode":"60016",
+    "addr:phone":"+1 847-391-5399",
+    "addr:postcode":"60016-4506",
+    "addr:road":"Pearson St",
+    "addr:state":"IL",
     "addr:street":"Pearson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.886048,42.039981,-87.886048,42.039981",
-    "geom:latitude":42.039981,
-    "geom:longitude":-87.886048,
+    "geom:bbox":"-87.88671,42.03909,-87.88671,42.03909",
+    "geom:latitude":42.03909,
+    "geom:longitude":-87.88671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"789 Pearson St",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 847 391 5399",
     "sg:postcode":"60016",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533631
+    ],
     "wof:belongsto":[
         85890769,
         102191575,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700970,
         "sg:id":"SG_56guHg4MstB2Adh3eGuOiR_42.039981_-87.886048@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"49f7a600f26cb108ebf8cdf5b5133bff",
+    "wof:geomhash":"eaccc0ea00e600f1cd543c97ee250fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":287083831,
-    "wof:lastmodified":1492091583,
+    "wof:lastmodified":1534185149,
     "wof:name":"Des Plaines Historical Society",
     "wof:parent_id":85890769,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.886048,
-    42.039981,
-    -87.886048,
-    42.039981
+    -87.88671,
+    42.03909,
+    -87.88671,
+    42.03909
 ],
-  "geometry": {"coordinates":[-87.886048,42.039981],"type":"Point"}
+  "geometry": {"coordinates":[-87.88670999999999,42.03909],"type":"Point"}
 }

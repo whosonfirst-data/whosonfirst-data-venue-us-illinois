@@ -7,6 +7,7 @@
     "addr:postcode":"62903",
     "addr:street":"E Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.189996,37.700856,-89.189996,37.700856",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.189996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"150 E Pleasant Hill Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0VcV4hsJQeFw3BvHi7bWkY_37.700856_-89.189996@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b6a812076e343a64e137c95a8080670",
+    "wof:geomhash":"ca08d5babb8181b278435aafc3d5464b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203374135,
-    "wof:lastmodified":1472621201,
+    "wof:lastmodified":1534185127,
     "wof:name":"CEC Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186008947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"

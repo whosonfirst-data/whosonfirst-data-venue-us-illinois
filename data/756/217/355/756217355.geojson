@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Diversey Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.64003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"435 W Diversey Pkwy",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958175,
-    "wof:geomhash":"bf74d2656c45c1394ecf7ea0cd59216b",
+    "wof:geomhash":"c8b85b3f8f8e370b69b1117433f769a6",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756217355,
-    "wof:lastmodified":1491371880,
+    "wof:lastmodified":1534185141,
     "wof:name":"Pars Cove",
     "wof:parent_id":420783537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756215335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

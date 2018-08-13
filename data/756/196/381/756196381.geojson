@@ -7,6 +7,7 @@
     "addr:postcode":"60611",
     "addr:street":"E Huron St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.622597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 E Huron St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957704,
-    "wof:geomhash":"b67bee04f5760d2b7c7da3c88bc2d1ae",
+    "wof:geomhash":"553e18e73e533272e54d13ece4f591e3",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756196381,
-    "wof:lastmodified":1491368577,
+    "wof:lastmodified":1534185140,
     "wof:name":"Furey Nancy L MD",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756196555
+    ],
+    "wof:supersedes":[
+        756188405
+    ],
     "wof:tags":[]
 },
   "bbox": [

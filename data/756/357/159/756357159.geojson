@@ -7,6 +7,7 @@
     "addr:postcode":"60646",
     "addr:street":"W Peterson Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.732938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4200 W Peterson Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961346,
-    "wof:geomhash":"e3b58bedbfadca8703fa4fa741ec7319",
+    "wof:geomhash":"d64150158ddf8032a9511ebef6ac404b",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756357159,
-    "wof:lastmodified":1491367916,
+    "wof:lastmodified":1534185144,
     "wof:name":"Dental & Oral Surgery Consultants Ltd",
     "wof:parent_id":85847191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203302383
+    ],
+    "wof:supersedes":[
+        219320967
+    ],
     "wof:tags":[]
 },
   "bbox": [

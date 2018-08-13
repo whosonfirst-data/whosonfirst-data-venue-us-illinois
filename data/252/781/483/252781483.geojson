@@ -2,18 +2,24 @@
   "id": 252781483,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 Madison Ave Dixon IL 61021",
+    "addr:city":"Dixon",
+    "addr:full":"113 Madison Ave Dixon, Il 61021",
+    "addr:house_number":"113",
     "addr:housenumber":"113",
+    "addr:phone":"+1 815-288-6702",
     "addr:postcode":"61021",
+    "addr:road":"Madison Ave",
+    "addr:state":"IL",
     "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.487897,41.842175,-89.487897,41.842175",
-    "geom:latitude":41.842175,
-    "geom:longitude":-89.487897,
+    "geom:bbox":"-89.48369,41.84241,-89.48369,41.84241",
+    "geom:latitude":41.84241,
+    "geom:longitude":-89.48369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"113 Madison Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700410,
         "sg:id":"SG_4R3R8zsQDIqx7HRGV1H7Ei_41.842175_-89.487897@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b553032ff2acd243c2903d5c93e01706",
+    "wof:geomhash":"ca7e54e338fc8c67a0b66204cd18ccce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":252781483,
-    "wof:lastmodified":1472620943,
+    "wof:lastmodified":1534185118,
     "wof:name":"Lee County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -89.487897,
-    41.842175,
-    -89.487897,
-    41.842175
+    -89.48369,
+    41.84241,
+    -89.48369,
+    41.84241
 ],
-  "geometry": {"coordinates":[-89.487897,41.842175],"type":"Point"}
+  "geometry": {"coordinates":[-89.48369,41.84241],"type":"Point"}
 }

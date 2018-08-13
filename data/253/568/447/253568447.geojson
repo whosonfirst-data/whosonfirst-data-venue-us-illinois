@@ -7,6 +7,7 @@
     "addr:postcode":"60402",
     "addr:street":"Oak Park Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.792833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3340 Oak Park Ave",
     "sg:city":"Berwyn",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_7BXVNRxX2y0vfEXNVi9gQy_41.831203_-87.792833@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a3f0f1255a16667a4bf2715ca6f7ba2",
+    "wof:geomhash":"74f8d6c2434c2df98b63fba2fd7076a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,15 @@
         }
     ],
     "wof:id":253568447,
-    "wof:lastmodified":1492094939,
+    "wof:lastmodified":1534185140,
     "wof:name":"Gary R Clemens DDS",
     "wof:parent_id":85890737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202885973,
+        740275091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

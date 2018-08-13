@@ -7,6 +7,7 @@
     "addr:postcode":"60605",
     "addr:street":"S Clark Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.630867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"428 S Clark Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956061,
-    "wof:geomhash":"30f2df236f369f7aeb795a5709ab1114",
+    "wof:geomhash":"28d84322121032304ac3c4d21c0bcc3b",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756125025,
-    "wof:lastmodified":1491367685,
+    "wof:lastmodified":1534185135,
     "wof:name":"A-Royal Pawnshop",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756126155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,17 +2,21 @@
   "id": 756358379,
   "type": "Feature",
   "properties": {
-    "addr:full":"3279 W Armitage Ave Chicago IL 60647",
+    "addr:city":"Chicago",
+    "addr:full":"3279 W Armitage Ave Chicago, Il 60647-3759",
+    "addr:house_number":"3279",
     "addr:housenumber":"3279",
-    "addr:postcode":"60647",
+    "addr:postcode":"60647-3759",
+    "addr:road":"W Armitage Ave",
+    "addr:state":"IL",
     "addr:street":"W Armitage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.710017,41.917079,-87.710017,41.917079",
-    "geom:latitude":41.917079,
-    "geom:longitude":-87.710017,
+    "geom:bbox":"-87.7091,41.91728,-87.7091,41.91728",
+    "geom:latitude":41.91728,
+    "geom:longitude":-87.7091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -35,7 +39,11 @@
         "advertising"
     ],
     "sg:website":"www.busybeaver.net",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85865755,
         102191575,
@@ -48,12 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400087,
         "osm:node":3575006993,
         "sg:id":"SG_70sYhlTU966LfHayVAqiiw_41.917079_-87.710017@1303262900"
     },
     "wof:country":"US",
     "wof:created":1461961369,
-    "wof:geomhash":"09e1fe5098ec1ad1215b7756a4214d2e",
+    "wof:geomhash":"1b9a02a04873dd91d03b761340e44175",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -68,8 +77,8 @@
         }
     ],
     "wof:id":756358379,
-    "wof:lastmodified":1510944090,
-    "wof:name":"Busy Beaver Button Co.",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Busy Beaver Button Museum",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -82,10 +91,10 @@
     ]
 },
   "bbox": [
-    -87.710017,
-    41.917079,
-    -87.710017,
-    41.917079
+    -87.7091,
+    41.91728,
+    -87.7091,
+    41.91728
 ],
-  "geometry": {"coordinates":[-87.71001699999999,41.917079],"type":"Point"}
+  "geometry": {"coordinates":[-87.70910000000001,41.91728],"type":"Point"}
 }

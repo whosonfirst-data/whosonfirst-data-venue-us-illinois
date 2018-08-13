@@ -2,19 +2,25 @@
   "id": 756183775,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 E Grand Ave Chicago IL 60611",
+    "addr:city":"Chicago",
+    "addr:full":"700 E Grand Ave Chicago, Il 60611",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
+    "addr:phone":"+1 312-527-1000",
     "addr:postcode":"60611",
+    "addr:road":"E Grand Ave",
+    "addr:state":"IL",
     "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.609237,41.89212,-87.609237,41.89212",
-    "geom:latitude":41.89212,
-    "geom:longitude":-87.609237,
+    "geom:bbox":"-87.61409,41.89199,-87.61409,41.89199",
+    "geom:latitude":41.89199,
+    "geom:longitude":-87.61409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"700 E Grand Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -23,7 +29,10 @@
     "sg:postcode":"60611",
     "sg:province":"IL",
     "sg:website":"http://www.chichildrensmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85865743,
         102191575,
@@ -36,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700228,
         "sg:id":"SG_0KRB9q9YeeR1a0F3FnIRPn_41.892120_-87.609237@1303262876"
     },
     "wof:country":"US",
     "wof:created":1461957400,
-    "wof:geomhash":"7b20f10bdda9e4d1504dac2ad02fc9fb",
+    "wof:geomhash":"803ebaef25e601641d261a95e5b25ca5",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":756183775,
-    "wof:lastmodified":1491368435,
-    "wof:name":"Chicago Children's Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Chicago Children'S Museum",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.609237,
-    41.89212,
-    -87.609237,
-    41.89212
+    -87.61409,
+    41.89199,
+    -87.61409,
+    41.89199
 ],
-  "geometry": {"coordinates":[-87.60923699999999,41.89212],"type":"Point"}
+  "geometry": {"coordinates":[-87.61409,41.89199],"type":"Point"}
 }

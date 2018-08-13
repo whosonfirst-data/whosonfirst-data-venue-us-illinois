@@ -7,6 +7,7 @@
     "addr:postcode":"62704",
     "addr:street":"S Veterans Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.706521,39.763158,-89.706521,39.763158",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.706521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2991 S Veterans Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_4qjQZI6B9z6UPX1YKLx4ij_39.763158_-89.706521@1303262922"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bab021baeabe4975e0c1b3fe6f11c04",
+    "wof:geomhash":"d199c34dd720ed6c4cd3f792aa5272a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":185879455,
-    "wof:lastmodified":1472621010,
+    "wof:lastmodified":1534185133,
     "wof:name":"Olive Garden",
     "wof:parent_id":85868927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740172991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

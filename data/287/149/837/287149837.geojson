@@ -7,6 +7,7 @@
     "addr:postcode":"60008",
     "addr:street":"Golf Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.997755,42.051451,-87.997755,42.051451",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.997755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1600 Golf Rd",
     "sg:city":"Rolling Meadows",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1jqkOnFlyBluGalGBSLItb_42.051451_-87.997755@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"18b129126ea3cbe9e964681e30b8bf43",
+    "wof:geomhash":"29e5b1b5139290f63aefa865fd56c73b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":287149837,
-    "wof:lastmodified":1472621107,
+    "wof:lastmodified":1534185128,
     "wof:name":"Chevin Tools Inc",
     "wof:parent_id":85867819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203001169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering",

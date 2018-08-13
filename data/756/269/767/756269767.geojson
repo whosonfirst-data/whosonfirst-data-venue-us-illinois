@@ -2,19 +2,24 @@
   "id": 756269767,
   "type": "Feature",
   "properties": {
-    "addr:full":"685 N Milwaukee Avenue Chicago IL 60622",
+    "addr:city":"Chicago",
+    "addr:full":"685 N. Milwaukee Ave. Chicago, Il 60642-8021",
+    "addr:house_number":"685",
     "addr:housenumber":"685",
-    "addr:postcode":"60622",
+    "addr:postcode":"60642-8021",
+    "addr:road":"N. Milwaukee Ave.",
+    "addr:state":"IL",
     "addr:street":"N Milwaukee Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.651787,41.894182,-87.651787,41.894182",
-    "geom:latitude":41.894182,
-    "geom:longitude":-87.651787,
+    "geom:bbox":"-87.65258,41.89452,-87.65258,41.89452",
+    "geom:latitude":41.89452,
+    "geom:longitude":-87.65258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"685 N Milwaukee Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -29,7 +34,10 @@
     "sg:postcode":"60622",
     "sg:province":"IL",
     "sg:website":"www.womanmade.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85890767,
         102191575,
@@ -42,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400765,
         "sg:id":"SG_4OKtRqzKIJQZMrtoTph65j_41.894182_-87.651787@1303262888"
     },
     "wof:country":"US",
     "wof:created":1461959474,
-    "wof:geomhash":"2bd992197727b8103070d0431d36eb6a",
+    "wof:geomhash":"c3533ff0949adeefcb5af75c934742a4",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":756269767,
-    "wof:lastmodified":1491370741,
+    "wof:lastmodified":1534185149,
     "wof:name":"Woman Made Gallery",
     "wof:parent_id":85890767,
     "wof:placetype":"venue",
@@ -71,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.651787,
-    41.894182,
-    -87.651787,
-    41.894182
+    -87.65258,
+    41.89452,
+    -87.65258,
+    41.89452
 ],
-  "geometry": {"coordinates":[-87.651787,41.894182],"type":"Point"}
+  "geometry": {"coordinates":[-87.65258,41.89452],"type":"Point"}
 }

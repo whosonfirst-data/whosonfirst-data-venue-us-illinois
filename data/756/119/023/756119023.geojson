@@ -2,19 +2,27 @@
   "id": 756119023,
   "type": "Feature",
   "properties": {
-    "addr:full":"53 W Jackson Boulevard Chicago IL 60604",
+    "addr:city":"Chicago",
+    "addr:full":"53 W Jackson Blvd Ste 1120 Chicago, Il 60604-3567",
+    "addr:house_number":"53",
     "addr:housenumber":"53",
-    "addr:postcode":"60604",
+    "addr:phone":"+1 312-663-5500",
+    "addr:postcode":"60604-3567",
+    "addr:road":"W Jackson Blvd",
+    "addr:state":"IL",
     "addr:street":"W Jackson Boulevard",
+    "addr:unit":"Ste 1120",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.62936,41.878146,-87.62936,41.878146",
-    "geom:latitude":41.878146,
-    "geom:longitude":-87.62936,
+    "geom:bbox":"-87.62968,41.87807,-87.62968,41.87807",
+    "geom:latitude":41.87807,
+    "geom:longitude":-87.62968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"53 W Jackson Boulevard",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -40,7 +48,10 @@
         "architectural"
     ],
     "sg:website":"www.savewright.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85831409,
         102191575,
@@ -53,11 +64,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700741,
         "sg:id":"SG_2kED9wevG7t3VDOKMiUKpO_41.878146_-87.629360@1303262868"
     },
     "wof:country":"US",
     "wof:created":1461955933,
-    "wof:geomhash":"261b3c25db9ad5b994a1adacdc2bb852",
+    "wof:geomhash":"2a24c5096fe567ff858d89fc28d9085e",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -72,12 +84,14 @@
         }
     ],
     "wof:id":756119023,
-    "wof:lastmodified":1491367168,
+    "wof:lastmodified":1534185149,
     "wof:name":"Frank Lloyd Wright Building Conservancy",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219930599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",
@@ -87,10 +101,10 @@
     ]
 },
   "bbox": [
-    -87.62936,
-    41.878146,
-    -87.62936,
-    41.878146
+    -87.62968,
+    41.87807,
+    -87.62968,
+    41.87807
 ],
-  "geometry": {"coordinates":[-87.62936000000001,41.878146],"type":"Point"}
+  "geometry": {"coordinates":[-87.62967999999999,41.87807],"type":"Point"}
 }

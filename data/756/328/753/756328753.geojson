@@ -7,6 +7,7 @@
     "addr:postcode":"60639",
     "addr:street":"W North Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.766051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5618 W North Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960709,
-    "wof:geomhash":"c6ed244e22ae65126014e44d129bab53",
+    "wof:geomhash":"806578aad11b745b07f40ef5e4e2341a",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756328753,
-    "wof:lastmodified":1491372164,
+    "wof:lastmodified":1534185144,
     "wof:name":"White Castle System",
     "wof:parent_id":1024496881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756325093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60102",
     "addr:street":"Merchant Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.329903,42.164799,-88.329903,42.164799",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.329903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1491 Merchant Dr",
     "sg:city":"Algonquin",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461952127,
-    "wof:geomhash":"f151089ad52fb3f886e730ed7cfe18f6",
+    "wof:geomhash":"365e5d776d088bff82c9922f56f5b411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":740212103,
-    "wof:lastmodified":1472621871,
+    "wof:lastmodified":1534185137,
     "wof:name":"Dr Brett C Becker DPM",
     "wof:parent_id":420519185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740212561
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"

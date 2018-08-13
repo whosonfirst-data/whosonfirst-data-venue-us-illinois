@@ -7,6 +7,7 @@
     "addr:postcode":"60613",
     "addr:street":"N Lincoln Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.676287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3807 N Lincoln Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957950,
-    "wof:geomhash":"e18869c2ec070a8d3d141d6cfb67b6e4",
+    "wof:geomhash":"bc0c850547061792d01cef9153747d90",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756206913,
-    "wof:lastmodified":1491370710,
+    "wof:lastmodified":1534185140,
     "wof:name":"Martinez Press",
     "wof:parent_id":85890759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756211475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

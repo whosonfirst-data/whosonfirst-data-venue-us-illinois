@@ -7,6 +7,7 @@
     "addr:postcode":"62401",
     "addr:street":"N 1500Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.526781,39.180111,-88.526781,39.180111",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.526781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18536 N 1500th St",
     "sg:city":"Effingham",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_5ZmYZ6pKp5c7cLzB5F8P2c_39.180111_-88.526781@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc6f7540fdad28d1c1d2fe302c8aa320",
+    "wof:geomhash":"fbebea1195bd1e9c833bb59e34dab26f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":220012555,
-    "wof:lastmodified":1472620752,
+    "wof:lastmodified":1534185128,
     "wof:name":"Ralph Nieman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185700571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "property",

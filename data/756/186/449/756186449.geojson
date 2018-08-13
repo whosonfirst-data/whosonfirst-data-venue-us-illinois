@@ -2,17 +2,22 @@
   "id": 756186449,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 E Chicago Ave Chicago IL 60611",
+    "addr:city":"Chicago",
+    "addr:full":"220 E Chicago Ave Chicago, Il 60611-2643",
+    "addr:house_number":"220",
     "addr:housenumber":"220",
-    "addr:postcode":"60611",
+    "addr:phone":"+1 312-280-2660",
+    "addr:postcode":"60611-2643",
+    "addr:road":"E Chicago Ave",
+    "addr:state":"IL",
     "addr:street":"E Chicago Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.622603,41.897069,-87.622603,41.897069",
-    "geom:latitude":41.897069,
-    "geom:longitude":-87.622603,
+    "geom:bbox":"-87.62195,41.89685,-87.62195,41.89685",
+    "geom:latitude":41.89685,
+    "geom:longitude":-87.62195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -45,19 +50,25 @@
         "attraction"
     ],
     "sg:website":"www.mcachicago.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
+    "wof:belongsto":[
+        991907383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700964,
         "osm:way":24800223,
         "sg:id":"SG_1LByPzl2gOGn5ItcMATG5G_41.897069_-87.622603@1303262877"
     },
     "wof:country":"US",
     "wof:created":1461957493,
-    "wof:geomhash":"5f1c5bf353c91912b3be142f8f4e700e",
+    "wof:geomhash":"aa631a111fd3acfc1cbd8f928d993fef",
     "wof:hierarchy":[],
     "wof:id":756186449,
-    "wof:lastmodified":1510941700,
+    "wof:lastmodified":1534185148,
     "wof:name":"Museum Of Contemporary Art",
     "wof:parent_id":991907383,
     "wof:placetype":"venue",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -87.622603,
-    41.897069,
-    -87.622603,
-    41.897069
+    -87.62195,
+    41.89685,
+    -87.62195,
+    41.89685
 ],
-  "geometry": {"coordinates":[-87.622603,41.897069],"type":"Point"}
+  "geometry": {"coordinates":[-87.62195,41.89685],"type":"Point"}
 }

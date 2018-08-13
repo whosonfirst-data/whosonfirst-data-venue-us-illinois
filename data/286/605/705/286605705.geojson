@@ -7,6 +7,7 @@
     "addr:postcode":"62226",
     "addr:street":"N Belt W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.009009,38.541526,-90.009009,38.541526",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.009009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3605 N Belt W",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1PiAvKa2HqAiyrY9ixUZE1_38.541526_-90.009009@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"804a4b4218dcdd1029a60be6992c8ae6",
+    "wof:geomhash":"5b62ae8aa4a90579e563b5c31a13c088",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":286605705,
-    "wof:lastmodified":1472621533,
+    "wof:lastmodified":1534185127,
     "wof:name":"House of Chiu Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169828963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

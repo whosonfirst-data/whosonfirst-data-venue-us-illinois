@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.659656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4829 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960850,
-    "wof:geomhash":"79ca521f0b7d84a3bbd6a5e4e1a14624",
+    "wof:geomhash":"8225ff069a5f6c87692611375fd3aed9",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756335239,
-    "wof:lastmodified":1491369012,
+    "wof:lastmodified":1534185144,
     "wof:name":"Silver Seafood",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756332957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

@@ -2,19 +2,25 @@
   "id": 756268511,
   "type": "Feature",
   "properties": {
-    "addr:full":"984 N Milwaukee Avenue Chicago IL 60622",
+    "addr:city":"Chicago",
+    "addr:full":"984 N Milwaukee Ave Chicago, Il 60642-4101",
+    "addr:house_number":"984",
     "addr:housenumber":"984",
-    "addr:postcode":"60622",
+    "addr:phone":"+1 773-384-3352",
+    "addr:postcode":"60642-4101",
+    "addr:road":"N Milwaukee Ave",
+    "addr:state":"IL",
     "addr:street":"N Milwaukee Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.661102,41.8997,-87.661102,41.8997",
+    "geom:bbox":"-87.66093,41.8997,-87.66093,41.8997",
     "geom:latitude":41.8997,
-    "geom:longitude":-87.661102,
+    "geom:longitude":-87.66093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"984 N Milwaukee Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"60622",
     "sg:province":"IL",
     "sg:website":"www.pma.prcua.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85890757,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701299,
         "sg:id":"SG_58xsTmeTFbotb40R1nwc4L_41.899700_-87.661102@1303262888"
     },
     "wof:country":"US",
     "wof:created":1461959435,
-    "wof:geomhash":"3416d6cae51d4bc3c36bd518841d6e92",
+    "wof:geomhash":"65fb7a80101d4f69baf66a4548549da6",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -61,8 +72,8 @@
         }
     ],
     "wof:id":756268511,
-    "wof:lastmodified":1491370665,
-    "wof:name":"Polish Museum of America",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Polish Museum Of America",
     "wof:parent_id":85890757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -71,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.661102,
+    -87.66093,
     41.8997,
-    -87.661102,
+    -87.66093,
     41.8997
 ],
-  "geometry": {"coordinates":[-87.661102,41.8997],"type":"Point"}
+  "geometry": {"coordinates":[-87.66092999999999,41.8997],"type":"Point"}
 }

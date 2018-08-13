@@ -2,19 +2,25 @@
   "id": 756292921,
   "type": "Feature",
   "properties": {
-    "addr:full":"6500 S Pulaski Rd Chicago IL 60629",
+    "addr:city":"Chicago",
+    "addr:full":"6500 S Pulaski Rd Chicago, Il 60629-5136",
+    "addr:house_number":"6500",
     "addr:housenumber":"6500",
-    "addr:postcode":"60629",
+    "addr:phone":"+1 773-582-6500",
+    "addr:postcode":"60629-5136",
+    "addr:road":"S Pulaski Rd",
+    "addr:state":"IL",
     "addr:street":"S Pulaski Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.722834,41.774556,-87.722834,41.774556",
-    "geom:latitude":41.774556,
-    "geom:longitude":-87.722834,
+    "geom:bbox":"-87.72274,41.77444,-87.72274,41.77444",
+    "geom:latitude":41.77444,
+    "geom:longitude":-87.72274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6500 S Pulaski Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"60629",
     "sg:province":"IL",
     "sg:website":"www.balzekasmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85867807,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700961,
         "sg:id":"SG_4KdA4dfgohUJCjiC26x3n5_41.774556_-87.722834@1303262891"
     },
     "wof:country":"US",
     "wof:created":1461959946,
-    "wof:geomhash":"2b74b7156812637c10c0fd82e5a41fea",
+    "wof:geomhash":"9cb13c0c3655a2d287576b540b22b9bd",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":756292921,
-    "wof:lastmodified":1491370095,
-    "wof:name":"Balzekas Museum of Lithuanian Culture",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Balzekas Museum Of Lithuanian Culture",
     "wof:parent_id":85867807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.722834,
-    41.774556,
-    -87.722834,
-    41.774556
+    -87.72274,
+    41.77444,
+    -87.72274,
+    41.77444
 ],
-  "geometry": {"coordinates":[-87.72283400000001,41.774556],"type":"Point"}
+  "geometry": {"coordinates":[-87.72274,41.77444],"type":"Point"}
 }

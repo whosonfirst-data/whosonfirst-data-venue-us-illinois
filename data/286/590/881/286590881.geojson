@@ -2,18 +2,24 @@
   "id": 286590881,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 Grand Blvd Elgin IL 60120",
+    "addr:city":"Elgin",
+    "addr:full":"225 Grand Blvd Elgin, Il 60120-4278",
+    "addr:house_number":"225",
     "addr:housenumber":"225",
-    "addr:postcode":"60120",
+    "addr:phone":"+1 847-741-6655",
+    "addr:postcode":"60120-4278",
+    "addr:road":"Grand Blvd",
+    "addr:state":"IL",
     "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.263914,42.041361,-88.263914,42.041361",
-    "geom:latitude":42.041361,
-    "geom:longitude":-88.263914,
+    "geom:bbox":"-88.26391,42.04134,-88.26391,42.04134",
+    "geom:latitude":42.04134,
+    "geom:longitude":-88.26391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"225 Grand Blvd",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "gallery"
     ],
     "sg:website":"www.elginpublicmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528701
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700672,
         "sg:id":"SG_50Pd7GPIHFDIupgf14u4Sj_42.041361_-88.263914@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0c30a41b0ab07e1b623a9e730f04c4e",
+    "wof:geomhash":"e74be8e9030310200a2c29557d2ee36c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":286590881,
-    "wof:lastmodified":1472621514,
-    "wof:name":"Elgin Public Museum Inc",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Elgin Public Museum",
     "wof:parent_id":85859429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -69,10 +79,10 @@
     ]
 },
   "bbox": [
-    -88.263914,
-    42.041361,
-    -88.263914,
-    42.041361
+    -88.26391,
+    42.04134,
+    -88.26391,
+    42.04134
 ],
-  "geometry": {"coordinates":[-88.263914,42.041361],"type":"Point"}
+  "geometry": {"coordinates":[-88.26391,42.04134],"type":"Point"}
 }

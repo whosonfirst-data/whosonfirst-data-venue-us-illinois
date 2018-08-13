@@ -2,18 +2,24 @@
   "id": 270369507,
   "type": "Feature",
   "properties": {
-    "addr:full":"6799 Guilford Rd Rockford IL 61107",
+    "addr:city":"Rockford",
+    "addr:full":"6799 Guilford Rd Rockford, Il 61107-2613",
+    "addr:house_number":"6799",
     "addr:housenumber":"6799",
-    "addr:postcode":"61107",
+    "addr:phone":"+1 815-397-9112",
+    "addr:postcode":"61107-2613",
+    "addr:road":"Guilford Rd",
+    "addr:state":"IL",
     "addr:street":"Guilford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.992427,42.282222,-88.992427,42.282222",
-    "geom:latitude":42.282222,
-    "geom:longitude":-88.992427,
+    "geom:bbox":"-88.99074,42.28222,-88.99074,42.28222",
+    "geom:latitude":42.28222,
+    "geom:longitude":-88.99074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6799 Guilford Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528325
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700394,
         "sg:id":"SG_3I5gTk8gD0cA3boBJJxJie_42.282222_-88.992427@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"44262ba9bf7a1fe8dd27291ea0880fbb",
+    "wof:geomhash":"78a045b3247d3e55ce80a73f6f2880a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":270369507,
-    "wof:lastmodified":1472621446,
-    "wof:name":"MIDWAY VILLAGE & MUSEUM CNTR",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Midway Village & Museum Center",
     "wof:parent_id":85880427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -88.992427,
-    42.282222,
-    -88.992427,
-    42.282222
+    -88.99074,
+    42.28222,
+    -88.99074,
+    42.28222
 ],
-  "geometry": {"coordinates":[-88.99242700000001,42.282222],"type":"Point"}
+  "geometry": {"coordinates":[-88.99074,42.28222],"type":"Point"}
 }

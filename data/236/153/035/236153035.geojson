@@ -2,18 +2,24 @@
   "id": 236153035,
   "type": "Feature",
   "properties": {
-    "addr:full":"1515 Jersey St Quincy IL 62301",
+    "addr:city":"Quincy",
+    "addr:full":"1515 Jersey St Quincy, Il 62301-4250",
+    "addr:house_number":"1515",
     "addr:housenumber":"1515",
-    "addr:postcode":"62301",
+    "addr:phone":"+1 217-223-5900",
+    "addr:postcode":"62301-4250",
+    "addr:road":"Jersey St",
+    "addr:state":"IL",
     "addr:street":"Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.391784,39.930142,-91.391784,39.930142",
-    "geom:latitude":39.930142,
-    "geom:longitude":-91.391784,
+    "geom:bbox":"-91.39172,39.93015,-91.39172,39.93015",
+    "geom:latitude":39.93015,
+    "geom:longitude":-91.39172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1515 Jersey St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528031
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701207,
         "sg:id":"SG_2BWxvNHD4mA7W3Nhkr4VFA_39.930142_-91.391784@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d94e533b47661ba8db983f6043b109c",
+    "wof:geomhash":"e50b6b6dff36ae7b519bb88aec1912d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":236153035,
-    "wof:lastmodified":1472621202,
+    "wof:lastmodified":1534185118,
     "wof:name":"Quincy Art Center",
     "wof:parent_id":85867483,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -91.391784,
-    39.930142,
-    -91.391784,
-    39.930142
+    -91.39172,
+    39.93015,
+    -91.39172,
+    39.93015
 ],
-  "geometry": {"coordinates":[-91.391784,39.930142],"type":"Point"}
+  "geometry": {"coordinates":[-91.39172000000001,39.93015],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60652",
     "addr:street":"S Pulaski Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.729178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7500 S Pulaski Road",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961674,
-    "wof:geomhash":"1bd15806cc5af6300264ead13469c554",
+    "wof:geomhash":"411f918651bd315e160d43275e2309ed",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756372395,
-    "wof:lastmodified":1491370439,
+    "wof:lastmodified":1534185145,
     "wof:name":"Richard J Daley College",
     "wof:parent_id":85869643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756371827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

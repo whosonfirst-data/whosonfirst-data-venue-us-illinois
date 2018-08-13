@@ -7,6 +7,7 @@
     "addr:postcode":"60605",
     "addr:street":"S Michigan Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 S Michigan Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956135,
-    "wof:geomhash":"be78f5791f4b878ae3fc77d73b61757a",
+    "wof:geomhash":"2e7967fd8be478e947affdf5f32a4f4e",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756128239,
-    "wof:lastmodified":1491368228,
+    "wof:lastmodified":1534185136,
     "wof:name":"The Congress Plaza Hotel & Convention Center",
     "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756128275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

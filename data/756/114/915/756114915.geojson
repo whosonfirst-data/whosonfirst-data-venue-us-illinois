@@ -7,6 +7,7 @@
     "addr:postcode":"60603",
     "addr:street":"S Michigan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.624397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"122 S Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955838,
-    "wof:geomhash":"b22cecd3d2a70c43c148b611c55ff953",
+    "wof:geomhash":"361d55ff87b3501274ea70916a327a1e",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756114915,
-    "wof:lastmodified":1491593835,
+    "wof:lastmodified":1534185133,
     "wof:name":"Futterman Ronald L Atty",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756118203
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

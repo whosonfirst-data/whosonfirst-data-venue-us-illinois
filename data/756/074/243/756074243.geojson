@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"E Wacker Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.620582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 E Wacker Dr Lower Level",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954952,
-    "wof:geomhash":"ddb880f5f0b402ddb29f03bb5507f366",
+    "wof:geomhash":"13e6a8a44d06a62c2de2291abeb86243",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756074243,
-    "wof:lastmodified":1491370649,
+    "wof:lastmodified":1534185130,
     "wof:name":"City of Chicago Central Auto Pound",
     "wof:parent_id":85890755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756086693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"

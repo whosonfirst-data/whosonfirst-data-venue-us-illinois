@@ -7,6 +7,7 @@
     "addr:postcode":"61356",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.465037,41.368437,-89.465037,41.368437",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.465037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 S Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2Ebx4LnigqOKz8OHRLpISL_41.368437_-89.465037@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4746dc3f9b2726be9ea99970fb2cb31",
+    "wof:geomhash":"bb0864873024d177e99f398025600e33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":219184223,
-    "wof:lastmodified":1472620845,
+    "wof:lastmodified":1534185123,
     "wof:name":"County of Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269581391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

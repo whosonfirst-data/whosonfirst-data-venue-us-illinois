@@ -7,6 +7,7 @@
     "addr:postcode":"60618",
     "addr:street":"N Pulaski",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.726914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2939 N Pulaski",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958681,
-    "wof:geomhash":"d4725d77e7b9131848c135c9e6a3206e",
+    "wof:geomhash":"14a2d48ca6d4ef1e717afa0af3515d1d",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756239615,
-    "wof:lastmodified":1491368687,
+    "wof:lastmodified":1534185142,
     "wof:name":"AdvaCare Systems",
     "wof:parent_id":85865755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756340853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

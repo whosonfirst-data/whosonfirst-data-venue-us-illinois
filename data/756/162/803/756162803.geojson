@@ -7,6 +7,7 @@
     "addr:postcode":"60608",
     "addr:street":"W 21St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.649101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"916 W 21st St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -72,7 +74,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956896,
-    "wof:geomhash":"199673a938dc746a28d20ac1e7c5ec6b",
+    "wof:geomhash":"6c6c937969182892c5b9ee15383c2364",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -87,12 +89,14 @@
         }
     ],
     "wof:id":756162803,
-    "wof:lastmodified":1491368275,
+    "wof:lastmodified":1534185138,
     "wof:name":"Wells Plumbing And Heating Supplies, Inc.",
     "wof:parent_id":85865739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756165907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber",

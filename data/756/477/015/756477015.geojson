@@ -2,18 +2,24 @@
   "id": 756477015,
   "type": "Feature",
   "properties": {
-    "addr:full":"2400 W Bradley Ave Champaign IL 61821",
+    "addr:city":"Champaign",
+    "addr:full":"2400 W Bradley Avenue Champaign, Il 61821",
+    "addr:house_number":"2400",
     "addr:housenumber":"2400",
+    "addr:phone":"+1 217-351-2485",
     "addr:postcode":"61821",
+    "addr:road":"W Bradley Avenue",
+    "addr:state":"IL",
     "addr:street":"W Bradley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.289497,40.127499,-88.289497,40.127499",
-    "geom:latitude":40.127499,
-    "geom:longitude":-88.289497,
+    "geom:bbox":"-88.28677,40.12752,-88.28677,40.12752",
+    "geom:latitude":40.12752,
+    "geom:longitude":-88.28677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2400 W Bradley Ave",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -38,19 +44,23 @@
         "college",
         "elementary"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527887
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700984,
         "sg:id":"SG_33ZTvJZYaKFxp1oqdSCfDL_40.127499_-88.289497@1303262916"
     },
     "wof:country":"US",
     "wof:created":1461964174,
-    "wof:geomhash":"abec8daa4c714025de6069ba0ab4dbe3",
+    "wof:geomhash":"bac9893b41ba2dd7fc31fe052483a594",
     "wof:hierarchy":[],
     "wof:id":756477015,
-    "wof:lastmodified":1472622237,
-    "wof:name":"Parkland College",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Parkland Art Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -64,10 +74,10 @@
     ]
 },
   "bbox": [
-    -88.289497,
-    40.127499,
-    -88.289497,
-    40.127499
+    -88.28677,
+    40.12752,
+    -88.28677,
+    40.12752
 ],
-  "geometry": {"coordinates":[-88.289497,40.127499],"type":"Point"}
+  "geometry": {"coordinates":[-88.28677,40.12752],"type":"Point"}
 }

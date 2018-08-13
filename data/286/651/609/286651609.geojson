@@ -7,6 +7,7 @@
     "addr:postcode":"62901",
     "addr:street":"Mall Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.188006,37.731142,-89.188006,37.731142",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.188006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1350 Mall Rd",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0kmZDLTKUzaWjY940w1T9O_37.731142_-89.188006@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d95546a4ed3ac2966164c4a1699b21b",
+    "wof:geomhash":"d79e051ad516fa3af94f66242e3f2dfa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":286651609,
-    "wof:lastmodified":1472621564,
+    "wof:lastmodified":1534185131,
     "wof:name":"Sears Roebuck & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185952931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

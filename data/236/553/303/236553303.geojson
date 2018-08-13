@@ -2,18 +2,24 @@
   "id": 236553303,
   "type": "Feature",
   "properties": {
-    "addr:full":"416 S Main St Jacksonville IL 62650",
+    "addr:city":"Jacksonville",
+    "addr:full":"416 S Main St Jacksonville, Il 62650",
+    "addr:house_number":"416",
     "addr:housenumber":"416",
+    "addr:phone":"+1 217-245-9623",
     "addr:postcode":"62650",
+    "addr:road":"S Main St",
+    "addr:state":"IL",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.229061,39.731059,-90.229061,39.731059",
-    "geom:latitude":39.731059,
-    "geom:longitude":-90.229061,
+    "geom:bbox":"-90.22905,39.7295,-90.22905,39.7295",
+    "geom:latitude":39.7295,
+    "geom:longitude":-90.22905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"416 S Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -36,7 +42,8 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -45,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700420,
         "sg:id":"SG_1U5pbL9fJ4OeZkuh5sJ4jF_39.731059_-90.229061@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"957846ccb85025973233247d350ada7e",
+    "wof:geomhash":"210e5760186fcd4e3d79bf0ea1448970",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +69,7 @@
         }
     ],
     "wof:id":236553303,
-    "wof:lastmodified":1472621726,
+    "wof:lastmodified":1534185124,
     "wof:name":"Jacksonville Area Genealogical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    -90.229061,
-    39.731059,
-    -90.229061,
-    39.731059
+    -90.22905,
+    39.7295,
+    -90.22905,
+    39.7295
 ],
-  "geometry": {"coordinates":[-90.229061,39.731059],"type":"Point"}
+  "geometry": {"coordinates":[-90.22905,39.7295],"type":"Point"}
 }

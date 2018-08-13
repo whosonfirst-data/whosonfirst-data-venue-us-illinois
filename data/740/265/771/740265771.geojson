@@ -2,18 +2,23 @@
   "id": 740265771,
   "type": "Feature",
   "properties": {
-    "addr:full":"1730 Chicago Ave Evanston IL 60201",
+    "addr:city":"Evanston",
+    "addr:full":"1730 Chicago Ave Evanston, Il 60201-4502",
+    "addr:house_number":"1730",
     "addr:housenumber":"1730",
-    "addr:postcode":"60201",
+    "addr:postcode":"60201-4502",
+    "addr:road":"Chicago Ave",
+    "addr:state":"IL",
     "addr:street":"Chicago Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.678665,42.04826,-87.678665,42.04826",
-    "geom:latitude":42.04826,
-    "geom:longitude":-87.678665,
+    "geom:bbox":"-87.67873,42.0483,-87.67873,42.0483",
+    "geom:latitude":42.0483,
+    "geom:longitude":-87.67873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1730 Chicago Ave",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -27,7 +32,10 @@
     "sg:phone":"+1 847 328 7500",
     "sg:postcode":"60201",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533631
+    ],
     "wof:belongsto":[
         85890791,
         102191575,
@@ -39,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700782,
         "sg:id":"SG_5010PvTYKoMXhaKj5Yxc2B_42.048260_-87.678665@1303262852"
     },
     "wof:country":"US",
     "wof:created":1461953275,
-    "wof:geomhash":"7082ba98902db1fb8906902d819f64a0",
+    "wof:geomhash":"a590f90fa1192ece9782b70998651987",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":740265771,
-    "wof:lastmodified":1472621998,
-    "wof:name":"Frances Willard House",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Frances Willard Historical Association",
     "wof:parent_id":85890791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.678665,
-    42.04826,
-    -87.678665,
-    42.04826
+    -87.67873,
+    42.0483,
+    -87.67873,
+    42.0483
 ],
-  "geometry": {"coordinates":[-87.678665,42.04826],"type":"Point"}
+  "geometry": {"coordinates":[-87.67873,42.0483],"type":"Point"}
 }

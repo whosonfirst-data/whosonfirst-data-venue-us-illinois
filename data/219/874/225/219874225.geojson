@@ -2,18 +2,23 @@
   "id": 219874225,
   "type": "Feature",
   "properties": {
-    "addr:full":"431 N Chicago St Joliet IL 60432",
+    "addr:city":"Joliet",
+    "addr:full":"431 N. Chicago St. Joliet, Il 60432-1785",
+    "addr:house_number":"431",
     "addr:housenumber":"431",
-    "addr:postcode":"60432",
+    "addr:postcode":"60432-1785",
+    "addr:road":"N. Chicago St.",
+    "addr:state":"IL",
     "addr:street":"N Chicago St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.081824,41.531699,-88.081824,41.531699",
-    "geom:latitude":41.531699,
-    "geom:longitude":-88.081824,
+    "geom:bbox":"-88.08195,41.53288,-88.08195,41.53288",
+    "geom:latitude":41.53288,
+    "geom:longitude":-88.08195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"431 N Chicago St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -27,7 +32,11 @@
     "sg:phone":"+1 815 727 1926",
     "sg:postcode":"60432",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529087,
+        102534369
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400610,
         "sg:id":"SG_53hT8JnHuPJWdnUG5jL2NV_41.531699_-88.081824@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"2285ccf7758a44bab34f0de5df393361",
+    "wof:geomhash":"2708803b626804d9df8329be94fd7792",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":219874225,
-    "wof:lastmodified":1472621612,
-    "wof:name":"Sloveina Union Heritage Museum",
+    "wof:lastmodified":1534185122,
+    "wof:name":"Slovenian Women'S Union Heritage Museum",
     "wof:parent_id":85816471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.081824,
-    41.531699,
-    -88.081824,
-    41.531699
+    -88.08195,
+    41.53288,
+    -88.08195,
+    41.53288
 ],
-  "geometry": {"coordinates":[-88.081824,41.531699],"type":"Point"}
+  "geometry": {"coordinates":[-88.08195000000001,41.53288],"type":"Point"}
 }

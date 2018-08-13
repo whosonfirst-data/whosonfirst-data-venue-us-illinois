@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"N Lake Shore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1603 N Lake Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950989,
-    "wof:geomhash":"43175396da415ce66620c45dde21aad0",
+    "wof:geomhash":"8c5b170423db5632aa62a3b98c42795b",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740160759,
-    "wof:lastmodified":1491368607,
+    "wof:lastmodified":1534185140,
     "wof:name":"Castaways",
     "wof:parent_id":85865745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756223329
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

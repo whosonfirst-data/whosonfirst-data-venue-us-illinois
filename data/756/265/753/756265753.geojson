@@ -2,19 +2,25 @@
   "id": 756265753,
   "type": "Feature",
   "properties": {
-    "addr:full":"3015 W Division Street Chicago IL 60622",
+    "addr:city":"Chicago",
+    "addr:full":"3015 W Division St Chicago, Il 60622",
+    "addr:house_number":"3015",
     "addr:housenumber":"3015",
+    "addr:phone":"+1 773-486-8345",
     "addr:postcode":"60622",
+    "addr:road":"W Division St",
+    "addr:state":"IL",
     "addr:street":"W Division Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.672389,41.903741,-87.672389,41.903741",
-    "geom:latitude":41.903741,
-    "geom:longitude":-87.672389,
+    "geom:bbox":"-87.68066,41.90103,-87.68066,41.90103",
+    "geom:latitude":41.90103,
+    "geom:longitude":-87.68066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3015 W Division Street",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 773 486 8345",
     "sg:postcode":"60622",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         420518923,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700128,
         "sg:id":"SG_2YwSABR0bBseXfV9nYol0D_41.903741_-87.672389@1303262888"
     },
     "wof:country":"US",
     "wof:created":1461959345,
-    "wof:geomhash":"ee135c14666e42b6405cde0cc177a386",
+    "wof:geomhash":"a4046a133a2e8b25277959f38998f59e",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":756265753,
-    "wof:lastmodified":1491371557,
-    "wof:name":"Institute of Puerto Rican Art & Culture",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Institute Of Puerto Rican Art",
     "wof:parent_id":420518923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -70,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.672389,
-    41.903741,
-    -87.672389,
-    41.903741
+    -87.68066,
+    41.90103,
+    -87.68066,
+    41.90103
 ],
-  "geometry": {"coordinates":[-87.672389,41.903741],"type":"Point"}
+  "geometry": {"coordinates":[-87.68066,41.90103],"type":"Point"}
 }

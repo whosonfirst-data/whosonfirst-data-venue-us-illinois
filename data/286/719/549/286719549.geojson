@@ -7,6 +7,7 @@
     "addr:postcode":"61032",
     "addr:street":"S West Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.631698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1710 S West Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -58,13 +59,17 @@
         }
     ],
     "wof:id":286719549,
-    "wof:lastmodified":1512142980,
+    "wof:lastmodified":1534185131,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740164927
+    ],
+    "wof:supersedes":[
+        270379753
+    ],
     "wof:tags":[
         "fast"
     ]

@@ -2,19 +2,25 @@
   "id": 756178423,
   "type": "Feature",
   "properties": {
-    "addr:full":"1012 N Dearborn St Chicago IL 60610",
+    "addr:city":"Chicago",
+    "addr:full":"1012 N Dearborn St Chicago, Il 60610",
+    "addr:house_number":"1012",
     "addr:housenumber":"1012",
+    "addr:phone":"+1 312-642-4400",
     "addr:postcode":"60610",
+    "addr:road":"N Dearborn St",
+    "addr:state":"IL",
     "addr:street":"N Dearborn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.629919,41.900737,-87.629919,41.900737",
-    "geom:latitude":41.900737,
-    "geom:longitude":-87.629919,
+    "geom:bbox":"-87.62999,41.90097,-87.62999,41.90097",
+    "geom:latitude":41.90097,
+    "geom:longitude":-87.62999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1012 N Dearborn St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
     "sg:tags":[
         "school"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85836443,
         102191575,
@@ -49,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700078,
         "sg:id":"SG_1MEzPUwiSbrofGwooGP66W_41.900737_-87.629919@1303262876"
     },
     "wof:country":"US",
     "wof:created":1461957254,
-    "wof:geomhash":"dba6cc86d7acb73981c83c59ef789c6e",
+    "wof:geomhash":"05e241e066c994dacd9dde0eecef9cdb",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -68,8 +78,8 @@
         }
     ],
     "wof:id":756178423,
-    "wof:lastmodified":1491367795,
-    "wof:name":"Palette & Chisel Academy of Fine Arts",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Palette And Chisel Art Academy",
     "wof:parent_id":85836443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -80,10 +90,10 @@
     ]
 },
   "bbox": [
-    -87.629919,
-    41.900737,
-    -87.629919,
-    41.900737
+    -87.62999,
+    41.90097,
+    -87.62999,
+    41.90097
 ],
-  "geometry": {"coordinates":[-87.629919,41.900737],"type":"Point"}
+  "geometry": {"coordinates":[-87.62999000000001,41.90097],"type":"Point"}
 }

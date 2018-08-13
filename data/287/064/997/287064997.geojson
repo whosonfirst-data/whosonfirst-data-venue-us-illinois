@@ -2,18 +2,23 @@
   "id": 287064997,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 W Benton St Aurora IL 60506",
+    "addr:city":"Aurora",
+    "addr:full":"18 West Benton Street Aurora, Il 60506",
+    "addr:house_number":"18",
     "addr:housenumber":"18",
     "addr:postcode":"60506",
+    "addr:road":"West Benton Street",
+    "addr:state":"IL",
     "addr:street":"W Benton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.317757,41.756289,-88.317757,41.756289",
-    "geom:latitude":41.756289,
-    "geom:longitude":-88.317757,
+    "geom:bbox":"-88.31763,41.75623,-88.31763,41.75623",
+    "geom:latitude":41.75623,
+    "geom:longitude":-88.31763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18 W Benton St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -28,7 +33,11 @@
     "sg:postcode":"60506",
     "sg:province":"IL",
     "sg:website":"www.scitech.museum",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529559,
+        102528701
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500886,
         "sg:id":"SG_5kLcY9M6CwQ4RbGxhDr2fi_41.756289_-88.317757@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa3ee7b003a100a4945b61a05a12faa9",
+    "wof:geomhash":"162a0d5cdcd7845827e213c9bebef5a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":287064997,
-    "wof:lastmodified":1472620928,
-    "wof:name":"Scitech Hands On Museum",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Scitech Hands-On Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -74,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.317757,
-    41.756289,
-    -88.317757,
-    41.756289
+    -88.31763,
+    41.75623,
+    -88.31763,
+    41.75623
 ],
-  "geometry": {"coordinates":[-88.317757,41.756289],"type":"Point"}
+  "geometry": {"coordinates":[-88.31762999999999,41.75623],"type":"Point"}
 }

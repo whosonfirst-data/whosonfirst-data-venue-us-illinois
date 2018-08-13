@@ -2,18 +2,24 @@
   "id": 286829871,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 E College Ave Greenville IL 62246",
+    "addr:city":"Greenville",
+    "addr:full":"315 E College Ave Greenville, Il 62246",
+    "addr:house_number":"315",
     "addr:housenumber":"315",
+    "addr:phone":"+1 618-664-6724",
     "addr:postcode":"62246",
+    "addr:road":"E College Ave",
+    "addr:state":"IL",
     "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.408061,38.892886,-89.408061,38.892886",
-    "geom:latitude":38.892886,
-    "geom:longitude":-89.408061,
+    "geom:bbox":"-89.40904,38.89288,-89.40904,38.89288",
+    "geom:latitude":38.89288,
+    "geom:longitude":-89.40904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"315 E College Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 618 664 6724",
     "sg:postcode":"62246",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529763
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700075,
         "sg:id":"SG_4bCOrGx32Z6fUEbEEL5tsx_38.892886_-89.408061@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e10acc15bd1932b4bddd04a993d9b30",
+    "wof:geomhash":"a8779b747d442ad15d6acc45e5c22dc6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":286829871,
-    "wof:lastmodified":1472621680,
+    "wof:lastmodified":1534185148,
     "wof:name":"Richard W Bock Sculpture Musem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.408061,
-    38.892886,
-    -89.408061,
-    38.892886
+    -89.40904,
+    38.89288,
+    -89.40904,
+    38.89288
 ],
-  "geometry": {"coordinates":[-89.408061,38.892886],"type":"Point"}
+  "geometry": {"coordinates":[-89.40904,38.89288],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60607",
     "addr:street":"W Washington Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.663474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 W Washington Boulevard",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956633,
-    "wof:geomhash":"9026b4364753b9363f585822c97e31c0",
+    "wof:geomhash":"fe65b186e2cf5e15187d8dbc2748ccad",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756150429,
-    "wof:lastmodified":1491369439,
+    "wof:lastmodified":1534185137,
     "wof:name":"US Cellular Answer Wireless",
     "wof:parent_id":85866935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756155739
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 252773085,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 W Main St Dwight IL 60420",
+    "addr:city":"Dwight",
+    "addr:full":"119 W Main St Dwight, Il 60420",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
+    "addr:phone":"+1 815-584-1865",
     "addr:postcode":"60420",
+    "addr:road":"W Main St",
+    "addr:state":"IL",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.426854,41.093703,-88.426854,41.093703",
-    "geom:latitude":41.093703,
-    "geom:longitude":-88.426854,
+    "geom:bbox":"-88.42835,41.09257,-88.42835,41.09257",
+    "geom:latitude":41.09257,
+    "geom:longitude":-88.42835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 W Main St",
     "sg:city":"Dwight",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701224,
         "sg:id":"SG_5Xmc7pGdwJJbsseuSIO0s4_41.093703_-88.426854@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"bceb607be4c2b67de31f48562d100268",
+    "wof:geomhash":"b3959c41e9c9ecd8496557fd96d37cd9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":252773085,
-    "wof:lastmodified":1472620921,
+    "wof:lastmodified":1534185118,
     "wof:name":"Dwight Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -88.426854,
-    41.093703,
-    -88.426854,
-    41.093703
+    -88.42835,
+    41.09257,
+    -88.42835,
+    41.09257
 ],
-  "geometry": {"coordinates":[-88.42685400000001,41.093703],"type":"Point"}
+  "geometry": {"coordinates":[-88.42834999999999,41.09257],"type":"Point"}
 }

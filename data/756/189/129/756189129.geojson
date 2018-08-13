@@ -2,20 +2,25 @@
   "id": 756189129,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 E Grand Ave Chicago IL 60611",
+    "addr:city":"Chicago",
+    "addr:full":"600 East Grand Ave Chicago, Il 60611-3419",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
-    "addr:postcode":"60611",
+    "addr:phone":"+1 312-595-7437",
+    "addr:postcode":"60611-3419",
+    "addr:road":"East Grand Ave",
+    "addr:state":"IL",
     "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.609863,41.892109,-87.609863,41.892109",
-    "geom:latitude":41.892109,
-    "geom:longitude":-87.609863,
+    "geom:bbox":"-87.61415,41.89199,-87.61415,41.89199",
+    "geom:latitude":41.89199,
+    "geom:longitude":-87.61415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"600 E Grand Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -41,7 +46,10 @@
         "facility"
     ],
     "sg:website":"http://www.navypier.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85865743,
         102191575,
@@ -54,11 +62,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700501,
         "sg:id":"SG_2PsjhJgrkzxc49UMB3vojW_41.892109_-87.609863@1303262877"
     },
     "wof:country":"US",
     "wof:created":1461957551,
-    "wof:geomhash":"dae6a488b1f94098dafbff53b9caefcc",
+    "wof:geomhash":"6a7dfdcea807f1e78c946b8fe9cbb2a3",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":756189129,
-    "wof:lastmodified":1510941485,
+    "wof:lastmodified":1534185149,
     "wof:name":"Navy Pier",
     "wof:parent_id":85865743,
     "wof:placetype":"venue",
@@ -90,10 +99,10 @@
     ]
 },
   "bbox": [
-    -87.609863,
-    41.892109,
-    -87.609863,
-    41.892109
+    -87.61415,
+    41.89199,
+    -87.61415,
+    41.89199
 ],
-  "geometry": {"coordinates":[-87.609863,41.892109],"type":"Point"}
+  "geometry": {"coordinates":[-87.61415,41.89199],"type":"Point"}
 }

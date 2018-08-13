@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"W Belden Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.646103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"658 W Belden Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958300,
-    "wof:geomhash":"3fbca38a61e8e6304cd6af967fa6af60",
+    "wof:geomhash":"dceb8bf013578cc230184d59f64c7dc1",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":756223237,
-    "wof:lastmodified":1491372934,
+    "wof:lastmodified":1534185141,
     "wof:name":"John Barleycorn",
     "wof:parent_id":975150325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756213315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"

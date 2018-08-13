@@ -2,18 +2,24 @@
   "id": 269521349,
   "type": "Feature",
   "properties": {
-    "addr:full":"3178 S Daysville Rd Oregon IL 61061",
+    "addr:city":"Oregon",
+    "addr:full":"3178 S Daysville Rd Oregon, Il 61061",
+    "addr:house_number":"3178",
     "addr:housenumber":"3178",
+    "addr:phone":"+1 815-732-2091",
     "addr:postcode":"61061",
+    "addr:road":"S Daysville Rd",
+    "addr:state":"IL",
     "addr:street":"S Daysville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.318773,41.978932,-89.318773,41.978932",
-    "geom:latitude":41.978932,
-    "geom:longitude":-89.318773,
+    "geom:bbox":"-89.3146,41.97035,-89.3146,41.97035",
+    "geom:latitude":41.97035,
+    "geom:longitude":-89.3146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3178 S Daysville Rd",
     "sg:city":"Oregon",
     "sg:classifiers":[
@@ -27,17 +33,19 @@
     "sg:phone":"+1 815 732 2091",
     "sg:postcode":"61061",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85633793,
         85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700043,
         "sg:id":"SG_1rIj9TY9dhDxOvZsAzA3iH_41.978932_-89.318773@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"33c64f8d79ec0df19225f1d40b2e307d",
+    "wof:geomhash":"d52d00cb4a1816872f6db7c6224e4fef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269521349,
-    "wof:lastmodified":1472620844,
+    "wof:lastmodified":1534185122,
     "wof:name":"Stuka Military Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.318773,
-    41.978932,
-    -89.318773,
-    41.978932
+    -89.3146,
+    41.97035,
+    -89.3146,
+    41.97035
 ],
-  "geometry": {"coordinates":[-89.31877299999999,41.978932],"type":"Point"}
+  "geometry": {"coordinates":[-89.3146,41.97035],"type":"Point"}
 }

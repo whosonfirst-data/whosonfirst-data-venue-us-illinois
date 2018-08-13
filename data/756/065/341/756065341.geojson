@@ -2,18 +2,24 @@
   "id": 756065341,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Pine Ave Riverside IL 60546",
+    "addr:city":"Riverside",
+    "addr:full":"10 Pine Ave Riverside, Il 60546",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
+    "addr:phone":"+1 708-447-2542",
     "addr:postcode":"60546",
+    "addr:road":"Pine Ave",
+    "addr:state":"IL",
     "addr:street":"Pine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.819397,41.827599,-87.819397,41.827599",
-    "geom:latitude":41.827599,
-    "geom:longitude":-87.819397,
+    "geom:bbox":"-87.81891,41.82651,-87.81891,41.82651",
+    "geom:latitude":41.82651,
+    "geom:longitude":-87.81891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 Pine Ave",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 708 447 2542",
     "sg:postcode":"60546",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85867579,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700069,
         "sg:id":"SG_6zzEUiPjBKaSxSBaQRIsCH_41.827599_-87.819397@1303262861"
     },
     "wof:country":"US",
     "wof:created":1461954753,
-    "wof:geomhash":"230aeffde47249fb2d924292e0d29da0",
+    "wof:geomhash":"f8139caad39d284672c7968d8bbfd58a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":756065341,
-    "wof:lastmodified":1472621377,
+    "wof:lastmodified":1534185149,
     "wof:name":"Riverside Museum",
     "wof:parent_id":85867579,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.819397,
-    41.827599,
-    -87.819397,
-    41.827599
+    -87.81891,
+    41.82651,
+    -87.81891,
+    41.82651
 ],
-  "geometry": {"coordinates":[-87.819397,41.827599],"type":"Point"}
+  "geometry": {"coordinates":[-87.81891,41.82651],"type":"Point"}
 }

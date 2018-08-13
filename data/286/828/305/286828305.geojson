@@ -7,6 +7,7 @@
     "addr:postcode":"61820",
     "addr:street":"E Green St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.237149,40.110305,-88.237149,40.110305",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.237149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"108 E Green St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1Pk2u8du63eedQdBDrSVy7_40.110305_-88.237149@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0d3108a5169c871d7d7f23b9697f9cf",
+    "wof:geomhash":"23bced74bec87abbb48eb41a21ee4adc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":286828305,
-    "wof:lastmodified":1472621673,
+    "wof:lastmodified":1534185132,
     "wof:name":"Garcias On Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740168961
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

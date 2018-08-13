@@ -2,19 +2,25 @@
   "id": 756144285,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 N Wacker Dr Chicago IL 60606",
+    "addr:city":"Chicago",
+    "addr:full":"20 N Wacker Dr Chicago, Il 60606-2806",
+    "addr:house_number":"20",
     "addr:housenumber":"20",
-    "addr:postcode":"60606",
+    "addr:phone":"+1 312-332-2244",
+    "addr:postcode":"60606-2806",
+    "addr:road":"N Wacker Dr",
+    "addr:state":"IL",
     "addr:street":"N Wacker Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.637269,41.882449,-87.637269,41.882449",
-    "geom:latitude":41.882449,
-    "geom:longitude":-87.637269,
+    "geom:bbox":"-87.63686,41.88222,-87.63686,41.88222",
+    "geom:latitude":41.88222,
+    "geom:longitude":-87.63686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"20 N Wacker Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,7 +50,10 @@
         "theatre"
     ],
     "sg:website":"www.lyricopera.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85831409,
         102191575,
@@ -57,11 +66,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700935,
         "sg:id":"SG_0HjzeZqkKl44Oigb5CKsAr_41.882449_-87.637269@1303262871"
     },
     "wof:country":"US",
     "wof:created":1461956485,
-    "wof:geomhash":"6369e4adc965d531b01ac994a7930177",
+    "wof:geomhash":"701a2d9f70fe10197b686d18e25cb2b4",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -76,8 +86,8 @@
         }
     ],
     "wof:id":756144285,
-    "wof:lastmodified":1491367051,
-    "wof:name":"Lyric Opera of Chicago",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Lyric Opera Of Chicago",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -90,10 +100,10 @@
     ]
 },
   "bbox": [
-    -87.637269,
-    41.882449,
-    -87.637269,
-    41.882449
+    -87.63686,
+    41.88222,
+    -87.63686,
+    41.88222
 ],
-  "geometry": {"coordinates":[-87.637269,41.882449],"type":"Point"}
+  "geometry": {"coordinates":[-87.63686,41.88222],"type":"Point"}
 }

@@ -2,17 +2,23 @@
   "id": 740270777,
   "type": "Feature",
   "properties": {
-    "addr:full":"6445 W North Ave Oak Park IL 60302",
+    "addr:city":"Oak Park",
+    "addr:full":"6445 North Ave Oak Park, Il 60302-1009",
+    "addr:house_number":"6445",
     "addr:housenumber":"6445",
-    "addr:postcode":"60302",
+    "addr:phone":"+1 708-383-4815",
+    "addr:postcode":"60302-1009",
+    "addr:road":"North Ave",
+    "addr:state":"IL",
     "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.786878,41.909082,-87.786878,41.909082",
-    "geom:latitude":41.909082,
-    "geom:longitude":-87.786878,
+    "geom:bbox":"-87.7862,41.90904,-87.7862,41.90904",
+    "geom:latitude":41.90904,
+    "geom:longitude":-87.7862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +36,11 @@
     "sg:postcode":"60302",
     "sg:province":"IL",
     "sg:website":"www.wonder-works.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85867607,
         102191575,
@@ -42,12 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700758,
         "osm:way":416824688,
         "sg:id":"SG_4D59ebnFVzvZMCQgtJxDxO_41.909082_-87.786878@1303262853"
     },
     "wof:country":"US",
     "wof:created":1461953377,
-    "wof:geomhash":"2728691c982917345863acde532d1970",
+    "wof:geomhash":"8112d8112f4e95b80d6daf7364b4dbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,20 +72,22 @@
         }
     ],
     "wof:id":740270777,
-    "wof:lastmodified":1510942433,
-    "wof:name":"Wonder Works Children's Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Wonder Works - A Children'S Museum In Oak Park",
     "wof:parent_id":85867607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740270915
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -87.786878,
-    41.909082,
-    -87.786878,
-    41.909082
+    -87.7862,
+    41.90904,
+    -87.7862,
+    41.90904
 ],
-  "geometry": {"coordinates":[-87.786878,41.909082],"type":"Point"}
+  "geometry": {"coordinates":[-87.78619999999999,41.90904],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 756185777,
   "type": "Feature",
   "properties": {
-    "addr:full":"820 N Michigan Ave Chicago IL 60611",
+    "addr:city":"Chicago",
+    "addr:full":"820 North Michigan Avenue Chicago, Il 60611",
+    "addr:house_number":"820",
     "addr:housenumber":"820",
+    "addr:phone":"+1 312-915-7600",
     "addr:postcode":"60611",
+    "addr:road":"North Michigan Avenue",
+    "addr:state":"IL",
     "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.624226,41.897447,-87.624226,41.897447",
-    "geom:latitude":41.897447,
-    "geom:longitude":-87.624226,
+    "geom:bbox":"-87.62332,41.89756,-87.62332,41.89756",
+    "geom:latitude":41.89756,
+    "geom:longitude":-87.62332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"820 N Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -43,19 +49,25 @@
         "college"
     ],
     "sg:website":"www.luc.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
+    "wof:belongsto":[
+        991907383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503614,
         "sg:id":"SG_73HYEAp2IM6GOmX0sQLkBG_41.897447_-87.624226@1303262877"
     },
     "wof:country":"US",
     "wof:created":1461957464,
-    "wof:geomhash":"badd3d18be7857b2d5a508ec4149ff63",
+    "wof:geomhash":"d6da185fc0db1a10426a4eeba2786e9b",
     "wof:hierarchy":[],
     "wof:id":756185777,
-    "wof:lastmodified":1491372979,
-    "wof:name":"Loyola University Chicago",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Loyola University Museum Of Art",
     "wof:parent_id":991907383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +79,10 @@
     ]
 },
   "bbox": [
-    -87.624226,
-    41.897447,
-    -87.624226,
-    41.897447
+    -87.62332,
+    41.89756,
+    -87.62332,
+    41.89756
 ],
-  "geometry": {"coordinates":[-87.62422599999999,41.897447],"type":"Point"}
+  "geometry": {"coordinates":[-87.62332000000001,41.89756],"type":"Point"}
 }

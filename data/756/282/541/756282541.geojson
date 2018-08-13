@@ -2,19 +2,25 @@
   "id": 756282541,
   "type": "Feature",
   "properties": {
-    "addr:full":"3225 W Foster Ave Chicago IL 60625",
+    "addr:city":"Chicago",
+    "addr:full":"3225 W Foster Ave Chicago, Il 60625-4823",
+    "addr:house_number":"3225",
     "addr:housenumber":"3225",
-    "addr:postcode":"60625",
+    "addr:phone":"+1 773-583-5722",
+    "addr:postcode":"60625-4823",
+    "addr:road":"W Foster Ave",
+    "addr:state":"IL",
     "addr:street":"W Foster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.709712,41.975743,-87.709712,41.975743",
-    "geom:latitude":41.975743,
-    "geom:longitude":-87.709712,
+    "geom:bbox":"-87.70963,41.97564,-87.70963,41.97564",
+    "geom:latitude":41.97564,
+    "geom:longitude":-87.70963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3225 W Foster Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -43,7 +49,11 @@
         "employer"
     ],
     "sg:website":"http://www.swedishamericanhist.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102533631
+    ],
     "wof:belongsto":[
         85867715,
         102191575,
@@ -56,11 +66,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700957,
         "sg:id":"SG_1MWGgin9Ro7QCWzFxhNy6H_41.975743_-87.709712@1303262890"
     },
     "wof:country":"US",
     "wof:created":1461959741,
-    "wof:geomhash":"0625f10b0ab658b634cd06d7627ec987",
+    "wof:geomhash":"cc69eba18fd4c5467abdca9e8582b599",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -75,8 +86,8 @@
         }
     ],
     "wof:id":756282541,
-    "wof:lastmodified":1491369872,
-    "wof:name":"Swedish-American Historical",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Swedish-American Historical Society",
     "wof:parent_id":85867715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -88,10 +99,10 @@
     ]
 },
   "bbox": [
-    -87.709712,
-    41.975743,
-    -87.709712,
-    41.975743
+    -87.70963,
+    41.97564,
+    -87.70963,
+    41.97564
 ],
-  "geometry": {"coordinates":[-87.709712,41.975743],"type":"Point"}
+  "geometry": {"coordinates":[-87.70963,41.97564],"type":"Point"}
 }

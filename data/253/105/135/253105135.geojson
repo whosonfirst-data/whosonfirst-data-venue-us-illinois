@@ -2,18 +2,24 @@
   "id": 253105135,
   "type": "Feature",
   "properties": {
-    "addr:full":"701 E Washington St Belleville IL 62220",
+    "addr:city":"Belleville",
+    "addr:full":"701 E Washington St Belleville, Il 62220-3846",
+    "addr:house_number":"701",
     "addr:housenumber":"701",
-    "addr:postcode":"62220",
+    "addr:phone":"+1 618-234-0600",
+    "addr:postcode":"62220-3846",
+    "addr:road":"E Washington St",
+    "addr:state":"IL",
     "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.975268,38.512654,-89.975268,38.512654",
-    "geom:latitude":38.512654,
-    "geom:longitude":-89.975268,
+    "geom:bbox":"-89.97574,38.51274,-89.97574,38.51274",
+    "geom:latitude":38.51274,
+    "geom:longitude":-89.97574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"701 E Washington St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "museum",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527419,
+        102533437
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701216,
         "sg:id":"SG_2vm5XLJI0lcft6OJYhCDMv_38.512654_-89.975268@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"afe1e7688824ea5cfb888e1c9e516862",
+    "wof:geomhash":"6efedd1f307545a73e58da06eb6d124c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":253105135,
-    "wof:lastmodified":1472621037,
-    "wof:name":"St Clair County Historical Soc",
+    "wof:lastmodified":1534185121,
+    "wof:name":"St Clair County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -89.975268,
-    38.512654,
-    -89.975268,
-    38.512654
+    -89.97574,
+    38.51274,
+    -89.97574,
+    38.51274
 ],
-  "geometry": {"coordinates":[-89.975268,38.512654],"type":"Point"}
+  "geometry": {"coordinates":[-89.97574,38.51274],"type":"Point"}
 }

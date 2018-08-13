@@ -2,18 +2,23 @@
   "id": 756473577,
   "type": "Feature",
   "properties": {
-    "addr:full":"346 N Neil St Champaign IL 61820",
+    "addr:city":"Champaign",
+    "addr:full":"346 N Neil St Champaign, Il 61820-3614",
+    "addr:house_number":"346",
     "addr:housenumber":"346",
-    "addr:postcode":"61820",
+    "addr:postcode":"61820-3614",
+    "addr:road":"N Neil St",
+    "addr:state":"IL",
     "addr:street":"N Neil St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.243401,40.118999,-88.243401,40.118999",
-    "geom:latitude":40.118999,
-    "geom:longitude":-88.243401,
+    "geom:bbox":"-88.24346,40.11868,-88.24346,40.11868",
+    "geom:latitude":40.11868,
+    "geom:longitude":-88.24346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"346 N Neil St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -42,19 +47,23 @@
         "local"
     ],
     "sg:website":"orpheumkids.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527887
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701105,
         "sg:id":"SG_53aBK6JO1TznTkCfXgIjfm_40.118999_-88.243401@1303262916"
     },
     "wof:country":"US",
     "wof:created":1461964077,
-    "wof:geomhash":"b3a43a02b0234bc0f5475849b11787ff",
+    "wof:geomhash":"47357443af67139caad2d287b67e19cc",
     "wof:hierarchy":[],
     "wof:id":756473577,
-    "wof:lastmodified":1472622246,
-    "wof:name":"Orpheum Children's Science Museum",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Orpheum Children'S Science Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -66,10 +75,10 @@
     ]
 },
   "bbox": [
-    -88.243401,
-    40.118999,
-    -88.243401,
-    40.118999
+    -88.24346,
+    40.11868,
+    -88.24346,
+    40.11868
 ],
-  "geometry": {"coordinates":[-88.24340100000001,40.118999],"type":"Point"}
+  "geometry": {"coordinates":[-88.24346,40.11868],"type":"Point"}
 }

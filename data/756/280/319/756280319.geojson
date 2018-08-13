@@ -7,6 +7,7 @@
     "addr:postcode":"60625",
     "addr:street":"N Damen Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.679527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5410 N Damen Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959697,
-    "wof:geomhash":"832e0e1dd18d08f7a672e70fb8090131",
+    "wof:geomhash":"b6624e690b3995a81778dc88f1e37c82",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756280319,
-    "wof:lastmodified":1491369616,
+    "wof:lastmodified":1534185142,
     "wof:name":"Scooter Works Usa",
     "wof:parent_id":85867521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756280419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

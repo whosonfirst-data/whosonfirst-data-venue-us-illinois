@@ -7,6 +7,7 @@
     "addr:postcode":"60018",
     "addr:street":"E Touhy Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.890472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1350 E Touhy Ave",
     "sg:city":"Des Plaines",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_7fBGaM44bB7Y9cJuHdRGhk_42.009562_-87.890472@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"cccfb4e73ed2d2c954128cf76a8204ed",
+    "wof:geomhash":"d62e0ce53ceea3d3d8253b7229f765da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":270194491,
-    "wof:lastmodified":1491369957,
+    "wof:lastmodified":1534185128,
     "wof:name":"Canandaigua Wine Co",
     "wof:parent_id":85867753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203001479
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"

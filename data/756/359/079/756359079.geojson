@@ -7,6 +7,7 @@
     "addr:postcode":"60647",
     "addr:street":"N Milwaukee Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.677832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1608 N Milwaukee Avenue",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961381,
-    "wof:geomhash":"28c606f1c25db5ed0d59d7721eacac6b",
+    "wof:geomhash":"6e76800b32f7251a51ba661605cbef6f",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756359079,
-    "wof:lastmodified":1491370233,
+    "wof:lastmodified":1534185119,
     "wof:name":"Dhd Enterprises",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219655259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

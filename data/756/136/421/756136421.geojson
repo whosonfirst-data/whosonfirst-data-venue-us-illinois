@@ -7,6 +7,7 @@
     "addr:postcode":"60606",
     "addr:street":"W Adams St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.633759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 W Adams St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956304,
-    "wof:geomhash":"bb76fbbb32a8d6885f5f27a843b93421",
+    "wof:geomhash":"dbed6c6db6953d6e2f9f14e31d103b20",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756136421,
-    "wof:lastmodified":1491593897,
+    "wof:lastmodified":1534185136,
     "wof:name":"Smith David",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756143389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 236733713,
   "type": "Feature",
   "properties": {
-    "addr:full":"411 Kent St Rockford IL 61102",
+    "addr:city":"Rockford",
+    "addr:full":"411 Kent St Rockford, Il 61102-2915",
+    "addr:house_number":"411",
     "addr:housenumber":"411",
-    "addr:postcode":"61102",
+    "addr:phone":"+1 815-964-2424",
+    "addr:postcode":"61102-2915",
+    "addr:road":"Kent St",
+    "addr:state":"IL",
     "addr:street":"Kent St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.100192,42.26308,-89.100192,42.26308",
-    "geom:latitude":42.26308,
-    "geom:longitude":-89.100192,
+    "geom:bbox":"-89.10056,42.26319,-89.10056,42.26319",
+    "geom:latitude":42.26319,
+    "geom:longitude":-89.10056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"411 Kent St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"61102",
     "sg:province":"IL",
     "sg:website":"www.tinkercottage.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528325
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -38,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700951,
         "sg:id":"SG_1fOO8eUQhDcTgGmbX8vAe6_42.263080_-89.100192@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"29747e861f7aa923655473da3243125f",
+    "wof:geomhash":"ebbeada3cca139183edc3e3b296b942d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":236733713,
-    "wof:lastmodified":1472621759,
-    "wof:name":"Tinker Swiss Cottage Museum",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Tinker Swiss Cottage",
     "wof:parent_id":85880419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.100192,
-    42.26308,
-    -89.100192,
-    42.26308
+    -89.10056,
+    42.26319,
+    -89.10056,
+    42.26319
 ],
-  "geometry": {"coordinates":[-89.10019200000001,42.26308],"type":"Point"}
+  "geometry": {"coordinates":[-89.10056,42.26319],"type":"Point"}
 }

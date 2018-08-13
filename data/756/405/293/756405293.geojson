@@ -7,6 +7,7 @@
     "addr:postcode":"60661",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.642799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"218 N Jefferson St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962426,
-    "wof:geomhash":"58443ccc9d01cb27097e52edd35b2575",
+    "wof:geomhash":"0785b0cae665a63f2e801f2f41311286",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -60,12 +62,15 @@
         }
     ],
     "wof:id":756405293,
-    "wof:lastmodified":1491372346,
+    "wof:lastmodified":1534185119,
     "wof:name":"Burke Curtis Law Offices of the",
     "wof:parent_id":1024496933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202509581,
+        219632227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,23 @@
   "id": 253468119,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 S Main St Rockford IL 61101",
+    "addr:city":"Rockford",
+    "addr:full":"401 S Main Street Rockford, Il 61101",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
     "addr:postcode":"61101",
+    "addr:road":"S Main Street",
+    "addr:state":"IL",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.096846,42.268087,-89.096846,42.268087",
-    "geom:latitude":42.268087,
-    "geom:longitude":-89.096846,
+    "geom:bbox":"-89.09742,42.26868,-89.09742,42.26868",
+    "geom:latitude":42.26868,
+    "geom:longitude":-89.09742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 S Main St",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -30,7 +35,10 @@
     "sg:tags":[
         "parks"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528325
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502446,
         "sg:id":"SG_0mhbXRQPYB9xDQQPjkFQQ8_42.268087_-89.096846@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bbfc133f2fbc2301a08d66bccca1d03",
+    "wof:geomhash":"63d404dfb2f0cd9d68f688f092dd7ed7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":253468119,
-    "wof:lastmodified":1472621519,
+    "wof:lastmodified":1534185149,
     "wof:name":"Rockford Park District",
     "wof:parent_id":85880441,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     ]
 },
   "bbox": [
-    -89.096846,
-    42.268087,
-    -89.096846,
-    42.268087
+    -89.09742,
+    42.26868,
+    -89.09742,
+    42.26868
 ],
-  "geometry": {"coordinates":[-89.096846,42.268087],"type":"Point"}
+  "geometry": {"coordinates":[-89.09742,42.26868],"type":"Point"}
 }

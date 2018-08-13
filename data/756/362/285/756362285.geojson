@@ -7,6 +7,7 @@
     "addr:postcode":"60647",
     "addr:street":"N Hoyne Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.680076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"1949 N Hoyne Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":756362285,
-    "wof:lastmodified":1510943509,
+    "wof:lastmodified":1534185146,
     "wof:name":"Map Room",
     "wof:parent_id":85869147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756359995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

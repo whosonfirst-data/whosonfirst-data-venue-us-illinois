@@ -2,18 +2,24 @@
   "id": 286398779,
   "type": "Feature",
   "properties": {
-    "addr:full":"2525 4th Ave Rock Island IL 61201",
+    "addr:city":"Rock Island",
+    "addr:full":"2525 4Th Ave Rock Island, Il 61201-9008",
+    "addr:house_number":"2525",
     "addr:housenumber":"2525",
-    "addr:postcode":"61201",
+    "addr:phone":"+1 309-794-0991",
+    "addr:postcode":"61201-9008",
+    "addr:road":"4Th Ave",
+    "addr:state":"IL",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.5643,41.508862,-90.5643,41.508862",
-    "geom:latitude":41.508862,
-    "geom:longitude":-90.5643,
+    "geom:bbox":"-90.56463,41.50887,-90.56463,41.50887",
+    "geom:latitude":41.50887,
+    "geom:longitude":-90.56463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2525 4th Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "banquet",
         "rooms"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525797,
+        102528149
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -40,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700700,
         "sg:id":"SG_3pOTqNUYWspVMDV5i8W42x_41.508862_-90.564300@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaa5af4fb148af72f9bcc502715e5c73",
+    "wof:geomhash":"361808c881877fd761d51c1a8c92b720",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":286398779,
-    "wof:lastmodified":1472621170,
-    "wof:name":"Quad City Botanical Ctr",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Quad City Botanical Center",
     "wof:parent_id":85820791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -69,10 +80,10 @@
     ]
 },
   "bbox": [
-    -90.5643,
-    41.508862,
-    -90.5643,
-    41.508862
+    -90.56463,
+    41.50887,
+    -90.56463,
+    41.50887
 ],
-  "geometry": {"coordinates":[-90.5643,41.508862],"type":"Point"}
+  "geometry": {"coordinates":[-90.56462999999999,41.50887],"type":"Point"}
 }

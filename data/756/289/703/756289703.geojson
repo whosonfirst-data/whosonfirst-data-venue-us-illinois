@@ -2,17 +2,22 @@
   "id": 756289703,
   "type": "Feature",
   "properties": {
-    "addr:full":"10406 S Maryland Ave Chicago IL 60628",
+    "addr:city":"Chicago",
+    "addr:full":"10406 S Maryland Ave Chicago, Il 61265",
+    "addr:house_number":"10406",
     "addr:housenumber":"10406",
-    "addr:postcode":"60628",
+    "addr:phone":"+1 773-850-8580",
+    "addr:postcode":"61265",
+    "addr:road":"S Maryland Ave",
+    "addr:state":"IL",
     "addr:street":"S Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.602967,41.705307,-87.602967,41.705307",
-    "geom:latitude":41.705307,
-    "geom:longitude":-87.602967,
+    "geom:bbox":"-87.60279,41.70412,-87.60279,41.70412",
+    "geom:latitude":41.70412,
+    "geom:longitude":-87.60279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,11 @@
     "sg:postcode":"60628",
     "sg:province":"IL",
     "sg:website":"aphiliprandolphmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205,
+        102530699
+    ],
     "wof:belongsto":[
         85846003,
         102191575,
@@ -43,12 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700857,
         "osm:way":210698577,
         "sg:id":"SG_1m9arYqEwpJg3MNOxsMHTs_41.705307_-87.602967@1303262891"
     },
     "wof:country":"US",
     "wof:created":1461959891,
-    "wof:geomhash":"ef9691722876814d0b0c6e2e9d30cd2f",
+    "wof:geomhash":"dc1f70f23583850b514f2ae24f706d00",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -63,8 +73,8 @@
         }
     ],
     "wof:id":756289703,
-    "wof:lastmodified":1510943014,
-    "wof:name":"A Philip Randolph Pullman Porter Museum",
+    "wof:lastmodified":1534185148,
+    "wof:name":"A. Philip Randolph Pullman Porter Museum",
     "wof:parent_id":85846003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.602967,
-    41.705307,
-    -87.602967,
-    41.705307
+    -87.60279,
+    41.70412,
+    -87.60279,
+    41.70412
 ],
-  "geometry": {"coordinates":[-87.60296700000001,41.705307],"type":"Point"}
+  "geometry": {"coordinates":[-87.60279,41.70412],"type":"Point"}
 }

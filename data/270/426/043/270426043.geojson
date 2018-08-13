@@ -2,19 +2,25 @@
   "id": 270426043,
   "type": "Feature",
   "properties": {
-    "addr:full":"3831 S Michigan Ave Chicago IL 60653",
+    "addr:city":"Chicago",
+    "addr:full":"3831 S Michigan Ave Chicago, Il 60653-1513",
+    "addr:house_number":"3831",
     "addr:housenumber":"3831",
-    "addr:postcode":"60653",
+    "addr:phone":"+1 773-373-1026",
+    "addr:postcode":"60653-1513",
+    "addr:road":"S Michigan Ave",
+    "addr:state":"IL",
     "addr:street":"S Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.623017,41.824664,-87.623017,41.824664",
-    "geom:latitude":41.824664,
-    "geom:longitude":-87.623017,
+    "geom:bbox":"-87.6232,41.82453,-87.6232,41.82453",
+    "geom:latitude":41.82453,
+    "geom:longitude":-87.6232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3831 S Michigan Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85867527,
         102191575,
@@ -44,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700406,
         "sg:id":"SG_4ZZZD0bfuqxgeXS1VGg8ov_41.824664_-87.623017@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"85ffb00ef81d960adb951dc5b933d80d",
+    "wof:geomhash":"0d5cd75e0e827f93cc66f1bf133f5aa9",
     "wof:hierarchy":[
         {
             "borough_id":958036681,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":270426043,
-    "wof:lastmodified":1491369639,
-    "wof:name":"Southside Community Art Center",
+    "wof:lastmodified":1534185149,
+    "wof:name":"South Side Community Art Center",
     "wof:parent_id":85867527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -74,10 +84,10 @@
     ]
 },
   "bbox": [
-    -87.623017,
-    41.824664,
-    -87.623017,
-    41.824664
+    -87.6232,
+    41.82453,
+    -87.6232,
+    41.82453
 ],
-  "geometry": {"coordinates":[-87.623017,41.824664],"type":"Point"}
+  "geometry": {"coordinates":[-87.6232,41.82453],"type":"Point"}
 }

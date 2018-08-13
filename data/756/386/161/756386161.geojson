@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Halsted St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.649596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3334 N Halsted St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962002,
-    "wof:geomhash":"54e88e625445cc17d7dee868e83c8d9c",
+    "wof:geomhash":"2a878ded9f59799b3bfb8a349b4fdd4a",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":756386161,
-    "wof:lastmodified":1491366770,
+    "wof:lastmodified":1534185145,
     "wof:name":"Nookies Tree Restaurant",
     "wof:parent_id":85829473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756388429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "traditional",

@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"N Sheridan Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.654955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 N Sheridan Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_6bUuP5y4MBaYsjkJkS7UoV_41.974296_-87.654955@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0f06cc5178a7634d9601c7ebd36d1bc",
+    "wof:geomhash":"57e24001e7911c798c16ad7ee99436e9",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":287025735,
-    "wof:lastmodified":1491372156,
+    "wof:lastmodified":1534185144,
     "wof:name":"Uptown Quick Stop Inc",
     "wof:parent_id":1024496879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756334037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60073",
     "addr:street":"E Rollins Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.067081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"776 E Rollins Rd",
     "sg:city":"Round Lake",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":202601921,
-    "wof:lastmodified":1511996354,
+    "wof:lastmodified":1534185129,
     "wof:name":"Arbys",
     "wof:parent_id":85845811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740149703
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

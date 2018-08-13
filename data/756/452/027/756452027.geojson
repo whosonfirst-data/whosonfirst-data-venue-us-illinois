@@ -2,18 +2,24 @@
   "id": 756452027,
   "type": "Feature",
   "properties": {
-    "addr:full":"1015 E Euclid Ave Monmouth IL 61462",
+    "addr:city":"Monmouth",
+    "addr:full":"1015 East Euclid Avenue Monmouth, Il 61462",
+    "addr:house_number":"1015",
     "addr:housenumber":"1015",
+    "addr:phone":"+1 309-734-5154",
     "addr:postcode":"61462",
+    "addr:road":"East Euclid Avenue",
+    "addr:state":"IL",
     "addr:street":"E Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.635184,40.917046,-90.635184,40.917046",
-    "geom:latitude":40.917046,
-    "geom:longitude":-90.635184,
+    "geom:bbox":"-90.63381,40.91689,-90.63381,40.91689",
+    "geom:latitude":40.91689,
+    "geom:longitude":-90.63381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1015 E Euclid Ave",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "educational"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701360,
         "sg:id":"SG_17o3Vzphd9qOXTvkCtfCMh_40.917046_-90.635184@1303262913"
     },
     "wof:country":"US",
     "wof:created":1461963561,
-    "wof:geomhash":"2ddfa1ed021b9e416e04587813595243",
+    "wof:geomhash":"b9928a34eb53b7d74dcd600810084d9f",
     "wof:hierarchy":[],
     "wof:id":756452027,
-    "wof:lastmodified":1472622222,
-    "wof:name":"The Stewart House",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Stewart House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -90.635184,
-    40.917046,
-    -90.635184,
-    40.917046
+    -90.63381,
+    40.91689,
+    -90.63381,
+    40.91689
 ],
-  "geometry": {"coordinates":[-90.635184,40.917046],"type":"Point"}
+  "geometry": {"coordinates":[-90.63381,40.91689],"type":"Point"}
 }

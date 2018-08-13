@@ -7,6 +7,7 @@
     "addr:postcode":"60641",
     "addr:street":"W Irving Park Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.752384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5007 W Irving Park Rd",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960919,
-    "wof:geomhash":"faa1bca58eacb1f25ee5c80bb22e8c52",
+    "wof:geomhash":"016cad61864ed2aec4e36ad139618125",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":756338349,
-    "wof:lastmodified":1492092505,
+    "wof:lastmodified":1534185143,
     "wof:name":"Nite Cap",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        252746047
+    ],
+    "wof:supersedes":[
+        756340733
+    ],
     "wof:tags":[]
 },
   "bbox": [

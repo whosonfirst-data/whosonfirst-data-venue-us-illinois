@@ -7,6 +7,7 @@
     "addr:postcode":"60622",
     "addr:street":"W Chicago Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.690749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2532 W Chicago Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959195,
-    "wof:geomhash":"a2f6398e2652f7b8490c1c826e8ed47e",
+    "wof:geomhash":"2e73adfa95a37c86d70b23b7111d9337",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756261109,
-    "wof:lastmodified":1491371111,
+    "wof:lastmodified":1534185142,
     "wof:name":"The Beetle Bar and Grill",
     "wof:parent_id":420518861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756260895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "traditional",

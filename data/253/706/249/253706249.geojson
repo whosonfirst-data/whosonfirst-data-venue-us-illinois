@@ -7,6 +7,7 @@
     "addr:postcode":"61820",
     "addr:street":"N Neil St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.243962,40.13933,-88.243962,40.13933",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.243962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2000 N Neil St",
     "sg:city":"Champaign",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_0AVn4FLfS2do0vahMj5NJP_40.139330_-88.243962@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"d93305292fbedfa9153afddedbbe77eb",
+    "wof:geomhash":"0d0a9abfcd2bdc94154358a7e38c9201",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":253706249,
-    "wof:lastmodified":1472621631,
+    "wof:lastmodified":1534185127,
     "wof:name":"Disney Store Inc",
     "wof:parent_id":85857701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286527011
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family",

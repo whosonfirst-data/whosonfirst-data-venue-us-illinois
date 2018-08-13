@@ -2,18 +2,24 @@
   "id": 756425667,
   "type": "Feature",
   "properties": {
-    "addr:full":"197 S East Ave Kankakee IL 60901",
+    "addr:city":"Kankakee",
+    "addr:full":"197 S East Ave Kankakee, Il 60901-3834",
+    "addr:house_number":"197",
     "addr:housenumber":"197",
-    "addr:postcode":"60901",
+    "addr:phone":"+1 815-929-9320",
+    "addr:postcode":"60901-3834",
+    "addr:road":"S East Ave",
+    "addr:state":"IL",
     "addr:street":"S East Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.865543,41.119206,-87.865543,41.119206",
-    "geom:latitude":41.119206,
-    "geom:longitude":-87.865543,
+    "geom:bbox":"-87.8656,41.11919,-87.8656,41.11919",
+    "geom:latitude":41.11919,
+    "geom:longitude":-87.8656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"197 S East Ave",
     "sg:city":"Kankakee",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 815 929 9320",
     "sg:postcode":"60901",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528379
+    ],
     "wof:belongsto":[
         85890815,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700658,
         "sg:id":"SG_0rzIceIx48TlUbTFePgKbn_41.119206_-87.865543@1303262909"
     },
     "wof:country":"US",
     "wof:created":1461962915,
-    "wof:geomhash":"0d734f0deb731637809296002f004b49",
+    "wof:geomhash":"a638015da570adea6c4654bdecb2af5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":756425667,
-    "wof:lastmodified":1472622212,
+    "wof:lastmodified":1534185148,
     "wof:name":"Kankakee Model Railroad Club",
     "wof:parent_id":85890815,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.865543,
-    41.119206,
-    -87.865543,
-    41.119206
+    -87.8656,
+    41.11919,
+    -87.8656,
+    41.11919
 ],
-  "geometry": {"coordinates":[-87.865543,41.119206],"type":"Point"}
+  "geometry": {"coordinates":[-87.8656,41.11919],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 185660565,
   "type": "Feature",
   "properties": {
-    "addr:full":"275 N Main St Waterloo IL 62298",
+    "addr:city":"Waterloo",
+    "addr:full":"275 N Main St Waterloo, Il 62298-1245",
+    "addr:house_number":"275",
     "addr:housenumber":"275",
-    "addr:postcode":"62298",
+    "addr:phone":"+1 618-939-4222",
+    "addr:postcode":"62298-1245",
+    "addr:road":"N Main St",
+    "addr:state":"IL",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.150674,38.341808,-90.150674,38.341808",
-    "geom:latitude":38.341808,
-    "geom:longitude":-90.150674,
+    "geom:bbox":"-90.15084,38.34104,-90.15084,38.34104",
+    "geom:latitude":38.34104,
+    "geom:longitude":-90.15084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"275 N Main St",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -41,7 +47,10 @@
         "attraction",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533437
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -50,10 +59,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700400,
         "sg:id":"SG_47jItZVqQjFCQErFIARraj_38.341808_-90.150674@1303262920"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7e1e290e406e7d97483efca01b457cb",
+    "wof:geomhash":"e8d371831d00407a556c537f2cbb7460",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":185660565,
-    "wof:lastmodified":1472620858,
+    "wof:lastmodified":1534185149,
     "wof:name":"Peterstown Heritage Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -90.150674,
-    38.341808,
-    -90.150674,
-    38.341808
+    -90.15084,
+    38.34104,
+    -90.15084,
+    38.34104
 ],
-  "geometry": {"coordinates":[-90.150674,38.341808],"type":"Point"}
+  "geometry": {"coordinates":[-90.15084,38.34104],"type":"Point"}
 }

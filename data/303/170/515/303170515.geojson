@@ -7,6 +7,7 @@
     "addr:postcode":"60661",
     "addr:street":"W Jackson Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.629505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"53 W Jackson Blvd",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_5EOqnYKsW7gFsKrcuGR2Es_41.878088_-87.629505@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8946a4b7bda118f012f2fc839b076a7",
+    "wof:geomhash":"8bee16e34061d911b2b653f0fbb17cb2",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":303170515,
-    "wof:lastmodified":1491367170,
+    "wof:lastmodified":1534185136,
     "wof:name":"Giacchetti Cynthia Law Office",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756122197,
+        756124045
+    ],
+    "wof:supersedes":[
+        253665013
+    ],
     "wof:tags":[]
 },
   "bbox": [

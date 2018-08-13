@@ -7,6 +7,7 @@
     "addr:postcode":"60601",
     "addr:street":"N Clark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.630708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"161 N Clark St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955186,
-    "wof:geomhash":"98bc62a72df95bc8cbbaa400b29dce95",
+    "wof:geomhash":"73d658fbc7b8e394184cd9ee96c8e549",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756085615,
-    "wof:lastmodified":1491600550,
+    "wof:lastmodified":1534185130,
     "wof:name":"Schatz Berger",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756086721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

@@ -2,19 +2,25 @@
   "id": 756343685,
   "type": "Feature",
   "properties": {
-    "addr:full":"756 N Milwaukee Ave Chicago IL 60642",
+    "addr:city":"Chicago",
+    "addr:full":"756 N Milwaukee Ave Chicago, Il 60622-5939",
+    "addr:house_number":"756",
     "addr:housenumber":"756",
-    "addr:postcode":"60642",
+    "addr:phone":"+1 312-243-9088",
+    "addr:postcode":"60622-5939",
+    "addr:road":"N Milwaukee Ave",
+    "addr:state":"IL",
     "addr:street":"N Milwaukee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.65459,41.895368,-87.65459,41.895368",
-    "geom:latitude":41.895368,
-    "geom:longitude":-87.65459,
+    "geom:bbox":"-87.65483,41.89575,-87.65483,41.89575",
+    "geom:latitude":41.89575,
+    "geom:longitude":-87.65483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"756 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"60642",
     "sg:province":"IL",
     "sg:website":"art.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531205
+    ],
     "wof:belongsto":[
         85890767,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700751,
         "sg:id":"SG_1SM6bVl41jsfeJpn72nLq3_41.895368_-87.654590@1303262898"
     },
     "wof:country":"US",
     "wof:created":1461961028,
-    "wof:geomhash":"ecdbf1826597caeeb6e731c1e598fb76",
+    "wof:geomhash":"0e960ec5acf1d69aa41a7e1a09083665",
     "wof:hierarchy":[
         {
             "borough_id":957979099,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":756343685,
-    "wof:lastmodified":1491370749,
-    "wof:name":"Intuit: The Center For Intuitive & Outsider Art",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Intuit: The Center For Intuitive And Outsider Art",
     "wof:parent_id":85890767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.65459,
-    41.895368,
-    -87.65459,
-    41.895368
+    -87.65483,
+    41.89575,
+    -87.65483,
+    41.89575
 ],
-  "geometry": {"coordinates":[-87.65459,41.895368],"type":"Point"}
+  "geometry": {"coordinates":[-87.65483,41.89575],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"60459",
     "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758073,41.748479,-87.758073,41.748479",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.758073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5535 State Rd",
     "sg:city":"Bedford Park",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_1JkcXevgFvteA6O4udNCF0_41.748479_-87.758073@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"f938ce051606398d8d7d74dbbfc6d71b",
+    "wof:geomhash":"bc2ea0ddd9e5dc7120bacdc48162ffee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":269884793,
-    "wof:lastmodified":1472621405,
+    "wof:lastmodified":1534185128,
     "wof:name":"Saint Albert The Great",
     "wof:parent_id":85890867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756041163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"60657",
     "addr:street":"N Lake Shore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.636703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2900 N Lake Shore Dr",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962030,
-    "wof:geomhash":"e6afce3a09866229ac7b920952442b6b",
+    "wof:geomhash":"482869cafff0d1ae00d555c2608ccbfb",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756387167,
-    "wof:lastmodified":1491372723,
+    "wof:lastmodified":1534185123,
     "wof:name":"Lakeshore Infectious Disease Assocs",
     "wof:parent_id":1024608975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253205135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

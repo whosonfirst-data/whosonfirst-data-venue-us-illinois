@@ -2,18 +2,24 @@
   "id": 287168507,
   "type": "Feature",
   "properties": {
-    "addr:full":"4372 Park Rd Ellis Grove IL 62233",
+    "addr:city":"Ellis Grove",
+    "addr:full":"4372 Park Rd Ellis Grove, Il 62241",
+    "addr:house_number":"4372",
     "addr:housenumber":"4372",
-    "addr:postcode":"62233",
+    "addr:phone":"+1 618-859-3741",
+    "addr:postcode":"62241",
+    "addr:road":"Park Rd",
+    "addr:state":"IL",
     "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.905912,37.964555,-89.905912,37.964555",
-    "geom:latitude":37.964555,
-    "geom:longitude":-89.905912,
+    "geom:bbox":"-89.90972,37.96811,-89.90972,37.96811",
+    "geom:latitude":37.96811,
+    "geom:longitude":-89.90972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4372 Park Rd",
     "sg:city":"Ellis Grove",
     "sg:classifiers":[
@@ -30,17 +36,19 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85633793,
         85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401701388,
         "sg:id":"SG_7gtZfFIqSMQOwzUw0mNnHh_37.964555_-89.905912@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b9629ff67448ce973edf0e7c90997bc",
+    "wof:geomhash":"145bdbb5e77b27f1bf8697eec52db164",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":287168507,
-    "wof:lastmodified":1472621127,
-    "wof:name":"Fort Kaskaskia Historical Site",
+    "wof:lastmodified":1534185149,
+    "wof:name":"Fort Kaskaskia State Historic Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -64,10 +72,10 @@
     ]
 },
   "bbox": [
-    -89.905912,
-    37.964555,
-    -89.905912,
-    37.964555
+    -89.90972,
+    37.96811,
+    -89.90972,
+    37.96811
 ],
-  "geometry": {"coordinates":[-89.905912,37.964555],"type":"Point"}
+  "geometry": {"coordinates":[-89.90971999999999,37.96811],"type":"Point"}
 }

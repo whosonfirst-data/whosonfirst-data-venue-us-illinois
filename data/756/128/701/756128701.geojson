@@ -7,6 +7,7 @@
     "addr:postcode":"60605",
     "addr:street":"E Roosevelt Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.626996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3 E Roosevelt Road",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956144,
-    "wof:geomhash":"6420a036051c0bb20e5e965107ef2a6f",
+    "wof:geomhash":"32083f3e62b3d24a8f98164a627f0b5d",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":756128701,
-    "wof:lastmodified":1491368228,
+    "wof:lastmodified":1534185145,
     "wof:name":"Grand Park Cleaner",
     "wof:parent_id":85865737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756410143
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner",

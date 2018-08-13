@@ -2,19 +2,25 @@
   "id": 740222027,
   "type": "Feature",
   "properties": {
-    "addr:full":"509 N 1st St Dekalb IL 60115",
+    "addr:city":"Dekalb",
+    "addr:full":"509 North First Street Dekalb, Il 60115",
+    "addr:house_number":"509",
     "addr:housenumber":"509",
+    "addr:phone":"+1 815-756-4609",
     "addr:postcode":"60115",
+    "addr:road":"North First Street",
+    "addr:state":"IL",
     "addr:street":"N 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.751709,41.935139,-88.751709,41.935139",
-    "geom:latitude":41.935139,
-    "geom:longitude":-88.751709,
+    "geom:bbox":"-88.75194,41.93484,-88.75194,41.93484",
+    "geom:latitude":41.93484,
+    "geom:longitude":-88.75194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"509 N 1st St",
     "sg:city":"Dekalb",
     "sg:classifiers":[],
@@ -23,7 +29,8 @@
     "sg:postcode":"60115",
     "sg:province":"IL",
     "sg:website":"http://www.dekalbparkdistrict.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         102191575,
@@ -34,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700216,
         "sg:id":"SG_7ateCgOy5xTyVufdfhUNF8_41.935139_-88.751709@1303262847"
     },
     "wof:country":"US",
     "wof:created":1461952339,
-    "wof:geomhash":"ad44c7e7f62240c156e8011a77f5adaf",
+    "wof:geomhash":"a7e92f9130d99c1047b2bc30a95046de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":740222027,
-    "wof:lastmodified":1492102184,
+    "wof:lastmodified":1534185149,
     "wof:name":"Ellwood House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.751709,
-    41.935139,
-    -88.751709,
-    41.935139
+    -88.75194,
+    41.93484,
+    -88.75194,
+    41.93484
 ],
-  "geometry": {"coordinates":[-88.75170900000001,41.935139],"type":"Point"}
+  "geometry": {"coordinates":[-88.75194,41.93484],"type":"Point"}
 }

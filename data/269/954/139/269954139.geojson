@@ -7,6 +7,7 @@
     "addr:postcode":"60194",
     "addr:street":"Barrington Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.144539,42.050498,-88.144539,42.050498",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.144539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1585 Barrington Rd",
     "sg:city":"Schaumburg",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_75nsl2tOzcHWbOlncEHZGF_42.050498_-88.144539@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbbeb52c3ce00796cc6968dae87aac34",
+    "wof:geomhash":"c54627f9c5762729a0cb598fb8cbd738",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":269954139,
-    "wof:lastmodified":1472621443,
+    "wof:lastmodified":1534185123,
     "wof:name":"Chicago Cornea Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253250347
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

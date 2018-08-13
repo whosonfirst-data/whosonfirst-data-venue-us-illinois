@@ -7,6 +7,7 @@
     "addr:postcode":"60640",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.659714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4840 N Broadway St",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960784,
-    "wof:geomhash":"0cab16f7f6326d3edf24f1539518baa1",
+    "wof:geomhash":"a847ed433a1b4e346ce3ce163ca3bb4e",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756332085,
-    "wof:lastmodified":1491368979,
+    "wof:lastmodified":1534185144,
     "wof:name":"Fat Cat Bar & Grill",
     "wof:parent_id":85865771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756409439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

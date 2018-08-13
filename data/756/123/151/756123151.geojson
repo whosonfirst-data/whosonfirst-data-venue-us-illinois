@@ -7,6 +7,7 @@
     "addr:postcode":"60604",
     "addr:street":"S La Salle St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.632401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"208 S La Salle St",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956019,
-    "wof:geomhash":"942726cd80cb7b9ed98a765712cecb2d",
+    "wof:geomhash":"b22016a538ccb85831985cf333b6841a",
     "wof:hierarchy":[
         {
             "borough_id":957999223,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756123151,
-    "wof:lastmodified":1491593949,
+    "wof:lastmodified":1534185134,
     "wof:name":"Maragos Samuel C Atty",
     "wof:parent_id":85831409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756123203
+    ],
+    "wof:supersedes":[
+        756120435
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -2,18 +2,24 @@
   "id": 286941047,
   "type": "Feature",
   "properties": {
-    "addr:full":"332 Maine St Quincy IL 62301",
+    "addr:city":"Quincy",
+    "addr:full":"332 Maine St Quincy, Il 62301-3929",
+    "addr:house_number":"332",
     "addr:housenumber":"332",
-    "addr:postcode":"62301",
+    "addr:phone":"+1 217-224-6873",
+    "addr:postcode":"62301-3929",
+    "addr:road":"Maine St",
+    "addr:state":"IL",
     "addr:street":"Maine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.410482,39.931836,-91.410482,39.931836",
-    "geom:latitude":39.931836,
-    "geom:longitude":-91.410482,
+    "geom:bbox":"-91.41039,39.93161,-91.41039,39.93161",
+    "geom:latitude":39.93161,
+    "geom:longitude":-91.41039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"332 Maine St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528031
+    ],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700415,
         "sg:id":"SG_2kHOyjk01fOPBMQgcFaULN_39.931836_-91.410482@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"56f5da051cc1d8a94c58eb174b07e039",
+    "wof:geomhash":"139ddfd4456576d0e7841e428f182150",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":286941047,
-    "wof:lastmodified":1472621707,
-    "wof:name":"Gardner Museum Of Architecture",
+    "wof:lastmodified":1534185148,
+    "wof:name":"Gardner Museum Of Architecture And Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -91.410482,
-    39.931836,
-    -91.410482,
-    39.931836
+    -91.41039,
+    39.93161,
+    -91.41039,
+    39.93161
 ],
-  "geometry": {"coordinates":[-91.410482,39.931836],"type":"Point"}
+  "geometry": {"coordinates":[-91.41039000000001,39.93161],"type":"Point"}
 }

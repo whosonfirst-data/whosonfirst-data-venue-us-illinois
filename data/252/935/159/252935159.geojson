@@ -7,6 +7,7 @@
     "addr:postcode":"62232",
     "addr:street":"N 89Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040076,38.619237,-90.040076,38.619237",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.040076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2865 N 89th St",
     "sg:city":"Caseyville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1zTQRRW7X4Ej4jMnAVgRpK_38.619237_-90.040076@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fd2bd505725a87469fe134f31b3cbf7",
+    "wof:geomhash":"843a104e17ae9a3cf5f21d5d62332a91",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":252935159,
-    "wof:lastmodified":1472621135,
+    "wof:lastmodified":1534185122,
     "wof:name":"Caddyshacks Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253166491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"

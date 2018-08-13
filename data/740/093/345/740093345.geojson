@@ -2,18 +2,24 @@
   "id": 740093345,
   "type": "Feature",
   "properties": {
-    "addr:full":"656 Pleasant St Beloit IL 53511",
+    "addr:city":"Beloit",
+    "addr:full":"656 Pleasant St Beloit, Wi 53512-0816",
+    "addr:house_number":"656",
     "addr:housenumber":"656",
-    "addr:postcode":"53511",
+    "addr:phone":"+1 608-362-9099",
+    "addr:postcode":"53512-0816",
+    "addr:road":"Pleasant St",
+    "addr:state":"WI",
     "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.032357,42.504409,-89.032357,42.504409",
-    "geom:latitude":42.504409,
-    "geom:longitude":-89.032357,
+    "geom:bbox":"-89.03288,42.50226,-89.03288,42.50226",
+    "geom:latitude":42.50226,
+    "geom:longitude":-89.03288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"656 Pleasant St",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 608 362 9099",
     "sg:postcode":"53511",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85812915,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405500033,
         "sg:id":"SG_1zijz5OtReOBlk4FkDCjUB_42.504409_-89.032357@1294102059"
     },
     "wof:country":"US",
     "wof:created":1461949454,
-    "wof:geomhash":"81ae65f2c386b08499482345ec70ae2a",
+    "wof:geomhash":"cba868b87e54a095ba75bb525ae17435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":740093345,
-    "wof:lastmodified":1472620873,
+    "wof:lastmodified":1534185148,
     "wof:name":"Angel Museum",
     "wof:parent_id":85812915,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.032357,
-    42.504409,
-    -89.032357,
-    42.504409
+    -89.03288,
+    42.50226,
+    -89.03288,
+    42.50226
 ],
-  "geometry": {"coordinates":[-89.032357,42.504409],"type":"Point"}
+  "geometry": {"coordinates":[-89.03288000000001,42.50226],"type":"Point"}
 }

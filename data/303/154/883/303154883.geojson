@@ -2,18 +2,24 @@
   "id": 303154883,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Canal St Ottawa IL 61350",
+    "addr:city":"Ottawa",
+    "addr:full":"1100 Canal St Ottawa, Il 61350",
+    "addr:house_number":"1100",
     "addr:housenumber":"1100",
+    "addr:phone":"+1 815-431-9353",
     "addr:postcode":"61350",
+    "addr:road":"Canal St",
+    "addr:state":"IL",
     "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.845942,41.352128,-88.845942,41.352128",
-    "geom:latitude":41.352128,
-    "geom:longitude":-88.845942,
+    "geom:bbox":"-88.84261,41.35069,-88.84261,41.35069",
+    "geom:latitude":41.35069,
+    "geom:longitude":-88.84261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1100 Canal St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 815 431 9353",
     "sg:postcode":"61350",
     "sg:province":"IL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688697,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401700056,
         "sg:id":"SG_67lkaaEbM8lsTDbLGru4XL_41.352128_-88.845942@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"d503b4b262f6051bef08fbb09c1bb4e6",
+    "wof:geomhash":"9414352bdfaaf97913737dfb1812f0de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":303154883,
-    "wof:lastmodified":1472620982,
+    "wof:lastmodified":1534185149,
     "wof:name":"Ottawa Scouting Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.845942,
-    41.352128,
-    -88.845942,
-    41.352128
+    -88.84261,
+    41.35069,
+    -88.84261,
+    41.35069
 ],
-  "geometry": {"coordinates":[-88.84594199999999,41.352128],"type":"Point"}
+  "geometry": {"coordinates":[-88.84260999999999,41.35069],"type":"Point"}
 }

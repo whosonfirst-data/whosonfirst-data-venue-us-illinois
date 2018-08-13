@@ -7,6 +7,7 @@
     "addr:postcode":"60302",
     "addr:street":"S Marion St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.802433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"216 S Marion St",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_5wrGXgjouWkkSMuxh1HCjW_41.885571_-87.802433@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c2e2fddb80c7a95123506829dff8e81",
+    "wof:geomhash":"a00be335dac267e24a8eaaf0934ee49c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":203184507,
-    "wof:lastmodified":1492103371,
+    "wof:lastmodified":1534185141,
     "wof:name":"Christopher Cronson",
     "wof:parent_id":85890873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740268577
+    ],
+    "wof:supersedes":[
+        287156183
+    ],
     "wof:tags":[
         "attorney"
     ]

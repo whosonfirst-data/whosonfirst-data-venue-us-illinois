@@ -7,6 +7,7 @@
     "addr:postcode":"60614",
     "addr:street":"N Clybourn Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.651684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 N Clybourn Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958228,
-    "wof:geomhash":"affcbb82e59f7a8da66d09acfd591dff",
+    "wof:geomhash":"c6584e3e6e77334fb59be434fee11527",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756220197,
-    "wof:lastmodified":1491371870,
+    "wof:lastmodified":1534185141,
     "wof:name":"Fast Frame of Chicago",
     "wof:parent_id":420783535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756216273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"61073",
     "addr:street":"Swanson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.990075,42.391257,-88.990075,42.391257",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.990075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6910 Swanson Rd",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7aBmUoRzUE1F30sFNCGoc8_42.391257_-88.990075@1294102059"
     },
     "wof:country":"US",
-    "wof:geomhash":"851089153ea87b27431f2831ab85ff3c",
+    "wof:geomhash":"4865f122d78e46c51d8d7b0f39986fe1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":202627279,
-    "wof:lastmodified":1472621145,
+    "wof:lastmodified":1534185146,
     "wof:name":"Custom Plastering",
     "wof:parent_id":85880451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756432851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plastering"

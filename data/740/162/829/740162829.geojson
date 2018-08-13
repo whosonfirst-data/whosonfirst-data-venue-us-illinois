@@ -7,6 +7,7 @@
     "addr:postcode":"60641",
     "addr:street":"N Milwaukee Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.72971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3382 N Milwaukee Ave",
     "sg:city":"Chicago",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951043,
-    "wof:geomhash":"2bf52616267af4b11335e0d55eedd245",
+    "wof:geomhash":"fc3bd3b7bfab7c899eed28ecddf25fb0",
     "wof:hierarchy":[
         {
             "borough_id":958020405,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740162829,
-    "wof:lastmodified":1491372261,
+    "wof:lastmodified":1534185142,
     "wof:name":"Taqueria La Oaxaquena",
     "wof:parent_id":1024496913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-il",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756342697
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
